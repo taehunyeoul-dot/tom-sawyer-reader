@@ -434,7 +434,7 @@ function lookupIdx(w){
   // ’bout, ’em 처럼 아포스트로피로 시작하는 사투리 축약형을 먼저 그대로 찾는다
   const raw=String(w).toLowerCase().replace(/[’‘]/g,"'");
   if(raw[0]==="'"&&RD.forms[raw]!==undefined)return RD.forms[raw];
-  if(raw[0]==="'"){const cut=raw.replace(/[^a-z']+$/,''); if(RD.forms[cut]!==undefined)return RD.forms[cut];}
+  if(raw[0]==="'"){const cut=raw.replace(/[^a-z]+$/,''); if(RD.forms[cut]!==undefined)return RD.forms[cut];}
   w=norm(w); if(!w)return -1;
   if(RD.forms[w]!==undefined)return RD.forms[w];
   if(w.endsWith("'s")&&RD.forms[w.slice(0,-2)]!==undefined)return RD.forms[w.slice(0,-2)];
@@ -1029,7 +1029,7 @@ function renderStats(){
   const secs=reads.reduce((a,r)=>a+r.secs,0); const cards=Object.values(S.cards); const mature=cards.filter(c=>c.iv>=21).length;
   const days=Object.keys(S.log).map(Number).sort(); let streak=0; const d=dayNum(); for(let k=d;S.log[k];k--)streak++;
   const known=Object.keys(S.known).length;
-  $('#st').innerHTML=[['완료한 장',`${chDone} / 50`],['총 읽기 시간',`${Math.round(secs/60)}분`],['읽기 횟수',reads.length],['단어 카드',cards.length],['익힌 카드(21일↑)',mature],['알아요 표시',known],['연속 학습일',`${streak}일`]].map(([k,v])=>`<div><b>${v}</b><span>${k}</span></div>`).join('');
+  $('#st').innerHTML=[['완료한 장',`${chDone} / ${CH.length}`],['총 읽기 시간',`${Math.round(secs/60)}분`],['읽기 횟수',reads.length],['단어 카드',cards.length],['익힌 카드(21일↑)',mature],['알아요 표시',known],['연속 학습일',`${streak}일`]].map(([k,v])=>`<div><b>${v}</b><span>${k}</span></div>`).join('');
   const last=reads.slice(-24); const mx=Math.max(100,...last.map(r=>r.wpm));
   $('#wpmbars').innerHTML=last.map(r=>`<i style="height:${r.wpm/mx*100}%" title="${r.n}장 ${r.wpm} WPM"><span>${r.n}장</span></i>`).join('')||'<p class="note">읽기 기록이 쌓이면 여기에 그래프가 그려집니다.</p>';
   // 전체 커버리지
