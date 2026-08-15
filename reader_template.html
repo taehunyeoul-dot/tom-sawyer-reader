@@ -20,6 +20,9 @@
   --fs:18px; --lh:1.85;
 }
 *{box-sizing:border-box}
+/* 역할 이름표(절대 위치)와 드로어가 화면 오른쪽으로 삐져나가 모바일 화면이 축소되는 것을 막는다.
+   overflow-x:clip 은 스크롤 상자를 만들지 않으므로 sticky(상단 탭·도구막대)가 그대로 동작한다. */
+html{overflow-x:clip}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
 button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
 button{cursor:pointer}
@@ -112,7 +115,8 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .text.guide .tk.gS{border-bottom:3px solid #6aa87e;background:#e6f2ea}
 .text.guide .tk.gV{border-bottom:3px solid #d1826c;background:#fbe4dc}
 .text .gb{display:inline-block;width:1px;height:.95em;background:#b9a57d;margin:0 5px 0 4px;vertical-align:-2px;position:relative}
-.text .gb i{position:absolute;left:1px;top:-1.15em;font-family:var(--sans);font-style:normal;font-size:9.5px;line-height:1;color:#7d6a4a;white-space:nowrap;background:rgba(255,253,248,.85);padding:0 2px;border-radius:2px}
+.text{overflow-x:clip}
+.text .gb i{position:absolute;left:1px;top:-1.15em;max-width:16ch;overflow:hidden;text-overflow:ellipsis;font-family:var(--sans);font-style:normal;font-size:9.5px;line-height:1;color:#7d6a4a;white-space:nowrap;background:rgba(255,253,248,.85);padding:0 2px;border-radius:2px}
 .text .gb.nest{background:#d9cdb2}
 .text .gb.nest i{color:#a89673}
 .text.guide.roles p{line-height:calc(var(--lh) + .55)}
