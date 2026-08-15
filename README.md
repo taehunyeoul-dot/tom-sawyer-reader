@@ -3,7 +3,10 @@
 Mark Twain, *The Adventures of Tom Sawyer* (1876) 전문을 **읽으면서 영어 독해력을 키우는 웹 앱**입니다.
 파일 하나(`index.html`)로 완결되며, 설치·인터넷 연결 없이 브라우저에서 바로 열립니다.
 
-> **바로 쓰기** → `index.html` 을 더블클릭하거나, GitHub Pages 로 올려서 휴대폰에서 여세요 (아래 "휴대폰에서 쓰기" 참고).
+> ## 👉 **바로 열기: https://taehunyeoul-dot.github.io/tom-sawyer-reader/**
+>
+> 휴대폰에서 이 주소를 열고 브라우저 메뉴의 **"홈 화면에 추가"** 를 누르면 앱처럼 쓸 수 있습니다.
+> PC에서는 `index.html` 을 더블클릭해도 똑같이 동작합니다.
 
 만든 이유: 영어 독해력의 약점이 **① 어휘 부족 ② 문장 구조 파악**일 때, 그 두 가지를 소설을 읽는 흐름 안에서 해결하려고 만들었습니다.
 어떤 근거로 어떤 기능을 넣었는지는 [docs/독해기법_근거보고서.md](docs/독해기법_근거보고서.md) 에 정리했습니다.
@@ -38,20 +41,15 @@ Mark Twain, *The Adventures of Tom Sawyer* (1876) 전문을 **읽으면서 영�
 
 ## 2. 휴대폰에서 쓰기 (GitHub Pages)
 
-이 저장소를 GitHub 에 올리면 어디서든 주소 하나로 열 수 있습니다.
+**이미 올라가 있습니다** → https://taehunyeoul-dot.github.io/tom-sawyer-reader/
+
+휴대폰 브라우저에서 위 주소를 열고 메뉴의 **"홈 화면에 추가"** 를 누르면 아이콘이 생기고 앱처럼 열립니다.
+
+앞으로 내용을 고친 뒤에는 이렇게 올리면 1~2분 뒤 자동으로 반영됩니다.
 
 ```bash
-git remote add origin https://github.com/<내계정>/tom-sawyer-reader.git
-git branch -M main
-git push -u origin main
+git add -A && git commit -m "설명" && git push
 ```
-
-그 다음 GitHub 저장소 페이지에서:
-
-1. **Settings** → 왼쪽 메뉴 **Pages**
-2. *Build and deployment* → Source: **Deploy from a branch**
-3. Branch: **main** / 폴더: **/ (root)** → **Save**
-4. 1~2분 뒤 `https://<내계정>.github.io/tom-sawyer-reader/` 로 접속
 
 휴대폰에서 그 주소를 연 뒤 브라우저 메뉴의 **"홈 화면에 추가"** 를 누르면 앱처럼 쓸 수 있고,
 한 번 열어 두면 오프라인(지하철 등)에서도 열립니다(서비스 워커가 캐시).
