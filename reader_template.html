@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2b2822">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="톰 소여 리더">
+<meta name="description" content="The Adventures of Tom Sawyer를 읽으면서 영어 독해력을 키우는 학습용 리더 — 단어 뜻, 문장 구조 가이드, 간격 반복 복습">
+<link rel="manifest" href="manifest.webmanifest">
+<title>톰 소여의 모험 리더 — 읽으면서 배우는 영어</title>
+<style>
+:root{
+  --bg:#f6f3ec; --panel:#fffdf8; --ink:#2b2822; --muted:#7d7566; --line:#e2dbcc;
+  --accent:#8a5a2b; --accent2:#3f6b52; --chip:#efe9dc; --soft:#f0ebe0;
+  --l1:#5b8c6e; --l2:#b8862f; --l3:#a1503a; --blue:#3b5b8c; --red:#a1503a;
+  --serif:Georgia,"Times New Roman","Noto Serif",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
+  --fs:18px; --lh:1.85;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
+button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
+button{cursor:pointer}
+header{background:linear-gradient(135deg,#2b2822,#4a3f31);color:#f6f3ec;padding:14px 18px 12px}
+header .wrap{max-width:1180px;margin:0 auto;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+header h1{margin:0;font-size:18px;letter-spacing:-.01em}
+header .sub{opacity:.72;font-size:12.5px}
+header .today{margin-left:auto;font-size:12.5px;opacity:.9}
+nav{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}
+nav .wrap{max-width:1180px;margin:0 auto;display:flex;gap:2px;padding:0 10px;overflow-x:auto}
+nav button{background:none;border:0;padding:12px 15px;font-size:14px;font-weight:600;color:var(--muted);
+  border-bottom:2px solid transparent;white-space:nowrap}
+nav button.on{color:var(--accent);border-bottom-color:var(--accent)}
+nav .badge{display:inline-block;min-width:18px;padding:0 5px;border-radius:9px;background:var(--red);color:#fff;font-size:11px;margin-left:4px;line-height:18px}
+main{max-width:1180px;margin:0 auto;padding:14px 12px 80px}
+section.tab{display:none}section.tab.on{display:block}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:14px}
+.card h3{margin:0 0 8px;font-size:16px}
+.card h4{margin:14px 0 6px;font-size:14px;color:var(--accent)}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{background:var(--chip);border:1px solid var(--line);border-radius:20px;padding:5px 11px;font-size:13px;color:var(--muted);user-select:none}
+.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.btn{background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:8px 14px;font-size:13.5px}
+.btn:hover{background:var(--soft)}
+.btn.pri{background:var(--accent);color:#fff;border-color:var(--accent)}
+.btn.pri:hover{background:#74491f}
+.btn.grn{background:var(--accent2);color:#fff;border-color:var(--accent2)}
+.btn.sm{padding:4px 9px;font-size:12px}
+.btn:disabled{opacity:.4;cursor:default}
+.note{font-size:12.5px;color:var(--muted)}
+.muted{color:var(--muted)}
+.lv{display:inline-block;width:18px;height:18px;line-height:18px;text-align:center;border-radius:50%;font-size:10.5px;font-weight:700;color:#fff;vertical-align:middle}
+.lv1{background:var(--l1)}.lv2{background:var(--l2)}.lv3{background:var(--l3)}.lv0{background:#aaa}
+.hide{display:none!important}
+.meter{height:10px;background:var(--soft);border-radius:5px;overflow:hidden;border:1px solid var(--line)}
+.meter i{display:block;height:100%;background:var(--accent2)}
+.meter i.warn{background:var(--l2)}
+.meter i.bad{background:var(--l3)}
+textarea{width:100%;min-height:70px;border:1px solid var(--line);border-radius:7px;padding:8px;background:#fff;resize:vertical}
+input[type=text],input[type=search]{border:1px solid var(--line);border-radius:7px;padding:8px 10px;background:#fff}
+input[type=range]{vertical-align:middle}
+kbd{font-family:var(--serif);background:var(--soft);padding:0 4px;border-radius:3px}
+/* ---- 읽기 레이아웃 */
+.readwrap{display:grid;grid-template-columns:230px 1fr;gap:14px;align-items:start}
+aside.chl{position:sticky;top:52px;max-height:calc(100vh - 62px);overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px}
+aside.chl button{display:flex;width:100%;gap:8px;align-items:center;background:none;border:0;text-align:left;padding:6px 8px;border-radius:6px;font-size:13px}
+aside.chl button:hover{background:var(--soft)}
+aside.chl button.on{background:var(--chip);font-weight:700}
+aside.chl .n{width:24px;color:var(--muted);font-variant-numeric:tabular-nums}
+aside.chl .st{margin-left:auto;font-size:11px}
+aside.chl .st.done{color:var(--accent2)}
+aside.chl .mini{height:3px;background:var(--soft);border-radius:2px;margin:2px 8px 6px 40px;overflow:hidden}
+aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
+.chsel{display:none;margin-bottom:10px}
+.phases{display:flex;gap:4px;margin-bottom:12px;flex-wrap:wrap}
+.phases button{flex:1;min-width:120px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:9px 6px;font-size:13.5px;font-weight:600;color:var(--muted)}
+.phases button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.phases button.done::after{content:" ✓";color:#cfe8d5}
+.phases button.on.done::after{color:#fff}
+/* ---- 본문 */
+.toolbar{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:8px 10px;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:12px;position:sticky;top:46px;z-index:20;font-size:12.5px}
+.toolbar label{display:flex;gap:4px;align-items:center;color:var(--muted);white-space:nowrap}
+.toolbar .timer{margin-left:auto;font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent)}
+.toolbar .adv{display:contents}
+.text{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:28px 34px 40px;font-family:var(--serif);font-size:var(--fs);line-height:var(--lh)}
+.text .chno{font-family:var(--sans);text-align:center;color:var(--muted);font-size:13px;letter-spacing:.2em;margin-bottom:6px}
+.text .epi{white-space:pre-line;color:#5c5446;font-style:italic;text-align:center;font-size:.9em;margin:0 auto 4px;max-width:520px}
+.text .by{text-align:center;color:var(--muted);font-size:.78em;font-family:var(--sans);margin-bottom:28px}
+.text p{margin:0 0 .35em;text-indent:1.4em}
+.text p:first-of-type{text-indent:0}
+.text .s{border-radius:3px;transition:background .15s}
+.text .s:hover{background:#f7f2e4}
+.text .s.speaking{background:#fff2c2}
+.text .s.bm{box-shadow:inset 3px 0 0 var(--l2)}
+.text .s.hasan{border-bottom:2px dotted #b99a6b}
+.text .tk{cursor:pointer;border-radius:2px}
+.text .tk:hover{background:#efe4c8}
+.text .tk.lk{border-bottom:2px solid #d9c48f}
+.text .tk.incd{border-bottom:2px solid var(--l1)}
+.text.showhard .tk.hd{background:#fbf3d9}
+.text .tk.hard{background:#fbf3d9}
+.text .tag{font-family:var(--sans);font-size:10px;vertical-align:super;color:var(--blue);margin-left:1px;opacity:.75;cursor:pointer;user-select:none}
+.text .cb{display:inline-block;width:1px;height:.9em;background:#c9b48a;margin:0 4px 0 3px;vertical-align:-2px}
+.text .an{font-family:var(--sans);font-size:11px;color:#8a5a2b;cursor:pointer;margin-left:2px;vertical-align:1px}
+.text .dim{opacity:.32}
+.text .end{font-family:var(--sans);text-align:center;margin-top:34px;padding-top:20px;border-top:1px dashed var(--line);font-size:14px}
+.text .chtitle{font-family:var(--serif);text-align:center;font-size:1.05em;color:#4d463a;margin:0 auto 26px;max-width:640px;line-height:1.5}
+.text .fn{font-family:var(--sans);font-size:.72em;color:var(--muted);margin:-.1em 0 .6em 1.4em;text-indent:0}
+/* ---- 구조 가이드 (자동 분석) */
+.text.guide .tk.gS{border-bottom:3px solid #6aa87e;background:#e6f2ea}
+.text.guide .tk.gV{border-bottom:3px solid #d1826c;background:#fbe4dc}
+.text .gb{display:inline-block;width:1px;height:.95em;background:#b9a57d;margin:0 5px 0 4px;vertical-align:-2px;position:relative}
+.text .gb i{position:absolute;left:1px;top:-1.15em;font-family:var(--sans);font-style:normal;font-size:9.5px;line-height:1;color:#7d6a4a;white-space:nowrap;background:rgba(255,253,248,.85);padding:0 2px;border-radius:2px}
+.text .gb.nest{background:#d9cdb2}
+.text .gb.nest i{color:#a89673}
+.text.guide.roles p{line-height:calc(var(--lh) + .55)}
+.glegend{font-family:var(--sans);font-size:12px;color:var(--muted);text-align:center;margin:0 0 14px}
+.glegend b{font-weight:600;padding:0 5px;border-radius:2px}
+.glegend .s{border-bottom:3px solid #6aa87e;background:#e6f2ea}.glegend .v{border-bottom:3px solid #d1826c;background:#fbe4dc}
+/* ---- 아래 이동 바 (모바일) */
+.bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
+.progress{position:fixed;left:0;top:0;height:3px;background:var(--accent2);width:0;z-index:40;transition:width .15s}
+.totop{position:fixed;right:14px;bottom:18px;width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
+/* ---- 주어·동사 퀴즈 */
+.qz2 .qs{font-family:var(--serif);font-size:19px;line-height:1.9;background:var(--soft);padding:14px 16px;border-radius:8px}
+.qz2 .qs .qw{cursor:pointer;border-radius:3px;padding:1px 2px}
+.qz2 .qs .qw:hover{background:#efe4c8}
+.qz2 .qs .qw.pickS{background:#e6f2ea;border-bottom:3px solid #6aa87e}
+.qz2 .qs .qw.pickV{background:#fbe4dc;border-bottom:3px solid #d1826c}
+.qz2 .qs .qw.ansS{outline:2px dashed #6aa87e;outline-offset:1px}
+.qz2 .qs .qw.ansV{outline:2px dashed #d1826c;outline-offset:1px}
+.qz2 .step{font-weight:600;margin:10px 0 6px}
+.qz2 .fb{min-height:22px;margin-top:8px}
+.roles-table{width:100%;font-size:13px;margin-top:6px}
+.roles-table td{padding:5px 6px}
+.roles-table .en{font-family:var(--serif);font-size:15px}
+.roles-table .r{color:var(--blue);white-space:nowrap;font-size:12px}
+.roles-table .r.nest{color:#a89673}
+.roles-table .r.nest::before{content:"↳ ";}
+.roles-table tr.S td.en{box-shadow:inset 3px 0 0 #6aa87e;padding-left:8px}
+.roles-table tr.V td.en{box-shadow:inset 3px 0 0 #d1826c;padding-left:8px}
+/* ---- 단어 표 */
+table{width:100%;border-collapse:collapse}
+th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top;font-size:13.5px}
+th{font-size:11.5px;color:var(--muted);font-weight:600}
+td .w{font-family:var(--serif);font-size:16px;font-weight:600}
+td .fm{font-size:11px;color:var(--muted);font-family:var(--serif)}
+td .pos{font-family:var(--serif);font-style:italic;color:var(--muted);font-size:12px}
+tr.known td{opacity:.45}
+tr.incard td .w{color:var(--accent2)}
+.ex{font-family:var(--serif);font-size:14px;color:#4d463a;background:var(--soft);padding:8px 11px;border-radius:6px;margin-top:6px;border-left:3px solid var(--accent2)}
+.ex b{background:#ffe9a8;font-weight:700;padding:0 1px;border-radius:2px}
+/* ---- 팝오버(단어) */
+#pop{position:absolute;z-index:60;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 28px rgba(0,0,0,.14);padding:12px 14px;width:min(360px,calc(100vw - 20px));display:none;font-size:13.5px}
+#pop .w{font-family:var(--serif);font-size:22px;font-weight:700}
+#pop .pos{font-family:var(--serif);font-style:italic;color:var(--muted);margin-left:6px}
+#pop .m{font-size:15px;margin:4px 0}
+#pop .meta{font-size:12px;color:var(--muted)}
+#pop .acts{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+#pop .x{position:absolute;right:8px;top:6px;border:0;background:none;font-size:16px;color:var(--muted)}
+/* ---- 드로어(문장) */
+#drawer{position:fixed;right:0;top:0;bottom:0;width:min(520px,100vw);background:var(--panel);border-left:1px solid var(--line);
+  box-shadow:-8px 0 30px rgba(0,0,0,.12);z-index:70;transform:translateX(105%);transition:transform .22s;overflow:auto;padding:16px 18px 40px}
+#drawer.on{transform:none}
+#drawer .x{position:sticky;top:0;float:right;border:0;background:var(--chip);border-radius:50%;width:30px;height:30px;font-size:16px}
+#drawer h3{margin:4px 0 10px;font-size:15px;color:var(--accent)}
+#drawer .sent{font-family:var(--serif);font-size:17px;line-height:1.7;background:var(--soft);padding:12px 14px;border-radius:8px}
+#drawer .sent .S{background:#dbeee0;border-bottom:2px solid var(--l1);padding:0 2px;border-radius:2px}
+#drawer .sent .V{background:#fde3d8;border-bottom:2px solid var(--l3);padding:0 2px;border-radius:2px}
+#drawer .sent .dim{opacity:.32}
+#drawer .legend{font-size:12px;color:var(--muted);margin:6px 0 0}
+#drawer .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin:0 3px 0 8px;vertical-align:-1px}
+.chunks{margin-top:10px}
+.chunks .ck{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:7px 8px;border-bottom:1px solid var(--line);font-size:14px}
+.chunks .ck:nth-child(odd){background:#faf7ef}
+.chunks .ck .en{font-family:var(--serif);font-size:15px}
+.chunks .ck .en.S{box-shadow:inset 3px 0 0 var(--l1);padding-left:6px}
+.chunks .ck .en.V{box-shadow:inset 3px 0 0 var(--l3);padding-left:6px}
+.chunks .ck .r{display:block;font-size:11px;color:var(--blue);margin-top:2px}
+.chunks .ck .ko{color:#4d463a}
+.auto{font-family:var(--serif);font-size:15.5px;line-height:1.9;margin-top:6px}
+.auto .cb{display:inline-block;width:1px;height:.9em;background:#c9b48a;margin:0 5px 0 4px;vertical-align:-2px}
+.stag{display:inline-block;background:#e9eef7;color:var(--blue);border-radius:6px;padding:3px 8px;font-size:12px;margin:3px 4px 0 0;cursor:pointer;border:1px solid #d3dcec}
+.stag:hover{background:#dde6f4}
+.tip{background:#eaf1ec;border-left:3px solid var(--accent2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
+.why{background:#fdf5e4;border-left:3px solid var(--l2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
+.ko-full{margin-top:10px;padding:10px 12px;background:#f3f6f9;border-radius:6px;font-size:14px}
+/* ---- 문장구조 */
+.sc{padding:14px 16px}
+.sc .cat{display:inline-block;font-size:11px;background:var(--chip);color:var(--muted);padding:2px 9px;border-radius:12px;margin-right:6px}
+.formula{font-family:var(--serif);background:var(--soft);padding:9px 12px;border-radius:6px;margin:10px 0;font-size:14px}
+.sc .en{font-family:var(--serif);font-size:15px;margin-top:10px}
+.sc .ko{color:#5c5446;font-size:14px;margin-top:3px;padding-left:10px;border-left:2px solid var(--line)}
+.sc .more{margin-top:8px}
+.sc .hit{font-family:var(--serif);font-size:14px;padding:6px 8px;border-bottom:1px dashed var(--line);cursor:pointer}
+.sc .hit:hover{background:var(--soft)}
+.sc .hit .loc{font-family:var(--sans);font-size:11px;color:var(--muted);margin-right:6px}
+/* ---- 복습 */
+.rv{max-width:640px;margin:0 auto;text-align:center;padding:16px 10px 8px}
+.rv .front{font-family:var(--serif);font-size:38px;font-weight:700;margin:6px 0 2px}
+.rv .pos{font-family:var(--serif);font-style:italic;color:var(--muted)}
+.rv .ctx{font-family:var(--serif);font-size:16px;line-height:1.7;background:var(--soft);padding:12px 14px;border-radius:8px;margin:14px 0;text-align:left}
+.rv .ctx b{background:#ffe9a8;padding:0 2px;border-radius:2px}
+.rv .ctx .blank{display:inline-block;min-width:80px;border-bottom:2px solid var(--accent);text-align:center;color:var(--accent);font-family:var(--sans);font-size:13px}
+.rv .back{font-size:20px;margin:6px 0}
+.rv .grades{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:12px}
+.rv .grades button{min-width:96px;padding:10px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);font-size:14px}
+.rv .grades button small{display:block;font-size:11px;color:var(--muted);font-weight:400}
+.rv .grades .g1{border-color:var(--l3);color:var(--l3)}
+.rv .grades .g3{border-color:var(--l2);color:var(--l2)}
+.rv .grades .g4{border-color:var(--accent2);color:var(--accent2)}
+.rv .grades .g5{border-color:var(--blue);color:var(--blue)}
+.rv input[type=text]{font-family:var(--serif);font-size:20px;text-align:center;width:min(320px,90%);padding:8px}
+.rv .fb{font-size:15px;margin-top:8px;min-height:22px}
+.stat{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
+.stat div{background:var(--chip);border-radius:8px;padding:12px;text-align:center}
+.stat b{display:block;font-size:22px;font-family:var(--serif)}
+.stat span{font-size:12px;color:var(--muted)}
+.bars{display:flex;gap:3px;align-items:flex-end;height:80px;margin-top:8px}
+.bars i{flex:1;background:var(--accent2);border-radius:2px 2px 0 0;min-width:4px;position:relative}
+.bars i span{position:absolute;bottom:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--muted)}
+.qbox{border:1px solid var(--line);border-radius:8px;padding:12px;margin-bottom:10px;background:#fff}
+.qbox .q{font-weight:600}
+.qbox .a{background:#eaf1ec;padding:8px 10px;border-radius:6px;margin-top:8px;font-size:14px}
+.qbox .t{font-size:11px;color:var(--muted);margin-left:6px;font-weight:400}
+.help h4{margin:16px 0 4px;color:var(--accent)}
+.help ol,.help ul{padding-left:20px}
+.help li{margin-bottom:5px}
+.help .ev{font-size:12.5px;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#2b2822;color:#fff;padding:10px 16px;border-radius:8px;font-size:13.5px;z-index:90;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:.95}
+@media(max-width:860px){
+  .readwrap{grid-template-columns:1fr}
+  aside.chl{display:none}
+  .chsel{display:block;width:100%;padding:9px 10px;font-size:14px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+  .text{padding:16px 14px 30px;border-radius:8px}
+  .toolbar{top:44px;padding:6px 8px;gap:4px 8px}
+  .toolbar .adv{display:none;width:100%;gap:6px 10px;flex-wrap:wrap}
+  .toolbar.open .adv{display:flex}
+  .toolbar .timer{margin-left:auto}
+  #drawer{width:100vw;top:auto;bottom:0;max-height:78vh;transform:translateY(105%);border-left:0;border-top:1px solid var(--line);border-radius:14px 14px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.18);padding:10px 14px 30px}
+  #drawer.on{transform:none}
+  #drawer::before{content:"";display:block;width:40px;height:4px;border-radius:2px;background:#cfc6b3;margin:0 auto 8px}
+  .chunks .ck{grid-template-columns:1fr}
+  main{padding:10px 8px 70px}
+  .phases button{min-width:0;font-size:12.5px;padding:8px 4px}
+  .totop{display:block}
+  .rv .front{font-size:32px}
+  nav button{padding:11px 10px;font-size:13px}
+}
+@media(min-width:861px){
+  .toolbar .advtog{display:none}
+}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>톰 소여의 모험 리더</h1>
+  <span class="sub">Mark Twain, <i>The Adventures of Tom Sawyer</i> (1876) · 36장 · 읽기 전 → 읽기 → 읽은 후 · 문장 구조 가이드 · 단어는 간격 반복으로</span>
+  <span class="today" id="hdr"></span>
+</div></header>
+<div class="progress" id="prog"></div>
+<button class="totop" id="totop" title="맨 위로">↑</button>
+
+<nav><div class="wrap">
+  <button class="on" data-t="read">📖 읽기</button>
+  <button data-t="srs">🗂 단어 복습<span class="badge hide" id="dueBadge">0</span></button>
+  <button data-t="struct">🧩 문장구조</button>
+  <button data-t="stats">📊 기록</button>
+  <button data-t="help">❓ 사용법·근거</button>
+</div></nav>
+
+<main>
+<!-- ================= 읽기 ================= -->
+<section class="tab on" id="t-read">
+  <div class="readwrap">
+    <aside class="chl" id="chl"></aside>
+    <div>
+      <select class="chsel" id="chsel"></select>
+      <div class="phases">
+        <button data-p="pre">1 · 읽기 전 (단어 미리보기)</button>
+        <button data-p="read">2 · 읽기</button>
+        <button data-p="post">3 · 읽은 후 (확인·요약)</button>
+      </div>
+      <div id="pane"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= 단어 복습 ================= -->
+<section class="tab" id="t-srs">
+  <div class="card">
+    <div class="row">
+      <h3 style="margin:0">단어 복습 (간격 반복)</h3>
+      <span class="chip" id="srsInfo"></span>
+      <span style="margin-left:auto"></span>
+      <label class="note">방식
+        <select id="srsMode"><option value="rec">뜻 떠올리기 (자기 채점)</option><option value="type">철자 쓰기 (빈칸 채우기)</option></select>
+      </label>
+      <button class="btn sm" id="srsAddFreq">추천 단어 자동 추가</button>
+      <button class="btn sm" id="srsManage">카드 목록·관리</button>
+    </div>
+    <div class="rv" id="rv"></div>
+  </div>
+  <div class="card hide" id="manage">
+    <h3>카드 목록</h3>
+    <div class="row" style="margin-bottom:8px">
+      <input type="search" id="mq" placeholder="단어·뜻 검색" style="flex:1;min-width:160px">
+      <select id="mfilter"><option value="all">전체</option><option value="due">오늘 복습</option><option value="new">새 카드</option><option value="mature">익힌 카드(21일↑)</option></select>
+      <span class="note" id="mcnt"></span>
+    </div>
+    <div style="max-height:420px;overflow:auto"><table><thead><tr><th>단어</th><th>뜻</th><th>다음 복습</th><th>간격</th><th></th></tr></thead><tbody id="mtb"></tbody></table></div>
+    <h4>단어 찾아 추가하기</h4>
+    <div class="row"><input type="search" id="addq" placeholder="영어 단어 입력 (예: scrutinise)" style="flex:1;min-width:160px"><span class="note">소설 어휘 8,989개에서 찾습니다</span></div>
+    <div id="addres"></div>
+  </div>
+</section>
+
+<!-- ================= 문장구조 ================= -->
+<section class="tab" id="t-struct">
+  <div class="card">
+    <h3 style="margin:0 0 4px">이 소설의 문장구조 18유형</h3>
+    <p class="note" style="margin:0">각 유형의 설명 아래 <b>"본문에서 찾기"</b>를 누르면 실제 문장이 나오고, 문장을 누르면 그 자리로 이동합니다. 본문을 읽다가 문장을 눌렀을 때 뜨는 유형 표시도 여기로 연결됩니다.</p>
+  </div>
+  <div class="card">
+    <h3 style="margin:0 0 4px">연습 — 주어·동사 찾기 (지금 읽는 장에서)</h3>
+    <p class="note" style="margin:0 0 8px">문장 구조 파악의 출발점은 <b>주절의 주어와 동사</b>를 찾는 것입니다. 하루 5문장이면 충분합니다.</p>
+    <div id="qzbox2"><button class="btn" id="qzStart2">시작</button></div>
+  </div>
+  <div id="sw"></div>
+</section>
+
+<!-- ================= 기록 ================= -->
+<section class="tab" id="t-stats">
+  <div class="card"><h3>진행 상황</h3><div class="stat" id="st"></div>
+    <h4>읽기 속도(분당 단어 수, WPM) — 최근 읽기 기록</h4>
+    <div class="bars" id="wpmbars"></div><div style="height:18px"></div>
+    <p class="note">중급 학습자는 보통 100~150 WPM 근처에서 시작합니다. 같은 장을 두 번 읽으면(반복 읽기) 두 번째는 눈에 띄게 빨라지는 것이 정상이며, 그 경험이 쌓여 첫 읽기 속도도 올라갑니다. 목표는 편안하게 200 WPM 안팎.</p>
+  </div>
+  <div class="card"><h3>어휘 커버리지 추정</h3><div id="covall"></div>
+    <p class="note">소설 전체 단어(연인원 15만)를 기준으로, 기초 어휘(레벨 1)+고유명사+내가 "알아요"로 표시한 단어+복습에서 익힌 단어가 차지하는 비율입니다. 연구에서는 <b>95%</b>가 "읽어낼 수 있는 최소선", <b>98%</b>가 "편하게 읽히는 선"입니다.</p>
+  </div>
+  <div class="card"><h3>내 기록 백업</h3>
+    <div class="row">
+      <button class="btn" id="exp">기록 내보내기 (파일 저장)</button>
+      <label class="btn">기록 불러오기 <input type="file" id="imp" accept=".json" class="hide"></label>
+      <button class="btn" id="reset" style="color:var(--red)">전부 지우기</button>
+    </div>
+    <p class="note">기록(읽은 장, 단어 카드, 복습 일정, 답안)은 이 브라우저 안에만 저장됩니다. 다른 컴퓨터로 옮기거나 브라우저 데이터를 지우기 전에는 <b>내보내기</b>로 파일을 받아 두세요.</p>
+  </div>
+</section>
+
+<!-- ================= 사용법 ================= -->
+<section class="tab" id="t-help">
+  <div class="card help">
+    <h3>이 앱은 어떤 원리로 만들었나</h3>
+    <p>영어 독해력은 <b>① 어휘</b> ② <b>문장(구조) 처리</b> ③ 읽기 유창성(속도) ④ 이해 전략의 네 축으로 설명됩니다. 아래는 이 앱의 기능이 어떤 검증된 방법에 대응하는지입니다. (근거 문헌은 저장소의 <i>docs/독해기법_근거보고서.md</i>)</p>
+    <h4>0) 문장 구조 가이드 — 이 앱의 핵심 (초기 훈련 모드)</h4>
+    <p>본문의 <b>모든 문장</b>에 주절의 <span style="border-bottom:3px solid #6aa87e;background:#e6f2ea;padding:0 3px">주어</span>와 <span style="border-bottom:3px solid #d1826c;background:#fbe4dc;padding:0 3px">동사</span>를 표시하고, 의미 단위 경계( | )와 그 역할(전치사구·부사절·관계절·분사구문 …)을 붙였습니다(컴퓨터 구문 분석, 약 9할 정확). 문장을 누르면 의미 단위 표와 역할 설명이 나오고, 1~12장의 어려운 문장에는 튜터가 직접 쓴 분석·번역이 있습니다.</p>
+    <p><b>왜 초기에 도움이 되나:</b> L2 독해에서 문법·통사 지식은 어휘만큼이나(상관 r≈.85) 이해도를 결정하고(Jeon &amp; Yamashita 2014), 문장 수준의 명시적 지도가 특히 긴 문장·삽입절에서 효과가 있습니다(Scott 2009; Zipoli 2017). 구 단위 경계 표시(phrase-cued text)는 읽기가 서툰 독자의 유창성·이해를 돕습니다(Casteel 1988; LeVasseur 2006).</p>
+    <p><b>단, 발판은 걷어내야 합니다.</b> 가이드에 계속 기대면 스스로 파싱하는 힘이 늘지 않고 읽기 속도도 안 붙습니다. 권장 순서: <b>1~7장 "모든 문장" → 8~15장 "긴 문장만" → 이후 "끔"</b>(막히는 문장만 눌러서 확인). 매 장 끝의 <b>주어·동사 찾기 퀴즈</b>에서 8/10 이상이 이어지면 한 단계 줄이세요. 7장을 넘기면 앱이 한 번 알려 줍니다.</p>
+    <h4>1) 읽기 전 — 단어 미리보기 (어휘 커버리지 98% 원칙)</h4>
+    <p>본문 단어의 <b>98%</b>를 알면 편하게 읽히고 95% 아래면 이해가 무너집니다(Hu &amp; Nation 2000; Nation 2006). 장을 열면 <b>그 장의 낯선 단어를 빈도순으로</b> 보여주고 몇 개를 익히면 98%가 되는지 계산합니다. 처음 한 번 <b>어휘 수준 점검</b>(레벨 2 단어 20개)을 하면 목록이 내 수준에 맞게 줄어듭니다.</p>
+    <h4>2) 읽는 중 — 단어를 누르면 뜻(L1 글로스), 문장을 누르면 구조</h4>
+    <p>모국어 뜻풀이를 즉시 볼 수 있는 글로스 읽기는 이해와 우연적 어휘 습득을 모두 높입니다(Yanagisawa·Webb·Uchihara 2020). <b>전체 번역은 넣지 않았습니다</b> — 영어를 읽는 훈련이 목적입니다. 어려운 문장은 구조 가이드·곁말 흐리게·튜터 분석으로 풀고, <b>읽어주기</b>(🔊, 미국 억양 우선)로 듣기+읽기 병행도 됩니다(Webb &amp; Chang 2012).</p>
+    <h4>3) 읽은 후 — 질문·요약·예측 (이해 전략, 시험 효과)</h4>
+    <p>예측 → 질문 → 요약(상보적 교수, Palincsar &amp; Brown 1984; NRP 2000). 정답을 보기 전에 먼저 써 보는 것이 핵심입니다(Roediger &amp; Karpicke 2006).</p>
+    <h4>4) 단어 복습 — 간격 반복 + 인출 연습</h4>
+    <p>SM-2 간격 반복(Anki 계열)에 <b>소설 속 실제 문장</b>을 앞면에. "철자 쓰기" 모드는 더 힘들지만 더 오래 남습니다(Cepeda 2006; Karpicke &amp; Roediger 2008; Laufer &amp; Hulstijn 2001).</p>
+    <h4>5) 읽기 속도 — 시간 재기와 반복 읽기</h4>
+    <p>같은 장을 두 번 읽으면 두 번째는 훨씬 빨리 읽힙니다(Taguchi 2004; Chang 2010). 앱이 시간·WPM을 기록합니다. 소설 원문 기준 현실적 목표는 150~200 WPM.</p>
+    <h4>6) 왜 이 소설인가</h4>
+    <p><i>톰 소여의 모험</i>(1876)은 문장이 짧고 사건이 분명해 입문용으로 자주 권장되지만, 19세기 미국 시골 구어(warn't, gwine, 'bout)와 트웨인 특유의 긴 서술문·세미콜론이 있어 <b>구조를 보는 눈</b>을 기르기에 알맞습니다. 앞 5장이 가장 낯설고 10장을 넘기면 눈에 띄게 편해집니다(같은 작가·인물이 반복되는 "좁은 읽기"의 효과, Krashen; Cho &amp; Krashen 1994).</p>
+    <h4>화면 조작 요령</h4>
+    <ul>
+      <li>본문에서 <b>단어</b>를 누르면 뜻 팝업, <b>문장의 빈 곳(또는 세로선·번호)</b>을 누르면 문장 패널(휴대폰은 아래에서 올라옴). 🔍 표시 = 튜터 분석 있음.</li>
+      <li>도구 막대: <b>구조 가이드</b>(모든 문장/긴 문장만/끔), <b>역할 이름</b>(경계선 위 작은 글씨), 🔊 읽어주기, ⚙ 도구(글자 크기·줄간격·태그·새 단어 강조·속도).</li>
+      <li>[1.14.0] 같은 번호 = 1장 · 14번째 문단 · 첫 문장. 확인 질문의 근거 번호와 같습니다.</li>
+      <li>단어 복습 키보드: <kbd>Space</kbd> 뜻 보기, <kbd>1</kbd>~<kbd>4</kbd> 채점, 철자 모드 <kbd>Enter</kbd>.</li>
+      <li>진행 기록은 이 브라우저(기기)에만 저장됩니다. 다른 기기로 옮기려면 <b>기록 탭 → 내보내기/불러오기</b>. 휴대폰에서는 브라우저 메뉴의 "홈 화면에 추가"로 앱처럼 쓸 수 있습니다.</li>
+    </ul>
+    <h4>추천 루틴 (하루 30~40분)</h4>
+    <ol>
+      <li><b>단어 복습</b>: 오늘 복습분 (5~10분)</li>
+      <li><b>읽기 전</b>: 새 단어 훑기(알아요/카드), 예측 한 줄 (5분)</li>
+      <li><b>읽기</b>: 타이머 켜고 끝까지. 구조 가이드는 초기엔 "모든 문장", 막히는 문장만 눌러 자세히 (15~20분)</li>
+      <li><b>읽은 후</b>: 질문 → 주어·동사 퀴즈 5문장 → 요약 (5~8분)</li>
+      <li>여유가 있으면 같은 장 다시 읽기(반복 읽기)</li>
+    </ol>
+    <p class="ev">본문: Project Gutenberg eBook #74 (Mark Twain, 1876, 저작권 만료). 이 앱은 개인 학습용입니다.</p>
+  </div>
+</section>
+</main>
+
+<div id="pop"><button class="x" onclick="hidePop()">×</button><div id="popc"></div></div>
+<div id="drawer"><button class="x" onclick="closeDrawer()">×</button><div id="drc"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+const BOOK=/*__BOOK__*/;
+const VOCAB=/*__VOCAB__*/;
+const RD=/*__RD__*/;
+const STRUCT=/*__STRUCT__*/;
+const ANALYSES=/*__ANALYSES__*/;
+const GUIDES=/*__GUIDES__*/;
+const SYNTAX=/*__SYNTAX__*/;
+
+/* ================= 공통 ================= */
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const dayNum=()=>Math.floor((Date.now()-new Date().getTimezoneOffset()*60000)/86400000);
+const dstr=d=>{const x=new Date((d*86400000)+new Date().getTimezoneOffset()*60000);return `${x.getMonth()+1}/${x.getDate()}`;};
+const fmtT=s=>`${String(Math.floor(s/60)).padStart(2,'0')}:${String(s%60).padStart(2,'0')}`;
+function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');clearTimeout(t._t);t._t=setTimeout(()=>t.classList.remove('on'),1800);}
+const KEY='ts_reader_v1';
+let S=load();
+function load(){
+  try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
+}
+function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
+  set:{fs:18,lh:1.85,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,guide:'all',roles:true,fadeHint:0},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
+let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
+const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
+const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
+const CH=BOOK.chapters;
+const norm=w=>w.toLowerCase().replace(/[’‘]/g,"'").replace(/^['-]+|['-]+$/g,'');
+function lookupIdx(w){
+  w=norm(w); if(!w)return -1;
+  if(RD.forms[w]!==undefined)return RD.forms[w];
+  if(w.endsWith("'s")&&RD.forms[w.slice(0,-2)]!==undefined)return RD.forms[w.slice(0,-2)];
+  if(w.endsWith("s'")&&RD.forms[w.slice(0,-1)]!==undefined)return RD.forms[w.slice(0,-1)];
+  if(w.includes('-')){const p=w.split('-');const i=RD.forms[p[p.length-1]];if(i!==undefined)return i;}
+  return -1;
+}
+// '아는 단어' 판정: 알아요 표시 / 카드 간격 21일 이상 / (레벨2를 안다고 설정했고 카드에 없는 레벨2 단어)
+const isKnownIdx=i=>!!S.known[i]||(S.cards[i]&&S.cards[i].iv>=21)||(S.set.l2known&&VOCAB[i].l===2&&!S.cards[i]);
+function logDay(k,n){const d=dayNum();S.log[d]=S.log[d]||{};S.log[d][k]=(S.log[d][k]||0)+n;save();}
+
+/* ================= 탭 ================= */
+$$('nav button').forEach(b=>b.onclick=()=>showTab(b.dataset.t));
+function showTab(t){
+  $$('nav button').forEach(x=>x.classList.toggle('on',x.dataset.t===t));
+  $$('section.tab').forEach(x=>x.classList.toggle('on',x.id==='t-'+t));
+  if(t==='srs')renderSRS(); if(t==='stats')renderStats(); if(t==='struct')renderStruct();
+  if(t!=='read')pauseTimer(); else if(S.cur.phase==='read')resumeTimer();
+  window.scrollTo(0,0);
+}
+
+/* ================= 장 목록 ================= */
+function chStatus(n){
+  const r=S.reads[n]||[]; if(S.done[n])return 'done'; if(r.length||S.cur.ch===n)return 'ing'; return '';
+}
+function renderChList(){
+  const el=$('#chl'); const sel=$('#chsel');
+  el.innerHTML=CH.map(c=>{
+    const st=chStatus(c.n); const rc=RD.chapters[c.n-1];
+    const cov=coverage(c.n).now;
+    const ttl=c.title&&c.title!=='Conclusion'?c.title.split('—')[0].trim():(c.title||'');
+    return `<button class="${S.cur.ch===c.n?'on':''}" data-n="${c.n}" title="${esc(c.title||'')}"><span class="n">${c.n}</span><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1">${esc(ttl)}</span><span class="st ${st}">${st==='done'?'완료':st==='ing'?'읽는 중':rc.tok.toLocaleString()+'단어'}</span></button>
+      <div class="mini"><i style="width:${Math.max(0,(cov-85)/13*100)}%"></i></div>`;
+  }).join('');
+  el.querySelectorAll('button').forEach(b=>b.onclick=()=>openChapter(+b.dataset.n,'pre'));
+  sel.innerHTML=CH.map(c=>`<option value="${c.n}" ${S.cur.ch===c.n?'selected':''}>${c.n}장 (${esc(c.roman)}) · ${esc((c.title||'').split('—')[0].trim().slice(0,28))} · ${RD.chapters[c.n-1].tok.toLocaleString()}단어 ${S.done[c.n]?'✓':''}</option>`).join('');
+  sel.onchange=()=>openChapter(+sel.value,'pre');
+}
+function coverage(n){
+  const rc=RD.chapters[n-1]; let k=0; const need=[]; let acc=rc.l1+rc.pn;
+  for(const [i,c] of rc.words){ if(isKnownIdx(i))k+=c; }
+  const now=(acc+k)/rc.tok*100;
+  // 98%까지 필요한 단어 수 (모르는 단어를 이 장 빈도순으로 더해가며)
+  let cur=acc+k, cnt=0;
+  for(const [i,c] of rc.words){ if(isKnownIdx(i))continue; if(cur/rc.tok>=0.98)break; cur+=c; cnt++; need.push(i); }
+  return {now, cnt, need, tok:rc.tok};
+}
+function openChapter(n,phase){
+  S.cur.ch=n; S.cur.phase=phase||S.cur.phase; save();
+  renderChList(); renderPane(); window.scrollTo(0,0);
+}
+$$('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderPane();});
+
+/* ================= 읽기 화면 ================= */
+function renderPane(){
+  const n=S.cur.ch, p=S.cur.phase;
+  $$('.phases button').forEach(b=>{b.classList.toggle('on',b.dataset.p===p);
+    b.classList.toggle('done',(b.dataset.p==='pre'&&!!(S.log.pre||{})[n])||(b.dataset.p==='read'&&(S.reads[n]||[]).length>0)||(b.dataset.p==='post'&&!!S.done[n]));});
+  if(p!=='read')pauseTimer();
+  if(p==='pre')renderPre(n); else if(p==='read')renderRead(n); else renderPost(n);
+}
+function markPre(n){S.log.pre=S.log.pre||{};S.log.pre[n]=1;save();}
+
+/* ---- 1. 읽기 전 */
+function renderPre(n){
+  const c=CH[n-1], rc=RD.chapters[n-1], g=GD[n];
+  const cov=coverage(n);
+  let html='';
+  html+=`<div class="card"><h3>${n}장 (CHAPTER ${esc(c.roman)}) · 읽기 전에</h3>${c.title&&c.title!=='Conclusion'?`<p class="note" style="margin:-4px 0 8px;font-family:var(--serif)">${esc(c.title)}</p>`:''}`;
+  if(g){
+    html+=`<p>${esc(g.intro)}</p>`;
+    if(g.characters&&g.characters.length)html+=`<div class="row" style="margin-bottom:6px">${g.characters.map(x=>`<span class="chip"><b>${esc(x.name)}</b> — ${esc(x.ko)}</span>`).join('')}</div>`;
+    html+=`<div class="tip"><b>이 장 읽는 요령</b> · ${esc(g.tips)}</div>`;
+    html+=`<h4>예측하기</h4><p style="margin:0 0 6px">${esc(g.predict)}</p><textarea id="predict" placeholder="한 줄이면 충분합니다. 맞고 틀리고는 상관없습니다 — 예측을 해 두면 읽으면서 확인하게 되어 집중이 유지됩니다.">${esc(S.predict[n]||'')}</textarea>`;
+  }else{
+    html+=`<p class="note">이 장에는 아직 튜터 가이드(배경 설명·확인 질문)가 준비되지 않았습니다. 단어 미리보기와 읽기 도구는 모두 사용할 수 있습니다.</p>
+    <h4>예측하기</h4><p style="margin:0 0 6px">앞 장의 마지막 상황을 떠올려 보세요. 이번 장에서 무슨 일이 일어날 것 같나요?</p><textarea id="predict" placeholder="한 줄이면 충분합니다.">${esc(S.predict[n]||'')}</textarea>`;
+  }
+  html+=`</div>`;
+  // 어휘 수준 점검 (처음 한 번)
+  if(!S.set.calib){
+    const pool=VOCAB.map((v,i)=>[v,i]).filter(([v])=>v.l===2&&v.n>=6&&!v.m.includes('OCR'));
+    const pick=[]; for(let k=0;k<20;k++)pick.push(pool[Math.floor(k*pool.length/20)]);
+    html+=`<div class="card" id="calib"><h3>먼저 30초 — 내 어휘 수준 점검</h3>
+      <p class="note" style="margin:0 0 8px">이 소설의 <b>레벨 2(수능·토익 중급)</b> 단어 20개입니다. <b>뜻이 바로 떠오르지 않는 것만</b> 체크하세요. 체크가 3개 이하면 "레벨 2는 대체로 안다"로 보고, 앞으로 미리보기에는 레벨 3(고급·영국 구어)만 보여드립니다. 나중에 언제든 바꿀 수 있습니다.</p>
+      <div class="row" style="gap:6px 14px">${pick.map(([v,i])=>`<label style="font-family:var(--serif);font-size:16px"><input type="checkbox" data-cb="${i}"> ${esc(v.w)}</label>`).join('')}</div>
+      <div class="row" style="margin-top:10px"><button class="btn pri" id="calibDone">점검 완료</button><span class="note">체크한 단어는 자동으로 카드에 들어갑니다.</span></div></div>`;
+  }
+  // 단어 미리보기
+  const cls=cov.now>=98?'':cov.now>=95?'warn':'bad';
+  html+=`<div class="card"><h3>이 장의 단어 미리보기</h3>
+    <div class="row" style="margin-bottom:8px"><span class="note">내 수준 설정 — 레벨 2(수능·토익 중급) 단어:</span>
+      <button class="chip ${S.set.l2known?'on':''}" id="l2yes">대체로 안다 (레벨 3만 보기)</button><button class="chip ${S.set.l2known?'':'on'}" id="l2no">확인이 필요하다 (레벨 2·3 보기)</button></div>
+    <div class="row" style="margin-bottom:6px"><span>지금 내 어휘로 이 장 커버리지 <b id="covnow">${cov.now.toFixed(1)}%</b></span>
+    <span class="note" id="covneed">${cov.now>=98?'— 98% 이상, 바로 읽어도 좋습니다':`— 아래 <b>${cov.cnt}개</b>를 익히면 98%가 됩니다`}</span></div>
+    <div class="meter"><i class="${cls}" id="covbar" style="width:${Math.max(0,(cov.now-85)/13*100)}%"></i></div>
+    <p class="note" style="margin:6px 0 10px">이 장에 나오는 레벨 2·3 단어를 <b>이 장 안의 빈도순</b>으로 보여줍니다(기초어휘·이름은 제외). 이미 아는 단어는 <b>알아요</b>, 익힐 단어는 <b>카드</b>를 누르세요. 다 볼 필요는 없습니다 — 98% 선까지만 보고 읽기 시작하세요.</p>
+    <div class="row" style="margin-bottom:8px">
+      <button class="chip on" data-f="need">98%까지 필요한 것만</button><button class="chip" data-f="all">전부 (${rc.words.length}개)</button>
+      <button class="chip" data-f="first">이 장에서 처음 나오는 것</button>
+      <span style="margin-left:auto"></span>
+      <button class="btn sm" id="addAllNeed">필요한 단어 전부 카드로</button>
+    </div>
+    <table><thead><tr><th style="width:24%">단어</th><th style="width:9%">품사</th><th>뜻</th><th style="width:12%">이 장/전체</th><th style="width:16%"></th></tr></thead><tbody id="pretb"></tbody></table>
+    <div class="row" style="margin-top:14px;justify-content:flex-end"><button class="btn pri" id="startRead">미리보기 끝 → 읽기 시작 (타이머 시작)</button></div>
+  </div>`;
+  $('#pane').innerHTML=html;
+  const ta=$('#predict'); if(ta)ta.oninput=()=>{S.predict[n]=ta.value;save();};
+  let filt='need';
+  const draw=()=>{
+    const cov2=coverage(n); const needSet=new Set(cov2.need);
+    let rows=rc.words.filter(([i,c])=>{
+      if(filt==='need')return needSet.has(i);
+      if(filt==='first')return RD.first[i]===n&&!isKnownIdx(i);
+      return true;});
+    if(filt==='need'&&!rows.length)rows=[];
+    $('#pretb').innerHTML=rows.map(([i,c])=>{
+      const v=VOCAB[i]; const kn=(isKnownIdx(i)&&!S.cards[i])?'known':'', ic=S.cards[i]?'incard':'';
+      return `<tr class="${kn} ${ic}"><td><span class="w">${esc(v.w)}</span>${v.f&&v.f.length?`<div class="fm">${esc(v.f.slice(0,4).join(', '))}</div>`:''}</td>
+       <td class="pos">${esc(v.p)}</td><td><span class="lv lv${v.l}">${v.l}</span> ${esc(v.m)}${RD.first[i]===n?' <span class="note">· 첫 등장</span>':''}</td>
+       <td class="note">${c}회 / ${v.n}회</td>
+       <td><button class="btn sm" data-k="${i}">${S.known[i]?'알아요 취소':'알아요'}</button> <button class="btn sm ${S.cards[i]?'grn':''}" data-c="${i}">${S.cards[i]?'카드 ✓':'카드'}</button></td></tr>`;
+    }).join('')||`<tr><td colspan="5" class="note" style="text-align:center;padding:18px">${filt==='need'?'이미 98%를 넘었습니다. 바로 읽기 시작하세요.':'해당 단어가 없습니다.'}</td></tr>`;
+    $('#pretb').querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{const i=+b.dataset.k;if(S.known[i])delete S.known[i];else{S.known[i]=1;if(S.cards[i])delete S.cards[i];}save();upd();});
+    $('#pretb').querySelectorAll('[data-c]').forEach(b=>b.onclick=()=>{const i=+b.dataset.c;if(S.cards[i])delete S.cards[i];else{addCard(i,null);delete S.known[i];}save();upd();});
+    const cv=coverage(n); $('#covnow').textContent=cv.now.toFixed(1)+'%';
+    $('#covneed').innerHTML=cv.now>=98?'— 98% 이상, 바로 읽어도 좋습니다':`— 아래 <b>${cv.cnt}개</b>를 익히면 98%가 됩니다`;
+    const bar=$('#covbar');bar.style.width=Math.max(0,(cv.now-85)/13*100)+'%';bar.className=cv.now>=98?'':cv.now>=95?'warn':'bad';
+  };
+  const upd=()=>{draw();renderChList();};
+  $$('#pane .chip[data-f]').forEach(b=>b.onclick=()=>{$$('#pane .chip[data-f]').forEach(x=>x.classList.remove('on'));b.classList.add('on');filt=b.dataset.f;draw();});
+  $('#addAllNeed').onclick=()=>{const cv=coverage(n);cv.need.forEach(i=>{if(!S.cards[i])addCard(i,null);});save();upd();toast(`${cv.need.length}개를 카드에 추가했습니다`);};
+  $('#startRead').onclick=()=>{markPre(n);S.cur.phase='read';save();renderPane();};
+  $('#l2yes').onclick=()=>{S.set.l2known=true;S.set.calib=1;save();renderPre(n);renderChList();};
+  $('#l2no').onclick=()=>{S.set.l2known=false;S.set.calib=1;save();renderPre(n);renderChList();};
+  const cd=$('#calibDone'); if(cd)cd.onclick=()=>{
+    const unk=$$('#calib [data-cb]:checked').map(x=>+x.dataset.cb);
+    unk.forEach(i=>addCard(i,null));
+    S.set.l2known=unk.length<=3; S.set.calib=1; save();
+    toast(unk.length<=3?`모르는 단어 ${unk.length}개 — 레벨 2는 대체로 아는 것으로 설정했습니다`:`모르는 단어 ${unk.length}개 — 레벨 2 단어도 미리보기에 포함합니다`);
+    renderPre(n); renderChList();
+  };
+  draw();
+}
+
+/* ---- 2. 읽기 */
+let timer={on:false,secs:0,iv:null,ch:0};
+function tick(){ if(document.hidden)return; timer.secs++; const t=$('#tm'); if(t)t.textContent=fmtT(timer.secs); }
+function startTimer(n){ if(timer.on&&timer.ch===n)return; if(timer.iv)clearInterval(timer.iv); timer={on:true,secs:(timer.ch===n?timer.secs:0),iv:setInterval(tick,1000),ch:n}; }
+function pauseTimer(){ if(timer.iv){clearInterval(timer.iv);timer.iv=null;} timer.on=false; }
+function resumeTimer(){ if(!timer.iv&&timer.ch===S.cur.ch){timer.on=true;timer.iv=setInterval(tick,1000);} }
+const HARDTAGS=new Set([3,4,6,7,8,9,10,11,12,13,14,15,17,18]);
+// 자동 구문 분석의 역할 코드 → 한국어 (06_parse_syntax.py 와 같은 표)
+const ROLE={S:'주어',V:'동사',O:'목적어',C:'보어',P:'전치사구',A:'부사',M:'수식어',R:'관계절',N:'명사구',Q:'인용',T:'전달동사',J:'접속사',I:'삽입',D:'부사절',G:'분사구문',K:'대등절',Z:'목적어절',E:'to부정사',X:'기타'};
+const LABEL_ROLES=new Set(['S','V','O','C','P','D','G','R','K','Z','Q','T','E']); // 본문 경계선 위에 이름을 붙일 역할 (부사·접속사·수식어는 선만)
+const ROLE_LONG={S:'주어 — 누가/무엇이',V:'동사 — 어떻게 하다/이다',O:'목적어 — 무엇을',C:'보어 — 주어·목적어를 설명',P:'전치사구 — 장소·시간·수단 등 꾸밈',A:'부사(구) — 언제·어떻게·얼마나',M:'수식어 — 명사를 꾸밈',R:'관계절 — 앞 명사를 설명(who/which/that…)',N:'명사구 — 동격·호격·나열',Q:'인용 — 따옴표 속 대사',T:'전달동사 — said Tom 등',J:'접속사 — and/but/that/when…',I:'삽입·감탄 — 끼어든 말',D:'부사절 — 때·이유·조건(when/because/if…)',G:'분사구문 — ~하면서/~하고 나서',K:'대등절 — and/but/;로 이어진 또 하나의 문장',Z:'목적어절 — that…/의문사절',E:'to부정사·보어절 — ~하는 것/~하기 위해',X:'기타'};
+const roleName=r=>{const parts=r.split('>');const last=parts[parts.length-1];return (parts.length>1?(ROLE[parts[0]]||'')+'›':'')+(ROLE[last]||last);};
+const syn=(n,pi,si)=>{const c=SYNTAX[String(n)];const row=c&&c[pi];return row?row[si]:null;};
+function renderRead(n){
+  const c=CH[n-1], rc=RD.chapters[n-1];
+  const tagmap={}; rc.tags.forEach(([pi,si,ids])=>tagmap[pi+'.'+si]=ids);
+  const lk=S.lookups[n]||{};
+  const st=S.set;
+  let html=`<div class="toolbar" id="tb">
+    <label>구조 가이드 <select id="guide"><option value="all" ${st.guide==='all'?'selected':''}>모든 문장</option><option value="long" ${st.guide==='long'?'selected':''}>긴 문장만 (12단어↑)</option><option value="off" ${st.guide==='off'?'selected':''}>끔</option></select></label>
+    <label><input type="checkbox" id="ckRoles" ${st.roles?'checked':''}> 역할 이름</label>
+    <button class="btn sm" id="ttsPlay">🔊 읽어주기</button><button class="btn sm" id="ttsStop">■</button>
+    <button class="btn sm advtog" id="advtog">⚙ 도구</button>
+    <span class="timer">⏱ <span id="tm">${fmtT(timer.ch===n?timer.secs:0)}</span></span>
+    <div class="adv">
+      <label>글자 <input type="range" id="fs" min="14" max="26" step="1" value="${st.fs}"></label>
+      <label>줄간격 <input type="range" id="lh" min="1.5" max="2.4" step="0.05" value="${st.lh}"></label>
+      <label><input type="checkbox" id="ckTags" ${st.tags?'checked':''}> 구조 태그(번호)</label>
+      <label><input type="checkbox" id="ckHard"> 새 단어 강조</label>
+      <label>읽기 속도 <input type="range" id="rate" min="0.6" max="1.3" step="0.05" value="${st.rate}"></label>
+    </div>
+  </div>`;
+  html+=`<div class="text ${st.guide!=='off'?'guide':''} ${st.roles?'roles':''}" id="text"><div class="chno">CHAPTER ${esc(c.roman)}</div>`;
+  if(c.title&&c.title!=='Conclusion')html+=`<div class="chtitle">${esc(c.title)}</div>`;
+  if(st.guide!=='off')html+=`<div class="glegend"><b class="s">주어</b> <b class="v">동사</b> 는 각 문장 주절의 것 · 세로선 <span style="color:#7d6a4a">|</span> 은 의미 단위 경계(자동 분석) · 문장을 누르면 자세히</div>`;
+  c.paras.forEach((para,pi)=>{
+    html+='<p>'+para.map((s,si)=>{
+      const id=`${n}.${pi}.${si}`, ids=tagmap[pi+'.'+si]||[];
+      const has=!!ANA[id];
+      const sy=syn(n,pi,si);
+      const words=s.split(/\s+/).length;
+      const g=st.guide==='all'||(st.guide==='long'&&words>=12);
+      let inner=renderSent(s,lk,g?sy:null);
+      const tg=ids.filter(t=>HARDTAGS.has(t));
+      const tagHtml=tg.length?`<span class="tag" title="문장구조 ${tg.join(',')}">${tg.join('·')}</span>`:'';
+      return `<span class="s ${has?'hasan':''} ${S.bm[id]?'bm':''}" data-id="${id}" data-t="${ids.join(',')}">${inner}${has?'<span class="an" title="튜터 분석 있음">🔍</span>':''}${tagHtml}</span>`;
+    }).join(' ')+'</p>';
+    if(c.notes&&c.notes[String(pi)])html+=`<div class="fn">※ ${esc(c.notes[String(pi)])}</div>`;
+  });
+  html+=`<div class="end">CHAPTER ${esc(c.roman)} 끝 (${rc.tok.toLocaleString()}단어)<br><br>
+    <button class="btn pri" id="finishRead">다 읽었어요 → 읽은 후로</button>
+    <div class="note" style="margin-top:8px">읽는 도중 눌러 본 단어: <b id="lkcnt">${Object.keys(lk).length}</b>개</div>
+    <div class="bnav"><button class="btn sm" id="prevCh" ${n===1?'disabled':''}>← 이전 장</button><button class="btn sm" id="nextCh" ${n===CH.length?'disabled':''}>다음 장 →</button></div></div></div>`;
+  $('#pane').innerHTML=html;
+  applyTextStyle();
+  startTimer(n);
+  $('#guide').onchange=e=>{S.set.guide=e.target.value;save();renderRead(n);};
+  $('#ckRoles').onchange=e=>{S.set.roles=e.target.checked;save();$('#text').classList.toggle('roles',S.set.roles);};
+  $('#advtog').onclick=()=>$('#tb').classList.toggle('open');
+  $('#fs').oninput=e=>{S.set.fs=+e.target.value;applyTextStyle();save();};
+  $('#lh').oninput=e=>{S.set.lh=+e.target.value;applyTextStyle();save();};
+  $('#ckTags').onchange=e=>{S.set.tags=e.target.checked;save();applyTextStyle();};
+  $('#ckHard').onchange=e=>{$('#text').classList.toggle('showhard',e.target.checked);};
+  $('#rate').oninput=e=>{S.set.rate=+e.target.value;save();};
+  $('#ttsPlay').onclick=()=>speakFrom(null);
+  $('#ttsStop').onclick=stopSpeak;
+  $('#finishRead').onclick=()=>finishRead(n);
+  $('#prevCh').onclick=()=>openChapter(n-1,'pre');
+  $('#nextCh').onclick=()=>openChapter(n+1,'pre');
+  $('#text').onclick=e=>{
+    const tk=e.target.closest('.tk');
+    if(tk){showPop(tk,n);e.stopPropagation();return;}
+    if(e.target.closest('.an')||e.target.closest('.tag')||e.target.closest('.gb')){openDrawer(e.target.closest('.s').dataset.id);return;}
+    const s=e.target.closest('.s'); if(s){openDrawer(s.dataset.id);}
+  };
+  // 가이드 줄이기 힌트: 7장 이상 완료했는데 아직 '모든 문장'이면 한 번만 권한다
+  if(st.guide==='all'&&Object.keys(S.done).length>=7&&!st.fadeHint){S.set.fadeHint=1;save();setTimeout(()=>toast('7장을 넘겼습니다. 구조 가이드를 "긴 문장만"으로 줄여 스스로 읽는 연습을 시작해 보세요.'),800);}
+  if(S.cur.sid&&S.cur.sid.startsWith(n+'.')){const el=document.querySelector(`.s[data-id="${S.cur.sid}"]`);if(el)setTimeout(()=>el.scrollIntoView({block:'center'}),50);}
+}
+function applyTextStyle(){
+  document.documentElement.style.setProperty('--fs',S.set.fs+'px');
+  document.documentElement.style.setProperty('--lh',S.set.lh);
+  const t=$('#text'); if(t){t.querySelectorAll('.tag').forEach(x=>x.style.display=S.set.tags?'':'none');}
+}
+// 문장 하나를 HTML 로: 단어를 span 으로 감싸고, (가이드가 있으면) 주어·동사 표시와 의미 단위 경계를 넣는다
+function renderSent(s,lk,sy){
+  const re=/[A-Za-z][A-Za-z’'-]*/g; let out='', last=0, m;
+  const chunks=sy?sy[2]:[]; let ci=0; const showLabels=s.split(/\s+/).length>=6;
+  const Ss=sy&&sy[0]?sy[0]:null, Vs=sy&&sy[1]?sy[1]:null;
+  while((m=re.exec(s))){
+    const o=m.index, w=m[0];
+    out+=esc(s.slice(last,o));
+    if(sy){ while(ci<chunks.length&&chunks[ci][0]<=o){ if(ci>0){const r=chunks[ci][1];const nest=r.includes('>');const lastR=r.split('>').pop();const lab=showLabels&&LABEL_ROLES.has(lastR)?`<i>${esc(roleName(r))}</i>`:'';out+=`<span class="gb ${nest?'nest':''}">${lab}</span>`;} ci++; } }
+    const i=lookupIdx(w); const cls=['tk'];
+    if(Ss&&o>=Ss[0]&&o<Ss[1])cls.push('gS'); if(Vs&&o>=Vs[0]&&o<Vs[1])cls.push('gV');
+    if(i>=0){ const v=VOCAB[i]; if(lk[i])cls.push('lk'); if(S.cards[i])cls.push('incd'); if((v.l===2||v.l===3)&&!isKnownIdx(i))cls.push('hd');
+      out+=`<span class="${cls.join(' ')}" data-i="${i}" data-w="${esc(w)}">${esc(w)}</span>`; }
+    else out+=`<span class="${cls.join(' ')}" data-w="${esc(w)}">${esc(w)}</span>`;
+    last=o+w.length;
+  }
+  out+=esc(s.slice(last));
+  return out;
+}
+function finishRead(n){
+  const secs0=timer.secs||1;
+  if(secs0<45&&!confirm('읽기 시간이 1분도 안 됩니다. 정말 다 읽으셨나요? (기록에 남습니다)'))return;
+  pauseTimer();
+  const secs=timer.secs||1, tok=RD.chapters[n-1].tok;
+  const wpm=Math.round(tok/(secs/60));
+  S.reads[n]=S.reads[n]||[]; S.reads[n].push({d:dayNum(),secs,wpm}); logDay('read',secs);
+  timer={on:false,secs:0,iv:null,ch:0};
+  S.cur.phase='post'; save(); renderPane(); renderChList();
+  toast(`읽기 시간 ${fmtT(secs)} · ${wpm} WPM 기록`);
+}
+window.addEventListener('scroll',()=>{ // 이어읽기 위치 저장(가장 위에 보이는 문장)
+  if(S.cur.phase!=='read')return; clearTimeout(window._sc); window._sc=setTimeout(()=>{
+    const els=$$('#text .s'); const y=window.scrollY+120;
+    for(const el of els){const r=el.getBoundingClientRect(); if(r.top+window.scrollY>y){S.cur.sid=el.dataset.id;save();break;}}
+  },300);
+});
+
+/* ---- 3. 읽은 후 */
+function renderPost(n){
+  const g=GD[n], reads=S.reads[n]||[], lk=S.lookups[n]||{};
+  const last=reads[reads.length-1];
+  let html=`<div class="card"><h3>${n}장 · 읽은 후</h3>`;
+  html+=`<div class="stat">${reads.length?`<div><b>${fmtT(last.secs)}</b><span>마지막 읽기 시간</span></div><div><b>${last.wpm}</b><span>WPM (분당 단어)</span></div><div><b>${reads.length}</b><span>읽은 횟수</span></div>`:'<div><b>—</b><span>아직 읽기 기록 없음</span></div>'}<div><b>${Object.keys(lk).length}</b><span>눌러 본 단어</span></div></div>`;
+  if(reads.length>1)html+=`<p class="note" style="margin-top:8px">읽기 속도 변화: ${reads.map(r=>r.wpm+' WPM').join(' → ')} — 반복 읽기의 효과입니다.</p>`;
+  html+=`<div class="row" style="margin-top:10px"><button class="btn" id="reread">같은 장 다시 읽기 (반복 읽기)</button>`;
+  if(Object.keys(lk).length)html+=`<button class="btn" id="lk2card">눌러 본 단어 ${Object.keys(lk).length}개 → 카드에 추가</button>`;
+  html+=`</div></div>`;
+  // 질문
+  html+=`<div class="card"><h3>이해 확인</h3>`;
+  if(g){
+    html+=`<p class="note" style="margin:0 0 10px">정답을 보기 전에 <b>먼저 내 답을 써 보세요.</b> 떠올리는 행위 자체가 기억을 만듭니다. 근거 문장 번호(예: [1.14.0])는 본문에서 문장을 눌렀을 때 드로어 위쪽에 표시되는 번호입니다.</p>`;
+    const ans=S.answers[n]||{};
+    g.questions.forEach((q,qi)=>{
+      const a=ans[qi]||{};
+      html+=`<div class="qbox" data-q="${qi}"><div class="q">Q${qi+1}. ${esc(q.q)}<span class="t">${q.t==='literal'?'본문 확인':q.t==='inference'?'추론':'단어'}</span></div>
+        <textarea data-my="${qi}" placeholder="내 답">${esc(a.my||'')}</textarea>
+        <div class="row" style="margin-top:6px"><button class="btn sm" data-show="${qi}">정답 보기</button>
+          <span class="${a.shown?'':'hide'}" data-grade="${qi}">내 채점: <button class="btn sm ${a.ok===1?'grn':''}" data-ok="${qi}">맞음</button> <button class="btn sm ${a.ok===0?'pri':''}" data-no="${qi}">틀림</button></span></div>
+        <div class="a ${a.shown?'':'hide'}" data-a="${qi}">${esc(q.a)}</div></div>`;
+    });
+  }else html+=`<p class="note">이 장에는 아직 확인 질문이 없습니다. 대신 아래 요약을 꼭 써 보세요.</p>`;
+  html+=`</div>`;
+  html+=`<div class="card"><h3>문장 구조 퀴즈 — 주어·동사 찾기</h3><p class="note" style="margin:0 0 8px">이 장에서 고른 5문장. 스스로 주어와 동사를 짚어 보세요. 정답은 자동 분석 기준입니다(가끔 틀릴 수 있음).${(S.quiz[n]||[]).length?` 지난 기록: ${S.quiz[n].map(q=>q.ok+'/'+q.total*2).join(', ')}`:''}</p><div id="qzbox"><button class="btn" id="qzStart">퀴즈 시작</button></div></div>`;
+  html+=`<div class="card"><h3>요약 쓰기</h3><p class="note" style="margin:0 0 6px">이 장을 2~3문장으로 요약하세요(한국어도 좋고, 영어면 더 좋습니다). 누가 · 무엇을 · 그래서 어떻게 됐나.</p>
+    <textarea id="summ" style="min-height:90px">${esc(S.summary[n]||'')}</textarea>
+    ${g?`<button class="btn sm" id="hintBtn" style="margin-top:6px">채점 기준 보기</button><div class="a hide" id="hint" style="margin-top:6px;background:#eaf1ec;padding:8px 10px;border-radius:6px;font-size:14px">${esc(g.summary_hint)}</div>`:''}
+    <div class="row" style="margin-top:14px;justify-content:space-between"><span class="note">다 했으면 →</span><button class="btn pri" id="doneCh">${n}장 완료 표시 ${n<CH.length?'→ 다음 장으로':''}</button></div>
+  </div>`;
+  $('#pane').innerHTML=html;
+  const rr=$('#reread'); if(rr)rr.onclick=()=>{S.cur.phase='read';save();renderPane();};
+  const l2=$('#lk2card'); if(l2)l2.onclick=()=>{let k=0;Object.keys(lk).forEach(i=>{if(!S.cards[i]&&!S.known[i]){addCard(+i,lk[i].sid||null);k++;}});save();toast(`${k}개 추가`);renderPost(n);};
+  $$('#pane [data-show]').forEach(b=>b.onclick=()=>{const qi=b.dataset.show;S.answers[n]=S.answers[n]||{};S.answers[n][qi]=Object.assign(S.answers[n][qi]||{},{shown:1});save();$(`#pane [data-a="${qi}"]`).classList.remove('hide');$(`#pane [data-grade="${qi}"]`).classList.remove('hide');});
+  $$('#pane [data-my]').forEach(t=>t.oninput=()=>{const qi=t.dataset.my;S.answers[n]=S.answers[n]||{};S.answers[n][qi]=Object.assign(S.answers[n][qi]||{},{my:t.value});save();});
+  $$('#pane [data-ok]').forEach(b=>b.onclick=()=>{const qi=b.dataset.ok;S.answers[n][qi].ok=1;save();renderPost(n);});
+  $$('#pane [data-no]').forEach(b=>b.onclick=()=>{const qi=b.dataset.no;S.answers[n][qi].ok=0;save();renderPost(n);});
+  $('#summ').oninput=e=>{S.summary[n]=e.target.value;save();};
+  $('#qzStart').onclick=()=>renderQuiz('#qzbox',n,5);
+  const hb=$('#hintBtn'); if(hb)hb.onclick=()=>$('#hint').classList.toggle('hide');
+  $('#doneCh').onclick=()=>{S.done[n]=1;save();renderChList();if(n<CH.length)openChapter(n+1,'pre');else{toast('완독을 축하합니다!');renderPane();}};
+}
+
+/* ================= 단어 팝오버 ================= */
+function showPop(tk,n){
+  const i=tk.dataset.i!==undefined?+tk.dataset.i:-1; const w=tk.dataset.w;
+  const pop=$('#pop'), pc=$('#popc');
+  if(i<0){
+    const nw=norm(w); const isPn=/^[A-Z]/.test(w);
+    pc.innerHTML=`<span class="w">${esc(w)}</span><div class="m muted">${isPn?'고유명사(인명·지명·상호)로 보입니다.':'어휘 목록에 없는 형태입니다 (축약형이나 OCR 오류일 수 있음).'}</div>
+      <div class="acts"><button class="btn sm" onclick="speakText('${esc(w).replace(/'/g,"\\'")}')">🔊 발음</button></div>`;
+  }else{
+    const v=VOCAB[i]; const first=RD.first[i]; const card=S.cards[i];
+    S.lookups[n]=S.lookups[n]||{}; const cur=S.lookups[n][i]||{c:0};
+    S.lookups[n][i]={c:cur.c+1,sid:tk.closest('.s').dataset.id}; save(); tk.classList.add('lk');
+    const lc=$('#lkcnt'); if(lc)lc.textContent=Object.keys(S.lookups[n]).length;
+    pc.innerHTML=`<span class="w">${esc(v.w)}</span><span class="pos">${esc(v.p)}</span> <span class="lv lv${v.l}">${v.l}</span>
+      ${w.toLowerCase()!==v.w?`<div class="note">본문 형태: <i>${esc(w)}</i>${v.f&&v.f.length?' · 변화형: '+esc(v.f.slice(0,5).join(', ')):''}</div>`:''}
+      <div class="m">${esc(v.m)}</div>
+      <div class="meta">소설 전체 ${v.n}회 · 첫 등장 ${first}장${card?` · 카드 (다음 복습 ${card.due<=dayNum()?'오늘':dstr(card.due)})`:''}${S.known[i]?' · 알아요 표시됨':''}</div>
+      <div class="acts">
+        <button class="btn sm ${card?'grn':''}" id="pc_card">${card?'카드 ✓ (빼기)':'＋ 카드에 추가'}</button>
+        <button class="btn sm" id="pc_known">${S.known[i]?'알아요 취소':'알아요 (다시 안 물음)'}</button>
+        <button class="btn sm" id="pc_say">🔊</button>
+      </div>`;
+    $('#pc_card').onclick=()=>{if(S.cards[i]){delete S.cards[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.remove('incd'));}else{addCard(i,tk.closest('.s').dataset.id);delete S.known[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.add('incd'));}save();showPop(tk,n);};
+    $('#pc_known').onclick=()=>{if(S.known[i])delete S.known[i];else{S.known[i]=1;delete S.cards[i];}save();showPop(tk,n);renderChList();};
+    $('#pc_say').onclick=()=>speakText(w);
+  }
+  pop.style.display='block';
+  const r=tk.getBoundingClientRect(); const pw=pop.offsetWidth;
+  let left=r.left+window.scrollX-10; if(left+pw>window.scrollX+window.innerWidth-10)left=window.scrollX+window.innerWidth-pw-10; if(left<4)left=4;
+  pop.style.left=left+'px'; pop.style.top=(r.bottom+window.scrollY+8)+'px';
+}
+function hidePop(){$('#pop').style.display='none';}
+document.addEventListener('click',e=>{if(!e.target.closest('#pop')&&!e.target.closest('.tk'))hidePop();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){hidePop();closeDrawer();}});
+
+/* ================= 문장 드로어 ================= */
+function sentById(id){const [n,pi,si]=id.split('.').map(Number);return CH[n-1].paras[pi][si];}
+function skeleton(s){ // 곁말 흐리게: 대시·괄호·삽입 관계절
+  let h=esc(s);
+  h=h.replace(/(—[^—]{4,120}—|\([^)]{2,120}\))/g,'<span class="dim">$1</span>');
+  h=h.replace(/(, (?:which|who|whose|whom|where|when)\b[^,;.]{3,120})(?=[,;.])/g,'<span class="dim">$1</span>');
+  return h;
+}
+function markSV(html,a){
+  if(!a)return html;
+  const wrap=(h,txt,cls)=>{ if(!txt)return h; const e=esc(txt).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); return h.replace(new RegExp(e),m=>`<span class="${cls}">${m}</span>`); };
+  return wrap(wrap(html,a.s,'S'),a.v,'V');
+}
+function markSVspan(s,sy){ // 자동 분석의 글자 위치로 주어·동사 표시
+  if(!sy||(!sy[0]&&!sy[1]))return esc(s);
+  const marks=[]; if(sy[0])marks.push([sy[0][0],sy[0][1],'S']); if(sy[1])marks.push([sy[1][0],sy[1][1],'V']);
+  marks.sort((a,b)=>a[0]-b[0]); let out='',last=0;
+  for(const [a,b,c] of marks){ if(a<last)continue; out+=esc(s.slice(last,a))+`<span class="${c}">${esc(s.slice(a,b))}</span>`; last=b; }
+  return out+esc(s.slice(last));
+}
+function autoTable(s,sy){ // 자동 분석의 의미 단위 표
+  if(!sy||!sy[2]||!sy[2].length)return '<p class="note">자동 분석 결과가 없습니다.</p>';
+  const ch=sy[2]; const starts=ch.map(x=>x[0]).concat([s.length]);
+  return `<table class="roles-table">`+ch.map((x,k)=>{const r=x[1];const parts=r.split('>');const last=parts[parts.length-1];const nest=parts.length>1;
+    const txt=s.slice(starts[k],starts[k+1]).trim();
+    return `<tr class="${!nest&&(last==='S'||last==='V')?last:''}"><td class="en">${esc(txt)}</td><td class="r ${nest?'nest':''}" title="${esc(ROLE_LONG[last]||'')}">${esc(roleName(r))}</td></tr>`;}).join('')+`</table>`;
+}
+function openDrawer(id){
+  hidePop();
+  const s=sentById(id); const a=ANA[id]; const [n,pi,si]=id.split('.').map(Number);
+  const rc=RD.chapters[n-1]; const tg=(rc.tags.find(t=>t[0]===pi&&t[1]===si)||[0,0,[]])[2];
+  const sy=syn(n,pi,si);
+  let html=`<h3>문장 [${id}] ${a?'· 튜터 분석':'· 자동 분석'}</h3>`;
+  html+=`<div class="sent" id="drSent">${a?markSV(esc(s),a):markSVspan(s,sy)}</div>`;
+  html+=`<div class="legend"><i style="background:#dbeee0;border-bottom:2px solid var(--l1)"></i>주절 주어 <i style="background:#fde3d8;border-bottom:2px solid var(--l3)"></i>주절 동사${sy&&sy[3]>1?` · 절(주어+동사 묶음) ${sy[3]}개`:''}</div>`;
+  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="drSkel">곁말 흐리게</button><button class="btn sm" id="drSay">🔊 듣기</button><button class="btn sm" id="drBm">${S.bm[id]?'★ 저장됨':'☆ 문장 저장'}</button><button class="btn sm" id="drGo">본문 위치로</button></div>`;
+  if(tg.length){
+    html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">이 문장의 구조 유형</h4><div>${tg.map(t=>`<span class="stag" data-st="${t}">${t}. ${esc(STRUCT[t-1].title)}</span>`).join('')}</div>`;
+  }
+  if(a){
+    html+=`<div class="why"><b>왜 어렵나 · 어떻게 읽나</b><br>${esc(a.why)}</div>`;
+    html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">튜터의 의미 단위 읽기 (앞에서부터 순서대로)</h4><div class="chunks">`+
+      a.chunks.map(c=>{const cls=c.en===a.s||(a.s&&c.en.includes(a.s)&&a.s.length>4)?'S':(a.v&&c.en.includes(a.v)?'V':'');
+        return `<div class="ck"><div class="en ${cls}">${esc(c.en)}<span class="r">${esc(c.r||'')}</span></div><div class="ko">${esc(c.ko)}</div></div>`;}).join('')+`</div>`;
+    html+=`<button class="btn sm" id="drKo" style="margin-top:10px">전체 번역 보기</button><div class="ko-full hide" id="drKoT">${esc(a.ko)}</div>`;
+    if(a.st&&a.st.length&&!tg.length)html+=`<div style="margin-top:8px">${a.st.map(t=>`<span class="stag" data-st="${t}">${t}. ${esc(STRUCT[t-1].title)}</span>`).join('')}</div>`;
+    html+=`<details style="margin-top:12px"><summary class="note" style="cursor:pointer">자동 분석(기계)도 보기</summary>${autoTable(s,sy)}</details>`;
+  }else{
+    html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위와 역할 (자동 분석)</h4>${autoTable(s,sy)}
+      <p class="note" style="margin-top:8px">컴퓨터 구문 분석기가 붙인 것이라 열에 하나쯤은 틀립니다. 역할 이름 위에 마우스를 올리면(또는 길게 누르면) 설명이 나옵니다. 앞에서부터 <b>주어 → 동사 → 나머지</b> 순으로 덩어리째 읽어 보세요.</p>`;
+  }
+  $('#drc').innerHTML=html; $('#drawer').classList.add('on');
+  let skel=false;
+  const redraw=()=>{ const base=skel?skeleton(s):null; $('#drSent').innerHTML=base?markSV(base,a||null):(a?markSV(esc(s),a):markSVspan(s,sy)); };
+  $('#drSkel').onclick=()=>{skel=!skel;redraw();};
+  $('#drSay').onclick=()=>speakText(s);
+  $('#drBm').onclick=()=>{if(S.bm[id])delete S.bm[id];else S.bm[id]=1;save();$('#drBm').textContent=S.bm[id]?'★ 저장됨':'☆ 문장 저장';const el=document.querySelector(`.s[data-id="${id}"]`);if(el)el.classList.toggle('bm',!!S.bm[id]);};
+  $('#drGo').onclick=()=>{closeDrawer();showTab('read');if(S.cur.ch!==n||S.cur.phase!=='read'){S.cur.ch=n;S.cur.phase='read';save();renderChList();renderPane();}setTimeout(()=>{const el=document.querySelector(`.s[data-id="${id}"]`);if(el){el.scrollIntoView({block:'center'});el.classList.add('speaking');setTimeout(()=>el.classList.remove('speaking'),1500);}},80);};
+  const kb=$('#drKo'); if(kb)kb.onclick=()=>$('#drKoT').classList.toggle('hide');
+  $$('#drc .stag').forEach(b=>b.onclick=()=>{closeDrawer();showTab('struct');setTimeout(()=>{const el=document.getElementById('st'+b.dataset.st);if(el)el.scrollIntoView({block:'start'});},60);});
+}
+function closeDrawer(){$('#drawer').classList.remove('on');}
+
+/* ================= 주어·동사 찾기 퀴즈 ================= */
+function quizPool(n){
+  const c=CH[n-1]; const out=[];
+  c.paras.forEach((para,pi)=>para.forEach((s,si)=>{const sy=syn(n,pi,si); if(sy&&sy[0]&&sy[1]&&s.split(/\s+/).length>=9&&!/^[“"]/.test(s))out.push({id:`${n}.${pi}.${si}`,s,sy});}));
+  return out;
+}
+function renderQuiz(container,n,total){
+  const box=typeof container==='string'?$(container):container;
+  const pool=quizPool(n); if(!pool.length){box.innerHTML='<p class="note">이 장에는 퀴즈로 쓸 문장이 없습니다.</p>';return;}
+  const picks=[]; const used=new Set();
+  while(picks.length<Math.min(total,pool.length)){const k=Math.floor(Math.random()*pool.length); if(!used.has(k)){used.add(k);picks.push(pool[k]);}}
+  let qi=0, ok=0, step='S', pickedS=null;
+  const draw=()=>{
+    if(qi>=picks.length){ S.quiz[n]=S.quiz[n]||[]; S.quiz[n].push({d:dayNum(),ok,total:picks.length}); save();
+      box.innerHTML=`<div class="qz2"><p style="font-size:17px">끝! <b>${ok} / ${picks.length*2}</b> (주어·동사 각 1점)</p><p class="note">${ok>=picks.length*2*0.8?'주어·동사를 잘 찾습니다. 구조 가이드를 한 단계 줄여도 좋겠습니다.':'조금 더 연습이 필요합니다. 요령: 문장 맨 앞의 부사·전치사구·종속절(When…, In the morning…)을 건너뛰고, 첫 번째 "누가"를 찾으세요.'}</p><button class="btn sm" id="qzAgain">다시 5문장</button></div>`;
+      $('#qzAgain').onclick=()=>renderQuiz(box,n,total); return; }
+    const q=picks[qi]; const s=q.s; const re=/[A-Za-z][A-Za-z’'-]*/g; let m, html='', last=0, k=0;
+    while((m=re.exec(s))){html+=esc(s.slice(last,m.index))+`<span class="qw" data-o="${m.index}" data-e="${m.index+m[0].length}">${esc(m[0])}</span>`;last=m.index+m[0].length;}
+    html+=esc(s.slice(last));
+    box.innerHTML=`<div class="qz2"><div class="note">${qi+1} / ${picks.length} · 문장 [${q.id}]</div><div class="qs" id="qzS">${html}</div>
+      <div class="step" id="qzStep">① 이 문장의 <span style="color:#3f6b52">주어</span>(누가/무엇이)를 누르세요</div><div class="fb" id="qzFb"></div>
+      <div class="row"><button class="btn sm hide" id="qzNext">다음 →</button><button class="btn sm" id="qzSkip">모르겠어요 (정답 보기)</button></div></div>`;
+    const inS=(o,e)=>o<q.sy[0][1]&&e>q.sy[0][0], inV=(o,e)=>o<q.sy[1][1]&&e>q.sy[1][0];
+    const reveal=()=>{ $$('#qzS .qw').forEach(w=>{const o=+w.dataset.o,e=+w.dataset.e; if(inS(o,e))w.classList.add('ansS'); if(inV(o,e))w.classList.add('ansV');}); $('#qzNext').classList.remove('hide'); $('#qzSkip').classList.add('hide'); };
+    $$('#qzS .qw').forEach(w=>w.onclick=()=>{
+      const o=+w.dataset.o,e=+w.dataset.e;
+      if(step==='S'){ if(inS(o,e)){ok++;w.classList.add('pickS');$('#qzFb').innerHTML='<span style="color:var(--accent2)">맞았습니다.</span>';} else {w.classList.add('pickS');$('#qzFb').innerHTML=`<span style="color:var(--red)">아쉽네요 — 주어는 <b>${esc(s.slice(q.sy[0][0],q.sy[0][1]))}</b></span>`;}
+        step='V'; $('#qzStep').innerHTML='② 이제 그 주어의 <span style="color:#a1503a">동사</span>(주절의 동사)를 누르세요'; }
+      else if(step==='V'){ if(inV(o,e)){ok++;w.classList.add('pickV');$('#qzFb').innerHTML+=' <span style="color:var(--accent2)">동사도 맞았습니다.</span>';} else {w.classList.add('pickV');$('#qzFb').innerHTML+=` <span style="color:var(--red)">동사는 <b>${esc(s.slice(q.sy[1][0],q.sy[1][1]))}</b></span>`;}
+        step='done'; reveal(); }
+    });
+    $('#qzSkip').onclick=()=>{$('#qzFb').innerHTML=`주어 <b>${esc(s.slice(q.sy[0][0],q.sy[0][1]))}</b> · 동사 <b>${esc(s.slice(q.sy[1][0],q.sy[1][1]))}</b>`;step='done';reveal();};
+    $('#qzNext').onclick=()=>{qi++;step='S';draw();};
+  };
+  draw();
+}
+
+/* ================= TTS ================= */
+let voice=null, speaking=false, queue=[];
+function pickVoice(){
+  if(!('speechSynthesis' in window))return;
+  const vs=speechSynthesis.getVoices(); if(!vs.length)return;
+  voice=vs.find(v=>/en-US/i.test(v.lang)&&/natural|neural|online/i.test(v.name))||vs.find(v=>/en-US/i.test(v.lang))||vs.find(v=>/^en/i.test(v.lang))||vs[0];
+}
+if('speechSynthesis' in window){pickVoice();speechSynthesis.onvoiceschanged=pickVoice;}
+function speakText(t){
+  if(!('speechSynthesis' in window)){toast('이 브라우저는 읽어주기를 지원하지 않습니다');return;}
+  speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(t.replace(/[‘’]/g,"'"));
+  if(voice)u.voice=voice; u.lang='en-US'; u.rate=S.set.rate||0.95; speechSynthesis.speak(u);
+}
+function speakFrom(id){
+  if(!('speechSynthesis' in window)){toast('이 브라우저는 읽어주기를 지원하지 않습니다');return;}
+  stopSpeak();
+  const els=$$('#text .s'); if(!els.length)return;
+  let start=0;
+  if(id){start=els.findIndex(e=>e.dataset.id===id);}
+  else{ // 화면에 보이는 첫 문장부터
+    start=els.findIndex(e=>e.getBoundingClientRect().top>60); if(start<0)start=0;
+  }
+  queue=els.slice(start); speaking=true; next();
+  function next(){
+    if(!speaking||!queue.length){stopSpeak();return;}
+    const el=queue.shift(); $$('#text .s.speaking').forEach(x=>x.classList.remove('speaking')); el.classList.add('speaking');
+    if(el.getBoundingClientRect().bottom>window.innerHeight-80||el.getBoundingClientRect().top<60)el.scrollIntoView({block:'center',behavior:'smooth'});
+    const u=new SpeechSynthesisUtterance(sentById(el.dataset.id).replace(/[‘’]/g,"'"));
+    if(voice)u.voice=voice; u.lang='en-US'; u.rate=S.set.rate||0.95;
+    u.onend=()=>setTimeout(next,120); u.onerror=()=>{stopSpeak();};
+    speechSynthesis.speak(u);
+  }
+}
+function stopSpeak(){speaking=false;queue=[];if('speechSynthesis' in window)speechSynthesis.cancel();$$('#text .s.speaking').forEach(x=>x.classList.remove('speaking'));}
+
+/* ================= SRS (SM-2) ================= */
+function addCard(i,sid){ if(S.cards[i])return; S.cards[i]={ef:2.5,iv:0,rep:0,due:dayNum(),add:dayNum(),lapse:0,sid:sid||null}; save(); updBadge(); }
+function grade(c,q){
+  if(q<3){c.rep=0;c.iv=1;c.lapse=(c.lapse||0)+1;}
+  else{ if(c.rep===0)c.iv=1; else if(c.rep===1)c.iv=6; else c.iv=Math.round(c.iv*c.ef); c.rep++; }
+  c.ef=Math.max(1.3,c.ef+(0.1-(5-q)*(0.08+(5-q)*0.02)));
+  if(q===5&&c.rep===1)c.iv=4;               // 첫 복습에서 '쉬움'이면 4일 뒤
+  c.due=dayNum()+c.iv; c.last=dayNum();
+}
+function dueCards(){const d=dayNum();return Object.keys(S.cards).filter(i=>S.cards[i].due<=d).map(Number);}
+function updBadge(){const n=dueCards().length;const b=$('#dueBadge');b.textContent=n;b.classList.toggle('hide',!n);}
+let rvCur=null, rvSess={done:0,ok:0}, rvQueue=[];
+function renderSRS(){
+  updBadge();
+  const total=Object.keys(S.cards).length, due=dueCards().length, nw=Object.values(S.cards).filter(c=>c.rep===0).length;
+  $('#srsInfo').textContent=`카드 ${total} · 오늘 ${due} · 새 카드 ${nw}`;
+  const rv=$('#rv');
+  if(!total){rv.innerHTML=`<p>아직 카드가 없습니다.</p><p class="note">읽기 전 단어 미리보기에서 <b>카드</b>를 누르거나, 본문에서 단어를 눌러 <b>＋ 카드에 추가</b>하세요.<br>바로 시작하고 싶으면 위의 <b>추천 단어 자동 추가</b>(빈도 5회 이상 중급·고급 단어 30개)를 누르세요.</p>`;return;}
+  if(!rvQueue.length){rvQueue=dueCards().sort((a,b)=>S.cards[a].due-S.cards[b].due||S.cards[a].rep-S.cards[b].rep).slice(0,40);}
+  if(!rvQueue.length){rv.innerHTML=`<p style="font-size:18px">오늘 복습 끝! 🎉</p><p class="note">이번 세션 ${rvSess.done}개 (맞음 ${rvSess.ok}). 다음 복습분은 내일 나타납니다. 이제 읽기로 가세요.</p>`;rvSess={done:0,ok:0};return;}
+  rvCur=rvQueue[0]; const i=rvCur, v=VOCAB[i], c=S.cards[i];
+  const ctxS=(c.sid&&sentById(c.sid))||v.e||'';
+  const forms=[v.w].concat(v.f||[]).sort((a,b)=>b.length-a.length);
+  const re=new RegExp('\\b('+forms.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')\\b','gi');
+  const mode=$('#srsMode').value;
+  if(mode==='rec'){
+    rv.innerHTML=`<div class="note">${rvQueue.length}개 남음 · ${c.rep===0?'새 카드':`${c.rep}회째 · 간격 ${c.iv}일`}</div>
+      <div class="front">${esc(v.w)}</div><div class="pos">${esc(v.p)}${v.f&&v.f.length?' · '+esc(v.f.slice(0,4).join(', ')):''}</div>
+      ${ctxS?`<div class="ctx">${esc(ctxS).replace(re,m=>'<b>'+m+'</b>')}</div>`:''}
+      <div id="rvBack" class="hide"><div class="back">${esc(v.m)}</div>
+        <div class="grades"><button class="g1" data-g="1">다시<small>모르겠다 · 1일</small></button><button class="g3" data-g="3">어려움<small>겨우 떠올림</small></button><button class="g4" data-g="4">좋음<small>떠올림</small></button><button class="g5" data-g="5">쉬움<small>바로 떠올림</small></button></div></div>
+      <div id="rvShow"><button class="btn pri" id="rvFlip">뜻 보기 (먼저 떠올려 보세요)</button> <button class="btn" id="rvSay">🔊</button></div>`;
+    $('#rvFlip').onclick=()=>{$('#rvBack').classList.remove('hide');$('#rvShow').classList.add('hide');};
+    $('#rvSay').onclick=()=>speakText(v.w);
+    $$('#rv [data-g]').forEach(b=>b.onclick=()=>doGrade(+b.dataset.g));
+    document.onkeydown=e=>{ if(!$('#t-srs').classList.contains('on'))return; const shown=!$('#rvBack').classList.contains('hide'); if(e.key===' '&&!shown){e.preventDefault();$('#rvFlip').click();} else if(['1','2','3','4'].includes(e.key)&&shown){doGrade([1,3,4,5][+e.key-1]);} };
+  }else{
+    const blanked=ctxS?esc(ctxS).replace(re,'<span class="blank">?</span>'):'';
+    rv.innerHTML=`<div class="note">${rvQueue.length}개 남음 · ${c.rep===0?'새 카드':`${c.rep}회째 · 간격 ${c.iv}일`}</div>
+      <div class="back" style="font-size:18px;margin-top:8px">${esc(v.m)} <span class="pos">(${esc(v.p)})</span></div>
+      ${blanked?`<div class="ctx">${blanked}</div>`:''}
+      <div><input type="text" id="rvIn" placeholder="영어 단어 입력" autocomplete="off" autocapitalize="off"> <button class="btn pri" id="rvChk">확인</button></div>
+      <div class="fb" id="rvFb"></div>
+      <div id="rvBack" class="hide"><div class="grades"><button class="g1" data-g="1">다시<small>틀림</small></button><button class="g3" data-g="3">어려움<small>힌트로 맞춤</small></button><button class="g4" data-g="4">좋음<small>맞춤</small></button><button class="g5" data-g="5">쉬움<small>바로 맞춤</small></button></div></div>`;
+    const inp=$('#rvIn'); inp.focus();
+    const check=()=>{const a=norm(inp.value); const ok=a===v.w||(v.f||[]).includes(a);
+      $('#rvFb').innerHTML=ok?`<span style="color:var(--accent2)">정답! <b style="font-family:var(--serif)">${esc(v.w)}</b></span>`:`<span style="color:var(--red)">정답은 <b style="font-family:var(--serif)">${esc(v.w)}</b>${v.f&&v.f.length?' ('+esc(v.f.slice(0,4).join(', '))+')':''}</span>`;
+      $('#rvBack').classList.remove('hide'); $('#rvChk').disabled=true; inp.disabled=true;
+      $$('#rv [data-g]').forEach(b=>b.onclick=()=>doGrade(+b.dataset.g));
+      const def=$(`#rv [data-g="${ok?4:1}"]`); if(def)def.style.boxShadow='0 0 0 2px var(--accent)';
+      document.onkeydown=e=>{ if(!$('#t-srs').classList.contains('on'))return; if(e.key==='Enter'){doGrade(ok?4:1);} else if(['1','2','3','4'].includes(e.key)){doGrade([1,3,4,5][+e.key-1]);} };
+    };
+    $('#rvChk').onclick=check; inp.onkeydown=e=>{if(e.key==='Enter')check();};
+    document.onkeydown=null;
+  }
+}
+function doGrade(q){ if(rvCur===null)return; grade(S.cards[rvCur],q); rvSess.done++; if(q>=3)rvSess.ok++; logDay('rev',1);
+  rvQueue.shift(); if(q<3)rvQueue.push(rvCur); // 틀린 카드는 세션 끝에 다시
+  save(); document.onkeydown=null; renderSRS(); }
+$('#srsMode').onchange=()=>renderSRS();
+$('#srsAddFreq').onclick=()=>{
+  const cand=VOCAB.map((v,i)=>[v,i]).filter(([v,i])=>(v.l===2||v.l===3)&&v.n>=5&&!S.cards[i]&&!S.known[i]&&!v.m.includes('OCR')).sort((a,b)=>b[0].n-a[0].n).slice(0,30);
+  cand.forEach(([v,i])=>addCard(i,null)); save(); rvQueue=[]; renderSRS(); toast(`빈도 높은 순으로 ${cand.length}개 추가`);
+};
+$('#srsManage').onclick=()=>{$('#manage').classList.toggle('hide');renderManage();};
+function renderManage(){
+  const q=$('#mq').value.trim().toLowerCase(), f=$('#mfilter').value, d=dayNum();
+  let ids=Object.keys(S.cards).map(Number);
+  if(f==='due')ids=ids.filter(i=>S.cards[i].due<=d); if(f==='new')ids=ids.filter(i=>S.cards[i].rep===0); if(f==='mature')ids=ids.filter(i=>S.cards[i].iv>=21);
+  if(q)ids=ids.filter(i=>VOCAB[i].w.includes(q)||VOCAB[i].m.includes(q));
+  ids.sort((a,b)=>S.cards[a].due-S.cards[b].due);
+  $('#mcnt').textContent=ids.length+'개';
+  $('#mtb').innerHTML=ids.slice(0,300).map(i=>{const v=VOCAB[i],c=S.cards[i];return `<tr><td><span class="w">${esc(v.w)}</span></td><td>${esc(v.m)}</td><td class="note">${c.due<=d?'오늘':dstr(c.due)}</td><td class="note">${c.iv}일 · ${c.rep}회</td><td><button class="btn sm" data-del="${i}">빼기</button> <button class="btn sm" data-kn="${i}">알아요</button></td></tr>`;}).join('');
+  $$('#mtb [data-del]').forEach(b=>b.onclick=()=>{delete S.cards[b.dataset.del];save();rvQueue=[];renderManage();renderSRS();});
+  $$('#mtb [data-kn]').forEach(b=>b.onclick=()=>{delete S.cards[b.dataset.kn];S.known[b.dataset.kn]=1;save();rvQueue=[];renderManage();renderSRS();});
+}
+$('#mq').oninput=renderManage; $('#mfilter').onchange=renderManage;
+$('#addq').oninput=()=>{
+  const q=$('#addq').value.trim().toLowerCase(); const box=$('#addres'); if(q.length<2){box.innerHTML='';return;}
+  const hits=VOCAB.map((v,i)=>[v,i]).filter(([v])=>v.w.startsWith(q)||(v.f||[]).some(f=>f.startsWith(q))).slice(0,12);
+  box.innerHTML=hits.map(([v,i])=>`<div class="row" style="padding:5px 0;border-bottom:1px solid var(--line)"><span class="w" style="font-family:var(--serif);font-weight:600">${esc(v.w)}</span><span class="note">${esc(v.p)} ${esc(v.m)} · ${v.n}회</span><span style="margin-left:auto"></span><button class="btn sm ${S.cards[i]?'grn':''}" data-add="${i}">${S.cards[i]?'카드 ✓':'카드 추가'}</button></div>`).join('')||'<p class="note">없습니다</p>';
+  $$('#addres [data-add]').forEach(b=>b.onclick=()=>{const i=+b.dataset.add;if(!S.cards[i]){addCard(i,null);delete S.known[i];save();}rvQueue=[];$('#addq').oninput();renderSRS();});
+};
+
+/* ================= 문장구조 ================= */
+let structDone=false;
+function renderStruct(){
+  const b2=$('#qzStart2'); if(b2)b2.onclick=()=>renderQuiz('#qzbox2',S.cur.ch,5);
+  if(structDone)return; structDone=true;
+  $('#sw').innerHTML=STRUCT.map(s=>`
+   <div class="card sc" id="st${s.id}">
+     <div><span class="cat">${s.cat}</span><span class="note">본문 약 ${(RD.tagcount[s.id]||s.count).toLocaleString()}회</span></div>
+     <h3 style="margin:4px 0 0">${s.id}. ${s.title}</h3>
+     <p style="margin:6px 0 0">${s.explain}</p>
+     <div class="formula">${s.formula}</div>
+     ${s.ex.map(e=>`<div class="en">${esc(e.en)}</div><div class="ko">${esc(e.ko)}</div>`).join('')}
+     <div class="tip">${s.tip}</div>
+     <div class="more"><button class="btn sm" data-find="${s.id}">본문에서 찾기 (읽는 장 우선)</button><div class="hits" id="hits${s.id}"></div></div>
+   </div>`).join('');
+  $$('#sw [data-find]').forEach(b=>b.onclick=()=>{
+    const id=+b.dataset.find; const box=$('#hits'+id); if(box.innerHTML){box.innerHTML='';return;}
+    const out=[]; const order=[S.cur.ch].concat(CH.map(c=>c.n).filter(n=>n!==S.cur.ch));
+    for(const n of order){ for(const [pi,si,ids] of RD.chapters[n-1].tags){ if(ids.includes(id)){out.push([n,pi,si]); if(out.length>=12)break;} } if(out.length>=12)break; }
+    box.innerHTML=out.map(([n,pi,si])=>{const id2=`${n}.${pi}.${si}`;const s=CH[n-1].paras[pi][si];return `<div class="hit" data-go="${id2}"><span class="loc">${n}장</span>${esc(s.length>200?s.slice(0,200)+'…':s)}${ANA[id2]?' 🔍':''}</div>`;}).join('')||'<p class="note">없습니다</p>';
+    box.querySelectorAll('[data-go]').forEach(h=>h.onclick=()=>openDrawer(h.dataset.go));
+  });
+}
+
+/* ================= 기록 ================= */
+function renderStats(){
+  const chDone=Object.keys(S.done).length; const reads=[].concat(...Object.entries(S.reads).map(([n,r])=>r.map(x=>Object.assign({n:+n},x))));
+  const secs=reads.reduce((a,r)=>a+r.secs,0); const cards=Object.values(S.cards); const mature=cards.filter(c=>c.iv>=21).length;
+  const days=Object.keys(S.log).map(Number).sort(); let streak=0; const d=dayNum(); for(let k=d;S.log[k];k--)streak++;
+  const known=Object.keys(S.known).length;
+  $('#st').innerHTML=[['완료한 장',`${chDone} / 50`],['총 읽기 시간',`${Math.round(secs/60)}분`],['읽기 횟수',reads.length],['단어 카드',cards.length],['익힌 카드(21일↑)',mature],['알아요 표시',known],['연속 학습일',`${streak}일`]].map(([k,v])=>`<div><b>${v}</b><span>${k}</span></div>`).join('');
+  const last=reads.slice(-24); const mx=Math.max(100,...last.map(r=>r.wpm));
+  $('#wpmbars').innerHTML=last.map(r=>`<i style="height:${r.wpm/mx*100}%" title="${r.n}장 ${r.wpm} WPM"><span>${r.n}장</span></i>`).join('')||'<p class="note">읽기 기록이 쌓이면 여기에 그래프가 그려집니다.</p>';
+  // 전체 커버리지
+  let tok=0,cov=0; RD.chapters.forEach(rc=>{tok+=rc.tok;cov+=rc.l1+rc.pn;rc.words.forEach(([i,c])=>{if(isKnownIdx(i))cov+=c;});});
+  const pct=cov/tok*100; const cls=pct>=98?'':pct>=95?'warn':'bad';
+  $('#covall').innerHTML=`<div class="row"><b style="font-size:22px;font-family:var(--serif)">${pct.toFixed(1)}%</b><span class="note">소설 전체 기준 · 95% 선 ${pct>=95?'통과':'미달'} · 98% 선 ${pct>=98?'통과':'미달'}</span></div><div class="meter" style="margin-top:6px"><i class="${cls}" style="width:${Math.max(0,(pct-85)/13*100)}%"></i></div>`;
+}
+$('#exp').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(S)],{type:'application/json'}));a.download=`silkworm_reader_기록_${new Date().toISOString().slice(0,10)}.json`;a.click();};
+$('#imp').onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const j=JSON.parse(r.result);if(!j.cards&&!j.reads)throw 0;S=Object.assign(def(),j);save();location.reload();}catch(x){toast('파일을 읽을 수 없습니다');}};r.readAsText(f);};
+$('#reset').onclick=()=>{if(confirm('모든 기록(카드·읽기·답안)을 지웁니다. 계속할까요?')){localStorage.removeItem(KEY);location.reload();}};
+
+/* ================= 시작 ================= */
+function hdr(){const due=dueCards().length;$('#hdr').textContent=`오늘 복습 ${due}개 · 완료 ${Object.keys(S.done).length}/${CH.length}장`;}
+renderChList(); renderPane(); updBadge(); hdr(); setInterval(hdr,5000);
+document.addEventListener('visibilitychange',()=>{ if(document.hidden)hidePop(); });
+// 읽기 진행 막대 + 맨 위로
+window.addEventListener('scroll',()=>{ const h=document.documentElement; const p=h.scrollHeight>h.clientHeight?window.scrollY/(h.scrollHeight-h.clientHeight)*100:0; $('#prog').style.width=p+'%'; $('#totop').style.opacity=window.scrollY>600?'1':'0'; $('#totop').style.pointerEvents=window.scrollY>600?'auto':'none'; },{passive:true});
+$('#totop').onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
+// 오프라인용 서비스 워커 (GitHub Pages 등 https 에서만; 로컬 파일로 열면 건너뜀)
+if('serviceWorker' in navigator&&location.protocol.startsWith('http')){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+</script>
+</body>
+</html>

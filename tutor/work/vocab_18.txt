@@ -1,0 +1,80 @@
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장6회/전체122회
+lane	n.	좁은 길, 골목	L2	이장5회/전체23회
+upon	prep.	~위에(on보다 격식체)	L2	이장3회/전체146회
+glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장3회/전체21회
+bout	n.	(질병·활동의) 한바탕, (권투) 시합	L2	이장3회/전체19회
+schoolhouse	n.	교사(校舍), 학교 건물	L2	이장3회/전체7회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장2회/전체82회
+though	conj., adv.	비록 ~이지만, 그렇지만	L2	이장2회/전체19회
+auntie	n.	아주머니, 이모(aunt의 애칭)	L2	이장2회/전체18회
+drift	v., n.	떠돌다, 표류하다	L2	이장2회/전체18회
+warn't	v.	~이 아니었다(wasn't/weren't의 사투리)	L3	이장2회/전체16회
+lick	v., n.	때리다, 이기다(구어), 핥다, 매질	L2	이장2회/전체16회
+drag	v., n.	끌다, 끌기	L2	이장2회/전체12회
+pity	n., v.	동정, 유감; 동정하다	L2	이장2회/전체11회
+nevertheless	adv.	그럼에도 불구하고	L2	이장2회/전체9회
+cast	n., v.	배역; 던지다, 배역을 정하다	L2	이장2회/전체7회
+whipped	v.	매질했다, 채찍질했다	L2	이장2회/전체6회
+observed	v.	말했다, 관찰했다, 알아차렸다	L2	이장2회/전체6회
+sycamore	n.	플라타너스, 미국 버즘나무	L3	이장2회/전체5회
+spelling-book	n.	철자 교본, 철자 교과서	L2	이장2회/전체5회
+hint	n., v.	암시, 힌트, 암시하다	L2	이장2회/전체4회
+wistfully	adv.	아쉬운 듯이, 그리운 듯이	L3	이장2회/전체4회
+conscious	adj.	의식이 있는, 의식적인	L2	이장2회/전체4회
+furtively	adv.	몰래, 슬그머니	L3	이장2회/전체3회
+jolly	adj.	명랑한, 즐거운(영국 구어)	L2	이장2회/전체2회
+within	prep.	~이내에	L2	이장1회/전체27회
+kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장1회/전체24회
+shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+sigh	v., n.	한숨 쉬다, 한숨	L2	이장1회/전체15회
+pause	v., n.	잠시 멈추다, 멈춤	L2	이장1회/전체15회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장1회/전체15회
+creep	v.	살금살금 기다, 기어가다	L2	이장1회/전체14회
+seize	v.	붙잡다, 장악하다	L2	이장1회/전체14회
+conscience	n.	양심	L2	이장1회/전체14회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+remark	v., n.	말하다, 발언	L2	이장1회/전체13회
+distress	n., v.	고통, 괴로움; 괴롭히다	L2	이장1회/전체13회
+forth	adv.	앞으로, 밖으로	L2	이장1회/전체11회
+bother	v.	신경 쓰다, 괴롭히다	L2	이장1회/전체11회
+dim	adj.	어둑한, 흐릿한	L2	이장1회/전체10회
+bark	v., n.	(개가) 짖다, 나무껍질	L2	이장1회/전체10회
+spectacle	n.	광경, 구경거리, (복수) 안경	L2	이장1회/전체10회
+grateful	adj.	감사하는	L2	이장1회/전체10회
+entirely	adv.	완전히	L2	이장1회/전체10회
+disturbed	v., adj.	방해했다, 불안하게 했다, 어지럽혀진	L2	이장1회/전체8회
+procession	n.	행렬, 행진	L2	이장1회/전체7회
+absorbed	v., adj.	몰두한, 흡수된	L2	이장1회/전체7회
+resume	v.	다시 시작하다, 재개하다	L2	이장1회/전체7회
+miserable	adj.	비참한, 불행한	L2	이장1회/전체7회
+grieve	v.	슬퍼하다, 슬프게 하다	L2	이장1회/전체6회
+eloquent	adj.	웅변의, 유창한	L3	이장1회/전체6회
+betray	v.	배신하다	L2	이장1회/전체6회
+roused	v.	깨웠다, 분발시켰다	L2	이장1회/전체6회
+intolerable	adj.	참을 수 없는	L2	이장1회/전체6회
+musing	v., n.	생각에 잠긴, 사색	L3	이장1회/전체6회
+desert	v., n.	버리다, 저버리다, 사막	L2	이장1회/전체6회
+homeward	adv.	집으로, 집을 향해	L2	이장1회/전체6회
+discomfort	n.	불편함	L2	이장1회/전체5회
+pleaded	v.	애원했다, 간청했다	L2	이장1회/전체5회
+recollect	v.	기억해 내다, 회상하다	L2	이장1회/전체5회
+d'you	v.	do you의 축약(영국 구어)	L3	이장1회/전체5회
+utter	v., adj.	입 밖에 내다, 말하다, 완전한	L2	이장1회/전체5회
+indifferent	adj.	무관심한	L2	이장1회/전체5회
+uneasy	adj.	불안한	L2	이장1회/전체5회
+hateful	adj.	혐오스러운	L2	이장1회/전체5회
+suspect	n., v.	용의자, 의심하다	L2	이장1회/전체5회
+rid	adj., v.	없애다, ~에서 벗어난(get rid of)	L2	이장1회/전체5회
+spite	n.	악의, 앙심	L2	이장1회/전체5회
+giddy	adj.	어지러운, 들뜬	L2	이장1회/전체4회
+anxious	adj.	불안한, 염려하는	L2	이장1회/전체4회
+villain	n.	악당, 악한	L2	이장1회/전체4회
+prance	v.	뽐내며 걷다, 껑충거리다	L3	이장1회/전체4회
+summit	n.	정상, 꼭대기	L2	이장1회/전체4회
+gratified	adj.	만족한, 흡족한	L3	이장1회/전체4회
+vanity	n.	허영심	L3	이장1회/전체4회
+skylarking	v., n.	장난치며 떠들기, 야단법석(구어)	L3	이장1회/전체4회
+pang	n.	(마음의) 고통, 격통	L2	이장1회/전체4회
+grace	n.	우아함, 은총, 식전 기도	L2	이장1회/전체4회
+chatter	v., n.	재잘거리다; 수다	L2	이장1회/전체4회

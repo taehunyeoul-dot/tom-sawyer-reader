@@ -1,0 +1,80 @@
+upon	prep.	~위에(on보다 격식체)	L2	이장6회/전체146회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장6회/전체82회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장5회/전체76회
+by-and-by	adv.	이윽고, 곧, 나중에(옛말)	L3	이장5회/전체12회
+passage	n.	(책의) 구절, 통로	L2	이장5회/전체8회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장3회/전체15회
+shortly	adv.	곧, 얼마 안 있어	L2	이장3회/전체12회
+stretch	v., n.	늘이다, 뻗다, (길게 뻗은) 구간	L2	이장3회/전체12회
+cavern	n.	동굴	L2	이장3회/전체7회
+distant	adj.	먼, 거리가 있는; (태도가) 냉담한	L2	이장3회/전체6회
+kite-line	n.	연줄	L2	이장3회/전체5회
+echoes	n., v.	메아리(들), 울려 퍼지다	L2	이장3회/전체3회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장2회/전체17회
+seize	v.	붙잡다, 장악하다	L2	이장2회/전체14회
+aisle	n.	통로	L2	이장2회/전체13회
+dreadful	adj.	끔찍한	L2	이장2회/전체9회
+misery	n.	비참함, 고통	L2	이장2회/전체8회
+fasten	v.	매다, 고정시키다	L2	이장2회/전체7회
+instantly	adv.	즉시	L2	이장2회/전체6회
+clung	v.	매달렸다, 달라붙었다(cling의 과거형)	L2	이장2회/전체5회
+somewhat	adv.	다소, 약간	L2	이장2회/전체4회
+groping	v.	더듬는	L2	이장2회/전체4회
+searchers	n.	수색자들	L2	이장2회/전체4회
+groped	v.	더듬었다, 부적절하게 만졌다	L2	이장2회/전체4회
+stalactite	n.	종유석	L3	이장2회/전체3회
+frescoed	adj., v.	프레스코화로 장식된	L3	이장2회/전체2회
+horrid	adj.	끔찍한, 지긋지긋한	L2	이장2회/전체2회
+revive	v.	되살리다, 되살아나다	L2	이장2회/전체2회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장1회/전체122회
+mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장1회/전체26회
+glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장1회/전체21회
+bury	v.	묻다, 매장하다	L2	이장1회/전체20회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+rag	n.	헝겊, 넝마	L2	이장1회/전체16회
+trifle	n., v.	사소한 것, 조금, 가지고 놀다	L3	이장1회/전체15회
+awhile	adv.	잠시, 잠깐	L2	이장1회/전체15회
+groan	v., n.	신음하다; 신음	L2	이장1회/전체15회
+distress	n., v.	고통, 괴로움; 괴롭히다	L2	이장1회/전체13회
+creature	n.	생물, 생명체	L2	이장1회/전체12회
+shudder	v., n.	몸서리치다, 전율하다	L2	이장1회/전체12회
+drag	v., n.	끌다, 끌기	L2	이장1회/전체12회
+rather	adv.	오히려, 꽤, 다소	L2	이장1회/전체10회
+vast	adj.	광대한, 방대한	L2	이장1회/전체10회
+dim	adj.	어둑한, 흐릿한	L2	이장1회/전체10회
+grateful	adj.	감사하는	L2	이장1회/전체10회
+clay	n.	진흙, 점토	L2	이장1회/전체10회
+stillness	n.	고요, 정적	L2	이장1회/전체9회
+dread	v., n.	두려워하다, 공포	L2	이장1회/전체9회
+hush	n.,int.	정적; 쉿(조용히 해)	L2	이장1회/전체9회
+manner	n.	태도, 방식	L2	이장1회/전체9회
+reveal	v.	드러내다, 밝히다	L2	이장1회/전체9회
+sorrow	n.	슬픔, 비애	L2	이장1회/전체9회
+prisoner	n.	죄수, 포로	L2	이장1회/전체9회
+scarcely	adv.	거의 ~않다	L2	이장1회/전체8회
+disturbed	v., adj.	방해했다, 불안하게 했다, 어지럽혀진	L2	이장1회/전체8회
+pale	adj.	창백한	L2	이장1회/전체8회
+grief	n.	슬픔, 비탄	L2	이장1회/전체8회
+afterward	adv.	나중에, 그 후	L2	이장1회/전체8회
+stone	n.	돌, 스톤(영국식 무게 단위, 약 6.35kg)	L2	이장1회/전체7회
+miserable	adj.	비참한, 불행한	L2	이장1회/전체7회
+resume	v.	다시 시작하다, 재개하다	L2	이장1회/전체7회
+torment	v., n.	괴롭히다, 고통	L2	이장1회/전체7회
+breast	n.	가슴	L2	이장1회/전체7회
+weary	adj.	지친	L2	이장1회/전체7회
+torture	n., v.	고문	L2	이장1회/전체7회
+dreary	adj.	음울한, 쓸쓸한	L3	이장1회/전체7회
+squeeze	v., n.	꽉 쥐다, 짜다	L2	이장1회/전체6회
+conduct	n., v.	행실, 행동, 이끌다	L2	이장1회/전체6회
+faint	adj., v.	희미한, 기절하다	L2	이장1회/전체6회
+bosom	n.	가슴, 품	L3	이장1회/전체6회
+bore	v., n.	지루하게 하다; (bear의 과거형) 낳았다, 견뎠다; 지루한 사람	L2	이장1회/전체6회
+musing	v., n.	생각에 잠긴, 사색	L3	이장1회/전체6회
+feeble	adj.	미약한, 허약한	L2	이장1회/전체6회
+tedious	adj.	지루한, 따분한	L2	이장1회/전체6회
+roused	v.	깨웠다, 분발시켰다	L2	이장1회/전체6회
+midst	n.	한가운데, 한복판	L2	이장1회/전체5회
+rid	adj., v.	없애다, ~에서 벗어난(get rid of)	L2	이장1회/전체5회
+profound	adj.	깊은, 심오한	L2	이장1회/전체5회
+conspicuous	adj.	눈에 띄는	L3	이장1회/전체5회
+abuse	n., v.	학대, 남용; 학대하다	L2	이장1회/전체5회

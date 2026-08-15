@@ -1,0 +1,80 @@
+upon	prep.	~위에(on보다 격식체)	L2	이장3회/전체146회
+relapse	n., v.	재발, 다시 빠져들다	L3	이장3회/전체3회
+swear	v.	맹세하다, 욕하다	L2	이장2회/전체21회
+grateful	adj.	감사하는	L2	이장2회/전체10회
+abandoned	adj.	버려진	L2	이장2회/전체4회
+regalia	n.	예복, 화려한 장식·복장	L3	이장2회/전체3회
+cadets	n.	사관생도, (금주 소년단) 단원(Cadets of Temperance)	L2	이장2회/전체2회
+measles	n.	홍역	L2	이장2회/전체2회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장1회/전체82회
+lad	n.	소년, 젊은이	L2	이장1회/전체23회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+rag	n.	헝겊, 넝마	L2	이장1회/전체16회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+creep	v.	살금살금 기다, 기어가다	L2	이장1회/전체14회
+creature	n.	생물, 생명체	L2	이장1회/전체12회
+pin	n., v.	핀, 고정시키다	L2	이장1회/전체11회
+spectacle	n.	광경, 구경거리, (복수) 안경	L2	이장1회/전체10회
+venture	v., n.	감히 ~하다, 모험	L2	이장1회/전체9회
+dreadful	adj.	끔찍한	L2	이장1회/전체9회
+prisoner	n.	죄수, 포로	L2	이장1회/전체9회
+afterward	adv.	나중에, 그 후	L2	이장1회/전체8회
+misery	n.	비참함, 고통	L2	이장1회/전체8회
+seek	v.	찾다, 추구하다	L2	이장1회/전체8회
+torment	v., n.	괴롭히다, 고통	L2	이장1회/전체7회
+procession	n.	행렬, 행진	L2	이장1회/전체7회
+impulse	n.	충동	L2	이장1회/전체7회
+bosom	n.	가슴, 품	L3	이장1회/전체6회
+pronounced	adj., v.	뚜렷한, 현저한, 발음하다	L2	이장1회/전체5회
+feebly	adv.	힘없이	L2	이장1회/전체5회
+doom	n., v.	파멸, 운명, 운명 짓다	L2	이장1회/전체5회
+juvenile	adj., n.	소년의, 청소년의, 아이	L2	이장1회/전체5회
+negro	n.	흑인(옛말, 현대에는 쓰지 않는 표현)	L3	이장1회/전체4회
+consequence	n.	결과	L2	이장1회/전체4회
+depression	n.	우울, 침울, 움푹 꺼진 곳	L2	이장1회/전체4회
+spare	adj., v., n.	여분의, 아끼다, 할애하다	L2	이장1회/전체4회
+namely	adv.	즉, 다시 말해	L2	이장1회/전체3회
+sash	n.	창틀(내리닫이 창의 틀), 띠	L3	이장1회/전체3회
+apparently	adv.	보아하니, 듣자하니	L2	이장1회/전체3회
+deeply	adv.	깊이	L2	이장1회/전체3회
+calculated	adj., v.	계산된, 치밀하게 계획된	L2	이장1회/전체3회
+sensation	n.	감각, 느낌; 센세이션	L2	이장1회/전체3회
+overwhelm	v.	압도하다, 휩쓸다	L2	이장1회/전체3회
+refuge	n.	피난처, 도피	L2	이장1회/전체3회
+accomplish	v.	이루다, 성취하다	L2	이장1회/전체3회
+intense	adj.	강렬한, 격렬한	L2	이장1회/전체2회
+shackles	n.	족쇄, 수갑	L3	이장1회/전체2회
+discouraging	adj., v.	낙담시키는, 실망스러운	L2	이장1회/전체2회
+disgust	n., v.	혐오감; 역겹게 하다	L2	이장1회/전체2회
+covet	v.	몹시 탐내다	L3	이장1회/전체2회
+constantinople	n.	콘스탄티노플(지명, 현 이스탄불)	L2	이장1회/전체2회
+depressing	adj.	우울하게 하는	L2	이장1회/전체2회
+encountered	v.	마주쳤다, 맞닥뜨렸다(encounter의 과거)	L2	이장1회/전체2회
+quotation	n.	인용문, 견적	L2	이장1회/전체2회
+terrific	adj.	무시무시한, 굉장한(옛 뜻은 '무서운')	L2	이장1회/전체2회
+pomp	n.	화려한 의식, 허례	L3	이장1회/전체2회
+tempest	n.	폭풍우	L3	이장1회/전체2회
+reform	v., n.	개심하다, 개혁(하다)	L2	이장1회/전체2회
+forlorn	adj.	쓸쓸한, 처량한	L3	이장1회/전체2회
+listlessly	adv.	무기력하게, 힘없이	L3	이장1회/전체2회
+showy	adj.	화려한, 눈에 띄는	L2	이장1회/전체1회
+abstain	v.	삼가다, 절제하다	L2	이장1회/전체1회
+profanity	n.	욕설, 불경한 말	L3	이장1회/전체1회
+withdrawing	v.	물러나다, 철수하다, 인출하다	L2	이장1회/전체1회
+frazer	n.	프레이저(인명, 치안판사 Judge Frazer)	L3	이장1회/전체1회
+deathbed	n.	임종의 자리	L2	이장1회/전체1회
+looking-glass	n.	거울(옛말)	L3	이장1회/전체1회
+fluctuating	v., adj.	오르내리다, 변동하는	L3	이장1회/전체1회
+convalescent	adj., n.	회복기의, 회복기 환자	L3	이장1회/전체1회
+resignation	n.	체념, 단념	L2	이장1회/전체1회
+paraded	v.	행진했다, 뽐내며 걸었다	L2	이장1회/전체1회
+minstrel	n.	민스트럴(흑인 분장 유랑 악극단), 음유시인	L3	이장1회/전체1회
+performers	n.	연기자들, 공연자들	L2	이장1회/전체1회
+benton	n.	벤턴(미주리 주 상원의원 이름)	L2	이장1회/전체1회
+senator	n.	상원의원	L2	이장1회/전체1회
+carpeting	n.	카펫(감), 융단	L2	이장1회/전체1회
+admission	n.	인정, 시인; 입장	L2	이장1회/전체1회
+phrenologist	n.	골상학자	L3	이장1회/전체1회
+mesmerizer	n.	최면술사	L3	이장1회/전체1회
+duller	adj.	더 따분한, 더 흐릿한(dull의 비교급)	L2	이장1회/전체1회

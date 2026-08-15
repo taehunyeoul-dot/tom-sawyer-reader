@@ -1,0 +1,80 @@
+minister	n.	목사, 성직자	L2	이장6회/전체13회
+upon	prep.	~위에(on보다 격식체)	L2	이장5회/전체146회
+congregation	n.	(교회) 신자들, 회중	L2	이장4회/전체7회
+sob	v., n.	흐느끼다; 흐느낌	L2	이장3회/전체13회
+lad	n.	소년, 젊은이	L2	이장2회/전체23회
+grief	n.	슬픔, 비탄	L2	이장2회/전체8회
+departed	v., adj.	떠났다, 죽은	L2	이장2회/전체6회
+rustle	n., v.	바스락거리는 소리, 바스락거리다	L3	이장2회/전체6회
+distinction	n.	차이, 뛰어남	L2	이장2회/전체3회
+mourners	n.	조문객들	L2	이장2회/전체2회
+persistently	adv.	끈질기게, 집요하게	L2	이장2회/전체2회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장1회/전체122회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장1회/전체82회
+stare	v., n.	응시하다, 응시	L2	이장1회/전체20회
+shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+lick	v., n.	때리다, 이기다(구어), 핥다, 매질	L2	이장1회/전체16회
+rag	n.	헝겊, 넝마	L2	이장1회/전체16회
+sigh	v., n.	한숨 쉬다, 한숨	L2	이장1회/전체15회
+trifle	n., v.	사소한 것, 조금, 가지고 놀다	L3	이장1회/전체15회
+pause	v., n.	잠시 멈추다, 멈춤	L2	이장1회/전체15회
+sermon	n.	설교	L2	이장1회/전체15회
+conscience	n.	양심	L2	이장1회/전체14회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+seize	v.	붙잡다, 장악하다	L2	이장1회/전체14회
+aisle	n.	통로	L2	이장1회/전체13회
+gradually	adv.	점차, 서서히	L2	이장1회/전체10회
+dismal	adj.	음침한, 우울한	L3	이장1회/전체10회
+witness	n., v.	목격자, 증인, 목격하다	L2	이장1회/전체10회
+hush	n.,int.	정적; 쉿(조용히 해)	L2	이장1회/전체9회
+proceed	v.	진행하다, 나아가다	L2	이장1회/전체9회
+pale	adj.	창백한	L2	이장1회/전체8회
+disturbed	v., adj.	방해했다, 불안하게 했다, 어지럽혀진	L2	이장1회/전체8회
+mourn	v.	슬퍼하다, 애도하다	L2	이장1회/전체7회
+schoolhouse	n.	교사(校舍), 학교 건물	L2	이장1회/전체7회
+impulse	n.	충동	L2	이장1회/전체7회
+sneak	v.	몰래 가다, 슬쩍 하다	L2	이장1회/전체7회
+conduct	n., v.	행실, 행동, 이끌다	L2	이장1회/전체6회
+desert	v., n.	버리다, 저버리다, 사막	L2	이장1회/전체6회
+brass	n., adj.	놋쇠, (영국 구어) 돈	L2	이장1회/전체6회
+chap	n.	녀석, 사내	L2	이장1회/전체6회
+musing	v., n.	생각에 잠긴, 사색	L3	이장1회/전체6회
+rank	n., adj.	계급, 지위; (냄새가) 지독한(주로 부정적)	L3	이장1회/전체6회
+march	v., n.	행진하다	L2	이장1회/전체6회
+choke	v.	숨막히다, 질식시키다	L2	이장1회/전체5회
+evidence	n.	증거	L2	이장1회/전체5회
+sacred	adj.	신성한	L2	이장1회/전체5회
+awe	n.	경외감	L2	이장1회/전체5회
+pew	n.	(교회의) 신도석, 긴 의자	L2	이장1회/전체5회
+interval	n.	간격, 사이	L2	이장1회/전체5회
+creak	v., n.	삐걱거리다, 삐걱 소리	L2	이장1회/전체5회
+swell	v., n.	부풀다, 붓다, 팽창	L2	이장1회/전체5회
+juvenile	adj., n.	소년의, 청소년의, 아이	L2	이장1회/전체5회
+grandeur	n.	웅장함, 위엄	L3	이장1회/전체4회
+manifest	v.,adj.	드러내다, 명백한	L2	이장1회/전체4회
+muffled	adj.	(소리가) 뭉개진, 낮게 들리는	L2	이장1회/전체4회
+grace	n.	우아함, 은총, 식전 기도	L2	이장1회/전체4회
+pang	n.	(마음의) 고통, 격통	L2	이장1회/전체4회
+noble	adj., n.	고귀한, 훌륭한, 귀족	L2	이장1회/전체4회
+episode	n.	사건, 일화	L2	이장1회/전체4회
+drooping	adj., v.	축 늘어진, 고개 숙인	L2	이장1회/전체4회
+smothered	v., adj.	억눌린, 질식시켰다, 숨죽인	L2	이장1회/전체4회
+confessed	v.	자백했다, 고백했다	L2	이장1회/전체4회
+accord	n., v.	일치, 자발적으로(of one's own accord), 부여하다	L2	이장1회/전체4회
+tranquil	adj.	고요한, 평온한	L2	이장1회/전체3회
+absent	adj.	부재한, 결석한	L2	이장1회/전체3회
+burden	n., v.	부담, 짐(을 지우다)	L2	이장1회/전체3회
+vestibule	n.	현관, 입구 홀	L3	이장1회/전체3회
+hymn	n.	찬송가	L2	이장1회/전체3회
+pathetic	adj.	한심한, 딱한(주로 부정적)	L2	이장1회/전체3회
+anguish	n.	극심한 고통, 고뇌	L3	이장1회/전체3회
+pulpit	n.	설교단, 강단	L3	이장1회/전체3회
+rear	n., adj., v.	뒤(쪽)의, 기르다	L2	이장1회/전체3회
+waver	v.	흔들리다, 망설이다	L2	이장1회/전체3회
+troop	n., v.	무리, 떼, 무리 지어 가다	L2	이장1회/전체3회
+possessed	v., adj.	소유한, (귀신에) 홀린	L2	이장1회/전체2회
+ordinarily	adv.	보통은, 평상시에는	L2	이장1회/전체2회
+soliloquized	v.	혼잣말했다	L3	이장1회/전체2회
+so-and-so	n.	아무개, 이러저러한 것	L2	이장1회/전체2회

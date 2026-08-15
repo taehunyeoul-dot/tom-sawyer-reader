@@ -1,0 +1,74 @@
+speck	n.	작은 점, 얼룩	L2	이장3회/전체4회
+kite-line	n.	연줄	L2	이장2회/전체5회
+searchers	n.	수색자들	L2	이장2회/전체4회
+groped	v.	더듬었다, 부적절하게 만졌다	L2	이장2회/전체4회
+huzzah	int.	만세!(옛 환호성)	L3	이장2회/전체2회
+upon	prep.	~위에(on보다 격식체)	L2	이장1회/전체146회
+widow	n.	미망인	L2	이장1회/전체39회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+rag	n.	헝겊, 넝마	L2	이장1회/전체16회
+fetch	v.	가서 가져오다	L2	이장1회/전체16회
+drown	v.	익사하다, 물에 빠뜨리다	L2	이장1회/전체15회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+seize	v.	붙잡다, 장악하다	L2	이장1회/전체14회
+skiff	n.	작은 배, 소형 보트	L3	이장1회/전체14회
+stretch	v., n.	늘이다, 뻗다, (길게 뻗은) 구간	L2	이장1회/전체12회
+row	n.	줄, 말다툼(영국 구어)	L2	이장1회/전체11회
+moan	v., n.	신음하다, 투덜대다(영국 구어), 신음	L2	이장1회/전체9회
+citizen	n.	시민	L2	이장1회/전체9회
+labor	n., v.	노동, 일, 애쓰다	L2	이장1회/전체9회
+passage	n.	(책의) 구절, 통로	L2	이장1회/전체8회
+twilight	n.	황혼, 땅거미	L2	이장1회/전체7회
+mourn	v.	슬퍼하다, 애도하다	L2	이장1회/전체7회
+procession	n.	행렬, 행진	L2	이장1회/전체7회
+homeward	adv.	집으로, 집을 향해	L2	이장1회/전체6회
+march	v., n.	행진하다	L2	이장1회/전체6회
+squeeze	v., n.	꽉 쥐다, 짜다	L2	이장1회/전체6회
+roar	v., n.	으르렁거리다, 굉음(을 내다)	L2	이장1회/전체5회
+glimpse	n., v.	언뜻 봄, 잠깐 보다	L2	이장1회/전체5회
+peal	n., v.	종소리의 울림, 우렁찬 소리, 울려 퍼지다	L3	이장1회/전체4회
+throng	n., v.	군중; 떼지어 모이다	L3	이장1회/전체4회
+adorn	v.	장식하다, 꾸미다	L3	이장1회/전체4회
+far-off	adj.	멀리 떨어진, 아득한	L2	이장1회/전체4회
+toil	n., v.	노고, 고생, 힘들게 일하다	L2	이장1회/전체4회
+swarm	n., v.	떼, 무리(를 짓다)	L2	이장1회/전체3회
+frantic	adj.	미친 듯한, 정신없는	L2	이장1회/전체3회
+mass	n., adj.	덩어리, 대량; 대규모의	L2	이장1회/전체3회
+illuminate	v.	비추다, 밝히다	L2	이장1회/전체3회
+expedition	n.	원정, 탐험	L2	이장1회/전체3회
+stuff	n., v.	물건, 것들, 채우다	L2	이장1회/전체3회
+handful	n.	한 줌, 소수	L2	이장1회/전체3회
+clew	n.	실마리, 단서(clue의 옛 철자)	L3	이장1회/전체3회
+wane	v., n.	이지러지다, 약해지다	L3	이장1회/전체2회
+quest	n.	탐색, 추구	L2	이장1회/전체2회
+delirious	adj.	헛소리하는, 정신착란의, 열광적인	L3	이장1회/전체2회
+heartbreak	n.	비통, 상심	L2	이장1회/전체2회
+drooped	v.	축 늘어졌다, 고개를 떨구었다(droop의 과거)	L3	이장1회/전체2회
+forlorn	adj.	쓸쓸한, 처량한	L3	이장1회/전체2회
+withal	adv.	그럼에도(고어)	L3	이장1회/전체2회
+fret	v., n.	초조해하다, 안달하다, 초조	L3	이장1회/전체2회
+gladness	n.	기쁨	L2	이장1회/전체2회
+hailed	v.	환호했다, (택시를) 불러 세웠다, 칭송했다	L2	이장1회/전체2회
+famished	adj.	몹시 굶주린	L3	이장1회/전체2회
+ferry-landing	n.	나루터, 연락선 선착장	L3	이장1회/전체2회
+fortnight	n.	2주일(영국식 표현)	L2	이장1회/전체2회
+petitioner	n.	청원자, 탄원자	L3	이장1회/전체1회
+avocations	n.	부업, 소일거리	L3	이장1회/전체1회
+wearily	adv.	지친 듯이	L2	이장1회/전체1회
+half-clad	adj.	옷을 반쯤만 걸친	L3	이장1회/전체1회
+din	n.	소음, 시끄러운 소리	L3	이장1회/전체1회
+carriage	n.	마차, (기차) 객차	L2	이장1회/전체1회
+magnificently	adv.	훌륭하게, 웅장하게	L2	이장1회/전체1회
+dispatched	v.	급파하다, 재빨리 해치우다(dispatch의 과거)	L2	이장1회/전체1회
+eager	adj.	열망하는	L2	이장1회/전체1회
+auditory	n.	청중(옛말; 현대는 '청각의')	L3	이장1회/전체1회
+aboard	adv., prep.	배에 타고, 승선하여	L2	이장1회/전체1회
+day-dawn	n.	새벽, 동틀 녘	L3	이장1회/전체1회
+twine	n., v.	노끈, 꼬다, 휘감다	L2	이장1회/전체1회
+strung	v.	매달린, 긴장한(strung out: 신경이 곤두선)	L2	이장1회/전체1회
+bedridden	adj.	몸져누운	L3	이장1회/전체1회
+ironically	adv.	비꼬듯이, 얄궂게도	L2	이장1회/전체1회
+sheathed	v.	칼집에 넣었다, 감쌌다	L3	이장1회/전체1회
+boiler	n.	보일러, (증기선의) 기관	L2	이장1회/전체1회
+triple-locked	adj.	자물쇠를 세 겹으로 채운	L3	이장1회/전체1회

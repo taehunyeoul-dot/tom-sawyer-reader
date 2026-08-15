@@ -1,0 +1,355 @@
+[
+ {
+  "id": "10.0.2",
+  "en": "Every stump that started up in their path seemed a man and an enemy, and made them catch their breath; and as they sped by some outlying cottages that lay near the village, the barking of the aroused watch-dogs seemed to give wings to their feet.",
+  "s": "Every stump",
+  "v": "seemed",
+  "chunks": [
+   {"en": "Every stump that started up in their path", "ko": "그들의 길에 불쑥 나타나는 그루터기마다", "r": "주어(+관계절)"},
+   {"en": "seemed a man and an enemy,", "ko": "사람처럼, 적처럼 보였고,", "r": "동사+보어"},
+   {"en": "and made them catch their breath;", "ko": "그래서 숨을 멎게 했다;", "r": "대등 동사(사역: ~하게 만들다)"},
+   {"en": "and as they sped by some outlying cottages", "ko": "그리고 외딴 오두막들 옆을 급히 지날 때", "r": "부사절(시간)"},
+   {"en": "that lay near the village,", "ko": "마을 근처에 있는 (오두막들),", "r": "관계절(앞 명사 설명)"},
+   {"en": "the barking of the aroused watch-dogs", "ko": "잠에서 깬 집 지키는 개들의 짖는 소리가", "r": "주어(둘째 절)"},
+   {"en": "seemed to give wings to their feet.", "ko": "발에 날개를 달아 주는 듯했다.", "r": "동사"}
+  ],
+  "ko": "길에 불쑥 나타나는 그루터기 하나하나가 사람처럼, 적처럼 보여 아이들의 숨을 멎게 했다. 그리고 마을 근처의 외딴 오두막들 옆을 내달릴 때, 잠에서 깬 개들이 짖는 소리는 아이들의 발에 날개를 달아 주는 듯했다.",
+  "why": "세미콜론(;) 앞뒤로 두 문장이 이어진다. 앞 문장은 주어 Every stump 뒤에 관계절(that started up in their path, 앞 명사를 설명하는 절)이 붙어 동사 seemed가 멀리 있고, 뒤 문장은 as절(~할 때)이 먼저 나오고 진짜 주어 the barking이 뒤늦게 나온다. '주어 → 동사'만 먼저 찾고 나머지는 꾸밈으로 읽자.",
+  "st": [3, 8, 18]
+ },
+ {
+  "id": "10.2.0",
+  "en": "Huckleberry’s hard pantings were his only reply, and the boys fixed their eyes on the goal of their hopes and bent to their work to win it.",
+  "s": "Huckleberry’s hard pantings",
+  "v": "were",
+  "chunks": [
+   {"en": "Huckleberry’s hard pantings", "ko": "허클베리의 거친 헐떡임이", "r": "주어"},
+   {"en": "were his only reply,", "ko": "그의 유일한 대답이었고,", "r": "동사+보어"},
+   {"en": "and the boys fixed their eyes", "ko": "아이들은 눈을 고정했다", "r": "대등절"},
+   {"en": "on the goal of their hopes", "ko": "그들이 바라는 목표(무두질 공장)에", "r": "전치사구(대상)"},
+   {"en": "and bent to their work to win it.", "ko": "그리고 그것을 얻으려 (달리기에) 온 힘을 쏟았다.", "r": "대등 동사+목적(to부정사)"}
+  ],
+  "ko": "허클베리는 거칠게 헐떡이는 것으로 대답을 대신했고, 아이들은 바라던 목표에 눈을 고정한 채 그곳에 닿으려고 온 힘을 다해 달렸다.",
+  "why": "'헐떡임이 대답이었다'는 '대답 대신 헐떡이기만 했다'는 표현이다. bent to their work(일에 몸을 굽히다=온 힘을 쏟다)와 to win it(그것을 얻으려고)의 it은 앞의 goal(목표=무두질 공장)을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "10.2.1",
+  "en": "They gained steadily on it, and at last, breast to breast, they burst through the open door and fell grateful and exhausted in the sheltering shadows beyond.",
+  "s": "They",
+  "v": "gained",
+  "chunks": [
+   {"en": "They gained steadily on it,", "ko": "그들은 그곳에 꾸준히 가까워졌고,", "r": "주어+동사(gain on: ~에 다가가다)"},
+   {"en": "and at last, breast to breast,", "ko": "마침내, 나란히 가슴을 맞대고,", "r": "접속+시간+삽입(부사)"},
+   {"en": "they burst through the open door", "ko": "열린 문으로 뛰어들어", "r": "대등절"},
+   {"en": "and fell grateful and exhausted", "ko": "고마워하며 기진맥진 쓰러졌다", "r": "대등 동사+보어(상태)"},
+   {"en": "in the sheltering shadows beyond.", "ko": "그 너머 몸을 숨겨 주는 그늘 속에.", "r": "전치사구(장소)"}
+  ],
+  "ko": "아이들은 그곳에 점점 가까워졌고, 마침내 나란히 열린 문으로 뛰어들어, 문 안쪽의 몸을 숨겨 주는 그늘 속에 고마운 마음으로 기진맥진 쓰러졌다.",
+  "why": "gain on it은 '그것을 얻다'가 아니라 '그것에 점점 가까워지다'. fell grateful and exhausted는 '쓰러졌다 + 고마워하며·지쳐서'로, 형용사가 동사 뒤에 붙어 쓰러질 때의 상태를 말한다(주격보어).",
+  "st": []
+ },
+ {
+  "id": "10.21.2",
+  "en": "That Injun devil wouldn’t make any more of drownding us than a couple of cats, if we was to squeak ’bout this and they didn’t hang him.",
+  "s": "That Injun devil",
+  "v": "wouldn’t make",
+  "chunks": [
+   {"en": "That Injun devil wouldn’t make any more", "ko": "그 인전 놈은 조금도 더 대수롭게 여기지 않을 거야", "r": "주어+동사(make much of: 대수롭게 여기다)"},
+   {"en": "of drownding us than a couple of cats,", "ko": "우리를 물에 빠뜨리는 걸, 고양이 두 마리(빠뜨리는 것)보다,", "r": "비교(not any more … than: ~보다 조금도 더 …않다)"},
+   {"en": "if we was to squeak ’bout this", "ko": "만약 우리가 이 일을 찍소리라도 하고", "r": "부사절(조건, 가정)"},
+   {"en": "and they didn’t hang him.", "ko": "그리고 사람들이 그를 목매달지 않는다면.", "r": "대등(조건 이어짐)"}
+  ],
+  "ko": "우리가 이 일을 찍소리라도 하고, 그런데도 사람들이 그놈을 목매달지 않으면, 그 인전 놈은 우리를 물에 빠뜨려 죽이는 걸 고양이 두 마리 빠뜨리는 것보다 조금도 더 대수롭게 여기지 않을 거야.",
+  "why": "not make any more of A than B = 'A를 B보다 더 중요하게 여기지 않다'. 즉 '우리 죽이기 = 고양이 죽이기'라는 뜻이다. drownding(=drowning), if we was(=if we were, 가정법: 실제와 다른 상황을 가정), squeak(찍소리 내다=고자질하다) 같은 사투리를 표준 철자로 바꿔 읽자.",
+  "st": [2, 12]
+ },
+ {
+  "id": "10.23.1",
+  "en": "That’s good enough for little rubbishy common things—specially with gals, cuz they go back on you anyway, and blab if they get in a huff—but there orter be writing ’bout a big thing like this.",
+  "s": "That",
+  "v": "’s",
+  "chunks": [
+   {"en": "That’s good enough", "ko": "그건(손잡고 맹세하는 건) 충분히 괜찮아", "r": "주어+동사+보어"},
+   {"en": "for little rubbishy common things—specially with gals,", "ko": "하찮고 흔한 일에는—특히 여자애들이랑 할 때,", "r": "전치사구+곁말(대시 삽입)"},
+   {"en": "cuz they go back on you anyway,", "ko": "걔들은 어차피 약속을 어기고,", "r": "부사절(이유, cuz=because)"},
+   {"en": "and blab if they get in a huff—but", "ko": "화가 나면 떠벌리니까—하지만", "r": "대등+조건절"},
+   {"en": "there orter be writing ’bout a big thing like this.", "ko": "이렇게 큰일에는 글로 써야 해.", "r": "대등절(there ought to be: ~가 있어야 한다)"}
+  ],
+  "ko": "그건 하찮고 흔한 일에나 충분하지—특히 여자애들이랑 할 때. 걔들은 어차피 약속을 어기고, 화나면 떠벌리니까—하지만 이렇게 큰일에는 글로 써 둬야 해.",
+  "why": "대시(—) 두 개 사이가 곁말(끼어든 설명)이다. 앞의 That’s(=That is) good enough…와 뒤의 but there orter be writing…이 본줄기다. cuz(=because), gals(=girls), orter(=ought to), ’bout(=about)는 사투리 철자.",
+  "st": [2, 4]
+ },
+ {
+  "id": "10.24.2",
+  "en": "He picked up a clean pine shingle that lay in the moon-light, took a little fragment of “red keel” out of his pocket, got the moon on his work, and painfully scrawled these lines, emphasizing each slow down-stroke by clamping his tongue between his teeth, and letting up the pressure on the up-strokes.",
+  "s": "He",
+  "v": "picked up",
+  "chunks": [
+   {"en": "He picked up a clean pine shingle", "ko": "그는 깨끗한 소나무 널빤지를 집어 들었다", "r": "주어+동사1+목적어"},
+   {"en": "that lay in the moon-light,", "ko": "달빛 속에 놓여 있던 (널빤지),", "r": "관계절(앞 명사 설명)"},
+   {"en": "took a little fragment of “red keel”", "ko": "'붉은 석필' 조각을 꺼냈다", "r": "동사2(나열)+목적어"},
+   {"en": "out of his pocket,", "ko": "주머니에서,", "r": "전치사구(출처)"},
+   {"en": "got the moon on his work,", "ko": "달빛이 작업 위로 비치게 하고,", "r": "동사3(나열)"},
+   {"en": "and painfully scrawled these lines,", "ko": "그리고 힘겹게 이런 글귀를 휘갈겼다,", "r": "동사4(나열)"},
+   {"en": "emphasizing each slow down-stroke", "ko": "느린 내리긋기마다 힘을 주면서", "r": "분사구문(~하면서)"},
+   {"en": "by clamping his tongue between his teeth,", "ko": "혀를 이 사이에 꽉 물어서,", "r": "방법(by ~ing)"},
+   {"en": "and letting up the pressure on the up-strokes.", "ko": "그리고 올려긋기에서는 힘을 빼면서.", "r": "분사구문(emphasizing과 나란히)"}
+  ],
+  "ko": "그는 달빛 속에 놓인 깨끗한 소나무 널빤지를 집어 들고, 주머니에서 '붉은 석필' 조각을 꺼내, 달빛이 비치게 자리를 잡은 뒤 힘겹게 다음 글귀를 휘갈겼다. 느리게 내리긋는 획마다 혀를 이 사이에 꽉 물어 힘을 주고, 올려긋는 획에서는 힘을 뺐다.",
+  "why": "주어 He 하나에 동사가 네 개(picked up, took, got, scrawled) 쉼표로 나열된다. 동사만 표시하며 읽으면 뼈대가 보인다. 뒤의 emphasizing…, and letting up…은 분사구문(~하면서)으로 글 쓸 때 톰의 모습을 덧붙인다.",
+  "st": [6]
+ },
+ {
+  "id": "10.25.0",
+  "en": "“Huck Finn and Tom Sawyer swears they will keep mum about This and They wish They may Drop down dead in Their Tracks if They ever Tell and Rot.”",
+  "s": "Huck Finn and Tom Sawyer",
+  "v": "swears",
+  "chunks": [
+   {"en": "“Huck Finn and Tom Sawyer swears", "ko": "허크 핀과 톰 소여는 맹세한다", "r": "주어+동사"},
+   {"en": "they will keep mum about This", "ko": "이 일에 대해 입을 다물겠다고", "r": "목적절(맹세 내용, that 생략)"},
+   {"en": "and They wish", "ko": "그리고 바란다", "r": "대등절"},
+   {"en": "They may Drop down dead in Their Tracks", "ko": "그 자리에서 쓰러져 죽기를", "r": "목적절(바라는 내용)"},
+   {"en": "if They ever Tell and Rot.”", "ko": "만약 말한다면—그리고 썩어 버리기를.", "r": "조건절(+대등: 썩다)"}
+  ],
+  "ko": "허크 핀과 톰 소여는 이 일에 대해 입을 다물 것을 맹세하며, 만약 말한다면 그 자리에서 쓰러져 죽고 썩어 버리기를 바란다.",
+  "why": "아이가 쓴 글이라 대문자가 엉망이고 주어가 둘인데 동사가 swears(단수)다. keep mum(입 다물다), drop down dead in their tracks(그 자리에서 쓰러져 죽다)는 관용 표현. 마지막 and Rot는 문장 끝에 덧붙인 것으로 'Drop down dead … and Rot'로 이어 읽는다.",
+  "st": [2]
+ },
+ {
+  "id": "10.30.1",
+  "en": "In time, after many squeezes, Tom managed to sign his initials, using the ball of his little finger for a pen.",
+  "s": "Tom",
+  "v": "managed",
+  "chunks": [
+   {"en": "In time, after many squeezes,", "ko": "이윽고, 여러 번 짜낸 끝에,", "r": "시간"},
+   {"en": "Tom managed to sign his initials,", "ko": "톰은 가까스로 자기 이름 머리글자를 서명했다,", "r": "주어+동사+목적어"},
+   {"en": "using the ball of his little finger for a pen.", "ko": "새끼손가락 끝 볼록한 부분을 펜 삼아서.", "r": "분사구문(~하면서/~을 써서)"}
+  ],
+  "ko": "이윽고 여러 번 피를 짜낸 끝에, 톰은 새끼손가락 끝을 펜 삼아 가까스로 자기 이름 머리글자를 적었다.",
+  "why": "managed to ~는 '(어렵게) 겨우 ~해내다'. 문장 뒤의 using …(~을 써서)은 분사구문으로 서명한 방법을 덧붙인다. use A for B = A를 B로 쓰다.",
+  "st": [6]
+ },
+ {
+  "id": "10.30.3",
+  "en": "They buried the shingle close to the wall, with some dismal ceremonies and incantations, and the fetters that bound their tongues were considered to be locked and the key thrown away.",
+  "s": "They",
+  "v": "buried",
+  "chunks": [
+   {"en": "They buried the shingle close to the wall,", "ko": "그들은 널빤지를 벽 가까이에 묻었다,", "r": "주어+동사+목적어+장소"},
+   {"en": "with some dismal ceremonies and incantations,", "ko": "음침한 의식과 주문을 곁들여,", "r": "전치사구(방식)"},
+   {"en": "and the fetters that bound their tongues", "ko": "그리고 그들의 혀를 묶은 족쇄는", "r": "대등절 주어(+관계절)"},
+   {"en": "were considered to be locked", "ko": "잠긴 것으로 여겨졌고", "r": "동사(수동: ~로 여겨지다)"},
+   {"en": "and the key thrown away.", "ko": "열쇠는 내던져진 것으로.", "r": "대등(were considered to be 생략)"}
+  ],
+  "ko": "그들은 음침한 의식과 주문을 곁들여 널빤지를 벽 가까이에 묻었고, 이로써 그들의 혀를 묶은 족쇄는 잠기고 열쇠는 내던져진 것으로 여겨졌다.",
+  "why": "둘째 절의 주어 the fetters(족쇄) 뒤에 관계절 that bound their tongues가 붙어 동사 were considered가 멀리 있다. '혀를 묶은 족쇄'는 비유로 '입을 다물겠다는 맹세'를 뜻한다. 마지막 the key thrown away 앞에는 was considered to be가 생략되어 있다.",
+  "st": [18]
+ },
+ {
+  "id": "10.42.0",
+  "en": "[* If Mr. Harbison owned a slave named Bull, Tom would have spoken of him as “Harbison’s Bull,” but a son or a dog of that name was “Bull Harbison.”]",
+  "s": "Tom",
+  "v": "would have spoken",
+  "chunks": [
+   {"en": "[* If Mr. Harbison owned a slave named Bull,", "ko": "[* 만약 하비슨 씨에게 불(Bull)이라는 노예가 있었다면,", "r": "조건절(가정)"},
+   {"en": "Tom would have spoken of him as “Harbison’s Bull,”", "ko": "톰은 그를 '하비슨의 불'이라 불렀을 것이다,", "r": "주절(가정법 귀결)"},
+   {"en": "but a son or a dog of that name", "ko": "하지만 그 이름의 아들이나 개는", "r": "대등절 주어"},
+   {"en": "was “Bull Harbison.”]", "ko": "'불 하비슨'이었다.]", "r": "동사+보어"}
+  ],
+  "ko": "[* 하비슨 씨에게 불이라는 이름의 노예가 있었다면 톰은 그를 '하비슨의 불'이라고 불렀겠지만, 그 이름의 아들이나 개라면 '불 하비슨'이었다.]",
+  "why": "저자 트웨인이 붙인 각주다. If … owned, … would have spoken은 가정법(실제와 다른 상황을 가정: 실제로 그런 노예는 없다). 당시 노예는 '주인 이름’s + 이름'으로, 아들이나 개는 '이름 + 성'으로 불렀다는 설명이다.",
+  "st": [8, 12]
+ },
+ {
+  "id": "10.66.1",
+  "en": "But presently the temptation rose up strong again and the boys agreed to try, with the understanding that they would take to their heels if the snoring stopped.",
+  "s": "the temptation",
+  "v": "rose up",
+  "chunks": [
+   {"en": "But presently the temptation rose up strong again", "ko": "하지만 이윽고 유혹이 다시 강하게 일어났고", "r": "주어+동사"},
+   {"en": "and the boys agreed to try,", "ko": "아이들은 해 보기로 했다,", "r": "대등절"},
+   {"en": "with the understanding that they would take to their heels", "ko": "그들이 냅다 도망친다는 조건으로", "r": "전치사구+동격절(~라는 양해 하에)"},
+   {"en": "if the snoring stopped.", "ko": "코 고는 소리가 멈추면.", "r": "조건절"}
+  ],
+  "ko": "하지만 이윽고 유혹이 다시 강하게 일어났고, 아이들은 코 고는 소리가 멈추면 곧장 도망친다는 조건으로 한번 가 보기로 했다.",
+  "why": "with the understanding that …은 '~라는 양해(조건) 하에'라는 굳은 표현이고, that절이 understanding의 내용을 설명한다(동격). take to one’s heels는 '줄행랑치다'는 관용구.",
+  "st": []
+ },
+ {
+  "id": "10.66.3",
+  "en": "When they had got to within five steps of the snorer, Tom stepped on a stick, and it broke with a sharp snap.",
+  "s": "Tom",
+  "v": "stepped",
+  "chunks": [
+   {"en": "When they had got to within five steps of the snorer,", "ko": "코 고는 사람에게서 다섯 걸음 안까지 다가갔을 때,", "r": "부사절(시간)"},
+   {"en": "Tom stepped on a stick,", "ko": "톰이 나뭇가지를 밟았고,", "r": "주어+동사"},
+   {"en": "and it broke with a sharp snap.", "ko": "그것이 날카롭게 '딱' 소리를 내며 부러졌다.", "r": "대등절"}
+  ],
+  "ko": "코 고는 사람에게서 다섯 걸음 안쪽까지 다가갔을 때, 톰이 나뭇가지를 밟았고, 그것이 날카롭게 딱 소리를 내며 부러졌다.",
+  "why": "When절(부사절)이 앞에 오고 주절 Tom stepped가 뒤에 온다. had got to(과거완료: 더 먼저 일어난 일)는 '밟기 전에 이미 다가가 있었다'는 순서를 보여 준다. to within five steps = 다섯 걸음 안쪽까지.",
+  "st": [8]
+ },
+ {
+  "id": "10.66.9",
+  "en": "They turned and saw the strange dog standing within a few feet of where Potter was lying, and facing Potter, with his nose pointing heavenward.",
+  "s": "They",
+  "v": "turned",
+  "chunks": [
+   {"en": "They turned and saw the strange dog", "ko": "그들은 돌아서서 그 낯선 개를 보았다", "r": "주어+동사+목적어"},
+   {"en": "standing within a few feet", "ko": "몇 피트 안쪽에 서 있는 것을", "r": "목적보어(개가 ~하고 있는)"},
+   {"en": "of where Potter was lying,", "ko": "포터가 누워 있는 곳에서,", "r": "전치사구(장소)"},
+   {"en": "and facing Potter,", "ko": "그리고 포터를 마주 본 채,", "r": "목적보어2(standing과 나란히)"},
+   {"en": "with his nose pointing heavenward.", "ko": "코를 하늘로 치켜든 채.", "r": "부대상황(with+명사+~ing)"}
+  ],
+  "ko": "아이들이 돌아보니 그 낯선 개가 포터가 누워 있는 곳에서 몇 피트 떨어진 곳에 서서, 코를 하늘로 치켜든 채 포터를 마주 보고 있었다.",
+  "why": "saw the dog standing … and facing …은 '개가 서 있고 마주 보고 있는 것을 보았다'(see+목적어+~ing). with his nose pointing heavenward는 'with+명사+~ing'로 '코가 하늘을 향한 채'라는 동시 상황을 덧붙인다.",
+  "st": [6]
+ },
+ {
+  "id": "10.68.0",
+  "en": "“Say, Tom—they say a stray dog come howling around Johnny Miller’s house, ’bout midnight, as much as two weeks ago; and a whippoorwill come in and lit on the banisters and sung, the very same evening; and there ain’t anybody dead there yet.”",
+  "s": "they",
+  "v": "say",
+  "chunks": [
+   {"en": "“Say, Tom—they say", "ko": "저기, 톰—사람들 말로는", "r": "호칭+주어+전달동사"},
+   {"en": "a stray dog come howling around Johnny Miller’s house,", "ko": "떠돌이 개가 조니 밀러네 집 주위에서 울부짖었대,", "r": "목적절(주어+동사, come=came)"},
+   {"en": "’bout midnight, as much as two weeks ago;", "ko": "자정쯤에, 무려 두 주 전에;", "r": "시간"},
+   {"en": "and a whippoorwill come in and lit on the banisters and sung,", "ko": "그리고 쏙독새가 들어와 난간에 앉아 울었대,", "r": "대등절(동사 나열)"},
+   {"en": "the very same evening;", "ko": "바로 그날 저녁에;", "r": "시간"},
+   {"en": "and there ain’t anybody dead there yet.”", "ko": "그런데 거기 아직 아무도 안 죽었어.", "r": "대등절(there is: 있다)"}
+  ],
+  "ko": "저기, 톰—사람들 말로는 두 주나 전에 자정쯤 떠돌이 개가 조니 밀러네 집 주위에서 울부짖었고, 바로 그날 저녁 쏙독새가 집 안으로 들어와 난간에 앉아 울었다는데, 거기 아직 아무도 안 죽었어.",
+  "why": "세미콜론으로 세 개의 절이 이어진다. come(=came), lit(=alighted, 내려앉았다), sung(=sang), ain’t(=isn’t)는 사투리 동사형이다. 개가 울고 쏙독새가 우는 것은 죽음의 징조라는 미신을 전제로, '징조가 있었는데 아무도 안 죽었다'고 반박하는 말이다.",
+  "st": [2, 3, 4, 14, 17]
+ },
+ {
+  "id": "10.73.7",
+  "en": "There was no voice of rebuke; but there were averted eyes; there was a silence and an air of solemnity that struck a chill to the culprit’s heart.",
+  "s": "There",
+  "v": "was",
+  "chunks": [
+   {"en": "There was no voice of rebuke;", "ko": "꾸짖는 목소리는 없었다;", "r": "There was(~가 있었다/없었다)"},
+   {"en": "but there were averted eyes;", "ko": "하지만 외면하는 눈길들이 있었다;", "r": "대등절(There were)"},
+   {"en": "there was a silence and an air of solemnity", "ko": "침묵과 엄숙한 분위기가 있었다", "r": "대등절(There was)"},
+   {"en": "that struck a chill to the culprit’s heart.", "ko": "죄인의 가슴에 오싹함을 꽂는.", "r": "관계절(앞 명사 설명)"}
+  ],
+  "ko": "꾸짖는 목소리는 없었다. 하지만 외면하는 눈길이 있었고, 죄인(톰)의 가슴을 오싹하게 하는 침묵과 엄숙한 분위기가 있었다.",
+  "why": "There was/were …(~가 있었다)가 세 번 반복되며 세미콜론으로 이어진다. There는 자리만 채우는 말이고 실제 있는 것은 뒤의 명사(voice, eyes, silence…)다. 마지막 that절은 silence and air를 설명하는 관계절. culprit(죄인)은 톰을 가리키는 풍자적 격식어.",
+  "st": [3, 17]
+ },
+ {
+  "id": "10.73.8",
+  "en": "He sat down and tried to seem gay, but it was up-hill work; it roused no smile, no response, and he lapsed into silence and let his heart sink down to the depths.",
+  "s": "He",
+  "v": "sat down",
+  "chunks": [
+   {"en": "He sat down and tried to seem gay,", "ko": "그는 앉아서 명랑해 보이려 애썼지만,", "r": "주어+동사(나열)"},
+   {"en": "but it was up-hill work;", "ko": "그것은 힘겨운 일이었다;", "r": "대등절"},
+   {"en": "it roused no smile, no response,", "ko": "웃음도, 반응도 끌어내지 못했고,", "r": "대등절"},
+   {"en": "and he lapsed into silence", "ko": "그는 침묵에 빠져", "r": "대등절"},
+   {"en": "and let his heart sink down to the depths.", "ko": "마음이 밑바닥까지 가라앉게 두었다.", "r": "대등 동사(let+목적어+동사원형)"}
+  ],
+  "ko": "그는 자리에 앉아 명랑한 척해 보려 했지만 힘겨운 일이었다. 아무 웃음도 반응도 얻지 못하자 그는 입을 다물고 마음이 밑바닥까지 가라앉도록 내버려 두었다.",
+  "why": "세미콜론으로 이어진 세 덩어리. gay는 여기서 '명랑한'(옛 뜻), up-hill work는 '오르막길 일=힘겨운 일'. let his heart sink는 'let+목적어+동사원형'으로 '~하게 두다'.",
+  "st": [3]
+ },
+ {
+  "id": "10.74.0",
+  "en": "After breakfast his aunt took him aside, and Tom almost brightened in the hope that he was going to be flogged; but it was not so.",
+  "s": "his aunt",
+  "v": "took",
+  "chunks": [
+   {"en": "After breakfast his aunt took him aside,", "ko": "아침 식사 후 이모가 그를 따로 불렀고,", "r": "시간+주어+동사+목적어"},
+   {"en": "and Tom almost brightened", "ko": "톰은 거의 얼굴이 밝아질 뻔했다", "r": "대등절"},
+   {"en": "in the hope that he was going to be flogged;", "ko": "매를 맞겠구나 하는 기대에;", "r": "전치사구+동격절(~라는 희망에)"},
+   {"en": "but it was not so.", "ko": "하지만 그렇지 않았다.", "r": "대등절"}
+  ],
+  "ko": "아침 식사 후 이모가 톰을 따로 불렀고, 톰은 매를 맞겠구나 하는 기대에 얼굴이 거의 밝아질 뻔했다. 하지만 그렇지 않았다.",
+  "why": "in the hope that …은 '~라는 희망으로', that절이 hope의 내용이다(동격). '매 맞기를 바란다'는 역설이 핵심: 톰은 매를 맞고 끝나기를 바랐는데 이모는 그러지 않았다는 뜻. flogged = 매질을 당하다.",
+  "st": [3]
+ },
+ {
+  "id": "10.74.1",
+  "en": "His aunt wept over him and asked him how he could go and break her old heart so; and finally told him to go on, and ruin himself and bring her gray hairs with sorrow to the grave, for it was no use for her to try any more.",
+  "s": "His aunt",
+  "v": "wept",
+  "chunks": [
+   {"en": "His aunt wept over him", "ko": "이모는 그를 두고 울면서", "r": "주어+동사1"},
+   {"en": "and asked him how he could go", "ko": "어떻게 그럴 수 있느냐고 물었다", "r": "동사2+간접의문(목적어)"},
+   {"en": "and break her old heart so;", "ko": "늙은 자기 가슴을 그렇게 찢어 놓을 수 있느냐고;", "r": "대등(go and break: 가서 ~하다)"},
+   {"en": "and finally told him to go on,", "ko": "그리고 마침내 계속 그러라고 말했다,", "r": "동사3+목적어+to부정사"},
+   {"en": "and ruin himself", "ko": "스스로를 망치고", "r": "대등(to 이어짐)"},
+   {"en": "and bring her gray hairs with sorrow to the grave,", "ko": "자기 흰머리를 슬픔 속에 무덤으로 보내라고,", "r": "대등(to 이어짐)"},
+   {"en": "for it was no use for her to try any more.", "ko": "이제 더 애써 봐야 소용없으니까.", "r": "부사절(이유, for=because)"}
+  ],
+  "ko": "이모는 톰을 두고 울면서 어떻게 그렇게 늙은 이모 가슴을 찢어 놓을 수 있느냐고 물었다. 그러고는 마침내, 이제 자기가 더 애써 봐야 소용없으니 계속 그렇게 해서 스스로를 망치고 자기 흰머리를 슬픔 속에 무덤으로 보내라고 말했다.",
+  "why": "주어 His aunt에 동사 wept, asked, told 세 개가 이어진다. told him to go on, and ruin …, and bring …는 to 뒤에 동사원형 세 개가 나열된 것(반어: 정말 그러라는 게 아니라 '너 마음대로 해라'). 마지막 for는 '왜냐하면'. bring gray hairs to the grave는 성경 표현으로 '늙은 부모를 슬픔으로 죽게 하다'.",
+  "st": [3, 13, 14]
+ },
+ {
+  "id": "10.74.3",
+  "en": "He cried, he pleaded for forgiveness, promised to reform over and over again, and then received his dismissal, feeling that he had won but an imperfect forgiveness and established but a feeble confidence.",
+  "s": "He",
+  "v": "cried",
+  "chunks": [
+   {"en": "He cried, he pleaded for forgiveness,", "ko": "그는 울었고, 용서를 빌었고,", "r": "주어+동사 나열"},
+   {"en": "promised to reform over and over again,", "ko": "고치겠다고 몇 번이고 약속했고,", "r": "동사3(나열)"},
+   {"en": "and then received his dismissal,", "ko": "그러고 나서 물러가라는 말을 들었다,", "r": "동사4(나열)"},
+   {"en": "feeling that he had won but an imperfect forgiveness", "ko": "불완전한 용서밖에 얻지 못했다고 느끼며", "r": "분사구문(~하면서)"},
+   {"en": "and established but a feeble confidence.", "ko": "미약한 신뢰밖에 세우지 못했다고 (느끼며).", "r": "대등(that절 이어짐)"}
+  ],
+  "ko": "그는 울고, 용서를 빌고, 고치겠다고 몇 번이고 약속한 뒤 물러가라는 말을 들었다. 불완전한 용서와 미약한 신뢰밖에 얻지 못했다고 느끼면서.",
+  "why": "동사 네 개(cried, pleaded, promised, received)가 쉼표로 나열된다. 뒤의 feeling that …은 분사구문(~하면서). 여기서 but은 '그러나'가 아니라 only(겨우 ~밖에)라는 뜻이다: won but an imperfect forgiveness = 불완전한 용서밖에 얻지 못했다.",
+  "st": [6]
+ },
+ {
+  "id": "10.75.0",
+  "en": "He left the presence too miserable to even feel revengeful toward Sid; and so the latter’s prompt retreat through the back gate was unnecessary.",
+  "s": "He",
+  "v": "left",
+  "chunks": [
+   {"en": "He left the presence", "ko": "그는 (이모) 앞에서 물러났다", "r": "주어+동사+목적어"},
+   {"en": "too miserable to even feel revengeful toward Sid;", "ko": "너무 비참해서 시드에게 복수심조차 느낄 수 없는 채로;", "r": "too ~ to …(너무 ~해서 …할 수 없다)"},
+   {"en": "and so the latter’s prompt retreat through the back gate", "ko": "그래서 후자(시드)가 뒷문으로 재빨리 달아난 것은", "r": "대등절 긴 주어"},
+   {"en": "was unnecessary.", "ko": "불필요한 일이었다.", "r": "동사+보어"}
+  ],
+  "ko": "그는 너무 비참해서 시드에게 복수심조차 느끼지 못한 채 이모 앞에서 물러났다. 그래서 시드가 뒷문으로 재빨리 달아난 것은 쓸데없는 일이었다.",
+  "why": "the presence는 '(윗사람이 있는) 자리', 즉 이모 앞. too miserable to feel = 너무 비참해서 느낄 수 없다. 둘째 절은 주어가 the latter’s(후자=시드의) prompt retreat through the back gate로 길어서 동사 was가 멀리 있다.",
+  "st": [3, 18]
+ },
+ {
+  "id": "10.75.1",
+  "en": "He moped to school gloomy and sad, and took his flogging, along with Joe Harper, for playing hookey the day before, with the air of one whose heart was busy with heavier woes and wholly dead to trifles.",
+  "s": "He",
+  "v": "moped",
+  "chunks": [
+   {"en": "He moped to school gloomy and sad,", "ko": "그는 우울하고 슬프게 터덜터덜 학교로 갔고,", "r": "주어+동사+보어(상태)"},
+   {"en": "and took his flogging, along with Joe Harper,", "ko": "조 하퍼와 함께 매를 맞았다,", "r": "대등 동사+삽입"},
+   {"en": "for playing hookey the day before,", "ko": "전날 학교를 땡땡이친 벌로,", "r": "전치사구(이유)"},
+   {"en": "with the air of one", "ko": "(다음과 같은) 사람의 태도로", "r": "전치사구(태도)"},
+   {"en": "whose heart was busy with heavier woes", "ko": "마음이 더 무거운 슬픔으로 가득 차서", "r": "관계절(one 설명)"},
+   {"en": "and wholly dead to trifles.", "ko": "사소한 일에는 완전히 무감각한 (사람).", "r": "대등(보어 이어짐)"}
+  ],
+  "ko": "그는 우울하고 슬픈 얼굴로 터덜터덜 학교에 가서, 전날 땡땡이친 벌로 조 하퍼와 함께 매를 맞았다. 마음이 더 무거운 슬픔으로 가득 차 사소한 일에는 완전히 무감각해진 사람 같은 태도로.",
+  "why": "with the air of one whose …는 '~한 사람 같은 태도로'. one은 '어떤 사람', whose 이하가 그 사람을 설명하는 관계절이다. dead to trifles = 사소한 일에 무감각한. hookey = 무단결석.",
+  "st": []
+ },
+ {
+  "id": "10.75.2",
+  "en": "Then he betook himself to his seat, rested his elbows on his desk and his jaws in his hands, and stared at the wall with the stony stare of suffering that has reached the limit and can no further go.",
+  "s": "he",
+  "v": "betook",
+  "chunks": [
+   {"en": "Then he betook himself to his seat,", "ko": "그러고 나서 그는 자기 자리로 갔고,", "r": "주어+동사1(betake oneself to: ~로 가다)"},
+   {"en": "rested his elbows on his desk", "ko": "팔꿈치를 책상에 올리고", "r": "동사2(나열)"},
+   {"en": "and his jaws in his hands,", "ko": "턱을 두 손에 괸 채,", "r": "대등(rested 생략)"},
+   {"en": "and stared at the wall", "ko": "벽을 노려보았다", "r": "동사3(나열)"},
+   {"en": "with the stony stare of suffering", "ko": "돌처럼 굳은 고통의 시선으로", "r": "전치사구(태도)"},
+   {"en": "that has reached the limit and can no further go.", "ko": "한계에 이르러 더는 갈 데 없는 (고통).", "r": "관계절(suffering 설명)"}
+  ],
+  "ko": "그러고 나서 그는 자기 자리로 가서 팔꿈치를 책상에 올리고 두 손에 턱을 괸 채, 한계에 다다라 더는 갈 데 없는 고통의 돌처럼 굳은 시선으로 벽을 노려보았다.",
+  "why": "betook himself to = went to(격식·풍자적 표현). rested his elbows on his desk and his jaws in his hands는 rested가 두 목적어(elbows, jaws)를 받는다. 마지막 that절은 suffering(고통)을 설명하며 can no further go = can go no further(더 갈 수 없다).",
+  "st": []
+ }
+]

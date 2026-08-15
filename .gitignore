@@ -1,0 +1,16 @@
+# 파이썬 임시물
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 작업 중 생기는 임시 파일
+tutor/work/          # 09_export_chapter.py 가 다시 만들 수 있는 중간 파일
+*.tmp
+check*.png
+check*.tsv
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

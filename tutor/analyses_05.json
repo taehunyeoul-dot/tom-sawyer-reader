@@ -1,0 +1,438 @@
+[
+ {
+  "id": "5.0.2",
+  "en": "Aunt Polly came, and Tom and Sid and Mary sat with her—Tom being placed next the aisle, in order that he might be as far away from the open window and the seductive outside summer scenes as possible.",
+  "s": "Aunt Polly",
+  "v": "came",
+  "chunks": [
+   {"en": "Aunt Polly came,", "ko": "폴리 이모가 왔고,", "r": "주어+동사"},
+   {"en": "and Tom and Sid and Mary", "ko": "그리고 톰과 시드와 메리는", "r": "대등절 주어"},
+   {"en": "sat with her—Tom being placed next the aisle,", "ko": "이모와 함께 앉았다—톰은 통로 쪽 자리에 앉혀진 채,", "r": "동사 + 곁말(대시 삽입, 분사구문)"},
+   {"en": "in order that he might be as far away", "ko": "그가 최대한 멀리 떨어져 있도록", "r": "부사절(목적)"},
+   {"en": "from the open window and the seductive outside summer scenes", "ko": "열린 창문과 유혹적인 바깥 여름 풍경으로부터", "r": "전치사구(장소)"},
+   {"en": "as possible.", "ko": "가능한 한.", "r": "부사(as far … as possible 짝)"}
+  ],
+  "ko": "폴리 이모가 왔고, 톰과 시드와 메리는 이모와 함께 앉았다—톰은 통로 쪽 자리에 앉혀졌는데, 열린 창문과 유혹적인 바깥 여름 풍경에서 가능한 한 멀리 떨어뜨려 놓기 위해서였다.",
+  "why": "대시(—) 뒤 'Tom being placed…'는 앞 문장에 덧붙인 분사구문(주어 Tom을 따로 가진 ~ing 덩어리)으로 '톰은 ~에 앉혀진 채'라는 뜻이다. 'in order that … might be as far away … as possible'은 '가능한 한 멀리 있도록'이라는 목적 표현이니 as far away와 as possible을 짝으로 묶어 읽자.",
+  "st": [4, 6, 14]
+ },
+ {
+  "id": "5.0.3",
+  "en": "The crowd filed up the aisles: the aged and needy postmaster, who had seen better days; the mayor and his wife—for they had a mayor there, among other unnecessaries; the justice of the peace; the widow Douglas, fair, smart, and forty, a generous, good-hearted soul and well-to-do, her hill mansion the only palace in the town, and the most hospitable and much the most lavish in the matter of festivities that St. Petersburg could boast; the bent and venerable Major and Mrs. Ward; lawyer Riverson, the new notable from a distance; next the belle of the village, followed by a troop of lawn-clad and ribbon-decked young heart-breakers; then all the young clerks in town in a body—for they had stood in the vestibule sucking their cane-heads, a circling wall of oiled and simpering admirers, till the last girl had run their gantlet; and last of all came the Model Boy, Willie Mufferson, taking as heedful care of his mother as if she were cut glass.",
+  "s": "The crowd",
+  "v": "filed",
+  "chunks": [
+   {"en": "The crowd filed up the aisles:", "ko": "사람들이 통로를 따라 줄지어 들어왔다:", "r": "주어+동사"},
+   {"en": "the aged and needy postmaster,", "ko": "늙고 가난한 우체국장,", "r": "나열 1(콜론 뒤 목록)"},
+   {"en": "who had seen better days;", "ko": "한때는 잘나갔던 사람;", "r": "관계절(앞 명사 설명)"},
+   {"en": "the mayor and his wife—for they had a mayor there,", "ko": "시장과 그 부인—그 마을에도 시장이 있었으니까,", "r": "나열 2 + 곁말(대시, for=because)"},
+   {"en": "among other unnecessaries;", "ko": "다른 쓸데없는 것들과 더불어;", "r": "전치사구(비꼼)"},
+   {"en": "the justice of the peace;", "ko": "치안판사;", "r": "나열 3"},
+   {"en": "the widow Douglas, fair, smart, and forty,", "ko": "더글러스 미망인, 미인에 똑똑하고 마흔 살,", "r": "나열 4 + 형용사 설명"},
+   {"en": "a generous, good-hearted soul and well-to-do,", "ko": "너그럽고 마음씨 착하며 부유한 사람,", "r": "동격(앞 사람 설명)"},
+   {"en": "her hill mansion the only palace in the town,", "ko": "언덕 위 그녀의 저택은 마을 유일의 궁전이었고,", "r": "독립구(주어+보어, 동사 생략)"},
+   {"en": "and the most hospitable and much the most lavish", "ko": "가장 손님을 잘 대접하고 단연 가장 호화로운 곳이었다", "r": "보어(저택 설명)"},
+   {"en": "in the matter of festivities", "ko": "잔치에 관한 한", "r": "전치사구"},
+   {"en": "that St. Petersburg could boast;", "ko": "세인트피터즈버그가 자랑할 수 있는;", "r": "관계절(앞 명사 설명)"},
+   {"en": "the bent and venerable Major and Mrs. Ward;", "ko": "허리 굽은 존경받는 워드 소령 부부;", "r": "나열 5"},
+   {"en": "lawyer Riverson, the new notable from a distance;", "ko": "리버슨 변호사, 먼 곳에서 온 새 유명 인사;", "r": "나열 6 + 동격"},
+   {"en": "next the belle of the village,", "ko": "다음은 마을 최고 미인,", "r": "나열 7"},
+   {"en": "followed by a troop", "ko": "한 무리를 거느리고", "r": "분사구(뒤따르는 무리)"},
+   {"en": "of lawn-clad and ribbon-decked young heart-breakers;", "ko": "얇은 린넨 옷에 리본을 단 어린 '마음 도둑'들의;", "r": "전치사구(무리의 내용)"},
+   {"en": "then all the young clerks in town", "ko": "그다음은 마을의 젊은 점원들 전부가", "r": "나열 8"},
+   {"en": "in a body—for they had stood in the vestibule", "ko": "한 무리로—그들은 현관에 서 있었으니까", "r": "부사구 + 곁말(대시, for=because)"},
+   {"en": "sucking their cane-heads,", "ko": "지팡이 손잡이를 빨며,", "r": "분사구문(~하면서)"},
+   {"en": "a circling wall of oiled and simpering admirers,", "ko": "기름 바른 머리로 실실 웃는 숭배자들의 둥근 벽을 이루고,", "r": "동격(그들의 모습)"},
+   {"en": "till the last girl had run their gantlet;", "ko": "마지막 아가씨가 그 사이를 다 지나갈 때까지;", "r": "부사절(시간)"},
+   {"en": "and last of all came the Model Boy, Willie Mufferson,", "ko": "그리고 맨 마지막으로 모범 소년 윌리 머퍼슨이 들어왔다,", "r": "대등절(도치: 동사 came이 주어 앞)"},
+   {"en": "taking as heedful care of his mother", "ko": "어머니를 아주 조심스레 모시면서", "r": "분사구문(~하면서)"},
+   {"en": "as if she were cut glass.", "ko": "마치 어머니가 유리 세공품이라도 되는 양.", "r": "비유(as if, 가정법)"}
+  ],
+  "ko": "사람들이 통로를 따라 줄지어 들어왔다: 한때 잘나갔던 늙고 가난한 우체국장; 시장과 그 부인—그 마을에도 시장이 있었으니까, 다른 쓸데없는 것들과 마찬가지로; 치안판사; 미인에 똑똑하고 마흔 살인 더글러스 미망인—너그럽고 마음씨 착하며 부유한 사람으로, 언덕 위 그녀의 저택은 마을 유일의 궁전이었고 잔치에 관한 한 세인트피터즈버그가 자랑할 수 있는 가장 손님을 잘 대접하고 단연 가장 호화로운 곳이었다; 허리 굽은 존경받는 워드 소령 부부; 먼 곳에서 온 새 유명 인사 리버슨 변호사; 다음은 마을 최고 미인이 얇은 린넨 옷에 리본을 단 어린 '마음 도둑'들 한 무리를 거느리고; 그다음은 마을의 젊은 점원들이 죄다 한 무리로—그들은 현관에서 지팡이 손잡이를 빨며 기름 바른 머리로 실실 웃는 숭배자들의 둥근 벽을 이루고 서서, 마지막 아가씨가 그 사이를 다 지나갈 때까지 기다렸던 것이다; 그리고 맨 마지막으로 모범 소년 윌리 머퍼슨이 어머니를 마치 유리 세공품이라도 되는 양 조심조심 모시고 들어왔다.",
+  "why": "콜론(:) 뒤에 교회로 들어오는 사람들을 세미콜론(;)으로 하나씩 나열한 문장이다. 세미콜론마다 '다음 사람'으로 끊어 읽고, 대시(—) 뒤의 for는 because(~니까)로 작가가 끼어드는 비꼬는 설명이며, 마지막 'last of all came the Model Boy'는 부사가 앞으로 나와 동사(came)가 주어보다 먼저 온 도치다.",
+  "st": [3, 4, 5, 6, 10, 11, 12, 13]
+ },
+ {
+  "id": "5.1.0",
+  "en": "The congregation being fully assembled, now, the bell rang once more, to warn laggards and stragglers, and then a solemn hush fell upon the church which was only broken by the tittering and whispering of the choir in the gallery.",
+  "s": "the bell",
+  "v": "rang",
+  "chunks": [
+   {"en": "The congregation being fully assembled, now,", "ko": "이제 신자들이 다 모이자,", "r": "분사구문(주어 따로 있는 ~ing: ~가 ~하자)"},
+   {"en": "the bell rang once more,", "ko": "종이 한 번 더 울렸다,", "r": "주어+동사"},
+   {"en": "to warn laggards and stragglers,", "ko": "꾸물거리는 사람들과 낙오자들을 재촉하려고,", "r": "to부정사(목적)"},
+   {"en": "and then a solemn hush fell upon the church", "ko": "그러고 나서 엄숙한 정적이 교회에 내려앉았다", "r": "대등절"},
+   {"en": "which was only broken", "ko": "그 정적은 오직 ~에 의해서만 깨졌다", "r": "관계절(앞 명사 설명)"},
+   {"en": "by the tittering and whispering of the choir in the gallery.", "ko": "2층 성가대석 성가대의 킥킥거림과 소곤거림에 의해서.", "r": "전치사구(행위자)"}
+  ],
+  "ko": "이제 신자들이 다 모이자 종이 한 번 더 울려 꾸물거리는 사람들과 낙오자들을 재촉했고, 그러고 나서 엄숙한 정적이 교회에 내려앉았는데, 그 정적을 깨는 것은 오직 2층 성가대석에서 성가대가 킥킥대고 소곤거리는 소리뿐이었다.",
+  "why": "문장 맨 앞의 'The congregation being fully assembled'는 주어(신자들)를 따로 가진 분사구문(독립분사구문)으로 '신자들이 다 모이자'라는 부사절 역할이다. 진짜 주어·동사는 그 뒤의 'the bell rang'이니, 쉼표까지 읽고 나서 주어를 찾자.",
+  "st": [8]
+ },
+ {
+  "id": "5.2.1",
+  "en": "His voice began on a medium key and climbed steadily up till it reached a certain point, where it bore with strong emphasis upon the topmost word and then plunged down as if from a spring-board:",
+  "s": "His voice",
+  "v": "began",
+  "chunks": [
+   {"en": "His voice began on a medium key", "ko": "그의 목소리는 중간 음높이에서 시작해서", "r": "주어+동사"},
+   {"en": "and climbed steadily up", "ko": "꾸준히 위로 올라갔다", "r": "대등(동사 2)"},
+   {"en": "till it reached a certain point,", "ko": "어느 지점에 이를 때까지,", "r": "부사절(시간)"},
+   {"en": "where it bore with strong emphasis upon the topmost word", "ko": "거기서 목소리는 맨 꼭대기 단어를 강하게 힘주어 누르고", "r": "관계절(장소 설명)"},
+   {"en": "and then plunged down", "ko": "그런 다음 아래로 뚝 떨어졌다", "r": "대등(동사)"},
+   {"en": "as if from a spring-board:", "ko": "마치 다이빙대에서 뛰어내리듯이:", "r": "비유(as if)"}
+  ],
+  "ko": "그의 목소리는 중간 음높이에서 시작해 꾸준히 올라가다가 어느 지점에 이르면, 거기서 맨 꼭대기 단어를 강하게 힘주어 누른 다음, 마치 다이빙대에서 뛰어내리듯 아래로 뚝 떨어졌다:",
+  "why": "'bore'는 '지루하게 하다'가 아니라 bear(힘을 싣다·누르다)의 과거형이다(bore upon = ~에 힘주다). 'where'는 앞의 a certain point를 설명하는 관계부사(거기서)이고, 마지막 as if는 비유(마치 ~인 듯), 콜론(:)은 뒤이어 그 찬송가 가사가 나온다는 신호다.",
+  "st": [5, 10]
+ },
+ {
+  "id": "5.5.1",
+  "en": "At church “sociables” he was always called upon to read poetry; and when he was through, the ladies would lift up their hands and let them fall helplessly in their laps, and “wall” their eyes, and shake their heads, as much as to say, “Words cannot express it; it is too beautiful, TOO beautiful for this mortal earth.”",
+  "s": "he",
+  "v": "was always called upon",
+  "chunks": [
+   {"en": "At church “sociables”", "ko": "교회 친목 모임에서", "r": "전치사구(장소)"},
+   {"en": "he was always called upon to read poetry;", "ko": "그는 늘 시를 낭독해 달라는 요청을 받았다;", "r": "주어+동사(수동)"},
+   {"en": "and when he was through,", "ko": "그리고 그가 다 읽고 나면,", "r": "부사절(시간)"},
+   {"en": "the ladies would lift up their hands", "ko": "부인들은 두 손을 들어 올렸다가", "r": "대등절 주어+동사(would=~하곤 했다)"},
+   {"en": "and let them fall helplessly in their laps,", "ko": "무릎 위로 힘없이 떨어뜨리고,", "r": "대등(동사)"},
+   {"en": "and “wall” their eyes, and shake their heads,", "ko": "눈을 희번덕거리고, 고개를 젓곤 했다,", "r": "대등(동사 나열)"},
+   {"en": "as much as to say,", "ko": "마치 이렇게 말하듯이,", "r": "비유(~하듯이)"},
+   {"en": "“Words cannot express it;", "ko": "\"말로는 표현할 수 없어요;", "r": "인용(대사)"},
+   {"en": "it is too beautiful, TOO beautiful for this mortal earth.”", "ko": "너무 아름다워요, 이 속세에는 너무나도 아름다워요.\"", "r": "인용(대사)"}
+  ],
+  "ko": "교회 친목 모임에서 그는 늘 시를 낭독해 달라는 요청을 받았다; 그리고 낭독이 끝나면 부인들은 두 손을 들어 올렸다가 무릎 위로 힘없이 떨어뜨리고, 눈을 희번덕거리고, 고개를 젓곤 했다—마치 \"말로는 표현할 수 없어요; 너무 아름다워요, 이 속세에는 너무나도 아름다워요\"라고 말하듯이.",
+  "why": "'be called upon to ~'는 '~해 달라는 요청을 받다', 'be through'는 '끝내다'라는 뜻이다. would는 과거의 습관(~하곤 했다)이며 lift … and let … and 'wall' … and shake로 동사 네 개가 and로 이어지니, 각 and 뒤에서 끊어 부인들의 동작을 하나씩 따라가자. as much as to say는 '마치 ~라고 말하듯이'.",
+  "st": [3, 8, 14]
+ },
+ {
+  "id": "5.6.0",
+  "en": "After the hymn had been sung, the Rev. Mr. Sprague turned himself into a bulletin-board, and read off “notices” of meetings and societies and things till it seemed that the list would stretch out to the crack of doom—a queer custom which is still kept up in America, even in cities, away here in this age of abundant newspapers.",
+  "s": "the Rev. Mr. Sprague",
+  "v": "turned",
+  "chunks": [
+   {"en": "After the hymn had been sung,", "ko": "찬송가를 다 부른 뒤,", "r": "부사절(시간)"},
+   {"en": "the Rev. Mr. Sprague turned himself into a bulletin-board,", "ko": "스프레이그 목사는 스스로 게시판으로 변신하여,", "r": "주어+동사"},
+   {"en": "and read off “notices” of meetings and societies and things", "ko": "모임이니 단체니 이런저런 것들의 '공지사항'을 읽어 내려갔다", "r": "대등(동사)"},
+   {"en": "till it seemed that the list would stretch out", "ko": "목록이 계속 이어질 것처럼 보일 때까지", "r": "부사절(시간)"},
+   {"en": "to the crack of doom—a queer custom", "ko": "세상 끝날 때까지—기이한 관습인데", "r": "전치사구 + 곁말(대시 삽입)"},
+   {"en": "which is still kept up in America,", "ko": "미국에서 지금도 여전히 유지되고 있다,", "r": "관계절(앞 명사 설명)"},
+   {"en": "even in cities,", "ko": "도시에서조차,", "r": "부사"},
+   {"en": "away here in this age of abundant newspapers.", "ko": "신문이 넘쳐나는 이 시대에 와서도.", "r": "부사구(시간)"}
+  ],
+  "ko": "찬송가를 다 부른 뒤 스프레이그 목사는 스스로 게시판으로 변신하여, 모임이니 단체니 이런저런 것들의 '공지사항'을 목록이 세상 끝날 때까지 이어질 것처럼 보일 때까지 읽어 내려갔다—미국에서 지금도 여전히 유지되고 있는 기이한 관습으로, 도시에서조차, 신문이 넘쳐나는 이 시대에 와서도 그렇다.",
+  "why": "'After …,' 부사절이 앞에 오고, 주절 동사는 turned와 read off 두 개다. 'till it seemed that …'은 '~처럼 보일 때까지'(과장), the crack of doom은 '최후 심판의 날'이라는 관용구이며, 대시(—) 뒤는 앞 내용 전체를 'a queer custom'이라 부르며 덧붙이는 작가의 논평이다.",
+  "st": [4, 8, 14]
+ },
+ {
+  "id": "5.7.1",
+  "en": "A good, generous prayer it was, and went into details: it pleaded for the church, and the little children of the church; for the other churches of the village; for the village itself; for the county; for the State; for the State officers; for the United States; for the churches of the United States; for Congress; for the President; for the officers of the Government; for poor sailors, tossed by stormy seas; for the oppressed millions groaning under the heel of European monarchies and Oriental despotisms; for such as have the light and the good tidings, and yet have not eyes to see nor ears to hear withal; for the heathen in the far islands of the sea; and closed with a supplication that the words he was about to speak might find grace and favor, and be as seed sown in fertile ground, yielding in time a grateful harvest of good.",
+  "s": "it",
+  "v": "was",
+  "chunks": [
+   {"en": "A good, generous prayer it was,", "ko": "훌륭하고 너그러운 기도였다,", "r": "보어+주어+동사(보어가 앞으로)"},
+   {"en": "and went into details:", "ko": "그리고 세세한 데까지 들어갔다:", "r": "대등(동사)"},
+   {"en": "it pleaded for the church,", "ko": "기도는 교회를 위해 간구했고,", "r": "주어+동사"},
+   {"en": "and the little children of the church;", "ko": "그리고 교회의 어린아이들을 위해;", "r": "나열"},
+   {"en": "for the other churches of the village;", "ko": "마을의 다른 교회들을 위해;", "r": "나열(전치사구)"},
+   {"en": "for the village itself; for the county;", "ko": "마을 자체를 위해; 카운티를 위해;", "r": "나열"},
+   {"en": "for the State; for the State officers;", "ko": "주(州)를 위해; 주 관리들을 위해;", "r": "나열"},
+   {"en": "for the United States;", "ko": "미합중국을 위해;", "r": "나열"},
+   {"en": "for the churches of the United States;", "ko": "미합중국의 교회들을 위해;", "r": "나열"},
+   {"en": "for Congress; for the President;", "ko": "의회를 위해; 대통령을 위해;", "r": "나열"},
+   {"en": "for the officers of the Government;", "ko": "정부 관리들을 위해;", "r": "나열"},
+   {"en": "for poor sailors, tossed by stormy seas;", "ko": "폭풍우 치는 바다에 시달리는 가엾은 선원들을 위해;", "r": "나열 + 과거분사(뒤 수식)"},
+   {"en": "for the oppressed millions", "ko": "억압받는 수백만 사람들을 위해", "r": "나열"},
+   {"en": "groaning under the heel of European monarchies and Oriental despotisms;", "ko": "유럽 군주제와 동양 전제정치의 발꿈치 아래 신음하는;", "r": "분사구(앞 명사 설명)"},
+   {"en": "for such as have the light and the good tidings,", "ko": "빛과 복음을 가졌으면서도,", "r": "나열(such as = ~한 사람들)"},
+   {"en": "and yet have not eyes to see nor ears to hear withal;", "ko": "그것을 볼 눈도 들을 귀도 없는 사람들을 위해;", "r": "대등(관계절 계속)"},
+   {"en": "for the heathen in the far islands of the sea;", "ko": "먼바다 섬들의 이교도들을 위해;", "r": "나열"},
+   {"en": "and closed with a supplication", "ko": "그리고 간청으로 기도를 마쳤다", "r": "대등(동사)"},
+   {"en": "that the words he was about to speak", "ko": "자신이 이제 하려는 말이", "r": "동격절(that: 간청의 내용) 주어"},
+   {"en": "might find grace and favor,", "ko": "은혜와 호의를 얻고,", "r": "동격절 동사"},
+   {"en": "and be as seed sown in fertile ground,", "ko": "기름진 땅에 뿌려진 씨앗처럼 되어,", "r": "대등(보어)"},
+   {"en": "yielding in time a grateful harvest of good.", "ko": "때가 되면 선(善)의 감사한 수확을 내기를.", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "훌륭하고 너그러운 기도였고, 세세한 데까지 들어갔다: 교회를 위해, 교회의 어린아이들을 위해; 마을의 다른 교회들을 위해; 마을 자체를 위해; 카운티를 위해; 주(州)를 위해; 주 관리들을 위해; 미합중국을 위해; 미합중국의 교회들을 위해; 의회를 위해; 대통령을 위해; 정부 관리들을 위해; 폭풍우 치는 바다에 시달리는 가엾은 선원들을 위해; 유럽 군주제와 동양 전제정치의 발꿈치 아래 신음하는 억압받는 수백만을 위해; 빛과 복음을 가졌으면서도 그것을 볼 눈도 들을 귀도 없는 사람들을 위해; 먼바다 섬들의 이교도들을 위해 간구했다; 그리고 자신이 이제 하려는 말이 은혜와 호의를 얻어, 기름진 땅에 뿌려진 씨앗처럼 때가 되면 선(善)의 감사한 수확을 내기를 비는 간청으로 마쳤다.",
+  "why": "첫 절은 보어(A good, generous prayer)가 앞으로 나온 형태로 실제 주어·동사는 it was다. 콜론(:) 뒤부터는 'it pleaded for …; for …; for …'로 기도 대상을 세미콜론으로 끝없이 나열하니, 'for + 대상'을 하나씩 세듯 읽고, 마지막 'and closed with a supplication that …'에서 다시 동사(closed)로 돌아온다는 것만 놓치지 말자.",
+  "st": [3, 5, 6]
+ },
+ {
+  "id": "5.8.2",
+  "en": "He was restive all through it; he kept tally of the details of the prayer, unconsciously—for he was not listening, but he knew the ground of old, and the clergyman’s regular route over it—and when a little trifle of new matter was interlarded, his ear detected it and his whole nature resented it; he considered additions unfair, and scoundrelly.",
+  "s": "He",
+  "v": "was",
+  "chunks": [
+   {"en": "He was restive all through it;", "ko": "그는 기도 내내 안절부절못했다;", "r": "주어+동사"},
+   {"en": "he kept tally of the details of the prayer,", "ko": "그는 기도의 세부 내용을 하나하나 세고 있었다,", "r": "대등절"},
+   {"en": "unconsciously—for he was not listening,", "ko": "자기도 모르게—듣고 있었던 건 아니니까,", "r": "부사 + 곁말(대시, for=because)"},
+   {"en": "but he knew the ground of old,", "ko": "하지만 그 바닥은 오래전부터 훤히 알았고,", "r": "대등절"},
+   {"en": "and the clergyman’s regular route over it—and", "ko": "목사가 그 위를 지나는 정해진 경로도 알았으므로—그래서", "r": "목적어 나열 + 접속"},
+   {"en": "when a little trifle of new matter was interlarded,", "ko": "새로운 내용이 조금이라도 끼어들면,", "r": "부사절(시간)"},
+   {"en": "his ear detected it", "ko": "그의 귀가 그것을 알아챘고", "r": "주어+동사"},
+   {"en": "and his whole nature resented it;", "ko": "그의 온 존재가 그것에 분개했다;", "r": "대등절"},
+   {"en": "he considered additions unfair, and scoundrelly.", "ko": "그는 덧붙이는 것을 부당하고 비열한 짓이라고 여겼다.", "r": "대등절"}
+  ],
+  "ko": "그는 기도 내내 안절부절못했다; 기도의 세부 내용을 자기도 모르게 하나하나 세고 있었는데—듣고 있었던 건 아니지만 그 바닥은 오래전부터 훤히 알았고 목사가 그 위를 지나는 정해진 경로도 알았으므로—새로운 내용이 조금이라도 끼어들면 그의 귀가 그것을 알아챘고 온 존재가 그것에 분개했다; 그는 (기도에) 덧붙이는 것을 부당하고 비열한 짓이라고 여겼다.",
+  "why": "대시(—) 두 개 사이의 'for he was not listening … over it'은 이유를 설명하는 곁말이니, 두 번째 대시 뒤 'and when …'이 다시 본줄기다. 'the ground'와 'route'는 기도문을 늘 다니는 '길'에 빗댄 표현이고, kept tally of는 '~을 하나하나 셌다', interlarded는 '사이에 끼워 넣어졌다'라는 뜻이다.",
+  "st": [3, 4, 8, 13]
+ },
+ {
+  "id": "5.8.3",
+  "en": "In the midst of the prayer a fly had lit on the back of the pew in front of him and tortured his spirit by calmly rubbing its hands together, embracing its head with its arms, and polishing it so vigorously that it seemed to almost part company with the body, and the slender thread of a neck was exposed to view; scraping its wings with its hind legs and smoothing them to its body as if they had been coat-tails; going through its whole toilet as tranquilly as if it knew it was perfectly safe.",
+  "s": "a fly",
+  "v": "had lit",
+  "chunks": [
+   {"en": "In the midst of the prayer", "ko": "기도가 한창일 때", "r": "전치사구(시간)"},
+   {"en": "a fly had lit", "ko": "파리 한 마리가 내려앉아", "r": "주어+동사"},
+   {"en": "on the back of the pew in front of him", "ko": "그의 앞 신도석 등받이에", "r": "전치사구(장소)"},
+   {"en": "and tortured his spirit", "ko": "그의 영혼을 괴롭혔다", "r": "대등(동사)"},
+   {"en": "by calmly rubbing its hands together,", "ko": "태연하게 두 앞발을 비비고,", "r": "전치사구(방법: ~함으로써)"},
+   {"en": "embracing its head with its arms,", "ko": "앞발로 머리를 감싸 안고,", "r": "동명사 나열"},
+   {"en": "and polishing it so vigorously", "ko": "머리를 어찌나 세게 닦아대는지", "r": "동명사 나열"},
+   {"en": "that it seemed to almost part company with the body,", "ko": "머리가 몸에서 거의 떨어져 나갈 것 같았고,", "r": "결과절(so ~ that)"},
+   {"en": "and the slender thread of a neck was exposed to view;", "ko": "실처럼 가느다란 목이 드러나 보였다;", "r": "대등절"},
+   {"en": "scraping its wings with its hind legs", "ko": "뒷다리로 날개를 긁고", "r": "동명사 나열"},
+   {"en": "and smoothing them to its body", "ko": "날개를 몸에 딱 붙여 매만졌다", "r": "동명사 나열"},
+   {"en": "as if they had been coat-tails;", "ko": "마치 연미복 자락이라도 되는 양;", "r": "비유(as if, 가정법)"},
+   {"en": "going through its whole toilet as tranquilly", "ko": "몸단장 전 과정을 아주 태연하게 해치웠다", "r": "동명사 나열"},
+   {"en": "as if it knew it was perfectly safe.", "ko": "자기가 완벽하게 안전하다는 걸 아는 듯이.", "r": "비유(as if)"}
+  ],
+  "ko": "기도가 한창일 때 파리 한 마리가 그의 앞 신도석 등받이에 내려앉아 그의 영혼을 괴롭혔다—태연하게 두 앞발을 비비고, 앞발로 머리를 감싸 안고, 머리를 어찌나 세게 닦아대는지 머리가 몸에서 거의 떨어져 나갈 것 같아 실처럼 가느다란 목이 드러나 보였고; 뒷다리로 날개를 긁어 마치 연미복 자락이라도 되는 양 몸에 딱 붙여 매만졌으며; 자기가 완벽하게 안전하다는 걸 아는 듯 아주 태연하게 몸단장 전 과정을 해치웠던 것이다.",
+  "why": "주어·동사는 'a fly had lit … and tortured'로 앞에 다 나오고, 그 뒤 'by rubbing …, embracing …, polishing …; scraping … smoothing …; going …'은 모두 파리가 괴롭힌 '방법'을 ~ing로 길게 나열한 것이다. 'so vigorously that …'은 '어찌나 세게 ~해서 …할 정도'(결과), 'as if they had been'은 사실이 아닌 비유(가정법)다.",
+  "st": [3, 6, 10, 12]
+ },
+ {
+  "id": "5.8.4",
+  "en": "As indeed it was; for as sorely as Tom’s hands itched to grab for it they did not dare—he believed his soul would be instantly destroyed if he did such a thing while the prayer was going on.",
+  "s": "it",
+  "v": "was",
+  "chunks": [
+   {"en": "As indeed it was;", "ko": "실제로 그랬다(안전했다);", "r": "접속(앞 문장 받음)"},
+   {"en": "for as sorely as Tom’s hands itched to grab for it", "ko": "왜냐하면 톰의 손이 아무리 잡고 싶어 근질거려도", "r": "부사절(이유 for + 양보)"},
+   {"en": "they did not dare—he believed", "ko": "손은 감히 그러지 못했으니까—그는 믿었다", "r": "주어+동사 + 곁말(대시)"},
+   {"en": "his soul would be instantly destroyed", "ko": "자기 영혼이 그 자리에서 파멸할 거라고", "r": "목적어(that 생략된 절)"},
+   {"en": "if he did such a thing", "ko": "만약 그런 짓을 한다면", "r": "부사절(조건)"},
+   {"en": "while the prayer was going on.", "ko": "기도가 진행되는 동안에.", "r": "부사절(시간)"}
+  ],
+  "ko": "실제로 안전했다; 톰의 손이 아무리 잡고 싶어 근질거려도 감히 그러지 못했으니까—기도가 진행되는 동안 그런 짓을 하면 자기 영혼이 그 자리에서 파멸할 거라고 믿었던 것이다.",
+  "why": "'As indeed it was'는 앞 문장의 '안전하다'를 받아 '실제로 그랬다'라고 확인하는 짧은 절이다. 세미콜론 뒤 for는 because(왜냐하면), 'as sorely as … itched'는 '아무리 ~하고 싶어도'(양보)이며, 대시(—) 뒤에는 believed 다음에 that이 생략된 목적어절이 이어진다.",
+  "st": [3, 4, 13]
+ },
+ {
+  "id": "5.9.0",
+  "en": "The minister gave out his text and droned along monotonously through an argument that was so prosy that many a head by and by began to nod—and yet it was an argument that dealt in limitless fire and brimstone and thinned the predestined elect down to a company so small as to be hardly worth the saving.",
+  "s": "The minister",
+  "v": "gave out",
+  "chunks": [
+   {"en": "The minister gave out his text", "ko": "목사는 설교 본문(성경 구절)을 알려 주고", "r": "주어+동사"},
+   {"en": "and droned along monotonously through an argument", "ko": "단조로운 목소리로 논증을 웅얼웅얼 이어 갔다", "r": "대등(동사)"},
+   {"en": "that was so prosy that many a head", "ko": "그 논증은 너무나 따분해서 많은 이들의 머리가", "r": "관계절 + 결과절(so ~ that) 주어"},
+   {"en": "by and by began to nod—and yet", "ko": "이윽고 꾸벅꾸벅 졸기 시작했다—그런데도", "r": "동사 + 접속(대시)"},
+   {"en": "it was an argument", "ko": "그것은 논증이었다", "r": "대등절 주어+동사"},
+   {"en": "that dealt in limitless fire and brimstone", "ko": "지옥불과 유황을 끝없이 다루고", "r": "관계절(앞 명사 설명)"},
+   {"en": "and thinned the predestined elect down", "ko": "예정된 선택받은 자들을 줄이고 줄여", "r": "대등(관계절 동사)"},
+   {"en": "to a company so small", "ko": "아주 작은 무리로", "r": "전치사구"},
+   {"en": "as to be hardly worth the saving.", "ko": "구원할 가치도 거의 없을 만큼.", "r": "결과(so ~ as to)"}
+  ],
+  "ko": "목사는 설교 본문(성경 구절)을 알려 주고 단조로운 목소리로 논증을 웅얼웅얼 이어 갔는데, 그것이 어찌나 따분한지 이윽고 많은 머리가 꾸벅꾸벅 졸기 시작했다—그런데도 그것은 지옥불과 유황을 끝없이 다루고, 예정된 선택받은 자들을 구원할 가치도 거의 없을 만큼 작은 무리로 줄여 버리는 논증이었다.",
+  "why": "'so prosy that …'(너무 따분해서 …)의 that과 an argument를 설명하는 관계절 that이 연달아 나오니 역할을 구분하자. 'many a head'는 단수 형태지만 '많은 머리'라는 뜻이고, 'so small as to be …'는 '…할 정도로 작은'(결과), fire and brimstone은 지옥의 형벌을 강조하는 설교를 뜻하는 관용구다.",
+  "st": [4]
+ },
+ {
+  "id": "5.9.1",
+  "en": "Tom counted the pages of the sermon; after church he always knew how many pages there had been, but he seldom knew anything else about the discourse.",
+  "s": "Tom",
+  "v": "counted",
+  "chunks": [
+   {"en": "Tom counted the pages of the sermon;", "ko": "톰은 설교의 페이지 수를 셌다;", "r": "주어+동사"},
+   {"en": "after church he always knew", "ko": "예배가 끝나면 그는 늘 알았다", "r": "시간 + 대등절"},
+   {"en": "how many pages there had been,", "ko": "페이지가 몇 장이었는지는,", "r": "목적어(간접의문문)"},
+   {"en": "but he seldom knew anything else", "ko": "하지만 다른 것은 거의 알지 못했다", "r": "대등절"},
+   {"en": "about the discourse.", "ko": "설교 내용에 대해서는.", "r": "전치사구"}
+  ],
+  "ko": "톰은 설교의 페이지 수를 셌다; 예배가 끝나면 그는 늘 페이지가 몇 장이었는지는 알았지만, 설교 내용에 대해서는 다른 건 거의 알지 못했다.",
+  "why": "세미콜론 뒤 'after church he always knew'에서 knew의 목적어는 간접의문문 'how many pages there had been'(몇 장이었는지)이다. seldom은 '좀처럼 ~않다'라는 부정어이므로 뒤의 anything이 '아무것도'로 읽힌다.",
+  "st": [3, 17]
+ },
+ {
+  "id": "5.9.3",
+  "en": "The minister made a grand and moving picture of the assembling together of the world’s hosts at the millennium when the lion and the lamb should lie down together and a little child should lead them.",
+  "s": "The minister",
+  "v": "made",
+  "chunks": [
+   {"en": "The minister made a grand and moving picture", "ko": "목사는 웅장하고 감동적인 그림을 그려 보였다", "r": "주어+동사+목적어"},
+   {"en": "of the assembling together of the world’s hosts", "ko": "온 세상의 무리가 함께 모이는 장면의", "r": "전치사구(그림의 내용)"},
+   {"en": "at the millennium", "ko": "천년왕국 때에", "r": "전치사구(시간)"},
+   {"en": "when the lion and the lamb should lie down together", "ko": "그때는 사자와 어린 양이 함께 눕고", "r": "관계절(시간 설명)"},
+   {"en": "and a little child should lead them.", "ko": "어린아이가 그들을 이끌게 될 것이다.", "r": "대등절"}
+  ],
+  "ko": "목사는 천년왕국 때 온 세상의 무리가 함께 모이는 장면을 웅장하고 감동적인 그림으로 그려 보였다—사자와 어린 양이 함께 눕고 어린아이가 그들을 이끌게 될 그때를.",
+  "why": "'a picture of the assembling together of the world's hosts'처럼 of가 두 번 이어져 '무리가 함께 모이는 것의 그림'이라는 긴 목적어를 만든다. 'when'은 앞의 the millennium(천년왕국)을 설명하는 관계부사(그때는 ~), should는 옛 문체의 '~하게 될'이다. 이사야서의 유명한 구절을 빌린 표현이다.",
+  "st": []
+ },
+ {
+  "id": "5.9.4",
+  "en": "But the pathos, the lesson, the moral of the great spectacle were lost upon the boy; he only thought of the conspicuousness of the principal character before the on-looking nations; his face lit with the thought, and he said to himself that he wished he could be that child, if it was a tame lion.",
+  "s": "the pathos, the lesson, the moral of the great spectacle",
+  "v": "were lost",
+  "chunks": [
+   {"en": "But the pathos, the lesson, the moral", "ko": "하지만 그 비장함도, 교훈도, 도덕적 의미도", "r": "주어(세 개 나열)"},
+   {"en": "of the great spectacle were lost upon the boy;", "ko": "그 위대한 광경의 (그것들은) 소년에게는 아무 소용이 없었다;", "r": "전치사구 + 동사"},
+   {"en": "he only thought of the conspicuousness", "ko": "그는 오직 돋보이는 것만 생각했다", "r": "대등절"},
+   {"en": "of the principal character before the on-looking nations;", "ko": "지켜보는 온 나라 앞에서 주인공이 얼마나 돋보일지를;", "r": "전치사구"},
+   {"en": "his face lit with the thought,", "ko": "그 생각에 그의 얼굴이 환해졌고,", "r": "대등절"},
+   {"en": "and he said to himself", "ko": "그는 혼잣말을 했다", "r": "대등절"},
+   {"en": "that he wished he could be that child,", "ko": "자기가 그 아이였으면 좋겠다고,", "r": "목적어(that절, 가정법)"},
+   {"en": "if it was a tame lion.", "ko": "사자가 순한 놈이기만 하다면.", "r": "부사절(조건)"}
+  ],
+  "ko": "하지만 그 위대한 광경의 비장함도, 교훈도, 도덕적 의미도 소년에게는 아무 소용이 없었다; 그는 오직 지켜보는 온 나라 앞에서 주인공이 얼마나 돋보일지만 생각했다; 그 생각에 얼굴이 환해졌고, 사자가 순한 놈이기만 하다면 자기가 그 아이였으면 좋겠다고 혼잣말을 했다.",
+  "why": "첫 절의 주어는 'the pathos, the lesson, the moral'(of the great spectacle) 세 개를 나열한 긴 주어이고, 동사 were lost는 열 단어 뒤에야 나온다. 'be lost upon ~'은 '~에게 통하지 않다'라는 뜻이며, 'wished he could be'는 이룰 수 없는 소망(가정법)이다.",
+  "st": [3, 12, 18]
+ },
+ {
+  "id": "5.10.11",
+  "en": "He surveyed the prize; walked around it; smelt at it from a safe distance; walked around it again; grew bolder, and took a closer smell; then lifted his lip and made a gingerly snatch at it, just missing it; made another, and another; began to enjoy the diversion; subsided to his stomach with the beetle between his paws, and continued his experiments; grew weary at last, and then indifferent and absent-minded.",
+  "s": "He",
+  "v": "surveyed",
+  "chunks": [
+   {"en": "He surveyed the prize; walked around it;", "ko": "개는 전리품을 살펴보았다; 주위를 빙 돌았다;", "r": "주어+동사 나열"},
+   {"en": "smelt at it from a safe distance;", "ko": "안전한 거리에서 냄새를 맡았다;", "r": "동사 나열"},
+   {"en": "walked around it again; grew bolder,", "ko": "다시 주위를 돌았다; 대담해져서,", "r": "동사 나열"},
+   {"en": "and took a closer smell;", "ko": "더 가까이서 냄새를 맡았다;", "r": "동사 나열"},
+   {"en": "then lifted his lip and made a gingerly snatch at it,", "ko": "그러고는 입술을 들어 올리고 조심조심 덥석 물려다가,", "r": "동사 나열"},
+   {"en": "just missing it; made another, and another;", "ko": "아슬아슬하게 놓쳤다; 또 한 번, 또 한 번;", "r": "분사구문 + 동사 나열"},
+   {"en": "began to enjoy the diversion;", "ko": "이 놀이가 재미있어지기 시작했다;", "r": "동사 나열"},
+   {"en": "subsided to his stomach with the beetle between his paws,", "ko": "앞발 사이에 딱정벌레를 두고 배를 깔고 엎드려,", "r": "동사 나열"},
+   {"en": "and continued his experiments;", "ko": "실험을 계속했다;", "r": "동사 나열"},
+   {"en": "grew weary at last, and then indifferent and absent-minded.", "ko": "마침내 지쳤고, 그다음엔 무관심하고 멍해졌다.", "r": "동사 나열"}
+  ],
+  "ko": "개는 전리품을 살펴보았다; 주위를 빙 돌았다; 안전한 거리에서 냄새를 맡았다; 다시 주위를 돌았다; 대담해져서 더 가까이 냄새를 맡았다; 그러고는 입술을 들어 올리고 조심조심 덥석 물려다가 아슬아슬하게 놓쳤다; 또 한 번, 또 한 번; 이 놀이가 재미있어지기 시작했다; 앞발 사이에 딱정벌레를 두고 배를 깔고 엎드려 실험을 계속했다; 마침내 지쳤고, 그다음엔 무관심하고 멍해졌다.",
+  "why": "주어 He가 맨 앞에 한 번만 나오고, 그 뒤로는 세미콜론(;)마다 동사(walked, smelt, grew, lifted, made…)만 이어지는 문장이다. 세미콜론을 '그러고 나서'로 읽으며 개의 동작을 순서대로 하나씩 그려 보면 된다.",
+  "st": [3, 6]
+ },
+ {
+  "id": "5.10.13",
+  "en": "There was a sharp yelp, a flirt of the poodle’s head, and the beetle fell a couple of yards away, and lit on its back once more.",
+  "s": "a sharp yelp",
+  "v": "was",
+  "chunks": [
+   {"en": "There was a sharp yelp,", "ko": "날카로운 깽 소리가 났고,", "r": "There was 구문(~가 있었다)"},
+   {"en": "a flirt of the poodle’s head,", "ko": "푸들이 머리를 홱 흔들었고,", "r": "나열(주어 2)"},
+   {"en": "and the beetle fell a couple of yards away,", "ko": "딱정벌레는 두어 야드 밖으로 떨어져,", "r": "대등절"},
+   {"en": "and lit on its back once more.", "ko": "다시 한번 벌러덩 등으로 착지했다.", "r": "대등(동사)"}
+  ],
+  "ko": "날카로운 깽 소리가 나고 푸들이 머리를 홱 흔들더니, 딱정벌레는 두어 야드 밖으로 떨어져 다시 한번 벌러덩 등으로 착지했다.",
+  "why": "'There was A, B'는 'A와 B가 있었다(일어났다)'라는 There 구문이고, and 뒤 'the beetle fell … and lit'이 새 주어·동사다. flirt는 여기서 '홱 흔듦', lit은 light(내려앉다)의 과거형이다.",
+  "st": [17]
+ },
+ {
+  "id": "5.10.16",
+  "en": "So he went to the beetle and began a wary attack on it again; jumping at it from every point of a circle, lighting with his fore-paws within an inch of the creature, making even closer snatches at it with his teeth, and jerking his head till his ears flapped again.",
+  "s": "he",
+  "v": "went",
+  "chunks": [
+   {"en": "So he went to the beetle", "ko": "그래서 개는 딱정벌레에게 다가가", "r": "주어+동사"},
+   {"en": "and began a wary attack on it again;", "ko": "다시 조심스러운 공격을 시작했다;", "r": "대등(동사)"},
+   {"en": "jumping at it from every point of a circle,", "ko": "원의 사방에서 그것을 향해 뛰어들고,", "r": "분사구문(~하면서)"},
+   {"en": "lighting with his fore-paws within an inch of the creature,", "ko": "앞발을 그 녀석에게서 1인치 안쪽에 내려놓고,", "r": "분사구문(~하면서)"},
+   {"en": "making even closer snatches at it with his teeth,", "ko": "이빨로 더욱 가까이 물어채려 하고,", "r": "분사구문(~하면서)"},
+   {"en": "and jerking his head till his ears flapped again.", "ko": "귀가 다시 펄럭일 때까지 머리를 홱홱 흔들면서.", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "그래서 개는 딱정벌레에게 다가가 다시 조심스러운 공격을 시작했다; 원의 사방에서 그것을 향해 뛰어들고, 앞발을 그 녀석에게서 1인치 안쪽에 내려놓고, 이빨로 더욱 가까이 물어채려 하고, 귀가 다시 펄럭일 때까지 머리를 홱홱 흔들면서.",
+  "why": "세미콜론 뒤 'jumping …, lighting …, making …, and jerking …'은 모두 앞 문장의 공격 방법을 '~하면서'로 덧붙이는 분사구문(~ing)이다. lighting은 '불 켜기'가 아니라 light(내려앉다)의 ~ing 형태다.",
+  "st": [3, 6]
+ },
+ {
+  "id": "5.10.17",
+  "en": "But he grew tired once more, after a while; tried to amuse himself with a fly but found no relief; followed an ant around, with his nose close to the floor, and quickly wearied of that; yawned, sighed, forgot the beetle entirely, and sat down on it.",
+  "s": "he",
+  "v": "grew",
+  "chunks": [
+   {"en": "But he grew tired once more, after a while;", "ko": "하지만 잠시 후 개는 다시 지쳤다;", "r": "주어+동사"},
+   {"en": "tried to amuse himself with a fly", "ko": "파리를 가지고 놀아 보려 했지만", "r": "동사 나열"},
+   {"en": "but found no relief;", "ko": "재미가 없었다;", "r": "대등(동사)"},
+   {"en": "followed an ant around,", "ko": "개미 한 마리를 따라다녔다,", "r": "동사 나열"},
+   {"en": "with his nose close to the floor,", "ko": "코를 바닥에 바짝 댄 채,", "r": "전치사구(with: ~한 채로)"},
+   {"en": "and quickly wearied of that;", "ko": "그리고 금세 그것에도 싫증이 났다;", "r": "동사 나열"},
+   {"en": "yawned, sighed, forgot the beetle entirely,", "ko": "하품하고, 한숨 쉬고, 딱정벌레를 까맣게 잊고는,", "r": "동사 나열"},
+   {"en": "and sat down on it.", "ko": "그 위에 앉아 버렸다.", "r": "동사 나열"}
+  ],
+  "ko": "하지만 잠시 후 개는 다시 지쳤다; 파리를 가지고 놀아 보려 했지만 재미가 없었다; 코를 바닥에 바짝 대고 개미 한 마리를 따라다니다가 금세 그것에도 싫증이 났다; 하품하고, 한숨 쉬고, 딱정벌레를 까맣게 잊고는, 그 위에 앉아 버렸다.",
+  "why": "주어 he 뒤로 세미콜론마다 동사(tried, followed, wearied, yawned, sighed, forgot, sat)만 이어진다. 'with his nose close to the floor'는 '코를 바닥에 바짝 댄 채'(with + 명사 + 상태), weary of는 '~에 싫증 나다'라는 뜻이다.",
+  "st": [3]
+ },
+ {
+  "id": "5.10.18",
+  "en": "Then there was a wild yelp of agony and the poodle went sailing up the aisle; the yelps continued, and so did the dog; he crossed the house in front of the altar; he flew down the other aisle; he crossed before the doors; he clamored up the home-stretch; his anguish grew with his progress, till presently he was but a woolly comet moving in its orbit with the gleam and the speed of light.",
+  "s": "a wild yelp of agony",
+  "v": "was",
+  "chunks": [
+   {"en": "Then there was a wild yelp of agony", "ko": "그때 고통에 찬 미친 듯한 깽 소리가 나더니", "r": "There was 구문"},
+   {"en": "and the poodle went sailing up the aisle;", "ko": "푸들이 통로를 날듯이 내달렸다;", "r": "대등절"},
+   {"en": "the yelps continued, and so did the dog;", "ko": "깽깽 소리는 계속되었고, 개도 계속 달렸다;", "r": "대등절 + 도치(so did)"},
+   {"en": "he crossed the house in front of the altar;", "ko": "개는 제단 앞으로 예배당을 가로질렀다;", "r": "대등절"},
+   {"en": "he flew down the other aisle;", "ko": "반대편 통로로 쏜살같이 내려갔다;", "r": "대등절"},
+   {"en": "he crossed before the doors;", "ko": "문 앞을 가로질렀다;", "r": "대등절"},
+   {"en": "he clamored up the home-stretch;", "ko": "요란하게 짖으며 마지막 직선 구간을 달려 올라갔다;", "r": "대등절"},
+   {"en": "his anguish grew with his progress,", "ko": "달릴수록 고통은 커져 갔고,", "r": "대등절"},
+   {"en": "till presently he was but a woolly comet", "ko": "마침내 개는 그저 털북숭이 혜성이 되어 있었다", "r": "부사절(결과: ~할 때까지)"},
+   {"en": "moving in its orbit with the gleam and the speed of light.", "ko": "빛의 반짝임과 속도로 궤도를 도는.", "r": "분사구(앞 명사 설명)"}
+  ],
+  "ko": "그때 고통에 찬 미친 듯한 깽 소리가 나더니 푸들이 통로를 날듯이 내달렸다; 깽깽 소리는 계속되었고, 개도 계속 달렸다; 제단 앞으로 예배당을 가로질렀다; 반대편 통로로 쏜살같이 내려갔다; 문 앞을 가로질렀다; 요란하게 짖으며 마지막 직선 구간을 달려 올라갔다; 달릴수록 고통은 커져, 마침내 개는 빛의 반짝임과 속도로 궤도를 도는 털북숭이 혜성에 지나지 않게 되었다.",
+  "why": "세미콜론으로 'he crossed; he flew; he crossed; he clamored'처럼 짧은 절을 잇달아 붙여 개가 뛰는 속도감을 낸 문장이다. 'so did the dog'는 '개도 그랬다(계속했다)'라는 도치, 'was but a woolly comet'의 but은 only(그저 ~일 뿐)이다.",
+  "st": [3, 6, 11, 17]
+ },
+ {
+  "id": "5.10.19",
+  "en": "At last the frantic sufferer sheered from its course, and sprang into its master’s lap; he flung it out of the window, and the voice of distress quickly thinned away and died in the distance.",
+  "s": "the frantic sufferer",
+  "v": "sheered",
+  "chunks": [
+   {"en": "At last the frantic sufferer sheered from its course,", "ko": "마침내 미쳐 날뛰던 고통의 주인공은 진로를 벗어나,", "r": "시간 + 주어+동사"},
+   {"en": "and sprang into its master’s lap;", "ko": "주인의 무릎으로 뛰어들었다;", "r": "대등(동사)"},
+   {"en": "he flung it out of the window,", "ko": "주인은 개를 창밖으로 내던졌고,", "r": "대등절"},
+   {"en": "and the voice of distress quickly thinned away", "ko": "괴로움에 찬 울음소리는 빠르게 가늘어지다가", "r": "대등절"},
+   {"en": "and died in the distance.", "ko": "저 멀리서 사라졌다.", "r": "대등(동사)"}
+  ],
+  "ko": "마침내 미쳐 날뛰던 고통의 주인공은 진로를 벗어나 주인의 무릎으로 뛰어들었다; 주인은 개를 창밖으로 내던졌고, 괴로움에 찬 울음소리는 빠르게 가늘어지다가 저 멀리서 사라졌다.",
+  "why": "'the frantic sufferer'(미쳐 날뛰는 고통받는 자)는 개를 가리키는 돌려 말하기이고, 세미콜론 뒤 he는 개가 아니라 주인(its master)이다. 'the voice of distress'도 개의 울음소리를 격식체로 표현한 것이니, 대명사와 돌려 말하기가 누구를 가리키는지 확인하며 읽자.",
+  "st": [3]
+ },
+ {
+  "id": "5.11.1",
+  "en": "The discourse was resumed presently, but it went lame and halting, all possibility of impressiveness being at an end; for even the gravest sentiments were constantly being received with a smothered burst of unholy mirth, under cover of some remote pew-back, as if the poor parson had said a rarely facetious thing.",
+  "s": "The discourse",
+  "v": "was resumed",
+  "chunks": [
+   {"en": "The discourse was resumed presently,", "ko": "설교는 곧 재개되었지만,", "r": "주어+동사(수동)"},
+   {"en": "but it went lame and halting,", "ko": "절뚝거리며 더듬더듬 진행되었다,", "r": "대등절"},
+   {"en": "all possibility of impressiveness being at an end;", "ko": "감명을 줄 가능성은 모두 끝나 버린 채;", "r": "분사구문(주어 따로 있는 ~ing: ~한 채)"},
+   {"en": "for even the gravest sentiments", "ko": "왜냐하면 가장 엄숙한 말씀조차", "r": "부사절(이유, for=because) 주어"},
+   {"en": "were constantly being received", "ko": "계속해서 받아들여지고 있었으니까", "r": "동사(수동 진행)"},
+   {"en": "with a smothered burst of unholy mirth,", "ko": "억눌러 터뜨리는 불경스러운 웃음과 함께,", "r": "전치사구(방법)"},
+   {"en": "under cover of some remote pew-back,", "ko": "어느 먼 신도석 등받이 뒤에 숨어서,", "r": "전치사구(장소)"},
+   {"en": "as if the poor parson had said a rarely facetious thing.", "ko": "마치 가엾은 목사가 보기 드물게 우스운 말이라도 한 것처럼.", "r": "비유(as if, 가정법 과거완료)"}
+  ],
+  "ko": "설교는 곧 재개되었지만 절뚝거리며 더듬더듬 진행되었고, 감명을 줄 가능성은 모두 끝나 버린 뒤였다; 왜냐하면 가장 엄숙한 말씀조차 마치 가엾은 목사가 보기 드물게 우스운 말이라도 한 것처럼, 어느 먼 신도석 등받이 뒤에 숨어 억눌러 터뜨리는 불경스러운 웃음과 함께 계속 받아들여지고 있었으니까.",
+  "why": "'all possibility of impressiveness being at an end'는 주어를 따로 가진 분사구문(~가 끝난 채)이고, 세미콜론 뒤 for는 because다. 'were constantly being received'는 수동 진행형(계속 ~받고 있었다), 'as if … had said'는 실제로는 그렇지 않은데 마치 그런 듯하다는 가정법이다.",
+  "st": [3, 6, 10, 12, 13]
+ },
+ {
+  "id": "5.12.1",
+  "en": "He had but one marring thought; he was willing that the dog should play with his pinchbug, but he did not think it was upright in him to carry it off.",
+  "s": "He",
+  "v": "had",
+  "chunks": [
+   {"en": "He had but one marring thought;", "ko": "그에게는 딱 한 가지 마음에 걸리는 생각이 있었다;", "r": "주어+동사"},
+   {"en": "he was willing", "ko": "그는 기꺼이 받아들였다", "r": "대등절"},
+   {"en": "that the dog should play with his pinchbug,", "ko": "개가 자기 집게벌레를 가지고 노는 것은,", "r": "목적어(that절)"},
+   {"en": "but he did not think", "ko": "하지만 그는 ~라고 생각하지 않았다", "r": "대등절"},
+   {"en": "it was upright in him to carry it off.", "ko": "개가 그것을 그냥 가져가 버린 것이 정직한 행동이라고는.", "r": "목적어(that 생략된 절, 가주어 it)"}
+  ],
+  "ko": "그에게는 딱 한 가지 마음에 걸리는 생각이 있었다; 개가 자기 집게벌레를 가지고 노는 건 괜찮았지만, 개가 그것을 그냥 가져가 버린 것은 정직한 행동이 아니라고 생각했다.",
+  "why": "'had but one'의 but은 only(딱 하나)다. 'be willing that … should'는 '~하는 것을 기꺼이 허락하다', 'it was upright in him to carry it off'는 it이 가주어이고 to carry it off가 진짜 주어로 '그(개)가 그것을 가져간 것이 정직한가'라는 뜻이다. him은 개를 가리킨다.",
+  "st": [3]
+ }
+]

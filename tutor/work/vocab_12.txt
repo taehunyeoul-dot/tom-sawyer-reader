@@ -1,0 +1,80 @@
+upset	adj., v.	속상한, 화나게 하다	L2	이장3회/전체4회
+frock	n.	원피스, (아이·여자의) 겉옷	L3	이장3회/전체4회
+quack	n., v.	돌팔이 의사, 꽥꽥 울다	L3	이장3회/전체3회
+mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장2회/전체26회
+roun	adv., prep.	둘레에, 주위에(round/around의 사투리)	L3	이장2회/전체19회
+drift	v., n.	떠돌다, 표류하다	L2	이장2회/전체18회
+pale	adj.	창백한	L2	이장2회/전체8회
+schoolhouse	n.	교사(校舍), 학교 건물	L2	이장2회/전체7회
+yes'm	int.	네, 부인(yes ma'am의 축약)	L3	이장2회/전체5회
+anxiety	n.	불안, 걱정	L2	이장2회/전체4회
+indifference	n.	무관심	L2	이장2회/전체3회
+war-whoop	n.	(인디언식) 전투 함성	L3	이장2회/전체3회
+cruelty	n.	잔인함	L2	이장2회/전체3회
+periodicals	n.	정기 간행물, 잡지	L3	이장2회/전체2회
+upon	prep.	~위에(on보다 격식체)	L2	이장1회/전체146회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장1회/전체122회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장1회/전체82회
+lad	n.	소년, 젊은이	L2	이장1회/전체23회
+instant	n., adj.	순간; 즉각적인	L2	이장1회/전체17회
+struggle	v., n.	애쓰다, 몸부림치다, 투쟁	L2	이장1회/전체15회
+drown	v.	익사하다, 물에 빠뜨리다	L2	이장1회/전체15회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+comrade	n.	동지, 동료	L2	이장1회/전체14회
+remark	v., n.	말하다, 발언	L2	이장1회/전체13회
+snatch	v., n.	잽싸게 잡아채다	L2	이장1회/전체13회
+bound	adj., v., n.	묶인, ~할 의무가 있는, ~행인; 도약하다	L2	이장1회/전체12회
+gratitude	n.	감사	L2	이장1회/전체11회
+pin	n., v.	핀, 고정시키다	L2	이장1회/전체11회
+bother	v.	신경 쓰다, 괴롭히다	L2	이장1회/전체11회
+delight	n., v.	기쁨; 기쁘게 하다	L2	이장1회/전체11회
+pity	n., v.	동정, 유감; 동정하다	L2	이장1회/전체11회
+gaze	v., n.	응시하다, 시선	L2	이장1회/전체11회
+ceased	v.	멈추다, 중단하다	L2	이장1회/전체11회
+dismal	adj.	음침한, 우울한	L3	이장1회/전체10회
+manner	n.	태도, 방식	L2	이장1회/전체9회
+solemn	adj.	엄숙한, 진지한	L2	이장1회/전체8회
+deed	n.	행위; 증서	L2	이장1회/전체8회
+miserable	adj.	비참한, 불행한	L2	이장1회/전체7회
+relief	n.	안도, 안심	L2	이장1회/전체7회
+gasp	v., n.	숨이 턱 막히다, 헐떡임	L2	이장1회/전체7회
+sneak	v.	몰래 가다, 슬쩍 하다	L2	이장1회/전체7회
+observed	v.	말했다, 관찰했다, 알아차렸다	L2	이장1회/전체6회
+instantly	adv.	즉시	L2	이장1회/전체6회
+whistle	n., v.	휘파람, 호루라기	L2	이장1회/전체5회
+rot	v., n.	썩다, 부패	L2	이장1회/전체5회
+thus	adv.	따라서, 그리하여	L2	이장1회/전체5회
+suspect	n., v.	용의자, 의심하다	L2	이장1회/전체5회
+indifferent	adj.	무관심한	L2	이장1회/전체5회
+heap	n., v.	더미, 쌓다	L2	이장1회/전체5회
+peep	v., n.	엿보다, 살짝 보다	L2	이장1회/전체5회
+warily	adv.	조심스럽게, 경계하며	L3	이장1회/전체5회
+tumbling	v.	굴러떨어지다, 뒹굴다	L2	이장1회/전체5회
+prance	v.	뽐내며 걷다, 껑충거리다	L3	이장1회/전체4회
+astonishment	n.	놀람, 경악	L2	이장1회/전체4회
+pang	n.	(마음의) 고통, 격통	L2	이장1회/전체4회
+perceptible	adj.	감지할 수 있는	L3	이장1회/전체4회
+hove	v.	던졌다, 끌어올렸다(heave의 과거)	L3	이장1회/전체4회
+giddy	adj.	어지러운, 들뜬	L2	이장1회/전체4회
+furtive	adj.	은밀한, 몰래 하는	L3	이장1회/전체4회
+unconscious	adj.	의식을 잃은, 무의식의	L2	이장1회/전체4회
+sprawl	v.	큰대자로 눕다, 팔다리를 뻗다	L2	이장1회/전체4회
+piracy	n.	해적질, 해적 행위	L2	이장1회/전체3회
+fraud	n.	사기, 사기꾼	L2	이장1회/전체3회
+frame	n., v.	틀, 액자; 누명을 씌우다	L2	이장1회/전체3회
+calculated	adj., v.	계산된, 치밀하게 계획된	L2	이장1회/전체3회
+blighted	adj., v.	망가진, 시든, 좌절된	L3	이장1회/전체3회
+misgivings	n.	불안, 걱정, 의구심	L3	이장1회/전체3회
+emphasize	v.	강조하다	L2	이장1회/전체3회
+thimble	n.	골무	L3	이장1회/전체3회
+gravity	n.	진지함, 엄숙함, 중대함	L2	이장1회/전체3회
+vicinity	n.	근처, 부근	L3	이장1회/전체3회
+hurled	v.	세게 던졌다, 내던졌다(hurl의 과거)	L2	이장1회/전체3회
+distraction	n.	정신을 잃을 지경, 주의 산만	L3	이장1회/전체2회
+new-fangled	adj.	신식의, 새로 유행하는(비꼬는 투)	L3	이장1회/전체2회
+inveterate	adj.	상습적인, 뿌리 깊은	L3	이장1회/전체2회
+nostrils	n.	콧구멍	L2	이장1회/전체2회
+simple-hearted	adj.	순박한, 천진한	L3	이장1회/전체2회
+disguise	n., v.	변장; 변장하다	L2	이장1회/전체2회
+windfall	n.	뜻밖의 횡재, 바람에 떨어진 과일	L3	이장1회/전체2회
+deluge	n.	폭우, (질문 등의) 쇄도	L3	이장1회/전체2회

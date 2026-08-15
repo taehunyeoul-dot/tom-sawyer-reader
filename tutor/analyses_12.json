@@ -1,0 +1,361 @@
+[
+ {
+  "id": "12.0.0",
+  "en": "One of the reasons why Tom’s mind had drifted away from its secret troubles was, that it had found a new and weighty matter to interest itself about.",
+  "s": "One of the reasons",
+  "v": "was",
+  "chunks": [
+   {"en": "One of the reasons", "ko": "이유들 중 하나는", "r": "주어(긴 주어)"},
+   {"en": "why Tom’s mind had drifted away", "ko": "왜 톰의 마음이 멀어졌는지 (그 이유)", "r": "관계절(reasons 설명)"},
+   {"en": "from its secret troubles was,", "ko": "그 비밀스러운 걱정거리에서 — (그 이유는) ~였다", "r": "전치사구 + 동사"},
+   {"en": "that it had found a new and weighty matter", "ko": "마음이 새롭고 중대한 관심거리를 찾아냈다는 것", "r": "보어(that절)"},
+   {"en": "to interest itself about.", "ko": "스스로 관심을 쏟을 만한", "r": "형용사구(matter 수식)"}
+  ],
+  "ko": "톰의 마음이 그 비밀스러운 걱정거리에서 멀어진 이유 중 하나는, 마음이 새롭고 중대한 관심거리를 찾아냈기 때문이었다.",
+  "why": "주어 One과 동사 was 사이에 긴 관계절(why … troubles = 이유를 설명하는 부분)이 끼어 있어 동사가 멀리 있다. \"was, that …\"은 옛 표기법이니 쉼표를 무시하고 \"was that …(~라는 것이었다)\"로 읽으면 된다.",
+  "st": [18]
+ },
+ {
+  "id": "12.0.14",
+  "en": "When something fresh in this line came out she was in a fever, right away, to try it; not on herself, for she was never ailing, but on anybody else that came handy.",
+  "s": "she",
+  "v": "was",
+  "chunks": [
+   {"en": "When something fresh in this line came out", "ko": "이 분야에서 뭔가 새로운 것이 나오면", "r": "부사절(때)"},
+   {"en": "she was in a fever, right away, to try it;", "ko": "그녀는 당장 그것을 시험해 보고 싶어 열이 올랐다", "r": "주어 + 동사 + 보어"},
+   {"en": "not on herself,", "ko": "자기 자신에게가 아니라", "r": "대조(not A)"},
+   {"en": "for she was never ailing,", "ko": "그녀는 아픈 적이 없었으니까", "r": "부사절(이유, for=because)"},
+   {"en": "but on anybody else that came handy.", "ko": "손 닿는 곳에 있는 아무 다른 사람에게 (시험했다)", "r": "대조(but B)"}
+  ],
+  "ko": "이 분야에서 뭔가 새로운 것이 나오면 그녀는 당장 그것을 시험해 보고 싶어 안달이 났다. 자기 자신에게가 아니라—그녀는 아픈 적이 없었으니까—손 닿는 곳에 있는 아무에게나 말이다.",
+  "why": "앞에 부사절(When …)이 오고, 세미콜론 뒤에는 \"not on herself … but on anybody else\"(자기가 아니라 다른 사람에게)가 이어지는데 그 사이에 \", for she was never ailing,\"(이유 삽입)이 끼어든다. not … but 짝을 먼저 찾고 삽입절은 괄호로 묶어 읽을 것.",
+  "st": [3, 8, 13]
+ },
+ {
+  "id": "12.0.15",
+  "en": "She was a subscriber for all the “Health” periodicals and phrenological frauds; and the solemn ignorance they were inflated with was breath to her nostrils.",
+  "s": "She",
+  "v": "was",
+  "chunks": [
+   {"en": "She was a subscriber", "ko": "그녀는 구독자였다", "r": "주어 + 동사 + 보어"},
+   {"en": "for all the “Health” periodicals and phrenological frauds;", "ko": "온갖 '건강' 잡지와 골상학 사기 간행물의", "r": "전치사구"},
+   {"en": "and the solemn ignorance they were inflated with", "ko": "그리고 그것들이 잔뜩 부풀려져 있는 그 엄숙한 무지는", "r": "대등절 주어(관계절 포함)"},
+   {"en": "was breath to her nostrils.", "ko": "그녀에게는 숨 쉬는 공기와 같았다", "r": "동사 + 보어"}
+  ],
+  "ko": "그녀는 온갖 '건강' 잡지와 골상학 사기 간행물의 구독자였다. 그리고 그것들에 잔뜩 부풀어 들어 있는 엄숙한 무지는 그녀에게 숨 쉬는 공기나 다름없었다.",
+  "why": "세미콜론 뒤 절의 주어가 \"the solemn ignorance (that) they were inflated with\"로 길다. 관계대명사(명사를 설명하는 절의 머리말)가 생략되어 with로 끝나는 절이 ignorance를 꾸미고, 그 뒤 was가 진짜 동사다. \"breath to her nostrils\"는 '없어서는 못 사는 것'이라는 비유.",
+  "st": [3, 18]
+ },
+ {
+  "id": "12.0.16",
+  "en": "All the “rot” they contained about ventilation, and how to go to bed, and how to get up, and what to eat, and what to drink, and how much exercise to take, and what frame of mind to keep one’s self in, and what sort of clothing to wear, was all gospel to her, and she never observed that her health-journals of the current month customarily upset everything they had recommended the month before.",
+  "s": "All the “rot”",
+  "v": "was",
+  "chunks": [
+   {"en": "All the “rot” they contained about ventilation,", "ko": "그것들에 실린 환기에 관한 온갖 '헛소리'는", "r": "주어(관계절 포함)"},
+   {"en": "and how to go to bed, and how to get up,", "ko": "그리고 잠자리 드는 법, 일어나는 법", "r": "나열(about에 걸림)"},
+   {"en": "and what to eat, and what to drink,", "ko": "무엇을 먹고, 무엇을 마실지", "r": "나열"},
+   {"en": "and how much exercise to take,", "ko": "운동은 얼마나 할지", "r": "나열"},
+   {"en": "and what frame of mind to keep one’s self in,", "ko": "어떤 마음가짐을 유지할지", "r": "나열"},
+   {"en": "and what sort of clothing to wear,", "ko": "어떤 옷을 입을지 (에 관한 헛소리는)", "r": "나열"},
+   {"en": "was all gospel to her,", "ko": "그녀에게는 전부 복음(절대 진리)이었다", "r": "동사 + 보어"},
+   {"en": "and she never observed", "ko": "그리고 그녀는 결코 알아채지 못했다", "r": "대등절"},
+   {"en": "that her health-journals of the current month", "ko": "이번 달 건강 잡지들이", "r": "목적어(that절)의 주어"},
+   {"en": "customarily upset everything they had recommended the month before.", "ko": "지난달 자기들이 권했던 모든 것을 으레 뒤집어 버린다는 것을", "r": "that절 동사 + 목적어 + 관계절"}
+  ],
+  "ko": "환기, 잠자리 드는 법, 일어나는 법, 무엇을 먹고 무엇을 마실지, 운동은 얼마나 할지, 어떤 마음가짐을 가질지, 어떤 옷을 입을지에 대해 그 잡지들에 실린 온갖 '헛소리'가 그녀에게는 전부 복음이었고, 이번 달 건강 잡지가 지난달에 자기들이 권했던 것을 으레 몽땅 뒤집어 버린다는 사실을 그녀는 결코 알아채지 못했다.",
+  "why": "주어 All the “rot”과 동사 was 사이에 and로 이어진 긴 나열(about … to wear)이 끼어 있어 동사를 놓치기 쉽다. 나열은 전부 about에 걸리는 내용이므로 하나로 묶고 \"was all gospel\"에서 뼈대를 잡을 것. 뒤쪽 upset은 형용사가 아니라 '뒤집다'라는 동사.",
+  "st": [14, 18]
+ },
+ {
+  "id": "12.0.18",
+  "en": "She gathered together her quack periodicals and her quack medicines, and thus armed with death, went about on her pale horse, metaphorically speaking, with “hell following after.”",
+  "s": "She",
+  "v": "gathered",
+  "chunks": [
+   {"en": "She gathered together her quack periodicals", "ko": "그녀는 돌팔이 잡지를 그러모았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and her quack medicines,", "ko": "그리고 돌팔이 약도", "r": "목적어(나열)"},
+   {"en": "and thus armed with death,", "ko": "그리하여 죽음으로 무장한 채", "r": "분사구문(~한 채로)"},
+   {"en": "went about on her pale horse, metaphorically speaking,", "ko": "창백한 말을 타고 돌아다녔다, 비유적으로 말하자면", "r": "대등 동사 + 삽입(부사)"},
+   {"en": "with “hell following after.”", "ko": "'지옥을 뒤에 거느리고'", "r": "전치사구(with + 명사 + ~ing)"}
+  ],
+  "ko": "그녀는 돌팔이 잡지와 돌팔이 약을 그러모았고, 그렇게 죽음으로 무장한 채—비유적으로 말하자면—창백한 말을 타고 '지옥을 뒤에 거느리고' 돌아다녔다.",
+  "why": "주어 She에 동사가 둘(gathered … went about) 이어지고 그 사이에 \"thus armed with death\"(분사구문: ~로 무장한 채)가 끼어 있다. \"pale horse … hell following after\"는 성경 요한계시록의 '창백한 말을 탄 죽음, 그 뒤를 따르는 지옥'을 빌린 것으로, 이모를 죽음의 기사에 빗댄 풍자.",
+  "st": [6]
+ },
+ {
+  "id": "12.1.1",
+  "en": "She had him out at daylight every morning, stood him up in the wood-shed and drowned him with a deluge of cold water; then she scrubbed him down with a towel like a file, and so brought him to; then she rolled him up in a wet sheet and put him away under blankets till she sweated his soul clean and “the yellow stains of it came through his pores”—as Tom said.",
+  "s": "She",
+  "v": "had",
+  "chunks": [
+   {"en": "She had him out at daylight every morning,", "ko": "그녀는 매일 아침 동틀 녘에 그를 밖으로 끌어내", "r": "주어 + 동사 + 목적어 + 시간"},
+   {"en": "stood him up in the wood-shed", "ko": "장작 헛간에 세워 놓고", "r": "대등 동사"},
+   {"en": "and drowned him with a deluge of cold water;", "ko": "찬물을 들이부어 거의 익사시켰다", "r": "대등 동사"},
+   {"en": "then she scrubbed him down with a towel like a file,", "ko": "그런 다음 줄(연장)처럼 거친 수건으로 박박 문질러", "r": "대등절"},
+   {"en": "and so brought him to;", "ko": "그렇게 그를 정신 들게 했다", "r": "대등 동사(bring ~ to = 정신 차리게 하다)"},
+   {"en": "then she rolled him up in a wet sheet", "ko": "그다음엔 젖은 홑이불에 둘둘 말아", "r": "대등절"},
+   {"en": "and put him away under blankets", "ko": "담요 밑에 넣어 두었다", "r": "대등 동사"},
+   {"en": "till she sweated his soul clean", "ko": "그의 영혼이 깨끗해지도록 땀을 빼게 할 때까지", "r": "부사절(때)"},
+   {"en": "and “the yellow stains of it came through his pores”—as Tom said.", "ko": "그리고 '영혼의 누런 얼룩이 땀구멍으로 배어 나올' 때까지—톰의 말에 따르면", "r": "대등절(인용) + 곁말(대시)"}
+  ],
+  "ko": "그녀는 매일 아침 동틀 녘에 톰을 밖으로 끌어내 장작 헛간에 세워 놓고 찬물을 퍼부어 거의 익사시켰다. 그런 다음 줄처럼 거친 수건으로 박박 문질러 정신을 차리게 했고, 그다음엔 젖은 홑이불에 둘둘 말아 담요 밑에 넣어 두었다—그의 영혼에서 땀을 빼 깨끗이 만들고 \"영혼의 누런 얼룩이 땀구멍으로 배어 나올\" 때까지, 톰의 말을 빌리자면.",
+  "why": "세미콜론과 then으로 세 단계 절차가 이어지고, 각 절 안에서도 and로 동사가 계속 붙는다. 매 절마다 \"she + 동사\"를 짚으며 읽을 것. \"brought him to\"는 to 뒤에 아무것도 없는 숙어로 '정신 들게 했다'는 뜻. 맨 끝 대시 뒤 \"as Tom said\"는 앞의 인용이 톰의 말이라는 곁말.",
+  "st": [3, 4, 14]
+ },
+ {
+  "id": "12.4.0",
+  "en": "Tom felt that it was time to wake up; this sort of life might be romantic enough, in his blighted condition, but it was getting to have too little sentiment and too much distracting variety about it.",
+  "s": "Tom",
+  "v": "felt",
+  "chunks": [
+   {"en": "Tom felt that it was time to wake up;", "ko": "톰은 이제 정신 차릴 때라고 느꼈다", "r": "주어 + 동사 + 목적어(that절)"},
+   {"en": "this sort of life might be romantic enough,", "ko": "이런 생활이 충분히 낭만적일지는 모르나", "r": "대등절(양보)"},
+   {"en": "in his blighted condition,", "ko": "그의 시들어 버린 처지에서는", "r": "삽입(전치사구)"},
+   {"en": "but it was getting to have", "ko": "하지만 점점 ~을 갖게 되어 가고 있었다", "r": "대등절(반전)"},
+   {"en": "too little sentiment and too much distracting variety about it.", "ko": "감상은 너무 적고 정신 사나운 변화는 너무 많은 쪽으로", "r": "목적어(too little A / too much B)"}
+  ],
+  "ko": "톰은 이제 정신 차릴 때가 됐다고 느꼈다. 시들어 버린 그의 처지에서 이런 생활이 충분히 낭만적일지는 몰라도, 점점 감상적인 맛은 너무 적어지고 정신 사나운 변화만 너무 많아지고 있었던 것이다.",
+  "why": "세미콜론 뒤가 \"might be … but it was getting …\"의 양보(~일지 모르나)와 반전 구조. \"getting to have\"는 '점점 ~을 갖게 되다', 즉 상태가 변해 가고 있다는 뜻. \"too little A and too much B\"의 대비를 잡으면 뜻이 잡힌다.",
+  "st": [3]
+ },
+ {
+  "id": "12.4.2",
+  "en": "He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her.",
+  "s": "He",
+  "v": "asked",
+  "chunks": [
+   {"en": "He asked for it so often", "ko": "그는 그것을 너무 자주 달라고 해서", "r": "주어 + 동사(so … that)"},
+   {"en": "that he became a nuisance,", "ko": "성가신 존재가 되었다", "r": "결과절(that)"},
+   {"en": "and his aunt ended by telling him", "ko": "그래서 이모는 결국 그에게 이렇게 말하기에 이르렀다", "r": "대등절"},
+   {"en": "to help himself and quit bothering her.", "ko": "알아서 갖다 먹고 그만 귀찮게 하라고", "r": "목적어(to부정사)"}
+  ],
+  "ko": "그는 너무 자주 약을 달라고 해서 성가신 존재가 되었고, 이모는 결국 알아서 갖다 먹고 그만 귀찮게 하라고 말하기에 이르렀다.",
+  "why": "\"so often that …\"(너무 자주 ~해서 그 결과 …했다)의 짝을 찾는 것이 핵심. \"ended by ~ing\"는 '결국 ~하기에 이르렀다', \"help himself\"는 '알아서 갖다 먹다'라는 숙어.",
+  "st": []
+ },
+ {
+  "id": "12.4.3",
+  "en": "If it had been Sid, she would have had no misgivings to alloy her delight; but since it was Tom, she watched the bottle clandestinely.",
+  "s": "she",
+  "v": "would have had",
+  "chunks": [
+   {"en": "If it had been Sid,", "ko": "만약 시드였다면", "r": "부사절(가정)"},
+   {"en": "she would have had no misgivings", "ko": "그녀는 아무 의심도 품지 않았을 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to alloy her delight;", "ko": "기쁨을 흐려 놓을 만한", "r": "형용사구(misgivings 수식)"},
+   {"en": "but since it was Tom,", "ko": "하지만 톰이었으므로", "r": "부사절(이유)"},
+   {"en": "she watched the bottle clandestinely.", "ko": "그녀는 몰래 병을 지켜보았다", "r": "대등절"}
+  ],
+  "ko": "시드였다면 그녀는 기쁨에 찬물을 끼얹을 의심 따위는 품지 않았겠지만, 톰이었기에 몰래 병을 지켜보았다.",
+  "why": "앞절은 가정법 과거완료(If it had been …, would have had … = 실제와 반대 상황을 상상)이므로 '실제로는 시드가 아니었다'는 뜻. 세미콜론 뒤 since는 '~이므로'(이유). alloy는 여기서 '섞어서 순도를 떨어뜨리다', 곧 기쁨을 흐리다.",
+  "st": [3, 8, 12]
+ },
+ {
+  "id": "12.4.4",
+  "en": "She found that the medicine did really diminish, but it did not occur to her that the boy was mending the health of a crack in the sitting-room floor with it.",
+  "s": "She",
+  "v": "found",
+  "chunks": [
+   {"en": "She found that the medicine did really diminish,", "ko": "그녀는 약이 정말로 줄어드는 것을 확인했다", "r": "주어 + 동사 + 목적어(that절)"},
+   {"en": "but it did not occur to her", "ko": "하지만 그녀에게는 떠오르지 않았다", "r": "대등절(it = 가주어)"},
+   {"en": "that the boy was mending the health", "ko": "그 아이가 '건강'을 고쳐 주고 있다는 생각이", "r": "진주어(that절)"},
+   {"en": "of a crack in the sitting-room floor with it.", "ko": "거실 마룻바닥 틈새의 (건강을), 그 약으로", "r": "전치사구(소유 + 수단)"}
+  ],
+  "ko": "그녀는 약이 정말로 줄어드는 것을 확인했지만, 그 아이가 그 약으로 거실 마룻바닥 틈새의 '건강'을 고쳐 주고 있다는 생각은 떠오르지 않았다.",
+  "why": "\"it did not occur to her that …\"에서 it은 가짜 주어이고 뒤의 that절이 진짜 내용(~라는 생각이 그녀에게 떠오르지 않았다). \"did really diminish\"의 did는 강조. 마룻바닥 틈에 약을 붓는 것을 '틈의 건강을 고친다'고 부르는 익살.",
+  "st": [17]
+ },
+ {
+  "id": "12.5.0",
+  "en": "One day Tom was in the act of dosing the crack when his aunt’s yellow cat came along, purring, eyeing the teaspoon avariciously, and begging for a taste.",
+  "s": "Tom",
+  "v": "was",
+  "chunks": [
+   {"en": "One day Tom was in the act of dosing the crack", "ko": "어느 날 톰이 한창 틈새에 약을 먹이고 있는데", "r": "시간 + 주어 + 동사 + 보어"},
+   {"en": "when his aunt’s yellow cat came along,", "ko": "이모의 노란 고양이가 다가왔다", "r": "부사절(때)"},
+   {"en": "purring, eyeing the teaspoon avariciously,", "ko": "가르랑거리며, 찻숟가락을 탐욕스럽게 바라보며", "r": "분사구문(~하면서)"},
+   {"en": "and begging for a taste.", "ko": "그리고 한 입만 달라고 조르며", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "어느 날 톰이 한창 틈새에 약을 먹이고 있는데 이모의 노란 고양이가 가르랑거리며 다가와서는, 찻숟가락을 탐욕스럽게 바라보며 한 입만 달라고 졸랐다.",
+  "why": "\"was in the act of ~ing … when …\"은 '한창 ~하고 있는데 (그때) …가 일어났다'는 패턴. 뒤에 붙은 세 개의 ~ing(purring, eyeing, begging)는 모두 고양이(cat)의 동작을 '~하면서'로 덧붙이는 분사구문.",
+  "st": [6]
+ },
+ {
+  "id": "12.10.0",
+  "en": "“Now you’ve asked for it, and I’ll give it to you, because there ain’t anything mean about me; but if you find you don’t like it, you mustn’t blame anybody but your own self.”",
+  "s": "you",
+  "v": "’ve asked",
+  "chunks": [
+   {"en": "“Now you’ve asked for it,", "ko": "자, 네가 달라고 했으니", "r": "인용(대사) 첫 절"},
+   {"en": "and I’ll give it to you,", "ko": "내가 줄게", "r": "대등절"},
+   {"en": "because there ain’t anything mean about me;", "ko": "난 인색한 구석이라곤 없는 놈이니까", "r": "부사절(이유)"},
+   {"en": "but if you find you don’t like it,", "ko": "하지만 먹어 보고 맛이 없거든", "r": "부사절(조건)"},
+   {"en": "you mustn’t blame anybody but your own self.”", "ko": "네 자신 말고 아무도 탓하면 안 돼", "r": "주절"}
+  ],
+  "ko": "\"자, 네가 달라고 했으니 줄게. 난 인색한 구석이라곤 없는 놈이니까. 하지만 먹어 보고 맛이 없거든 네 자신 말고 아무도 탓하면 안 돼.\"",
+  "why": "톰이 고양이에게 하는 구어체 대사. ain’t는 isn’t의 사투리로 \"there ain’t anything mean about me\"는 '나한테는 인색한 데가 없다'. 마지막 \"anybody but your own self\"의 but은 '~을 제외하고'(except)라는 뜻이니 '하지만'으로 읽지 말 것.",
+  "st": [2, 3]
+ },
+ {
+  "id": "12.11.2",
+  "en": "Peter sprang a couple of yards in the air, and then delivered a war-whoop and set off round and round the room, banging against furniture, upsetting flower-pots, and making general havoc.",
+  "s": "Peter",
+  "v": "sprang",
+  "chunks": [
+   {"en": "Peter sprang a couple of yards in the air,", "ko": "피터는 공중으로 2야드쯤 펄쩍 뛰어올랐고", "r": "주어 + 동사"},
+   {"en": "and then delivered a war-whoop", "ko": "그러고는 전투 함성을 내지르며", "r": "대등 동사"},
+   {"en": "and set off round and round the room,", "ko": "방 안을 빙글빙글 내달리기 시작했다", "r": "대등 동사"},
+   {"en": "banging against furniture, upsetting flower-pots,", "ko": "가구에 쾅쾅 부딪히고, 화분을 엎으며", "r": "분사구문(~하면서)"},
+   {"en": "and making general havoc.", "ko": "온통 난장판을 만들면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "피터는 공중으로 2야드쯤 펄쩍 뛰어오르더니 전투 함성을 내지르며 방 안을 빙글빙글 내달리기 시작했다. 가구에 쾅쾅 부딪히고 화분을 엎으며 온통 난장판을 만들면서.",
+  "why": "주어 Peter 하나에 동사 세 개(sprang, delivered, set off)가 and로 이어지고, 뒤에 ~ing 셋(banging, upsetting, making)이 '~하면서'로 붙는다. 여기서 upsetting은 '화나게 하다'가 아니라 '엎어뜨리다'.",
+  "st": [6, 14]
+ },
+ {
+  "id": "12.11.3",
+  "en": "Next he rose on his hind feet and pranced around, in a frenzy of enjoyment, with his head over his shoulder and his voice proclaiming his unappeasable happiness.",
+  "s": "he",
+  "v": "rose",
+  "chunks": [
+   {"en": "Next he rose on his hind feet", "ko": "다음엔 뒷발로 일어서서", "r": "주어 + 동사"},
+   {"en": "and pranced around, in a frenzy of enjoyment,", "ko": "미친 듯이 신이 나서 껑충껑충 뛰어다녔다", "r": "대등 동사 + 전치사구(상태)"},
+   {"en": "with his head over his shoulder", "ko": "고개를 어깨 너머로 젖힌 채", "r": "전치사구(with + 명사 + 상태)"},
+   {"en": "and his voice proclaiming his unappeasable happiness.", "ko": "그리고 목소리로는 억누를 길 없는 행복을 외쳐 대면서", "r": "with에 이어지는 명사 + ~ing"}
+  ],
+  "ko": "다음엔 뒷발로 일어서서 미친 듯이 신이 나 껑충껑충 뛰어다녔는데, 고개는 어깨 너머로 젖히고 목소리로는 억누를 길 없는 행복을 외쳐 댔다.",
+  "why": "\"with A over …, and B ~ing\"는 'A는 ~한 채, B는 ~하면서'라고 동시에 벌어지는 모습을 덧붙이는 구조(부대상황). with 뒤에 명사 두 개(his head, his voice)가 나란히 걸린다는 것만 보면 쉽다.",
+  "st": [6]
+ },
+ {
+  "id": "12.11.5",
+  "en": "Aunt Polly entered in time to see him throw a few double summersets, deliver a final mighty hurrah, and sail through the open window, carrying the rest of the flower-pots with him.",
+  "s": "Aunt Polly",
+  "v": "entered",
+  "chunks": [
+   {"en": "Aunt Polly entered in time to see him", "ko": "폴리 이모가 때맞춰 들어와서 그가 ~하는 것을 보았다", "r": "주어 + 동사 + to부정사(결과)"},
+   {"en": "throw a few double summersets,", "ko": "두 바퀴 공중제비를 몇 번 돌고", "r": "지각동사 목적보어(원형동사)"},
+   {"en": "deliver a final mighty hurrah,", "ko": "마지막으로 우렁찬 함성을 내지르고", "r": "원형동사(나열)"},
+   {"en": "and sail through the open window,", "ko": "열린 창문 밖으로 날아가는 것을", "r": "원형동사(나열)"},
+   {"en": "carrying the rest of the flower-pots with him.", "ko": "남은 화분들까지 함께 끌고 가면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "폴리 이모가 때맞춰 들어와서, 고양이가 두 바퀴 공중제비를 몇 번 돌고 마지막으로 우렁찬 함성을 내지르고는 남은 화분들까지 죄다 끌고 열린 창문 밖으로 날아가는 광경을 보았다.",
+  "why": "\"see him throw …, deliver …, and sail …\"처럼 see(지각동사) 뒤에 목적어(him)와 원형동사 세 개가 이어진다(그가 ~하고, ~하고, ~하는 것을 보다). 맨 뒤 \"carrying …\"은 고양이가 '~하면서'라는 분사구문.",
+  "st": [6, 14]
+ },
+ {
+  "id": "12.25.1",
+  "en": "This was putting the thing in a new light; what was cruelty to a cat might be cruelty to a boy, too.",
+  "s": "This",
+  "v": "was putting",
+  "chunks": [
+   {"en": "This was putting the thing in a new light;", "ko": "이 말은 문제를 새로운 각도에서 보게 했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "what was cruelty to a cat", "ko": "고양이에게 잔인한 짓이라면", "r": "주어(what절 = ~인 것)"},
+   {"en": "might be cruelty to a boy, too.", "ko": "아이에게도 잔인한 짓일지 모른다", "r": "동사 + 보어"}
+  ],
+  "ko": "이 말은 문제를 새로운 각도에서 보게 했다. 고양이에게 잔인한 짓이라면 아이에게도 잔인한 짓일지 모른다는 것이다.",
+  "why": "세미콜론 뒤 절은 \"what was cruelty to a cat\"(고양이에게 잔인했던 것) 전체가 주어이고 might be가 동사다. 동사가 둘(was, might be) 보여 헷갈리기 쉬우니 what절을 하나의 명사 덩어리로 묶을 것. \"put … in a new light\"는 '새로운 관점에서 보게 하다'.",
+  "st": [3, 18]
+ },
+ {
+  "id": "12.30.5",
+  "en": "Presently Jeff Thatcher hove in sight, and Tom’s face lighted; he gazed a moment, and then turned sorrowfully away.",
+  "s": "Jeff Thatcher",
+  "v": "hove",
+  "chunks": [
+   {"en": "Presently Jeff Thatcher hove in sight,", "ko": "이윽고 제프 대처가 시야에 나타났고", "r": "부사 + 주어 + 동사"},
+   {"en": "and Tom’s face lighted;", "ko": "톰의 얼굴이 환해졌다", "r": "대등절"},
+   {"en": "he gazed a moment,", "ko": "그는 잠시 바라보다가", "r": "대등절"},
+   {"en": "and then turned sorrowfully away.", "ko": "이내 슬프게 고개를 돌렸다", "r": "대등 동사"}
+  ],
+  "ko": "이윽고 제프 대처가 시야에 나타났고 톰의 얼굴이 환해졌다. 그는 잠시 바라보다가 이내 슬프게 고개를 돌렸다.",
+  "why": "\"hove in sight\"는 heave의 과거형으로 '(배가 수평선에) 떠오르듯 나타나다'라는 항해 표현. 세미콜론으로 짧은 절이 잇달아 이어지므로 각 절의 주어(Jeff / Tom’s face / he)만 짚으면 된다. lighted = lit(밝아졌다).",
+  "st": [3]
+ },
+ {
+  "id": "12.30.6",
+  "en": "When Jeff arrived, Tom accosted him; and “led up” warily to opportunities for remark about Becky, but the giddy lad never could see the bait.",
+  "s": "Tom",
+  "v": "accosted",
+  "chunks": [
+   {"en": "When Jeff arrived,", "ko": "제프가 도착하자", "r": "부사절(때)"},
+   {"en": "Tom accosted him;", "ko": "톰은 그에게 다가가 말을 걸었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and “led up” warily", "ko": "그리고 조심스럽게 (대화를) '끌고 갔다'", "r": "대등 동사(주어 Tom 생략)"},
+   {"en": "to opportunities for remark about Becky,", "ko": "베키에 대해 말할 기회 쪽으로", "r": "전치사구"},
+   {"en": "but the giddy lad never could see the bait.", "ko": "하지만 그 덜렁이 소년은 미끼를 전혀 알아채지 못했다", "r": "대등절(반전)"}
+  ],
+  "ko": "제프가 도착하자 톰은 그에게 말을 걸었고, 베키 얘기가 나올 기회를 향해 조심조심 대화를 '끌고 갔지만', 그 덜렁이 소년은 미끼를 전혀 알아채지 못했다.",
+  "why": "세미콜론 뒤 \"and led up\"의 주어는 앞의 Tom(주어 생략). \"lead up to ~\"는 '대화를 ~쪽으로 슬슬 끌고 가다'. \"never could see the bait\"는 낚시 비유로, 제프가 톰의 유도 질문(미끼)을 눈치채지 못했다는 뜻.",
+  "st": [3, 8]
+ },
+ {
+  "id": "12.30.7",
+  "en": "Tom watched and watched, hoping whenever a frisking frock came in sight, and hating the owner of it as soon as he saw she was not the right one.",
+  "s": "Tom",
+  "v": "watched",
+  "chunks": [
+   {"en": "Tom watched and watched,", "ko": "톰은 보고 또 보았다", "r": "주어 + 동사"},
+   {"en": "hoping whenever a frisking frock came in sight,", "ko": "팔랑거리는 원피스가 보일 때마다 기대하며", "r": "분사구문(~하면서) + 부사절(때)"},
+   {"en": "and hating the owner of it", "ko": "그리고 그 옷의 주인을 미워하며", "r": "분사구문(~하면서)"},
+   {"en": "as soon as he saw she was not the right one.", "ko": "찾던 그 아이가 아니라는 것을 알아채자마자", "r": "부사절(때)"}
+  ],
+  "ko": "톰은 보고 또 보았다. 팔랑거리는 원피스가 보일 때마다 기대에 부풀었다가, 찾던 그 아이가 아니라는 것을 알아채는 순간 그 옷의 주인을 미워하면서.",
+  "why": "주절은 \"Tom watched and watched\"뿐이고, 뒤의 hoping …과 hating …은 '~하면서'로 덧붙는 분사구문. 각 분사구문 안에 다시 시간 부사절(whenever …, as soon as …)이 들어 있어 층이 깊다. frock(원피스)은 여자아이를 옷으로 대신 가리킨 표현.",
+  "st": [6]
+ },
+ {
+  "id": "12.30.8",
+  "en": "At last frocks ceased to appear, and he dropped hopelessly into the dumps; he entered the empty schoolhouse and sat down to suffer.",
+  "s": "frocks",
+  "v": "ceased",
+  "chunks": [
+   {"en": "At last frocks ceased to appear,", "ko": "마침내 원피스들이 더는 나타나지 않았고", "r": "부사 + 주어 + 동사"},
+   {"en": "and he dropped hopelessly into the dumps;", "ko": "그는 절망적인 우울에 빠졌다", "r": "대등절"},
+   {"en": "he entered the empty schoolhouse", "ko": "그는 텅 빈 학교 건물로 들어가", "r": "대등절"},
+   {"en": "and sat down to suffer.", "ko": "앉아서 괴로워했다", "r": "대등 동사"}
+  ],
+  "ko": "마침내 원피스들이 더는 나타나지 않았고, 그는 절망적인 우울에 빠졌다. 텅 빈 학교 건물로 들어가 앉아서 괴로워했다.",
+  "why": "세미콜론으로 이어진 절 셋. \"in the dumps\"는 '우울한, 풀 죽은'이라는 관용구(쓰레기장이 아님). \"sat down to suffer\"는 '괴로워하려고 자리에 앉았다'는 익살스러운 표현.",
+  "st": [3]
+ },
+ {
+  "id": "12.30.10",
+  "en": "The next instant he was out, and “going on” like an Indian; yelling, laughing, chasing boys, jumping over the fence at risk of life and limb, throwing handsprings, standing on his head—doing all the heroic things he could conceive of, and keeping a furtive eye out, all the while, to see if Becky Thatcher was noticing.",
+  "s": "he",
+  "v": "was",
+  "chunks": [
+   {"en": "The next instant he was out,", "ko": "다음 순간 그는 밖으로 나가", "r": "시간 + 주어 + 동사"},
+   {"en": "and “going on” like an Indian;", "ko": "인디언처럼 '날뛰고' 있었다", "r": "대등(was going on)"},
+   {"en": "yelling, laughing, chasing boys,", "ko": "소리 지르고, 웃고, 아이들을 쫓아다니고", "r": "분사구문(나열)"},
+   {"en": "jumping over the fence at risk of life and limb,", "ko": "목숨을 걸고 울타리를 뛰어넘고", "r": "분사구문(나열)"},
+   {"en": "throwing handsprings,", "ko": "손 짚고 재주넘고", "r": "분사구문(나열)"},
+   {"en": "standing on his head—doing all the heroic things he could conceive of,", "ko": "물구나무를 서고—생각해 낼 수 있는 온갖 영웅적인 짓을 다 하면서", "r": "분사구문 + 곁말(대시, 앞 나열을 요약)"},
+   {"en": "and keeping a furtive eye out, all the while,", "ko": "그러는 내내 몰래 곁눈질을 하면서", "r": "분사구문(~하면서)"},
+   {"en": "to see if Becky Thatcher was noticing.", "ko": "베키 대처가 보고 있는지 확인하려고", "r": "목적(to부정사)"}
+  ],
+  "ko": "다음 순간 그는 밖으로 나가 인디언처럼 '날뛰고' 있었다. 소리 지르고, 웃고, 아이들을 쫓아다니고, 목숨 걸고 울타리를 뛰어넘고, 손 짚고 재주넘고, 물구나무를 서고—생각해 낼 수 있는 온갖 영웅적인 짓은 다 하면서, 그러는 내내 베키 대처가 보고 있는지 몰래 곁눈질을 했다.",
+  "why": "주절은 \"he was out, and going on\"뿐이고 세미콜론 뒤는 전부 ~ing 나열(무엇을 하며 날뛰었는지). 대시 뒤 \"doing all the heroic things\"가 앞의 나열을 한마디로 묶어 주고, 마지막 \"keeping a furtive eye out … to see if\"가 진짜 목적(베키가 보는지)을 밝힌다.",
+  "st": [3, 4, 6]
+ },
+ {
+  "id": "12.30.13",
+  "en": "He carried his exploits to her immediate vicinity; came war-whooping around, snatched a boy’s cap, hurled it to the roof of the schoolhouse, broke through a group of boys, tumbling them in every direction, and fell sprawling, himself, under Becky’s nose, almost upsetting her—and she turned, with her nose in the air, and he heard her say: “Mf! some people think they’re mighty smart—always showing off!”",
+  "s": "He",
+  "v": "carried",
+  "chunks": [
+   {"en": "He carried his exploits to her immediate vicinity;", "ko": "그는 자기 묘기를 그녀 바로 옆까지 끌고 갔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "came war-whooping around, snatched a boy’s cap,", "ko": "전투 함성을 지르며 다가와 한 아이의 모자를 낚아채", "r": "대등 동사(주어 He 생략)"},
+   {"en": "hurled it to the roof of the schoolhouse,", "ko": "학교 지붕 위로 내던지고", "r": "대등 동사"},
+   {"en": "broke through a group of boys,", "ko": "아이들 무리를 뚫고 지나가", "r": "대등 동사"},
+   {"en": "tumbling them in every direction,", "ko": "그들을 사방으로 나동그라지게 하면서", "r": "분사구문(~하면서)"},
+   {"en": "and fell sprawling, himself, under Becky’s nose,", "ko": "그러다 자기 자신이 베키 코앞에 큰대자로 넘어졌다", "r": "대등 동사"},
+   {"en": "almost upsetting her—and she turned,", "ko": "하마터면 그녀를 넘어뜨릴 뻔하면서—그러자 그녀는 돌아섰다", "r": "분사구문 + 대등절(대시 뒤, 주어가 she로 바뀜)"},
+   {"en": "with her nose in the air,", "ko": "콧대를 세운 채", "r": "전치사구(태도)"},
+   {"en": "and he heard her say:", "ko": "그리고 그는 그녀가 이렇게 말하는 것을 들었다", "r": "대등절 + 콜론"},
+   {"en": "“Mf! some people think they’re mighty smart—always showing off!”", "ko": "\"흥! 어떤 사람들은 자기가 굉장히 잘난 줄 알지—맨날 잘난 척이나 하고!\"", "r": "인용(대사)"}
+  ],
+  "ko": "그는 묘기를 그녀 바로 옆까지 끌고 갔다. 전투 함성을 지르며 다가와 한 아이의 모자를 낚아채 학교 지붕 위로 내던지고, 아이들 무리를 뚫고 지나가며 그들을 사방으로 나동그라지게 하다가, 자기 자신도 베키 코앞에 큰대자로 넘어져 하마터면 그녀를 쓰러뜨릴 뻔했다—그러자 그녀는 콧대를 세운 채 돌아섰고, 그는 그녀가 이렇게 말하는 것을 들었다. \"흥! 어떤 사람들은 자기가 굉장히 잘난 줄 알지—맨날 잘난 척이나 하고!\"",
+  "why": "세미콜론 뒤로 주어 He가 생략된 채 동사(came, snatched, hurled, broke, fell)가 줄줄이 이어지고 사이사이 ~ing(tumbling, upsetting)가 끼어 있다. 대시 뒤 \"and she turned\"에서 주어가 she로 바뀌는 지점을 놓치지 말 것. 콜론 뒤는 베키의 대사이며 mighty는 '몹시'라는 구어 부사.",
+  "st": [3, 4, 5, 6]
+ }
+]

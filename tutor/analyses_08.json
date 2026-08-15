@@ -1,0 +1,357 @@
+[
+ {
+  "id": "8.0.0",
+  "en": "Tom dodged hither and thither through lanes until he was well out of the track of returning scholars, and then fell into a moody jog.",
+  "s": "Tom",
+  "v": "dodged",
+  "chunks": [
+   {"en": "Tom dodged hither and thither through lanes", "ko": "톰은 골목길들을 이리저리 요리조리 피해 다녔다", "r": "주어+동사"},
+   {"en": "until he was well out of the track of returning scholars,", "ko": "하교하는 학생들의 길에서 완전히 벗어날 때까지", "r": "부사절(때까지)"},
+   {"en": "and then fell into a moody jog.", "ko": "그러고 나서 침울한 느린 뜀걸음으로 접어들었다", "r": "대등(동사 이어짐)"}
+  ],
+  "ko": "톰은 하교하는 학생들의 길에서 완전히 벗어날 때까지 골목길을 이리저리 요리조리 피해 다녔고, 그런 다음 침울한 느린 뜀걸음으로 접어들었다.",
+  "why": "hither and thither(이리저리)는 옛말이고, scholars는 '학자'가 아니라 '학생들'(옛 용법). 주어 Tom 하나에 dodged와 fell 두 동사가 걸리므로 'and then' 뒤에서 다시 톰이 주어라고 생각하며 읽는다.",
+  "st": []
+ },
+ {
+  "id": "8.0.2",
+  "en": "Half an hour later he was disappearing behind the Douglas mansion on the summit of Cardiff Hill, and the school-house was hardly distinguishable away off in the valley behind him.",
+  "s": "he",
+  "v": "was disappearing",
+  "chunks": [
+   {"en": "Half an hour later", "ko": "30분 뒤", "r": "시간"},
+   {"en": "he was disappearing behind the Douglas mansion", "ko": "그는 더글러스 저택 뒤로 사라지고 있었다", "r": "주어+동사"},
+   {"en": "on the summit of Cardiff Hill,", "ko": "카디프 언덕 꼭대기에 있는", "r": "전치사구(장소)"},
+   {"en": "and the school-house was hardly distinguishable", "ko": "그리고 학교 건물은 거의 분간되지 않았다", "r": "대등절"},
+   {"en": "away off in the valley behind him.", "ko": "저 멀리 그의 뒤쪽 골짜기 속에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "30분 뒤 그는 카디프 언덕 꼭대기의 더글러스 저택 뒤로 사라지고 있었고, 학교 건물은 저 멀리 그의 뒤쪽 골짜기 속에서 거의 분간할 수 없었다.",
+  "why": "and로 두 개의 독립절(각각 주어·동사가 있는 문장)이 이어진 구조. hardly distinguishable은 '거의 알아볼 수 없는'이라는 부정의 뜻이고, away off는 '저 멀리'.",
+  "st": []
+ },
+ {
+  "id": "8.0.3",
+  "en": "He entered a dense wood, picked his pathless way to the centre of it, and sat down on a mossy spot under a spreading oak.",
+  "s": "He",
+  "v": "entered",
+  "chunks": [
+   {"en": "He entered a dense wood,", "ko": "그는 울창한 숲으로 들어갔다", "r": "주어+동사"},
+   {"en": "picked his pathless way to the centre of it,", "ko": "길 없는 곳을 헤치며 숲 한가운데로 나아갔다", "r": "동사 나열"},
+   {"en": "and sat down on a mossy spot", "ko": "그리고 이끼 낀 자리에 앉았다", "r": "동사 나열"},
+   {"en": "under a spreading oak.", "ko": "가지를 넓게 뻗은 참나무 아래", "r": "전치사구(장소)"}
+  ],
+  "ko": "그는 울창한 숲으로 들어가, 길도 없는 곳을 헤치며 숲 한가운데까지 나아간 뒤, 가지를 넓게 뻗은 참나무 아래 이끼 낀 자리에 앉았다.",
+  "why": "주어 He 하나에 entered, picked, sat down 세 동사가 쉼표와 and로 이어진다. 'pick one's way'는 '조심조심 길을 골라 나아가다'라는 숙어이고, pathless는 '길이 없는'.",
+  "st": []
+ },
+ {
+  "id": "8.0.4",
+  "en": "There was not even a zephyr stirring; the dead noonday heat had even stilled the songs of the birds; nature lay in a trance that was broken by no sound but the occasional far-off hammering of a wood-pecker, and this seemed to render the pervading silence and sense of loneliness the more profound.",
+  "s": "a zephyr",
+  "v": "was",
+  "chunks": [
+   {"en": "There was not even a zephyr stirring;", "ko": "산들바람 한 점 일지 않았다", "r": "There was 존재문"},
+   {"en": "the dead noonday heat had even stilled the songs of the birds;", "ko": "죽은 듯한 한낮의 열기가 새들의 노래마저 잠재웠다", "r": "대등절(세미콜론)"},
+   {"en": "nature lay in a trance", "ko": "자연은 넋이 나간 듯한 정적에 잠겨 있었다", "r": "대등절(세미콜론)"},
+   {"en": "that was broken by no sound", "ko": "어떤 소리로도 깨지지 않는", "r": "관계절(trance 설명)"},
+   {"en": "but the occasional far-off hammering of a wood-pecker,", "ko": "이따금 멀리서 들리는 딱따구리 쪼는 소리 말고는", "r": "예외(but=except)"},
+   {"en": "and this seemed to render", "ko": "그리고 이것은 ~하게 만드는 듯했다", "r": "대등절"},
+   {"en": "the pervading silence and sense of loneliness the more profound.", "ko": "사방에 퍼진 정적과 외로움을 한층 더 깊게", "r": "목적어+보어(render A B)"}
+  ],
+  "ko": "산들바람 한 점 일지 않았다. 죽은 듯한 한낮의 열기는 새들의 노래마저 잠재워 버렸고, 자연은 이따금 멀리서 들려오는 딱따구리 쪼는 소리 말고는 아무 소리에도 깨지지 않는 몽롱한 정적에 잠겨 있었는데, 그 소리가 오히려 사방에 깔린 고요와 외로움을 한층 더 깊게 만드는 듯했다.",
+  "why": "세미콜론으로 세 절이 이어지고 끝에 and 절까지 붙은 긴 문장이라, 세미콜론마다 새 문장이 시작된다고 보고 끊어 읽는다. 'There was ~' 존재문에서 진짜 주어는 뒤의 a zephyr. 'broken by no sound but X'는 'X 말고는 어떤 소리로도 깨지지 않는'(but=except), 'render A the more profound'는 'A를 더욱 깊게 만들다'(render=make).",
+  "st": [3, 17]
+ },
+ {
+  "id": "8.0.7",
+  "en": "It seemed to him that life was but a trouble, at best, and he more than half envied Jimmy Hodges, so lately released; it must be very peaceful, he thought, to lie and slumber and dream forever and ever, with the wind whispering through the trees and caressing the grass and the flowers over the grave, and nothing to bother and grieve about, ever any more.",
+  "s": "It",
+  "v": "seemed",
+  "chunks": [
+   {"en": "It seemed to him that life was but a trouble, at best,", "ko": "그에게는 인생이란 기껏해야 골칫거리일 뿐인 것 같았다", "r": "주절(It seemed that…)"},
+   {"en": "and he more than half envied Jimmy Hodges, so lately released;", "ko": "그리고 얼마 전 (죽음으로) 풀려난 지미 호지스가 반쯤 넘게 부러웠다", "r": "대등절"},
+   {"en": "it must be very peaceful, he thought,", "ko": "틀림없이 아주 평화로울 것이다, 하고 그는 생각했다", "r": "대등절(세미콜론)+삽입"},
+   {"en": "to lie and slumber and dream forever and ever,", "ko": "영원토록 누워 잠들고 꿈꾸는 것은", "r": "진주어(to부정사)"},
+   {"en": "with the wind whispering through the trees", "ko": "바람이 나무 사이로 속삭이고", "r": "with+명사+~ing(부대상황)"},
+   {"en": "and caressing the grass and the flowers over the grave,", "ko": "무덤 위의 풀과 꽃을 어루만지는 가운데", "r": "~ing 나열"},
+   {"en": "and nothing to bother and grieve about, ever any more.", "ko": "그리고 이제 다시는 걱정하거나 슬퍼할 일 하나 없이", "r": "나열(with 이어짐)"}
+  ],
+  "ko": "그에게는 인생이란 기껏해야 골칫거리일 뿐인 것 같았고, 얼마 전 세상을 떠난 지미 호지스가 반쯤 넘게 부러웠다. 바람이 나무 사이로 속삭이며 무덤 위의 풀과 꽃을 어루만지는 가운데, 이제 다시는 걱정하거나 슬퍼할 일 하나 없이 영원토록 누워 잠들고 꿈꾸는 것은 틀림없이 아주 평화로울 거라고 그는 생각했다.",
+  "why": "'but'이 '단지(only)'라는 뜻으로 쓰였고, 'so lately released'는 '최근에 (삶에서) 풀려난', 즉 죽었다는 완곡한 표현. 세미콜론 뒤 'it must be peaceful to lie…'는 가주어 it, 진주어 to lie…(누워 있는 것은 평화로울 것이다)이며, 'with + 명사 + ~ing'는 '~가 …하는 가운데'로 읽는다.",
+  "st": [3, 6, 14]
+ },
+ {
+  "id": "8.0.8",
+  "en": "If he only had a clean Sunday-school record he could be willing to go, and be done with it all.",
+  "s": "he",
+  "v": "could be",
+  "chunks": [
+   {"en": "If he only had a clean Sunday-school record", "ko": "주일학교 기록만 깨끗하다면", "r": "부사절(조건, 가정법)"},
+   {"en": "he could be willing to go,", "ko": "그는 기꺼이 떠날(죽을) 수도 있을 텐데", "r": "주어+동사"},
+   {"en": "and be done with it all.", "ko": "그리고 이 모든 것을 끝내 버릴 텐데", "r": "대등(동사 이어짐)"}
+  ],
+  "ko": "주일학교 기록만 깨끗했더라면, 그는 기꺼이 떠나서(죽어서) 이 모든 것과 끝장을 볼 수도 있을 텐데.",
+  "why": "'If … had …, he could …'는 현재 사실과 반대되는 가정법 과거(실제로는 기록이 깨끗하지 않다는 뜻). 여기서 'go'는 '죽다'의 완곡한 표현이고, 'be done with it all'은 '이 모든 것을 끝내다'.",
+  "st": [8, 12]
+ },
+ {
+  "id": "8.1.6",
+  "en": "For frivolity and jokes and spotted tights were an offense, when they intruded themselves upon a spirit that was exalted into the vague august realm of the romantic.",
+  "s": "frivolity and jokes and spotted tights",
+  "v": "were",
+  "chunks": [
+   {"en": "For frivolity and jokes and spotted tights were an offense,", "ko": "왜냐하면 경박함과 농담과 얼룩무늬 타이츠는 모욕이었기 때문이다", "r": "접속(For=왜냐하면)+주어+동사"},
+   {"en": "when they intruded themselves upon a spirit", "ko": "그것들이 어떤 정신 속으로 끼어들 때는", "r": "부사절(때)"},
+   {"en": "that was exalted into the vague august realm of the romantic.", "ko": "낭만이라는 아련하고 장엄한 영역으로 드높여진 (정신)", "r": "관계절(spirit 설명)"}
+  ],
+  "ko": "왜냐하면 경박함과 농담과 얼룩무늬 타이츠(광대 옷)는, 낭만이라는 아련하고 장엄한 영역으로 드높여진 정신에 끼어들 때는 모욕이 되기 때문이었다.",
+  "why": "문장 첫머리의 For는 '왜냐하면'(=because)으로, 앞 문장(광대 생각이 역겨웠다)의 이유를 댄다. 주어가 A and B and C로 셋 묶인 뒤 동사 were가 나오고, spirit 뒤의 that절은 그 정신이 어떤 상태인지 설명한다. 어린아이의 감상을 일부러 거창한 말로 표현한 풍자적 문장.",
+  "st": [13, 14]
+ },
+ {
+  "id": "8.1.8",
+  "en": "No—better still, he would join the Indians, and hunt buffaloes and go on the warpath in the mountain ranges and the trackless great plains of the Far West, and away in the future come back a great chief, bristling with feathers, hideous with paint, and prance into Sunday-school, some drowsy summer morning, with a blood-curdling war-whoop, and sear the eyeballs of all his companions with unappeasable envy.",
+  "s": "he",
+  "v": "would join",
+  "chunks": [
+   {"en": "No—better still,", "ko": "아니, 더 좋은 게 있다", "r": "곁말(대시)"},
+   {"en": "he would join the Indians,", "ko": "그는 인디언들에게 들어갈 것이다", "r": "주어+동사"},
+   {"en": "and hunt buffaloes and go on the warpath", "ko": "들소를 사냥하고 출정길에 오를 것이다", "r": "동사 나열"},
+   {"en": "in the mountain ranges and the trackless great plains of the Far West,", "ko": "극서부의 산맥과 길 없는 대평원에서", "r": "전치사구(장소)"},
+   {"en": "and away in the future come back a great chief,", "ko": "그리고 먼 훗날 위대한 추장이 되어 돌아올 것이다", "r": "동사 나열"},
+   {"en": "bristling with feathers, hideous with paint,", "ko": "깃털을 잔뜩 꽂고, 물감 칠로 무시무시한 모습으로", "r": "분사구·형용사구(모습 묘사)"},
+   {"en": "and prance into Sunday-school, some drowsy summer morning,", "ko": "그리고 어느 나른한 여름 아침 주일학교로 껑충거리며 들어갈 것이다", "r": "동사 나열+시간"},
+   {"en": "with a blood-curdling war-whoop,", "ko": "피를 얼어붙게 하는 전쟁 함성을 지르며", "r": "전치사구(방법)"},
+   {"en": "and sear the eyeballs of all his companions with unappeasable envy.", "ko": "그리고 모든 친구들의 눈알을 달랠 수 없는 부러움으로 지져 버릴 것이다", "r": "동사 나열"}
+  ],
+  "ko": "아니, 더 좋은 게 있다. 그는 인디언들에게 들어가서 들소를 사냥하고, 극서부의 산맥과 길 없는 대평원에서 출정길에 오르고, 먼 훗날 깃털을 잔뜩 꽂고 물감 칠로 무시무시해진 위대한 추장이 되어 돌아와, 어느 나른한 여름 아침 피가 얼어붙는 전쟁 함성을 지르며 주일학교로 껑충거리며 들어가, 친구들 모두의 눈알을 달랠 길 없는 부러움으로 지져 버릴 것이다.",
+  "why": "'he would' 뒤에 join, hunt, go, come back, prance, sear 여섯 동사가 and로 줄줄이 이어진다. would는 모두에 걸리므로 'and + 동사원형'이 나올 때마다 '그는 ~할 것이다'로 되돌아가 읽으면 된다. 'come back a great chief'는 '위대한 추장이 되어 돌아오다', 'bristling with feathers'는 '깃털이 빽빽이 꽂힌'.",
+  "st": [4, 6, 14]
+ },
+ {
+  "id": "8.1.13",
+  "en": "How gloriously he would go plowing the dancing seas, in his long, low, black-hulled racer, the Spirit of the Storm, with his grisly flag flying at the fore!",
+  "s": "he",
+  "v": "would go",
+  "chunks": [
+   {"en": "How gloriously he would go plowing the dancing seas,", "ko": "얼마나 영광스럽게 그는 춤추는 바다를 헤치며 나아갈 것인가", "r": "감탄문 주어+동사"},
+   {"en": "in his long, low, black-hulled racer, the Spirit of the Storm,", "ko": "길고 낮은 검은 선체의 쾌속선, ‘폭풍의 정령’ 호를 타고", "r": "전치사구(수단)+동격"},
+   {"en": "with his grisly flag flying at the fore!", "ko": "섬뜩한 깃발을 뱃머리에 펄럭이며", "r": "with+명사+~ing(부대상황)"}
+  ],
+  "ko": "길고 낮은 검은 선체의 쾌속선 ‘폭풍의 정령’ 호를 타고, 섬뜩한 깃발을 뱃머리에 펄럭이며, 그는 얼마나 영광스럽게 춤추는 바다를 헤치고 나아갈 것인가!",
+  "why": "'How + 부사 + 주어 + 동사' 형태의 감탄문으로, 톰의 속생각을 서술 속에 그대로 보여준다(자유간접화법: '그는 생각했다' 없이 인물의 생각이 서술문처럼 나옴). 'go plowing'은 '헤치며 나아가다', 'the Spirit of the Storm'은 앞의 racer(배)의 이름(동격), 'with … flying'은 '~을 펄럭이며'.",
+  "st": [6, 15]
+ },
+ {
+  "id": "8.1.14",
+  "en": "And at the zenith of his fame, how he would suddenly appear at the old village and stalk into church, brown and weather-beaten, in his black velvet doublet and trunks, his great jack-boots, his crimson sash, his belt bristling with horse-pistols, his crime-rusted cutlass at his side, his slouch hat with waving plumes, his black flag unfurled, with the skull and crossbones on it, and hear with swelling ecstasy the whisperings, “It’s Tom Sawyer the Pirate!—the Black Avenger of the Spanish Main!”",
+  "s": "he",
+  "v": "would suddenly appear",
+  "chunks": [
+   {"en": "And at the zenith of his fame,", "ko": "그리고 명성이 절정에 달했을 때", "r": "시간"},
+   {"en": "how he would suddenly appear at the old village", "ko": "그는 어떻게 옛 마을에 갑자기 나타나서", "r": "감탄문 주어+동사"},
+   {"en": "and stalk into church, brown and weather-beaten,", "ko": "햇볕에 그을리고 풍파에 찌든 모습으로 교회 안으로 성큼성큼 걸어 들어갈 것인가", "r": "동사 나열+모습"},
+   {"en": "in his black velvet doublet and trunks, his great jack-boots, his crimson sash,", "ko": "검은 벨벳 상의와 짧은 바지, 커다란 장화, 진홍색 허리띠 차림으로", "r": "전치사구(차림새 나열)"},
+   {"en": "his belt bristling with horse-pistols, his crime-rusted cutlass at his side,", "ko": "허리띠에는 권총들을 빽빽이 꽂고, 옆구리에는 죄악으로 녹슨 단검을 차고", "r": "명사+분사구(차림새 나열)"},
+   {"en": "his slouch hat with waving plumes, his black flag unfurled,", "ko": "깃털이 흔들리는 챙 넓은 모자를 쓰고, 검은 깃발을 펼쳐 들고", "r": "명사구 나열"},
+   {"en": "with the skull and crossbones on it,", "ko": "그 위에는 해골과 엇갈린 뼈가 그려진", "r": "전치사구(깃발 설명)"},
+   {"en": "and hear with swelling ecstasy the whisperings,", "ko": "그리고 벅찬 황홀감 속에서 수군거리는 소리를 듣게 될 것인가", "r": "동사 나열"},
+   {"en": "“It’s Tom Sawyer the Pirate!—the Black Avenger of the Spanish Main!”", "ko": "“저건 해적 톰 소여야!—스페인령 바다의 검은 복수자!”", "r": "인용(수군거림 내용)"}
+  ],
+  "ko": "그리고 명성이 절정에 달했을 때, 그는 검은 벨벳 상의와 짧은 바지, 커다란 장화, 진홍색 허리띠 차림에, 허리띠에는 권총들을 빽빽이 꽂고 옆구리에는 죄악으로 녹슨 단검을 차고, 깃털이 흔들리는 챙 넓은 모자를 쓰고, 해골과 엇갈린 뼈가 그려진 검은 깃발을 펼쳐 든 채, 햇볕에 그을리고 풍파에 찌든 모습으로 어떻게 옛 마을에 갑자기 나타나 교회 안으로 성큼성큼 걸어 들어가, “저건 해적 톰 소여야!—스페인령 바다의 검은 복수자!” 하고 수군대는 소리를 벅찬 황홀감 속에 듣게 될 것인가!",
+  "why": "뼈대는 'how he would appear … and stalk into church … and hear the whisperings'인데, 그 사이에 옷차림을 나열하는 명사구가 길게 끼어 있어 마지막 동사 hear가 아주 멀리 있다. 쉼표로 이어지는 'his ~, his ~'는 모두 차림새 묘사이므로 건너뛰고 'and hear'를 찾으면 구조가 보인다. 'hear with swelling ecstasy the whisperings'는 hear의 목적어(the whisperings)가 부사구 뒤로 밀린 어순.",
+  "st": [4, 14, 15]
+ },
+ {
+  "id": "8.6.1",
+  "en": "The truth was, that a superstition of his had failed, here, which he and all his comrades had always looked upon as infallible.",
+  "s": "The truth",
+  "v": "was",
+  "chunks": [
+   {"en": "The truth was,", "ko": "사실은 이러했다", "r": "주어+동사"},
+   {"en": "that a superstition of his had failed, here,", "ko": "그의 미신 하나가 여기서 실패했다는 것", "r": "보어(that절)"},
+   {"en": "which he and all his comrades had always looked upon as infallible.", "ko": "그와 그의 친구들 모두가 언제나 절대 틀림없다고 여겨 왔던 (미신)", "r": "관계절(superstition 설명)"}
+  ],
+  "ko": "사실은, 그와 친구들 모두가 언제나 절대 틀림없다고 여겨 왔던 그의 미신 하나가 여기서 실패했다는 것이었다.",
+  "why": "'The truth was that …'는 '사실은 ~라는 것이었다'. 쉼표 뒤의 which는 바로 앞의 here가 아니라 멀리 있는 a superstition을 가리키므로 주의. 'look upon A as B'는 'A를 B로 여기다', infallible은 '절대 틀리지 않는'.",
+  "st": [9]
+ },
+ {
+  "id": "8.6.2",
+  "en": "If you buried a marble with certain necessary incantations, and left it alone a fortnight, and then opened the place with the incantation he had just used, you would find that all the marbles you had ever lost had gathered themselves together there, meantime, no matter how widely they had been separated.",
+  "s": "you",
+  "v": "would find",
+  "chunks": [
+   {"en": "If you buried a marble with certain necessary incantations,", "ko": "만약 특정한 필수 주문을 외우며 구슬 하나를 묻고", "r": "부사절(조건)"},
+   {"en": "and left it alone a fortnight,", "ko": "그것을 2주 동안 그대로 두었다가", "r": "조건절 이어짐"},
+   {"en": "and then opened the place with the incantation he had just used,", "ko": "그런 다음 그가 방금 쓴 주문을 외우며 그 자리를 열어 보면", "r": "조건절 이어짐"},
+   {"en": "you would find", "ko": "당신은 발견하게 될 것이다", "r": "주어+동사"},
+   {"en": "that all the marbles you had ever lost", "ko": "당신이 그동안 잃어버린 모든 구슬이", "r": "목적어(that절의 주어)"},
+   {"en": "had gathered themselves together there, meantime,", "ko": "그 사이에 거기에 스스로 모여 있는 것을", "r": "that절의 동사"},
+   {"en": "no matter how widely they had been separated.", "ko": "아무리 멀리 흩어져 있었다 하더라도", "r": "부사절(양보)"}
+  ],
+  "ko": "만약 특정한 필수 주문을 외우며 구슬 하나를 묻고, 2주 동안 그대로 두었다가, 그가 방금 쓴 주문을 외우며 그 자리를 열어 보면, 그동안 잃어버린 구슬이 아무리 멀리 흩어져 있었더라도 그 사이 전부 거기에 스스로 모여 있는 것을 발견하게 된다는 것이었다.",
+  "why": "If절이 buried, left, opened 세 동사로 길게 이어진 뒤에야 주절 'you would find'가 나온다. 여기서 you는 '누구든지'라는 일반적인 you. 'all the marbles [you had ever lost] had gathered'에서 [ ]는 marbles를 꾸미는 관계절(that이 생략됨)이고 진짜 동사는 had gathered. fortnight는 '2주'.",
+  "st": [8, 12, 14]
+ },
+ {
+  "id": "8.6.8",
+  "en": "He thought he would satisfy himself on that point; so he searched around till he found a small sandy spot with a little funnel-shaped depression in it.",
+  "s": "He",
+  "v": "thought",
+  "chunks": [
+   {"en": "He thought he would satisfy himself on that point;", "ko": "그는 그 점을 확실히 알아봐야겠다고 생각했다", "r": "주어+동사+목적어절"},
+   {"en": "so he searched around", "ko": "그래서 그는 주위를 뒤졌다", "r": "대등절(결과)"},
+   {"en": "till he found a small sandy spot", "ko": "작은 모래밭을 찾을 때까지", "r": "부사절(때까지)"},
+   {"en": "with a little funnel-shaped depression in it.", "ko": "깔때기 모양으로 살짝 움푹 팬 자리가 있는", "r": "전치사구(spot 설명)"}
+  ],
+  "ko": "그는 그 점을 확실히 확인해 봐야겠다고 생각했다. 그래서 깔때기 모양으로 살짝 움푹 팬 자리가 있는 작은 모래밭을 찾을 때까지 주위를 뒤졌다.",
+  "why": "'satisfy himself on that point'는 '그 점에 대해 스스로 납득하다(확인하다)'. 세미콜론 뒤 so는 '그래서', till은 until(~할 때까지). depression은 여기서 '우울'이 아니라 '움푹 팬 곳'.",
+  "st": [3]
+ },
+ {
+  "id": "8.10.1",
+  "en": "But it occurred to him that he might as well have the marble he had just thrown away, and therefore he went and made a patient search for it.",
+  "s": "it",
+  "v": "occurred",
+  "chunks": [
+   {"en": "But it occurred to him", "ko": "하지만 그에게 문득 생각이 떠올랐다", "r": "주어(가주어 it)+동사"},
+   {"en": "that he might as well have the marble", "ko": "그 구슬을 도로 갖는 게 낫겠다는 (생각)", "r": "진주어(that절)"},
+   {"en": "he had just thrown away,", "ko": "방금 던져 버린", "r": "관계절(marble 설명)"},
+   {"en": "and therefore he went and made a patient search for it.", "ko": "그래서 그는 가서 끈기 있게 그것을 찾았다", "r": "대등절"}
+  ],
+  "ko": "하지만 방금 던져 버린 그 구슬을 도로 갖는 편이 낫겠다는 생각이 문득 들어서, 그는 가서 끈기 있게 그것을 찾았다.",
+  "why": "'it occurred to him that ~'은 '~라는 생각이 그에게 떠올랐다'(it은 뒤의 that절을 대신하는 가주어). 'might as well ~'은 '~하는 게 낫겠다', 'the marble [he had just thrown away]'는 관계사가 생략된 관계절.",
+  "st": []
+ },
+ {
+  "id": "8.10.3",
+  "en": "Now he went back to his treasure-house and carefully placed himself just as he had been standing when he tossed the marble away; then he took another marble from his pocket and tossed it in the same way, saying:",
+  "s": "he",
+  "v": "went",
+  "chunks": [
+   {"en": "Now he went back to his treasure-house", "ko": "이제 그는 자기 보물 창고로 돌아가서", "r": "주어+동사"},
+   {"en": "and carefully placed himself", "ko": "조심스럽게 자리를 잡았다", "r": "동사 나열"},
+   {"en": "just as he had been standing", "ko": "자기가 서 있던 바로 그대로", "r": "부사절(양태)"},
+   {"en": "when he tossed the marble away;", "ko": "구슬을 던져 버렸을 때", "r": "부사절(때)"},
+   {"en": "then he took another marble from his pocket", "ko": "그런 다음 주머니에서 다른 구슬을 하나 꺼내", "r": "대등절(세미콜론)"},
+   {"en": "and tossed it in the same way, saying:", "ko": "같은 방식으로 던지며 말했다", "r": "동사 나열+분사구문(~하면서)"}
+  ],
+  "ko": "이제 그는 자기 보물 창고로 돌아가, 구슬을 던져 버렸을 때 서 있던 자세 그대로 조심스럽게 자리를 잡았다. 그런 다음 주머니에서 다른 구슬을 하나 꺼내 똑같은 방식으로 던지며 말했다.",
+  "why": "'placed himself just as he had been standing when …'처럼 as절 안에 when절이 겹쳐 있어 헷갈리기 쉽다. 'just as'는 '꼭 ~한 대로'. 세미콜론 뒤 then은 '그런 다음', 끝의 'saying:'은 '~라고 말하면서'로 다음 줄의 대사를 이끈다.",
+  "st": [3, 5, 6]
+ },
+ {
+  "id": "8.13.1",
+  "en": "Tom flung off his jacket and trousers, turned a suspender into a belt, raked away some brush behind the rotten log, disclosing a rude bow and arrow, a lath sword and a tin trumpet, and in a moment had seized these things and bounded away, barelegged, with fluttering shirt.",
+  "s": "Tom",
+  "v": "flung",
+  "chunks": [
+   {"en": "Tom flung off his jacket and trousers,", "ko": "톰은 웃옷과 바지를 벗어 던지고", "r": "주어+동사"},
+   {"en": "turned a suspender into a belt,", "ko": "멜빵 하나를 허리띠로 삼고", "r": "동사 나열"},
+   {"en": "raked away some brush behind the rotten log,", "ko": "썩은 통나무 뒤의 덤불을 헤쳐 냈다", "r": "동사 나열"},
+   {"en": "disclosing a rude bow and arrow, a lath sword and a tin trumpet,", "ko": "그러자 조잡한 활과 화살, 판자 칼, 양철 나팔이 드러났다", "r": "분사구문(결과)"},
+   {"en": "and in a moment had seized these things and bounded away,", "ko": "그리고 순식간에 이것들을 움켜쥐고 뛰쳐나갔다", "r": "동사 나열"},
+   {"en": "barelegged, with fluttering shirt.", "ko": "맨다리로, 셔츠 자락을 펄럭이며", "r": "모습(부사구)"}
+  ],
+  "ko": "톰은 웃옷과 바지를 벗어 던지고, 멜빵 하나를 허리띠로 삼고, 썩은 통나무 뒤의 덤불을 헤쳐 내어 조잡한 활과 화살, 판자 칼, 양철 나팔을 드러내더니, 순식간에 그것들을 움켜쥐고 맨다리에 셔츠 자락을 펄럭이며 뛰쳐나갔다.",
+  "why": "주어 Tom 하나에 flung, turned, raked, had seized, bounded 다섯 동사가 쉼표와 and로 이어진다. 중간의 'disclosing ~'은 '그 결과 ~이 드러났다'는 뜻의 분사구문(~해서 …하게 되다). rude는 '무례한'이 아니라 '조잡한', lath는 '얇은 판자'.",
+  "st": [6, 14]
+ },
+ {
+  "id": "8.13.2",
+  "en": "He presently halted under a great elm, blew an answering blast, and then began to tiptoe and look warily out, this way and that.",
+  "s": "He",
+  "v": "halted",
+  "chunks": [
+   {"en": "He presently halted under a great elm,", "ko": "그는 곧 큰 느릅나무 아래 멈춰 서서", "r": "주어+동사"},
+   {"en": "blew an answering blast,", "ko": "응답하는 나팔 소리를 한 번 불고", "r": "동사 나열"},
+   {"en": "and then began to tiptoe and look warily out,", "ko": "그러고는 발끝으로 살금살금 걸으며 조심스럽게 밖을 살피기 시작했다", "r": "동사 나열"},
+   {"en": "this way and that.", "ko": "이쪽저쪽으로", "r": "부사"}
+  ],
+  "ko": "그는 곧 큰 느릅나무 아래 멈춰 서서 응답하는 나팔 소리를 한 번 불고는, 발끝으로 살금살금 걸으며 이쪽저쪽 조심스레 살피기 시작했다.",
+  "why": "presently는 여기서 '현재'가 아니라 '곧, 이윽고'(옛 뜻), blast는 '폭발'이 아니라 나팔 '소리'. 'this way and that'은 '이리저리'. halted, blew, began 세 동사가 주어 He에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "8.22.0",
+  "en": "They took their lath swords, dumped their other traps on the ground, struck a fencing attitude, foot to foot, and began a grave, careful combat, “two up and two down.”",
+  "s": "They",
+  "v": "took",
+  "chunks": [
+   {"en": "They took their lath swords,", "ko": "그들은 판자 칼을 집어 들고", "r": "주어+동사"},
+   {"en": "dumped their other traps on the ground,", "ko": "다른 잡동사니는 땅바닥에 내던지고", "r": "동사 나열"},
+   {"en": "struck a fencing attitude, foot to foot,", "ko": "발을 마주 댄 채 펜싱 자세를 취하고", "r": "동사 나열"},
+   {"en": "and began a grave, careful combat,", "ko": "그리고 진지하고 신중한 결투를 시작했다", "r": "동사 나열"},
+   {"en": "“two up and two down.”", "ko": "“위로 둘, 아래로 둘” 하며", "r": "인용(구호)"}
+  ],
+  "ko": "그들은 판자 칼을 집어 들고, 다른 잡동사니는 땅바닥에 내던진 뒤, 발을 마주 댄 채 펜싱 자세를 취하고는 “위로 둘, 아래로 둘” 하며 진지하고 신중한 결투를 시작했다.",
+  "why": "took, dumped, struck, began 네 동사가 주어 They 하나에 걸린다. traps는 '덫'이 아니라 '소지품·잡동사니'(옛 구어), grave는 '무덤'이 아니라 '진지한'. 마지막 따옴표 속 “two up and two down”은 칼을 위로 두 번, 아래로 두 번 부딪치는 결투 방식을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "8.32.0",
+  "en": "“Well, say, Joe, you can be Friar Tuck or Much the miller’s son, and lam me with a quarter-staff; or I’ll be the Sheriff of Nottingham and you be Robin Hood a little while and kill me.”",
+  "s": "you",
+  "v": "can be",
+  "chunks": [
+   {"en": "“Well, say, Joe,", "ko": "“저기, 있잖아, 조", "r": "인용 시작(부름)"},
+   {"en": "you can be Friar Tuck or Much the miller’s son,", "ko": "네가 터크 수사나 방앗간집 아들 머치가 되어서", "r": "주어+동사"},
+   {"en": "and lam me with a quarter-staff;", "ko": "육척봉으로 나를 두들겨 패도 돼", "r": "동사 나열"},
+   {"en": "or I’ll be the Sheriff of Nottingham", "ko": "아니면 내가 노팅엄 보안관이 되고", "r": "대등절"},
+   {"en": "and you be Robin Hood a little while and kill me.”", "ko": "네가 잠깐 로빈 후드가 되어서 나를 죽여도 돼”", "r": "대등절"}
+  ],
+  "ko": "“저기, 있잖아, 조. 네가 터크 수사나 방앗간집 아들 머치가 되어서 육척봉으로 나를 두들겨 패도 돼. 아니면 내가 노팅엄 보안관이 되고 네가 잠깐 로빈 후드가 되어서 나를 죽여도 되고.”",
+  "why": "대사 안에서 세미콜론과 or로 두 가지 제안이 나뉜다. 'lam'은 '때리다'라는 속어, 'you be Robin Hood'는 앞의 can이 생략된 채 동사원형만 남은 구어체. Friar Tuck, Much, Sheriff of Nottingham은 모두 로빈 후드 이야기의 등장인물.",
+  "st": [2, 3]
+ },
+ {
+  "id": "8.33.2",
+  "en": "And at last Joe, representing a whole tribe of weeping outlaws, dragged him sadly forth, gave his bow into his feeble hands, and Tom said, “Where this arrow falls, there bury poor Robin Hood under the greenwood tree.”",
+  "s": "Joe",
+  "v": "dragged",
+  "chunks": [
+   {"en": "And at last Joe,", "ko": "그리고 마침내 조는", "r": "주어"},
+   {"en": "representing a whole tribe of weeping outlaws,", "ko": "눈물 흘리는 산적 무리 전체를 혼자 대표하여", "r": "분사구문(삽입, Joe 설명)"},
+   {"en": "dragged him sadly forth,", "ko": "그를 슬프게 밖으로 끌어내어", "r": "동사"},
+   {"en": "gave his bow into his feeble hands,", "ko": "힘없는 그의 손에 활을 쥐여 주었다", "r": "동사 나열"},
+   {"en": "and Tom said,", "ko": "그리고 톰이 말했다", "r": "대등절+전달동사"},
+   {"en": "“Where this arrow falls, there bury poor Robin Hood under the greenwood tree.”", "ko": "“이 화살이 떨어지는 곳, 그곳 푸른 숲 나무 아래 불쌍한 로빈 후드를 묻어 다오.”", "r": "인용(대사)"}
+  ],
+  "ko": "그리고 마침내 조는 눈물 흘리는 산적 무리 전체를 혼자 대표하여 톰을 슬프게 밖으로 끌어내 힘없는 그의 손에 활을 쥐여 주었고, 톰은 “이 화살이 떨어지는 곳, 그곳 푸른 숲 나무 아래 불쌍한 로빈 후드를 묻어 다오.” 하고 말했다.",
+  "why": "주어 Joe 바로 뒤에 'representing ~' 분사구문이 끼어들어 동사 dragged가 뒤로 밀렸다. 쉼표 사이의 삽입구를 건너뛰고 'Joe … dragged … gave'로 읽는다. 대사 속 'Where …, there bury …'는 '~하는 곳, 거기에 묻어라'라는 명령문(로빈 후드 이야기의 유명한 마지막 장면).",
+  "st": [6, 18]
+ },
+ {
+  "id": "8.33.3",
+  "en": "Then he shot the arrow and fell back and would have died, but he lit on a nettle and sprang up too gaily for a corpse.",
+  "s": "he",
+  "v": "shot",
+  "chunks": [
+   {"en": "Then he shot the arrow and fell back", "ko": "그런 다음 그는 화살을 쏘고 뒤로 쓰러져", "r": "주어+동사 나열"},
+   {"en": "and would have died,", "ko": "그대로 죽었을 것이다", "r": "동사(가정법)"},
+   {"en": "but he lit on a nettle", "ko": "그런데 그가 쐐기풀 위에 떨어지는 바람에", "r": "대등절(반전)"},
+   {"en": "and sprang up too gaily for a corpse.", "ko": "시체치고는 너무 팔팔하게 벌떡 일어났다", "r": "동사 나열"}
+  ],
+  "ko": "그런 다음 그는 화살을 쏘고 뒤로 쓰러져 그대로 죽었을 텐데, 하필 쐐기풀 위에 떨어지는 바람에 시체치고는 너무 팔팔하게 벌떡 일어나고 말았다.",
+  "why": "'would have died'는 '(그랬더라면) 죽었을 것이다'라는 가정법 과거완료로, 뒤의 but절이 실제로 일어난 일이다. 'lit'는 light(내려앉다)의 과거형, 'too gaily for a corpse'는 '시체치고는 너무 명랑하게'라는 유머.",
+  "st": [12, 14]
+ },
+ {
+  "id": "8.34.0",
+  "en": "The boys dressed themselves, hid their accoutrements, and went off grieving that there were no outlaws any more, and wondering what modern civilization could claim to have done to compensate for their loss.",
+  "s": "The boys",
+  "v": "dressed",
+  "chunks": [
+   {"en": "The boys dressed themselves,", "ko": "소년들은 옷을 입고", "r": "주어+동사"},
+   {"en": "hid their accoutrements,", "ko": "장비를 숨긴 뒤", "r": "동사 나열"},
+   {"en": "and went off grieving", "ko": "슬퍼하며 떠나갔다", "r": "동사+분사구문(~하면서)"},
+   {"en": "that there were no outlaws any more,", "ko": "이제 더는 산적이 없다는 것을", "r": "목적어절(grieving의 내용)"},
+   {"en": "and wondering what modern civilization could claim", "ko": "그리고 현대 문명이 무엇을 했다고 내세울 수 있을지 궁금해하며", "r": "분사구문 나열"},
+   {"en": "to have done to compensate for their loss.", "ko": "그 상실을 보상하기 위해 (무엇을) 해냈다고", "r": "목적어(간접의문문 이어짐)"}
+  ],
+  "ko": "소년들은 옷을 입고 장비를 숨긴 뒤, 이제는 산적이 없다는 것을 슬퍼하고, 현대 문명이 그 상실을 보상하려고 대체 무엇을 해냈다고 내세울 수 있을지 궁금해하며 떠나갔다.",
+  "why": "'went off grieving that … and wondering what …'처럼 동사 뒤에 ~ing 두 개가 붙어 '~하면서 떠났다'로 읽는다. 'what modern civilization could claim to have done'은 간접의문문으로 '문명이 무엇을 해냈다고 주장할 수 있는가'. accoutrements는 '장비, 차림새'.",
+  "st": [6, 17]
+ }
+]

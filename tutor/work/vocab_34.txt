@@ -1,0 +1,61 @@
+widow	n.	미망인	L2	이장8회/전체39회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장6회/전체122회
+upon	prep.	~위에(on보다 격식체)	L2	이장3회/전체146회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장3회/전체76회
+clothe	v.	옷을 입히다, (clothes) 옷	L2	이장3회/전체21회
+auntie	n.	아주머니, 이모(aunt의 애칭)	L2	이장3회/전체18회
+gaze	v., n.	응시하다, 시선	L2	이장2회/전체11회
+manner	n.	태도, 방식	L2	이장2회/전체9회
+intolerable	adj.	참을 수 없는	L2	이장2회/전체6회
+discomfort	n.	불편함	L2	이장2회/전체5회
+slope	n.	경사면, 비탈	L2	이장2회/전체2회
+bet	v., n.	내기하다, 장담하다(구어)	L2	이장1회/전체26회
+mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장1회/전체26회
+kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장1회/전체24회
+though	conj., adv.	비록 ~이지만, 그렇지만	L2	이장1회/전체19회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장1회/전체15회
+struggle	v., n.	애쓰다, 몸부림치다, 투쟁	L2	이장1회/전체15회
+bound	adj., v., n.	묶인, ~할 의무가 있는, ~행인; 도약하다	L2	이장1회/전체12회
+bother	v.	신경 쓰다, 괴롭히다	L2	이장1회/전체11회
+forth	adv.	앞으로, 밖으로	L2	이장1회/전체11회
+gratitude	n.	감사	L2	이장1회/전체11회
+clay	n.	진흙, 점토	L2	이장1회/전체10회
+satisfy	v.	만족시키다	L2	이장1회/전체10회
+circumstance	n.	상황, 환경	L2	이장1회/전체10회
+entirely	adv.	완전히	L2	이장1회/전체10회
+spectacle	n.	광경, 구경거리, (복수) 안경	L2	이장1회/전체10회
+shucks	int.	쳇, 에이(실망·겸손의 미국 구어)	L3	이장1회/전체9회
+scarcely	adv.	거의 ~않다	L2	이장1회/전체8회
+sneak	v.	몰래 가다, 슬쩍 하다	L2	이장1회/전체7회
+strain	n., v.	긴장, 부담; 무리하게 사용하다	L2	이장1회/전체7회
+scrape	v., n.	긁다, 곤경, 궁지	L2	이장1회/전체6회
+heap	n., v.	더미, 쌓다	L2	이장1회/전체5회
+perplexed	adj.	당황한, 어리둥절한	L2	이장1회/전체5회
+astonishment	n.	놀람, 경악	L2	이장1회/전체4회
+spare	adj., v., n.	여분의, 아끼다, 할애하다	L2	이장1회/전체4회
+flat	adj., n.	평평한, 아파트(영국식)	L2	이장1회/전체3회
+propped	v.	받쳐 놓다, 기대어 놓다	L2	이장1회/전체3회
+awkward	adj.	어색한	L2	이장1회/전체3회
+mass	n., adj.	덩어리, 대량; 대규모의	L2	이장1회/전체3회
+furnish	v.	제공하다, 갖추어 주다	L2	이장1회/전체3회
+fret	v., n.	초조해하다, 안달하다, 초조	L3	이장1회/전체2회
+largely	adv.	대체로, 주로	L2	이장1회/전체2회
+counterfeit	adj., v., n.	가짜의, 위조하다, 위조품	L3	이장1회/전체2회
+ails	v.	괴롭히다, 아프게 하다(what ails you: 어디가 아프냐)	L3	이장1회/전체2회
+brimful	adj.	넘칠 듯 가득 찬	L3	이장1회/전체2회
+jist	adv.	그냥, 딱(just의 사투리)	L3	이장1회/전체1회
+blowout	n.	떠들썩한 잔치, 성대한 파티(구어)	L3	이장1회/전체1회
+overheard	v.	우연히 엿들었다	L2	이장1회/전체1회
+chuckled	v.	킬킬 웃다(chuckle의 과거)	L2	이장1회/전체1회
+cuffed	v.	손바닥으로 때리다(cuff의 과거)	L3	이장1회/전체1회
+supper-table	n.	저녁 식탁	L2	이장1회/전체1회
+side-tables	n.	보조 탁자들	L2	이장1회/전체1회
+sprung	v.	튀어올랐다, 솟아났다(spring의 과거분사)	L2	이장1회/전체1회
+clamorous	adj.	시끄러운, 떠들썩한	L3	이장1회/전체1회
+effusive	adj.	과도하게 감정을 드러내는	L3	이장1회/전체1회
+laudations	n.	칭찬, 찬사	L3	이장1회/전체1회
+complimentary	adj.	칭찬하는, 무료의	L2	이장1회/전체1회
+inquiringly	adv.	묻는 듯이, 미심쩍은 눈으로	L3	이장1회/전체1회
+tongue-tied	adj.	말문이 막힌, 말을 못 하는	L2	이장1회/전체1회
+unanimous	adj.	만장일치의	L2	이장1회/전체1회
+considerably	adv.	상당히	L2	이장1회/전체1회

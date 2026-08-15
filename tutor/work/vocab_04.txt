@@ -1,0 +1,80 @@
+shall	v.	~할 것이다(격식체 조동사)	L2	이장9회/전체20회
+upon	prep.	~위에(on보다 격식체)	L2	이장7회/전체146회
+superintendent	n.	교장(주일학교), 감독관	L3	이장7회/전체7회
+pupil	n.	학생, 눈동자	L2	이장6회/전체10회
+owing	adj., prep.	빚진, ~때문에(owing to)	L2	이장4회/전체4회
+recite	v.	암송하다, 낭독하다	L2	이장3회/전체7회
+mourn	v.	슬퍼하다, 애도하다	L2	이장3회/전체7회
+chin	n.	턱	L2	이장3회/전체5회
+basin	n.	대야, 세면기, 분지	L2	이장3회/전체4회
+hymn-book	n.	찬송가책	L2	이장3회/전체3회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장2회/전체82회
+clothe	v.	옷을 입히다, (clothes) 옷	L2	이장2회/전체21회
+though	conj., adv.	비록 ~이지만, 그렇지만	L2	이장2회/전체19회
+sermon	n.	설교	L2	이장2회/전체15회
+trifle	n., v.	사소한 것, 조금, 가지고 놀다	L3	이장2회/전체15회
+delight	n., v.	기쁨; 기쁘게 하다	L2	이장2회/전체11회
+forth	adv.	앞으로, 밖으로	L2	이장2회/전체11회
+gaze	v., n.	응시하다, 시선	L2	이장2회/전체11회
+satisfactory	adj.	만족스러운	L2	이장2회/전체10회
+circumstance	n.	상황, 환경	L2	이장2회/전체10회
+tackle	v., n.	다루다, 맞붙다; 태클	L2	이장2회/전체9회
+fellow	n., adj.	동료, 녀석(구어)	L2	이장2회/전체9회
+strain	n., v.	긴장, 부담; 무리하게 사용하다	L2	이장2회/전체7회
+sho	adv., int.	확실히, 정말(sure의 사투리)	L3	이장2회/전체6회
+beam	n., v.	광선, 들보, 환하게 웃다	L2	이장2회/전체5회
+latter	adj.	후자의	L2	이장2회/전체5회
+barlow	n.	발로 나이프(주머니칼 상표, Barlow knife)	L3	이장2회/전체4회
+grandeur	n.	웅장함, 위엄	L3	이장2회/전체4회
+restless	adj.	안절부절못하는, 가만있지 못하는	L2	이장2회/전체4회
+acquire	v.	얻다, 획득하다	L2	이장2회/전체4회
+mental	adj.	정신의, 정신적인; (영국 구어) 제정신이 아닌	L2	이장2회/전체4회
+worship	n., v.	숭배, 예배	L2	이장2회/전체3회
+exhibit	n., v.	전시(하다), (특성을) 보이다	L2	이장2회/전체3회
+pulpit	n.	설교단, 강단	L3	이장2회/전체3회
+county	n.	(영국) 주, 카운티	L2	이장2회/전체3회
+privilege	n.	특권, 특혜	L2	이장2회/전체3회
+recreations	n.	오락, 기분전환	L2	이장2회/전체2회
+equalled	v.	~와 같았다, 필적했다(equal의 과거, 영국식 철자)	L2	이장2회/전체2회
+middle-aged	adj.	중년의	L2	이장2회/전체2회
+judicial	adj.	재판의, 사법의, 판사 같은	L3	이장2회/전체2회
+disciples	n.	제자들, 사도들	L2	이장2회/전체2회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장1회/전체122회
+em	pron.	그들을(them의 구어체 축약형, 영국 구어)	L3	이장1회/전체48회
+within	prep.	~이내에	L2	이장1회/전체27회
+bet	v., n.	내기하다, 장담하다(구어)	L2	이장1회/전체26회
+kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장1회/전체24회
+lad	n.	소년, 젊은이	L2	이장1회/전체23회
+glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장1회/전체21회
+stare	v., n.	응시하다, 응시	L2	이장1회/전체20회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+grave	n., adj.	무덤, 엄숙한	L2	이장1회/전체16회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장1회/전체15회
+comrade	n.	동지, 동료	L2	이장1회/전체14회
+whitewash	v., n.	회칠하다, 백색 도료	L3	이장1회/전체14회
+bound	adj., v., n.	묶인, ~할 의무가 있는, ~행인; 도약하다	L2	이장1회/전체12회
+creature	n.	생물, 생명체	L2	이장1회/전체12회
+pin	n., v.	핀, 고정시키다	L2	이장1회/전체11회
+ceased	v.	멈추다, 중단하다	L2	이장1회/전체11회
+gratitude	n.	감사	L2	이장1회/전체11회
+bent	adj., v.	구부러진, (bend 과거분사), 부패한(영국 속어)	L2	이장1회/전체10회
+vast	adj.	광대한, 방대한	L2	이장1회/전체10회
+grass	n.,v.	잔디; 밀고하다(영국 속어)	L2	이장1회/전체10회
+dim	adj.	어둑한, 흐릿한	L2	이장1회/전체10회
+vague	adj.	모호한, 애매한	L2	이장1회/전체9회
+labor	n., v.	노동, 일, 애쓰다	L2	이장1회/전체9회
+proceed	v.	진행하다, 나아가다	L2	이장1회/전체9회
+marvel	v., n.	경탄하다; 경이	L2	이장1회/전체9회
+manner	n.	태도, 방식	L2	이장1회/전체9회
+passage	n.	(책의) 구절, 통로	L2	이장1회/전체8회
+titter	v., n.	킥킥 웃다; 킥킥거림	L3	이장1회/전체8회
+murmur	v., n.	중얼거리다; 속삭임	L2	이장1회/전체8회
+absorbed	v., adj.	몰두한, 흡수된	L2	이장1회/전체7회
+earnest	adj.	진지한, 성실한	L2	이장1회/전체7회
+splendor	n.	화려함, 장관	L3	이장1회/전체7회
+gasp	v., n.	숨이 턱 막히다, 헐떡임	L2	이장1회/전체7회
+splendid	adj.	멋진, 훌륭한	L2	이장1회/전체7회
+curiosity	n.	호기심	L2	이장1회/전체6회
+gal	n.	여자애, 아가씨(girl의 구어)	L3	이장1회/전체6회
+tedious	adj.	지루한, 따분한	L2	이장1회/전체6회

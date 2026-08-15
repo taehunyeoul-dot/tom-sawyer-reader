@@ -1,0 +1,80 @@
+marble	n.	대리석, 구슬	L2	이장8회/전체13회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장4회/전체82회
+outlaw	n.	무법자, 산적	L2	이장4회/전체6회
+doodle-bug	n.	개미귀신(개미지옥 벌레, 미국 구어)	L3	이장4회/전체4회
+upon	prep.	~위에(on보다 격식체)	L2	이장3회/전체146회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장3회/전체122회
+toss	v.	던지다, 뒤척이다	L2	이장3회/전체9회
+incantation	n.	주문, 주술	L3	이장3회/전체5회
+thou	pron.	그대(고어)	L3	이장3회/전체3회
+swear	v.	맹세하다, 욕하다	L2	이장2회/전체21회
+bury	v.	묻다, 매장하다	L2	이장2회/전체20회
+grave	n., adj.	무덤, 엄숙한	L2	이장2회/전체16회
+rotten	adj.	썩은, 형편없는	L2	이장2회/전체9회
+bow	n., v.	활, 절; 절하다, 굽히다	L2	이장2회/전체7회
+grieve	v.	슬퍼하다, 슬프게 하다	L2	이장2회/전체6회
+thee	pron.	그대를/에게(고어, you의 목적격)	L3	이장2회/전체6회
+blast	n., int.	폭발; (구어) 젠장	L2	이장2회/전체5회
+shingle	n.	지붕널, 지붕 판자	L3	이장2회/전체4회
+depression	n.	우울, 침울, 움푹 꺼진 곳	L2	이장2회/전체4회
+lively	adj.	활기찬, 생기 있는	L2	이장2회/전체4회
+superstition	n.	미신	L2	이장2회/전체3회
+bristling	adj., v.	빳빳이 선, 곤두선, 잔뜩 성난	L3	이장2회/전체2회
+treasure-house	n.	보물 창고	L2	이장2회/전체2회
+lath	n.	얇은 나무 판, 욋가지(목검용 판자)	L3	이장2회/전체2회
+merry	adj.	즐거운, 명랑한	L2	이장2회/전체2회
+sherwood	n.	셔우드(로빈 후드가 살던 숲 이름)	L2	이장2회/전체2회
+guisborne	n.	기즈번(로빈 후드 이야기의 기사 Guy of Guisborne)	L3	이장2회/전체2회
+within	prep.	~이내에	L2	이장1회/전체27회
+lane	n.	좁은 길, 골목	L2	이장1회/전체23회
+shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+comrade	n.	동지, 동료	L2	이장1회/전체14회
+seize	v.	붙잡다, 장악하다	L2	이장1회/전체14회
+aisle	n.	통로	L2	이장1회/전체13회
+shudder	v., n.	몸서리치다, 전율하다	L2	이장1회/전체12회
+bound	adj., v., n.	묶인, ~할 의무가 있는, ~행인; 도약하다	L2	이장1회/전체12회
+drag	v., n.	끌다, 끌기	L2	이장1회/전체12회
+bother	v.	신경 쓰다, 괴롭히다	L2	이장1회/전체11회
+forth	adv.	앞으로, 밖으로	L2	이장1회/전체11회
+grass	n.,v.	잔디; 밀고하다(영국 속어)	L2	이장1회/전체10회
+satisfy	v.	만족시키다	L2	이장1회/전체10회
+cautiously	adv.	조심스럽게	L2	이장1회/전체10회
+satisfactory	adj.	만족스러운	L2	이장1회/전체10회
+rather	adv.	오히려, 꽤, 다소	L2	이장1회/전체10회
+vague	adj.	모호한, 애매한	L2	이장1회/전체9회
+hollow	adj., n.	속이 빈, 공허한, 움푹 팬 곳	L2	이장1회/전체9회
+afterward	adv.	나중에, 그 후	L2	이장1회/전체8회
+fling	v., n.	던지다, 짧은 연애	L2	이장1회/전체8회
+whack	v., n.	세게 치다, 강타	L3	이장1회/전체8회
+sheriff	n.	보안관	L2	이장1회/전체8회
+glow	n., v.	은은한 빛, 빛나다	L2	이장1회/전체7회
+splendor	n.	화려함, 장관	L3	이장1회/전체7회
+panting	v., adj.	헐떡이는	L2	이장1회/전체7회
+determine	v.	결심하다, 결정하다	L2	이장1회/전체6회
+scrape	v., n.	긁다, 곤경, 궁지	L2	이장1회/전체6회
+tiptoe	v., n.	까치발로 걷다	L2	이장1회/전체6회
+feeble	adj.	미약한, 허약한	L2	이장1회/전체6회
+corpse	n.	시체	L2	이장1회/전체6회
+juvenile	adj., n.	소년의, 청소년의, 아이	L2	이장1회/전체5회
+profound	adj.	깊은, 심오한	L2	이장1회/전체5회
+chin	n.	턱	L2	이장1회/전체5회
+swell	v., n.	부풀다, 붓다, 팽창	L2	이장1회/전체5회
+utter	v., adj.	입 밖에 내다, 말하다, 완전한	L2	이장1회/전체5회
+perplexed	adj.	당황한, 어리둥절한	L2	이장1회/전체5회
+interfere	v.	간섭하다, 방해하다	L2	이장1회/전체5회
+fright	n.	공포, 놀람	L2	이장1회/전체5회
+elm	n.	느릅나무	L3	이장1회/전체5회
+warily	adv.	조심스럽게, 경계하며	L3	이장1회/전체5회
+civilization	n.	문명	L2	이장1회/전체5회
+thither	adv.	그쪽으로(고어)	L3	이장1회/전체4회
+summit	n.	정상, 꼭대기	L2	이장1회/전체4회
+dense	adj.	밀집한, 짙은	L2	이장1회/전체4회
+oak	n.	참나무, 떡갈나무	L2	이장1회/전체4회
+far-off	adj.	멀리 떨어진, 아득한	L2	이장1회/전체4회
+steep	adj.	가파른	L2	이장1회/전체4회
+accord	n., v.	일치, 자발적으로(of one's own accord), 부여하다	L2	이장1회/전체4회
+lately	adv.	최근에	L2	이장1회/전체4회
+prance	v.	뽐내며 걷다, 껑충거리다	L3	이장1회/전체4회

@@ -1,0 +1,80 @@
+upon	prep.	~위에(on보다 격식체)	L2	이장5회/전체146회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장5회/전체82회
+aisle	n.	통로	L2	이장5회/전체13회
+sermon	n.	설교	L2	이장4회/전체15회
+minister	n.	목사, 성직자	L2	이장4회/전체13회
+congregation	n.	(교회) 신자들, 회중	L2	이장3회/전체7회
+relief	n.	안도, 안심	L2	이장3회/전체7회
+weary	adj.	지친	L2	이장3회/전체7회
+lap	n.	무릎(앉을 때), (경주) 한 바퀴	L2	이장3회/전체5회
+choir	n.	합창단, 성가대	L2	이장3회/전체3회
+yelp	n., v.	꺅 소리 지르다, 캥캥 짖다	L3	이장3회/전체3회
+sigh	v., n.	한숨 쉬다, 한숨	L2	이장2회/전체15회
+snatch	v., n.	잽싸게 잡아채다	L2	이장2회/전체13회
+entirely	adv.	완전히	L2	이장2회/전체10회
+titter	v., n.	킥킥 웃다; 킥킥거림	L3	이장2회/전체8회
+resume	v.	다시 시작하다, 재개하다	L2	이장2회/전체7회
+nod	v., n.	끄덕이다, 끄덕임	L2	이장2회/전체6회
+pew	n.	(교회의) 신도석, 긴 의자	L2	이장2회/전체5회
+hymn	n.	찬송가	L2	이장2회/전체3회
+detect	v.	발견하다, 탐지하다	L2	이장2회/전체3회
+pinchbug	n.	집게벌레(사슴벌레의 일종, 미국 구어)	L3	이장2회/전체3회
+discourse	n., v.	설교, 강연, 이야기하다	L3	이장2회/전체2회
+widow	n.	미망인	L2	이장1회/전체39회
+within	prep.	~이내에	L2	이장1회/전체27회
+shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+instant	n., adj.	순간; 즉각적인	L2	이장1회/전체17회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+groan	v., n.	신음하다; 신음	L2	이장1회/전체15회
+trifle	n., v.	사소한 것, 조금, 가지고 놀다	L3	이장1회/전체15회
+seize	v.	붙잡다, 장악하다	L2	이장1회/전체14회
+distress	n., v.	고통, 괴로움; 괴롭히다	L2	이장1회/전체13회
+stretch	v., n.	늘이다, 뻗다, (길게 뻗은) 구간	L2	이장1회/전체12회
+creature	n.	생물, 생명체	L2	이장1회/전체12회
+bent	adj., v.	구부러진, (bend 과거분사), 부패한(영국 속어)	L2	이장1회/전체10회
+grateful	adj.	감사하는	L2	이장1회/전체10회
+spectacle	n.	광경, 구경거리, (복수) 안경	L2	이장1회/전체10회
+revenge	n.	복수	L2	이장1회/전체10회
+hush	n.,int.	정적; 쉿(조용히 해)	L2	이장1회/전체9회
+toss	v.	던지다, 뒤척이다	L2	이장1회/전체9회
+yield	v.	굴복하다, 내주다, 산출하다	L2	이장1회/전체9회
+prisoner	n.	죄수, 포로	L2	이장1회/전체9회
+solemn	adj.	엄숙한, 진지한	L2	이장1회/전체8회
+scarcely	adv.	거의 ~않다	L2	이장1회/전체8회
+fling	v., n.	던지다, 짧은 연애	L2	이장1회/전체8회
+torture	n., v.	고문	L2	이장1회/전체7회
+bore	v., n.	지루하게 하다; (bear의 과거형) 낳았다, 견뎠다; 지루한 사람	L2	이장1회/전체6회
+rustle	n., v.	바스락거리는 소리, 바스락거리다	L3	이장1회/전체6회
+scrape	v., n.	긁다, 곤경, 궁지	L2	이장1회/전체6회
+instantly	adv.	즉시	L2	이장1회/전체6회
+doom	n., v.	파멸, 운명, 운명 짓다	L2	이장1회/전체5회
+rid	adj., v.	없애다, ~에서 벗어난(get rid of)	L2	이장1회/전체5회
+pleaded	v.	애원했다, 간청했다	L2	이장1회/전체5회
+midst	n.	한가운데, 한복판	L2	이장1회/전체5회
+seldom	adv.	좀처럼 ~않는	L2	이장1회/전체5회
+jaws	n.	턱, 아가리	L2	이장1회/전체5회
+indifferent	adj.	무관심한	L2	이장1회/전체5회
+chin	n.	턱	L2	이장1회/전체5회
+yawn	v., n.	하품하다; 하품	L2	이장1회/전체5회
+agony	n.	극심한 고통, 괴로움	L2	이장1회/전체5회
+pronounced	adj., v.	뚜렷한, 현저한, 발음하다	L2	이장1회/전체5회
+peculiar	adj.	이상한, 특유의	L2	이장1회/전체4회
+plunged	v.	뛰어들었다, 급락했다	L2	이장1회/전체4회
+grace	n.	우아함, 은총, 식전 기도	L2	이장1회/전체4회
+endure	v.	견디다, 참다	L2	이장1회/전체4회
+vagrant	n., adj.	부랑자, 떠돌아다니는	L3	이장1회/전체4회
+idle	adj., v.	게으른, 한가한, 빈둥거리다	L2	이장1회/전체4회
+captivity	n.	감금, 포로 상태	L2	이장1회/전체4회
+drooping	adj., v.	축 늘어진, 고개 숙인	L2	이장1회/전체4회
+surveyed	v.	살펴보았다, 둘러보았다	L2	이장1회/전체4회
+descended	v.	내려갔다, 내려왔다	L2	이장1회/전체4회
+sufferer	n.	고통받는 사람, 환자	L2	이장1회/전체4회
+smothered	v., adj.	억눌린, 질식시켰다, 숨죽인	L2	이장1회/전체4회
+troop	n., v.	무리, 떼, 무리 지어 가다	L2	이장1회/전체3회
+vestibule	n.	현관, 입구 홀	L3	이장1회/전체3회
+assembled	v.	모였다, 모았다	L2	이장1회/전체3회
+steadily	adv.	꾸준히	L2	이장1회/전체3회
+ease	n., v.	편안함, 완화하다	L2	이장1회/전체3회
+county	n.	(영국) 주, 카운티	L2	이장1회/전체3회
+oppressed	adj., v.	짓눌린, 답답한, 억눌렀다(oppress의 과거)	L2	이장1회/전체3회

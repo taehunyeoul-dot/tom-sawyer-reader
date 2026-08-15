@@ -1,0 +1,70 @@
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장7회/전체122회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장4회/전체76회
+tavern	n.	선술집	L2	이장4회/전체18회
+dono	v.	몰라(don't know의 구어)	L3	이장3회/전체9회
+em	pron.	그들을(them의 구어체 축약형, 영국 구어)	L3	이장2회/전체48회
+revenge	n.	복수	L2	이장2회/전체10회
+tain't	v.	~이 아니다(it ain't/it isn't의 사투리)	L3	이장2회/전체9회
+lemme	v.	내가 ~하게 해줘(let me의 구어)	L3	이장2회/전체7회
+rot	v., n.	썩다, 부패	L2	이장2회/전체5회
+foller	v.	따라가다(follow의 사투리)	L3	이장2회/전체5회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장1회/전체82회
+mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장1회/전체26회
+bet	v., n.	내기하다, 장담하다(구어)	L2	이장1회/전체26회
+bout	n.	(질병·활동의) 한바탕, (권투) 시합	L2	이장1회/전체19회
+auntie	n.	아주머니, 이모(aunt의 애칭)	L2	이장1회/전체18회
+ha'nt	n., v.	유령, 귀신 들리다(haunt의 사투리)	L3	이장1회/전체16회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+snatch	v., n.	잽싸게 잡아채다	L2	이장1회/전체13회
+vast	adj.	광대한, 방대한	L2	이장1회/전체10회
+dim	adj.	어둑한, 흐릿한	L2	이장1회/전체10회
+rather	adv.	오히려, 꽤, 다소	L2	이장1회/전체10회
+vague	adj.	모호한, 애매한	L2	이장1회/전체9회
+lordy	int.	맙소사, 이런(Lord의 감탄, 미국 구어)	L3	이장1회/전체8회
+torment	v., n.	괴롭히다, 고통	L2	이장1회/전체7회
+splendid	adj.	멋진, 훌륭한	L2	이장1회/전체7회
+feller	n.	녀석, 사내(fellow의 사투리)	L3	이장1회/전체6회
+curiosity	n.	호기심	L2	이장1회/전체6회
+feeble	adj.	미약한, 허약한	L2	이장1회/전체6회
+possession	n.	소유(물)	L2	이장1회/전체5회
+misfortune	n.	불운, 불행	L2	이장1회/전체4회
+somewhat	adv.	다소, 약간	L2	이장1회/전체4회
+notion	n.	개념, 생각	L2	이장1회/전체4회
+curiously	adv.	호기심에서, 이상하게도	L2	이장1회/전체3회
+subdued	adj., v.	가라앉은, 차분해진, 억눌린	L2	이장1회/전체3회
+namely	adv.	즉, 다시 말해	L2	이장1회/전체3회
+mass	n., adj.	덩어리, 대량; 대규모의	L2	이장1회/전체3회
+reference	n.	언급, 참고	L2	이장1회/전체3회
+mere	adj.	단순한, 그저 ~에 불과한	L2	이장1회/전체3회
+handful	n.	한 줌, 소수	L2	이장1회/전체3회
+dangling	adj., v.	매달린, 매달리다(현재분사)	L2	이장1회/전체3회
+nip	v., n.	살짝 물다, 잽싸게 가다(영국 구어), 한입	L3	이장1회/전체3회
+lookout	n.	망보기, 감시, 전망	L2	이장1회/전체3회
+jingo	int.	이런!, 맙소사!(by jingo: 가벼운 맹세·감탄)	L3	이장1회/전체3회
+mightily	adv.	몹시, 대단히, 힘차게	L3	이장1회/전체2회
+forsook	v.	버렸다, 떠났다(forsake의 과거)	L3	이장1회/전체2회
+recalling	v.	떠올리다, 회상하다	L2	이장1회/전체2회
+uncertainty	n.	불확실함	L2	이장1회/전체2회
+listlessly	adv.	무기력하게, 힘없이	L3	이장1회/전체2회
+shaky	adj.	떨리는, 불안정한	L2	이장1회/전체2회
+goody	int., n.	신난다!, 좋아!(아이들 감탄사)	L3	이장1회/전체2회
+tavern-keeper	n.	여관 주인, 술집 주인	L3	이장1회/전체2회
+entertain	v.	즐겁게 하다, 접대하다	L2	이장1회/전체2회
+rattle	v., n.	덜컹거리다	L2	이장1회/전체2회
+nothingness	n.	무(無), 허무, 공허	L3	이장1회/전체1회
+wakefulness	n.	잠 못 이룸, 각성 상태	L3	이장1회/전체1회
+fanciful	adj.	공상적인, 기발한	L3	이장1회/전체1회
+analyzed	v.	분석했다	L2	이장1회/전체1회
+bushel	n.	부셸(곡물 단위, 약 35리터), 한 가득	L3	이장1회/전체1회
+ungraspable	adj.	붙잡을 수 없는, 이해할 수 없는	L3	이장1회/전체1회
+sensibly	adv.	분별 있게, 눈에 띄게	L2	이장1회/전체1회
+attrition	n.	마멸, 소모	L3	이장1회/전체1회
+impression	n.	인상, 느낌	L2	이장1회/전체1회
+gunwale	n.	뱃전(배의 윗가장자리)	L3	이장1회/전체1회
+flatboat	n.	너벅선, 바닥이 평평한 배	L3	이장1회/전체1회
+dog'd	v.	뒤를 밟다, 미행하다(dogged의 사투리 철자)	L3	이장1회/전체1회
+patch-eyed	adj.	안대를 한, 눈에 헝겊을 댄	L3	이장1회/전체1회
+so'd	adv.	그래서 ~할 것이다, ~도 그랬다(so would/so had의 축약)	L3	이장1회/전체1회
+one-horse	adj.	말 한 필이 끄는, 보잘것없는(작은 시골의)	L3	이장1회/전체1회
+ostentatious	adj.	과시하는, 허세부리는	L3	이장1회/전체1회
+doorkeys	n.	문 열쇠	L2	이장1회/전체1회

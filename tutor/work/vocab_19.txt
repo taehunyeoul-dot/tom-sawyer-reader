@@ -1,0 +1,36 @@
+auntie	n.	아주머니, 이모(aunt의 애칭)	L2	이장6회/전체18회
+bark	v., n.	(개가) 짖다, 나무껍질	L2	이장4회/전체10회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장2회/전체122회
+sorrow	n.	슬픔, 비애	L2	이장2회/전체9회
+grieve	v.	슬퍼하다, 슬프게 하다	L2	이장2회/전체6회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장1회/전체76회
+drown	v.	익사하다, 물에 빠뜨리다	L2	이장1회/전체15회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장1회/전체15회
+pity	n., v.	동정, 유감; 동정하다	L2	이장1회/전체11회
+bother	v.	신경 쓰다, 괴롭히다	L2	이장1회/전체11회
+moan	v., n.	신음하다, 투덜대다(영국 구어), 신음	L2	이장1회/전체9회
+venture	v., n.	감히 ~하다, 모험	L2	이장1회/전체9회
+deed	n.	행위; 증서	L2	이장1회/전체8회
+seek	v.	찾다, 추구하다	L2	이장1회/전체8회
+dreary	adj.	음울한, 쓸쓸한	L3	이장1회/전체7회
+musing	v., n.	생각에 잠긴, 사색	L3	이장1회/전체6회
+uneasy	adj.	불안한	L2	이장1회/전체5회
+notion	n.	개념, 생각	L2	이장1회/전체4회
+garment	n.	옷, 의복	L2	이장1회/전체4회
+rubbage	n.	쓰레기, 헛소리(rubbish의 사투리)	L3	이장1회/전체3회
+behold	v.	보다(옛말), (감탄) 보라	L3	이장1회/전체3회
+merely	adv.	그저, 단지	L2	이장1회/전체3회
+aspect	n.	모습, 표정, 측면	L2	이장1회/전체2회
+shabby	adj.	초라한, 허름한	L2	이장1회/전체2회
+fortified	v., adj.	강화했다, 요새화된, 마음을 굳게 한	L3	이장1회/전체2회
+committee	n.	위원회	L2	이장1회/전체2회
+unpromising	adj.	가망 없어 보이는, 유망하지 않은	L3	이장1회/전체1회
+softy	n.	물러터진 사람, 겁쟁이	L3	이장1회/전체1회
+lo	int.	보라!(옛말, lo and behold=아니나 다를까)	L3	이장1회/전체1회
+smartness	n.	영리함, 약삭빠름, 멋	L2	이장1회/전체1회
+ingenious	adj.	독창적인, 기발한	L2	이장1회/전체1회
+thankfullest	adj.	가장 감사하는(thankful의 최상급, 구어)	L3	이장1회/전체1회
+tenderness	n.	다정함, 부드러움	L2	이장1회/전체1회
+tremor	n.	떨림, 전율	L2	이장1회/전체1회
+good-heartedness	n.	착한 마음씨	L3	이장1회/전체1회
+refrained	v.	삼갔다, 참았다	L2	이장1회/전체1회

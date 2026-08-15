@@ -1,0 +1,80 @@
+whitewash	v., n.	회칠하다, 백색 도료	L3	이장12회/전체14회
+ting-a-ling-ling	int.	딸랑딸랑(종소리 의성어)	L3	이장7회/전체7회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장4회/전체122회
+roun	adv., prep.	둘레에, 주위에(round/around의 사투리)	L3	이장3회/전체19회
+surveyed	v.	살펴보았다, 둘러보았다	L2	이장3회/전체4회
+pail	n.	양동이	L2	이장3회/전체3회
+ole	adj.	늙은, 오래된(old의 사투리)	L3	이장3회/전체3회
+missis	n.	마님, 부인(mistress/Mrs.의 구어)	L3	이장3회/전체3회
+stabboard	n.	우현(배의 오른쪽; starboard의 사투리)	L3	이장3회/전체3회
+upon	prep.	~위에(on보다 격식체)	L2	이장2회/전체146회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장2회/전체82회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장2회/전체76회
+marble	n.	대리석, 구슬	L2	이장2회/전체13회
+circumstance	n.	상황, 환경	L2	이장2회/전체10회
+hollow	adj., n.	속이 빈, 공허한, 움푹 팬 곳	L2	이장2회/전체9회
+marvel	v., n.	경탄하다; 경이	L2	이장2회/전체9회
+stump	n., v.	그루터기, 쩔쩔매게 하다	L2	이장2회/전체8회
+lemme	v.	내가 ~하게 해줘(let me의 구어)	L3	이장2회/전체7회
+worldly	adj.	세속적인, 이 세상의	L2	이장2회/전체4회
+obliged	adj., v.	고마운, ~해야 했다, 은혜를 입은	L2	이장2회/전체4회
+tole	v.	말했다(told의 사투리)	L3	이장2회/전체2회
+de	adj.	그(the의 흑인 사투리)	L3	이장2회/전체2회
+ding-dong-dong	n., int.	댕댕댕(종소리)	L3	이장2회/전체2회
+personating	v.	~인 체하다, 흉내내다(impersonate의 옛 형태)	L3	이장2회/전체2회
+steamboat	n.	증기선	L2	이장2회/전체2회
+chow	int.	칙칙, 푹푹(벤 로저스가 흉내 내는 증기선 소리)	L3	이장2회/전체2회
+labboard	n.	좌현(배의 왼쪽; larboard의 사투리)	L3	이장2회/전체2회
+sh't	int.	쉿!(조용히 하라는 소리, sh의 구어 표기)	L3	이장2회/전체2회
+em	pron.	그들을(them의 구어체 축약형, 영국 구어)	L3	이장1회/전체48회
+mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장1회/전체26회
+lane	n.	좁은 길, 골목	L2	이장1회/전체23회
+stare	v., n.	응시하다, 응시	L2	이장1회/전체20회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+fetch	v.	가서 가져오다	L2	이장1회/전체16회
+lick	v., n.	때리다, 이기다(구어), 핥다, 매질	L2	이장1회/전체16회
+warn't	v.	~이 아니었다(wasn't/weren't의 사투리)	L3	이장1회/전체16회
+sigh	v., n.	한숨 쉬다, 한숨	L2	이장1회/전체15회
+awhile	adv.	잠시, 잠깐	L2	이장1회/전체15회
+melancholy	n., adj.	우울함, 우울한	L3	이장1회/전체14회
+forth	adv.	앞으로, 밖으로	L2	이장1회/전체11회
+bent	adj., v.	구부러진, (bend 과거분사), 부패한(영국 속어)	L2	이장1회/전체10회
+sorrow	n.	슬픔, 비애	L2	이장1회/전체9회
+dread	v., n.	두려워하다, 공포	L2	이장1회/전체9회
+tackle	v., n.	다루다, 맞붙다; 태클	L2	이장1회/전체9회
+shucks	int.	쳇, 에이(실망·겸손의 미국 구어)	L3	이장1회/전체9회
+git	v.	얻다, 가다(get의 사투리)	L3	이장1회/전체8회
+deed	n.	행위; 증서	L2	이장1회/전체8회
+whack	v., n.	세게 치다, 강타	L3	이장1회/전체8회
+contemplate	v.	심사숙고하다	L2	이장1회/전체8회
+afeard	adj.	두려워하는(afraid의 옛말·사투리)	L3	이장1회/전체8회
+considerable	adj.	상당한	L2	이장1회/전체8회
+resume	v.	다시 시작하다, 재개하다	L2	이장1회/전체7회
+absorbed	v., adj.	몰두한, 흡수된	L2	이장1회/전체7회
+plank	n.	널빤지, 판자	L2	이장1회/전체6회
+gal	n.	여자애, 아가씨(girl의 구어)	L3	이장1회/전체6회
+off'n	prep.	~에서, ~로부터(off of의 사투리)	L3	이장1회/전체6회
+bully	n., v.	괴롭히는 사람; 괴롭히다	L2	이장1회/전체6회
+sore	adj.	아픈, 쓰라린	L2	이장1회/전체6회
+chap	n.	녀석, 사내	L2	이장1회/전체6회
+retired	v.	물러났다, 잠자리에 들었다	L2	이장1회/전체6회
+brass	n., adj.	놋쇠, (영국 구어) 돈	L2	이장1회/전체6회
+hateful	adj.	혐오스러운	L2	이장1회/전체5회
+examine	v.	조사하다, 검사하다	L2	이장1회/전체5회
+interval	n.	간격, 사이	L2	이장1회/전체5회
+lack	n., v.	부족; 부족하다	L2	이장1회/전체5회
+swing	v., n.	흔들다, 휘두르다; 그네	L2	이장1회/전체5회
+discouraged	adj., v.	낙담한, 낙담시켰다	L2	이장1회/전체4회
+negro	n.	흑인(옛말, 현대에는 쓰지 않는 표현)	L3	이장1회/전체4회
+skylarking	v., n.	장난치며 떠들기, 야단법석(구어)	L3	이장1회/전체4회
+hove	v.	던졌다, 끌어올렸다(heave의 과거)	L3	이장1회/전체4회
+lively	adj.	활기찬, 생기 있는	L2	이장1회/전체4회
+alongside	prep., adv.	~와 나란히	L2	이장1회/전체4회
+a-swimming	v.	헤엄치고 있는(swimming의 사투리, a- 접두형)	L3	이장1회/전체4회
+consent	n., v.	동의(하다)	L2	이장1회/전체4회
+idle	adj., v.	게으른, 한가한, 빈둥거리다	L2	이장1회/전체4회
+bloom	n., v.	꽃, 개화, 꽃피다	L2	이장1회/전체3회
+burden	n., v.	부담, 짐(을 지우다)	L2	이장1회/전체3회
+quarrel	n., v.	말다툼, 다투다	L2	이장1회/전체3회
+gimme	int.	"give me"의 구어 축약형	L3	이장1회/전체3회

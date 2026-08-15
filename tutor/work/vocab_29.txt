@@ -1,0 +1,80 @@
+widow	n.	미망인	L2	이장6회/전체39회
+upon	prep.	~위에(on보다 격식체)	L2	이장5회/전체146회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장5회/전체82회
+by-and-by	adv.	이윽고, 곧, 나중에(옛말)	L3	이장4회/전체12회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장3회/전체122회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장3회/전체76회
+ferryboat	n.	나룻배, 연락선	L2	이장3회/전체10회
+sumach	n.	옻나무류(sumac, 붉나무)	L3	이장3회/전체6회
+straggle	v.	뒤처져 흩어져 가다, 낙오하다	L3	이장3회/전체5회
+labyrinth	n.	미로	L3	이장3회/전체3회
+quarry	n.	채석장, 사냥감	L2	이장3회/전체3회
+horsewhipped	v.	말채찍으로 후려쳤다(horsewhip의 과거)	L3	이장3회/전체3회
+within	prep.	~이내에	L2	이장2회/전체27회
+lad	n.	소년, 젊은이	L2	이장2회/전체23회
+bury	v.	묻다, 매장하다	L2	이장2회/전체20회
+delight	n., v.	기쁨; 기쁘게 하다	L2	이장2회/전체11회
+satisfactory	adj.	만족스러운	L2	이장2회/전체10회
+revenge	n.	복수	L2	이장2회/전체10회
+venture	v., n.	감히 ~하다, 모험	L2	이장2회/전체9회
+gloom	n.	어둠, 우울함	L2	이장2회/전체8회
+procession	n.	행렬, 행진	L2	이장2회/전체7회
+straightway	adv.	즉시, 곧바로(옛말)	L3	이장2회/전체4회
+astonish	v.	깜짝 놀라게 하다	L2	이장2회/전체4회
+anticipation	n.	기대	L2	이장2회/전체3회
+sped	v.	질주했다(speed의 과거형)	L2	이장2회/전체3회
+lofty	adj.	높은, 고상한, 거만한	L3	이장2회/전체2회
+wharf	n.	부두, 선창	L2	이장2회/전체2회
+bet	v., n.	내기하다, 장담하다(구어)	L2	이장1회/전체26회
+kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장1회/전체24회
+tavern	n.	선술집	L2	이장1회/전체18회
+instant	n., adj.	순간; 즉각적인	L2	이장1회/전체17회
+bear	v., n.	참다, 견디다, (아이를) 낳다, 곰	L2	이장1회/전체15회
+struggle	v., n.	애쓰다, 몸부림치다, 투쟁	L2	이장1회/전체15회
+slip	v., n.	미끄러지다, 실수	L2	이장1회/전체15회
+awhile	adv.	잠시, 잠깐	L2	이장1회/전체15회
+aisle	n.	통로	L2	이장1회/전체13회
+remark	v., n.	말하다, 발언	L2	이장1회/전체13회
+ceased	v.	멈추다, 중단하다	L2	이장1회/전체11회
+gratitude	n.	감사	L2	이장1회/전체11회
+row	n.	줄, 말다툼(영국 구어)	L2	이장1회/전체11회
+exclaimed	v.	외쳤다, 소리쳤다	L2	이장1회/전체11회
+vast	adj.	광대한, 방대한	L2	이장1회/전체10회
+dismal	adj.	음침한, 우울한	L3	이장1회/전체10회
+clay	n.	진흙, 점토	L2	이장1회/전체10회
+entirely	adv.	완전히	L2	이장1회/전체10회
+cautiously	adv.	조심스럽게	L2	이장1회/전체10회
+shucks	int.	쳇, 에이(실망·겸손의 미국 구어)	L3	이장1회/전체9회
+yield	v.	굴복하다, 내주다, 산출하다	L2	이장1회/전체9회
+hollow	adj., n.	속이 빈, 공허한, 움푹 팬 곳	L2	이장1회/전체9회
+camp	n., adj.	야영지, 캠프; (연기가) 과장된, 야한(영국 구어)	L2	이장1회/전체9회
+reveal	v.	드러내다, 밝히다	L2	이장1회/전체9회
+nigger	n.	흑인(현대에는 쓰지 않는 심한 비하어)	L3	이장1회/전체9회
+stillness	n.	고요, 정적	L2	이장1회/전체9회
+thrust	v., n.	밀어붙이다, 찌르다; 요지	L2	이장1회/전체8회
+splendid	adj.	멋진, 훌륭한	L2	이장1회/전체7회
+panting	v., adj.	헐떡이는	L2	이장1회/전체7회
+weary	adj.	지친	L2	이장1회/전체7회
+determine	v.	결심하다, 결정하다	L2	이장1회/전체6회
+mysterious	adj.	신비로운, 수상한	L2	이장1회/전체6회
+rank	n., adj.	계급, 지위; (냄새가) 지독한(주로 부정적)	L3	이장1회/전체6회
+haunted	adj.	유령이 나오는, 시달리는	L2	이장1회/전체6회
+tiptoe	v., n.	까치발로 걷다	L2	이장1회/전체6회
+appoint	v.	임명하다, (시간·장소를) 정하다	L2	이장1회/전체5회
+maow	int.	야옹(고양이 울음소리, meow의 변형 철자)	L3	이장1회/전체5회
+reflect	v.	곰곰이 생각하다, 반사하다	L2	이장1회/전체5회
+ashore	adv.	물가로, 뭍으로	L2	이장1회/전체5회
+feast	n., v.	잔치, 축제	L2	이장1회/전체5회
+aside	adv.	옆으로, 따로	L2	이장1회/전체5회
+drip	v., n.	똑똑 떨어지다, 물방울	L2	이장1회/전체5회
+altogether	adv.	전적으로, 완전히, 통틀어	L2	이장1회/전체5회
+stile	n.	울타리 넘는 디딤대(층계형 발판)	L3	이장1회/전체5회
+shiver	v., n.	떨다, 몸서리	L2	이장1회/전체5회
+consent	n., v.	동의(하다)	L2	이장1회/전체4회
+giddy	adj.	어지러운, 들뜬	L2	이장1회/전체4회
+throng	n., v.	군중; 떼지어 모이다	L3	이장1회/전체4회
+oak	n.	참나무, 떡갈나무	L2	이장1회/전체4회
+steep	adj.	가파른	L2	이장1회/전체4회
+overhead	adv., adj.	머리 위의	L2	이장1회/전체4회
+tangle	n., v.	엉킴, 엉키다	L2	이장1회/전체4회
+summit	n.	정상, 꼭대기	L2	이장1회/전체4회

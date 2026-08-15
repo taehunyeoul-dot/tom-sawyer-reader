@@ -1,0 +1,49 @@
+clew	n.	실마리, 단서(clue의 옛 철자)	L3	이장2회/전체3회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+conscience	n.	양심	L2	이장1회/전체14회
+gratitude	n.	감사	L2	이장1회/전체11회
+fellow	n., adj.	동료, 녀석(구어)	L2	이장1회/전체9회
+dread	v., n.	두려워하다, 공포	L2	이장1회/전체9회
+marvel	v., n.	경탄하다; 경이	L2	이장1회/전체9회
+splendor	n.	화려함, 장관	L3	이장1회/전체7회
+bosom	n.	가슴, 품	L3	이장1회/전체6회
+conduct	n., v.	행실, 행동, 이끌다	L2	이장1회/전체6회
+sore	adj.	아픈, 쓰라린	L2	이장1회/전체6회
+oath	n.	맹세, 서약, 욕설	L2	이장1회/전체6회
+corpse	n.	시체	L2	이장1회/전체6회
+abuse	n., v.	학대, 남용; 학대하다	L2	이장1회/전체5회
+doom	n., v.	파멸, 운명, 운명 짓다	L2	이장1회/전체5회
+trial	n.	재판, 시련, 시도	L2	이장1회/전체4회
+glittering	adj.	반짝이는, 눈부신	L2	이장1회/전체3회
+exultation	n.	환희, 크게 기뻐함	L3	이장1회/전체3회
+nightfall	n.	해질녘, 땅거미	L2	이장1회/전체3회
+harassed	adj., v.	시달린, 괴롭힘을 당한(harass의 과거)	L2	이장1회/전체3회
+wring	v.	쥐어짜다, (손을) 비틀다	L3	이장1회/전체3회
+formidable	adj.	만만찮은, 강력한	L2	이장1회/전체3회
+nightly	adv., adj.	밤마다, 매일 밤의	L2	이장1회/전체3회
+astounding	adj.	놀라운, 경악할 만한	L2	이장1회/전체3회
+persuade	v.	설득하다	L2	이장1회/전체2회
+wretchedness	n.	비참함	L3	이장1회/전체2회
+notwithstanding	prep., adv.	~에도 불구하고	L3	이장1회/전체2회
+testifying	v.	증언하다	L2	이장1회/전체2회
+attorney	n.	변호사	L2	이장1회/전체2회
+secrecy	n.	비밀 (유지)	L2	이장1회/전체2회
+wellnigh	adv.	거의(옛말)	L3	이장1회/전체2회
+craft	n.	배, 선박, 기술, 술책	L2	이장1회/전체2회
+apprehension	n.	불안, 우려; 체포	L2	이장1회/전체2회
+immortal	adj.	불멸의, 영원한	L2	이장1회/전체1회
+magnified	v.	확대하다, 과장하다	L2	이장1회/전체1회
+fickle	adj.	변덕스러운	L2	이장1회/전체1회
+unreasoning	adj.	이성을 잃은, 분별없는	L3	이장1회/전체1회
+fondled	v.	애무했다, 어루만졌다	L2	이장1회/전체1회
+lavishly	adv.	아낌없이, 호화롭게	L3	이장1회/전체1회
+infested	adj., v.	들끓는, 우글거리다	L3	이장1회/전체1회
+leak	n., v.	누출, 새다, 유출하다	L2	이장1회/전체1회
+dismalest	adj.	가장 음침한, 가장 우울한(dismal의 최상급)	L3	이장1회/전체1회
+obliterated	adj.	완전히 파괴된, 지워진	L3	이장1회/전체1회
+scoured	v.	샅샅이 뒤지다, 문질러 닦다	L2	이장1회/전체1회
+omniscient	adj.	전지한, 모든 것을 아는	L3	이장1회/전체1회
+awe-inspiring	adj.	경외심을 일으키는	L3	이장1회/전체1회
+moused	v.	(쥐 잡는 고양이처럼) 뒤지고 다니다	L3	이장1회/전체1회
+insecure	adj.	불안한, 안전하지 않은	L2	이장1회/전체1회

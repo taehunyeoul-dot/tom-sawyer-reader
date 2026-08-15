@@ -1,0 +1,80 @@
+upon	prep.	~위에(on보다 격식체)	L2	이장17회/전체146회
+presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장5회/전체82회
+drown	v.	익사하다, 물에 빠뜨리다	L2	이장4회/전체15회
+grass	n.,v.	잔디; 밀고하다(영국 속어)	L2	이장4회/전체10회
+em	pron.	그들을(them의 구어체 축약형, 영국 구어)	L3	이장3회/전체48회
+exclaimed	v.	외쳤다, 소리쳤다	L2	이장3회/전체11회
+gradually	adv.	점차, 서서히	L2	이장3회/전체10회
+ferryboat	n.	나룻배, 연락선	L2	이장3회/전체10회
+camp	n., adj.	야영지, 캠프; (연기가) 과장된, 야한(영국 구어)	L2	이장3회/전체9회
+lady-bug	n.	무당벌레	L2	이장3회/전체3회
+kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장2회/전체24회
+skiff	n.	작은 배, 소형 보트	L3	이장2회/전체14회
+creature	n.	생물, 생명체	L2	이장2회/전체12회
+dim	adj.	어둑한, 흐릿한	L2	이장2회/전체10회
+cautiously	adv.	조심스럽게	L2	이장2회/전체10회
+solemn	adj.	엄숙한, 진지한	L2	이장2회/전체8회
+civilization	n.	문명	L2	이장2회/전체5회
+nook	n.	구석, 아늑한 곳	L3	이장2회/전체5회
+astonish	v.	깜짝 놀라게 하다	L2	이장2회/전체4회
+lump	n.	덩어리	L2	이장2회/전체4회
+sandbar	n.	모래톱, 사주	L3	이장2회/전체3회
+boom	n., v.	쾅 하는 소리, 울리다, 굉음	L2	이장2회/전체3회
+inspect	v.	살펴보다, 검사하다	L2	이장2회/전체2회
+open-air	adj.	야외의, 옥외의	L2	이장2회/전체2회
+ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장1회/전체122회
+reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장1회/전체76회
+within	prep.	~이내에	L2	이장1회/전체27회
+lad	n.	소년, 젊은이	L2	이장1회/전체23회
+clothe	v.	옷을 입히다, (clothes) 옷	L2	이장1회/전체21회
+glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장1회/전체21회
+hardly	adv.	거의 ~않다	L2	이장1회/전체19회
+tick	n., v.	진드기, (시계가) 똑딱거리다	L2	이장1회/전체18회
+drift	v., n.	떠돌다, 표류하다	L2	이장1회/전체18회
+burst	v., n.	터지다, 갑자기 ~하다; 폭발	L2	이장1회/전체17회
+instant	n., adj.	순간; 즉각적인	L2	이장1회/전체17회
+struggle	v., n.	애쓰다, 몸부림치다, 투쟁	L2	이장1회/전체15회
+sigh	v., n.	한숨 쉬다, 한숨	L2	이장1회/전체15회
+creep	v.	살금살금 기다, 기어가다	L2	이장1회/전체14회
+raft	n.	뗏목, 다수	L2	이장1회/전체13회
+becuz	conj.	왜냐하면(because의 사투리)	L3	이장1회/전체13회
+distress	n., v.	고통, 괴로움; 괴롭히다	L2	이장1회/전체13회
+marble	n.	대리석, 구슬	L2	이장1회/전체13회
+drag	v., n.	끌다, 끌기	L2	이장1회/전체12회
+delight	n., v.	기쁨; 기쁘게 하다	L2	이장1회/전체11회
+row	n.	줄, 말다툼(영국 구어)	L2	이장1회/전체11회
+ceased	v.	멈추다, 중단하다	L2	이장1회/전체11회
+gaze	v., n.	응시하다, 시선	L2	이장1회/전체11회
+bent	adj., v.	구부러진, (bend 과거분사), 부패한(영국 속어)	L2	이장1회/전체10회
+bark	v., n.	(개가) 짖다, 나무껍질	L2	이장1회/전체10회
+marvel	v., n.	경탄하다; 경이	L2	이장1회/전체9회
+proceed	v.	진행하다, 나아가다	L2	이장1회/전체9회
+labor	n., v.	노동, 일, 애쓰다	L2	이장1회/전체9회
+fellow	n., adj.	동료, 녀석(구어)	L2	이장1회/전체9회
+stillness	n.	고요, 정적	L2	이장1회/전체9회
+tain't	v.	~이 아니다(it ain't/it isn't의 사투리)	L3	이장1회/전체9회
+hush	n.,int.	정적; 쉿(조용히 해)	L2	이장1회/전체9회
+reveal	v.	드러내다, 밝히다	L2	이장1회/전체9회
+venture	v., n.	감히 ~하다, 모험	L2	이장1회/전체9회
+snore	v., n.	코를 골다	L2	이장1회/전체9회
+scarcely	adv.	거의 ~않다	L2	이장1회/전체8회
+fling	v., n.	던지다, 짧은 연애	L2	이장1회/전체8회
+stone	n.	돌, 스톤(영국식 무게 단위, 약 6.35kg)	L2	이장1회/전체7회
+procession	n.	행렬, 행진	L2	이장1회/전체7회
+hogshead	n.	큰 통(약 240리터들이 나무통)	L3	이장1회/전체7회
+mourn	v.	슬퍼하다, 애도하다	L2	이장1회/전체7회
+twilight	n.	황혼, 땅거미	L2	이장1회/전체7회
+musing	v., n.	생각에 잠긴, 사색	L3	이장1회/전체6회
+curiosity	n.	호기심	L2	이장1회/전체6회
+mysterious	adj.	신비로운, 수상한	L2	이장1회/전체6회
+determine	v.	결심하다, 결정하다	L2	이장1회/전체6회
+departed	v., adj.	떠났다, 죽은	L2	이장1회/전체6회
+scrape	v., n.	긁다, 곤경, 궁지	L2	이장1회/전체6회
+nod	v., n.	끄덕이다, 끄덕임	L2	이장1회/전체6회
+tiptoe	v., n.	까치발로 걷다	L2	이장1회/전체6회
+interval	n.	간격, 사이	L2	이장1회/전체5회
+tumbling	v.	굴러떨어지다, 뒹굴다	L2	이장1회/전체5회
+blaze	n., v.	화염, 불길, 활활 타다	L2	이장1회/전체5회
+provision	n.	식량, 준비, 조항	L2	이장1회/전체5회
+reflect	v.	곰곰이 생각하다, 반사하다	L2	이장1회/전체5회
+solemnity	n.	엄숙함, 장엄함	L3	이장1회/전체5회
