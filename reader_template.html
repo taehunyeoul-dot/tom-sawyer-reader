@@ -431,6 +431,10 @@ const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
 const CH=BOOK.chapters;
 const norm=w=>w.toLowerCase().replace(/[’‘]/g,"'").replace(/^['-]+|['-]+$/g,'');
 function lookupIdx(w){
+  // ’bout, ’em 처럼 아포스트로피로 시작하는 사투리 축약형을 먼저 그대로 찾는다
+  const raw=String(w).toLowerCase().replace(/[’‘]/g,"'");
+  if(raw[0]==="'"&&RD.forms[raw]!==undefined)return RD.forms[raw];
+  if(raw[0]==="'"){const cut=raw.replace(/[^a-z']+$/,''); if(RD.forms[cut]!==undefined)return RD.forms[cut];}
   w=norm(w); if(!w)return -1;
   if(RD.forms[w]!==undefined)return RD.forms[w];
   if(w.endsWith("'s")&&RD.forms[w.slice(0,-2)]!==undefined)return RD.forms[w.slice(0,-2)];
@@ -662,7 +666,7 @@ function applyTextStyle(){
 }
 // 문장 하나를 HTML 로: 단어를 span 으로 감싸고, (가이드가 있으면) 주어·동사 표시와 의미 단위 경계를 넣는다
 function renderSent(s,lk,sy){
-  const re=/[A-Za-z][A-Za-z’'-]*/g; let out='', last=0, m;
+  const re=/[’']?[A-Za-z][A-Za-z’'-]*/g; let out='', last=0, m;
   const chunks=sy?sy[2]:[]; let ci=0; const showLabels=s.split(/\s+/).length>=6;
   const Ss=sy&&sy[0]?sy[0]:null, Vs=sy&&sy[1]?sy[1]:null;
   while((m=re.exec(s))){

@@ -83,6 +83,35 @@ for fn in sorted(glob.glob(D('tutor', 'guide_*.json'))):
         print(f"  ! {os.path.basename(fn)} JSON 오류: {e}")
 print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 경고 {warn}건")
 
+# --- 아포스트로피 축약형(’bout, ’em …)을 어휘 목록 뒤에 덧붙인다 -----------
+#     본문에서 이런 형태를 누르면 앞의 아포스트로피가 잘려 엉뚱한 단어로 연결되던 것을 막는다.
+import collections as _c
+cpath = D('data', 'contractions.json')
+n_contr = 0
+if os.path.exists(cpath):
+    text_all = ' '.join(s for c in book['chapters'] for pa in c['paras'] for s in pa)
+    norm_all = text_all.replace('’', "'")
+    sent_at = {}
+    for c in book['chapters']:
+        for pi, pa in enumerate(c['paras']):
+            for si, sn in enumerate(pa):
+                sent_at.setdefault(sn.replace('’', "'").lower(), f"{c['n']}.{pi}.{si}")
+    for w, gl in json.load(open(cpath, encoding='utf-8'))['words'].items():
+        n = len(re.findall(re.escape(w) + r"[A-Za-z]*", norm_all, re.I))
+        if not n: continue
+        ex, cid = '', ''
+        for sn_l, sid in sent_at.items():
+            if re.search(re.escape(w) + r"[A-Za-z]*", sn_l, re.I) and 40 < len(sn_l) < 220:
+                # 원문 그대로를 찾아 넣는다
+                nn, pi, si = sid.split('.')
+                ex = book['chapters'][int(nn) - 1]['paras'][int(pi)][int(si)][:220]; cid = sid; break
+        idx = len(vocab)
+        vocab.append({'w': w, 'p': gl['p'], 'm': gl['m'], 'l': gl['l'], 'n': n, 'f': [], 'e': ex, 'c': cid})
+        rd['forms'][w] = idx
+        rd['first'][str(idx)] = int(cid.split('.')[0]) if cid else 1
+        n_contr += 1
+print(f"축약형 {n_contr}개를 어휘에 추가")
+
 # --- HTML 조립 ---------------------------------------------------------------
 tpl = open(D('reader_template.html'), encoding='utf-8').read()
 J = lambda o: json.dumps(o, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
