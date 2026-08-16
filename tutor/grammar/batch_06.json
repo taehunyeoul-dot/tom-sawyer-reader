@@ -1,0 +1,238 @@
+{
+ "it_dummy": {
+  "name": "가주어·가목적어 it — It is ~ to …",
+  "group": "명사·대명사",
+  "count": 10,
+  "ex": [
+   {
+    "id": "4.34.7",
+    "en": "It is not necessary to set down the rest of the oration."
+   },
+   {
+    "id": "4.34.8",
+    "en": "It was of a pattern which does not vary, and so it is familiar to us all."
+   },
+   {
+    "id": "16.18.1",
+    "en": "And then it was discomforting to see Huck eying Joe’s preparations so wistfully, and keeping up such an ominous silence."
+   },
+   {
+    "id": "24.1.1",
+    "en": "But that sort of conduct is to the world’s credit; therefore it is not well to find fault with it."
+   },
+   {
+    "id": "29.14.2",
+    "en": "So it was decided to say nothing to anybody about the night’s programme."
+   },
+   {
+    "id": "29.17.15",
+    "en": "Most of the young men knew a portion of it, and it was not customary to venture much beyond this known portion."
+   },
+   {
+    "id": "31.31.3",
+    "en": "They found one presently, and Tom said it was time to rest again."
+   }
+  ],
+  "order": 41
+ },
+ "phrasal": {
+  "name": "구동사 — 동사 + 부사 (put out, give up)",
+  "group": "부사·전치사",
+  "count": 697,
+  "ex": [
+   {
+    "id": "1.49.8",
+    "en": "He had shoes on—and it was only Friday."
+   },
+   {
+    "id": "7.0.1",
+    "en": "So at last, with a sigh and a yawn, he gave it up."
+   },
+   {
+    "id": "9.44.7",
+    "en": "Potter took out a large spring-knife and cut off the dangling end of the rope and then said:"
+   },
+   {
+    "id": "18.82.5",
+    "en": "I don’t care for them!” and burst into tears, and got up and walked away."
+   },
+   {
+    "id": "22.0.6",
+    "en": "Sometimes his hopes ran high—so high that he would venture to get out his regalia and practise before the looking-glass."
+   },
+   {
+    "id": "29.15.0",
+    "en": "Three miles below town the ferryboat stopped at the mouth of a woody hollow and tied up."
+   },
+   {
+    "id": "31.56.4",
+    "en": "Tom said that they must have been missed long ago, and no doubt the search was going on."
+   },
+   {
+    "id": "31.64.4",
+    "en": "At the end of twenty steps the corridor ended in a “jumping-off place.”"
+   }
+  ],
+  "order": 42
+ },
+ "freq_adv": {
+  "name": "빈도부사 — always/never/often 의 자리",
+  "group": "부사·전치사",
+  "count": 201,
+  "ex": [
+   {
+    "id": "1.46.1",
+    "en": "Confound it! sometimes she sews it with white, and sometimes she sews it with black."
+   },
+   {
+    "id": "3.6.2",
+    "en": "And then she diluted the compliment by adding, “But it’s powerful seldom you’re a mind to, I’m bound to say."
+   },
+   {
+    "id": "12.4.2",
+    "en": "He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her."
+   },
+   {
+    "id": "12.15.0",
+    "en": "“Deed I don’t know, Aunt Polly; cats always act so when they’re having a good time.”"
+   },
+   {
+    "id": "18.61.0",
+    "en": "“I was in Miss Peters’ class, where I always go."
+   },
+   {
+    "id": "26.8.0",
+    "en": "“Well, I never said I was, did I?"
+   },
+   {
+    "id": "28.3.1",
+    "en": "The boys never stopped till they reached the shed of a deserted slaughter-house at the lower end of the village."
+   },
+   {
+    "id": "29.29.1",
+    "en": "Give it up and maybe never have another chance."
+   }
+  ],
+  "order": 43
+ },
+ "prep_ing": {
+  "name": "전치사 + ~ing (without saying, after eating)",
+  "group": "부사·전치사",
+  "count": 192,
+  "ex": [
+   {
+    "id": "3.6.2",
+    "en": "And then she diluted the compliment by adding, “But it’s powerful seldom you’re a mind to, I’m bound to say."
+   },
+   {
+    "id": "12.4.2",
+    "en": "He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her."
+   },
+   {
+    "id": "13.61.8",
+    "en": "So they inwardly resolved that so long as they remained in the business, their piracies should not again be sullied with the crime of stealing."
+   },
+   {
+    "id": "16.58.2",
+    "en": "One blinding flash after another came, and peal on peal of deafening thunder."
+   },
+   {
+    "id": "23.46.1",
+    "en": "Every eye fastened itself with wondering interest upon Tom as he rose and took his place upon the stand."
+   },
+   {
+    "id": "26.43.2",
+    "en": "I’ll take the chances on dropping into this town just once more, for a look."
+   },
+   {
+    "id": "30.23.3",
+    "en": "Well, just then along comes these two chaps slipping along close by me, with something under their arm, and I reckoned they’d stole it."
+   },
+   {
+    "id": "31.15.2",
+    "en": "The call went echoing down the empty aisles and died out in the distance in a faint sound that resembled a ripple of mocking laughter."
+   }
+  ],
+  "order": 44
+ },
+ "imperative": {
+  "name": "명령문 — 동사로 시작하는 문장",
+  "group": "특수 구문",
+  "count": 73,
+  "ex": [
+   {
+    "id": "1.22.7",
+    "en": "Spare the rod and spile the child, as the Good Book says."
+   },
+   {
+    "id": "2.19.10",
+    "en": "Take a turn round that stump with the bight of it!"
+   },
+   {
+    "id": "9.59.4",
+    "en": "Tell me, Joe—honest, now, old feller—did I do it?"
+   },
+   {
+    "id": "10.9.1",
+    "en": "S’pose something happened and Injun Joe didn’t hang?"
+   },
+   {
+    "id": "27.15.2",
+    "en": "Say, Huck—maybe it’s the number of a house!”"
+   },
+   {
+    "id": "30.75.1",
+    "en": "Lie down, child—what a turn you did give me!”"
+   },
+   {
+    "id": "33.41.1",
+    "en": "Hive them in the cave till they raise a ransom.”"
+   },
+   {
+    "id": "35.22.1",
+    "en": "Come along, old chap, and I’ll ask the widow to let up on you a little, Huck.”"
+   }
+  ],
+  "order": 45
+ },
+ "cleft": {
+  "name": "강조 구문 — It was ~ that …",
+  "group": "특수 구문",
+  "count": 22,
+  "ex": [
+   {
+    "id": "4.52.3",
+    "en": "He said to himself, it is not possible that the boy can answer the simplest question—why did the Judge ask him?"
+   },
+   {
+    "id": "8.9.1",
+    "en": "So it was a witch that done it."
+   },
+   {
+    "id": "12.30.1",
+    "en": "It was noticed that this strange thing had been occurring every day latterly."
+   },
+   {
+    "id": "18.54.2",
+    "en": "It was this: “Pretty thin—as long a dream as that, without any mistakes in it!”"
+   },
+   {
+    "id": "30.0.1",
+    "en": "The inmates were asleep, but it was a sleep that was set on a hair-trigger, on account of the exciting episode of the night."
+   },
+   {
+    "id": "30.14.0",
+    "en": "“Oh, please don’t tell anybody it was me that blowed on them!"
+   },
+   {
+    "id": "31.56.0",
+    "en": "How long afterward it was that Becky came to a slow consciousness that she was crying in Tom’s arms, neither could tell."
+   },
+   {
+    "id": "33.9.2",
+    "en": "It was that very night that I follered Injun Joe to the widder’s.”"
+   }
+  ],
+  "order": 46
+ }
+}

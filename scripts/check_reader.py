@@ -40,7 +40,10 @@ with sync_playwright() as p:
     pg.click('#drawer .x')
     for t in ['srs', 'struct', 'stats', 'help']:
         pg.click(f'nav button[data-t="{t}"]'); pg.wait_for_timeout(300)
-    print('문장구조 카드:', pg.locator('#sw .sc').count())
+    pg.click('nav button[data-t="struct"]'); pg.wait_for_timeout(400)
+    print('문법 주제:', pg.locator('#gTopics .gt').count(), '개')
+    pg.click('#gsub button[data-v="struct"]'); pg.wait_for_timeout(400)
+    print('이 소설의 문장 습관:', pg.locator('#sw .sc').count(), '개')
     pg.evaluate("localStorage.removeItem('ts_reader_v1')")   # 점검용 기록은 남기지 않는다
     b.close()
 print('자바스크립트 오류:', errs or '없음')

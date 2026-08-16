@@ -28,6 +28,7 @@ book = json.load(open(D('data', 'book.json'), encoding='utf-8'))
 vocab = json.load(open(D('data', 'vocab.json'), encoding='utf-8'))
 rd = json.load(open(D('data', 'reader_data.json'), encoding='utf-8'))
 syntax = json.load(open(D('data', 'syntax.json'), encoding='utf-8'))
+grammar = json.load(open(D('data', 'grammar.json'), encoding='utf-8')) if os.path.exists(D('data', 'grammar.json')) else {'groups': [], 'topics': []}
 structs = json.load(open(D('data', 'structures.json'), encoding='utf-8'))
 
 
@@ -81,7 +82,7 @@ for fn in sorted(glob.glob(D('tutor', 'guide_*.json'))):
         guides.append(json.load(open(fn, encoding='utf-8')))
     except Exception as e:
         print(f"  ! {os.path.basename(fn)} JSON 오류: {e}")
-print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 경고 {warn}건")
+print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 문법 주제 {len(grammar.get('topics', []))}개 / 경고 {warn}건")
 
 # --- 아포스트로피 축약형(’bout, ’em …)을 어휘 목록 뒤에 덧붙인다 -----------
 #     본문에서 이런 형태를 누르면 앞의 아포스트로피가 잘려 엉뚱한 단어로 연결되던 것을 막는다.
@@ -121,7 +122,8 @@ html = (tpl.replace('/*__BOOK__*/', J(book))
            .replace('/*__STRUCT__*/', J(structs))
            .replace('/*__ANALYSES__*/', J(analyses))
            .replace('/*__GUIDES__*/', J(guides))
-           .replace('/*__SYNTAX__*/', J(syntax)))
+           .replace('/*__SYNTAX__*/', J(syntax))
+           .replace('/*__GRAMMAR__*/', J(grammar)))
 out = D('index.html')
 # 서비스 워커의 캐시 버전을 빌드 시각으로 바꿔 옛 캐시가 남지 않게 한다
 import time as _t

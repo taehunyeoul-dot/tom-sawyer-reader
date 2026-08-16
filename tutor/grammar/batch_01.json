@@ -1,0 +1,314 @@
+{
+ "past_perf": {
+  "name": "과거완료 — had + 과거분사 (그보다 더 이전)",
+  "group": "시제",
+  "count": 293,
+  "ex": [
+   {
+    "id": "1.48.0",
+    "en": "Within two minutes, or even less, he had forgotten all his troubles."
+   },
+   {
+    "id": "3.8.4",
+    "en": "His soul was at peace, now that he had settled with Sid for calling attention to his black thread and getting him into trouble."
+   },
+   {
+    "id": "5.11.0",
+    "en": "By this time the whole church was red-faced and suffocating with suppressed laughter, and the sermon had come to a dead standstill."
+   },
+   {
+    "id": "7.1.0",
+    "en": "Tom’s bosom friend sat next him, suffering just as Tom had been, and now he was deeply and gratefully interested in this entertainment in an instant."
+   },
+   {
+    "id": "11.1.3",
+    "en": "Horsemen had departed down all the roads in every direction, and the Sheriff “was confident” that he would be captured before night."
+   },
+   {
+    "id": "12.0.2",
+    "en": "Tom had struggled with his pride a few days, and tried to “whistle her down the wind,” but failed."
+   },
+   {
+    "id": "27.10.1",
+    "en": "If them stairs hadn’t broke down you’d ’a’ seen how much dream it was!"
+   },
+   {
+    "id": "31.62.7",
+    "en": "They listened; evidently the distant shoutings were growing more distant! a moment or two more and they had gone altogether."
+   }
+  ],
+  "order": 1
+ },
+ "past_prog": {
+  "name": "과거진행 — was/were + ~ing",
+  "group": "시제",
+  "count": 167,
+  "ex": [
+   {
+    "id": "10.66.9",
+    "en": "They turned and saw the strange dog standing within a few feet of where Potter was lying, and facing Potter, with his nose pointing heavenward."
+   },
+   {
+    "id": "10.74.0",
+    "en": "After breakfast his aunt took him aside, and Tom almost brightened in the hope that he was going to be flogged; but it was not so."
+   },
+   {
+    "id": "20.0.0",
+    "en": "There was something about Aunt Polly’s manner, when she kissed Tom, that swept away his low spirits and made him lighthearted and happy again."
+   },
+   {
+    "id": "20.5.3",
+    "en": "Every day he took a mysterious book out of his desk and absorbed himself in it at times when no classes were reciting."
+   },
+   {
+    "id": "21.5.1",
+    "en": "Then there were reading exercises, and a spelling fight."
+   },
+   {
+    "id": "26.52.1",
+    "en": "Injun Joe sat up, stared around—smiled grimly upon his comrade, whose head was drooping upon his knees—stirred him up with his foot and said:"
+   },
+   {
+    "id": "28.8.1",
+    "en": "He was lying there, sound asleep on the floor, with his old patch on his eye and his arms spread out.”"
+   },
+   {
+    "id": "35.5.4",
+    "en": "Huck had slept there; he had just breakfasted upon some stolen odds and ends of food, and was lying off, now, in comfort, with his pipe."
+   }
+  ],
+  "order": 2
+ },
+ "pres_perf": {
+  "name": "현재완료 — have/has + 과거분사",
+  "group": "시제",
+  "count": 92,
+  "ex": [
+   {
+    "id": "6.124.0",
+    "en": "“Thomas Sawyer, this is the most astounding confession I have ever listened to."
+   },
+   {
+    "id": "9.42.3",
+    "en": "He was so close the boys could have touched him."
+   },
+   {
+    "id": "16.58.6",
+    "en": "They could not talk, the old sail flapped so furiously, even if the other noises would have allowed them."
+   },
+   {
+    "id": "26.88.6",
+    "en": "But for that, Injun Joe never would have suspected."
+   },
+   {
+    "id": "28.2.5",
+    "en": "Surely he must have fainted; maybe he was dead; maybe his heart had burst under terror and excitement."
+   },
+   {
+    "id": "28.16.1",
+    "en": "Maybe all the Temperance Taverns have got a ha’nted room, hey, Huck?”"
+   },
+   {
+    "id": "31.56.4",
+    "en": "Tom said that they must have been missed long ago, and no doubt the search was going on."
+   },
+   {
+    "id": "31.64.10",
+    "en": "But the echoes must have disguised the voice."
+   }
+  ],
+  "order": 3
+ },
+ "future": {
+  "name": "will / be going to — 앞으로 할 일",
+  "group": "시제",
+  "count": 59,
+  "ex": [
+   {
+    "id": "1.72.1",
+    "en": "I dare you to knock it off—and anybody that’ll take a dare will suck eggs.”"
+   },
+   {
+    "id": "1.96.1",
+    "en": "Anybody that’ll take a dare will steal sheep.”"
+   },
+   {
+    "id": "10.26.1",
+    "en": "He at once took a pin from his lapel and was going to prick his flesh, but Tom said:"
+   },
+   {
+    "id": "19.28.2",
+    "en": "I hope the Lord—I know the Lord will forgive him, because it was such good-heartedness in him to tell it."
+   },
+   {
+    "id": "20.12.6",
+    "en": "Old Dobbins will ask who it was tore his book."
+   },
+   {
+    "id": "26.86.3",
+    "en": "It will be dark in fifteen minutes—and then let them follow us if they want to."
+   },
+   {
+    "id": "29.22.3",
+    "en": "Good, thought Huck, they will bury it in the old quarry."
+   },
+   {
+    "id": "29.26.3",
+    "en": "Then he remembered that the Widow Douglas had been kind to him more than once, and maybe these men were going to murder her."
+   }
+  ],
+  "order": 4
+ },
+ "past_perf_prog": {
+  "name": "과거완료진행 — had been + ~ing",
+  "group": "시제",
+  "count": 9,
+  "ex": [
+   {
+    "id": "2.14.1",
+    "en": "Ben Rogers hove in sight presently—the very boy, of all boys, whose ridicule he had been dreading."
+   },
+   {
+    "id": "12.30.1",
+    "en": "It was noticed that this strange thing had been occurring every day latterly."
+   },
+   {
+    "id": "29.19.1",
+    "en": "Then they were astonished to find that they had been taking no note of time and that night was about at hand."
+   },
+   {
+    "id": "29.19.2",
+    "en": "The clanging bell had been calling for half an hour."
+   },
+   {
+    "id": "30.38.0",
+    "en": "If the words had been lightning they could not have leaped with a more stunning suddenness from Huck’s blanched lips."
+   },
+   {
+    "id": "35.5.6",
+    "en": "Tom routed him out, told him the trouble he had been causing, and urged him to go home."
+   }
+  ],
+  "order": 5
+ },
+ "used_to": {
+  "name": "used to / would — 예전에 늘 하던 일",
+  "group": "시제",
+  "count": 9,
+  "ex": [
+   {
+    "id": "10.62.2",
+    "en": "Pap used to sleep there, sometimes, ’long with the hogs, but laws bless you, he just lifts things when he snores."
+   },
+   {
+    "id": "13.40.0",
+    "en": "“You see,” said Tom, “people don’t go much on hermits, nowadays, like they used to in old times, but a pirate’s always respected."
+   },
+   {
+    "id": "25.56.3",
+    "en": "Why, they used to fight all the time."
+   },
+   {
+    "id": "26.58.0",
+    "en": "“No—but I’d say come in the night as we used to do—it’s better.”"
+   },
+   {
+    "id": "26.73.0",
+    "en": "“’Twas always said that Murrel’s gang used to be around here one summer,” the stranger observed."
+   },
+   {
+    "id": "33.92.0",
+    "en": "Huck said with some apprehension—for he was long used to being falsely accused:"
+   },
+   {
+    "id": "34.2.0",
+    "en": "“Well, I ain’t used to that kind of a crowd."
+   },
+   {
+    "id": "35.6.2",
+    "en": "It ain’t for me; I ain’t used to it."
+   }
+  ],
+  "order": 6
+ },
+ "to_obj": {
+  "name": "to부정사 — ~하는 것을(목적어·보어)",
+  "group": "동사 뒤",
+  "count": 678,
+  "ex": [
+   {
+    "id": "1.22.9",
+    "en": "He’s full of the Old Scratch, but laws-a-me! he’s my own dead sister’s boy, poor thing, and I ain’t got the heart to lash him, somehow."
+   },
+   {
+    "id": "2.7.1",
+    "en": "She never licks anybody—whacks ’em over the head with her thimble—and who cares for that, I’d like to know."
+   },
+   {
+    "id": "4.43.0",
+    "en": "Amy Lawrence was proud and glad, and she tried to make Tom see it in her face—but he wouldn’t look."
+   },
+   {
+    "id": "6.128.1",
+    "en": "Presently the boy began to steal furtive glances at the girl."
+   },
+   {
+    "id": "15.5.3",
+    "en": "He never meant any harm, and he was the best-hearted boy that ever was”—and she began to cry."
+   },
+   {
+    "id": "18.78.1",
+    "en": "And he kept drifting about to find Becky and lacerate her with the performance."
+   },
+   {
+    "id": "19.3.2",
+    "en": "Tom, I don’t know what is to become of a boy that will act like that."
+   },
+   {
+    "id": "33.44.1",
+    "en": "I believe it’s better’n to be a pirate.”"
+   }
+  ],
+  "order": 7
+ },
+ "v_o_to": {
+  "name": "동사 + 목적어 + to부정사 (want him to go)",
+  "group": "동사 뒤",
+  "count": 471,
+  "ex": [
+   {
+    "id": "2.7.1",
+    "en": "She never licks anybody—whacks ’em over the head with her thimble—and who cares for that, I’d like to know."
+   },
+   {
+    "id": "7.6.0",
+    "en": "“I only just want to stir him up a little, Joe.”"
+   },
+   {
+    "id": "14.28.4",
+    "en": "He picked up and inspected several large semi-cylinders of the thin white bark of a sycamore, and finally chose two which seemed to suit him."
+   },
+   {
+    "id": "18.69.1",
+    "en": "You going to have all the girls and boys?”"
+   },
+   {
+    "id": "22.14.1",
+    "en": "The boy’s first impulse was to be grateful, and reform."
+   },
+   {
+    "id": "23.40.2",
+    "en": "Did this attorney mean to throw away his client’s life without an effort?"
+   },
+   {
+    "id": "24.1.1",
+    "en": "But that sort of conduct is to the world’s credit; therefore it is not well to find fault with it."
+   },
+   {
+    "id": "27.26.0",
+    "en": "“Lordy, I don’t want to foller him by myself!”"
+   }
+  ],
+  "order": 8
+ }
+}

@@ -244,6 +244,41 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .wbtn .btn.on{background:var(--chip);border-color:var(--cobalt-soft);color:var(--cobalt-deep)}
 .wrow.known .wtop{opacity:.42}
 .wrow.incard .wtop .ww{color:var(--accent2)}
+/* ---- 문법 탭 ------------------------------------------------------- */
+.gsub{display:flex;gap:5px;margin-bottom:12px}
+.gsub button{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 4px;
+  font-size:12.5px;font-weight:650;color:var(--muted);font-family:inherit}
+.gsub button.on{background:var(--cobalt-wash);border-color:var(--cobalt);color:var(--cobalt-deep)}
+.gt{border-top:1px solid var(--rule)}
+.gt:first-child{border-top:0}
+.gth{display:flex;flex-direction:column;align-items:flex-start;gap:3px;width:100%;background:none;border:0;
+  padding:11px 2px;text-align:left;font-family:inherit}
+.gt.open .gth{padding-bottom:4px}
+.gth .gname{font-size:14px;font-weight:650;color:var(--ink);line-height:1.4}
+.gt.open .gth .gname{color:var(--cobalt-deep)}
+.gth .gmeta{display:flex;gap:7px;align-items:center;font-size:11px;color:var(--muted);flex-wrap:wrap}
+.gth .gmeta .ok{color:var(--l1);font-weight:700}
+.gth .gmeta .qs{font-family:var(--mono);color:var(--cobalt)}
+.gd{padding:2px 2px 14px}
+.gwhy{margin:0 0 8px;font-size:13px;color:var(--muted);line-height:1.6}
+.gform{font-family:var(--serif);background:var(--soft);border-left:3px solid var(--cobalt);
+  padding:9px 12px;border-radius:0 6px 6px 0;font-size:14.5px;margin:0 0 10px;overflow-wrap:break-word}
+.gex{margin:0;font-size:13.5px;line-height:1.75}
+.gexs{display:grid;gap:8px}
+.gexi{border:1px solid var(--rule);border-radius:8px;padding:9px 11px;cursor:pointer;background:var(--paper)}
+.gexi:hover{background:var(--soft);border-color:var(--cobalt-soft)}
+.gexi .en{font-family:var(--serif);font-size:15px;line-height:1.55;overflow-wrap:break-word}
+.gexi .ko{font-size:12.5px;color:#4a5265;margin-top:4px;line-height:1.55}
+.gexi .nt{font-size:11.5px;color:var(--cobalt-deep);background:var(--chip);border-radius:4px;
+  padding:4px 7px;margin-top:6px;line-height:1.5}
+.gexi .loc{font-family:var(--mono);font-size:9.5px;color:var(--cobalt-soft);margin-top:5px}
+.gqz{margin-top:10px;padding-top:10px;border-top:1px dashed var(--rule)}
+.gopt{display:block;width:100%;text-align:left;font-family:var(--serif);font-size:14px;line-height:1.5;
+  border:1px solid var(--line);background:var(--panel);border-radius:7px;padding:9px 11px;margin-top:6px}
+.gopt:hover{background:var(--soft)}
+.gopt.ok{background:#e6f2ea;border-color:var(--l1)}
+.gopt.no{background:var(--brick-wash);border-color:var(--brick)}
+.gqz .fb{margin-top:8px;font-size:13px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
 .totop{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
@@ -389,7 +424,7 @@ tr.incard td .w{color:var(--accent2)}
   <nav><div class="wrap">
     <button class="on" data-t="read">읽기</button>
     <button data-t="srs">단어<span class="badge hide" id="dueBadge">0</span></button>
-    <button data-t="struct">문장구조</button>
+    <button data-t="struct">문법</button>
     <button data-t="stats">기록</button>
     <button data-t="help">사용법</button>
   </div></nav>
@@ -439,16 +474,26 @@ tr.incard td .w{color:var(--accent2)}
 
 <!-- ================= 문장구조 ================= -->
 <section class="tab" id="t-struct">
-  <div class="card">
-    <h3 style="margin:0 0 4px">이 소설의 문장구조 18유형</h3>
-    <p class="note" style="margin:0">각 유형의 설명 아래 <b>"본문에서 찾기"</b>를 누르면 실제 문장이 나오고, 문장을 누르면 그 자리로 이동합니다. 본문을 읽다가 문장을 눌렀을 때 뜨는 유형 표시도 여기로 연결됩니다.</p>
+  <div class="gsub" id="gsub">
+    <button class="on" data-v="topics">문법 주제</button>
+    <button data-v="struct">이 소설의 문장 습관</button>
+    <button data-v="practice">주어·동사 연습</button>
   </div>
-  <div class="card">
-    <h3 style="margin:0 0 4px">연습 — 주어·동사 찾기 (지금 읽는 장에서)</h3>
-    <p class="note" style="margin:0 0 8px">문장 구조 파악의 출발점은 <b>주절의 주어와 동사</b>를 찾는 것입니다. 하루 5문장이면 충분합니다.</p>
-    <div id="qzbox2"><button class="btn" id="qzStart2">시작</button></div>
+  <div id="gTopics"></div>
+  <div id="gStruct" class="hide">
+    <div class="card">
+      <h3 style="margin:0 0 4px">이 소설에 자주 나오는 문장 습관 18가지</h3>
+      <p class="note" style="margin:0">문법 주제와 달리, 트웨인이 <b>이 소설에서 특히 즐겨 쓰는 문장 버릇</b>입니다. 각 설명 아래 <b>"본문에서 찾기"</b>를 누르면 실제 문장이 나옵니다.</p>
+    </div>
+    <div id="sw"></div>
   </div>
-  <div id="sw"></div>
+  <div id="gPractice" class="hide">
+    <div class="card">
+      <h3 style="margin:0 0 4px">주어·동사 찾기 (지금 읽는 장에서)</h3>
+      <p class="note" style="margin:0 0 8px">문장 구조 파악의 출발점은 <b>주절의 주어와 동사</b>를 찾는 것입니다. 하루 5문장이면 충분합니다.</p>
+      <div id="qzbox2"><button class="btn" id="qzStart2">시작</button></div>
+    </div>
+  </div>
 </section>
 
 <!-- ================= 기록 ================= -->
@@ -528,6 +573,7 @@ const STRUCT=/*__STRUCT__*/;
 const ANALYSES=/*__ANALYSES__*/;
 const GUIDES=/*__GUIDES__*/;
 const SYNTAX=/*__SYNTAX__*/;
+const GRAMMAR=/*__GRAMMAR__*/;
 
 /* ================= 공통 ================= */
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
@@ -542,7 +588,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -569,7 +615,7 @@ $$('nav button').forEach(b=>b.onclick=()=>showTab(b.dataset.t));
 function showTab(t){
   $$('nav button').forEach(x=>x.classList.toggle('on',x.dataset.t===t));
   $$('section.tab').forEach(x=>x.classList.toggle('on',x.id==='t-'+t));
-  if(t==='srs')renderSRS(); if(t==='stats')renderStats(); if(t==='struct')renderStruct();
+  if(t==='srs')renderSRS(); if(t==='stats')renderStats(); if(t==='struct')renderGrammarTab();
   renderReadbar();
   window.scrollTo(0,0);
 }
@@ -1189,7 +1235,125 @@ $('#addq').oninput=()=>{
   $$('#addres [data-add]').forEach(b=>b.onclick=()=>{const i=+b.dataset.add;if(!S.cards[i]){addCard(i,null);delete S.known[i];save();}rvQueue=[];$('#addq').oninput();renderSRS();});
 };
 
-/* ================= 문장구조 ================= */
+/* ================= 문법 ================= */
+let gView='topics', gGroup='전체', gOpen=null;
+function gState(){ S.gram=S.gram||{done:{},quiz:{}}; return S.gram; }
+function renderGrammarTab(){
+  const sub=$('#gsub');
+  if(!sub.dataset.bound){ sub.dataset.bound='1';
+    sub.querySelectorAll('button').forEach(b=>b.onclick=()=>{gView=b.dataset.v;renderGrammarTab();window.scrollTo(0,0);}); }
+  sub.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.v===gView));
+  $('#gTopics').classList.toggle('hide',gView!=='topics');
+  $('#gStruct').classList.toggle('hide',gView!=='struct');
+  $('#gPractice').classList.toggle('hide',gView!=='practice');
+  if(gView==='topics')renderTopics();
+  else if(gView==='struct')renderStruct();
+  else { const b=$('#qzStart2'); if(b)b.onclick=()=>renderQuiz('#qzbox2',S.cur.ch,5); }
+}
+function renderTopics(){
+  const g=gState(), T=GRAMMAR.topics;
+  const done=T.filter(t=>g.done[t.code]).length;
+  const groups=['전체'].concat(GRAMMAR.groups);
+  let html=`<div class="card">
+    <h3 style="margin:0 0 4px">문법 주제 ${T.length}가지</h3>
+    <p class="note" style="margin:0 0 8px">설명은 이 앱에서 새로 쓴 것이고, <b>예문은 전부 톰 소여 본문에서 뽑은 실제 문장</b>입니다. 예문을 누르면 소설의 그 자리로 갑니다.</p>
+    <div class="meter"><i style="width:${T.length?done/T.length*100:0}%"></i></div>
+    <p class="note" style="margin:6px 0 0">학습 완료 <b>${done}</b> / ${T.length}</p>
+  </div>
+  <div class="card" style="padding:10px 12px"><div class="row" style="gap:5px">
+    ${groups.map(x=>`<button class="chip ${gGroup===x?'on':''}" data-g="${esc(x)}">${esc(x)}</button>`).join('')}
+  </div></div>`;
+  const list=T.filter(t=>gGroup==='전체'||t.group===gGroup);
+  html+=`<div class="card" style="padding:6px 10px">`+list.map(t=>{
+    const on=gOpen===t.code, ok=!!g.done[t.code];
+    const q=g.quiz[t.code];
+    return `<div class="gt ${on?'open':''}">
+      <button class="gth" data-t="${t.code}">
+        <span class="gname">${esc(t.name)}</span>
+        <span class="gmeta">${ok?'<b class="ok">완료</b>':''}${q?`<span class="qs">${q.ok}/${q.total}</span>`:''}<span class="cnt">본문 ${t.count.toLocaleString()}회</span></span>
+      </button>
+      ${on?gDetail(t):''}
+    </div>`;
+  }).join('')+`</div>`;
+  $('#gTopics').innerHTML=html;
+  $$('#gTopics .chip[data-g]').forEach(b=>b.onclick=()=>{gGroup=b.dataset.g;gOpen=null;renderTopics();});
+  $$('#gTopics .gth').forEach(b=>b.onclick=()=>{gOpen=gOpen===b.dataset.t?null:b.dataset.t;renderTopics();
+    if(gOpen){const el=document.querySelector(`.gth[data-t="${gOpen}"]`);if(el)setTimeout(()=>el.scrollIntoView({block:'start',behavior:'smooth'}),40);}});
+  bindDetail();
+}
+function gDetail(t){
+  return `<div class="gd">
+    ${t.why?`<p class="gwhy">${t.why}</p>`:''}
+    <div class="gform">${t.formula}</div>
+    <p class="gex">${t.explain}</p>
+    ${t.read?`<div class="tip"><b>읽을 때</b> — ${t.read}</div>`:''}
+    ${t.trap?`<div class="why"><b>주의</b> — ${t.trap}</div>`:''}
+    <h4 style="margin:14px 0 4px;font-size:12.5px;color:var(--accent)">소설 속 실제 예문</h4>
+    <div class="gexs">${t.ex.map(e=>`<div class="gexi" data-go="${e.id}">
+      <div class="en">${esc(e.en)}</div>
+      <div class="ko">${esc(e.ko)}</div>
+      ${e.note?`<div class="nt">${e.note}</div>`:''}
+      <div class="loc">${e.id.split('.')[0]}장 · 눌러서 본문으로</div>
+    </div>`).join('')}</div>
+    <div class="row" style="margin-top:12px;gap:6px">
+      <button class="btn sm" data-quiz="${t.code}">연습 — 이 문법이 쓰인 문장 찾기</button>
+      <button class="btn sm ${gState().done[t.code]?'grn':''}" data-done="${t.code}">${gState().done[t.code]?'학습 완료 ✓':'학습 완료로 표시'}</button>
+    </div>
+    <div id="gq_${t.code}"></div>
+  </div>`;
+}
+function bindDetail(){
+  $$('#gTopics .gexi').forEach(el=>el.onclick=()=>gotoSentence(el.dataset.go));
+  $$('#gTopics [data-done]').forEach(b=>b.onclick=e=>{e.stopPropagation();
+    const g=gState(), c=b.dataset.done; if(g.done[c])delete g.done[c]; else g.done[c]=dayNum(); save(); renderTopics();});
+  $$('#gTopics [data-quiz]').forEach(b=>b.onclick=e=>{e.stopPropagation(); gQuiz(b.dataset.quiz);});
+}
+function gotoSentence(id){
+  const n=+id.split('.')[0];
+  showTab('read');
+  S.cur.ch=n; S.cur.phase='read'; S.cur.sid=id; save();
+  renderChList(); renderReadbar(); renderPane();
+  setTimeout(()=>{const el=document.querySelector(`[data-id="${id}"]`);
+    if(el){el.scrollIntoView({block:'center'});el.classList.add('speaking');setTimeout(()=>el.classList.remove('speaking'),1800);}},120);
+}
+/* 연습: 네 문장 중 이 문법이 쓰인 것 고르기 (오답은 '이 문법이 안 쓰인 문장'만 뽑는다) */
+function gQuiz(code){
+  const t=GRAMMAR.topics.find(x=>x.code===code); if(!t)return;
+  const box=$('#gq_'+code); if(!box)return;
+  const hit=new Set(t.all||[]);
+  const all=[];
+  CH.forEach(c=>c.paras.forEach((p,pi)=>p.forEach((s,si)=>{const id=`${c.n}.${pi}.${si}`;
+    const w=s.split(/\s+/).length; if(w>=8&&w<=24)all.push(id);})));
+  let qi=0, ok=0; const N=5;
+  const draw=()=>{
+    if(qi>=N){ const g=gState(); g.quiz[code]={ok,total:N}; save();
+      box.innerHTML=`<div class="gqz"><p style="font-size:15px;margin:0 0 6px"><b>${ok} / ${N}</b> ${ok>=4?'— 이 문법은 눈에 들어옵니다.':'— 예문을 다시 한 번 보고 오세요.'}</p>
+        <button class="btn sm" data-again="1">다시 5문제</button></div>`;
+      box.querySelector('[data-again]').onclick=()=>gQuiz(code); renderTopicsMeta(code); return; }
+    const pool=(t.quiz||[]).filter(i=>i);
+    const correct=pool[Math.floor(Math.random()*pool.length)];
+    const wrong=[]; let guard=0;
+    while(wrong.length<3&&guard++<400){ const c2=all[Math.floor(Math.random()*all.length)];
+      if(!hit.has(c2)&&c2!==correct&&!wrong.includes(c2))wrong.push(c2); }
+    const opts=[correct].concat(wrong).sort(()=>Math.random()-0.5);
+    box.innerHTML=`<div class="gqz"><div class="note">${qi+1} / ${N} · <b>${esc(t.name.split('—')[0].trim())}</b>이(가) 쓰인 문장은?</div>
+      ${opts.map(id=>`<button class="gopt" data-id="${id}">${esc(sentById(id))}</button>`).join('')}
+      <div class="fb" id="gfb_${code}"></div></div>`;
+    box.querySelectorAll('.gopt').forEach(b=>b.onclick=ev=>{ev.stopPropagation();
+      if(box.querySelector('.gopt.ok'))return;
+      const good=b.dataset.id===correct;
+      if(good){ok++;b.classList.add('ok');}else{b.classList.add('no');
+        const c3=box.querySelector(`.gopt[data-id="${correct}"]`); if(c3)c3.classList.add('ok');}
+      $('#gfb_'+code).innerHTML=(good?'<span style="color:var(--accent2)">맞았습니다.</span>':'<span style="color:var(--red)">아쉽네요.</span>')+
+        ` <button class="btn sm" data-next="1">다음 →</button>`;
+      $('#gfb_'+code).querySelector('[data-next]').onclick=e2=>{e2.stopPropagation();qi++;draw();};
+    });
+  };
+  draw();
+}
+function renderTopicsMeta(){ /* 점수만 갱신하려고 전체를 다시 그리지는 않는다 */ }
+
+/* ================= 이 소설의 문장 습관(18유형) ================= */
 let structDone=false;
 function renderStruct(){
   const b2=$('#qzStart2'); if(b2)b2.onclick=()=>renderQuiz('#qzbox2',S.cur.ch,5);

@@ -1,0 +1,318 @@
+{
+ "rel_comma": {
+  "name": "쉼표 + who/which — 덧붙여 설명하기",
+  "group": "절 잇기",
+  "count": 33,
+  "ex": [
+   {
+    "id": "3.0.0",
+    "en": "Tom presented himself before Aunt Polly, who was sitting by an open window in a pleasant rearward apartment, which was bedroom, breakfast-room, dining-room, and library, combined."
+   },
+   {
+    "id": "9.48.0",
+    "en": "“Yes, and you done more than that,” said Injun Joe, approaching the doctor, who was now standing."
+   },
+   {
+    "id": "16.6.0",
+    "en": "But it roused only faint enthusiasm, which faded out, with no reply."
+   },
+   {
+    "id": "17.6.1",
+    "en": "One poor chap, who had no other grandeur to offer, said with tolerably manifest pride in the remembrance:"
+   },
+   {
+    "id": "21.4.2",
+    "en": "True, he had the manifest sympathy of the house but he had the house’s silence, too, which was even worse than its sympathy."
+   },
+   {
+    "id": "21.16.0",
+    "en": "Next appeared a dark-complexioned, black-eyed, black-haired young lady, who paused an impressive moment, assumed a tragic expression, and began to read in a measured, solemn tone:"
+   },
+   {
+    "id": "31.1.8",
+    "en": "Tom found a subterranean lake, shortly, which stretched its dim length away until its shape was lost in the shadows."
+   },
+   {
+    "id": "34.22.1",
+    "en": "The company looked at each other with a perplexed interest—and inquiringly at Huck, who was tongue-tied."
+   }
+  ],
+  "order": 25
+ },
+ "so_that": {
+  "name": "so ~ that / such ~ that — 너무 …해서 ~하다",
+  "group": "절 잇기",
+  "count": 31,
+  "ex": [
+   {
+    "id": "3.14.0",
+    "en": "All through supper his spirits were so high that his aunt wondered “what had got into the child.”"
+   },
+   {
+    "id": "3.17.3",
+    "en": "In such ecstasies that he even controlled his tongue and was silent."
+   },
+   {
+    "id": "12.4.2",
+    "en": "He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her."
+   },
+   {
+    "id": "17.8.1",
+    "en": "Most of the boys could say that, and so that cheapened the distinction too much."
+   },
+   {
+    "id": "22.0.6",
+    "en": "Sometimes his hopes ran high—so high that he would venture to get out his regalia and practise before the looking-glass."
+   },
+   {
+    "id": "22.8.0",
+    "en": "There were some boys-and-girls’ parties, but they were so few and so delightful that they only made the aching voids between ache the harder."
+   },
+   {
+    "id": "25.101.3",
+    "en": "I couldn’t stand such a thing as that, Tom—nobody could.”"
+   },
+   {
+    "id": "31.56.6",
+    "en": "He tried it; but in the darkness the distant echoes sounded so hideously that he tried it no more."
+   }
+  ],
+  "order": 26
+ },
+ "adv_concess": {
+  "name": "양보 절 — though/although/even if (~이지만)",
+  "group": "절 잇기",
+  "count": 30,
+  "ex": [
+   {
+    "id": "1.47.1",
+    "en": "He knew the model boy very well though—and loathed him."
+   },
+   {
+    "id": "6.156.3",
+    "en": "But although Tom’s ear tingled, his heart was jubilant."
+   },
+   {
+    "id": "15.8.1",
+    "en": "Tom felt the glare of the old lady’s eye, though he could not see it."
+   },
+   {
+    "id": "16.56.2",
+    "en": "The boys huddled themselves together and sought the friendly companionship of the fire, though the dull dead heat of the breathless atmosphere was stifling."
+   },
+   {
+    "id": "16.58.6",
+    "en": "They could not talk, the old sail flapped so furiously, even if the other noises would have allowed them."
+   },
+   {
+    "id": "17.0.2",
+    "en": "An unusual quiet possessed the village, although it was ordinarily quiet enough, in all conscience."
+   },
+   {
+    "id": "18.6.1",
+    "en": "“It would have been something if you’d cared enough to think of it, even if you didn’t do it.”"
+   },
+   {
+    "id": "21.2.2",
+    "en": "But he got through safely, though cruelly scared, and got a fine round of applause when he made his manufactured bow and retired."
+   }
+  ],
+  "order": 27
+ },
+ "rel_whose": {
+  "name": "whose — 누구의 ○○",
+  "group": "절 잇기",
+  "count": 18,
+  "ex": [
+   {
+    "id": "2.14.1",
+    "en": "Ben Rogers hove in sight presently—the very boy, of all boys, whose ridicule he had been dreading."
+   },
+   {
+    "id": "3.21.10",
+    "en": "But he would lie there cold and white and make no sign—a poor little sufferer, whose griefs were at an end."
+   },
+   {
+    "id": "5.8.1",
+    "en": "The boy whose history this book relates did not enjoy the prayer, he only endured it—if he even did that much."
+   },
+   {
+    "id": "7.13.0",
+    "en": "“I don’t care whose tick he is—he’s on my side of the line, and you sha’n’t touch him.”"
+   },
+   {
+    "id": "8.4.1",
+    "en": "He took it up and disclosed a shapely little treasure-house whose bottom and sides were of shingles."
+   },
+   {
+    "id": "21.11.0",
+    "en": "Then arose a slim, melancholy girl, whose face had the “interesting” paleness that comes of pills and indigestion, and read a “poem.”"
+   },
+   {
+    "id": "26.52.1",
+    "en": "Injun Joe sat up, stared around—smiled grimly upon his comrade, whose head was drooping upon his knees—stirred him up with his foot and said:"
+   },
+   {
+    "id": "31.0.3",
+    "en": "Still drifting along and talking, they scarcely noticed that they were now in a part of the cave whose walls were not frescoed."
+   }
+  ],
+  "order": 28
+ },
+ "wish": {
+  "name": "wish — ~라면 좋을 텐데",
+  "group": "가정법",
+  "count": 40,
+  "ex": [
+   {
+    "id": "1.46.2",
+    "en": "I wish to gee-miny she’d stick to one or t’other—I can’t keep the run of ’em."
+   },
+   {
+    "id": "4.38.3",
+    "en": "By jings, don’t you wish you was Jeff?”"
+   },
+   {
+    "id": "18.11.0",
+    "en": "“I wish now I’d thought,” said Tom, with a repentant tone; “but I dreamt about you, anyway."
+   },
+   {
+    "id": "18.85.5",
+    "en": "He wished there was some way to get that boy into trouble without much risk to himself."
+   },
+   {
+    "id": "19.17.1",
+    "en": "I wish, now, you’d waked up when I kissed you—I do, honest.”"
+   },
+   {
+    "id": "23.19.1",
+    "en": "I wish we could get him out of there.”"
+   },
+   {
+    "id": "29.26.4",
+    "en": "He wished he dared venture to warn her; but he knew he didn’t dare—they might come and catch him."
+   },
+   {
+    "id": "33.31.2",
+    "en": "I tell you, many’s the time I wished I had some when I was in there before.”"
+   }
+  ],
+  "order": 29
+ },
+ "cond_3": {
+  "name": "if + had p.p. → would have p.p. — 과거 사실과 반대",
+  "group": "가정법",
+  "count": 32,
+  "ex": [
+   {
+    "id": "2.44.1",
+    "en": "If he hadn’t run out of whitewash he would have bankrupted every boy in the village."
+   },
+   {
+    "id": "3.5.1",
+    "en": "She went out to see for herself; and she would have been content to find twenty per cent. of Tom’s statement true."
+   },
+   {
+    "id": "4.37.6",
+    "en": "It would have been music to his soul to hear the whisperings:"
+   },
+   {
+    "id": "8.33.3",
+    "en": "Then he shot the arrow and fell back and would have died, but he lit on a nettle and sprang up too gaily for a corpse."
+   },
+   {
+    "id": "11.16.0",
+    "en": "Potter would have fallen if they had not caught him and eased him to the ground."
+   },
+   {
+    "id": "16.58.6",
+    "en": "They could not talk, the old sail flapped so furiously, even if the other noises would have allowed them."
+   },
+   {
+    "id": "18.6.1",
+    "en": "“It would have been something if you’d cared enough to think of it, even if you didn’t do it.”"
+   },
+   {
+    "id": "30.78.0",
+    "en": "Then nothing but liquor had been found; there would have been a great powwow if it had been the gold."
+   }
+  ],
+  "order": 30
+ },
+ "as_if": {
+  "name": "as if / as though — 마치 ~인 것처럼",
+  "group": "가정법",
+  "count": 23,
+  "ex": [
+   {
+    "id": "10.0.1",
+    "en": "They glanced backward over their shoulders from time to time, apprehensively, as if they feared they might be followed."
+   },
+   {
+    "id": "18.28.0",
+    "en": "“And then—and then—well I won’t be certain, but it seems like as if you made Sid go and—and—”"
+   },
+   {
+    "id": "21.18.2",
+    "en": "Even the boisterous winds unanimously came forth from their mystic homes, and blustered about as if to enhance by their aid the wildness of the scene."
+   },
+   {
+    "id": "21.24.4",
+    "en": "He threw his entire attention upon his work, now, as if determined not to be put down by the mirth."
+   },
+   {
+    "id": "25.88.4",
+    "en": "I feel as if something’s behind me all the time; and I’m afeard to turn around, becuz maybe there’s others in front a-waiting for a chance."
+   },
+   {
+    "id": "28.30.4",
+    "en": "He likes me, becuz I don’t ever act as if I was above him."
+   },
+   {
+    "id": "30.8.0",
+    "en": "“Well, poor chap, you do look as if you’d had a hard night of it—but there’s a bed here for you when you’ve had your breakfast."
+   },
+   {
+    "id": "30.26.0",
+    "en": "“Well, I don’t know—but somehow it seems as if I did.”"
+   }
+  ],
+  "order": 31
+ },
+ "cond_2": {
+  "name": "if + 과거 → would — 지금 사실과 반대",
+  "group": "가정법",
+  "count": 16,
+  "ex": [
+   {
+    "id": "3.22.4",
+    "en": "He wondered if she would pity him if she knew?"
+   },
+   {
+    "id": "10.0.1",
+    "en": "They glanced backward over their shoulders from time to time, apprehensively, as if they feared they might be followed."
+   },
+   {
+    "id": "13.35.1",
+    "en": "“What would the boys say if they could see us?”"
+   },
+   {
+    "id": "15.6.1",
+    "en": "And Mrs. Harper sobbed as if her heart would break."
+   },
+   {
+    "id": "16.58.6",
+    "en": "They could not talk, the old sail flapped so furiously, even if the other noises would have allowed them."
+   },
+   {
+    "id": "23.11.1",
+    "en": "Why, if I wanted that halfbreed devil to drownd me they could get me to tell."
+   },
+   {
+    "id": "26.19.2",
+    "en": "And if he hit that dime only on the edge he would set down and cry—and curse."
+   }
+  ],
+  "order": 32
+ }
+}

@@ -1,0 +1,322 @@
+{
+ "modal_perf": {
+  "name": "would/could/must have + 과거분사 — ~했을 것이다",
+  "group": "태·조동사",
+  "count": 37,
+  "ex": [
+   {
+    "id": "4.37.6",
+    "en": "It would have been music to his soul to hear the whisperings:"
+   },
+   {
+    "id": "4.44.1",
+    "en": "He would have liked to fall down and worship him, if it were in the dark."
+   },
+   {
+    "id": "8.12.1",
+    "en": "But it must have fallen short or gone too far; so he tried twice more."
+   },
+   {
+    "id": "18.6.1",
+    "en": "“It would have been something if you’d cared enough to think of it, even if you didn’t do it.”"
+   },
+   {
+    "id": "26.88.6",
+    "en": "But for that, Injun Joe never would have suspected."
+   },
+   {
+    "id": "28.2.5",
+    "en": "Surely he must have fainted; maybe he was dead; maybe his heart had burst under terror and excitement."
+   },
+   {
+    "id": "30.78.0",
+    "en": "Then nothing but liquor had been found; there would have been a great powwow if it had been the gold."
+   },
+   {
+    "id": "31.64.10",
+    "en": "But the echoes must have disguised the voice."
+   }
+  ],
+  "order": 17
+ },
+ "modal_should": {
+  "name": "should / ought to — ~하는 게 좋다",
+  "group": "태·조동사",
+  "count": 25,
+  "ex": [
+   {
+    "id": "4.34.2",
+    "en": "That is the way good little boys and girls should do."
+   },
+   {
+    "id": "11.3.2",
+    "en": "“This ought to be a lesson to grave robbers!”"
+   },
+   {
+    "id": "11.22.0",
+    "en": "They inwardly resolved to watch him nights, when opportunity should offer, in the hope of getting a glimpse of his dread master."
+   },
+   {
+    "id": "13.60.0",
+    "en": "But the other boys told him the fine clothes would come fast enough, after they should have begun their adventures."
+   },
+   {
+    "id": "13.61.8",
+    "en": "So they inwardly resolved that so long as they remained in the business, their piracies should not again be sullied with the crime of stealing."
+   },
+   {
+    "id": "18.57.4",
+    "en": "Well, let her—she should see that he could be as indifferent as some other people."
+   },
+   {
+    "id": "30.15.0",
+    "en": "“All right if you say it, Huck, but you ought to have the credit of what you did.”"
+   },
+   {
+    "id": "32.3.1",
+    "en": "It would be complete, however, as soon as the messenger dispatched with the great news to the cave should get the word to her husband."
+   }
+  ],
+  "order": 18
+ },
+ "that_clause": {
+  "name": "that절 — ~라는 것을 (생각·말의 내용)",
+  "group": "절 잇기",
+  "count": 1301,
+  "ex": [
+   {
+    "id": "4.22.9",
+    "en": "He was fully as uncomfortable as he looked; for there was a restraint about whole clothes and cleanliness that galled him."
+   },
+   {
+    "id": "7.1.5",
+    "en": "Soon Tom said that they were interfering with each other, and neither getting the fullest benefit of the tick."
+   },
+   {
+    "id": "9.59.3",
+    "en": "I’m all in a muddle; can’t recollect anything of it, hardly."
+   },
+   {
+    "id": "16.16.0",
+    "en": "“I’ll never speak to you again as long as I live,” said Joe, rising."
+   },
+   {
+    "id": "23.11.1",
+    "en": "Why, if I wanted that halfbreed devil to drownd me they could get me to tell."
+   },
+   {
+    "id": "26.73.0",
+    "en": "“’Twas always said that Murrel’s gang used to be around here one summer,” the stranger observed."
+   },
+   {
+    "id": "28.31.0",
+    "en": "“Well, if I don’t want you in the daytime, I’ll let you sleep."
+   },
+   {
+    "id": "31.30.1",
+    "en": "Cheer up, Becky, and let’s go on trying.”"
+   }
+  ],
+  "order": 19
+ },
+ "rel_that": {
+  "name": "관계대명사 who/which/that — 앞 명사를 설명",
+  "group": "절 잇기",
+  "count": 498,
+  "ex": [
+   {
+    "id": "5.10.12",
+    "en": "His head nodded, and little by little his chin descended and touched the enemy, who seized it."
+   },
+   {
+    "id": "7.18.1",
+    "en": "In a little while the two met at the bottom of the lane, and when they reached the school they had it all to themselves."
+   },
+   {
+    "id": "8.0.8",
+    "en": "If he only had a clean Sunday-school record he could be willing to go, and be done with it all."
+   },
+   {
+    "id": "11.10.1",
+    "en": "The poor fellow’s face was haggard, and his eyes showed the fear that was upon him."
+   },
+   {
+    "id": "23.17.0",
+    "en": "“That’s just the same way they go on round me."
+   },
+   {
+    "id": "23.60.0",
+    "en": "“Behind the elms that’s on the edge of the grave.”"
+   },
+   {
+    "id": "30.4.0",
+    "en": "“It’s a name that can open this door night or day, lad!—and welcome!”"
+   },
+   {
+    "id": "33.33.1",
+    "en": "But do you see that white place up yonder where there’s been a landslide?"
+   }
+  ],
+  "order": 20
+ },
+ "adv_time": {
+  "name": "시간 부사절 — when/while/as/before/after/until",
+  "group": "절 잇기",
+  "count": 248,
+  "ex": [
+   {
+    "id": "2.43.4",
+    "en": "And when the middle of the afternoon came, from being a poor poverty-stricken boy in the morning, Tom was literally rolling in wealth."
+   },
+   {
+    "id": "3.7.1",
+    "en": "And while she closed with a happy Scriptural flourish, he “hooked” a doughnut."
+   },
+   {
+    "id": "3.11.5",
+    "en": "But his face lit up, right away, for she tossed a pansy over the fence a moment before she disappeared."
+   },
+   {
+    "id": "3.15.0",
+    "en": "“Aunt, you don’t whack Sid when he takes it.”"
+   },
+   {
+    "id": "10.15.0",
+    "en": "“Because he’d just got that whack when Injun Joe done it."
+   },
+   {
+    "id": "10.66.6",
+    "en": "The boys’ hearts had stood still, and their hopes too, when the man moved, but their fears passed away now."
+   },
+   {
+    "id": "15.17.3",
+    "en": "He rested again until the sun was well up and gilding the great river with its splendor, and then he plunged into the stream."
+   },
+   {
+    "id": "16.36.3",
+    "en": "Bob Tanner was there, and Johnny Miller, and Jeff Thatcher, when I said it."
+   }
+  ],
+  "order": 21
+ },
+ "adv_cond": {
+  "name": "조건 부사절 — if / unless (~라면)",
+  "group": "절 잇기",
+  "count": 194,
+  "ex": [
+   {
+    "id": "12.24.2",
+    "en": "She’d a roasted his bowels out of him ’thout any more feeling than if he was a human!”"
+   },
+   {
+    "id": "17.4.1",
+    "en": "Oh, if it was to do over again, I wouldn’t say that—I wouldn’t say it for the whole world."
+   },
+   {
+    "id": "18.53.2",
+    "en": "Here’s a big Milum apple I’ve been saving for you, Tom, if you was ever found again—now go ’long to school."
+   },
+   {
+    "id": "23.28.13",
+    "en": "Little hands, and weak—but they’ve helped Muff Potter a power, and they’d help him more if they could.”"
+   },
+   {
+    "id": "26.50.0",
+    "en": "“I can’t—I’d die if they was to wake.”"
+   },
+   {
+    "id": "27.12.2",
+    "en": "I’d feel mighty shaky if I was to see him, anyway.”"
+   },
+   {
+    "id": "28.12.1",
+    "en": "My aunt would make me mighty sick if I lost it.”"
+   },
+   {
+    "id": "35.8.4",
+    "en": "I got to ask to go a-fishing; I got to ask to go in a-swimming—dern’d if I hain’t got to ask to do everything."
+   }
+  ],
+  "order": 22
+ },
+ "adv_reason": {
+  "name": "이유 부사절 — because/since/for (~때문에)",
+  "group": "절 잇기",
+  "count": 99,
+  "ex": [
+   {
+    "id": "6.39.1",
+    "en": "So all this row was because you thought you’d get to stay home from school and go a-fishing?"
+   },
+   {
+    "id": "9.40.0",
+    "en": "The whisper died wholly out, now, for the three men had reached the grave and stood within a few feet of the boys’ hiding-place."
+   },
+   {
+    "id": "12.22.0",
+    "en": "“I done it out of pity for him—because he hadn’t any aunt.”"
+   },
+   {
+    "id": "19.14.2",
+    "en": "But it ain’t reasonable; because, why didn’t you tell me, child?”"
+   },
+   {
+    "id": "23.46.2",
+    "en": "The boy looked wild enough, for he was badly scared."
+   },
+   {
+    "id": "31.2.0",
+    "en": "“Why, I didn’t notice, but it seems ever so long since I heard any of the others.”"
+   },
+   {
+    "id": "31.62.1",
+    "en": "Their speed was slow, however, because pitfalls were somewhat common, and had to be guarded against."
+   },
+   {
+    "id": "33.45.0",
+    "en": "“Yes, it’s better in some ways, because it’s close to home and circuses and all that.”"
+   }
+  ],
+  "order": 23
+ },
+ "indirect_q": {
+  "name": "간접의문문 — 의문사 + 주어 + 동사",
+  "group": "절 잇기",
+  "count": 52,
+  "ex": [
+   {
+    "id": "4.16.1",
+    "en": "What is it, Mary, tell me what it is.”"
+   },
+   {
+    "id": "6.45.0",
+    "en": "“Hello yourself, and see how you like it.”"
+   },
+   {
+    "id": "14.22.1",
+    "en": "“I’d give heaps to know who it is.”"
+   },
+   {
+    "id": "16.48.1",
+    "en": "And when we tell ’em we learned when we was off pirating, won’t they wish they’d been along?”"
+   },
+   {
+    "id": "21.24.2",
+    "en": "He knew what the matter was, and set himself to right it."
+   },
+   {
+    "id": "32.8.2",
+    "en": "The Judge and some friends set Tom to talking, and some one asked him ironically if he wouldn’t like to go to the cave again."
+   },
+   {
+    "id": "33.74.4",
+    "en": "Lemme see if I can lift the box.”"
+   },
+   {
+    "id": "34.7.2",
+    "en": "And say—I can tell you something, if you want to know.”"
+   }
+  ],
+  "order": 24
+ }
+}

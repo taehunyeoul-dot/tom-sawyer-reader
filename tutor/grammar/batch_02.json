@@ -1,0 +1,322 @@
+{
+ "to_purpose": {
+  "name": "to부정사 — ~하기 위해(목적)",
+  "group": "동사 뒤",
+  "count": 145,
+  "ex": [
+   {
+    "id": "1.35.0",
+    "en": "Aunt Polly was vexed to think she had overlooked that bit of circumstantial evidence, and missed a trick."
+   },
+   {
+    "id": "1.36.0",
+    "en": "“Tom, you didn’t have to undo your shirt collar where I sewed it, to pump on your head, did you?"
+   },
+   {
+    "id": "4.32.7",
+    "en": "When they came to recite their lessons, not one of them knew his verses perfectly, but had to be prompted all along."
+   },
+   {
+    "id": "15.20.1",
+    "en": "The writing says they are if he ain’t back here to breakfast.”"
+   },
+   {
+    "id": "16.54.1",
+    "en": "Then he found it lonesome, and went to find his comrades."
+   },
+   {
+    "id": "18.54.1",
+    "en": "Sid had better judgment than to utter the thought that was in his mind as he left the house."
+   },
+   {
+    "id": "19.17.0",
+    "en": "“The bark I had wrote on to tell you we’d gone pirating."
+   },
+   {
+    "id": "31.43.1",
+    "en": "Tom did what he could to comfort her, but with little effect."
+   }
+  ],
+  "order": 9
+ },
+ "causative": {
+  "name": "사역동사 make/let/have + 목적어 + 동사원형",
+  "group": "동사 뒤",
+  "count": 111,
+  "ex": [
+   {
+    "id": "1.22.10",
+    "en": "Every time I let him off, my conscience does hurt me so, and every time I hit him my old heart most breaks."
+   },
+   {
+    "id": "1.91.1",
+    "en": "I’ll tell my big brother on you, and he can thrash you with his little finger, and I’ll make him do it, too.”"
+   },
+   {
+    "id": "4.43.0",
+    "en": "Amy Lawrence was proud and glad, and she tried to make Tom see it in her face—but he wouldn’t look."
+   },
+   {
+    "id": "5.8.6",
+    "en": "His aunt detected the act and made him let it go."
+   },
+   {
+    "id": "6.0.2",
+    "en": "He generally began that day with wishing he had had no intervening holiday, it made the going into captivity and fetters again so much more odious."
+   },
+   {
+    "id": "9.0.15",
+    "en": "Next the ghastly ticking of a death-watch in the wall at the bed’s head made Tom shudder—it meant that somebody’s days were numbered."
+   },
+   {
+    "id": "26.88.5",
+    "en": "They were too much absorbed in hating themselves—hating the ill luck that made them take the spade and the pick there."
+   },
+   {
+    "id": "28.12.1",
+    "en": "My aunt would make me mighty sick if I lost it.”"
+   }
+  ],
+  "order": 10
+ },
+ "perception": {
+  "name": "지각동사 see/hear/feel + 목적어 + 동사/~ing",
+  "group": "동사 뒤",
+  "count": 62,
+  "ex": [
+   {
+    "id": "9.24.3",
+    "en": "If we keep perfectly still, maybe they won’t notice us at all.”"
+   },
+   {
+    "id": "10.66.9",
+    "en": "They turned and saw the strange dog standing within a few feet of where Potter was lying, and facing Potter, with his nose pointing heavenward."
+   },
+   {
+    "id": "15.17.4",
+    "en": "A little later he paused, dripping, upon the threshold of the camp, and heard Joe say:"
+   },
+   {
+    "id": "16.18.1",
+    "en": "And then it was discomforting to see Huck eying Joe’s preparations so wistfully, and keeping up such an ominous silence."
+   },
+   {
+    "id": "16.34.1",
+    "en": "You’ve heard me talk just that way—haven’t you, Huck?"
+   },
+   {
+    "id": "18.31.4",
+    "en": "I’d like to see her get around this with her rubbage ’bout superstition."
+   },
+   {
+    "id": "30.9.0",
+    "en": "“Oh yes; I saw them downtown and follered them.”"
+   },
+   {
+    "id": "33.83.1",
+    "en": "Just you lay quiet here and watch the stuff till I run and hook Benny Taylor’s little wagon; I won’t be gone a minute.”"
+   }
+  ],
+  "order": 11
+ },
+ "gerund": {
+  "name": "동명사 ~ing — ~하는 것(주어·목적어)",
+  "group": "동사 뒤",
+  "count": 30,
+  "ex": [
+   {
+    "id": "2.1.6",
+    "en": "Bringing water from the town pump had always been hateful work in Tom’s eyes, before, but now it did not strike him so."
+   },
+   {
+    "id": "2.20.0",
+    "en": "Tom went on whitewashing—paid no attention to the steamboat."
+   },
+   {
+    "id": "7.68.0",
+    "en": "Tom tried to put his arm about her neck, but she pushed him away and turned her face to the wall, and went on crying."
+   },
+   {
+    "id": "20.10.3",
+    "en": "Hateful, hateful, hateful!”—and she flung out of the house with a new explosion of crying."
+   },
+   {
+    "id": "21.0.3",
+    "en": "Only the biggest boys, and young ladies of eighteen and twenty, escaped lashing."
+   },
+   {
+    "id": "25.63.2",
+    "en": "Now stir out of this and we’ll go to digging.”"
+   },
+   {
+    "id": "25.106.1",
+    "en": "But anyway they don’t come around in the daytime, so what’s the use of our being afeard?”"
+   },
+   {
+    "id": "29.44.2",
+    "en": "He hid behind a great bowlder and fell to listening."
+   }
+  ],
+  "order": 12
+ },
+ "passive": {
+  "name": "수동태 — be + 과거분사 (~해지다·~당하다)",
+  "group": "태·조동사",
+  "count": 432,
+  "ex": [
+   {
+    "id": "7.64.1",
+    "en": "Then I ain’t the first you’ve ever been engaged to!”"
+   },
+   {
+    "id": "8.0.12",
+    "en": "He had meant the best in the world, and been treated like a dog—like a very dog."
+   },
+   {
+    "id": "11.0.0",
+    "en": "Close upon the hour of noon the whole village was suddenly electrified with the ghastly news."
+   },
+   {
+    "id": "18.53.2",
+    "en": "Here’s a big Milum apple I’ve been saving for you, Tom, if you was ever found again—now go ’long to school."
+   },
+   {
+    "id": "20.8.1",
+    "en": "I’ll be whipped, and I never was whipped in school.”"
+   },
+   {
+    "id": "30.49.1",
+    "en": "When all else had been learned, the widow said:"
+   },
+   {
+    "id": "32.14.0",
+    "en": "The water was brought and thrown into Tom’s face."
+   },
+   {
+    "id": "33.99.0",
+    "en": "The place was grandly lighted, and everybody that was of any consequence in the village was there."
+   }
+  ],
+  "order": 13
+ },
+ "modal_can": {
+  "name": "can / could — 할 수 있다",
+  "group": "태·조동사",
+  "count": 208,
+  "ex": [
+   {
+    "id": "1.67.1",
+    "en": "I could lick you with one hand tied behind me, if I wanted to.”"
+   },
+   {
+    "id": "1.91.1",
+    "en": "I’ll tell my big brother on you, and he can thrash you with his little finger, and I’ll make him do it, too.”"
+   },
+   {
+    "id": "12.30.6",
+    "en": "When Jeff arrived, Tom accosted him; and “led up” warily to opportunities for remark about Becky, but the giddy lad never could see the bait."
+   },
+   {
+    "id": "16.3.5",
+    "en": "But he wrote it again, nevertheless; he could not help it."
+   },
+   {
+    "id": "16.20.1",
+    "en": "You can all go, if you want to."
+   },
+   {
+    "id": "18.57.0",
+    "en": "Tom decided that he could be independent of Becky Thatcher now."
+   },
+   {
+    "id": "18.82.1",
+    "en": "His conscience could not endure any more of Amy’s grateful happiness, and his jealousy could bear no more of the other distress."
+   },
+   {
+    "id": "30.65.0",
+    "en": "Joe tried to remember, but was not sure he could say."
+   }
+  ],
+  "order": 14
+ },
+ "modal_must": {
+  "name": "must / have to — 해야 한다",
+  "group": "태·조동사",
+  "count": 61,
+  "ex": [
+   {
+    "id": "4.32.7",
+    "en": "When they came to recite their lessons, not one of them knew his verses perfectly, but had to be prompted all along."
+   },
+   {
+    "id": "8.2.3",
+    "en": "Therefore he must now begin to get ready."
+   },
+   {
+    "id": "9.0.3",
+    "en": "When it seemed to him that it must be nearly daylight, he heard the clock strike ten!"
+   },
+   {
+    "id": "15.15.0",
+    "en": "He had to keep still long after she went to bed, for she kept making broken-hearted ejaculations from time to time, tossing unrestfully, and turning over."
+   },
+   {
+    "id": "18.79.4",
+    "en": "At last he must be attending to those things—and she said artlessly that she would be “around” when school let out."
+   },
+   {
+    "id": "20.15.7",
+    "en": "Quick—something must be done! done in a flash, too!"
+   },
+   {
+    "id": "31.42.0",
+    "en": "“Well, then, Becky, we must stay here, where there’s water to drink."
+   },
+   {
+    "id": "31.65.3",
+    "en": "Tom believed that it must be Wednesday or Thursday or even Friday or Saturday, now, and that the search had been given over."
+   }
+  ],
+  "order": 15
+ },
+ "modal_may": {
+  "name": "may / might — 아마 ~일 것이다",
+  "group": "태·조동사",
+  "count": 59,
+  "ex": [
+   {
+    "id": "1.33.3",
+    "en": "So he forestalled what might be the next move:"
+   },
+   {
+    "id": "9.0.5",
+    "en": "He would have tossed and fidgeted, as his nerves demanded, but he was afraid he might wake Sid."
+   },
+   {
+    "id": "10.18.5",
+    "en": "But if a man was dead sober, I reckon maybe that whack might fetch him; I dono.”"
+   },
+   {
+    "id": "10.51.2",
+    "en": "I might a been good, like Sid, if I’d a tried—but no, I wouldn’t, of course."
+   },
+   {
+    "id": "12.25.1",
+    "en": "This was putting the thing in a new light; what was cruelty to a cat might be cruelty to a boy, too."
+   },
+   {
+    "id": "16.50.7",
+    "en": "Both fountains were going furiously and both pumps bailing with might and main."
+   },
+   {
+    "id": "31.17.0",
+    "en": "“It is horrid, but I better, Becky; they might hear us, you know,” and he shouted again."
+   },
+   {
+    "id": "31.62.3",
+    "en": "It might be three feet deep, it might be a hundred—there was no passing it at any rate."
+   }
+  ],
+  "order": 16
+ }
+}

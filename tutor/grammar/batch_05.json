@@ -1,0 +1,322 @@
+{
+ "part_post": {
+  "name": "명사 뒤에서 꾸미는 ~ing / 과거분사",
+  "group": "분사",
+  "count": 144,
+  "ex": [
+   {
+    "id": "1.67.1",
+    "en": "I could lick you with one hand tied behind me, if I wanted to.”"
+   },
+   {
+    "id": "8.6.5",
+    "en": "He had many a time heard of this thing succeeding but never of its failing before."
+   },
+   {
+    "id": "14.1.0",
+    "en": "Now, far away in the woods a bird called; another answered; presently the hammering of a woodpecker was heard."
+   },
+   {
+    "id": "17.11.2",
+    "en": "They had been hid in the unused gallery listening to their own funeral sermon!"
+   },
+   {
+    "id": "17.14.2",
+    "en": "And the loving attentions Aunt Polly lavished upon him were the one thing capable of making him more uncomfortable than he was before."
+   },
+   {
+    "id": "20.20.2",
+    "en": "The master scanned the ranks of boys—considered a while, then turned to the girls:"
+   },
+   {
+    "id": "25.92.1",
+    "en": "A body’s bound to get into trouble with ’em, sure.”"
+   },
+   {
+    "id": "30.58.0",
+    "en": "Mrs. Thatcher turned pale, and sank into a pew, just as Aunt Polly, talking briskly with a friend, passed by."
+   }
+  ],
+  "order": 33
+ },
+ "part_pp_lead": {
+  "name": "과거분사로 시작하는 문장 (~된 채로)",
+  "group": "분사",
+  "count": 23,
+  "ex": [
+   {
+    "id": "9.0.3",
+    "en": "When it seemed to him that it must be nearly daylight, he heard the clock strike ten!"
+   },
+   {
+    "id": "10.66.3",
+    "en": "When they had got to within five steps of the snorer, Tom stepped on a stick, and it broke with a sharp snap."
+   },
+   {
+    "id": "11.2.2",
+    "en": "Arrived at the dreadful place, he wormed his small body through the crowd and saw the dismal spectacle."
+   },
+   {
+    "id": "12.30.6",
+    "en": "When Jeff arrived, Tom accosted him; and “led up” warily to opportunities for remark about Becky, but the giddy lad never could see the bait."
+   },
+   {
+    "id": "14.0.0",
+    "en": "When Tom awoke in the morning, he wondered where he was."
+   },
+   {
+    "id": "15.16.2",
+    "en": "When he had pulled a mile above the village, he started quartering across and bent himself stoutly to his work."
+   },
+   {
+    "id": "30.17.0",
+    "en": "When the young men were gone, the old Welshman said:"
+   },
+   {
+    "id": "30.49.1",
+    "en": "When all else had been learned, the widow said:"
+   }
+  ],
+  "order": 34
+ },
+ "sup": {
+  "name": "최상급 — the -est / the most ~",
+  "group": "비교",
+  "count": 61,
+  "ex": [
+   {
+    "id": "1.22.2",
+    "en": "But old fools is the biggest fools there is."
+   },
+   {
+    "id": "7.1.5",
+    "en": "Soon Tom said that they were interfering with each other, and neither getting the fullest benefit of the tick."
+   },
+   {
+    "id": "8.13.0",
+    "en": "Just here the blast of a toy tin trumpet came faintly down the green aisles of the forest."
+   },
+   {
+    "id": "13.5.7",
+    "en": "Each would bring hooks and lines, and such provision as he could steal in the most dark and mysterious way—as became outlaws."
+   },
+   {
+    "id": "18.51.2",
+    "en": "And she seized the boy in a crushing embrace that made him feel like the guiltiest of villains."
+   },
+   {
+    "id": "25.56.0",
+    "en": "“Well, that’s the foolishest thing you could do."
+   },
+   {
+    "id": "26.23.3",
+    "en": "They presently entered, softly, with quickened pulses, talking in whispers, ears alert to catch the slightest sound, and muscles tense and ready for instant retreat."
+   },
+   {
+    "id": "29.15.1",
+    "en": "The crowd swarmed ashore and soon the forest distances and craggy heights echoed far and near with shoutings and laughter."
+   }
+  ],
+  "order": 35
+ },
+ "as_as": {
+  "name": "as ~ as — 만큼 ~한",
+  "group": "비교",
+  "count": 59,
+  "ex": [
+   {
+    "id": "16.16.0",
+    "en": "“I’ll never speak to you again as long as I live,” said Joe, rising."
+   },
+   {
+    "id": "18.32.0",
+    "en": "“Oh, it’s all getting just as bright as day, now."
+   },
+   {
+    "id": "20.1.1",
+    "en": "I won’t ever, ever do that way again, as long as ever I live—please make up, won’t you?”"
+   },
+   {
+    "id": "23.30.8",
+    "en": "These details and accompanying delays worked up an atmosphere of preparation that was as impressive as it was fascinating."
+   },
+   {
+    "id": "24.1.0",
+    "en": "As usual, the fickle, unreasoning world took Muff Potter to its bosom and fondled him as lavishly as it had abused him before."
+   },
+   {
+    "id": "32.3.1",
+    "en": "It would be complete, however, as soon as the messenger dispatched with the great news to the cave should get the word to her husband."
+   },
+   {
+    "id": "33.87.3",
+    "en": "Why, it’s not as light as it might be."
+   },
+   {
+    "id": "33.99.2",
+    "en": "The widow received the boys as heartily as any one could well receive two such looking beings."
+   }
+  ],
+  "order": 36
+ },
+ "comp": {
+  "name": "비교급 — -er than / more ~ than",
+  "group": "비교",
+  "count": 26,
+  "ex": [
+   {
+    "id": "1.49.3",
+    "en": "A stranger was before him—a boy a shade larger than himself."
+   },
+   {
+    "id": "12.24.2",
+    "en": "She’d a roasted his bowels out of him ’thout any more feeling than if he was a human!”"
+   },
+   {
+    "id": "16.13.1",
+    "en": "I ain’t any more baby than you are.”"
+   },
+   {
+    "id": "17.14.2",
+    "en": "And the loving attentions Aunt Polly lavished upon him were the one thing capable of making him more uncomfortable than he was before."
+   },
+   {
+    "id": "22.7.0",
+    "en": "A phrenologist and a mesmerizer came—and went again and left the village duller and drearier than ever."
+   },
+   {
+    "id": "23.27.0",
+    "en": "His gratitude for their gifts had always smote their consciences before—it cut deeper than ever, this time."
+   },
+   {
+    "id": "26.37.0",
+    "en": "“What’s any more dangerous than that job up yonder—but nothing’s come of it.”"
+   },
+   {
+    "id": "35.33.1",
+    "en": "Why, it’s a million times bullier than pirating."
+   }
+  ],
+  "order": 37
+ },
+ "quantifier": {
+  "name": "some / any / much / many / a few — 수량 표현",
+  "group": "명사·대명사",
+  "count": 374,
+  "ex": [
+   {
+    "id": "11.26.0",
+    "en": "“Tom, you pitch around and talk in your sleep so much that you keep me awake half the time.”"
+   },
+   {
+    "id": "14.17.0",
+    "en": "“Oh, it ain’t the bread, so much,” said Tom; “I reckon it’s mostly what they say over it before they start it out.”"
+   },
+   {
+    "id": "18.57.4",
+    "en": "Well, let her—she should see that he could be as indifferent as some other people."
+   },
+   {
+    "id": "21.3.0",
+    "en": "A little shamefaced girl lisped, “Mary had a little lamb,” etc., performed a compassion-inspiring curtsy, got her meed of applause, and sat down flushed and happy."
+   },
+   {
+    "id": "25.47.0",
+    "en": "“Well, ain’t you going to save any of it?”"
+   },
+   {
+    "id": "25.89.0",
+    "en": "“Well, I’ve been pretty much so, too, Huck."
+   },
+   {
+    "id": "26.42.0",
+    "en": "The two men got out some food and made a luncheon."
+   },
+   {
+    "id": "31.62.3",
+    "en": "It might be three feet deep, it might be a hundred—there was no passing it at any rate."
+   }
+  ],
+  "order": 38
+ },
+ "reflexive": {
+  "name": "재귀대명사 — himself / herself (자기 자신)",
+  "group": "명사·대명사",
+  "count": 195,
+  "ex": [
+   {
+    "id": "10.69.2",
+    "en": "Didn’t Gracie Miller fall in the kitchen fire and burn herself terrible the very next Saturday?”"
+   },
+   {
+    "id": "11.4.1",
+    "en": "At this moment the crowd began to sway and struggle, and voices shouted, “It’s him! it’s him! he’s coming himself!”"
+   },
+   {
+    "id": "12.24.1",
+    "en": "Because if he’d had one she’d a burnt him out herself!"
+   },
+   {
+    "id": "15.17.0",
+    "en": "He sat down and took a long rest, torturing himself meanwhile to keep awake, and then started warily down the home-stretch."
+   },
+   {
+    "id": "16.3.6",
+    "en": "He erased it once more and then took himself out of temptation by driving the other boys together and joining them."
+   },
+   {
+    "id": "26.32.1",
+    "en": "Each boy said to himself: “There’s the old deaf and dumb Spaniard that’s been about town once or twice lately—never saw t’other man before.”"
+   },
+   {
+    "id": "26.88.5",
+    "en": "They were too much absorbed in hating themselves—hating the ill luck that made them take the spade and the pick there."
+   },
+   {
+    "id": "33.98.0",
+    "en": "This question was not entirely answered in Huck’s slow mind before he found himself pushed, along with Tom, into Mrs. Douglas’ drawing-room."
+   }
+  ],
+  "order": 39
+ },
+ "there_be": {
+  "name": "there is / there was — ~이 있다",
+  "group": "명사·대명사",
+  "count": 139,
+  "ex": [
+   {
+    "id": "3.8.3",
+    "en": "There was a gate, but as a general thing he was too crowded for time to make use of it."
+   },
+   {
+    "id": "4.41.3",
+    "en": "But there was no getting around it—here were the certified checks, and they were good for their face."
+   },
+   {
+    "id": "5.12.0",
+    "en": "Tom Sawyer went home quite cheerful, thinking to himself that there was some satisfaction about divine service when there was a bit of variety in it."
+   },
+   {
+    "id": "12.0.8",
+    "en": "The charm of life was gone; there was nothing but dreariness left."
+   },
+   {
+    "id": "18.85.5",
+    "en": "He wished there was some way to get that boy into trouble without much risk to himself."
+   },
+   {
+    "id": "21.10.1",
+    "en": "There was a buzz of gratification from time to time during the reading, accompanied by whispered ejaculations of “How sweet!”"
+   },
+   {
+    "id": "28.2.2",
+    "en": "Then there was a season of waiting anxiety that weighed upon Huck’s spirits like a mountain."
+   },
+   {
+    "id": "29.44.3",
+    "en": "There was a lagging, anxious silence, and then all of a sudden there was an explosion of firearms and a cry."
+   }
+  ],
+  "order": 40
+ }
+}
