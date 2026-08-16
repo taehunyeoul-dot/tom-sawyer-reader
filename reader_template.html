@@ -279,6 +279,19 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .gopt.ok{background:#e6f2ea;border-color:var(--l1)}
 .gopt.no{background:var(--brick-wash);border-color:var(--brick)}
 .gqz .fb{margin-top:8px;font-size:13px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+/* ---- 뉴스 ---------------------------------------------------------- */
+.srcsw{display:flex;gap:5px;margin-bottom:6px}
+.srcsw button{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:6px 4px;
+  font-size:12.5px;font-weight:650;color:var(--muted);font-family:inherit}
+.srcsw button.on{background:var(--cobalt);border-color:var(--cobalt);color:#fff}
+.srcsw button b{font-family:var(--mono);font-size:11px;opacity:.85}
+.nrow{display:flex;gap:8px;align-items:center;border-top:1px solid var(--rule);padding:8px 0}
+.nrow:first-child{border-top:0}
+.nopen{flex:1;min-width:0;background:none;border:0;text-align:left;font-family:inherit;padding:2px 0}
+.nopen .nt{display:block;font-size:14px;font-weight:650;color:var(--ink);line-height:1.45;overflow-wrap:break-word}
+.nopen .nm{display:block;font-size:11px;color:var(--muted);margin-top:3px}
+.auto{font-family:var(--serif);font-size:15.5px;line-height:1.95;margin-top:6px}
+.auto .cb{display:inline-block;width:1px;height:.95em;background:#9db2e8;margin:0 5px 0 4px;vertical-align:-2px}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
 .totop{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
@@ -588,7 +601,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},news:{items:[]},newsDone:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -652,6 +665,7 @@ function openChapter(n,phase){
 
 /* ================= 읽기 화면 ================= */
 function renderPane(){
+  if(S.cur.src==='news'){ if(S.cur.phase==='read'&&S.cur.news)renderNewsRead(); else renderNewsList(); return; }
   const n=S.cur.ch, p=S.cur.phase;
   if(p==='pre')renderPre(n); else if(p==='read')renderRead(n); else renderPost(n);
 }
@@ -771,21 +785,42 @@ function renderReadbar(){
   const bar=$('#readbar');
   if(!onRead){ bar.innerHTML=''; $('#tools').classList.remove('on'); return; }
   const n=S.cur.ch, p=S.cur.phase, mode=S.set.layout;
-  bar.innerHTML=`
+  const srcNews=S.cur.src==='news';
+  const bookBar = `
     <select id="chsel">${CH.map(c=>`<option value="${c.n}" ${n===c.n?'selected':''}>${c.n}장 · ${esc((c.title||'').split('—')[0].trim().slice(0,26))}${S.done[c.n]?' ✓':''}</option>`).join('')}</select>
     <div class="phases">
       <button data-p="pre" class="${p==='pre'?'on':''} ${(S.log.pre||{})[n]?'done':''}">읽기 전<small>단어 미리보기</small></button>
       <button data-p="read" class="${p==='read'?'on':''} ${(S.reads[n]||[]).length?'done':''}">읽기<small>본문</small></button>
       <button data-p="post" class="${p==='post'?'on':''} ${S.done[n]?'done':''}">읽은 후<small>확인·요약</small></button>
-    </div>
-    ${p==='read'?`<div class="modesw">
+    </div>` + (p==='read' ? `
+    <div class="modesw">
       <button data-m="book" class="${mode==='book'?'on':''}">소설책</button>
       <button data-m="struct" class="${mode==='struct'?'on':''}">구조분석</button>
       <button class="ic" id="ttsPlay" title="읽어주기">🔊</button>
       <button class="ic" id="ttsStop" title="멈춤">■</button>
       <button class="ic" id="toolstog" title="도구">⚙</button>
-    </div>`:''}`;
-  $('#chsel').onchange=e=>openChapter(+e.target.value,S.cur.phase);
+    </div>` : '');
+  const newsBar = (p==='read'&&S.cur.news) ? `
+    <div class="modesw">
+      <button data-back="1" style="flex:1">← 기사 목록</button>
+      <button class="ic" id="ttsPlay" title="읽어주기">🔊</button>
+      <button class="ic" id="ttsStop" title="멈춤">■</button>
+      <button class="ic" id="toolstog" title="도구">⚙</button>
+    </div>` : '';
+  bar.innerHTML = `
+    <div class="srcsw">
+      <button data-s="book" class="${srcNews?'':'on'}">소설</button>
+      <button data-s="news" class="${srcNews?'on':''}">뉴스${nState().items.length?` <b>${nState().items.length}</b>`:''}</button>
+    </div>` + (srcNews ? newsBar : bookBar);
+  bar.querySelectorAll('.srcsw button').forEach(b=>b.onclick=()=>{
+    S.cur.src=b.dataset.s; S.cur.phase=(b.dataset.s==='news')?(S.cur.news?'read':'list'):'pre'; save();
+    renderReadbar(); renderPane(); window.scrollTo(0,0);});
+  const bk=bar.querySelector('[data-back]'); if(bk)bk.onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
+  const cs=$('#chsel'); if(cs)cs.onchange=e=>openChapter(+e.target.value,S.cur.phase);
+  if(srcNews){ if(p==='read'){$('#ttsPlay').onclick=()=>speakFrom(null);$('#ttsStop').onclick=stopSpeak;
+      $('#toolstog').onclick=()=>{const t=$('#tools');t.classList.toggle('on');if(t.classList.contains('on'))renderTools();};renderTools();}
+    else $('#tools').classList.remove('on');
+    return; }
   bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
   bar.querySelectorAll('.modesw button').forEach(b=>b.onclick=()=>{
     if(S.set.layout===b.dataset.m)return;
@@ -1234,6 +1269,145 @@ $('#addq').oninput=()=>{
   box.innerHTML=hits.map(([v,i])=>`<div class="row" style="padding:5px 0;border-bottom:1px solid var(--line)"><span class="w" style="font-family:var(--serif);font-weight:600">${esc(v.w)}</span><span class="note">${esc(v.p)} ${esc(v.m)} · ${v.n}회</span><span style="margin-left:auto"></span><button class="btn sm ${S.cards[i]?'grn':''}" data-add="${i}">${S.cards[i]?'카드 ✓':'카드 추가'}</button></div>`).join('')||'<p class="note">없습니다</p>';
   $$('#addres [data-add]').forEach(b=>b.onclick=()=>{const i=+b.dataset.add;if(!S.cards[i]){addCard(i,null);delete S.known[i];save();}rvQueue=[];$('#addq').oninput();renderSRS();});
 };
+
+/* 끊어읽기 추정 — 구문 분석 자료가 없는 글(뉴스)에서 의미 단위 경계를 어림잡는다.
+   쉼표·세미콜론·대시 뒤, 접속사·관계사 앞, 전치사 앞에서 끊는다. */
+const SUBW=new Set(['that','which','who','whom','whose','where','when','while','because','although','though','if','unless','until','after','before','as','since','whether','so','but','and','or','yet','than','once','till','whereas']);
+const PREPW=new Set(['of','in','on','at','to','for','with','from','by','into','over','under','through','about','across','between','without','behind','beyond','against','towards','toward','upon','within','during','among','along','onto','around','beneath','beside','above','below','despite','throughout','via','inside','outside']);
+const NOTOW=new Set(['have','has','had','having','want','wants','wanted','need','needs','needed','able','ought','used','going','about','try','tried','tries','trying','seem','seemed','seems','began','begin','begun','started','start','starts','like','likes','liked','how','what','where','managed','manage','failed','fail','decided','decide','continued','continue','meant','mean','means','tend','tended','tends','supposed','allowed','forced','expected','order','enough','too']);
+function chunkBoundaries(words){
+  const b=new Array(words.length).fill(false); let len=0;
+  for(let i=0;i<words.length;i++){
+    const w=words[i], prev=i?words[i-1]:'';
+    const lw=w.toLowerCase().replace(/^[^a-z]+/,'');
+    let cut=false;
+    if(i>0){
+      if(/[,;:—–(]$/.test(prev)||/^[—–(]/.test(w))cut=true;
+      else if(SUBW.has(lw)&&len>=2)cut=true;
+      else if(PREPW.has(lw)&&len>=3){ if(lw==='to'){const pl=prev.toLowerCase().replace(/[^a-z]/g,''); if(!(NOTOW.has(pl)||/ing$/.test(pl)))cut=true;} else cut=true; }
+    }
+    if(cut){b[i]=true;len=0;}
+    len++;
+  }
+  for(let i=1;i<words.length;i++){ if(b[i]&&(i+1>=words.length||b[i+1])&&!/[,;:—–]$/.test(words[i-1]))b[i]=false; }
+  return b;
+}
+/* ================= 뉴스 (붙여넣기) =================
+   기사 본문은 이 기기의 브라우저 저장소에만 들어간다. 공개된 앱 파일에는 절대 포함되지 않는다.
+   그래서 저작권이 있는 기사도 개인 학습용으로 안전하게 쓸 수 있다. */
+function nState(){ S.news=S.news||{items:[]}; return S.news; }
+const newsItem=id=>nState().items.find(x=>x.id===id);
+// 문장 나누기 — 01_parse_gutenberg.py 와 같은 방식
+function splitSents(p){
+  const parts=p.split(/(?<=[.!?][’'"”)\]])\s+(?=[A-Z‘“'"(\[])|(?<=[.!?])\s+(?=[A-Z‘“'"(\[])/);
+  const out=[];
+  for(let s of parts){ s=s.trim(); if(!s)continue;
+    if(out.length&&(/\b(Mr|Mrs|Ms|Dr|St|Prof|Sgt|Lt|Capt|Rev|Jr|Sr|vs|etc|No)\.$/.test(out[out.length-1])||out[out.length-1].length<3))
+      out[out.length-1]+=' '+s; else out.push(s); }
+  return out;
+}
+function makeArticle(title,src,text){
+  const paras=text.replace(/\r/g,'').split(/\n\s*\n|\n/).map(x=>x.trim()).filter(x=>x.length>1).map(splitSents).filter(a=>a.length);
+  const words=paras.flat().join(' ').split(/\s+/).filter(Boolean).length;
+  return {id:'n'+Date.now().toString(36), title:title||'(제목 없음)', src:src||'', d:dayNum(), paras, words};
+}
+function renderNewsList(){
+  const items=nState().items;
+  let html=`<div class="card">
+    <h3 style="margin:0 0 4px">뉴스로 공부하기</h3>
+    <p class="note" style="margin:0 0 10px">읽고 싶은 영어 기사를 <b>본문만 복사해서 붙여넣으면</b> 소설과 똑같이 문장별로 나누고 단어 뜻을 붙여 줍니다.
+    기사 본문은 <b>이 기기에만 저장</b>되고 공개된 앱에는 올라가지 않습니다.</p>
+    <button class="btn pri" id="nAdd">＋ 기사 붙여넣기</button>
+  </div>`;
+  if(!items.length){
+    html+=`<div class="card"><h4 style="margin:0 0 6px">이렇게 하시면 됩니다</h4>
+      <ol class="note" style="margin:0;padding-left:18px;line-height:1.9">
+        <li>브라우저에서 읽고 싶은 영어 기사를 엽니다 (BBC 등)</li>
+        <li>본문을 길게 눌러 <b>전체 선택 → 복사</b> (제목 위·아래 광고나 메뉴는 섞여도 괜찮습니다)</li>
+        <li>위의 <b>＋ 기사 붙여넣기</b>를 누르고 붙여넣습니다</li>
+        <li>바로 읽기 시작 — 단어를 누르면 뜻, 문장을 누르면 끊어읽기가 나옵니다</li>
+      </ol>
+      <p class="note" style="margin-top:10px">읽으면서 <b>카드</b>에 담은 단어는 소설 단어들과 함께 복습에 섞여 나옵니다.</p></div>`;
+  }else{
+    html+=`<div class="card" style="padding:6px 10px">`+items.slice().reverse().map(a=>`
+      <div class="nrow">
+        <button class="nopen" data-open="${a.id}">
+          <span class="nt">${esc(a.title)}</span>
+          <span class="nm">${a.words.toLocaleString()}단어 · ${dstr(a.d)}${a.src?' · '+esc(a.src):''}${S.newsDone&&S.newsDone[a.id]?' · 읽음':''}</span>
+        </button>
+        <button class="btn sm" data-del="${a.id}">삭제</button>
+      </div>`).join('')+`</div>`;
+  }
+  $('#pane').innerHTML=html;
+  $('#nAdd').onclick=renderNewsAdd;
+  $$('#pane [data-open]').forEach(b=>b.onclick=()=>{S.cur.news=b.dataset.open;S.cur.phase='read';save();renderReadbar();renderPane();window.scrollTo(0,0);});
+  $$('#pane [data-del]').forEach(b=>b.onclick=()=>{ if(!confirm('이 기사를 지울까요?'))return;
+    const n=nState(); n.items=n.items.filter(x=>x.id!==b.dataset.del); save(); renderNewsList(); });
+}
+function renderNewsAdd(){
+  $('#pane').innerHTML=`<div class="card">
+    <h3 style="margin:0 0 8px">기사 붙여넣기</h3>
+    <label class="note">제목 <input type="text" id="nTitle" placeholder="기사 제목" style="width:100%;margin:4px 0 10px"></label>
+    <label class="note">출처 (선택) <input type="text" id="nSrc" placeholder="예: BBC" style="width:100%;margin:4px 0 10px"></label>
+    <label class="note">본문 — 기사 본문을 통째로 붙여넣으세요</label>
+    <textarea id="nText" style="min-height:220px;margin-top:4px" placeholder="여기에 붙여넣기"></textarea>
+    <div class="row" style="margin-top:10px;justify-content:space-between">
+      <button class="btn" id="nCancel">취소</button>
+      <button class="btn pri" id="nSave">저장하고 읽기</button>
+    </div>
+    <p class="note" style="margin-top:10px">붙여넣은 글은 이 기기의 브라우저에만 저장됩니다. 기록 탭의 내보내기로 백업할 수 있습니다.</p>
+  </div>`;
+  $('#nCancel').onclick=renderNewsList;
+  $('#nSave').onclick=()=>{
+    const t=$('#nTitle').value.trim(), src=$('#nSrc').value.trim(), tx=$('#nText').value.trim();
+    if(tx.split(/\s+/).length<30){toast('본문이 너무 짧습니다. 기사 전체를 붙여넣어 주세요.');return;}
+    const a=makeArticle(t,src,tx); nState().items.push(a); S.cur.news=a.id; S.cur.phase='read'; save();
+    renderReadbar(); renderPane(); window.scrollTo(0,0);
+  };
+}
+// 뉴스 본문 읽기 — 소설과 같은 문장별 줄바꿈. 구조는 '끊어읽기'(기계 추정)까지만.
+function renderNewsRead(){
+  const a=newsItem(S.cur.news);
+  if(!a){ renderNewsList(); return; }
+  const st=S.set;
+  let html=`<div class="text mode-book" id="text">
+    <div class="chno">${esc(a.src||'뉴스')}</div><div class="chtitle">${esc(a.title)}</div>
+    <div class="modelegend">한 줄에 <b>문장 하나</b>. 단어를 누르면 뜻, <b>문장을 누르면 끊어읽기</b>가 열립니다.
+    뉴스는 자동 구문 분석 자료가 없어 <b>주어·동사 표시는 없고</b> 의미 단위 추정만 제공합니다.</div>`;
+  a.paras.forEach((para,pi)=>{
+    html+='<p class="para">'+para.map((s,si)=>
+      `<span class="s" data-nid="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(s,S.lookups[a.id]||{})}</span></span>`
+    ).join('')+'</p>';
+  });
+  html+=`<div class="end">기사 끝 (${a.words.toLocaleString()}단어)<br><br>
+    <button class="btn pri" id="nDone">다 읽었어요</button>
+    <div class="bnav"><button class="btn sm" id="nBack">← 목록으로</button></div></div></div>`;
+  $('#pane').innerHTML=html;
+  applyTextStyle();
+  $('#nBack').onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
+  $('#nDone').onclick=()=>{S.newsDone=S.newsDone||{};S.newsDone[a.id]=dayNum();save();toast('읽음으로 표시했습니다');S.cur.phase='list';renderReadbar();renderPane();};
+  $('#text').onclick=e=>{
+    const tk=e.target.closest('.tk');
+    if(tk){showPop(tk,a.id);e.stopPropagation();return;}
+    const sEl=e.target.closest('.s'); if(sEl){openNewsDrawer(a,sEl.dataset.nid);}
+  };
+}
+// 뉴스 문장 패널 — 끊어읽기(기계 추정)와 듣기
+function openNewsDrawer(a,nid){
+  hidePop();
+  const [pi,si]=nid.split('.').map(Number);
+  const s=a.paras[pi][si];
+  const words=s.split(/\s+/), b=chunkBoundaries(words);
+  let html=`<h3>문장 [${pi}·${si}] · 끊어읽기 (기계 추정)</h3>`;
+  html+=`<div class="sent">${esc(s)}</div>`;
+  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="ndSay">🔊 듣기</button></div>`;
+  html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위로 끊어 읽기</h4>
+    <div class="auto">${words.map((w,k)=>(b[k]?'<span class="cb"></span>':'')+esc(w)).join(' ')}</div>
+    <p class="note" style="margin-top:8px">쉼표·접속사·전치사 앞에서 끊은 것입니다. 소설과 달리 뉴스는 구문 분석을 미리 해 두지 않아
+    <b>주어·동사 표시와 역할 이름은 제공하지 않습니다.</b> 앞에서부터 덩어리째 읽어 내려가는 연습에 쓰세요.</p>`;
+  $('#drc').innerHTML=html; $('#drawer').classList.add('on');
+  $('#ndSay').onclick=()=>speakText(s);
+}
 
 /* ================= 문법 ================= */
 let gView='topics', gGroup='전체', gOpen=null;
