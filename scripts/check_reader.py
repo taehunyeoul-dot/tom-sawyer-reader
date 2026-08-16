@@ -7,8 +7,12 @@
 필요:    playwright (이 PC에는 이미 설치돼 있음)
 결과:    임시폴더에 스크린샷 + 콘솔 요약
 """
-import os
+import os, sys
 from playwright.sync_api import sync_playwright
+
+# 윈도우 기본 콘솔(cp949)에서도 한글·기호가 깨지지 않게 한다
+try: sys.stdout.reconfigure(encoding='utf-8')
+except Exception: pass
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'index.html')
