@@ -32,7 +32,8 @@ html{overflow-x:clip}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
 button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
 button{cursor:pointer}
-header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#eaeefc;padding:13px 18px 12px}
+header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#eaeefc;
+  padding:calc(13px + env(safe-area-inset-top)) 18px 12px}
 header .wrap{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 header h1{margin:0;font-size:17px;font-weight:650;letter-spacing:-.01em;color:#fff}
 header .sub{opacity:.72;font-size:12px}
@@ -42,13 +43,24 @@ header .today{margin-left:auto;font-size:12px;opacity:.9;font-variant-numeric:ta
 header .mark{position:relative;width:20px;height:20px;flex:none}
 header .mark i{position:absolute;left:0;top:9px;width:20px;height:2px;background:#fff;border-radius:1px}
 header .mark b{position:absolute;left:9px;top:2px;width:2px;height:16px;background:#9db8ff;border-radius:1px}
-nav{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}
-nav .wrap{max-width:1180px;margin:0 auto;display:flex;gap:2px;padding:0 10px;overflow-x:auto}
-nav button{background:none;border:0;padding:12px 15px;font-size:14px;font-weight:600;color:var(--muted);
-  border-bottom:2px solid transparent;white-space:nowrap}
-nav button.on{color:var(--accent);border-bottom-color:var(--accent)}
-nav .badge{display:inline-block;min-width:18px;padding:0 5px;border-radius:9px;background:var(--red);color:#fff;font-size:11px;margin-left:4px;line-height:18px}
-main{max-width:1180px;margin:0 auto;padding:14px 12px 80px}
+/* 상단 고정 틀: 탭 ~ 읽기 화면 전환까지 한 덩어리로 화면 위에 붙여 둔다.
+   아이폰 노치·상태바에 가리지 않도록 안전영역(env(safe-area-inset-*))만큼 띄운다. */
+#stick{position:sticky;top:0;z-index:30;background:var(--panel);
+  border-bottom:1px solid var(--line);box-shadow:0 1px 0 rgba(20,23,31,.04);
+  transition:padding-top .12s}
+/* 화면 맨 위에 붙었을 때만 아이폰 상태바(노치)만큼 띄운다 — 평소엔 빈 줄이 생기지 않게 */
+#stick.stuck{padding-top:env(safe-area-inset-top)}
+nav{background:var(--panel)}
+nav .wrap{max-width:1180px;margin:0 auto;display:flex;padding:0;border-bottom:1px solid var(--line)}
+nav button{flex:1 1 0;min-width:0;background:none;border:0;padding:11px 2px 9px;font-size:13px;
+  font-weight:600;color:var(--muted);white-space:nowrap;position:relative;
+  border-bottom:3px solid transparent;font-family:inherit;letter-spacing:-.01em}
+nav button + button::before{content:"";position:absolute;left:0;top:22%;height:56%;width:1px;background:var(--line)}
+nav button.on{color:var(--cobalt);border-bottom-color:var(--cobalt);background:var(--soft)}
+nav .badge{display:inline-block;min-width:16px;padding:0 4px;border-radius:8px;background:var(--red);
+  color:#fff;font-size:10px;margin-left:3px;line-height:16px;vertical-align:1px}
+main{max-width:1180px;margin:0 auto;padding:14px 12px calc(80px + env(safe-area-inset-bottom))}
+body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
 section.tab{display:none}section.tab.on{display:block}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:14px}
 .card h3{margin:0 0 8px;font-size:16px}
@@ -88,12 +100,34 @@ aside.chl .st.done{color:var(--accent2)}
 aside.chl .mini{height:3px;background:var(--soft);border-radius:2px;margin:2px 8px 6px 40px;overflow:hidden}
 aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .chsel{display:none;margin-bottom:10px}
-.phases{display:flex;gap:4px;margin-bottom:12px;flex-wrap:wrap}
-.phases button{flex:1;min-width:120px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:9px 6px;font-size:13.5px;font-weight:600;color:var(--muted)}
-.phases button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.phases button.done::after{content:" ✓";color:#cfe0d6}
-.phases button.on.done::after{color:#fff}
-/* ---- 본문 */
+.phases{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:8px 0 0}
+.phases button{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:7px 4px 6px;font-size:13px;font-weight:650;color:var(--muted);font-family:inherit;
+  display:flex;flex-direction:column;align-items:center;gap:1px;line-height:1.25}
+.phases button small{font-size:10.5px;font-weight:400;opacity:.85}
+.phases button.on{background:var(--cobalt);color:#fff;border-color:var(--cobalt)}
+.phases button.done::after{content:"✓";font-size:10px;color:var(--l1)}
+.phases button.on.done::after{color:#cfe0d6}
+/* 읽기 화면 전환: 소설책 / 구조분석 */
+.modesw{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:6px 0 0}
+.modesw button{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 4px;
+  font-size:13px;font-weight:650;color:var(--muted);font-family:inherit}
+.modesw button.on{background:var(--cobalt-wash);border-color:var(--cobalt);color:var(--cobalt-deep)}
+.readbar{max-width:1180px;margin:0 auto;padding:0 12px 9px}
+.readbar .line2{display:flex;gap:6px;align-items:center;margin-top:6px}
+.readbar .line2 .btn{flex:none}
+.readbar select{flex:1;min-width:0;padding:7px 9px;font-size:13px;border:1px solid var(--line);
+  border-radius:8px;background:var(--panel);font-family:inherit}
+/* 도구: 한 줄에 한 기능 */
+.tools{display:none;max-width:1180px;margin:0 auto;padding:2px 12px 10px}
+.tools.on{display:block}
+.tools .trow{display:flex;align-items:center;gap:10px;padding:7px 0;border-top:1px solid var(--rule)}
+.tools .trow:first-child{border-top:0}
+.tools .trow span{font-size:12.5px;color:var(--muted);flex:none;width:5.6em}
+.tools .trow input[type=range]{flex:1;min-width:0}
+.tools .trow .val{width:2.6em;text-align:right;font-family:var(--mono);font-size:11px;color:var(--cobalt)}
+.tools .trow label{display:flex;align-items:center;gap:6px;font-size:12.5px;color:var(--ink);cursor:pointer}
+/* ---- 본문 *//* ---- 본문 */
 .toolbar{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:8px 10px;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:12px;position:sticky;top:46px;z-index:20;font-size:12.5px}
 .toolbar label{display:flex;gap:4px;align-items:center;color:var(--muted);white-space:nowrap}
 .toolbar .timer{margin-left:auto;font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent)}
@@ -138,20 +172,20 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
    1877년 리드-켈로그 문장 도해에서 가져온 표기다. 왼쪽 세로선이 문장의 뼈대(주어·동사),
    들여쓴 줄은 그 앞줄에 매달린 꾸밈말. 번호는 '읽는 순서'이고 언제나 위에서 아래로 읽는다. */
 .text .sn{display:none}
-.text.mode-sent .para{margin:0 0 1.5em;text-indent:0}
+.text.mode-book .para{margin:0 0 1.5em;text-indent:0}
 .text.mode-struct .para.plain{margin:0 0 12px;text-indent:0}
 .text.mode-struct .para.plain .s{display:grid;grid-template-columns:2.9em 1fr;gap:0 .55em;align-items:baseline;padding:.1em .25em .1em 0}
 .text.mode-struct .para.plain .sn{display:block;font-family:var(--mono);font-size:10px;color:var(--cobalt-soft);text-align:right;padding-top:.3em;white-space:nowrap}
 .text.mode-struct .para.plain .sb{display:block;min-width:0}
-.text.mode-sent .s{display:grid;grid-template-columns:2.9em 1fr;gap:0 .55em;
+.text.mode-book .s{display:grid;grid-template-columns:2.9em 1fr;gap:0 .55em;
   padding:.12em .25em .12em 0;border-radius:6px;align-items:baseline}
-.text.mode-sent .s + .s{margin-top:.34em}
-.text.mode-sent .sn{display:block;font-family:var(--mono);font-size:10px;line-height:1.7;
+.text.mode-book .s + .s{margin-top:.34em}
+.text.mode-book .sn{display:block;font-family:var(--mono);font-size:10px;line-height:1.7;
   color:var(--cobalt-soft);text-align:right;letter-spacing:.02em;white-space:nowrap;
   padding-top:.32em;-webkit-user-select:none;user-select:none}
-.text.mode-sent .sb{display:block;min-width:0;overflow-wrap:break-word}
-.text.mode-sent .s:hover{background:var(--soft)}
-.text.mode-sent .s.bm{box-shadow:inset 3px 0 0 var(--l2)}
+.text.mode-book .sb{display:block;min-width:0;overflow-wrap:break-word}
+.text.mode-book .s:hover{background:var(--soft)}
+.text.mode-book .s.bm{box-shadow:inset 3px 0 0 var(--l2)}
 /* 구조 펼침 */
 .sx{background:var(--paper);border:1px solid var(--rule);border-radius:9px;
   padding:9px 12px 11px;margin:0 0 12px;box-shadow:0 1px 0 rgba(20,23,31,.02)}
@@ -169,6 +203,7 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
   content:"└";position:absolute;left:-.95em;top:.02em;font-family:var(--mono);font-size:11px;color:#c3cfef}
 .sx .en{font-family:var(--serif);font-size:1em;line-height:1.5;display:block;overflow-wrap:break-word}
 .sx .ko{font-family:var(--sans);font-size:.72em;line-height:1.55;color:#4a5265;display:block;margin-top:.1em}
+.text:not(.roles) .sx .rl{display:none}
 .sx .rl{font-family:var(--mono);font-size:9.5px;letter-spacing:.03em;color:var(--blue);
   display:inline-block;margin-top:.15em;background:var(--chip);border-radius:3px;padding:.1em .4em}
 .sx .rl .to{color:var(--cobalt-soft)}
@@ -188,20 +223,33 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .modelegend b{color:var(--cobalt)}
 .modelegend .v{color:var(--brick)}
 @media(max-width:860px){
-  .text.mode-sent .s{grid-template-columns:2.4em 1fr;gap:0 .4em}
-  .text.mode-sent .sn{font-size:9.5px}
+  .text.mode-book .s{grid-template-columns:2.4em 1fr;gap:0 .4em}
+  .text.mode-book .sn{font-size:9.5px}
   .sx{padding:8px 9px 10px;margin-bottom:10px}
   .sx .row{grid-template-columns:1.5em 1fr;padding:.22em .15em}
   .sx .rb{margin-left:calc(var(--d,0) * .75em)}
 }
 /* 문장별·구조 모드에서는 문장 전체를 가로지르는 점선 대신 왼쪽에 작은 표식만 둔다 */
-.text.mode-sent .s.hasan,.text.mode-struct .s.hasan{border-bottom:0}
-.text.mode-sent .s.hasan .sn::after,.text.mode-struct .para.plain .s.hasan .sn::after{content:"·";color:var(--cobalt);font-weight:700;margin-left:2px}
-.text.mode-sent .s.bm .sn{color:var(--l2);font-weight:700}
+.text.mode-book .s.hasan,.text.mode-struct .s.hasan{border-bottom:0}
+.text.mode-book .s.hasan .sn::after,.text.mode-struct .para.plain .s.hasan .sn::after{content:"·";color:var(--cobalt);font-weight:700;margin-left:2px}
+.text.mode-book .s.bm .sn{color:var(--l2);font-weight:700}
+/* ---- 읽기 전 단어 목록: 단어를 왼쪽에 꽉 붙이고 그 옆에 뜻, 버튼은 아래에 균등하게 */
+.wrow{padding:10px 0 11px;border-top:1px solid var(--rule)}
+.wrow:first-child{border-top:0}
+.wtop{display:flex;gap:10px;align-items:baseline}
+.wtop .ww{font-family:var(--serif);font-size:19px;font-weight:700;color:var(--ink);flex:none;
+  max-width:45%;overflow-wrap:break-word}
+.wtop .wm{flex:1;min-width:0;font-size:14px;line-height:1.5;color:var(--ink)}
+.wtop .wm em{font-style:normal;font-size:11.5px;color:var(--muted);margin-left:3px;white-space:nowrap}
+.wbtn{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px}
+.wbtn .btn{width:100%;padding:8px 4px;font-size:13px}
+.wbtn .btn.on{background:var(--chip);border-color:var(--cobalt-soft);color:var(--cobalt-deep)}
+.wrow.known .wtop{opacity:.42}
+.wrow.incard .wtop .ww{color:var(--accent2)}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
 .progress{position:fixed;left:0;top:0;height:3px;background:var(--accent2);width:0;z-index:40;transition:width .15s}
-.totop{position:fixed;right:14px;bottom:18px;width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
+.totop{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
 /* ---- 주어·동사 퀴즈 */
 .qz2 .qs{font-family:var(--serif);font-size:19px;line-height:1.9;background:var(--soft);padding:14px 16px;border-radius:8px}
 .qz2 .qs .qw{cursor:pointer;border-radius:3px;padding:1px 2px}
@@ -321,6 +369,7 @@ tr.incard td .w{color:var(--accent2)}
   .toolbar .timer{margin-left:auto}
   #drawer{width:100vw;top:auto;bottom:0;max-height:78vh;transform:translateY(105%);border-left:0;border-top:1px solid var(--line);border-radius:14px 14px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.18);padding:10px 14px 30px}
   #drawer.on{transform:none}
+  #drawer{padding-bottom:calc(30px + env(safe-area-inset-bottom))}
   #drawer::before{content:"";display:block;width:40px;height:4px;border-radius:2px;background:#c3cbdd;margin:0 auto 8px}
   .chunks .ck{grid-template-columns:1fr}
   main{padding:10px 8px 70px}
@@ -344,13 +393,17 @@ tr.incard td .w{color:var(--accent2)}
 <div class="progress" id="prog"></div>
 <button class="totop" id="totop" title="맨 위로">↑</button>
 
-<nav><div class="wrap">
-  <button class="on" data-t="read">📖 읽기</button>
-  <button data-t="srs">🗂 단어 복습<span class="badge hide" id="dueBadge">0</span></button>
-  <button data-t="struct">🧩 문장구조</button>
-  <button data-t="stats">📊 기록</button>
-  <button data-t="help">❓ 사용법·근거</button>
-</div></nav>
+<div id="stick">
+  <nav><div class="wrap">
+    <button class="on" data-t="read">읽기</button>
+    <button data-t="srs">단어<span class="badge hide" id="dueBadge">0</span></button>
+    <button data-t="struct">문장구조</button>
+    <button data-t="stats">기록</button>
+    <button data-t="help">사용법</button>
+  </div></nav>
+  <div class="readbar" id="readbar"></div>
+  <div class="tools" id="tools"></div>
+</div>
 
 <main>
 <!-- ================= 읽기 ================= -->
@@ -358,12 +411,6 @@ tr.incard td .w{color:var(--accent2)}
   <div class="readwrap">
     <aside class="chl" id="chl"></aside>
     <div>
-      <select class="chsel" id="chsel"></select>
-      <div class="phases">
-        <button data-p="pre">1 · 읽기 전 (단어 미리보기)</button>
-        <button data-p="read">2 · 읽기</button>
-        <button data-p="post">3 · 읽은 후 (확인·요약)</button>
-      </div>
       <div id="pane"></div>
     </div>
   </div>
@@ -415,9 +462,6 @@ tr.incard td .w{color:var(--accent2)}
 <!-- ================= 기록 ================= -->
 <section class="tab" id="t-stats">
   <div class="card"><h3>진행 상황</h3><div class="stat" id="st"></div>
-    <h4>읽기 속도(분당 단어 수, WPM) — 최근 읽기 기록</h4>
-    <div class="bars" id="wpmbars"></div><div style="height:18px"></div>
-    <p class="note">중급 학습자는 보통 100~150 WPM 근처에서 시작합니다. 같은 장을 두 번 읽으면(반복 읽기) 두 번째는 눈에 띄게 빨라지는 것이 정상이며, 그 경험이 쌓여 첫 읽기 속도도 올라갑니다. 목표는 편안하게 200 WPM 안팎.</p>
   </div>
   <div class="card"><h3>어휘 커버리지 추정</h3><div id="covall"></div>
     <p class="note">소설 전체 단어(연인원 15만)를 기준으로, 기초 어휘(레벨 1)+고유명사+내가 "알아요"로 표시한 단어+복습에서 익힌 단어가 차지하는 비율입니다. 연구에서는 <b>95%</b>가 "읽어낼 수 있는 최소선", <b>98%</b>가 "편하게 읽히는 선"입니다.</p>
@@ -456,7 +500,7 @@ tr.incard td .w{color:var(--accent2)}
     <h4>4) 단어 복습 — 간격 반복 + 인출 연습</h4>
     <p>SM-2 간격 반복(Anki 계열)에 <b>소설 속 실제 문장</b>을 앞면에. "철자 쓰기" 모드는 더 힘들지만 더 오래 남습니다(Cepeda 2006; Karpicke &amp; Roediger 2008; Laufer &amp; Hulstijn 2001).</p>
     <h4>5) 읽기 속도 — 시간 재기와 반복 읽기</h4>
-    <p>같은 장을 두 번 읽으면 두 번째는 훨씬 빨리 읽힙니다(Taguchi 2004; Chang 2010). 앱이 시간·WPM을 기록합니다. 소설 원문 기준 현실적 목표는 150~200 WPM.</p>
+    <p>같은 장을 두 번 읽으면 두 번째는 훨씬 빨리, 더 잘 읽힙니다(Taguchi 2004; Chang 2010). 읽은 후 화면의 <b>같은 장 다시 읽기</b>를 쓰세요.</p>
     <h4>6) 왜 이 소설인가</h4>
     <p><i>톰 소여의 모험</i>(1876)은 문장이 짧고 사건이 분명해 입문용으로 자주 권장되지만, 19세기 미국 시골 구어(warn't, gwine, 'bout)와 트웨인 특유의 긴 서술문·세미콜론이 있어 <b>구조를 보는 눈</b>을 기르기에 알맞습니다. 앞 5장이 가장 낯설고 10장을 넘기면 눈에 띄게 편해집니다(같은 작가·인물이 반복되는 "좁은 읽기"의 효과, Krashen; Cho &amp; Krashen 1994).</p>
     <h4>화면 조작 요령</h4>
@@ -471,7 +515,7 @@ tr.incard td .w{color:var(--accent2)}
     <ol>
       <li><b>단어 복습</b>: 오늘 복습분 (5~10분)</li>
       <li><b>읽기 전</b>: 새 단어 훑기(알아요/카드), 예측 한 줄 (5분)</li>
-      <li><b>읽기</b>: 타이머 켜고 끝까지. 구조 가이드는 초기엔 "모든 문장", 막히는 문장만 눌러 자세히 (15~20분)</li>
+      <li><b>읽기</b>: 멈추지 말고 끝까지. 막히는 문장은 눌러서 분석을 보고 계속 (15~20분)</li>
       <li><b>읽은 후</b>: 질문 → 주어·동사 퀴즈 5문장 → 요약 (5~8분)</li>
       <li>여유가 있으면 같은 장 다시 읽기(반복 읽기)</li>
     </ol>
@@ -506,7 +550,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,guide:'all',roles:true,fadeHint:0,layout:'sent'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -534,7 +578,7 @@ function showTab(t){
   $$('nav button').forEach(x=>x.classList.toggle('on',x.dataset.t===t));
   $$('section.tab').forEach(x=>x.classList.toggle('on',x.id==='t-'+t));
   if(t==='srs')renderSRS(); if(t==='stats')renderStats(); if(t==='struct')renderStruct();
-  if(t!=='read')pauseTimer(); else if(S.cur.phase==='read')resumeTimer();
+  renderReadbar();
   window.scrollTo(0,0);
 }
 
@@ -543,7 +587,7 @@ function chStatus(n){
   const r=S.reads[n]||[]; if(S.done[n])return 'done'; if(r.length||S.cur.ch===n)return 'ing'; return '';
 }
 function renderChList(){
-  const el=$('#chl'); const sel=$('#chsel');
+  const el=$('#chl');
   el.innerHTML=CH.map(c=>{
     const st=chStatus(c.n); const rc=RD.chapters[c.n-1];
     const cov=coverage(c.n).now;
@@ -552,8 +596,7 @@ function renderChList(){
       <div class="mini"><i style="width:${Math.max(0,(cov-85)/13*100)}%"></i></div>`;
   }).join('');
   el.querySelectorAll('button').forEach(b=>b.onclick=()=>openChapter(+b.dataset.n,'pre'));
-  sel.innerHTML=CH.map(c=>`<option value="${c.n}" ${S.cur.ch===c.n?'selected':''}>${c.n}장 (${esc(c.roman)}) · ${esc((c.title||'').split('—')[0].trim().slice(0,28))} · ${RD.chapters[c.n-1].tok.toLocaleString()}단어 ${S.done[c.n]?'✓':''}</option>`).join('');
-  sel.onchange=()=>openChapter(+sel.value,'pre');
+
 }
 function coverage(n){
   const rc=RD.chapters[n-1]; let k=0; const need=[]; let acc=rc.l1+rc.pn;
@@ -566,16 +609,12 @@ function coverage(n){
 }
 function openChapter(n,phase){
   S.cur.ch=n; S.cur.phase=phase||S.cur.phase; save();
-  renderChList(); renderPane(); window.scrollTo(0,0);
+  renderChList(); renderReadbar(); renderPane(); window.scrollTo(0,0);
 }
-$$('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderPane();});
 
 /* ================= 읽기 화면 ================= */
 function renderPane(){
   const n=S.cur.ch, p=S.cur.phase;
-  $$('.phases button').forEach(b=>{b.classList.toggle('on',b.dataset.p===p);
-    b.classList.toggle('done',(b.dataset.p==='pre'&&!!(S.log.pre||{})[n])||(b.dataset.p==='read'&&(S.reads[n]||[]).length>0)||(b.dataset.p==='post'&&!!S.done[n]));});
-  if(p!=='read')pauseTimer();
   if(p==='pre')renderPre(n); else if(p==='read')renderRead(n); else renderPost(n);
 }
 function markPre(n){S.log.pre=S.log.pre||{};S.log.pre[n]=1;save();}
@@ -620,8 +659,8 @@ function renderPre(n){
       <span style="margin-left:auto"></span>
       <button class="btn sm" id="addAllNeed">필요한 단어 전부 카드로</button>
     </div>
-    <table><thead><tr><th style="width:24%">단어</th><th style="width:9%">품사</th><th>뜻</th><th style="width:12%">이 장/전체</th><th style="width:16%"></th></tr></thead><tbody id="pretb"></tbody></table>
-    <div class="row" style="margin-top:14px;justify-content:flex-end"><button class="btn pri" id="startRead">미리보기 끝 → 읽기 시작 (타이머 시작)</button></div>
+    <div id="pretb"></div>
+    <div class="row" style="margin-top:14px;justify-content:flex-end"><button class="btn pri" id="startRead">미리보기 끝 → 읽기 시작</button></div>
   </div>`;
   $('#pane').innerHTML=html;
   const ta=$('#predict'); if(ta)ta.oninput=()=>{S.predict[n]=ta.value;save();};
@@ -634,12 +673,13 @@ function renderPre(n){
       return true;});
     if(filt==='need'&&!rows.length)rows=[];
     $('#pretb').innerHTML=rows.map(([i,c])=>{
-      const v=VOCAB[i]; const kn=(isKnownIdx(i)&&!S.cards[i])?'known':'', ic=S.cards[i]?'incard':'';
-      return `<tr class="${kn} ${ic}"><td><span class="w">${esc(v.w)}</span>${v.f&&v.f.length?`<div class="fm">${esc(v.f.slice(0,4).join(', '))}</div>`:''}</td>
-       <td class="pos">${esc(v.p)}</td><td><span class="lv lv${v.l}">${v.l}</span> ${esc(v.m)}${RD.first[i]===n?' <span class="note">· 첫 등장</span>':''}</td>
-       <td class="note">${c}회 / ${v.n}회</td>
-       <td><button class="btn sm" data-k="${i}">${S.known[i]?'알아요 취소':'알아요'}</button> <button class="btn sm ${S.cards[i]?'grn':''}" data-c="${i}">${S.cards[i]?'카드 ✓':'카드'}</button></td></tr>`;
-    }).join('')||`<tr><td colspan="5" class="note" style="text-align:center;padding:18px">${filt==='need'?'이미 98%를 넘었습니다. 바로 읽기 시작하세요.':'해당 단어가 없습니다.'}</td></tr>`;
+      const v=VOCAB[i]; const kn=(isKnownIdx(i)&&!S.cards[i]), ic=!!S.cards[i];
+      const pk=posKo(v.p);
+      return `<div class="wrow ${kn?'known':''} ${ic?'incard':''}">
+        <div class="wtop"><span class="ww">${esc(v.w)}</span><span class="wm">${esc(v.m)}${pk?` <em>${esc(pk)}</em>`:''}</span></div>
+        <div class="wbtn"><button class="btn sm ${kn?'on':''}" data-k="${i}">${kn?'알아요 ✓':'알아요'}</button><button class="btn sm ${ic?'grn':''}" data-c="${i}">${ic?'카드 ✓':'카드'}</button></div>
+      </div>`;
+    }).join('')||`<p class="note" style="text-align:center;padding:18px">${filt==='need'?'이미 98%를 넘었습니다. 바로 읽기 시작하세요.':'해당 단어가 없습니다.'}</p>`;
     $('#pretb').querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{const i=+b.dataset.k;if(S.known[i])delete S.known[i];else{S.known[i]=1;if(S.cards[i])delete S.cards[i];}save();upd();});
     $('#pretb').querySelectorAll('[data-c]').forEach(b=>b.onclick=()=>{const i=+b.dataset.c;if(S.cards[i])delete S.cards[i];else{addCard(i,null);delete S.known[i];}save();upd();});
     const cv=coverage(n); $('#covnow').textContent=cv.now.toFixed(1)+'%';
@@ -663,19 +703,20 @@ function renderPre(n){
 }
 
 /* ---- 2. 읽기 */
-let timer={on:false,secs:0,iv:null,ch:0};
-function tick(){ if(document.hidden)return; timer.secs++; const t=$('#tm'); if(t)t.textContent=fmtT(timer.secs); }
-function startTimer(n){ if(timer.on&&timer.ch===n)return; if(timer.iv)clearInterval(timer.iv); timer={on:true,secs:(timer.ch===n?timer.secs:0),iv:setInterval(tick,1000),ch:n}; }
-function pauseTimer(){ if(timer.iv){clearInterval(timer.iv);timer.iv=null;} timer.on=false; }
-function resumeTimer(){ if(!timer.iv&&timer.ch===S.cur.ch){timer.on=true;timer.iv=setInterval(tick,1000);} }
 const HARDTAGS=new Set([3,4,6,7,8,9,10,11,12,13,14,15,17,18]);
 // 자동 구문 분석의 역할 코드 → 한국어 (06_parse_syntax.py 와 같은 표)
 const ROLE={S:'주어',V:'동사',O:'목적어',C:'보어',P:'전치사구',A:'부사',M:'수식어',R:'관계절',N:'명사구',Q:'인용',T:'전달동사',J:'접속사',I:'삽입',D:'부사절',G:'분사구문',K:'대등절',Z:'목적어절',E:'to부정사',X:'기타'};
 const ROLE_LONG={S:'주어 — 누가/무엇이',V:'동사 — 어떻게 하다/이다',O:'목적어 — 무엇을',C:'보어 — 주어·목적어를 설명',P:'전치사구 — 장소·시간·수단 등 꾸밈',A:'부사(구) — 언제·어떻게·얼마나',M:'수식어 — 명사를 꾸밈',R:'관계절 — 앞 명사를 설명(who/which/that…)',N:'명사구 — 동격·호격·나열',Q:'인용 — 따옴표 속 대사',T:'전달동사 — said Tom 등',J:'접속사 — and/but/that/when…',I:'삽입·감탄 — 끼어든 말',D:'부사절 — 때·이유·조건(when/because/if…)',G:'분사구문 — ~하면서/~하고 나서',K:'대등절 — and/but/;로 이어진 또 하나의 문장',Z:'목적어절 — that…/의문사절',E:'to부정사·보어절 — ~하는 것/~하기 위해',X:'기타'};
-const LABEL_ROLES=new Set(['S','V','O','C','P','D','G','R','K','Z','Q','T','E']); // 본문 경계선 위에 이름을 붙일 역할
 const roleName=r=>{const parts=r.split('>');const last=parts[parts.length-1];return (parts.length>1?(ROLE[parts[0]]||'')+'›':'')+(ROLE[last]||last);};
 const lastRole=r=>r.split('>').pop();
 const syn=(n,pi,si)=>{const c=SYNTAX[String(n)];const row=c&&c[pi];return row?row[si]:null;};
+// 품사 약어 → 한국어 (읽기 전 단어 목록에서 뜻 뒤에 붙인다)
+const POSK={'n':'명사','v':'동사','adj':'형용사','adv':'부사','prep':'전치사','conj':'접속사','pron':'대명사','int':'감탄사','art':'관사','aux':'조동사','num':'수사'};
+function posKo(p){
+  const out=[];
+  String(p||'').split(',').forEach(x=>{const k=x.trim().replace(/\.$/,'').toLowerCase();if(POSK[k]&&!out.includes(POSK[k]))out.push(POSK[k]);});
+  return out.join('·');
+}
 // 들여쓰기 깊이: 뼈대(주어·동사)는 0, 목적어·보어는 1, 다른 꾸밈말에 매달리면 한 단 더
 function rowDepth(ch,i){
   if(ch.length<2)return 0;
@@ -685,45 +726,81 @@ function rowDepth(ch,i){
   if(hk>=0&&hk<ch.length){ const hr=lastRole(ch[hk][1]||'X'); if(hr!=='V'&&hr!=='S')d+=1; }
   return Math.min(nest+d,3);
 }
+
+/* ---- 상단 고정 조작줄: 장 선택 → 단계 → 읽기 화면 ---- */
+function renderReadbar(){
+  const onRead=$('#t-read').classList.contains('on');
+  const bar=$('#readbar');
+  if(!onRead){ bar.innerHTML=''; $('#tools').classList.remove('on'); return; }
+  const n=S.cur.ch, p=S.cur.phase, mode=S.set.layout;
+  bar.innerHTML=`
+    <select id="chsel">${CH.map(c=>`<option value="${c.n}" ${n===c.n?'selected':''}>${c.n}장 · ${esc((c.title||'').split('—')[0].trim().slice(0,26))}${S.done[c.n]?' ✓':''}</option>`).join('')}</select>
+    <div class="phases">
+      <button data-p="pre" class="${p==='pre'?'on':''} ${(S.log.pre||{})[n]?'done':''}">읽기 전<small>단어 미리보기</small></button>
+      <button data-p="read" class="${p==='read'?'on':''} ${(S.reads[n]||[]).length?'done':''}">읽기<small>본문</small></button>
+      <button data-p="post" class="${p==='post'?'on':''} ${S.done[n]?'done':''}">읽은 후<small>확인·요약</small></button>
+    </div>
+    ${p==='read'?`<div class="modesw">
+      <button data-m="book" class="${mode==='book'?'on':''}">소설책</button>
+      <button data-m="struct" class="${mode==='struct'?'on':''}">구조분석</button>
+    </div>
+    <div class="line2">
+      <button class="btn sm" id="ttsPlay">🔊 읽어주기</button>
+      <button class="btn sm" id="ttsStop">■</button>
+      <button class="btn sm" id="toolstog">도구</button>
+    </div>`:''}`;
+  $('#chsel').onchange=e=>openChapter(+e.target.value,S.cur.phase);
+  bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
+  bar.querySelectorAll('.modesw button').forEach(b=>b.onclick=()=>{
+    if(S.set.layout===b.dataset.m)return;
+    S.set.layout=b.dataset.m; save(); renderReadbar(); renderPane();
+  });
+  if(p==='read'){
+    $('#ttsPlay').onclick=()=>speakFrom(null);
+    $('#ttsStop').onclick=stopSpeak;
+    $('#toolstog').onclick=()=>{const t=$('#tools');t.classList.toggle('on');if(t.classList.contains('on'))renderTools();};
+    renderTools();
+  }else $('#tools').classList.remove('on');
+}
+/* ---- 도구: 한 줄에 한 기능 ---- */
+function renderTools(){
+  const t=$('#tools'); if(!t.classList.contains('on'))return;
+  const st=S.set;
+  t.innerHTML=`
+    <div class="trow"><span>글자 크기</span><input type="range" id="fs" min="15" max="30" step="1" value="${st.fs}"><span class="val">${st.fs}</span></div>
+    <div class="trow"><span>줄 간격</span><input type="range" id="lh" min="1.5" max="2.8" step="0.05" value="${st.lh}"><span class="val">${(+st.lh).toFixed(2)}</span></div>
+    <div class="trow"><span>읽는 속도</span><input type="range" id="rate" min="0.6" max="1.3" step="0.05" value="${st.rate}"><span class="val">${(+st.rate).toFixed(2)}</span></div>
+    <div class="trow"><span>표시</span><label><input type="checkbox" id="ckRoles" ${st.roles?'checked':''}> 역할 이름</label></div>
+    <div class="trow"><span></span><label><input type="checkbox" id="ckHard" ${st.hard?'checked':''}> 새 단어 강조</label></div>`;
+  const upd=(id,key,fmt)=>{const el=$('#'+id);el.oninput=e=>{S.set[key]=+e.target.value;el.nextElementSibling.textContent=fmt(+e.target.value);applyTextStyle();save();};};
+  upd('fs','fs',v=>v); upd('lh','lh',v=>v.toFixed(2)); upd('rate','rate',v=>v.toFixed(2));
+  $('#ckRoles').onchange=e=>{S.set.roles=e.target.checked;save();const x=$('#text');if(x)x.classList.toggle('roles',S.set.roles);};
+  $('#ckHard').onchange=e=>{S.set.hard=e.target.checked;save();const x=$('#text');if(x)x.classList.toggle('showhard',S.set.hard);};
+}
+function applyTextStyle(){
+  document.documentElement.style.setProperty('--fs',S.set.fs+'px');
+  document.documentElement.style.setProperty('--lh',S.set.lh);
+}
+
+/* ---- 본문 ---- */
 function renderRead(n){
   const c=CH[n-1], rc=RD.chapters[n-1];
   const tagmap={}; rc.tags.forEach(([pi,si,ids])=>tagmap[pi+'.'+si]=ids);
   const lk=S.lookups[n]||{};
-  const st=S.set, mode=st.layout||'sent';
-  let html=`<div class="toolbar" id="tb">
-    <label>읽기 화면 <select id="layout">
-      <option value="sent" ${mode==='sent'?'selected':''}>문장별 줄바꿈</option>
-      <option value="flow" ${mode==='flow'?'selected':''}>이어서 읽기</option>
-      <option value="struct" ${mode==='struct'?'selected':''}>구조 펼침</option>
-    </select></label>
-    <label class="${mode==='struct'?'hide':''}">구조 표시 <select id="guide"><option value="all" ${st.guide==='all'?'selected':''}>모든 문장</option><option value="long" ${st.guide==='long'?'selected':''}>긴 문장만</option><option value="off" ${st.guide==='off'?'selected':''}>끔</option></select></label>
-    <button class="btn sm" id="ttsPlay">🔊 읽어주기</button><button class="btn sm" id="ttsStop">■</button>
-    <button class="btn sm advtog" id="advtog">⚙ 도구</button>
-    <span class="timer">⏱ <span id="tm">${fmtT(timer.ch===n?timer.secs:0)}</span></span>
-    <div class="adv">
-      <label><input type="checkbox" id="ckRoles" ${st.roles?'checked':''}> 역할 이름</label>
-      <label>글자 <input type="range" id="fs" min="15" max="28" step="1" value="${st.fs}"></label>
-      <label>줄간격 <input type="range" id="lh" min="1.5" max="2.6" step="0.05" value="${st.lh}"></label>
-      <label><input type="checkbox" id="ckTags" ${st.tags?'checked':''}> 구조 태그(번호)</label>
-      <label><input type="checkbox" id="ckHard"> 새 단어 강조</label>
-      <label>읽기 속도 <input type="range" id="rate" min="0.6" max="1.3" step="0.05" value="${st.rate}"></label>
-    </div>
-  </div>`;
-  const guideOn=st.guide!=='off'&&mode!=='struct';
-  html+=`<div class="text mode-${mode} ${guideOn?'guide':''} ${st.roles?'roles':''}" id="text"><div class="chno">CHAPTER ${esc(c.roman)}</div>`;
+  const st=S.set, mode=st.layout;
+  let html=`<div class="text mode-${mode} ${st.roles?'roles':''} ${st.hard?'showhard':''}" id="text"><div class="chno">CHAPTER ${esc(c.roman)}</div>`;
   if(c.title&&c.title!=='Conclusion')html+=`<div class="chtitle">${esc(c.title)}</div>`;
-  if(mode==='struct')html+=`<div class="modelegend"><b>번호 순서대로 위에서 아래로</b> 읽으세요. 왼쪽 세로선이 문장의 뼈대 — <b>주어</b>와 <span class="v">동사</span>입니다.<br>들여쓴 줄(└)은 <b>바로 위 어딘가에 매달린 꾸밈말</b>이고, 이름표의 <b>→숫자</b>가 무엇을 꾸미는지 가리킵니다. 줄을 누르면 그 대상이 파랗게 켜집니다.</div>`;
-  else if(mode==='sent')html+=`<div class="modelegend">한 줄에 <b>문장 하나</b>. 왼쪽 회색 숫자는 <b>문단·문장 번호</b>로, 읽은 후 확인 질문의 근거 번호와 같습니다.${guideOn?' 문장 안의 <b>주어</b>·<span class="v">동사</span>와 의미 단위 구분선도 함께 표시됩니다.':''}</div>`;
+  if(mode==='struct')html+=`<div class="modelegend"><b>번호 순서대로 위에서 아래로</b> 읽으세요. 왼쪽 세로선이 문장의 뼈대 — <b>주어</b>와 <span class="v">동사</span>입니다.<br>들여쓴 줄(└)은 <b>앞의 무언가에 매달린 꾸밈말</b>이고, 이름표의 <b>→숫자</b>가 무엇을 꾸미는지 가리킵니다. 줄을 누르면 그 대상이 켜집니다.</div>`;
+  else html+=`<div class="modelegend">한 줄에 <b>문장 하나</b>. 왼쪽 숫자는 <b>문단·문장 번호</b>로 읽은 후 확인 질문의 근거 번호와 같습니다. <b>문장을 누르면</b> 튜터 분석·구조 분석이 열립니다.</div>`;
   c.paras.forEach((para,pi)=>{
     if(mode==='struct'){
-      // 짧고 단순한 문장(대사 한 마디 등)은 도해로 펼치지 않고 한 줄로 둔다 — 펼칠 구조가 없다
       let plain=[];
       const flush=()=>{ if(plain.length){ html+='<p class="para plain">'+plain.join('')+'</p>'; plain=[]; } };
       para.forEach((sent,si)=>{
         const id=`${n}.${pi}.${si}`, sy=syn(n,pi,si), a=ANA[id];
         const nch=a&&a.chunks?a.chunks.length:(sy&&sy[2]?sy[2].length:0);
         if(!a&&(nch<3||sent.split(/\s+/).length<7)){
-          plain.push(`<span class="s" data-id="${id}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk,null)}</span></span>`);
+          plain.push(`<span class="s" data-id="${id}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}</span></span>`);
         }else{ flush(); html+=structBlock(n,pi,si,sent,tagmap[pi+'.'+si]||[]); }
       });
       flush();
@@ -731,14 +808,9 @@ function renderRead(n){
       html+='<p class="para">'+para.map((sent,si)=>{
         const id=`${n}.${pi}.${si}`, ids=tagmap[pi+'.'+si]||[];
         const has=!!ANA[id];
-        const sy=syn(n,pi,si);
-        const words=sent.split(/\s+/).length;
-        const g=guideOn&&(st.guide==='all'||(st.guide==='long'&&words>=12));
-        const inner=renderSent(sent,lk,g?sy:null);
         const tg=ids.filter(t=>HARDTAGS.has(t));
-        const tagHtml=tg.length?`<span class="tag" title="문장구조 ${tg.join(',')}">${tg.join('·')}</span>`:'';
-        return `<span class="s ${has?'hasan':''} ${S.bm[id]?'bm':''}" data-id="${id}" data-t="${ids.join(',')}"><span class="sn">${pi}·${si}</span><span class="sb">${inner}${has?'<span class="an" title="튜터 분석 있음">🔍</span>':''}${tagHtml}</span></span>`;
-      }).join(mode==='sent'?'':' ')+'</p>';
+        return `<span class="s ${has?'hasan':''} ${S.bm[id]?'bm':''}" data-id="${id}" data-t="${ids.join(',')}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}${has?'<span class="an" title="튜터 분석 있음">🔍</span>':''}</span></span>`;
+      }).join('')+'</p>';
       if(c.notes&&c.notes[String(pi)])html+=`<div class="fn">※ ${esc(c.notes[String(pi)])}</div>`;
     }
   });
@@ -748,18 +820,6 @@ function renderRead(n){
     <div class="bnav"><button class="btn sm" id="prevCh" ${n===1?'disabled':''}>← 이전 장</button><button class="btn sm" id="nextCh" ${n===CH.length?'disabled':''}>다음 장 →</button></div></div></div>`;
   $('#pane').innerHTML=html;
   applyTextStyle();
-  startTimer(n);
-  $('#layout').onchange=e=>{S.set.layout=e.target.value;save();renderRead(n);window.scrollTo(0,0);};
-  $('#guide').onchange=e=>{S.set.guide=e.target.value;save();renderRead(n);};
-  $('#ckRoles').onchange=e=>{S.set.roles=e.target.checked;save();$('#text').classList.toggle('roles',S.set.roles);};
-  $('#advtog').onclick=()=>$('#tb').classList.toggle('open');
-  $('#fs').oninput=e=>{S.set.fs=+e.target.value;applyTextStyle();save();};
-  $('#lh').oninput=e=>{S.set.lh=+e.target.value;applyTextStyle();save();};
-  $('#ckTags').onchange=e=>{S.set.tags=e.target.checked;save();applyTextStyle();};
-  $('#ckHard').onchange=e=>{$('#text').classList.toggle('showhard',e.target.checked);};
-  $('#rate').oninput=e=>{S.set.rate=+e.target.value;save();};
-  $('#ttsPlay').onclick=()=>speakFrom(null);
-  $('#ttsStop').onclick=stopSpeak;
   $('#finishRead').onclick=()=>finishRead(n);
   $('#prevCh').onclick=()=>openChapter(n-1,'pre');
   $('#nextCh').onclick=()=>openChapter(n+1,'pre');
@@ -768,11 +828,9 @@ function renderRead(n){
     if(tk){showPop(tk,n);e.stopPropagation();return;}
     const row=e.target.closest('.sx .row');
     if(row){ litRow(row); e.stopPropagation(); return; }
-    if(e.target.closest('.an')||e.target.closest('.tag')||e.target.closest('.gb')){openDrawer(e.target.closest('.s').dataset.id);return;}
     const sxh=e.target.closest('.sx .hd'); if(sxh){openDrawer(sxh.parentNode.dataset.id);return;}
     const sEl=e.target.closest('.s'); if(sEl){openDrawer(sEl.dataset.id);}
   };
-  if(st.guide==='all'&&mode!=='struct'&&Object.keys(S.done).length>=7&&!st.fadeHint){S.set.fadeHint=1;save();setTimeout(()=>toast('7장을 넘겼습니다. 구조 표시를 "긴 문장만"으로 줄여 스스로 읽는 연습을 시작해 보세요.'),800);}
   if(S.cur.sid&&S.cur.sid.startsWith(n+'.')){const el=document.querySelector(`[data-id="${S.cur.sid}"]`);if(el)setTimeout(()=>el.scrollIntoView({block:'center'}),50);}
 }
 // 누른 줄이 무엇을 꾸미는지 켜서 보여준다
@@ -783,16 +841,11 @@ function litRow(row){
   const hk=+row.dataset.hk;
   if(hk>=0){const t=box.querySelector(`.row[data-i="${hk}"]`); if(t)t.classList.add('lit');}
 }
-function applyTextStyle(){
-  document.documentElement.style.setProperty('--fs',S.set.fs+'px');
-  document.documentElement.style.setProperty('--lh',S.set.lh);
-  const t=$('#text'); if(t){t.querySelectorAll('.tag').forEach(x=>x.style.display=S.set.tags?'':'none');}
-}
 // 문장 하나를 '구조 펼침'으로: 의미 단위를 번호 순서대로 쌓고, 무엇을 꾸미는지 표시한다
 function structBlock(n,pi,si,sent,ids){
   const id=`${n}.${pi}.${si}`, a=ANA[id], sy=syn(n,pi,si);
   let rows='', src='';
-  if(a&&a.chunks&&a.chunks.length){          // 튜터가 직접 쓴 분석이 있으면 그것을 쓴다 (한국어 뜻까지)
+  if(a&&a.chunks&&a.chunks.length){
     src='<span class="src tut">튜터 분석</span>';
     rows=a.chunks.map((ck,k)=>{
       const isS=a.s&&ck.en.includes(a.s), isV=a.v&&ck.en.includes(a.v);
@@ -800,7 +853,7 @@ function structBlock(n,pi,si,sent,ids){
         <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(ck.en)}</span>
         <span class="ko">${esc(ck.ko)}</span>${ck.r?`<span class="rl">${esc(ck.r)}</span>`:''}</span></div>`;
     }).join('');
-  }else if(sy&&sy[2]&&sy[2].length){         // 없으면 자동 구문 분석
+  }else if(sy&&sy[2]&&sy[2].length){
     src='<span class="src">자동 분석</span>';
     const ch=sy[2], starts=ch.map(x=>x[0]).concat([sent.length]);
     rows=ch.map((x,k)=>{
@@ -822,18 +875,14 @@ function structBlock(n,pi,si,sent,ids){
   const full=a&&a.ko?`<div class="full"><span class="lbl">전체 뜻</span>${esc(a.ko)}</div>`:'';
   return `<div class="sx ${S.bm[id]?'bm':''}" data-id="${id}"><div class="hd"><span class="loc">${pi}·${si}</span>${tagHtml}${src}</div>${rows}${full}</div>`;
 }
-// 문장 하나를 HTML 로: 단어를 span 으로 감싸고, (가이드가 있으면) 주어·동사 표시와 의미 단위 경계를 넣는다
-function renderSent(s,lk,sy){
+// 문장 하나를 HTML 로: 단어마다 span (뜻 팝업용)
+function renderSent(s,lk){
   const re=/[’']?[A-Za-z][A-Za-z’'-]*/g; let out='', last=0, m;
-  const chunks=sy?sy[2]:[]; let ci=0; const showLabels=s.split(/\s+/).length>=6;
-  const Ss=sy&&sy[0]?sy[0]:null, Vs=sy&&sy[1]?sy[1]:null;
   while((m=re.exec(s))){
     const o=m.index, w=m[0];
     out+=esc(s.slice(last,o));
-    if(sy){ while(ci<chunks.length&&chunks[ci][0]<=o){ if(ci>0){const r=chunks[ci][1];const nest=r.includes('>');const lastR=lastRole(r);const lab=showLabels&&LABEL_ROLES.has(lastR)?`<i>${esc(roleName(r))}</i>`:'';out+=`<span class="gb ${nest?'nest':''}">${lab}</span>`;} ci++; } }
     const i=lookupIdx(w); const cls=['tk'];
-    if(Ss&&o>=Ss[0]&&o<Ss[1])cls.push('gS'); if(Vs&&o>=Vs[0]&&o<Vs[1])cls.push('gV');
-    if(i>=0){ const v=VOCAB[i]; if(lk[i])cls.push('lk'); if(S.cards[i])cls.push('incd'); if((v.l===2||v.l===3)&&!isKnownIdx(i))cls.push('hd');
+    if(i>=0){ const v=VOCAB[i]; if(lk&&lk[i])cls.push('lk'); if(S.cards[i])cls.push('incd'); if((v.l===2||v.l===3)&&!isKnownIdx(i))cls.push('hd');
       out+=`<span class="${cls.join(' ')}" data-i="${i}" data-w="${esc(w)}">${esc(w)}</span>`; }
     else out+=`<span class="${cls.join(' ')}" data-w="${esc(w)}">${esc(w)}</span>`;
     last=o+w.length;
@@ -842,15 +891,9 @@ function renderSent(s,lk,sy){
   return out;
 }
 function finishRead(n){
-  const secs0=timer.secs||1;
-  if(secs0<45&&!confirm('읽기 시간이 1분도 안 됩니다. 정말 다 읽으셨나요? (기록에 남습니다)'))return;
-  pauseTimer();
-  const secs=timer.secs||1, tok=RD.chapters[n-1].tok;
-  const wpm=Math.round(tok/(secs/60));
-  S.reads[n]=S.reads[n]||[]; S.reads[n].push({d:dayNum(),secs,wpm}); logDay('read',secs);
-  timer={on:false,secs:0,iv:null,ch:0};
-  S.cur.phase='post'; save(); renderPane(); renderChList();
-  toast(`읽기 시간 ${fmtT(secs)} · ${wpm} WPM 기록`);
+  S.reads[n]=S.reads[n]||[]; S.reads[n].push({d:dayNum()});
+  S.cur.phase='post'; save(); renderReadbar(); renderPane(); renderChList();
+  window.scrollTo(0,0);
 }
 window.addEventListener('scroll',()=>{ // 이어읽기 위치 저장(가장 위에 보이는 문장)
   if(S.cur.phase!=='read')return; clearTimeout(window._sc); window._sc=setTimeout(()=>{
@@ -864,8 +907,7 @@ function renderPost(n){
   const g=GD[n], reads=S.reads[n]||[], lk=S.lookups[n]||{};
   const last=reads[reads.length-1];
   let html=`<div class="card"><h3>${n}장 · 읽은 후</h3>`;
-  html+=`<div class="stat">${reads.length?`<div><b>${fmtT(last.secs)}</b><span>마지막 읽기 시간</span></div><div><b>${last.wpm}</b><span>WPM (분당 단어)</span></div><div><b>${reads.length}</b><span>읽은 횟수</span></div>`:'<div><b>—</b><span>아직 읽기 기록 없음</span></div>'}<div><b>${Object.keys(lk).length}</b><span>눌러 본 단어</span></div></div>`;
-  if(reads.length>1)html+=`<p class="note" style="margin-top:8px">읽기 속도 변화: ${reads.map(r=>r.wpm+' WPM').join(' → ')} — 반복 읽기의 효과입니다.</p>`;
+  html+=`<div class="stat"><div><b>${reads.length}</b><span>읽은 횟수</span></div><div><b>${Object.keys(lk).length}</b><span>눌러 본 단어</span></div></div>`;
   html+=`<div class="row" style="margin-top:10px"><button class="btn" id="reread">같은 장 다시 읽기 (반복 읽기)</button>`;
   if(Object.keys(lk).length)html+=`<button class="btn" id="lk2card">눌러 본 단어 ${Object.keys(lk).length}개 → 카드에 추가</button>`;
   html+=`</div></div>`;
@@ -1184,12 +1226,10 @@ function renderStruct(){
 /* ================= 기록 ================= */
 function renderStats(){
   const chDone=Object.keys(S.done).length; const reads=[].concat(...Object.entries(S.reads).map(([n,r])=>r.map(x=>Object.assign({n:+n},x))));
-  const secs=reads.reduce((a,r)=>a+r.secs,0); const cards=Object.values(S.cards); const mature=cards.filter(c=>c.iv>=21).length;
+  const cards=Object.values(S.cards); const mature=cards.filter(c=>c.iv>=21).length;
   const days=Object.keys(S.log).map(Number).sort(); let streak=0; const d=dayNum(); for(let k=d;S.log[k];k--)streak++;
   const known=Object.keys(S.known).length;
-  $('#st').innerHTML=[['완료한 장',`${chDone} / ${CH.length}`],['총 읽기 시간',`${Math.round(secs/60)}분`],['읽기 횟수',reads.length],['단어 카드',cards.length],['익힌 카드(21일↑)',mature],['알아요 표시',known],['연속 학습일',`${streak}일`]].map(([k,v])=>`<div><b>${v}</b><span>${k}</span></div>`).join('');
-  const last=reads.slice(-24); const mx=Math.max(100,...last.map(r=>r.wpm));
-  $('#wpmbars').innerHTML=last.map(r=>`<i style="height:${r.wpm/mx*100}%" title="${r.n}장 ${r.wpm} WPM"><span>${r.n}장</span></i>`).join('')||'<p class="note">읽기 기록이 쌓이면 여기에 그래프가 그려집니다.</p>';
+  $('#st').innerHTML=[['완료한 장',`${chDone} / ${CH.length}`],['읽은 횟수',reads.length],['단어 카드',cards.length],['익힌 카드(21일↑)',mature],['알아요 표시',known],['연속 학습일',`${streak}일`]].map(([k,v])=>`<div><b>${v}</b><span>${k}</span></div>`).join('');
   // 전체 커버리지
   let tok=0,cov=0; RD.chapters.forEach(rc=>{tok+=rc.tok;cov+=rc.l1+rc.pn;rc.words.forEach(([i,c])=>{if(isKnownIdx(i))cov+=c;});});
   const pct=cov/tok*100; const cls=pct>=98?'':pct>=95?'warn':'bad';
@@ -1201,7 +1241,13 @@ $('#reset').onclick=()=>{if(confirm('모든 기록(카드·읽기·답안)을 �
 
 /* ================= 시작 ================= */
 function hdr(){const due=dueCards().length;$('#hdr').textContent=`오늘 복습 ${due}개 · 완료 ${Object.keys(S.done).length}/${CH.length}장`;}
-renderChList(); renderPane(); updBadge(); hdr(); setInterval(hdr,5000);
+if(S.set.layout!=='book'&&S.set.layout!=='struct')S.set.layout='book';   // 옛 설정값 정리
+renderChList(); renderReadbar(); renderPane(); updBadge(); hdr(); setInterval(hdr,5000);
+// 고정 틀이 화면 맨 위에 붙었는지 감지해 아이폰 상태바 여백을 켠다
+(function(){ const st=$('#stick'); const sen=document.createElement('div');
+  sen.style.cssText='height:1px'; st.parentNode.insertBefore(sen,st);
+  try{ new IntersectionObserver(([e])=>st.classList.toggle('stuck',!e.isIntersecting),{threshold:0}).observe(sen); }
+  catch(e){ st.classList.add('stuck'); } })();
 document.addEventListener('visibilitychange',()=>{ if(document.hidden)hidePop(); });
 // 읽기 진행 막대 + 맨 위로
 window.addEventListener('scroll',()=>{ const h=document.documentElement; const p=h.scrollHeight>h.clientHeight?window.scrollY/(h.scrollHeight-h.clientHeight)*100:0; $('#prog').style.width=p+'%'; $('#totop').style.opacity=window.scrollY>600?'1':'0'; $('#totop').style.pointerEvents=window.scrollY>600?'auto':'none'; },{passive:true});
