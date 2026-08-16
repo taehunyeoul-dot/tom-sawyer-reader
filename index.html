@@ -26,33 +26,29 @@
   --fs:19px; --lh:1.9;
 }
 *{box-sizing:border-box}
+/* 더블탭으로 화면이 커지지 않게 한다. 두 손가락 확대(핀치)는 그대로 쓸 수 있다. */
+html{touch-action:manipulation;-webkit-text-size-adjust:100%}
+button,select,label,.chip,.btn{touch-action:manipulation}
 /* 역할 이름표(절대 위치)와 드로어가 화면 오른쪽으로 삐져나가 모바일 화면이 축소되는 것을 막는다.
    overflow-x:clip 은 스크롤 상자를 만들지 않으므로 sticky(상단 탭·도구막대)가 그대로 동작한다. */
 html{overflow-x:clip}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
 button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
 button{cursor:pointer}
-header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#eaeefc;
-  padding:calc(13px + env(safe-area-inset-top)) 18px 12px}
-header .wrap{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-header h1{margin:0;font-size:17px;font-weight:650;letter-spacing:-.01em;color:#fff}
-header .sub{opacity:.72;font-size:12px}
-header .sub i{font-style:italic}
-header .today{margin-left:auto;font-size:12px;opacity:.9;font-variant-numeric:tabular-nums}
-/* 아이콘과 같은 문장 도해 기호 */
-header .mark{position:relative;width:20px;height:20px;flex:none}
-header .mark i{position:absolute;left:0;top:9px;width:20px;height:2px;background:#fff;border-radius:1px}
-header .mark b{position:absolute;left:9px;top:2px;width:2px;height:16px;background:#9db8ff;border-radius:1px}
+header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#fff;
+  padding:calc(5px + env(safe-area-inset-top)) 12px 5px;display:flex;align-items:center;gap:7px}
+header h1{margin:0;font-size:14px;font-weight:650;letter-spacing:-.01em;line-height:1.3}
+header .mark{position:relative;width:15px;height:15px;flex:none}
+header .mark i{position:absolute;left:0;top:7px;width:15px;height:1.5px;background:#fff;border-radius:1px}
+header .mark b{position:absolute;left:6.5px;top:1.5px;width:1.5px;height:12px;background:#9db8ff;border-radius:1px}
 /* 상단 고정 틀: 탭 ~ 읽기 화면 전환까지 한 덩어리로 화면 위에 붙여 둔다.
    아이폰 노치·상태바에 가리지 않도록 안전영역(env(safe-area-inset-*))만큼 띄운다. */
 #stick{position:sticky;top:0;z-index:30;background:var(--panel);
   border-bottom:1px solid var(--line);box-shadow:0 1px 0 rgba(20,23,31,.04);
-  transition:padding-top .12s}
-/* 화면 맨 위에 붙었을 때만 아이폰 상태바(노치)만큼 띄운다 — 평소엔 빈 줄이 생기지 않게 */
-#stick.stuck{padding-top:env(safe-area-inset-top)}
+}
 nav{background:var(--panel)}
 nav .wrap{max-width:1180px;margin:0 auto;display:flex;padding:0;border-bottom:1px solid var(--line)}
-nav button{flex:1 1 0;min-width:0;background:none;border:0;padding:11px 2px 9px;font-size:13px;
+nav button{flex:1 1 0;min-width:0;background:none;border:0;padding:9px 2px 7px;font-size:13px;
   font-weight:600;color:var(--muted);white-space:nowrap;position:relative;
   border-bottom:3px solid transparent;font-family:inherit;letter-spacing:-.01em}
 nav button + button::before{content:"";position:absolute;left:0;top:22%;height:56%;width:1px;background:var(--line)}
@@ -85,7 +81,7 @@ section.tab{display:none}section.tab.on{display:block}
 .meter i.warn{background:var(--l2)}
 .meter i.bad{background:var(--l3)}
 textarea{width:100%;min-height:70px;border:1px solid var(--line);border-radius:7px;padding:8px;background:#fff;resize:vertical}
-input[type=text],input[type=search]{border:1px solid var(--line);border-radius:7px;padding:8px 10px;background:#fff}
+input[type=text],input[type=search]{border:1px solid var(--line);border-radius:7px;padding:8px 10px;background:#fff;font-size:16px}
 input[type=range]{vertical-align:middle}
 kbd{font-family:var(--serif);background:var(--soft);padding:0 4px;border-radius:3px}
 /* ---- 읽기 레이아웃 */
@@ -100,24 +96,26 @@ aside.chl .st.done{color:var(--accent2)}
 aside.chl .mini{height:3px;background:var(--soft);border-radius:2px;margin:2px 8px 6px 40px;overflow:hidden}
 aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .chsel{display:none;margin-bottom:10px}
-.phases{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:8px 0 0}
-.phases button{background:var(--panel);border:1px solid var(--line);border-radius:8px;
-  padding:7px 4px 6px;font-size:13px;font-weight:650;color:var(--muted);font-family:inherit;
-  display:flex;flex-direction:column;align-items:center;gap:1px;line-height:1.25}
-.phases button small{font-size:10.5px;font-weight:400;opacity:.85}
+.phases{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;margin:5px 0 0}
+.phases button{background:var(--panel);border:1px solid var(--line);border-radius:7px;
+  padding:5px 3px 4px;font-size:12.5px;font-weight:650;color:var(--muted);font-family:inherit;
+  display:flex;flex-direction:column;align-items:center;line-height:1.2}
+.phases button small{font-size:10px;font-weight:400;opacity:.8}
 .phases button.on{background:var(--cobalt);color:#fff;border-color:var(--cobalt)}
 .phases button.done::after{content:"✓";font-size:10px;color:var(--l1)}
 .phases button.on.done::after{color:#cfe0d6}
 /* 읽기 화면 전환: 소설책 / 구조분석 */
-.modesw{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin:6px 0 0}
-.modesw button{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 4px;
-  font-size:13px;font-weight:650;color:var(--muted);font-family:inherit}
+.modesw{display:flex;gap:5px;margin:5px 0 0}
+.modesw button{flex:1}
+.modesw button.ic{flex:none;width:32px;padding:6px 0;font-size:12.5px}
+.modesw button{background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:6px 4px;
+  font-size:12.5px;font-weight:650;color:var(--muted);font-family:inherit}
 .modesw button.on{background:var(--cobalt-wash);border-color:var(--cobalt);color:var(--cobalt-deep)}
-.readbar{max-width:1180px;margin:0 auto;padding:0 12px 9px}
+.readbar{max-width:1180px;margin:0 auto;padding:0 12px 7px}
 .readbar .line2{display:flex;gap:6px;align-items:center;margin-top:6px}
 .readbar .line2 .btn{flex:none}
-.readbar select{flex:1;min-width:0;padding:7px 9px;font-size:13px;border:1px solid var(--line);
-  border-radius:8px;background:var(--panel);font-family:inherit}
+.readbar select{width:100%;padding:6px 9px;font-size:13px;border:1px solid var(--line);
+  border-radius:7px;background:var(--panel);font-family:inherit;margin-top:6px}
 /* 도구: 한 줄에 한 기능 */
 .tools{display:none;max-width:1180px;margin:0 auto;padding:2px 12px 10px}
 .tools.on{display:block}
@@ -248,7 +246,6 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .wrow.incard .wtop .ww{color:var(--accent2)}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
-.progress{position:fixed;left:0;top:0;height:3px;background:var(--accent2);width:0;z-index:40;transition:width .15s}
 .totop{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
 /* ---- 주어·동사 퀴즈 */
 .qz2 .qs{font-family:var(--serif);font-size:19px;line-height:1.9;background:var(--soft);padding:14px 16px;border-radius:8px}
@@ -384,16 +381,11 @@ tr.incard td .w{color:var(--accent2)}
 </style>
 </head>
 <body>
-<header><div class="wrap">
-  <span class="mark" aria-hidden="true"><i></i><b></b></span>
-  <h1>톰 소여의 모험 리더</h1>
-  <span class="sub">Mark Twain, <i>The Adventures of Tom Sawyer</i> (1876) · 36장</span>
-  <span class="today" id="hdr"></span>
-</div></header>
-<div class="progress" id="prog"></div>
+
 <button class="totop" id="totop" title="맨 위로">↑</button>
 
 <div id="stick">
+  <header><span class="mark" aria-hidden="true"><i></i><b></b></span><h1>톰 소여의 모험</h1></header>
   <nav><div class="wrap">
     <button class="on" data-t="read">읽기</button>
     <button data-t="srs">단어<span class="badge hide" id="dueBadge">0</span></button>
@@ -743,11 +735,9 @@ function renderReadbar(){
     ${p==='read'?`<div class="modesw">
       <button data-m="book" class="${mode==='book'?'on':''}">소설책</button>
       <button data-m="struct" class="${mode==='struct'?'on':''}">구조분석</button>
-    </div>
-    <div class="line2">
-      <button class="btn sm" id="ttsPlay">🔊 읽어주기</button>
-      <button class="btn sm" id="ttsStop">■</button>
-      <button class="btn sm" id="toolstog">도구</button>
+      <button class="ic" id="ttsPlay" title="읽어주기">🔊</button>
+      <button class="ic" id="ttsStop" title="멈춤">■</button>
+      <button class="ic" id="toolstog" title="도구">⚙</button>
     </div>`:''}`;
   $('#chsel').onchange=e=>openChapter(+e.target.value,S.cur.phase);
   bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
@@ -1240,17 +1230,12 @@ $('#imp').onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileRe
 $('#reset').onclick=()=>{if(confirm('모든 기록(카드·읽기·답안)을 지웁니다. 계속할까요?')){localStorage.removeItem(KEY);location.reload();}};
 
 /* ================= 시작 ================= */
-function hdr(){const due=dueCards().length;$('#hdr').textContent=`오늘 복습 ${due}개 · 완료 ${Object.keys(S.done).length}/${CH.length}장`;}
 if(S.set.layout!=='book'&&S.set.layout!=='struct')S.set.layout='book';   // 옛 설정값 정리
-renderChList(); renderReadbar(); renderPane(); updBadge(); hdr(); setInterval(hdr,5000);
-// 고정 틀이 화면 맨 위에 붙었는지 감지해 아이폰 상태바 여백을 켠다
-(function(){ const st=$('#stick'); const sen=document.createElement('div');
-  sen.style.cssText='height:1px'; st.parentNode.insertBefore(sen,st);
-  try{ new IntersectionObserver(([e])=>st.classList.toggle('stuck',!e.isIntersecting),{threshold:0}).observe(sen); }
-  catch(e){ st.classList.add('stuck'); } })();
+renderChList(); renderReadbar(); renderPane(); updBadge();
+
 document.addEventListener('visibilitychange',()=>{ if(document.hidden)hidePop(); });
 // 읽기 진행 막대 + 맨 위로
-window.addEventListener('scroll',()=>{ const h=document.documentElement; const p=h.scrollHeight>h.clientHeight?window.scrollY/(h.scrollHeight-h.clientHeight)*100:0; $('#prog').style.width=p+'%'; $('#totop').style.opacity=window.scrollY>600?'1':'0'; $('#totop').style.pointerEvents=window.scrollY>600?'auto':'none'; },{passive:true});
+window.addEventListener('scroll',()=>{ $('#totop').style.opacity=window.scrollY>600?'1':'0'; $('#totop').style.pointerEvents=window.scrollY>600?'auto':'none'; },{passive:true});
 $('#totop').onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
 // 오프라인용 서비스 워커 (GitHub Pages 등 https 에서만; 로컬 파일로 열면 건너뜀)
 if('serviceWorker' in navigator&&location.protocol.startsWith('http')){navigator.serviceWorker.register('sw.js').catch(()=>{});}
