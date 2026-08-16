@@ -587,6 +587,7 @@ const ANALYSES=/*__ANALYSES__*/;
 const GUIDES=/*__GUIDES__*/;
 const SYNTAX=/*__SYNTAX__*/;
 const GRAMMAR=/*__GRAMMAR__*/;
+const NEWS=/*__NEWS__*/;
 
 /* ================= 공통 ================= */
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
@@ -601,7 +602,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},news:{items:[]},newsDone:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},newsDone:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -802,7 +803,8 @@ function renderReadbar(){
     </div>` : '');
   const newsBar = (p==='read'&&S.cur.news) ? `
     <div class="modesw">
-      <button data-back="1" style="flex:1">← 기사 목록</button>
+      <button data-m="book" class="${mode==='book'?'on':''}">기사</button>
+      <button data-m="struct" class="${mode==='struct'?'on':''}">구조분석</button>
       <button class="ic" id="ttsPlay" title="읽어주기">🔊</button>
       <button class="ic" id="ttsStop" title="멈춤">■</button>
       <button class="ic" id="toolstog" title="도구">⚙</button>
@@ -810,22 +812,23 @@ function renderReadbar(){
   bar.innerHTML = `
     <div class="srcsw">
       <button data-s="book" class="${srcNews?'':'on'}">소설</button>
-      <button data-s="news" class="${srcNews?'on':''}">뉴스${nState().items.length?` <b>${nState().items.length}</b>`:''}</button>
+      <button data-s="news" class="${srcNews?'on':''}">뉴스${NA.length?` <b>${NA.length}</b>`:''}</button>
     </div>` + (srcNews ? newsBar : bookBar);
   bar.querySelectorAll('.srcsw button').forEach(b=>b.onclick=()=>{
     S.cur.src=b.dataset.s; S.cur.phase=(b.dataset.s==='news')?(S.cur.news?'read':'list'):'pre'; save();
     renderReadbar(); renderPane(); window.scrollTo(0,0);});
   const bk=bar.querySelector('[data-back]'); if(bk)bk.onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
   const cs=$('#chsel'); if(cs)cs.onchange=e=>openChapter(+e.target.value,S.cur.phase);
+  // 소설책/구조분석 전환은 소설·뉴스 양쪽에서 쓰므로 먼저 연결한다
+  bar.querySelectorAll('.modesw button[data-m]').forEach(b=>b.onclick=()=>{
+    if(S.set.layout===b.dataset.m)return;
+    S.set.layout=b.dataset.m; save(); renderReadbar(); renderPane(); window.scrollTo(0,0);
+  });
   if(srcNews){ if(p==='read'){$('#ttsPlay').onclick=()=>speakFrom(null);$('#ttsStop').onclick=stopSpeak;
       $('#toolstog').onclick=()=>{const t=$('#tools');t.classList.toggle('on');if(t.classList.contains('on'))renderTools();};renderTools();}
     else $('#tools').classList.remove('on');
     return; }
   bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
-  bar.querySelectorAll('.modesw button').forEach(b=>b.onclick=()=>{
-    if(S.set.layout===b.dataset.m)return;
-    S.set.layout=b.dataset.m; save(); renderReadbar(); renderPane();
-  });
   if(p==='read'){
     $('#ttsPlay').onclick=()=>speakFrom(null);
     $('#ttsStop').onclick=stopSpeak;
@@ -1038,7 +1041,7 @@ function showPop(tk,n){
         <button class="btn sm" id="pc_known">${S.known[i]?'알아요 취소':'알아요 (다시 안 물음)'}</button>
         <button class="btn sm" id="pc_say">🔊</button>
       </div>`;
-    $('#pc_card').onclick=()=>{if(S.cards[i]){delete S.cards[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.remove('incd'));}else{addCard(i,tk.closest('.s').dataset.id);delete S.known[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.add('incd'));}save();showPop(tk,n);};
+    $('#pc_card').onclick=()=>{if(S.cards[i]){delete S.cards[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.remove('incd'));}else{addCard(i,cardSid(tk,n));delete S.known[i];$$(`.tk[data-i="${i}"]`).forEach(x=>x.classList.add('incd'));}save();showPop(tk,n);};
     $('#pc_known').onclick=()=>{if(S.known[i])delete S.known[i];else{S.known[i]=1;delete S.cards[i];}save();showPop(tk,n);renderChList();};
     $('#pc_say').onclick=()=>speakText(w);
   }
@@ -1053,6 +1056,22 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){hidePop();closeDraw
 
 /* ================= 문장 드로어 ================= */
 function sentById(id){const [n,pi,si]=id.split('.').map(Number);return CH[n-1].paras[pi][si];}
+// 카드에 남길 문장 위치. 소설은 "장.문단.문장", 뉴스는 "기사id|문단.문장"
+function cardSid(tk,n){
+  const sEl=tk.closest('.s')||tk.closest('.sx');
+  const d=sEl?sEl.dataset.id:null; if(!d)return null;
+  return (typeof n==='string') ? `${n}|${d}` : d;
+}
+// 카드 앞면에 보여줄 예문 (소설·뉴스 모두)
+function ctxSentence(sid){
+  if(!sid)return '';
+  if(sid.includes('|')){
+    const [aid,loc]=sid.split('|'); const a=NA.find(x=>x.id===aid); if(!a)return '';
+    const [pi,si]=loc.split('.').map(Number);
+    return (a.paras[pi]||[])[si]||'';
+  }
+  try{ return sentById(sid)||''; }catch(e){ return ''; }
+}
 function skeleton(s){ // 곁말 흐리게: 대시·괄호·삽입 관계절
   let h=esc(s);
   h=h.replace(/(—[^—]{4,120}—|\([^)]{2,120}\))/g,'<span class="dim">$1</span>');
@@ -1207,7 +1226,7 @@ function renderSRS(){
   if(!rvQueue.length){rvQueue=dueCards().sort((a,b)=>S.cards[a].due-S.cards[b].due||S.cards[a].rep-S.cards[b].rep).slice(0,40);}
   if(!rvQueue.length){rv.innerHTML=`<p style="font-size:18px">오늘 복습 끝! 🎉</p><p class="note">이번 세션 ${rvSess.done}개 (맞음 ${rvSess.ok}). 다음 복습분은 내일 나타납니다. 이제 읽기로 가세요.</p>`;rvSess={done:0,ok:0};return;}
   rvCur=rvQueue[0]; const i=rvCur, v=VOCAB[i], c=S.cards[i];
-  const ctxS=(c.sid&&sentById(c.sid))||v.e||'';
+  const ctxS=ctxSentence(c.sid)||v.e||'';
   const forms=[v.w].concat(v.f||[]).sort((a,b)=>b.length-a.length);
   const re=new RegExp('\\b('+forms.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')+')\\b','gi');
   const mode=$('#srsMode').value;
@@ -1292,96 +1311,64 @@ function chunkBoundaries(words){
   for(let i=1;i<words.length;i++){ if(b[i]&&(i+1>=words.length||b[i+1])&&!/[,;:—–]$/.test(words[i-1]))b[i]=false; }
   return b;
 }
-/* ================= 뉴스 (붙여넣기) =================
-   기사 본문은 이 기기의 브라우저 저장소에만 들어간다. 공개된 앱 파일에는 절대 포함되지 않는다.
-   그래서 저작권이 있는 기사도 개인 학습용으로 안전하게 쓸 수 있다. */
-function nState(){ S.news=S.news||{items:[]}; return S.news; }
-const newsItem=id=>nState().items.find(x=>x.id===id);
-// 문장 나누기 — 01_parse_gutenberg.py 와 같은 방식
-function splitSents(p){
-  const parts=p.split(/(?<=[.!?][’'"”)\]])\s+(?=[A-Z‘“'"(\[])|(?<=[.!?])\s+(?=[A-Z‘“'"(\[])/);
-  const out=[];
-  for(let s of parts){ s=s.trim(); if(!s)continue;
-    if(out.length&&(/\b(Mr|Mrs|Ms|Dr|St|Prof|Sgt|Lt|Capt|Rev|Jr|Sr|vs|etc|No)\.$/.test(out[out.length-1])||out[out.length-1].length<3))
-      out[out.length-1]+=' '+s; else out.push(s); }
-  return out;
-}
-function makeArticle(title,src,text){
-  const paras=text.replace(/\r/g,'').split(/\n\s*\n|\n/).map(x=>x.trim()).filter(x=>x.length>1).map(splitSents).filter(a=>a.length);
-  const words=paras.flat().join(' ').split(/\s+/).filter(Boolean).length;
-  return {id:'n'+Date.now().toString(36), title:title||'(제목 없음)', src:src||'', d:dayNum(), paras, words};
-}
+/* ================= 뉴스 (NASA) =================
+   NASA 기사는 미국 정부가 만든 자료라 저작권이 없어(퍼블릭 도메인) 앱에 넣어 공개할 수 있다.
+   소설과 똑같이 구문 분석(주어·동사·수식 관계)이 미리 붙어 있어 '구조분석' 화면도 그대로 쓴다. */
+const NA=(NEWS&&NEWS.articles)||[];
+function curArt(){ return NA.find(a=>a.id===S.cur.news)||NA[0]||null; }
 function renderNewsList(){
-  const items=nState().items;
+  const done=S.newsDone||{};
   let html=`<div class="card">
-    <h3 style="margin:0 0 4px">뉴스로 공부하기</h3>
-    <p class="note" style="margin:0 0 10px">읽고 싶은 영어 기사를 <b>본문만 복사해서 붙여넣으면</b> 소설과 똑같이 문장별로 나누고 단어 뜻을 붙여 줍니다.
-    기사 본문은 <b>이 기기에만 저장</b>되고 공개된 앱에는 올라가지 않습니다.</p>
-    <button class="btn pri" id="nAdd">＋ 기사 붙여넣기</button>
+    <h3 style="margin:0 0 4px">NASA 기사로 읽기</h3>
+    <p class="note" style="margin:0">우주·항공·과학 기사입니다. 소설과 똑같이 <b>단어를 누르면 뜻</b>, <b>문장을 누르면 구조분석</b>이 열립니다.
+    매일 새 기사가 자동으로 들어옵니다. ${NA.length?`지금 <b>${NA.length}건</b>.`:''}</p>
   </div>`;
-  if(!items.length){
-    html+=`<div class="card"><h4 style="margin:0 0 6px">이렇게 하시면 됩니다</h4>
-      <ol class="note" style="margin:0;padding-left:18px;line-height:1.9">
-        <li>브라우저에서 읽고 싶은 영어 기사를 엽니다 (BBC 등)</li>
-        <li>본문을 길게 눌러 <b>전체 선택 → 복사</b> (제목 위·아래 광고나 메뉴는 섞여도 괜찮습니다)</li>
-        <li>위의 <b>＋ 기사 붙여넣기</b>를 누르고 붙여넣습니다</li>
-        <li>바로 읽기 시작 — 단어를 누르면 뜻, 문장을 누르면 끊어읽기가 나옵니다</li>
-      </ol>
-      <p class="note" style="margin-top:10px">읽으면서 <b>카드</b>에 담은 단어는 소설 단어들과 함께 복습에 섞여 나옵니다.</p></div>`;
-  }else{
-    html+=`<div class="card" style="padding:6px 10px">`+items.slice().reverse().map(a=>`
-      <div class="nrow">
-        <button class="nopen" data-open="${a.id}">
-          <span class="nt">${esc(a.title)}</span>
-          <span class="nm">${a.words.toLocaleString()}단어 · ${dstr(a.d)}${a.src?' · '+esc(a.src):''}${S.newsDone&&S.newsDone[a.id]?' · 읽음':''}</span>
-        </button>
-        <button class="btn sm" data-del="${a.id}">삭제</button>
-      </div>`).join('')+`</div>`;
+  if(!NA.length){ html+=`<div class="card"><p class="note" style="margin:0">아직 받아 온 기사가 없습니다.
+    PC에서 <code>python scripts/12_fetch_nasa.py</code> 를 돌린 뒤 <code>13</code>·<code>08</code>번을 실행하면 채워집니다.</p></div>`; }
+  else{
+    html+=`<div class="card" style="padding:6px 10px">`+NA.map(a=>{
+      const lv=a.tok<300?'짧음':a.tok<700?'보통':'긺';
+      return `<div class="nrow"><button class="nopen" data-open="${a.id}">
+        <span class="nt">${esc(a.title)}</span>
+        <span class="nm">${a.date} · ${a.tok.toLocaleString()}단어 · ${lv}${done[a.id]?' · 읽음':''}</span>
+      </button></div>`;}).join('')+`</div>`;
+    html+=`<div class="card"><p class="note" style="margin:0">출처: NASA (미국 항공우주국) — 미국 정부 제작물로 저작권이 없습니다.
+    기사마다 원문 링크가 있습니다.</p></div>`;
   }
   $('#pane').innerHTML=html;
-  $('#nAdd').onclick=renderNewsAdd;
   $$('#pane [data-open]').forEach(b=>b.onclick=()=>{S.cur.news=b.dataset.open;S.cur.phase='read';save();renderReadbar();renderPane();window.scrollTo(0,0);});
-  $$('#pane [data-del]').forEach(b=>b.onclick=()=>{ if(!confirm('이 기사를 지울까요?'))return;
-    const n=nState(); n.items=n.items.filter(x=>x.id!==b.dataset.del); save(); renderNewsList(); });
 }
-function renderNewsAdd(){
-  $('#pane').innerHTML=`<div class="card">
-    <h3 style="margin:0 0 8px">기사 붙여넣기</h3>
-    <label class="note">제목 <input type="text" id="nTitle" placeholder="기사 제목" style="width:100%;margin:4px 0 10px"></label>
-    <label class="note">출처 (선택) <input type="text" id="nSrc" placeholder="예: BBC" style="width:100%;margin:4px 0 10px"></label>
-    <label class="note">본문 — 기사 본문을 통째로 붙여넣으세요</label>
-    <textarea id="nText" style="min-height:220px;margin-top:4px" placeholder="여기에 붙여넣기"></textarea>
-    <div class="row" style="margin-top:10px;justify-content:space-between">
-      <button class="btn" id="nCancel">취소</button>
-      <button class="btn pri" id="nSave">저장하고 읽기</button>
-    </div>
-    <p class="note" style="margin-top:10px">붙여넣은 글은 이 기기의 브라우저에만 저장됩니다. 기록 탭의 내보내기로 백업할 수 있습니다.</p>
-  </div>`;
-  $('#nCancel').onclick=renderNewsList;
-  $('#nSave').onclick=()=>{
-    const t=$('#nTitle').value.trim(), src=$('#nSrc').value.trim(), tx=$('#nText').value.trim();
-    if(tx.split(/\s+/).length<30){toast('본문이 너무 짧습니다. 기사 전체를 붙여넣어 주세요.');return;}
-    const a=makeArticle(t,src,tx); nState().items.push(a); S.cur.news=a.id; S.cur.phase='read'; save();
-    renderReadbar(); renderPane(); window.scrollTo(0,0);
-  };
-}
-// 뉴스 본문 읽기 — 소설과 같은 문장별 줄바꿈. 구조는 '끊어읽기'(기계 추정)까지만.
 function renderNewsRead(){
-  const a=newsItem(S.cur.news);
-  if(!a){ renderNewsList(); return; }
-  const st=S.set;
-  let html=`<div class="text mode-book" id="text">
-    <div class="chno">${esc(a.src||'뉴스')}</div><div class="chtitle">${esc(a.title)}</div>
-    <div class="modelegend">한 줄에 <b>문장 하나</b>. 단어를 누르면 뜻, <b>문장을 누르면 끊어읽기</b>가 열립니다.
-    뉴스는 자동 구문 분석 자료가 없어 <b>주어·동사 표시는 없고</b> 의미 단위 추정만 제공합니다.</div>`;
+  const a=curArt();
+  if(!a){ S.cur.phase='list'; renderNewsList(); return; }
+  const st=S.set, mode=st.layout, lk=S.lookups[a.id]||{};
+  let html=`<div class="text mode-${mode} ${st.roles?'roles':''} ${st.hard?'showhard':''}" id="text">
+    <div class="chno">${esc(a.source)} · ${a.date}</div><div class="chtitle">${esc(a.title)}</div>`;
+  if(mode==='struct')html+=`<div class="modelegend"><b>번호 순서대로 위에서 아래로</b> 읽으세요. 왼쪽 세로선이 <b>주어</b>와 <span class="v">동사</span>,
+    들여쓴 줄(└)은 꾸밈말이며 이름표의 <b>→숫자</b>가 무엇을 꾸미는지 가리킵니다.</div>`;
+  else html+=`<div class="modelegend">한 줄에 <b>문장 하나</b>. <b>문장을 누르면</b> 구조 분석이 열립니다.</div>`;
   a.paras.forEach((para,pi)=>{
-    html+='<p class="para">'+para.map((s,si)=>
-      `<span class="s" data-nid="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(s,S.lookups[a.id]||{})}</span></span>`
-    ).join('')+'</p>';
+    if(mode==='struct'){
+      let plain=[];
+      const flush=()=>{ if(plain.length){ html+='<p class="para plain">'+plain.join('')+'</p>'; plain=[]; } };
+      para.forEach((sent,si)=>{
+        const sy=(a.syn[pi]||[])[si];
+        const nch=sy&&sy[2]?sy[2].length:0;
+        if(nch<3||sent.split(/\s+/).length<7){
+          plain.push(`<span class="s" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}</span></span>`);
+        }else{ flush(); html+=newsStructBlock(a,pi,si,sent); }
+      });
+      flush();
+    }else{
+      html+='<p class="para">'+para.map((sent,si)=>
+        `<span class="s" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}</span></span>`
+      ).join('')+'</p>';
+    }
   });
-  html+=`<div class="end">기사 끝 (${a.words.toLocaleString()}단어)<br><br>
+  html+=`<div class="end">기사 끝 (${a.tok.toLocaleString()}단어)<br>
+    <a href="${esc(a.url)}" target="_blank" rel="noopener" class="note" style="color:var(--cobalt)">NASA 원문 보기 ↗</a><br><br>
     <button class="btn pri" id="nDone">다 읽었어요</button>
-    <div class="bnav"><button class="btn sm" id="nBack">← 목록으로</button></div></div></div>`;
+    <div class="bnav"><button class="btn sm" id="nBack">← 기사 목록</button></div></div></div>`;
   $('#pane').innerHTML=html;
   applyTextStyle();
   $('#nBack').onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
@@ -1389,23 +1376,43 @@ function renderNewsRead(){
   $('#text').onclick=e=>{
     const tk=e.target.closest('.tk');
     if(tk){showPop(tk,a.id);e.stopPropagation();return;}
-    const sEl=e.target.closest('.s'); if(sEl){openNewsDrawer(a,sEl.dataset.nid);}
+    const row=e.target.closest('.sx .row'); if(row){litRow(row);e.stopPropagation();return;}
+    const sxh=e.target.closest('.sx .hd'); if(sxh){openNewsDrawer(a,sxh.parentNode.dataset.id);return;}
+    const sEl=e.target.closest('.s'); if(sEl){openNewsDrawer(a,sEl.dataset.id);}
   };
 }
-// 뉴스 문장 패널 — 끊어읽기(기계 추정)와 듣기
+// 기사 문장 하나를 구조 펼침으로 (소설의 structBlock 과 같은 모양)
+function newsStructBlock(a,pi,si,sent){
+  const sy=(a.syn[pi]||[])[si];
+  let rows='';
+  if(sy&&sy[2]&&sy[2].length){
+    const ch=sy[2], starts=ch.map(x=>x[0]).concat([sent.length]);
+    rows=ch.map((x,k)=>{
+      const r=x[1], hk=(x[2]===undefined?-1:x[2]), last=lastRole(r);
+      const txt=sent.slice(starts[k],starts[k+1]).trim(); if(!txt)return '';
+      const d=rowDepth(ch,k);
+      const to=(hk>=0&&hk!==k)?` <span class="to">→${hk+1}</span>`:'';
+      return `<div class="row ${last==='S'?'is-S':''} ${last==='V'?'is-V':''}" data-i="${k}" data-hk="${hk}" data-d="${d}" style="--d:${d}">
+        <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(txt)}</span>
+        <span class="rl" title="${esc(ROLE_LONG[last]||'')}">${esc(roleName(r))}${to}</span></span></div>`;
+    }).join('');
+  }else rows=`<div class="row" data-i="0" data-hk="-1" data-d="0"><span class="n">1</span><span class="rb"><span class="en">${esc(sent)}</span></span></div>`;
+  return `<div class="sx" data-id="${pi}.${si}"><div class="hd"><span class="loc">${pi}·${si}</span><span class="src">자동 분석</span></div>${rows}</div>`;
+}
+// 기사 문장 패널 — 소설과 같은 방식(주어·동사 표시 + 의미 단위 표)
 function openNewsDrawer(a,nid){
   hidePop();
   const [pi,si]=nid.split('.').map(Number);
-  const s=a.paras[pi][si];
-  const words=s.split(/\s+/), b=chunkBoundaries(words);
-  let html=`<h3>문장 [${pi}·${si}] · 끊어읽기 (기계 추정)</h3>`;
-  html+=`<div class="sent">${esc(s)}</div>`;
-  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="ndSay">🔊 듣기</button></div>`;
-  html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위로 끊어 읽기</h4>
-    <div class="auto">${words.map((w,k)=>(b[k]?'<span class="cb"></span>':'')+esc(w)).join(' ')}</div>
-    <p class="note" style="margin-top:8px">쉼표·접속사·전치사 앞에서 끊은 것입니다. 소설과 달리 뉴스는 구문 분석을 미리 해 두지 않아
-    <b>주어·동사 표시와 역할 이름은 제공하지 않습니다.</b> 앞에서부터 덩어리째 읽어 내려가는 연습에 쓰세요.</p>`;
+  const s=a.paras[pi][si], sy=(a.syn[pi]||[])[si];
+  let html=`<h3>문장 [${pi}·${si}] · 자동 분석</h3>`;
+  html+=`<div class="sent" id="drSent">${markSVspan(s,sy)}</div>`;
+  html+=`<div class="legend"><i style="background:#e9eefc;border-bottom:2px solid var(--l1)"></i>주절 주어 <i style="background:#fbeae8;border-bottom:2px solid var(--l3)"></i>주절 동사</div>`;
+  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="ndSkel">곁말 흐리게</button><button class="btn sm" id="ndSay">🔊 듣기</button></div>`;
+  html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위와 역할 (자동 분석)</h4>${autoTable(s,sy)}
+    <p class="note" style="margin-top:8px">컴퓨터 구문 분석기가 붙인 것이라 열에 하나쯤은 틀립니다. 앞에서부터 <b>주어 → 동사 → 나머지</b> 순으로 덩어리째 읽어 보세요.</p>`;
   $('#drc').innerHTML=html; $('#drawer').classList.add('on');
+  let skel=false;
+  $('#ndSkel').onclick=()=>{skel=!skel;$('#drSent').innerHTML=skel?skeleton(s):markSVspan(s,sy);};
   $('#ndSay').onclick=()=>speakText(s);
 }
 
