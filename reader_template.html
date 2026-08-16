@@ -292,6 +292,44 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .nopen .nm{display:block;font-size:11px;color:var(--muted);margin-top:3px}
 .auto{font-family:var(--serif);font-size:15.5px;line-height:1.95;margin-top:6px}
 .auto .cb{display:inline-block;width:1px;height:.95em;background:#9db2e8;margin:0 5px 0 4px;vertical-align:-2px}
+/* ---- 정밀 확인 ------------------------------------------------------ */
+#vwrap{position:fixed;inset:0;z-index:80;background:rgba(20,23,31,.45);display:none;overflow:auto;
+  padding:calc(14px + env(safe-area-inset-top)) 10px calc(24px + env(safe-area-inset-bottom))}
+#vwrap.on{display:block}
+.vinner{max-width:720px;margin:0 auto}
+.vcard{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px 15px 16px;
+  box-shadow:0 12px 40px rgba(13,42,120,.18)}
+.vhd{font-family:var(--mono);font-size:11px;color:var(--cobalt);margin-bottom:8px;letter-spacing:.02em}
+.vmine{margin-top:10px;background:var(--soft);border-left:3px solid var(--cobalt-soft);border-radius:0 7px 7px 0;
+  padding:9px 11px;font-size:14px;line-height:1.65;white-space:pre-wrap;overflow-wrap:break-word}
+.vmine .lbl{display:block;font-family:var(--mono);font-size:10px;color:var(--muted);margin-bottom:3px}
+.vchecks{display:grid;gap:9px}
+.vchk{border:1px solid var(--rule);border-radius:9px;padding:10px 11px}
+.vchk.ok{border-color:var(--l1);background:#f2f8f4}
+.vchk.no{border-color:var(--brick);background:var(--brick-wash)}
+.vq{font-size:14px;line-height:1.6;margin-bottom:7px}
+.vtag{display:inline-block;font-family:var(--sans);font-size:11px;font-weight:700;background:var(--chip);
+  color:var(--cobalt-deep);border-radius:4px;padding:2px 7px;margin-right:7px;vertical-align:1.5px;white-space:nowrap}
+.va .ans{font-size:14px;line-height:1.6;background:var(--cobalt-wash);border-radius:6px;padding:8px 10px}
+.va .tip2{font-size:12.5px;color:#4a5265;margin-top:6px;line-height:1.6}
+.vfull{margin-top:9px;padding:10px 12px;background:var(--soft);border-radius:7px;font-size:14px;line-height:1.7}
+.vlist{display:grid;gap:5px}
+.vitem{display:flex;gap:8px;align-items:center;width:100%;background:var(--panel);border:1px solid var(--rule);
+  border-radius:7px;padding:8px 9px;text-align:left;font-family:inherit}
+.vitem:hover{background:var(--soft)}
+.vitem.done{border-color:var(--l1);background:#f5faf7}
+.vitem .vn{font-family:var(--mono);font-size:10.5px;color:var(--cobalt-soft);flex:none;width:1.4em;text-align:right}
+.vitem .vt{flex:1;min-width:0;font-family:var(--serif);font-size:13.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vitem .vs{flex:none;font-family:var(--mono);font-size:10px;color:var(--muted)}
+.vitem.done .vs{color:var(--l1);font-weight:700}
+/* ---- 구조 연습 */
+.odpick{min-height:2.2em;display:flex;flex-wrap:wrap;gap:5px;margin:8px 0;padding:7px;background:var(--soft);border-radius:7px}
+.odsel{font-family:var(--serif);font-size:14px;background:var(--cobalt-wash);border-radius:5px;padding:3px 7px}
+.odpool{display:grid;gap:5px}
+.odc{font-family:var(--serif);font-size:14px;text-align:left;background:var(--panel);border:1px solid var(--line);
+  border-radius:7px;padding:8px 10px;line-height:1.5}
+.odc:hover{background:var(--soft)}
+.odc.used{opacity:.32;text-decoration:line-through;pointer-events:none}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
 .totop{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));width:40px;height:40px;border-radius:50%;background:var(--panel);border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:35;display:none;font-size:18px;opacity:0;pointer-events:none;transition:opacity .2s}
@@ -575,6 +613,7 @@ tr.incard td .w{color:var(--accent2)}
 </main>
 
 <div id="pop"><button class="x" onclick="hidePop()">×</button><div id="popc"></div></div>
+<div id="vwrap"><div class="vinner" id="vbox"></div></div>
 <div id="drawer"><button class="x" onclick="closeDrawer()">×</button><div id="drc"></div></div>
 <div class="toast" id="toast"></div>
 
@@ -588,6 +627,7 @@ const GUIDES=/*__GUIDES__*/;
 const SYNTAX=/*__SYNTAX__*/;
 const GRAMMAR=/*__GRAMMAR__*/;
 const NEWS=/*__NEWS__*/;
+const CHECKS=/*__CHECKS__*/;
 
 /* ================= 공통 ================= */
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
@@ -602,7 +642,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},newsDone:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},newsDone:{},verify:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -1000,6 +1040,14 @@ function renderPost(n){
     });
   }else html+=`<p class="note">이 장에는 아직 확인 질문이 없습니다. 대신 아래 요약을 꼭 써 보세요.</p>`;
   html+=`</div>`;
+  html+=`<div class="card"><h3>정밀 확인 — 내가 제대로 읽었나</h3>
+    <p class="note" style="margin:0 0 8px"><b>고르는 문제가 아닙니다.</b> 문장을 직접 한국어로 옮겨 쓴 뒤,
+    답이 정해진 항목과 하나씩 대조합니다. 찍기나 소거법으로 넘어갈 수 없어서
+    <b>유추로 읽은 곳이 드러납니다.</b></p><div id="vbox2"></div></div>`;
+  html+=`<div class="card"><h3>구조 연습 — 의미 단위 순서 맞추기</h3>
+    <p class="note" style="margin:0 0 8px">문장을 의미 단위로 잘라 섞어 놓았습니다. 원래 순서대로 눌러 보세요.
+    <b>어순·구조 감각을 기르는 연습이며, 뜻을 이해했는지 재는 것은 아닙니다</b>(뜻 확인은 위의 정밀 확인).</p>
+    <div id="odbox"><button class="btn" id="odStart">시작</button></div></div>`;
   html+=`<div class="card"><h3>문장 구조 퀴즈 — 주어·동사 찾기</h3><p class="note" style="margin:0 0 8px">이 장에서 고른 5문장. 스스로 주어와 동사를 짚어 보세요. 정답은 자동 분석 기준입니다(가끔 틀릴 수 있음).${(S.quiz[n]||[]).length?` 지난 기록: ${S.quiz[n].map(q=>q.ok+'/'+q.total*2).join(', ')}`:''}</p><div id="qzbox"><button class="btn" id="qzStart">퀴즈 시작</button></div></div>`;
   html+=`<div class="card"><h3>요약 쓰기</h3><p class="note" style="margin:0 0 6px">이 장을 2~3문장으로 요약하세요(한국어도 좋고, 영어면 더 좋습니다). 누가 · 무엇을 · 그래서 어떻게 됐나.</p>
     <textarea id="summ" style="min-height:90px">${esc(S.summary[n]||'')}</textarea>
@@ -1015,6 +1063,8 @@ function renderPost(n){
   $$('#pane [data-no]').forEach(b=>b.onclick=()=>{const qi=b.dataset.no;S.answers[n][qi].ok=0;save();renderPost(n);});
   $('#summ').oninput=e=>{S.summary[n]=e.target.value;save();};
   $('#qzStart').onclick=()=>renderQuiz('#qzbox',n,5);
+  renderVerify($('#vbox2'),n);
+  $('#odStart').onclick=()=>renderOrderDrill($('#odbox'),n);
   const hb=$('#hintBtn'); if(hb)hb.onclick=()=>$('#hint').classList.toggle('hide');
   $('#doneCh').onclick=()=>{S.done[n]=1;save();renderChList();if(n<CH.length)openChapter(n+1,'pre');else{toast('완독을 축하합니다!');renderPane();}};
 }
@@ -1311,6 +1361,146 @@ function chunkBoundaries(words){
   for(let i=1;i<words.length;i++){ if(b[i]&&(i+1>=words.length||b[i+1])&&!/[,;:—–]$/.test(words[i-1]))b[i]=false; }
   return b;
 }
+/* ================= 정밀 확인 =================
+   "내가 제대로 해석한 건지, 그냥 유추한 건지" 를 가려내기 위한 화면.
+   고르는 문제가 아니라 '직접 번역을 쓴 뒤' 답이 정해진 항목과 하나씩 대조한다.
+   찍기·소거법으로 넘어갈 수 없게 만드는 것이 목적이다. */
+function vState(){ S.verify=S.verify||{}; return S.verify; }
+const CHECK_LABEL={neg:'부정',who:'주체',pron:'대명사',mod:'수식',time:'시간'};
+function chapterChecks(n){
+  return Object.keys(CHECKS).filter(id=>id.startsWith(n+'.')).sort((a,b)=>{
+    const A=a.split('.').map(Number), B=b.split('.').map(Number);
+    return A[1]-B[1]||A[2]-B[2];
+  });
+}
+function renderVerify(box,n){
+  const ids=chapterChecks(n), v=vState();
+  if(!ids.length){ box.innerHTML=`<p class="note" style="margin:0">이 장에는 아직 정밀 확인 문장이 없습니다. 현재 1~12장에 준비돼 있습니다.</p>`; return; }
+  const doneN=ids.filter(i=>v[i]).length;
+  box.innerHTML=`<p class="note" style="margin:0 0 8px">문장 ${ids.length}개 중 <b>${doneN}개</b> 확인함.
+    한 번에 한 문장이면 충분합니다 — 오래 걸려도 이게 가장 확실합니다.</p>
+    <div class="vlist">${ids.map((id,k)=>{
+      const r=v[id];
+      return `<button class="vitem ${r?'done':''}" data-v="${id}">
+        <span class="vn">${k+1}</span>
+        <span class="vt">${esc(sentById(id).slice(0,52))}${sentById(id).length>52?'…':''}</span>
+        <span class="vs">${r?`${r.ok}/${r.total}`:'미확인'}</span></button>`;}).join('')}</div>`;
+  box.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>openVerify(b.dataset.v));
+}
+function openVerify(id){
+  const s=sentById(id), items=CHECKS[id]||[], a=ANA[id];
+  const prev=(vState()[id]||{});
+  let stage=prev.mine?1:0, marks={};
+  const box=$('#vbox'); if(!box)return;
+  const draw=()=>{
+    if(stage===0){
+      box.innerHTML=`<div class="vcard">
+        <div class="vhd">문장 [${id}] · 1단계</div>
+        <div class="sent">${esc(s)}</div>
+        <p class="note" style="margin:10px 0 6px"><b>이 문장을 한국어로 옮겨 써 보세요.</b>
+        머릿속으로만 하면 얼버무리게 됩니다. 손으로 쓰면 부정어·누가·무엇을·언제를 전부 정해야 합니다.
+        모르는 부분은 물음표로 남겨 두셔도 됩니다.</p>
+        <textarea id="vMine" style="min-height:110px" placeholder="내 번역">${esc(prev.mine||'')}</textarea>
+        <div class="row" style="margin-top:10px;justify-content:space-between">
+          <button class="btn sm" id="vBack">← 목록</button>
+          <button class="btn pri" id="vGo">다 썼습니다 → 대조하기</button>
+        </div></div>`;
+      $('#vBack').onclick=()=>{closeVerify();};
+      $('#vGo').onclick=()=>{
+        const t=$('#vMine').value.trim();
+        if(t.length<5){toast('먼저 번역을 써 주세요.');return;}
+        vState()[id]=Object.assign({},vState()[id],{mine:t}); save(); stage=1; draw();
+      };
+    }else{
+      const mine=(vState()[id]||{}).mine||'';
+      box.innerHTML=`<div class="vcard">
+        <div class="vhd">문장 [${id}] · 2단계 — 내 번역과 대조</div>
+        <div class="sent">${esc(s)}</div>
+        <div class="vmine"><span class="lbl">내가 쓴 번역</span>${esc(mine)}</div>
+        <p class="note" style="margin:12px 0 4px">아래 항목을 하나씩 열어, <b>내 번역이 그렇게 되어 있는지</b> 직접 대조하세요.</p>
+        <div class="vchecks">${items.map((c,k)=>`
+          <div class="vchk" data-k="${k}">
+            <div class="vq"><span class="vtag">${esc(CHECK_LABEL[c.t]||c.t)}</span>${c.q}</div>
+            <button class="btn sm vreveal" data-r="${k}">답 보기</button>
+            <div class="va hide" data-a="${k}">
+              <div class="ans">${c.a}</div>${c.tip?`<div class="tip2">${c.tip}</div>`:''}
+              <div class="row" style="margin-top:7px">
+                <span class="note">내 번역이 이와 같습니까?</span>
+                <button class="btn sm" data-ok="${k}">같음</button>
+                <button class="btn sm" data-no="${k}">달랐음</button>
+              </div>
+            </div>
+          </div>`).join('')}</div>
+        <button class="btn" id="vFull" style="margin-top:12px">튜터 번역 전문 보기</button>
+        <div class="vfull hide" id="vFullT">${esc(a&&a.ko||'')}</div>
+        <div class="row" style="margin-top:12px;justify-content:space-between">
+          <button class="btn sm" id="vBack2">← 목록</button>
+          <button class="btn pri" id="vDone">확인 끝</button>
+        </div></div>`;
+      box.querySelectorAll('.vreveal').forEach(b=>b.onclick=()=>{
+        box.querySelector(`[data-a="${b.dataset.r}"]`).classList.remove('hide'); b.classList.add('hide');});
+      box.querySelectorAll('[data-ok]').forEach(b=>b.onclick=()=>{marks[b.dataset.ok]=1;b.closest('.vchk').classList.add('ok');b.closest('.vchk').classList.remove('no');});
+      box.querySelectorAll('[data-no]').forEach(b=>b.onclick=()=>{marks[b.dataset.no]=0;b.closest('.vchk').classList.add('no');b.closest('.vchk').classList.remove('ok');});
+      $('#vFull').onclick=()=>{$('#vFullT').classList.remove('hide');$('#vFull').classList.add('hide');};
+      $('#vBack2').onclick=closeVerify;
+      $('#vDone').onclick=()=>{
+        const keys=Object.keys(marks);
+        if(!keys.length){toast('항목을 하나 이상 대조해 주세요.');return;}
+        const ok=keys.filter(k=>marks[k]===1).length;
+        vState()[id]=Object.assign({},vState()[id],{ok,total:items.length,d:dayNum()}); save();
+        toast(ok===items.length?'전부 일치했습니다.':`${items.length-ok}개가 달랐습니다 — 그 지점이 유추로 넘어간 곳입니다.`);
+        closeVerify();
+      };
+    }
+  };
+  $('#vwrap').classList.add('on'); draw(); window.scrollTo(0,0);
+}
+function closeVerify(){ $('#vwrap').classList.remove('on'); const n=S.cur.ch; const b=$('#vbox2'); if(b)renderVerify(b,n); }
+
+/* ---- 구조 연습 — 의미 단위 순서 맞추기
+   주의: 이것은 '뜻을 이해했는지'가 아니라 '어순·구조 감각'을 재는 연습이다.
+   영어는 어순과 기능어 단서가 강해서 뜻을 몰라도 상당수 맞출 수 있다. */
+function renderOrderDrill(box,n){
+  const c=CH[n-1]; const pool=[];
+  c.paras.forEach((para,pi)=>para.forEach((s,si)=>{
+    const sy=syn(n,pi,si);
+    if(sy&&sy[2]&&sy[2].length>=4&&sy[2].length<=7&&s.split(/\s+/).length<=30)pool.push({pi,si,s,ch:sy[2]});
+  }));
+  if(!pool.length){ box.innerHTML='<p class="note" style="margin:0">이 장에는 알맞은 문장이 없습니다.</p>'; return; }
+  let round=0, ok=0; const N=Math.min(5,pool.length);
+  const draw=()=>{
+    if(round>=N){
+      box.innerHTML=`<p style="margin:0 0 8px"><b>${ok} / ${N}</b> 맞췄습니다.</p>
+        <p class="note" style="margin:0 0 8px">이 연습은 <b>어순 감각</b>을 재는 것이지 뜻을 이해했는지 재는 것이 아닙니다.
+        뜻 확인은 위의 <b>정밀 확인</b>으로 하세요.</p>
+        <button class="btn sm" id="odAgain">다시 5문장</button>`;
+      $('#odAgain').onclick=()=>{round=0;ok=0;draw();}; return;
+    }
+    const q=pool[Math.floor(Math.random()*pool.length)];
+    const starts=q.ch.map(x=>x[0]).concat([q.s.length]);
+    const parts=q.ch.map((x,k)=>({k, t:q.s.slice(starts[k],starts[k+1]).trim()})).filter(p=>p.t);
+    const shuffled=parts.slice().sort(()=>Math.random()-0.5);
+    let picked=[];
+    box.innerHTML=`<div class="note">${round+1} / ${N} · 조각을 <b>원래 순서대로</b> 눌러 주세요</div>
+      <div class="odpick" id="odPick"></div>
+      <div class="odpool" id="odPool">${shuffled.map(p=>`<button class="odc" data-k="${p.k}">${esc(p.t)}</button>`).join('')}</div>
+      <div class="row" style="margin-top:8px"><button class="btn sm" id="odReset">처음부터</button><span class="fb" id="odFb"></span></div>`;
+    const refresh=()=>{
+      $('#odPick').innerHTML=picked.map(k=>{const p=parts.find(x=>x.k===k);return `<span class="odsel">${esc(p.t)}</span>`;}).join('');
+      if(picked.length===parts.length){
+        const right=picked.every((k,i)=>k===parts[i].k);
+        if(right)ok++;
+        $('#odFb').innerHTML=right?'<b style="color:var(--accent2)">맞았습니다.</b>':`<b style="color:var(--red)">순서가 다릅니다.</b> 정답: ${esc(parts.map(p=>p.t).join(' / '))}`;
+        setTimeout(()=>{round++;draw();},right?900:3200);
+      }
+    };
+    box.querySelectorAll('.odc').forEach(b=>b.onclick=()=>{ if(b.classList.contains('used'))return;
+      b.classList.add('used'); picked.push(+b.dataset.k); refresh(); });
+    $('#odReset').onclick=()=>{picked=[];box.querySelectorAll('.odc').forEach(x=>x.classList.remove('used'));$('#odFb').textContent='';refresh();};
+  };
+  draw();
+}
+
 /* ================= 뉴스 (NASA) =================
    NASA 기사는 미국 정부가 만든 자료라 저작권이 없어(퍼블릭 도메인) 앱에 넣어 공개할 수 있다.
    소설과 똑같이 구문 분석(주어·동사·수식 관계)이 미리 붙어 있어 '구조분석' 화면도 그대로 쓴다. */

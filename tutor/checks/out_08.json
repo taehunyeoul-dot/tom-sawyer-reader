@@ -1,0 +1,115 @@
+{
+ "8.0.0": [
+  {"t":"who","q":"<b>returning scholars</b> 는 누구입니까?","a":"수업이 끝나 집으로 돌아가는 학생들입니다.","tip":"scholar 를 '학자'로 읽으면 장면이 어긋납니다."},
+  {"t":"neg","q":"<b>until he was well out of the track of returning scholars</b> — 톰은 학생들이 다니는 길 위에 있었습니까?","a":"아닙니다. 그 길에서 완전히 벗어날 때까지 골목으로 피해 다녔습니다.","tip":"out of 를 놓치면 '학생들 길에 잘 들어서 있었다'로 뒤집힙니다."},
+  {"t":"time","q":"<b>and then fell into a moody jog</b> — 침울한 뜀걸음으로 접어든 것은 학생들 길에서 벗어나기 전입니까, 뒤입니까?","a":"뒤입니다. until ~ , and then 의 순서입니다.","tip":"fell into 는 '넘어졌다'가 아니라 '그런 걸음걸이로 접어들었다'입니다."}
+ ],
+ "8.0.2": [
+  {"t":"neg","q":"<b>the school-house was hardly distinguishable</b> — 학교 건물이 잘 보였습니까?","a":"거의 분간할 수 없었습니다.","tip":"hardly 는 '거의 ~하지 않다'입니다. '힘들게 ~했다'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"거의 분간되지 않은 것은 톰입니까, 학교 건물입니까?","a":"학교 건물입니다."},
+  {"t":"mod","q":"<b>on the summit of Cardiff Hill</b> 은 무엇의 위치를 말합니까?","a":"더글러스 저택(the Douglas mansion)의 위치입니다."}
+ ],
+ "8.0.3": [
+  {"t":"pron","q":"<b>the centre of it</b> 의 <b>it</b> 은 무엇입니까?","a":"그가 들어간 울창한 숲(a dense wood)입니다."},
+  {"t":"neg","q":"<b>picked his pathless way</b> — 그가 나아간 곳에 길이 있었습니까?","a":"없었습니다. pathless 는 '길이 없는'이라, 길도 없는 곳을 헤치며 나아간 것입니다."},
+  {"t":"mod","q":"<b>under a spreading oak</b> 는 무엇의 위치를 설명합니까?","a":"그가 앉은 이끼 낀 자리(a mossy spot)의 위치입니다."}
+ ],
+ "8.0.4": [
+  {"t":"neg","q":"<b>There was not even a zephyr stirring</b> — 바람이 조금이라도 불었습니까?","a":"전혀 불지 않았습니다. 산들바람 한 점 일지 않았다는 뜻입니다."},
+  {"t":"neg","q":"<b>broken by no sound but the occasional far-off hammering of a wood-pecker</b> — 딱따구리 소리는 들렸습니까?","a":"들렸습니다. 그 소리 말고는 아무 소리도 없었다는 뜻입니다.","tip":"no ~ but 의 but 은 '~을 빼고'입니다. '그러나'로 읽으면 딱따구리 소리까지 없어집니다."},
+  {"t":"pron","q":"<b>and this seemed to render …</b> 의 <b>this</b> 는 무엇입니까?","a":"이따금 멀리서 들려오는 딱따구리 쪼는 소리입니다."},
+  {"t":"mod","q":"<b>render the pervading silence and sense of loneliness the more profound</b> — 정적과 외로움은 어떻게 되었습니까?","a":"한층 더 깊어졌습니다.","tip":"render A B 는 'A를 B한 상태로 만들다'입니다. 소리가 났으니 정적이 깨졌다고 읽으면 반대가 됩니다."}
+ ],
+ "8.0.7": [
+  {"t":"mod","q":"<b>life was but a trouble, at best</b> 의 <b>but</b> 은 어떤 뜻입니까?","a":"'단지 ~일 뿐'이라는 뜻입니다. 인생이란 기껏해야 골칫거리일 뿐이라는 말입니다.","tip":"'그러나'로 읽으면 문장이 이어지지 않습니다."},
+  {"t":"time","q":"<b>Jimmy Hodges, so lately released</b> — 지미 호지스에게 언제 무슨 일이 있었습니까?","a":"얼마 전에 죽었습니다. released 는 (삶에서) 풀려났다, 즉 죽었다는 뜻입니다."},
+  {"t":"pron","q":"<b>it must be very peaceful … to lie and slumber and dream forever and ever</b> 의 <b>it</b> 은 무엇을 가리킵니까?","a":"뒤에 나오는 to lie and slumber and dream forever and ever(영원토록 누워 잠들고 꿈꾸는 것)입니다. 가주어 it 입니다."},
+  {"t":"neg","q":"<b>and nothing to bother and grieve about, ever any more</b> — 걱정하고 슬퍼할 일이 있습니까?","a":"하나도 없습니다. 다시는 그럴 일이 없다는 뜻입니다."}
+ ],
+ "8.0.8": [
+  {"t":"neg","q":"<b>If he only had a clean Sunday-school record</b> — 톰의 주일학교 기록은 실제로 깨끗합니까?","a":"깨끗하지 않습니다. If … had / could 로 된 가정법이라, 사실은 그렇지 못하다는 뜻입니다.","tip":"가정법을 놓치면 '기록이 깨끗하니 떠나겠다'로 읽힙니다."},
+  {"t":"pron","q":"<b>be done with it all</b> 의 <b>it all</b> 은 무엇입니까?","a":"골칫거리인 이 삶 전부입니다. 죽어서 모든 것을 끝내 버린다는 뜻입니다."}
+ ],
+ "8.1.6": [
+  {"t":"pron","q":"<b>when they intruded themselves upon a spirit</b> 의 <b>they</b> 는 무엇입니까?","a":"경박함과 농담과 얼룩무늬 타이츠(frivolity and jokes and spotted tights)입니다. 사람이 아닙니다."},
+  {"t":"mod","q":"<b>that was exalted into the vague august realm of the romantic</b> 는 무엇을 설명합니까?","a":"바로 앞의 a spirit(정신, 마음)입니다."},
+  {"t":"who","q":"<b>were an offense</b> — 누구에게 모욕처럼 느껴진다는 말입니까?","a":"낭만적 기분에 젖어 있는 정신, 즉 지금의 톰에게입니다."}
+ ],
+ "8.1.8": [
+  {"t":"time","q":"이 문장의 일들(인디언 합류, 추장이 되어 귀환)은 실제로 일어난 일입니까?","a":"아닙니다. would 로 이어지는 톰의 공상, 즉 앞으로 이렇게 하겠다는 상상입니다.","tip":"would 를 단순한 과거로 읽으면 이미 일어난 일로 오해합니다."},
+  {"t":"mod","q":"<b>come back a great chief, bristling with feathers, hideous with paint</b> — 깃털을 잔뜩 꽂고 물감을 칠한 무시무시한 모습인 사람은 누구입니까?","a":"톰 자신입니다. 위대한 추장이 되어 돌아온 톰의 모습입니다.","tip":"a great chief 를 '어떤 추장을 데려온다'로 읽으면 주인공이 사라집니다."},
+  {"t":"who","q":"<b>sear the eyeballs of all his companions with unappeasable envy</b> — 부러움에 눈이 타는 쪽은 누구입니까?","a":"톰의 친구들입니다. 톰이 그들을 부럽게 만드는 것입니다."}
+ ],
+ "8.1.13": [
+  {"t":"mod","q":"<b>the Spirit of the Storm</b> 은 무엇의 이름입니까?","a":"톰이 탄 검은 선체 쾌속선(racer)의 이름입니다. 앞의 배를 다시 부른 동격입니다.","tip":"유령이나 사람 이름으로 읽으면 등장인물이 하나 늘어납니다."},
+  {"t":"who","q":"<b>How gloriously he would go plowing the dancing seas</b> — 바다를 헤치고 나아가는 것은 누구입니까?","a":"톰입니다. 자기 배를 타고 나아가는 상상입니다."},
+  {"t":"mod","q":"<b>with his grisly flag flying at the fore</b> — 무엇이 어디에서 펄럭입니까?","a":"톰의 섬뜩한 (해적) 깃발이 배의 앞부분, 즉 뱃머리에서 펄럭입니다."}
+ ],
+ "8.1.14": [
+  {"t":"who","q":"<b>hear with swelling ecstasy the whisperings, “It’s Tom Sawyer the Pirate!”</b> — 수군거리는 사람과 그 소리를 듣는 사람은 각각 누구입니까?","a":"수군거리는 사람은 교회에 모인 마을 사람들, 듣는 사람은 톰입니다."},
+  {"t":"mod","q":"<b>brown and weather-beaten</b> 는 누구의 모습입니까?","a":"교회로 성큼성큼 들어서는 톰입니다. 햇볕에 그을리고 풍파에 찌든 모습입니다."},
+  {"t":"pron","q":"<b>with the skull and crossbones on it</b> 의 <b>it</b> 은 무엇입니까?","a":"그의 검은 깃발(his black flag)입니다."},
+  {"t":"time","q":"<b>at the zenith of his fame</b> — 이 장면은 지금 일어나는 일입니까?","a":"아닙니다. 먼 훗날 명성이 절정에 이르렀을 때를 그려 보는 상상입니다."}
+ ],
+ "8.6.1": [
+  {"t":"mod","q":"<b>which he and all his comrades had always looked upon as infallible</b> 는 무엇을 설명합니까?","a":"a superstition of his(그의 미신)입니다.","tip":"which 가 멀리 떨어져 있어 바로 앞의 here 나 The truth 에 붙이기 쉽습니다."},
+  {"t":"neg","q":"<b>infallible</b> 은 어떤 뜻입니까?","a":"절대 틀리는 법이 없다는 뜻입니다.","tip":"앞의 in- 이 부정입니다. 놓치면 '틀릴 수 있는'으로 정반대가 됩니다."},
+  {"t":"neg","q":"<b>a superstition of his had failed</b> — 그 미신은 이번에 통했습니까?","a":"통하지 않았습니다. 늘 틀림없다고 믿어 온 미신이 여기서 실패했습니다."}
+ ],
+ "8.6.2": [
+  {"t":"pron","q":"<b>the incantation he had just used</b> 의 <b>he</b> 는 누구입니까?","a":"톰입니다. 이 문장에서 he 만 톰을 가리킵니다.","tip":"앞의 you 와 같은 사람으로 묶으면 누가 주문을 외웠는지 엉킵니다."},
+  {"t":"pron","q":"<b>If you buried a marble …</b> 의 <b>you</b> 는 누구를 가리킵니까?","a":"특정한 사람이 아니라 '누구든지'라는 뜻의 일반적인 you 입니다."},
+  {"t":"time","q":"<b>a fortnight</b> 는 얼마 동안입니까?","a":"2주(14일)입니다."},
+  {"t":"neg","q":"<b>no matter how widely they had been separated</b> — 구슬들이 아주 멀리 흩어져 있으면 모이지 않습니까?","a":"아무리 멀리 흩어져 있어도 모인다는 뜻입니다."}
+ ],
+ "8.6.8": [
+  {"t":"mod","q":"<b>a little funnel-shaped depression</b> — 깔때기 모양인 것은 무엇입니까?","a":"모래밭에 살짝 움푹 팬 자리입니다.","tip":"depression 을 '우울'로 읽으면 문장이 풀리지 않습니다. 여기서는 '움푹 팬 곳'입니다."},
+  {"t":"pron","q":"<b>with a little funnel-shaped depression in it</b> 의 <b>it</b> 은 무엇입니까?","a":"작은 모래밭(a small sandy spot)입니다."},
+  {"t":"time","q":"<b>he searched around till he found …</b> — 그는 언제까지 주위를 뒤졌습니까?","a":"깔때기 모양으로 팬 자리가 있는 작은 모래밭을 찾아낼 때까지입니다."}
+ ],
+ "8.10.1": [
+  {"t":"pron","q":"<b>it occurred to him</b> 의 <b>it</b> 은 무엇입니까?","a":"뒤에 나오는 that절, 즉 '던져 버린 구슬을 도로 갖는 편이 낫겠다'는 생각입니다. 가주어 it 입니다."},
+  {"t":"time","q":"<b>the marble he had just thrown away</b> — 구슬을 던진 것은 이 생각이 떠오르기 전입니까, 뒤입니까?","a":"전입니다. had just thrown away(과거완료)라, 이미 던져 버린 뒤에 생각이 났습니다."},
+  {"t":"pron","q":"<b>made a patient search for it</b> 의 <b>it</b> 은 무엇입니까?","a":"방금 던져 버린 그 구슬입니다."}
+ ],
+ "8.10.3": [
+  {"t":"time","q":"<b>just as he had been standing when he tossed the marble away</b> — 톰이 그대로 흉내 낸 자세는 언제의 자세입니까?","a":"앞서 구슬을 던져 버렸을 때 서 있던 그 자세입니다. 과거완료라 지금보다 앞선 때입니다."},
+  {"t":"who","q":"<b>carefully placed himself</b> 는 무엇을 했다는 뜻입니까?","a":"톰이 자기 몸을 예전과 똑같은 자리·자세에 놓았다(자세를 잡았다)는 뜻입니다.","tip":"목적어 himself 를 흘리면 무엇을 놓았다는 말인지 알 수 없게 됩니다."},
+  {"t":"pron","q":"<b>tossed it in the same way</b> 의 <b>it</b> 은 어느 구슬입니까?","a":"주머니에서 새로 꺼낸 다른 구슬(another marble)입니다. 앞서 잃어버린 그 구슬이 아닙니다."}
+ ],
+ "8.13.1": [
+  {"t":"pron","q":"<b>had seized these things</b> 의 <b>these things</b> 는 무엇입니까?","a":"조잡한 활과 화살, 판자로 만든 칼, 양철 나팔입니다."},
+  {"t":"mod","q":"<b>disclosing a rude bow and arrow …</b> — 이 물건들이 드러난 것은 무엇을 한 결과입니까?","a":"썩은 통나무 뒤의 덤불을 헤쳐 낸 결과입니다. 거기에 숨겨 두었던 물건들입니다."},
+  {"t":"mod","q":"<b>barelegged, with fluttering shirt</b> 는 누구의 모습입니까?","a":"물건들을 움켜쥐고 뛰쳐나가는 톰입니다."}
+ ],
+ "8.13.2": [
+  {"t":"time","q":"<b>He presently halted</b> 의 <b>presently</b> 는 어떤 뜻입니까?","a":"'곧, 이내'라는 뜻입니다.","tip":"'현재, 지금'으로 읽기 쉽지만 이 소설에서는 '얼마 안 있어'라는 뜻입니다."},
+  {"t":"mod","q":"<b>blew an answering blast</b> — 무엇에 답하는 소리입니까?","a":"상대(조)가 먼저 보낸 나팔 신호에 답하는 나팔 소리입니다."},
+  {"t":"time","q":"<b>and then began to tiptoe and look warily out</b> — 살금살금 살피기 시작한 것은 나팔을 분 뒤입니까, 전입니까?","a":"분 뒤입니다."}
+ ],
+ "8.22.0": [
+  {"t":"pron","q":"<b>their other traps</b> 는 무엇입니까?","a":"칼 말고 나머지 소지품(활과 화살, 나팔 같은 잡동사니)입니다.","tip":"trap 을 '덫'으로 읽으면 엉뚱한 물건이 등장합니다."},
+  {"t":"who","q":"<b>struck a fencing attitude, foot to foot</b> — 이때 누가 누구를 때렸습니까?","a":"아무도 때리지 않았습니다. 발을 마주 댄 채 펜싱 자세를 '취했다'는 뜻입니다.","tip":"strike 를 '때리다'로만 읽으면 싸움이 벌써 시작된 것으로 오해합니다."},
+  {"t":"mod","q":"<b>a grave, careful combat</b> 의 <b>grave</b> 는 무엇을 꾸미며 어떤 뜻입니까?","a":"combat(결투)을 꾸미며 '진지한'이라는 뜻입니다. '무덤'이 아닙니다."}
+ ],
+ "8.32.0": [
+  {"t":"who","q":"<b>and lam me with a quarter-staff</b> — 몽둥이로 때리는 쪽과 맞는 쪽은 각각 누구입니까?","a":"때리는 쪽은 조(you), 맞는 쪽은 말하고 있는 톰(me)입니다."},
+  {"t":"who","q":"두 번째 제안(<b>or I’ll be the Sheriff of Nottingham and you be Robin Hood</b>)에서 로빈 후드를 맡는 사람은 누구입니까?","a":"조입니다. 톰은 노팅엄 보안관을 맡아 죽는 역을 합니다.","tip":"I 와 you 를 바꿔 읽으면 역할이 정반대가 됩니다."},
+  {"t":"pron","q":"<b>Much the miller’s son</b> 은 무엇입니까?","a":"'방앗간집 아들 머치'라는 사람 이름입니다.","tip":"much 를 '많이'로 읽으면 문장이 무너집니다. 로빈 후드 이야기에 나오는 등장인물입니다."}
+ ],
+ "8.33.2": [
+  {"t":"who","q":"<b>representing a whole tribe of weeping outlaws</b> — 무리 전체를 혼자 연기한 사람은 누구입니까?","a":"조입니다. 조 혼자서 우는 산적 무리 전체 역할을 맡았습니다."},
+  {"t":"pron","q":"<b>dragged him sadly forth, gave his bow into his feeble hands</b> 의 <b>him</b>·<b>his</b> 는 누구입니까?","a":"톰입니다. 로빈 후드 역을 맡아 죽어 가는 톰입니다."},
+  {"t":"who","q":"<b>there bury poor Robin Hood under the greenwood tree</b> — 묻히게 되는 사람은 누구입니까?","a":"로빈 후드 역을 맡은 톰 자신입니다. 톰이 조에게 자기를 묻어 달라고 하는 대사입니다."}
+ ],
+ "8.33.3": [
+  {"t":"neg","q":"<b>and would have died</b> — 톰은 죽는 연기를 끝까지 해냈습니까?","a":"아닙니다. '그대로 죽었을 텐데'라는 뜻이고, 실제로는 곧바로 벌떡 일어났습니다.","tip":"would have died 를 '죽었다'로 읽으면 뒤의 but 이 설명되지 않습니다."},
+  {"t":"who","q":"<b>he lit on a nettle</b> — 쐐기풀 위에 떨어진 것은 누구입니까?","a":"톰입니다. lit 은 light(내려앉다, 떨어지다)의 과거형으로, 불과는 상관없습니다."},
+  {"t":"mod","q":"<b>sprang up too gaily for a corpse</b> 는 누구의 어떤 모습입니까?","a":"벌떡 일어난 톰의 모습입니다. 시체 역할치고는 너무 팔팔했다는 뜻입니다."}
+ ],
+ "8.34.0": [
+  {"t":"neg","q":"<b>grieving that there were no outlaws any more</b> — 소년들이 슬퍼한 이유는 무엇입니까?","a":"이제 (로빈 후드 같은) 산적이 더는 없다는 것 때문입니다.","tip":"no ~ any more 를 놓치면 '산적이 있어서 슬퍼했다'로 뒤집힙니다."},
+  {"t":"who","q":"<b>what modern civilization could claim to have done</b> — 무언가를 해냈다고 내세우는 쪽은 누구입니까?","a":"현대 문명(modern civilization)입니다. 소년들이 아닙니다."},
+  {"t":"pron","q":"<b>to compensate for their loss</b> 의 <b>their loss</b> 는 무엇을 잃은 것입니까?","a":"산적(무법자)들이 사라진 것입니다."}
+ ]
+}

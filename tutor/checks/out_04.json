@@ -1,0 +1,122 @@
+{
+ "4.0.1": [
+  {"t":"time","q":"<b>Breakfast over,</b> 는 아침 식사 도중입니까, 끝난 뒤입니까?","a":"끝난 뒤","tip":"Breakfast being over 에서 being 이 빠진 형태입니다. '아침 식사가 끝나서'라는 뜻이지, 식사를 하는 장면이 아닙니다."},
+  {"t":"mod","q":"<b>built from the ground up of solid courses of Scriptural quotations</b> 는 무엇을 설명합니까?","a":"a prayer(그 기도)","tip":"바로 앞 명사 prayer 에 붙는 과거분사입니다. 폴리 이모나 예배 전체를 설명하는 말이 아닙니다."},
+  {"t":"pron","q":"<b>from the summit of this</b> 의 this 는 무엇입니까?","a":"벽돌처럼 쌓아 올린 그 기도","tip":"기도를 건물에 빗댔기 때문에 '그 꼭대기'라는 말이 나옵니다. 실제 언덕이나 강단이 아닙니다."},
+  {"t":"mod","q":"<b>as from Sinai</b> 는 그녀가 실제로 시나이 산에서 왔다는 뜻입니까?","a":"아니요 — 마치 시나이 산에서 율법을 내리듯 했다는 비유입니다","tip":"as 가 붙은 비유입니다. 장소를 알려 주는 말로 읽으면 장면이 엉뚱해집니다."}
+ ],
+ "4.1.3": [
+  {"t":"neg","q":"<b>Tom had a vague general idea of his lesson, but no more</b> — 톰은 과제를 충분히 외웠습니까?","a":"아니요 — 어렴풋이 대강만 알 뿐 그 이상은 아니었습니다","tip":"no more 는 '더 이상은 아니다'입니다. '더 없이 잘 알았다'로 읽으면 정반대."},
+  {"t":"time","q":"<b>At the end of half an hour</b> 는 언제를 말합니까?","a":"30분이 지난 시점","tip":"'30분 동안'이 아니라 '30분이 끝났을 때'입니다."},
+  {"t":"who","q":"<b>the whole field of human thought</b> 를 떠돌고 있던 것은 무엇입니까?","a":"톰의 마음(his mind)","tip":"톰이 어디를 돌아다닌 것이 아닙니다. 주어가 사람이 아니라 mind 입니다."}
+ ],
+ "4.19.2": [
+  {"t":"neg","q":"<b>the knife would not cut anything</b> — 그 칼은 잘 들었습니까?","a":"아니요 — 아무것도 자르지 못했습니다","tip":"would not 은 '~하려 하지 않았다/~하지 못했다'입니다. 그런데도 톰에게는 보물이라는 것이 이 문장의 웃음 지점입니다."},
+  {"t":"pron","q":"<b>there was inconceivable grandeur in that</b> 의 that 은 무엇입니까?","a":"그것이 '진짜' 발로(Barlow) 칼이라는 사실","tip":"바로 앞 절 전체를 받습니다. 칼이 안 든다는 사실을 가리키는 것이 아닙니다."},
+  {"t":"who","q":"<b>is an imposing mystery</b> 의 주어(수수께끼인 것)는 무엇입니까?","a":"where the Western boys ever got the idea … 절 전체 — 아이들이 그런 생각을 대체 어디서 얻었는가 하는 것","tip":"서부 아이들이 수수께끼라는 말이 아닙니다. 의문사절 전체가 하나의 주어입니다."},
+  {"t":"mod","q":"<b>that such a weapon could possibly be counterfeited</b> 는 무엇의 내용입니까?","a":"the idea(그 생각)의 내용 — 동격절","tip":"바로 앞 명사 idea 를 풀어 주는 that 절입니다. 관계절로 보면 문장이 풀리지 않습니다."}
+ ],
+ "4.20.0": [
+  {"t":"pron","q":"<b>then he dipped the soap in the water and laid it down</b> 의 it 은 무엇입니까?","a":"비누","tip":"바로 앞 목적어인 the soap 입니다. 대야나 물이 아닙니다."},
+  {"t":"who","q":"<b>turned up his sleeves; poured out the water on the ground</b> 의 생략된 주어는 누구입니까?","a":"톰(he)","tip":"세미콜론으로 이어진 동사구들의 주어가 계속 he 입니다. 메리가 해 준 일이 아닙니다."},
+  {"t":"time","q":"그가 물을 땅에 쏟은 것은 세수를 <b>한 뒤</b>입니까, 세수를 <b>하지 않은 채</b>입니까?","a":"하지 않은 채입니다 — 비누만 담갔다 내려놓고 물은 그냥 버린 뒤 수건에 얼굴만 문질렀습니다","tip":"동작 순서를 그대로 따라가면 얼굴을 씻는 장면이 한 번도 없습니다. 여기가 이 문장의 웃음 지점입니다."}
+ ],
+ "4.22.3": [
+  {"t":"neg","q":"<b>he was not yet satisfactory</b> — 그는 합격이었습니까?","a":"아니요 — 아직 봐 줄 만한 상태가 아니었습니다","tip":"not yet 을 놓치면 다음 for 절(이유)과 앞뒤가 맞지 않게 됩니다."},
+  {"t":"mod","q":"<b>like a mask</b> 는 무엇을 빗댄 말입니까?","a":"턱과 턱뼈 선에서 딱 멈춘 '깨끗해진 부분'의 모양","tip":"얼굴 위쪽만 씻어서 가면 자국처럼 경계가 생겼다는 뜻입니다. 진짜 가면을 쓴 것이 아닙니다."},
+  {"t":"mod","q":"<b>a dark expanse of unirrigated soil</b> 은 실제 흙벌판입니까?","a":"아니요 — 씻지 않아 때가 낀 톰의 턱 아래와 목을 흙벌판에 빗댄 말입니다","tip":"unirrigated(물을 대지 않은)는 '씻지 않은'을 농담으로 바꾼 표현입니다."}
+ ],
+ "4.22.4": [
+  {"t":"who","q":"<b>Mary took him in hand</b> — 손봐 준 쪽과 손질을 받은 쪽은 각각 누구입니까?","a":"손봐 준 쪽은 메리, 받은 쪽은 톰","tip":"take ~ in hand = ~을 맡아 처리하다. 톰이 무언가를 손에 든 것이 아닙니다."},
+  {"t":"pron","q":"<b>its short curls</b> 의 its 는 무엇입니까?","a":"그의 머리카락(his saturated hair)","tip":"바로 앞 명사가 hair 입니다. 톰 자신을 가리키면 his 를 썼을 것입니다."},
+  {"t":"mod","q":"<b>without distinction of color</b> 는 무슨 뜻입니까?","a":"피부색 구별이 없어졌다는 뜻 — 얼굴과 목의 때 색깔 차이가 사라졌다는 농담","tip":"인종 이야기를 진지하게 하는 것이 아니라, 앞 문장의 '흙벌판' 농담을 이어받은 말입니다."}
+ ],
+ "4.22.7": [
+  {"t":"who","q":"단추를 채우고 깃을 접어 내리고 모자를 씌운 사람은 누구입니까?","a":"그 소녀, 곧 메리","tip":"she buttoned … turned … brushed … crowned — 네 동사의 주어가 모두 메리입니다. 톰이 아닙니다."},
+  {"t":"time","q":"메리가 그를 매만져 준 것은 톰이 옷을 입기 <b>전</b>입니까, <b>뒤</b>입니까?","a":"뒤입니다 — 톰이 스스로 옷을 다 입은 다음","tip":"after he had dressed himself — 과거완료라 옷 입기가 먼저입니다. 옷을 입혀 준 것이 아닙니다."},
+  {"t":"mod","q":"<b>crowned him with his speckled straw hat</b> 는 무슨 뜻입니까?","a":"얼룩무늬 밀짚모자를 씌워 마무리했다는 뜻","tip":"crown 을 '왕관을 씌우다'로만 알면 엉뚱해집니다. 마지막 손질을 익살스럽게 표현한 말입니다."}
+ ],
+ "4.32.5": [
+  {"t":"mod","q":"<b>a grave, elderly man</b> 은 누구를 설명합니까?","a":"선생님(The teacher)","tip":"주어와 동사 사이에 쉼표로 끼어든 동격입니다. 새로운 등장인물이 아닙니다."},
+  {"t":"who","q":"<b>then turned his back a moment</b> 의 주어는 누구입니까?","a":"선생님","tip":"and Tom pulled … 앞까지는 주어가 여전히 선생님입니다. 톰이 등을 돌린 것으로 읽으면 장면이 뒤집힙니다."},
+  {"t":"time","q":"톰이 <b>was absorbed in his book</b>(책에 빠진 척)한 것은 머리를 잡아당기기 <b>전</b>입니까, <b>뒤</b>입니까?","a":"뒤입니다 — 잡아당긴 뒤, 그 아이가 돌아봤을 때","tip":"when the boy turned around 가 시점을 정해 줍니다. 순서를 바꾸면 장난의 요령이 사라집니다."},
+  {"t":"pron","q":"<b>in order to hear him say “Ouch!”</b> 의 him 은 누구입니까?","a":"핀에 찔린 another boy(다른 아이)","tip":"바로 앞의 another boy 입니다. 선생님이나 앞서 머리를 잡힌 아이가 아닙니다."}
+ ],
+ "4.32.9": [
+  {"t":"pron","q":"<b>Ten blue tickets equalled a red one</b> 의 one 은 무엇을 대신합니까?","a":"ticket(표) — 빨간 표 한 장","tip":"one 은 앞에 나온 명사를 되풀이하지 않으려고 쓰는 말입니다. 사람이 아닙니다."},
+  {"t":"who","q":"성경을 <b>준 사람</b>과 <b>받은 사람</b>은 각각 누구입니까?","a":"준 사람은 교장(the superintendent), 받은 사람은 학생(the pupil)","tip":"gave A to B 구조입니다. 노란 표 열 장을 내는 쪽이 학생입니다."},
+  {"t":"mod","q":"<b>(worth forty cents in those easy times)</b> 는 무엇의 값입니까?","a":"그 성경책의 값(40센트)","tip":"바로 앞 명사 Bible 에 붙는 설명입니다. 표 값이나 상금이 아닙니다."}
+ ],
+ "4.32.12": [
+  {"t":"neg","q":"<b>he was little better than an idiot</b> — 그는 똑똑해졌습니까, 바보나 다름없게 되었습니까?","a":"바보나 다름없게 되었습니다","tip":"little better than = ~나 다름없는. better 만 보고 '조금 더 나았다'로 읽으면 정반대가 됩니다."},
+  {"t":"time","q":"<b>from that day forth</b> 는 언제부터입니까?","a":"3천 구절을 쉬지 않고 암송한 그날 이후로 쭉","tip":"forth 는 '그 뒤로 계속'입니다. 하루만 그랬다는 말이 아닙니다."},
+  {"t":"who","q":"<b>a grievous misfortune for the school</b> — 그것이 불운이었던 쪽은 누구입니까?","a":"학교(특히 교장) — 자랑거리로 내세울 아이를 잃었기 때문","tip":"바보가 된 아이 본인의 불행을 말하는 것이 아니라, 학교 쪽의 손해를 익살스럽게 말한 것입니다."},
+  {"t":"pron","q":"<b>had always made this boy come out and “spread himself.”</b> — 나와서 실력을 뽐낸 사람은 누구입니까?","a":"이 아이(암송을 했던 그 학생)","tip":"make + 목적어 + 동사원형 이므로 come out 과 spread himself 를 하는 쪽은 교장이 아니라 this boy 입니다."}
+ ],
+ "4.32.13": [
+  {"t":"who","q":"성경을 받을 만큼 오래 표를 모을 수 있었던 것은 누구입니까?","a":"나이 많은 학생들만(Only the older pupils)","tip":"문장 맨 앞의 Only 를 놓치면 '모든 학생이 그랬다'로 읽힙니다."},
+  {"t":"time","q":"상을 받은 학생이 위대하고 돋보였던 기간과, 다른 아이들의 야망이 지속된 기간은 각각 얼마입니까?","a":"돋보인 것은 그날 하루(for that day), 야망은 대개 두어 주","tip":"두 기간이 다릅니다. for that day 를 '그날부터 쭉'으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>that often lasted a couple of weeks</b> 는 무엇을 꾸밉니까?","a":"a fresh ambition(새로운 야망)","tip":"바로 앞 명사에 붙는 관계절입니다. 학생이나 성경이 두어 주 갔다는 말이 아닙니다."}
+ ],
+ "4.33.1": [
+  {"t":"neg","q":"<b>neither the hymn-book nor the sheet of music is ever referred to</b> — 그 책과 악보를 들여다봅니까?","a":"아니요 — 둘 다 한 번도 들여다보지 않습니다","tip":"neither ~ nor 와 ever 가 함께 쓰이면 '둘 다 결코 ~않는다'입니다. ever 만 보고 '가끔 본다'로 읽으면 정반대."},
+  {"t":"mod","q":"<b>who stands forward on the platform and sings a solo at a concert</b> 는 누구를 설명합니까?","a":"a singer(가수)","tip":"바로 앞 명사 singer 에 붙는 관계절입니다. 주일학교 교장이 무대에서 독창을 하는 것이 아닙니다."},
+  {"t":"pron","q":"<b>the sufferer</b> 는 누구를 가리킵니까?","a":"그 물건을 손에 들고 있는 당사자 — 연설하는 교장(그리고 독창하는 가수)","tip":"'고통받는 사람'이라는 익살스러운 별칭입니다. 듣는 청중이 아닙니다."}
+ ],
+ "4.33.2": [
+  {"t":"pron","q":"<b>a fence that compelled a straight lookout ahead</b> 의 a fence 는 무엇을 가리킵니까?","a":"빳빳하게 세운 그 옷깃(standing-collar)","tip":"진짜 울타리가 아니라, 앞의 옷깃을 대시로 다시 설명한 비유입니다."},
+  {"t":"mod","q":"<b>which was as broad and as long as a bank-note</b> 는 무엇을 설명합니까?","a":"a spreading cravat(넓게 펼쳐진 넥타이)","tip":"바로 앞 명사인 cravat 입니다. 턱이 지폐만 했다는 말이 아닙니다."},
+  {"t":"pron","q":"<b>an effect patiently and laboriously produced</b> — 여기서 말하는 effect(그 모양)는 무엇입니까?","a":"부츠 앞코가 썰매 날처럼 위로 뾰족하게 휜 모양","tip":"바로 앞 절 전체를 대시로 받습니다. 옷깃이나 넥타이가 아닙니다."},
+  {"t":"who","q":"그 모양을 만들어 낸 사람은 누구이며, 어떻게 만들었습니까?","a":"젊은이들 자신이 — 발끝을 벽에 대고 몇 시간씩 앉아 있어서","tip":"produced by the young men by sitting … 구두 장수가 만든 것이 아니라 본인들이 공들여 만든 것입니다."}
+ ],
+ "4.33.3": [
+  {"t":"pron","q":"<b>so separated them from worldly matters</b> 의 them 은 무엇입니까?","a":"sacred things and places(신성한 것들과 장소들)","tip":"사람으로 착각하기 쉽지만, 앞 절의 목적어를 그대로 받습니다."},
+  {"t":"who","q":"<b>unconsciously to himself</b> — 그 사실을 몰랐던 사람은 누구입니까?","a":"월터스 씨 자신","tip":"'자기도 모르는 사이에'라는 뜻입니다. 남들이 몰랐다는 말이 아닙니다."},
+  {"t":"neg","q":"<b>a peculiar intonation which was wholly absent on week-days</b> — 그 독특한 억양은 평일에도 나왔습니까?","a":"아니요 — 평일에는 전혀 나오지 않았습니다","tip":"absent 를 놓치면 '평일에도 그랬다'로 정반대가 됩니다. 주일학교에서만 나오는 목소리라는 뜻입니다."}
+ ],
+ "4.35.0": [
+  {"t":"time","q":"<b>The latter third of the speech</b> 는 연설의 어느 부분입니까?","a":"뒤쪽 3분의 1(마지막 부분)","tip":"latter 는 '뒤쪽의'입니다. '세 번째 연설'이나 '연설 세 개'가 아닙니다."},
+  {"t":"who","q":"연설을 <b>망친(marred)</b> 것은 무엇입니까?","a":"몇몇 나쁜 아이들 사이에서 다시 시작된 싸움·장난과, 사방으로 퍼진 꼼지락거림·속삭임","tip":"수동태라서 행위자가 by 뒤에 두 덩어리로 나옵니다. 연설자 잘못이 아닙니다."},
+  {"t":"mod","q":"<b>like Sid and Mary</b> 는 무엇을 빗댄 말입니까?","a":"'외따로 서서 흔들리지 않는 바위'가 곧 시드와 메리라는 뜻입니다","tip":"시드와 메리가 소란을 피웠다는 말이 아니라, 소란에 휩쓸리지 않는 아이들이라는 비유입니다."}
+ ],
+ "4.36.0": [
+  {"t":"who","q":"들어온 방문객은 모두 몇 명이며 누구입니까?","a":"네 명 — 대처 변호사, 매우 쇠약한 노인, 중년 신사, 기품 있는 부인","tip":"세미콜론으로 나뉜 덩어리는 셋이지만, 대처가 노인을 데리고 왔으므로 사람은 넷입니다."},
+  {"t":"pron","q":"<b>the latter’s wife</b> 의 the latter 는 누구입니까?","a":"바로 앞에 나온 그 중년 신사","tip":"the latter = 둘 중 뒤에 말한 쪽. 대처 변호사가 아닙니다."},
+  {"t":"mod","q":"<b>accompanied by a very feeble and aged man</b> 는 누구를 설명합니까?","a":"lawyer Thatcher(대처 변호사)","tip":"바로 앞 사람에 붙는 과거분사입니다. 노인이 따로 온 것이 아니라 대처와 함께 왔습니다."},
+  {"t":"time","q":"속삭임과 방문객의 입장, 어느 쪽이 먼저입니까?","a":"방문객의 입장이 먼저이고, 그 때문에 속삭임이 일어났습니다","tip":"had been occasioned by ~ 는 '~ 때문에 생긴 것이었다'입니다. 원인과 결과를 거꾸로 읽기 쉽습니다."}
+ ],
+ "4.37.1": [
+  {"t":"who","q":"<b>The middle-aged man</b> 은 알고 보니 누구였습니까?","a":"카운티 판사","tip":"turned out to be = 알고 보니 ~였다. 앞 문장에서 함께 온 노인이나 부인과 헷갈리기 쉽습니다."},
+  {"t":"neg","q":"<b>no less a one than the county judge</b> — 판사보다 못한 사람이라는 뜻입니까?","a":"아니요 — '다름 아닌 바로 그 카운티 판사'라는 강조입니다","tip":"no less than 은 깎아내리는 말이 아니라 치켜세우는 말입니다. less 만 보면 정반대로 읽힙니다."},
+  {"t":"mod","q":"<b>these children had ever looked upon</b> 는 무엇을 꾸밉니까?","a":"the most august creation(가장 위엄 있는 존재) — that 이 생략된 관계절","tip":"'아이들이 여태껏 본 것 중에서'라는 범위를 정해 주는 말입니다."},
+  {"t":"pron","q":"<b>were half afraid he might, too</b> — 그가 무엇을 할까 봐 두려웠던 것입니까?","a":"으르렁거릴까 봐(roar)","tip":"might 뒤에 roar 가 생략되어 있습니다. 앞 절의 hear him roar 를 받습니다."}
+ ],
+ "4.39.3": [
+  {"t":"who","q":"<b>most of the teachers, of both sexes</b> — 서가 쪽으로 간 선생님들은 남자만입니까?","a":"아닙니다 — 남녀 모두","tip":"of both sexes 는 앞의 teachers 를 설명하는 곁말입니다. 앞 문장이 남자 선생님들 이야기라 놓치기 쉽습니다."},
+  {"t":"neg","q":"<b>with much seeming vexation</b> — 선생님들은 실제로 짜증이 났습니까?","a":"아니요 — 짜증 난 것처럼 보이려 한 것입니다","tip":"seeming = 겉으로만 그런. 실제 감정으로 읽으면 이 문장의 빈정거림이 사라집니다."},
+  {"t":"mod","q":"<b>that frequently had to be done over again two or three times</b> 는 무엇을 꾸밉니까?","a":"business(그 볼일)","tip":"it was business that ~ 에서 that 이하가 business 를 설명합니다. 사람이 두세 번 갔다는 말이 아니라, 같은 볼일을 자꾸 되풀이했다는 뜻입니다."}
+ ],
+ "4.41.6": [
+  {"t":"who","q":"가장 쓰라린 고통을 겪은 아이들은 누구입니까?","a":"자기들이 톰의 그 영광에 한몫했다는 것을 뒤늦게 깨달은 아이들 — 톰에게 표를 넘겨준 아이들","tip":"those that … were those who … — 앞의 those 와 뒤의 those 는 같은 아이들을 가리킵니다."},
+  {"t":"pron","q":"<b>this hated splendor</b> 는 무엇을 가리킵니까?","a":"톰이 성경 상을 받아 누리게 된 그 영광","tip":"바로 앞 장면을 받는 말입니다. 아이들의 질투 자체를 가리키는 것이 아닙니다."},
+  {"t":"who","q":"<b>by trading tickets to Tom for the wealth he had amassed</b> — 표를 준 쪽과 재물을 준 쪽은 각각 누구입니까?","a":"아이들이 톰에게 표를 주었고, 톰이 아이들에게 자기가 모은 재물을 주었습니다","tip":"trade A to B for C = B에게 A를 주고 C를 받다. 방향을 거꾸로 읽기 쉽습니다."},
+  {"t":"time","q":"<b>perceived too late</b> — 그들이 깨달은 것은 언제입니까?","a":"표를 이미 다 넘겨준 뒤, 너무 늦게","tip":"too late 가 없으면 그냥 '깨달았다'가 되어 아이들의 억울함이 사라집니다."}
+ ],
+ "4.42.0": [
+  {"t":"pron","q":"<b>the poor fellow’s instinct</b> 의 the poor fellow 는 누구입니까?","a":"교장(월터스 씨)","tip":"상을 준 쪽입니다. 톰을 가리키는 것으로 읽으면 문장이 통째로 뒤집힙니다."},
+  {"t":"neg","q":"<b>but it lacked somewhat of the true gush</b> — 교장은 진심으로 감격했습니까?","a":"아니요 — 진짜 감격은 다소 모자랐습니다","tip":"lacked 를 놓치면 앞의 as much effusion as … 만 남아 '한껏 감격했다'로 읽힙니다."},
+  {"t":"mod","q":"<b>had warehoused two thousand sheaves of Scriptural wisdom on his premises</b> 는 무슨 뜻입니까?","a":"성경 구절 2천 개를 (창고에 곡식 쌓듯) 머릿속에 쟁여 두었다는 비유","tip":"warehouse·premises 는 창고와 부지를 뜻하는 말이지만, 여기서는 톰의 머릿속을 빗댄 농담입니다."},
+  {"t":"pron","q":"<b>a dozen would strain his capacity</b> 의 his 는 누구입니까?","a":"톰 — 열두 구절만 해도 톰의 머리에는 벅찼을 것이라는 뜻","tip":"바로 앞의 this boy 를 받습니다. 교장의 능력을 말하는 것이 아닙니다."}
+ ],
+ "4.43.1": [
+  {"t":"mod","q":"<b>she was just a grain troubled</b> — 그녀는 얼마나 괴로웠습니까?","a":"아주 조금 — a grain 은 '한 톨만큼', 곧 아주 약간이라는 뜻입니다","tip":"just 와 a grain 을 놓치면 처음부터 크게 괴로워한 것으로 읽혀, 감정이 점점 커지는 순서가 무너집니다."},
+  {"t":"who","q":"<b>a furtive glance told her worlds</b> — 몰래 던진 그 눈길은 누구의 눈길이며, 알게 된 사람은 누구입니까?","a":"그녀가 몰래 던진 눈길이고, 알게 된 사람도 그녀입니다","tip":"told her = 그녀에게 알려 주었다. 누가 그녀를 훔쳐본 것이 아닙니다."},
+  {"t":"time","q":"그녀의 가슴이 무너진 것은 그 눈길 <b>앞</b>입니까, <b>뒤</b>입니까?","a":"뒤입니다 — 의아함 → 약간의 불편 → 희미한 의심 → 지켜봄 → 눈길로 확인 → 가슴이 무너짐","tip":"세미콜론으로 이어진 짧은 절들이 감정의 순서를 하나씩 보여 줍니다."}
+ ],
+ "4.51.5": [
+  {"t":"neg","q":"<b>you never can be sorry for the trouble you took to learn them</b> — 그 수고를 후회하게 될 것이라는 말입니까?","a":"아니요 — 결코 후회하지 않을 것이라는 말입니다","tip":"never 를 놓치면 격려가 아니라 경고가 되어 버립니다."},
+  {"t":"pron","q":"<b>the trouble you took to learn them</b> 의 them 은 무엇입니까?","a":"톰이 외운 성경 구절들","tip":"바로 앞 장면에서 표와 맞바꾼 그 암송 구절들입니다. 사람이 아닙니다."},
+  {"t":"pron","q":"<b>it’s what makes great men and good men</b> 의 it 은 무엇입니까?","a":"지식(knowledge)","tip":"앞 절의 knowledge 를 받습니다. 성경책이나 주일학교가 아닙니다."},
+  {"t":"time","q":"<b>It’s all owing to …</b> 로 이어지는 긴 말은 누가 언제 할 말입니까?","a":"톰이 훗날 어른이 되어 뒤돌아보며 할 말","tip":"and then you’ll look back and say 뒤에 오는 인용입니다. 지금 하고 있는 말이 아니라 미래의 상상입니다."}
+ ]
+}

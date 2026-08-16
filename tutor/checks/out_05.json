@@ -1,0 +1,113 @@
+{
+ "5.0.2": [
+  {"t":"who","q":"<b>Tom being placed next the aisle</b> — 톰이 스스로 통로 쪽 자리를 고른 것입니까, 누가 그를 그 자리에 앉힌 것입니까?","a":"누가(폴리 이모 쪽에서) 톰을 그 자리에 앉힌 것입니다","tip":"being placed 는 ‘앉혀진’이라는 수동입니다. ‘톰이 앉았다’로 읽으면 주체가 뒤바뀝니다."},
+  {"t":"pron","q":"<b>sat with her</b> 의 her 는 누구입니까?","a":"폴리 이모","tip":"바로 뒤에 메리가 나와서 her 를 메리로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>in order that he might be as far away from the open window…</b> 는 무엇에 대한 이유입니까?","a":"톰을 통로 쪽 자리에 앉힌 이유입니다 — 창문에서 최대한 멀리 떼어 놓으려고","tip":"‘폴리 이모가 온 이유’나 ‘네 사람이 함께 앉은 이유’로 붙이면 문장이 통째로 어긋납니다."}
+ ],
+ "5.0.3": [
+  {"t":"mod","q":"<b>who had seen better days</b> 는 누구를 설명합니까?","a":"늙고 가난한 우체국장(the postmaster)","tip":"콜론 뒤 목록의 첫 사람에 붙는 설명입니다. ‘사람들(the crowd)’에 붙이면 뜻이 달라집니다."},
+  {"t":"pron","q":"<b>for they had a mayor there</b> 의 they 는 누구입니까?","a":"그 마을(세인트피터즈버그) 사람들","tip":"바로 앞의 ‘시장과 그 부인’으로 잡기 쉽지만, ‘그 마을에도 시장이란 게 있었다’는 비꼼입니다."},
+  {"t":"who","q":"<b>the belle of the village, followed by a troop of … young heart-breakers</b> — 마을 최고 미인이 그 무리를 뒤따라간 것입니까, 그 무리가 미인을 뒤따라온 것입니까?","a":"그 무리가 미인을 뒤따라온 것입니다(미인이 앞, 무리가 뒤)","tip":"followed by 는 ‘~에게 뒤따라와지다’라는 수동입니다. 방향을 반대로 잡기 딱 좋은 자리입니다."},
+  {"t":"time","q":"<b>for they had stood in the vestibule … till the last girl had run their gantlet</b> — 젊은 점원들이 현관에 서 있던 것은 이들이 줄지어 들어오기 전입니까, 후입니까?","a":"들어오기 전입니다 — 마지막 아가씨가 다 지나갈 때까지 현관에 서 있다가 그 뒤에 한 무리로 들어왔습니다","tip":"had stood(대과거)를 놓치면 ‘들어오면서 서 있었다’는 앞뒤가 안 맞는 그림이 됩니다."}
+ ],
+ "5.1.0": [
+  {"t":"time","q":"<b>The congregation being fully assembled, now, the bell rang once more</b> — 종이 한 번 더 울린 것은 신자들이 다 모이기 전입니까, 후입니까?","a":"다 모인 뒤입니다","tip":"~ing 분사구문이라 시간 표시가 없어 보이지만, 앞 상황이 먼저 이루어진 뒤 종이 울립니다."},
+  {"t":"mod","q":"<b>which was only broken by…</b> 의 which 는 무엇을 받습니까? 교회(the church)입니까, 정적(a solemn hush)입니까?","a":"정적(a solemn hush)입니다","tip":"관계절이 바로 앞 명사인 the church 에 붙는다고 보면 ‘교회가 깨졌다’는 이상한 뜻이 됩니다."},
+  {"t":"who","q":"그 엄숙한 정적을 깬 것은 무엇입니까?","a":"2층 성가대석에 있던 성가대가 킥킥대고 소곤거리는 소리","tip":"was broken by 는 수동입니다. by 뒤가 ‘깬 쪽’입니다."}
+ ],
+ "5.2.1": [
+  {"t":"pron","q":"<b>till it reached a certain point, where it bore with strong emphasis…</b> 의 it 은 무엇을 가리킵니까?","a":"그의 목소리(His voice)","tip":"사람(그)이나 앞의 medium key 로 잡기 쉽지만, 이 문장의 주인공은 처음부터 끝까지 ‘목소리’입니다."},
+  {"t":"time","q":"목소리가 아래로 뚝 떨어진 것은 맨 꼭대기 단어를 힘주어 누르기 전입니까, 후입니까?","a":"누른 다음입니다(bore … and then plunged down)","tip":"and then 하나로 순서가 정해집니다. 순서를 바꾸면 목소리의 움직임이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>where it bore with strong emphasis</b> 의 where 는 어디를 가리킵니까?","a":"목소리가 올라가다 도달한 그 어느 지점(a certain point)","tip":"교회 안의 실제 장소로 읽기 쉽지만, 여기서는 ‘음높이의 어느 지점’입니다."}
+ ],
+ "5.5.1": [
+  {"t":"who","q":"<b>he was always called upon to read poetry</b> — 그가 남에게 시를 읽어 달라고 청한 것입니까, 남들이 그에게 청한 것입니까?","a":"남들(모임에 온 사람들)이 그에게 낭독해 달라고 청한 것입니다","tip":"was called upon 은 수동입니다. 청하는 쪽과 청함을 받는 쪽이 뒤집히기 쉽습니다."},
+  {"t":"pron","q":"<b>let them fall helplessly in their laps</b> 의 them 은 무엇입니까?","a":"부인들이 들어 올렸던 자기들의 두 손(their hands)","tip":"바로 앞에 poetry 가 있어 ‘시’로 잡기 쉽습니다. lift up their hands 를 되짚어야 합니다."},
+  {"t":"time","q":"<b>when he was through</b> — 부인들이 손을 들어 올린 것은 낭독 도중입니까, 낭독이 끝난 뒤입니까?","a":"낭독이 다 끝난 뒤입니다(be through = 끝나다)","tip":"through 를 ‘~을 통해’로 읽으면 시간 관계가 통째로 사라집니다."}
+ ],
+ "5.6.0": [
+  {"t":"time","q":"<b>After the hymn had been sung</b> — 목사가 공지사항을 읽은 것은 찬송가를 부르기 전입니까, 후입니까?","a":"찬송가를 다 부른 뒤입니다","tip":"had been sung(대과거 수동)이라 ‘찬송가가 다 불린 다음’입니다."},
+  {"t":"pron","q":"<b>till it seemed that the list would stretch out…</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 뒤의 that 절이 진짜 내용인 가주어입니다","tip":"it 을 목사나 목록으로 잡으면 ‘그것이 ~처럼 보였다’는 엉뚱한 그림이 됩니다."},
+  {"t":"mod","q":"<b>a queer custom which is still kept up in America</b> — 기이한 관습이라고 한 것은 무엇입니까?","a":"예배 시간에 온갖 모임·단체 공지사항을 길게 읽어 주는 일","tip":"바로 앞의 the crack of doom 이나 찬송가에 붙이기 쉽습니다. 대시 앞 문장 전체를 받는 말입니다."}
+ ],
+ "5.7.1": [
+  {"t":"who","q":"<b>it pleaded for the church</b> — 간구한 주체로 이 문장이 내세운 것은 목사입니까, 기도입니까?","a":"기도(the prayer)입니다 — it 이 곧 그 기도","tip":"뜻으로는 목사가 빈 것이지만, 이 문장은 ‘기도가 ~을 위해 빌었다’로 씁니다. 주어를 목사로 바꿔 읽으면 뒤의 he 와 충돌합니다."},
+  {"t":"neg","q":"<b>for such as have the light and the good tidings, and yet have not eyes to see nor ears to hear</b> — 이 사람들은 볼 눈과 들을 귀가 있습니까, 없습니까?","a":"없습니다 — 빛과 복음을 가졌으면서도 볼 눈도 들을 귀도 없는 사람들입니다","tip":"have not … nor … 를 놓치면 ‘눈도 귀도 있는 사람들’로 정반대가 됩니다."},
+  {"t":"time","q":"<b>the words he was about to speak</b> — 그 말은 이미 한 말입니까, 앞으로 할 말입니까?","a":"앞으로 할 말(곧 시작할 설교)입니다","tip":"was about to = 막 ~하려던 참. 과거형이라 ‘이미 말한 것’으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>groaning under the heel of European monarchies and Oriental despotisms</b> 는 누구를 꾸밉니까?","a":"억압받는 수백만 사람들(the oppressed millions)","tip":"바로 앞의 정부 관리나 선원들에 붙이면 뜻이 뒤엉킵니다."}
+ ],
+ "5.8.2": [
+  {"t":"neg","q":"<b>for he was not listening</b> — 톰은 기도를 듣고 있었습니까?","a":"듣고 있지 않았습니다 — 그런데도 몸에 밴 대로 세부 항목을 세고 있었습니다","tip":"not 을 놓치면 ‘열심히 들으며 셌다’가 되어, unconsciously(자기도 모르게)와 앞뒤가 맞지 않게 됩니다."},
+  {"t":"who","q":"<b>a little trifle of new matter was interlarded</b> — 새로운 내용을 끼워 넣은 쪽은 톰입니까, 목사입니까?","a":"목사입니다(톰은 그것을 알아채는 쪽)","tip":"was interlarded 는 수동입니다. 톰을 주어로 잡으면 뒤의 ‘그의 귀가 알아챘다’와 모순됩니다."},
+  {"t":"pron","q":"<b>his ear detected it and his whole nature resented it</b> 의 it 은 무엇입니까?","a":"기도에 새로 끼어든 그 사소한 내용(a little trifle of new matter)","tip":"기도 전체나 목사로 잡기 쉽지만, 톰이 분개한 것은 ‘덧붙여진 새 대목’입니다."}
+ ],
+ "5.8.3": [
+  {"t":"who","q":"<b>a fly … tortured his spirit</b> — 괴롭힌 쪽과 괴로움을 당한 쪽은 각각 누구입니까?","a":"파리가 괴롭힌 쪽, 톰(의 영혼)이 당한 쪽입니다","tip":"뒤에 나오는 파리의 몸단장 묘사 때문에 ‘톰이 파리를 괴롭혔다’로 뒤집어 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>polishing it so vigorously that it seemed to almost part company with the body</b> 의 it 은 무엇입니까?","a":"파리의 머리(its head)","tip":"파리 전체로 잡으면 ‘파리가 몸에서 떨어져 나갈 뻔했다’는 말이 안 되는 그림이 됩니다."},
+  {"t":"pron","q":"<b>smoothing them to its body as if they had been coat-tails</b> 의 them·they 는 무엇입니까?","a":"파리의 날개(its wings)","tip":"바로 앞 문장의 다리(hind legs)로 잡기 쉽습니다. 연미복 자락에 빗댄 것은 날개입니다."}
+ ],
+ "5.8.4": [
+  {"t":"neg","q":"<b>as sorely as Tom’s hands itched to grab for it they did not dare</b> — 톰은 파리를 잡았습니까?","a":"잡지 못했습니다 — 잡고 싶어 손이 근질거렸지만 감히 그러지 못했습니다","tip":"did not dare 를 놓치면 ‘결국 잡았다’로 정반대가 됩니다."},
+  {"t":"pron","q":"<b>they did not dare</b> 의 they 는 무엇입니까?","a":"톰의 두 손(Tom’s hands)","tip":"사람 여럿으로 잡기 쉽지만 앞 절의 주어가 hands 입니다."},
+  {"t":"time","q":"<b>if he did such a thing while the prayer was going on</b> — 톰이 영혼이 파멸한다고 믿은 것은 언제 그런 짓을 할 때입니까?","a":"기도가 진행되는 동안에 할 때입니다","tip":"while 절을 빼고 읽으면 ‘파리를 잡기만 하면 언제든 파멸’로 뜻이 커집니다."}
+ ],
+ "5.9.0": [
+  {"t":"who","q":"<b>many a head by and by began to nod</b> — 꾸벅꾸벅 존 쪽은 목사입니까, 듣는 사람들입니까?","a":"듣는 사람들입니다(많은 이들의 머리가 끄덕끄덕)","tip":"바로 앞에 목사가 주어로 나와 있어 목사가 존 것으로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>a company so small as to be hardly worth the saving</b> — 그 무리는 구원할 가치가 있습니까, 없습니까?","a":"거의 없습니다(hardly = 거의 ~않다)","tip":"hardly 를 ‘몹시’로 잡으면 ‘구원할 값어치가 크다’로 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that dealt in limitless fire and brimstone and thinned the predestined elect down…</b> 는 무엇을 설명합니까?","a":"목사가 늘어놓던 그 논증(an argument)","tip":"바로 앞의 it 이나 목사에 붙이면 ‘목사가 사람 수를 줄였다’는 엉뚱한 그림이 됩니다."}
+ ],
+ "5.9.1": [
+  {"t":"neg","q":"<b>he seldom knew anything else about the discourse</b> — 톰은 설교 내용을 잘 알고 있었습니까?","a":"거의 알지 못했습니다(seldom = 좀처럼 ~않다)","tip":"seldom 을 놓치면 ‘내용까지 잘 알았다’가 되어 앞의 ‘페이지만 셌다’와 어긋납니다."},
+  {"t":"time","q":"<b>after church he always knew how many pages there had been</b> — 페이지 수를 알고 있던 시점은 언제입니까?","a":"예배가 끝난 뒤입니다","tip":"after church 를 ‘교회 뒤(장소)’로 읽지 않도록 조심해야 합니다."}
+ ],
+ "5.9.3": [
+  {"t":"mod","q":"<b>when the lion and the lamb should lie down together</b> 는 무엇을 설명합니까?","a":"천년왕국(the millennium)이라는 그때","tip":"‘~할 때’라는 단순 시간 부사절로 읽으면 그림 전체가 흐트러집니다. 앞의 millennium 을 받는 설명입니다."},
+  {"t":"who","q":"<b>a little child should lead them</b> — 어린아이는 이끄는 쪽입니까, 이끌려 가는 쪽입니까?","a":"이끄는 쪽입니다","tip":"‘어린아이가 이끌린다’로 뒤집어 읽기 쉬운 자리입니다."},
+  {"t":"pron","q":"<b>lead them</b> 의 them 은 무엇을 가리킵니까?","a":"사자와 어린 양(the lion and the lamb)","tip":"앞의 the world’s hosts(세상의 무리)로 잡기 쉽지만, 바로 앞 절의 주어를 받습니다."}
+ ],
+ "5.9.4": [
+  {"t":"neg","q":"<b>the pathos, the lesson, the moral … were lost upon the boy</b> — 소년은 그 감동과 교훈을 잘 받아들였습니까?","a":"전혀 받아들이지 못했습니다 — 그에게는 아무 소용이 없었습니다(be lost upon = ~에게 통하지 않다)","tip":"lost 를 ‘잃어버렸다’로만 읽으면 ‘소년이 감동을 잃을 만큼 컸다’는 식으로 반대가 됩니다."},
+  {"t":"pron","q":"<b>he wished he could be that child</b> 의 that child 는 누구입니까?","a":"앞 문장에서 사자와 어린 양을 이끄는 그 어린아이","tip":"톰의 동생이나 교회에 온 어떤 아이로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>if it was a tame lion</b> 의 it 은 무엇입니까?","a":"그 사자","tip":"it 을 ‘그 일’이나 ‘그 아이’로 잡으면 톰이 단 조건(사자가 순할 것)이 사라져 우스개가 죽습니다."}
+ ],
+ "5.10.11": [
+  {"t":"who","q":"이 문장에서 전리품을 살펴보고 냄새를 맡는 <b>He</b> 는 누구입니까?","a":"교회에 들어온 푸들(개)입니다","tip":"He 를 톰으로 잡으면 문장 전체가 엉뚱해집니다. 앞뒤에 나온 개가 주인공입니다."},
+  {"t":"neg","q":"<b>made a gingerly snatch at it, just missing it</b> — 개는 딱정벌레를 물었습니까?","a":"물지 못했습니다 — 아슬아슬하게 빗나갔습니다","tip":"just missing 을 ‘방금 놓칠 뻔했다’로 뒤집어 읽기 쉽습니다. miss 는 ‘못 맞히다’입니다."},
+  {"t":"time","q":"<b>began to enjoy the diversion</b> 과 <b>grew weary at last</b> 중 먼저 일어난 것은 무엇입니까?","a":"재미있어하기 시작한 것이 먼저이고, 그다음에 지쳤습니다","tip":"세미콜론으로 이어진 동작들은 쓰인 순서가 곧 일어난 순서입니다."}
+ ],
+ "5.10.13": [
+  {"t":"who","q":"<b>a sharp yelp</b>(날카로운 깽 소리)를 낸 것은 누구입니까?","a":"푸들(개)입니다","tip":"There was 로 시작해 주체가 감춰져 있습니다. 바로 뒤의 the poodle’s head 가 단서입니다."},
+  {"t":"pron","q":"<b>lit on its back once more</b> — 등으로 떨어진 것은 개입니까, 딱정벌레입니까?","a":"딱정벌레가 제 등으로(벌러덩) 떨어졌습니다","tip":"its 를 개로 잡으면 ‘개 등 위에 떨어졌다’로 읽히지만, 주어는 the beetle 입니다."},
+  {"t":"time","q":"<b>once more</b> — 딱정벌레가 등을 대고 떨어진 것은 이번이 처음입니까?","a":"처음이 아닙니다 — 앞에서도 그렇게 떨어졌고 이번이 다시 한번입니다","tip":"once more 를 ‘한 번 더 굴렀다’ 정도로 흘리면 앞 장면과의 연결이 끊깁니다."}
+ ],
+ "5.10.16": [
+  {"t":"who","q":"<b>jumping at it … lighting with his fore-paws … making even closer snatches … jerking his head</b> — 이 동작들을 하는 것은 누구입니까?","a":"개입니다(앞 절의 he)","tip":"~ing 가 줄줄이 이어지면 주어가 바뀐 것처럼 보이지만, 넷 다 개의 동작입니다."},
+  {"t":"pron","q":"<b>within an inch of the creature</b> 의 the creature 는 무엇입니까?","a":"딱정벌레","tip":"the creature 를 개로 잡으면 ‘개가 제 몸에서 1인치 안쪽에 앞발을 놓았다’는 말이 안 되는 뜻이 됩니다."},
+  {"t":"time","q":"<b>began a wary attack on it again</b> 의 again — 이 공격은 처음입니까?","a":"처음이 아닙니다 — 앞서 한 차례 집적거리다 시들해졌다가 다시 시작한 것입니다","tip":"again 하나로 앞 장면과 이어집니다. 놓치면 새 장면이 시작된 것처럼 읽힙니다."}
+ ],
+ "5.10.17": [
+  {"t":"neg","q":"<b>tried to amuse himself with a fly but found no relief</b> — 파리 놀이는 개에게 재미가 있었습니까?","a":"없었습니다 — 아무 위안도 얻지 못했습니다","tip":"no 를 놓치면 ‘파리로 재미를 봤다’로 정반대가 되고, 뒤의 ‘개미를 따라다녔다’와도 어긋납니다."},
+  {"t":"who","q":"<b>followed an ant around, with his nose close to the floor</b> — 코를 바닥에 바짝 댄 것은 개미입니까, 개입니까?","a":"개입니다","tip":"바로 앞 명사가 an ant 라서 개미에 붙이기 쉽습니다. his 는 개를 가리킵니다."},
+  {"t":"pron","q":"<b>forgot the beetle entirely, and sat down on it</b> 의 it 은 무엇입니까?","a":"딱정벌레","tip":"이 it 을 개미나 바닥으로 잡으면 이 대목의 웃음 포인트(잊고 그 위에 앉음)가 통째로 사라집니다."}
+ ],
+ "5.10.18": [
+  {"t":"who","q":"<b>the yelps continued, and so did the dog</b> — so did the dog 은 개가 무엇을 했다는 뜻입니까?","a":"개도 (깽깽거리며 달리기를) 멈추지 않고 계속했다는 뜻입니다","tip":"so did 는 앞 동사를 대신 받는 도치입니다. ‘개가 그렇게 시켰다’처럼 읽지 않도록 조심해야 합니다."},
+  {"t":"neg","q":"<b>he was but a woolly comet</b> 의 but 은 ‘그러나’입니까, ‘오직 ~에 지나지 않는’입니까?","a":"‘오직 ~에 지나지 않는’입니다 — 개는 그저 털북숭이 혜성으로만 보였습니다","tip":"but 을 접속사 ‘그러나’로 읽으면 문장이 두 동강 나고 뜻이 사라집니다."},
+  {"t":"time","q":"<b>his anguish grew with his progress</b> — 개가 달려 나갈수록 고통은 어떻게 되었습니까?","a":"점점 커졌습니다(달릴수록 더 심해짐)","tip":"grew 를 ‘자라다·컸다’로만 보고 ‘달리면서 가라앉았다’로 잡으면 뒤의 절정 장면이 이해되지 않습니다."}
+ ],
+ "5.10.19": [
+  {"t":"who","q":"<b>the frantic sufferer</b>(미쳐 날뛰던 고통의 주인공)는 누구입니까?","a":"그 푸들(개)입니다","tip":"사람 이름처럼 보이는 표현이라 톰이나 주인으로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>he flung it out of the window</b> 의 he 와 it 은 각각 무엇입니까?","a":"he 는 개의 주인, it 은 개입니다","tip":"he 를 톰으로, it 을 딱정벌레로 잡기 딱 좋은 자리입니다. 바로 앞의 its master’s lap 이 단서입니다."},
+  {"t":"who","q":"<b>the voice of distress quickly thinned away and died in the distance</b> — 이 문장에서 사라진(죽은) 것은 개입니까?","a":"개가 아니라 그 괴로운 울음소리입니다(die away = 잦아들어 사라지다)","tip":"died 를 ‘죽었다’로 읽으면 창밖으로 던져진 개가 죽은 것처럼 됩니다. 주어는 the voice 입니다."}
+ ],
+ "5.11.1": [
+  {"t":"who","q":"<b>were constantly being received with a smothered burst of unholy mirth</b> — 킥킥 웃음을 터뜨린 쪽은 누구입니까?","a":"설교를 듣던 신자들입니다(목사가 아닙니다)","tip":"수동태라 웃는 주체가 문장에 드러나 있지 않습니다. 목사가 웃었다고 읽으면 장면이 뒤집힙니다."},
+  {"t":"neg","q":"<b>as if the poor parson had said a rarely facetious thing</b> — 목사는 실제로 우스운 말을 했습니까?","a":"하지 않았습니다 — 가장 엄숙한 말을 하는 중이었는데도 사람들이 그렇게 웃었다는 뜻입니다","tip":"as if 는 ‘실제로는 그렇지 않은데 마치 ~인 것처럼’입니다. 놓치면 목사가 농담을 한 것으로 읽힙니다."},
+  {"t":"mod","q":"<b>under cover of some remote pew-back</b> 는 무엇이 어디에서 일어났다는 말입니까?","a":"그 억눌린 웃음이 저 뒤쪽 신도석 등받이 뒤에 숨어서 터져 나왔다는 말입니다","tip":"목사나 설교의 위치로 붙이면 문장이 어긋납니다. 앞의 mirth(웃음)에 붙는 설명입니다."}
+ ],
+ "5.12.1": [
+  {"t":"neg","q":"<b>He had but one marring thought</b> — 톰의 마음에 걸린 생각은 여럿이었습니까, 하나였습니까?","a":"딱 하나였습니다(but = only)","tip":"but 을 ‘그러나’로 읽으면 문장이 성립하지 않습니다. 여기서는 ‘오직’입니다."},
+  {"t":"neg","q":"톰은 개가 자기 집게벌레를 가지고 논 것 자체를 못마땅해했습니까?","a":"아닙니다 — 그건 기꺼이 괜찮다고 여겼고(was willing), 못마땅한 것은 개가 그것을 가지고 가 버린 일입니다","tip":"was willing 과 did not think 사이의 대비를 놓치면 ‘개가 노는 것도 싫어했다’로 뭉뚱그려집니다."},
+  {"t":"pron","q":"<b>it was upright in him to carry it off</b> 의 him 과 뒤의 it 은 각각 무엇입니까?","a":"him 은 개, 뒤의 it 은 집게벌레입니다","tip":"him 을 톰으로 잡으면 ‘톰이 벌레를 가져간 것이 정직하지 않다’는 정반대 이야기가 됩니다."}
+ ]
+}

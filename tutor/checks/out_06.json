@@ -1,0 +1,113 @@
+{
+ "6.1.10": [
+  {"t":"time","q":"<b>he was about to begin to groan … when it occurred to him that…</b> — 톰은 신음을 시작했습니까?","a":"시작하지 못했습니다 — 막 시작하려던 참에 그 생각이 떠올라 그만두었습니다","tip":"was about to 는 ‘막 ~하려던 참’입니다. 과거형이라 ‘신음을 시작했다’로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>his aunt would pull it out</b> — 이를 뽑는 사람은 누구입니까?","a":"폴리 이모입니다(톰이 스스로 뽑는 것이 아닙니다)","tip":"톰이 겁내는 이유가 바로 이것입니다. 주어를 톰으로 잡으면 왜 그만두었는지가 설명되지 않습니다."},
+  {"t":"pron","q":"<b>his aunt would pull it out</b> 의 it 은 무엇입니까?","a":"흔들리는 그 이(치아)입니다","tip":"바로 앞의 that argument(그 논거)를 그대로 ‘주장’으로 읽으면 it 이 뭔지 알 수 없게 됩니다. 그 논거가 곧 흔들리는 이입니다."}
+ ],
+ "6.1.12": [
+  {"t":"neg","q":"<b>Nothing offered for some little time</b> — 한동안 무엇이 떠올랐습니까?","a":"아무것도 떠오르지 않았습니다","tip":"Nothing 이 주어라서 문장에 not 이 없습니다. 그래서 부정인 줄 모르고 지나치기 쉽습니다."},
+  {"t":"who","q":"<b>he remembered hearing the doctor tell about a certain thing</b> — 그 이야기를 한 사람과 들은 사람은 각각 누구입니까?","a":"이야기한 사람은 의사, 들은 사람은 톰입니다","tip":"hear + 사람 + 동사원형 구조입니다. tell 의 주어를 톰으로 잡으면 방향이 뒤집힙니다."},
+  {"t":"time","q":"톰이 의사의 이야기를 들은 것과, 그 이야기를 기억해 낸 것 중 먼저 일어난 일은 무엇입니까?","a":"들은 것이 먼저입니다 — 예전에 들었던 것을 지금 떠올린 것입니다","tip":"remembered hearing(과거의 일을 기억함)입니다. ‘이제 막 의사 이야기를 듣고 있다’로 읽으면 장면이 어긋납니다."},
+  {"t":"pron","q":"<b>threatened to make him lose a finger</b> 의 him 은 누구입니까?","a":"그 병에 걸린 환자(a patient)입니다","tip":"him 을 톰으로 잡으면 ‘톰이 손가락을 잃을 뻔했다’는 딴 이야기가 됩니다."}
+ ],
+ "6.40.1": [
+  {"t":"who","q":"<b>he was the envy of every boy he met</b> — 부러워한 쪽은 톰입니까, 톰이 만난 소년들입니까?","a":"소년들이 톰을 부러워했습니다(톰이 부러움의 ‘대상’)","tip":"the envy of ~ 는 ‘~의 부러움을 사는 대상’입니다. ‘톰이 소년들을 부러워했다’로 뒤집기 쉽습니다."},
+  {"t":"mod","q":"<b>the gap in his upper row of teeth</b> — 이가 빠진 자리는 윗니입니까, 아랫니입니까?","a":"윗니 줄입니다","tip":"upper 를 흘려 읽기 쉽지만, 침 뱉는 방식이 특별해진 이유가 바로 이 자리입니다."},
+  {"t":"time","q":"<b>As Tom wended to school after breakfast</b> — 이 장면은 아침 식사 전입니까, 후입니까?","a":"아침을 먹은 뒤 학교로 걸어가는 중입니다","tip":"as 를 ‘~처럼’으로 읽으면 시간 관계가 사라집니다. 여기서는 ‘~하는 동안’입니다."}
+ ],
+ "6.40.2": [
+  {"t":"who","q":"<b>one that had cut his finger</b> — 손가락을 벤 사람은 톰입니까, 다른 소년입니까?","a":"다른 소년 한 명입니다","tip":"one 이 ‘하나’로만 보여 앞의 He(톰)에 이어 붙이기 쉽습니다. 여기서는 ‘어떤 소년’입니다."},
+  {"t":"time","q":"<b>had been a centre of fascination and homage up to this time</b> — 그 소년이 관심의 중심이던 것은 언제까지입니까?","a":"톰의 침 뱉기가 등장한 이때까지입니다 — 지금은 아닙니다","tip":"had been(대과거)과 up to this time 을 놓치면 ‘지금도 인기 있다’로 읽혀 뒤의 몰락과 어긋납니다."},
+  {"t":"neg","q":"<b>now found himself suddenly without an adherent</b> — 그 소년의 추종자는 늘었습니까, 없어졌습니까?","a":"하나도 남지 않고 없어졌습니다","tip":"without 한 단어가 부정입니다. found himself 를 ‘자신을 찾았다’로 읽으면 뜻이 통째로 흐려집니다."}
+ ],
+ "6.40.3": [
+  {"t":"neg","q":"<b>he said with a disdain which he did not feel</b> — 그 소년은 정말로 경멸을 느끼고 있었습니까?","a":"느끼지 않았습니다 — 느끼지도 않는 경멸을 꾸며 내어 말한 것입니다","tip":"which he did not feel 을 놓치면 ‘진심으로 무시했다’가 되어, 마음이 무거웠다는 앞 내용과 모순됩니다."},
+  {"t":"pron","q":"<b>he wandered away a dismantled hero</b> 의 he 는 누구입니까?","a":"손가락을 벤 그 소년입니다(톰이 아닙니다)","tip":"이 문장에는 톰이 이름으로만 나옵니다. he 를 톰으로 잡으면 승자와 패자가 뒤바뀝니다."},
+  {"t":"who","q":"<b>“Sour grapes!”</b> 라고 말한 사람은 누구입니까?","a":"톰도, 손가락 벤 소년도 아닌 또 다른 소년입니다(another boy)","tip":"바로 앞이 손가락 벤 소년의 말이라 그가 이어서 말한 것으로 읽기 쉽습니다."}
+ ],
+ "6.41.1": [
+  {"t":"who","q":"<b>Huckleberry was cordially hated and dreaded by all the mothers of the town</b> — 미워하고 두려워한 쪽은 누구입니까?","a":"마을의 모든 어머니들입니다(허클베리가 미움을 받는 쪽)","tip":"수동태입니다. ‘허클베리가 어머니들을 미워하고 무서워했다’로 뒤집기 쉽습니다."},
+  {"t":"pron","q":"<b>all their children</b> 의 their 는 누구를 가리킵니까?","a":"마을의 그 어머니들","tip":"허클베리로 잡으면 말이 되지 않습니다. 앞의 all the mothers 를 받습니다."},
+  {"t":"neg","q":"<b>wished they dared to be like him</b> — 아이들은 실제로 허클베리처럼 살 용기가 있었습니까?","a":"없었습니다 — 감히 그러지 못하면서 그러기를 바라기만 했습니다","tip":"wished + 가정법이라 ‘실제로는 그렇지 못하다’는 뜻이 깔려 있습니다. ‘아이들도 그렇게 살았다’로 읽으면 틀립니다."}
+ ],
+ "6.41.5": [
+  {"t":"mod","q":"<b>with a wide crescent lopped out of its brim</b> — 초승달 모양으로 잘려 나간 곳은 모자의 어디입니까?","a":"모자의 챙(brim)입니다","tip":"its 를 허클베리로 잡으면 사람 몸이 잘린 이상한 그림이 됩니다."},
+  {"t":"neg","q":"<b>his coat, when he wore one,</b> — 그는 늘 외투를 입고 있었습니까?","a":"아닙니다 — 입을 때도 있고 아닐 때도 있었습니다","tip":"when he wore one 이라는 짧은 삽입 하나가 ‘입을 때에 한해서’라는 단서입니다. 지나치면 늘 입은 것으로 읽힙니다."},
+  {"t":"neg","q":"<b>but one suspender supported his trousers</b> 의 but 은 ‘그러나’입니까, ‘오직’입니까?","a":"‘오직’입니다 — 멜빵 하나만이 바지를 붙들고 있었습니다","tip":"but 을 접속사로 읽으면 앞 문장과 이어 붙게 되어 문장이 무너집니다."},
+  {"t":"time","q":"<b>the fringed legs dragged in the dirt when not rolled up</b> — 바짓단이 흙에 끌린 것은 언제입니까?","a":"바짓단을 걷어 올리지 않았을 때입니다","tip":"when not rolled up 의 not 을 놓치면 ‘걷어 올렸을 때 끌렸다’는 반대가 됩니다."}
+ ],
+ "6.42.1": [
+  {"t":"neg","q":"<b>he did not have to go to school or to church</b> — 학교에 가는 것이 금지되었다는 뜻입니까, 갈 필요가 없었다는 뜻입니까?","a":"갈 필요가 없었다는 뜻입니다(의무가 없음)","tip":"did not have to 는 ‘~할 필요가 없다’입니다. must not(금지)으로 읽으면 자유를 부러워하는 이 대목의 뜻이 달라집니다."},
+  {"t":"who","q":"<b>nobody forbade him to fight</b> — 그에게 싸움을 금지한 사람은 누구입니까?","a":"아무도 없었습니다","tip":"nobody 가 주어라 not 이 보이지 않습니다. ‘누군가가 싸움을 금했다’로 읽으면 정반대입니다."},
+  {"t":"time","q":"<b>the first boy that went barefoot in the spring and the last to resume leather in the fall</b> — 그는 가을에 신발을 언제 다시 신었습니까?","a":"마을에서 가장 늦게 신었습니다","tip":"the first / the last 가 각각 봄·가을에 걸립니다. 짝을 바꿔 잡으면 뜻이 뒤집힙니다."}
+ ],
+ "6.63.0": [
+  {"t":"who","q":"이 말을 말하는 사람(<b>me</b>)에게 직접 전해 준 사람은 이 전달 사슬의 어디에 있는 사람입니까?","a":"맨 마지막 사람입니다 — 벤 로저스에게서 들은 그 사람이 화자에게 말했습니다","tip":"맨 앞의 he 가 화자에게 직접 말한 것으로 읽기 쉽지만, 화자는 여러 사람을 거친 끝에 들었습니다."},
+  {"t":"time","q":"이 이야기를 가장 먼저 전한 사람과 가장 나중에 들은 사람은 각각 누구입니까?","a":"가장 먼저 전한 쪽은 맨 앞의 he, 가장 나중에 들은 쪽은 말하는 사람(me)입니다","tip":"and 로 이어진 순서가 곧 전달 순서입니다. 순서를 뒤집으면 ‘소문이 이렇게 멀리 돌았다’는 우스개가 사라집니다."}
+ ],
+ "6.72.3": [
+  {"t":"who","q":"<b>You got to go all by yourself</b> — 누구와 함께 가라는 말입니까?","a":"아무도 데려가지 말고 혼자 가라는 말입니다","tip":"all 을 ‘모두’로 읽어 ‘다 함께’로 뒤집기 쉽습니다. all by yourself 는 ‘너 혼자서’입니다."},
+  {"t":"mod","q":"<b>where you know there’s a spunk-water stump</b> 는 어디를 설명합니까?","a":"앞에 나온 숲 한가운데(the middle of the woods)","tip":"‘네가 아는 곳’이라는 설명이 붙는 대상은 숲 한가운데입니다. 학교나 집으로 잡으면 지시가 무너집니다."},
+  {"t":"time","q":"<b>just as it’s midnight</b> — 손을 그루터기에 집어넣는 때는 언제입니까?","a":"딱 자정이 되는 그 순간입니다(자정 전이나 후가 아닙니다)","tip":"just as 는 ‘바로 ~하는 순간’입니다. ‘자정 무렵 아무 때나’로 느슨하게 읽으면 이 미신 규칙의 핵심이 사라집니다."}
+ ],
+ "6.76.0": [
+  {"t":"neg","q":"<b>you can bet he didn’t</b> — 그 아이가 제대로 해냈다는 뜻입니까, 하지 않았다는 뜻입니까?","a":"하지 않았다(제대로 못 했다)는 뜻입니다","tip":"can bet 만 보고 ‘틀림없이 했다’로 읽기 쉽습니다. 뒤에 붙은 didn’t 가 이 문장의 방향을 결정합니다."},
+  {"t":"neg","q":"<b>he wouldn’t have a wart on him if he’d knowed how to work spunk-water</b> — 그 아이는 스펑크 워터 쓰는 법을 알고 있었습니까?","a":"몰랐습니다 — 알았더라면 사마귀가 없었을 텐데 실제로는 사마귀투성이입니다","tip":"if + 과거완료 가정법은 ‘실제로는 그렇지 않았다’는 뜻입니다. ‘방법을 알고 있었다’로 읽으면 정반대입니다."}
+ ],
+ "6.79.0": [
+  {"t":"mod","q":"<b>cut the wart so as to get some blood</b> — 피는 어디에서 나게 하는 것입니까?","a":"사마귀를 베어 사마귀에서 피가 나게 합니다","tip":"so as to 를 ‘~하지 않도록’으로 잘못 잡으면 ‘피가 나지 않게 하라’는 반대 지시가 됩니다."},
+  {"t":"pron","q":"<b>and bury it ’bout midnight at the crossroads</b> 의 it 은 무엇입니까?","a":"피를 묻힌 콩 한 조각입니다(콩 전체도, 사마귀도 아닙니다)","tip":"나머지 콩은 묻는 것이 아니라 태웁니다. it 을 콩 전체로 잡으면 마지막 지시와 모순됩니다."},
+  {"t":"time","q":"<b>’bout midnight … in the dark of the moon</b> — 콩을 묻는 때는 언제입니까?","a":"달이 보이지 않는 그믐 무렵, 자정쯤입니다","tip":"in the dark of the moon 을 ‘어두운 달빛 아래’로 읽으면 달이 떠 있는 밤이 되어 조건이 뒤집힙니다."}
+ ],
+ "6.79.1": [
+  {"t":"who","q":"<b>will keep drawing and drawing</b> — 계속 끌어당기는 것은 무엇입니까?","a":"피가 묻은 그 콩 조각(땅에 묻은 조각)입니다","tip":"주어와 동사 사이에 관계절이 끼어 있어 the blood 나 the wart 를 주어로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>trying to fetch the other piece to it</b> 의 the other piece 는 무엇입니까?","a":"피를 묻히지 않은 나머지 콩 조각입니다","tip":"사마귀나 다른 콩으로 잡으면 이 주술의 그림이 흐트러집니다. 콩을 둘로 쪼갠 그 나머지 반쪽입니다."},
+  {"t":"pron","q":"<b>and pretty soon off she comes</b> 의 she 는 무엇입니까?","a":"사마귀입니다","tip":"사투리에서는 사물도 she 로 받습니다. 여자아이가 등장한 것으로 읽으면 완전히 딴 이야기가 됩니다."}
+ ],
+ "6.80.0": [
+  {"t":"pron","q":"<b>when you’re burying it</b> 의 it 은 무엇입니까?","a":"피 묻은 콩 조각입니다","tip":"앞 사람의 설명을 받는 말입니다. 고양이나 사마귀로 잡으면 절차가 뒤엉킵니다."},
+  {"t":"time","q":"주문을 외우는 시점은 언제입니까?","a":"콩 조각을 땅에 묻고 있는 동안입니다","tip":"when you’re burying it 이 if 절 앞에 있어 순서를 놓치기 쉽습니다. 묻기 전이나 다 묻은 뒤가 아닙니다."},
+  {"t":"neg","q":"<b>come no more to bother me!</b> 는 무슨 뜻입니까?","a":"다시는 나를 괴롭히러 오지 말라는 뜻입니다","tip":"no more 를 놓치면 ‘나를 괴롭히러 오라’는 정반대 주문이 됩니다."}
+ ],
+ "6.81.0": [
+  {"t":"time","q":"<b>’long about midnight when somebody that was wicked has been buried</b> — 묘지에 가야 하는 때는 언제입니까?","a":"못된 사람이 묻힌 날, 자정 무렵입니다","tip":"두 조건(그 날짜 + 그 시각)이 함께 붙어 있습니다. 하나만 잡으면 지시가 반쪽이 됩니다."},
+  {"t":"neg","q":"<b>you can’t see ’em, you can only hear something like the wind</b> — 악마들이 보입니까?","a":"보이지 않습니다 — 바람 같은 소리만 들릴 뿐입니다","tip":"can’t 와 only 를 놓치면 ‘악마를 보게 된다’는 정반대 장면이 됩니다."},
+  {"t":"pron","q":"<b>when they’re taking that feller away</b> 의 that feller 는 누구입니까?","a":"묘지에 묻힌 그 못된 사람(의 시체)입니다","tip":"‘그 녀석’이 톰이나 헉으로 읽히기 쉽습니다. 악마들이 데려가는 것은 죽은 사람입니다."},
+  {"t":"who","q":"<b>you heave your cat after ’em</b> — 고양이를 누구 뒤로 던집니까?","a":"시체를 데려가는 그 악마들 뒤로 던집니다","tip":"’em 을 고양이나 사마귀로 잡으면 주문의 순서(악마→고양이→사마귀)가 통하지 않게 됩니다."}
+ ],
+ "6.95.1": [
+  {"t":"who","q":"<b>you kep’ me a-meowing around</b> — 야옹거린 사람과 그렇게 만든 사람은 각각 누구입니까?","a":"야옹거린 쪽은 말하는 사람(me), 그렇게 붙들어 둔 쪽은 상대방(you)입니다","tip":"keep + 목적어 + ~ing 구조입니다. 주어와 목적어를 바꿔 잡으면 누가 고생했는지가 뒤집힙니다."},
+  {"t":"pron","q":"<b>so I hove a brick through his window</b> 의 his 는 누구입니까?","a":"돌을 던진 헤이스 영감(old Hays)입니다","tip":"his 를 말 상대나 자기 집으로 잡기 쉽습니다. 앞에서 돌을 던진 사람에게 되갚은 것입니다."},
+  {"t":"neg","q":"<b>but don’t you tell.</b> 는 무슨 뜻입니까?","a":"(이 일을) 아무한테도 말하지 말라는 뜻입니다","tip":"don’t you 를 ‘너는 말하지 않지?’라는 질문으로 읽기 쉽지만, 여기서는 강한 명령입니다."}
+ ],
+ "6.113.0": [
+  {"t":"neg","q":"톰은 정말로 <b>with all honest speed</b>(정직하게 최대한 서둘러) 학교에 온 것입니까?","a":"아닙니다 — 그렇게 온 사람인 척 태도만 꾸며서 들어간 것입니다","tip":"with the manner of one 이 ‘~인 사람의 태도로’라는 뜻입니다. 이 앞부분을 놓치면 톰이 실제로 서둘러 온 것으로 읽힙니다."},
+  {"t":"mod","q":"<b>who had come with all honest speed</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 one, 즉 ‘(그렇게 달려온) 어떤 사람’입니다","tip":"이 관계절을 Tom 이나 school-house 에 붙이면 톰의 능청스러움이라는 핵심이 사라집니다."}
+ ],
+ "6.118.0": [
+  {"t":"time","q":"<b>Tom was about to take refuge in a lie, when he saw…</b> — 톰은 그 거짓말을 했습니까?","a":"하지 못했습니다 — 막 하려던 참에 노란 머리 두 갈래를 보았습니다","tip":"was about to 는 ‘막 ~하려던 참’입니다. ‘거짓말로 둘러댔다’로 읽으면 뒤에 이어지는 선택이 설명되지 않습니다."},
+  {"t":"mod","q":"<b>that he recognized by the electric sympathy of love</b> — 톰이 알아본 것은 머리카락입니까, 등(a back)입니까?","a":"등(a back)입니다","tip":"관계절이 붙는 명사는 바로 앞의 a back 입니다. tails of yellow hair 에 붙이면 대상이 달라집니다."},
+  {"t":"who","q":"<b>by that form was the only vacant place on the girls’ side</b> — 이 절의 주어(진짜 주인공)는 무엇입니까?","a":"the only vacant place(유일하게 비어 있던 자리)입니다 — 그 자리가 그 모습 옆에 있었다는 뜻","tip":"장소 표현이 앞으로 나온 도치입니다. by that form 을 주어로 잡으면 문장이 풀리지 않습니다."}
+ ],
+ "6.127.0": [
+  {"t":"neg","q":"<b>appeared to abash the boy, but in reality…</b> — 소년이 그런 모습을 보인 진짜 원인은 교실의 킥킥거림이었습니까?","a":"아닙니다 — 그렇게 보였을 뿐이고, 실제 원인은 그 소녀에 대한 경외감과 두려운 기쁨이었습니다","tip":"appeared to 와 in reality 를 놓치면 ‘킥킥거림 때문에 부끄러워했다’는 정반대 결론이 됩니다."},
+  {"t":"pron","q":"<b>his unknown idol</b> 은 누구입니까?","a":"톰이 아직 이름도 모르는 그 소녀(옆자리의 그 아이)입니다","tip":"idol 을 우상·조각상으로 읽으면 사람이 사라집니다. unknown 은 ‘유명하지 않은’이 아니라 ‘톰이 아직 모르는’입니다."},
+  {"t":"mod","q":"<b>that lay in his high good fortune</b> 는 무엇을 꾸밉니까?","a":"the dread pleasure(그 두려운 기쁨)입니다","tip":"바로 앞의 idol 이나 awe 에 붙이기 쉽습니다. 관계절의 주인은 pleasure 입니다."}
+ ],
+ "6.132.1": [
+  {"t":"who","q":"<b>He could have stepped over the house</b> 의 He 는 누구입니까?","a":"톰이 그린 그림 속의 남자입니다","tip":"He 를 톰으로 잡으면 ‘톰이 집을 넘을 수 있었다’는 엉뚱한 말이 됩니다. 앞에서 그린 그림 이야기입니다."},
+  {"t":"neg","q":"<b>the girl was not hypercritical</b> — 소녀는 그림을 까다롭게 따졌습니까?","a":"따지지 않았습니다 — 그 엉성한 그림에도 만족했습니다","tip":"not 을 놓치면 ‘아주 까다로웠다’가 되어 뒤의 was satisfied 와 정면으로 어긋납니다."},
+  {"t":"pron","q":"<b>she was satisfied with the monster</b> 의 the monster 는 무엇입니까?","a":"톰이 그린 그 괴물 같은(비율이 엉망인) 그림 속 사람입니다","tip":"진짜 괴물이 등장한 것으로 읽기 쉽습니다. 집보다 큰 사람을 그렸다는 앞 내용을 받는 말입니다."}
+ ],
+ "6.154.1": [
+  {"t":"who","q":"<b>she put her small hand upon his</b> — 손을 먼저 얹은 사람은 누구입니까?","a":"소녀입니다(톰이 아닙니다)","tip":"뒤에 Tom 이 크게 나와서 톰이 먼저 움직인 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>upon his</b> 의 his 는 무엇을 뜻합니까?","a":"톰의 손(his hand)입니다","tip":"his 뒤에 명사가 없어 그냥 넘기기 쉽습니다. ‘그의 것’ = 그의 손입니다."},
+  {"t":"neg","q":"<b>Tom pretending to resist in earnest but letting his hand slip by degrees</b> — 톰은 정말로 못 보게 막으려 했습니까?","a":"아닙니다 — 진지하게 버티는 척만 하고 실제로는 손이 조금씩 밀려나게 두었습니다","tip":"pretending 을 놓치면 톰이 끝까지 감추려 한 것으로 읽혀, 글자가 드러난 결말과 어긋납니다."}
+ ],
+ "6.157.1": [
+  {"t":"pron","q":"<b>and made a botch of it</b> 의 it 은 무엇입니까?","a":"자기 차례의 읽기(읽기 수업에서 맡은 대목)입니다","tip":"it 을 메달이나 학교로 잡으면 이어지는 수업별 실패 목록과 연결되지 않습니다."},
+  {"t":"who","q":"<b>and got “turned down,”</b> — 톰이 다른 아이를 떨어뜨린 것입니까, 톰이 떨어진 것입니까?","a":"톰이 떨어진(탈락당한) 것입니다","tip":"got + 과거분사는 수동입니다. 능동으로 읽으면 승패가 뒤집힙니다."},
+  {"t":"mod","q":"<b>by a succession of mere baby words</b> — 톰이 탈락한 원인은 어려운 단어입니까, 아주 쉬운 단어입니까?","a":"아기도 아는 아주 쉬운 단어들이 연달아 나와서입니다","tip":"mere baby words 를 놓치면 ‘어려운 단어에 걸렸다’로 읽혀 창피함의 강도가 완전히 달라집니다."},
+  {"t":"time","q":"<b>the pewter medal which he had worn with ostentation for months</b> — 메달을 자랑스레 달고 다닌 것은 이날 이후입니까, 이날 이전입니까?","a":"이날 이전 몇 달 동안입니다 — 이날 그 메달을 내놓았습니다","tip":"had worn(대과거)을 놓치면 ‘앞으로 몇 달 달고 다닌다’로 시간이 뒤집힙니다."}
+ ]
+}

@@ -1,0 +1,950 @@
+[
+ {
+  "id": "6.1.10",
+  "en": "This was lucky; he was about to begin to groan, as a “starter,” as he called it, when it occurred to him that if he came into court with that argument, his aunt would pull it out, and that would hurt.",
+  "s": "This",
+  "v": "was",
+  "ko": "이건 운이 좋았다. 그는 자기 말로 '시작 신호'라며 막 신음을 시작하려던 참이었는데, 그때 문득 생각이 떠올랐다. 그 논거(흔들리는 이)를 들고 법정(=이모 앞)에 나갔다가는 이모가 이를 뽑아 버릴 테고, 그러면 아플 것이라는 생각이.",
+  "chunks": [
+   {
+    "en": "This was lucky;",
+    "ko": "이건 운이 좋았다;",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "he was about to begin to groan,",
+    "ko": "그는 막 신음을 시작하려던 참이었다,",
+    "r": "대등절(주어+동사)"
+   },
+   {
+    "en": "as a “starter,”",
+    "ko": "'시작 신호'로서,",
+    "r": "전치사구(방식)"
+   },
+   {
+    "en": "as he called it,",
+    "ko": "그가 그렇게 불렀듯이,",
+    "r": "삽입절"
+   },
+   {
+    "en": "when it occurred to him",
+    "ko": "그때 문득 그에게 생각이 떠올랐다",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "that if he came into court with that argument,",
+    "ko": "그 논거(흔들리는 이)를 들고 법정(=이모 앞)에 나가면",
+    "r": "that절 속 조건절"
+   },
+   {
+    "en": "his aunt would pull it out,",
+    "ko": "이모가 그것을 뽑아 버릴 것이고,",
+    "r": "that절 주절"
+   },
+   {
+    "en": "and that would hurt.",
+    "ko": "그러면 아플 것이라는 (생각이).",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "6.1.12",
+  "en": "Nothing offered for some little time, and then he remembered hearing the doctor tell about a certain thing that laid up a patient for two or three weeks and threatened to make him lose a finger.",
+  "s": "Nothing",
+  "v": "offered",
+  "ko": "한동안 아무것도 떠오르지 않다가, 문득 의사가 어떤 병에 대해 이야기하던 것을 들은 기억이 났다. 환자를 2~3주 동안 몸져눕게 하고 손가락을 잃게 할 뻔했다는 병이었다.",
+  "chunks": [
+   {
+    "en": "Nothing offered for some little time,",
+    "ko": "한동안 아무것도 떠오르지 않았다,",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and then he remembered",
+    "ko": "그러다 그는 기억해 냈다",
+    "r": "대등절"
+   },
+   {
+    "en": "hearing the doctor tell",
+    "ko": "의사가 이야기하는 걸 들었던 것을",
+    "r": "목적어(동명사구)"
+   },
+   {
+    "en": "about a certain thing",
+    "ko": "어떤 병에 대해",
+    "r": "전치사구"
+   },
+   {
+    "en": "that laid up a patient for two or three weeks",
+    "ko": "환자를 2~3주 동안 몸져눕게 한",
+    "r": "관계절(앞 명사 설명)"
+   },
+   {
+    "en": "and threatened to make him lose a finger.",
+    "ko": "그리고 손가락을 잃게 할 뻔한 (병).",
+    "r": "관계절 계속"
+   }
+  ]
+ },
+ {
+  "id": "6.40.1",
+  "en": "As Tom wended to school after breakfast, he was the envy of every boy he met because the gap in his upper row of teeth enabled him to expectorate in a new and admirable way.",
+  "s": "he",
+  "v": "was",
+  "ko": "아침을 먹고 학교로 걸어가는 동안 톰은 만나는 소년마다 부러워하는 대상이 되었다. 윗니 줄에 생긴 틈 덕분에 새롭고 감탄스러운 방식으로 침을 뱉을 수 있게 되었기 때문이다.",
+  "chunks": [
+   {
+    "en": "As Tom wended to school after breakfast,",
+    "ko": "톰이 아침을 먹고 학교로 걸어가는 동안,",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he was the envy of every boy he met",
+    "ko": "그는 만나는 모든 소년의 부러움의 대상이었다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "because the gap in his upper row of teeth",
+    "ko": "왜냐하면 윗니 줄의 빈 틈이",
+    "r": "부사절(이유) 주어"
+   },
+   {
+    "en": "enabled him to expectorate",
+    "ko": "그가 침을 뱉을 수 있게 해 주었기 때문에",
+    "r": "부사절 동사+목적어"
+   },
+   {
+    "en": "in a new and admirable way.",
+    "ko": "새롭고 감탄스러운 방식으로.",
+    "r": "부사구(방법)"
+   }
+  ]
+ },
+ {
+  "id": "6.40.2",
+  "en": "He gathered quite a following of lads interested in the exhibition; and one that had cut his finger and had been a centre of fascination and homage up to this time, now found himself suddenly without an adherent, and shorn of his glory.",
+  "s": "He",
+  "v": "gathered",
+  "ko": "그는 이 시범에 관심을 보이는 소년 무리를 꽤 거느리게 되었다. 그리고 손가락을 베어 그때까지 매혹과 존경의 중심이었던 한 소년은, 이제 갑자기 추종자 하나 없이 영광을 빼앗긴 자신을 발견했다.",
+  "chunks": [
+   {
+    "en": "He gathered quite a following of lads",
+    "ko": "그는 꽤 많은 소년 추종자를 모았다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "interested in the exhibition;",
+    "ko": "그 시범(침 뱉기)에 관심 있는 (소년들);",
+    "r": "분사구(앞 명사 설명)"
+   },
+   {
+    "en": "and one that had cut his finger",
+    "ko": "그리고 손가락을 베인 한 소년,",
+    "r": "대등절 주어+관계절"
+   },
+   {
+    "en": "and had been a centre of fascination and homage",
+    "ko": "매혹과 존경의 중심이었던 (소년)은",
+    "r": "관계절 계속"
+   },
+   {
+    "en": "up to this time,",
+    "ko": "이때까지,",
+    "r": "시간"
+   },
+   {
+    "en": "now found himself suddenly without an adherent,",
+    "ko": "이제 갑자기 추종자 하나 없는 자신을 발견했다,",
+    "r": "동사+목적어+보어"
+   },
+   {
+    "en": "and shorn of his glory.",
+    "ko": "영광을 빼앗긴 채.",
+    "r": "보어(과거분사)"
+   }
+  ]
+ },
+ {
+  "id": "6.40.3",
+  "en": "His heart was heavy, and he said with a disdain which he did not feel that it wasn’t anything to spit like Tom Sawyer; but another boy said, “Sour grapes!” and he wandered away a dismantled hero.",
+  "s": "His heart",
+  "v": "was",
+  "ko": "그는 마음이 무거웠고, 실제로는 느끼지도 않는 경멸을 담아 톰 소여처럼 침 뱉는 건 별것 아니라고 말했다. 하지만 다른 소년이 '신 포도잖아!'라고 하자, 그는 무너진 영웅이 되어 어슬렁 떠나갔다.",
+  "chunks": [
+   {
+    "en": "His heart was heavy,",
+    "ko": "그의 마음은 무거웠다,",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "and he said with a disdain",
+    "ko": "그리고 그는 경멸하는 투로 말했다",
+    "r": "대등절"
+   },
+   {
+    "en": "which he did not feel",
+    "ko": "실제로는 느끼지도 않는 (경멸)",
+    "r": "관계절(앞 명사 설명)"
+   },
+   {
+    "en": "that it wasn’t anything",
+    "ko": "별것 아니라고",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "to spit like Tom Sawyer;",
+    "ko": "톰 소여처럼 침 뱉는 것은;",
+    "r": "진주어(to부정사)"
+   },
+   {
+    "en": "but another boy said,",
+    "ko": "그러나 다른 소년이 말했다,",
+    "r": "대등절"
+   },
+   {
+    "en": "“Sour grapes!”",
+    "ko": "\"신 포도잖아!(=샘내는 거지!)\"",
+    "r": "인용(대사)"
+   },
+   {
+    "en": "and he wandered away a dismantled hero.",
+    "ko": "그리고 그는 무너진 영웅이 되어 어슬렁 떠나갔다.",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "6.41.1",
+  "en": "Huckleberry was cordially hated and dreaded by all the mothers of the town, because he was idle and lawless and vulgar and bad—and because all their children admired him so, and delighted in his forbidden society, and wished they dared to be like him.",
+  "s": "Huckleberry",
+  "v": "was cordially hated and dreaded",
+  "ko": "허클베리는 마을의 모든 어머니들에게 진심으로 미움과 두려움을 샀다. 그가 게으르고 무법하고 상스럽고 나쁘기 때문이었고—또 모든 아이들이 그를 그토록 동경하고, 금지된 그와의 어울림을 즐기며, 자기들도 감히 그처럼 되기를 바랐기 때문이었다.",
+  "chunks": [
+   {
+    "en": "Huckleberry was cordially hated and dreaded",
+    "ko": "허클베리는 진심으로 미움과 두려움을 샀다",
+    "r": "주어+동사(수동)"
+   },
+   {
+    "en": "by all the mothers of the town,",
+    "ko": "마을의 모든 어머니들에게,",
+    "r": "전치사구(행위자)"
+   },
+   {
+    "en": "because he was idle and lawless and vulgar and bad—",
+    "ko": "그가 게으르고 무법하고 상스럽고 나쁘기 때문에—",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "and because all their children admired him so,",
+    "ko": "그리고 모든 아이들이 그를 그토록 동경하고,",
+    "r": "부사절(이유) 2"
+   },
+   {
+    "en": "and delighted in his forbidden society,",
+    "ko": "금지된 그와의 어울림을 즐기고,",
+    "r": "대등(동사 나열)"
+   },
+   {
+    "en": "and wished they dared to be like him.",
+    "ko": "자기들도 감히 그처럼 되기를 바랐기 때문에.",
+    "r": "대등(동사 나열)"
+   }
+  ]
+ },
+ {
+  "id": "6.41.5",
+  "en": "His hat was a vast ruin with a wide crescent lopped out of its brim; his coat, when he wore one, hung nearly to his heels and had the rearward buttons far down the back; but one suspender supported his trousers; the seat of the trousers bagged low and contained nothing, the fringed legs dragged in the dirt when not rolled up.",
+  "s": "His hat",
+  "v": "was",
+  "ko": "그의 모자는 챙에서 넓은 초승달 모양이 잘려 나간 거대한 폐허 같았다. 외투는, 입었을 때는, 거의 발뒤꿈치까지 늘어졌고 뒤쪽 단추가 등 한참 아래에 달려 있었다. 멜빵 하나만이 바지를 받쳐 주었고, 바지 엉덩이는 축 처져 아무것도 들어 있지 않았으며, 너덜너덜한 바짓단은 걷어 올리지 않았을 때는 흙바닥에 끌렸다.",
+  "chunks": [
+   {
+    "en": "His hat was a vast ruin",
+    "ko": "그의 모자는 거대한 폐허 같았다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "with a wide crescent lopped out of its brim;",
+    "ko": "챙에서 넓은 초승달 모양이 잘려 나간 채로;",
+    "r": "전치사구(모자 설명)"
+   },
+   {
+    "en": "his coat, when he wore one,",
+    "ko": "그의 외투는, 입었을 때는,",
+    "r": "주어+삽입절"
+   },
+   {
+    "en": "hung nearly to his heels",
+    "ko": "거의 발뒤꿈치까지 늘어졌고",
+    "r": "동사"
+   },
+   {
+    "en": "and had the rearward buttons far down the back;",
+    "ko": "뒤쪽 단추가 등 한참 아래에 달려 있었다;",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "but one suspender supported his trousers;",
+    "ko": "멜빵 하나만이 바지를 받쳐 주었고;",
+    "r": "대등절"
+   },
+   {
+    "en": "the seat of the trousers bagged low and contained nothing,",
+    "ko": "바지 엉덩이는 축 처져 아무것도 들어 있지 않았고,",
+    "r": "대등절"
+   },
+   {
+    "en": "the fringed legs dragged in the dirt",
+    "ko": "너덜너덜한 바짓단은 흙바닥에 끌렸다",
+    "r": "대등절"
+   },
+   {
+    "en": "when not rolled up.",
+    "ko": "걷어 올리지 않았을 때는.",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "6.42.1",
+  "en": "He slept on doorsteps in fine weather and in empty hogsheads in wet; he did not have to go to school or to church, or call any being master or obey anybody; he could go fishing or swimming when and where he chose, and stay as long as it suited him; nobody forbade him to fight; he could sit up as late as he pleased; he was always the first boy that went barefoot in the spring and the last to resume leather in the fall; he never had to wash, nor put on clean clothes; he could swear wonderfully.",
+  "s": "He",
+  "v": "slept",
+  "ko": "그는 날씨 좋을 땐 문간 계단에서, 비 올 땐 빈 큰 통 속에서 잤다. 학교에도 교회에도 갈 필요가 없었고, 누구를 주인이라 부르거나 누구 말을 들을 필요도 없었다. 원하는 때와 곳에서 낚시나 수영을 하고 마음 내키는 만큼 오래 있을 수 있었다. 아무도 그에게 싸움을 금하지 않았고, 원하는 만큼 늦게까지 안 자도 되었다. 봄에 맨발로 다니는 첫 소년이었고 가을에 다시 가죽 신발을 신는 마지막 소년이었다. 씻거나 깨끗한 옷을 입을 필요도 없었고, 욕은 기가 막히게 잘했다.",
+  "chunks": [
+   {
+    "en": "He slept on doorsteps in fine weather",
+    "ko": "날씨 좋을 땐 문간 계단에서 잤고",
+    "r": "주어+동사+장소"
+   },
+   {
+    "en": "and in empty hogsheads in wet;",
+    "ko": "비 올 땐 빈 큰 통 속에서 (잤다);",
+    "r": "대등(장소)"
+   },
+   {
+    "en": "he did not have to go to school or to church,",
+    "ko": "학교나 교회에 갈 필요가 없었고,",
+    "r": "대등절"
+   },
+   {
+    "en": "or call any being master or obey anybody;",
+    "ko": "누구를 주인이라 부르거나 누구 말을 들을 필요도 없었다;",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "he could go fishing or swimming when and where he chose,",
+    "ko": "원하는 때와 곳에서 낚시나 수영을 할 수 있었고,",
+    "r": "대등절"
+   },
+   {
+    "en": "and stay as long as it suited him;",
+    "ko": "마음 내키는 만큼 오래 있을 수 있었다;",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "nobody forbade him to fight;",
+    "ko": "아무도 그에게 싸움을 금하지 않았고;",
+    "r": "대등절"
+   },
+   {
+    "en": "he could sit up as late as he pleased;",
+    "ko": "원하는 만큼 늦게까지 안 자도 되었다;",
+    "r": "대등절"
+   },
+   {
+    "en": "he was always the first boy that went barefoot in the spring",
+    "ko": "봄에 맨발로 다니는 첫 소년이었고",
+    "r": "대등절+관계절"
+   },
+   {
+    "en": "and the last to resume leather in the fall;",
+    "ko": "가을에 다시 가죽 신발을 신는 마지막 소년이었다;",
+    "r": "대등(보어)"
+   },
+   {
+    "en": "he never had to wash, nor put on clean clothes;",
+    "ko": "씻거나 깨끗한 옷을 입을 필요도 없었고;",
+    "r": "대등절"
+   },
+   {
+    "en": "he could swear wonderfully.",
+    "ko": "욕은 기가 막히게 잘했다.",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "6.63.0",
+  "en": "“Why, he told Jeff Thatcher, and Jeff told Johnny Baker, and Johnny told Jim Hollis, and Jim told Ben Rogers, and Ben told a nigger, and the nigger told me.",
+  "s": "he",
+  "v": "told",
+  "ko": "그야, 걔가 제프 대처한테 말했고, 제프가 조니 베이커한테, 조니가 짐 홀리스한테, 짐이 벤 로저스한테, 벤이 어떤 흑인한테, 그 흑인이 나한테 말했지.",
+  "chunks": [
+   {
+    "en": "“Why, he told Jeff Thatcher,",
+    "ko": "\"그야, 걔가 제프 대처한테 말했고,",
+    "r": "인용 시작+주어+동사"
+   },
+   {
+    "en": "and Jeff told Johnny Baker,",
+    "ko": "제프가 조니 베이커한테 말했고,",
+    "r": "대등절"
+   },
+   {
+    "en": "and Johnny told Jim Hollis,",
+    "ko": "조니가 짐 홀리스한테,",
+    "r": "대등절"
+   },
+   {
+    "en": "and Jim told Ben Rogers,",
+    "ko": "짐이 벤 로저스한테,",
+    "r": "대등절"
+   },
+   {
+    "en": "and Ben told a nigger,",
+    "ko": "벤이 어떤 흑인한테,",
+    "r": "대등절"
+   },
+   {
+    "en": "and the nigger told me.",
+    "ko": "그 흑인이 나한테 말했지.",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "6.72.3",
+  "en": "You got to go all by yourself, to the middle of the woods, where you know there’s a spunk-water stump, and just as it’s midnight you back up against the stump and jam your hand in and say:",
+  "s": "You",
+  "v": "got to go",
+  "ko": "너 혼자서 숲 한가운데로, 스펑크 워터 그루터기가 있다고 네가 아는 곳으로 가야 해. 그리고 딱 자정이 되는 순간 그루터기에 등을 대고 물러서서 손을 쑥 집어넣고 이렇게 말하는 거야:",
+  "chunks": [
+   {
+    "en": "You got to go all by yourself,",
+    "ko": "너 혼자서 가야 해,",
+    "r": "주어+동사"
+   },
+   {
+    "en": "to the middle of the woods,",
+    "ko": "숲 한가운데로,",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "where you know there’s a spunk-water stump,",
+    "ko": "스펑크 워터 그루터기가 있다고 네가 아는 곳으로,",
+    "r": "관계절(장소 설명)"
+   },
+   {
+    "en": "and just as it’s midnight",
+    "ko": "그리고 딱 자정이 되는 순간",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "you back up against the stump",
+    "ko": "그루터기에 등을 대고 물러서서",
+    "r": "대등절"
+   },
+   {
+    "en": "and jam your hand in and say:",
+    "ko": "손을 쑥 집어넣고 이렇게 말해:",
+    "r": "대등(동사)+콜론"
+   }
+  ]
+ },
+ {
+  "id": "6.76.0",
+  "en": "“No, sir, you can bet he didn’t, becuz he’s the wartiest boy in this town; and he wouldn’t have a wart on him if he’d knowed how to work spunk-water.",
+  "s": "you",
+  "v": "can bet",
+  "ko": "아니지, 장담하는데 걔는 제대로 안 했어. 왜냐하면 걔가 이 동네에서 사마귀가 제일 많은 애거든. 스펑크 워터 쓰는 법을 알았더라면 걔 몸에 사마귀가 하나도 없을 텐데.",
+  "chunks": [
+   {
+    "en": "“No, sir, you can bet he didn’t,",
+    "ko": "\"아니지, 장담하는데 걔는 제대로 안 했어,",
+    "r": "인용+주어+동사"
+   },
+   {
+    "en": "becuz he’s the wartiest boy in this town;",
+    "ko": "왜냐하면 걔가 이 동네에서 사마귀가 제일 많은 애거든;",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "and he wouldn’t have a wart on him",
+    "ko": "걔한테 사마귀가 하나도 없을 텐데",
+    "r": "대등절(가정법 귀결)"
+   },
+   {
+    "en": "if he’d knowed how to work spunk-water.",
+    "ko": "스펑크 워터 쓰는 법을 알았더라면.",
+    "r": "부사절(조건, 가정법)"
+   }
+  ]
+ },
+ {
+  "id": "6.79.0",
+  "en": "“You take and split the bean, and cut the wart so as to get some blood, and then you put the blood on one piece of the bean and take and dig a hole and bury it ’bout midnight at the crossroads in the dark of the moon, and then you burn up the rest of the bean.",
+  "s": "You",
+  "v": "take and split",
+  "ko": "콩을 쪼개고, 피가 좀 나게 사마귀를 베어. 그다음 콩 한 조각에 피를 묻히고, 구멍을 파서 달 없는 그믐밤 자정쯤 십자로에 묻어. 그러고 나서 나머지 콩을 태워 버려.",
+  "chunks": [
+   {
+    "en": "“You take and split the bean,",
+    "ko": "\"콩을 쪼개,",
+    "r": "인용+주어+동사"
+   },
+   {
+    "en": "and cut the wart so as to get some blood,",
+    "ko": "그리고 피가 좀 나게 사마귀를 베어,",
+    "r": "대등(동사)+목적(so as to)"
+   },
+   {
+    "en": "and then you put the blood on one piece of the bean",
+    "ko": "그다음 콩 한 조각에 피를 묻히고",
+    "r": "대등절"
+   },
+   {
+    "en": "and take and dig a hole",
+    "ko": "구멍을 파서",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "and bury it ’bout midnight at the crossroads",
+    "ko": "자정쯤 십자로에 묻어,",
+    "r": "대등(동사)+시간+장소"
+   },
+   {
+    "en": "in the dark of the moon,",
+    "ko": "달 없는 그믐밤에,",
+    "r": "시간"
+   },
+   {
+    "en": "and then you burn up the rest of the bean.",
+    "ko": "그러고 나서 나머지 콩을 태워 버려.",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "6.79.1",
+  "en": "You see that piece that’s got the blood on it will keep drawing and drawing, trying to fetch the other piece to it, and so that helps the blood to draw the wart, and pretty soon off she comes.”",
+  "s": "that piece",
+  "v": "will keep drawing",
+  "ko": "있잖아, 피가 묻은 그 조각은 다른 조각을 자기 쪽으로 가져오려고 계속 끌어당기고 또 끌어당길 거야. 그래서 그게 피가 사마귀를 끌어내는 걸 도와주고, 그럼 곧 사마귀가 뚝 떨어지는 거지.",
+  "chunks": [
+   {
+    "en": "You see that piece",
+    "ko": "있잖아, 그 조각은",
+    "r": "말버릇+주어"
+   },
+   {
+    "en": "that’s got the blood on it",
+    "ko": "피가 묻은 (조각)",
+    "r": "관계절(앞 명사 설명)"
+   },
+   {
+    "en": "will keep drawing and drawing,",
+    "ko": "계속 끌어당기고 또 끌어당길 거야,",
+    "r": "동사"
+   },
+   {
+    "en": "trying to fetch the other piece to it,",
+    "ko": "다른 조각을 자기 쪽으로 가져오려고 하면서,",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and so that helps the blood to draw the wart,",
+    "ko": "그래서 그게 피가 사마귀를 끌어내는 걸 도와줘,",
+    "r": "대등절"
+   },
+   {
+    "en": "and pretty soon off she comes.”",
+    "ko": "그럼 곧 사마귀가 뚝 떨어져.\"",
+    "r": "대등절(도치)"
+   }
+  ]
+ },
+ {
+  "id": "6.80.0",
+  "en": "“Yes, that’s it, Huck—that’s it; though when you’re burying it if you say ‘Down bean; off wart; come no more to bother me!’ it’s better.",
+  "s": "that",
+  "v": "’s",
+  "ko": "그래, 바로 그거야, 헉—바로 그거야. 다만 그걸 묻을 때 '콩아 내려가라, 사마귀야 떨어져라, 다신 날 괴롭히러 오지 마라!'라고 말하면 더 좋아.",
+  "chunks": [
+   {
+    "en": "“Yes, that’s it, Huck—that’s it;",
+    "ko": "\"그래, 바로 그거야, 헉—바로 그거야;",
+    "r": "인용+주어+동사"
+   },
+   {
+    "en": "though when you’re burying it",
+    "ko": "다만 그걸 묻을 때",
+    "r": "접속+부사절(때)"
+   },
+   {
+    "en": "if you say",
+    "ko": "만약 이렇게 말하면",
+    "r": "부사절(조건)"
+   },
+   {
+    "en": "‘Down bean; off wart; come no more to bother me!’",
+    "ko": "'콩아 내려가라; 사마귀야 떨어져라; 다신 날 괴롭히러 오지 마라!'",
+    "r": "인용(주문)"
+   },
+   {
+    "en": "it’s better.",
+    "ko": "더 좋아.",
+    "r": "주어+동사(though절의 주절)"
+   }
+  ]
+ },
+ {
+  "id": "6.81.0",
+  "en": "“Why, you take your cat and go and get in the grave-yard ’long about midnight when somebody that was wicked has been buried; and when it’s midnight a devil will come, or maybe two or three, but you can’t see ’em, you can only hear something like the wind, or maybe hear ’em talk; and when they’re taking that feller away, you heave your cat after ’em and say, ‘Devil follow corpse, cat follow devil, warts follow cat, I’m done with ye!’",
+  "s": "you",
+  "v": "take",
+  "ko": "그야, 고양이를 데리고 자정 무렵 공동묘지에 들어가는 거야. 못된 놈이 묻힌 날에 말이야. 자정이 되면 악마가 와, 어쩌면 둘이나 셋. 근데 그놈들은 안 보이고, 바람 같은 소리만 들리거나 그놈들이 말하는 소리가 들려. 그리고 그놈들이 그 녀석을 데려갈 때 고양이를 그놈들 뒤로 던지면서 이렇게 말하는 거야. '악마는 시체를 따르고, 고양이는 악마를 따르고, 사마귀는 고양이를 따르라, 난 이제 너희와 끝이다!'",
+  "chunks": [
+   {
+    "en": "“Why, you take your cat",
+    "ko": "\"그야, 고양이를 데리고",
+    "r": "인용+주어+동사"
+   },
+   {
+    "en": "and go and get in the grave-yard",
+    "ko": "공동묘지에 들어가는 거야",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "’long about midnight",
+    "ko": "자정 무렵에",
+    "r": "시간"
+   },
+   {
+    "en": "when somebody that was wicked has been buried;",
+    "ko": "못된 놈이 묻힌 날에;",
+    "r": "부사절(때)+관계절"
+   },
+   {
+    "en": "and when it’s midnight a devil will come,",
+    "ko": "그리고 자정이 되면 악마가 올 거야,",
+    "r": "부사절(때)+대등절"
+   },
+   {
+    "en": "or maybe two or three,",
+    "ko": "어쩌면 둘이나 셋,",
+    "r": "곁말(추가)"
+   },
+   {
+    "en": "but you can’t see ’em,",
+    "ko": "하지만 그놈들은 안 보여,",
+    "r": "대등절"
+   },
+   {
+    "en": "you can only hear something like the wind,",
+    "ko": "바람 같은 소리만 들리거나,",
+    "r": "대등절"
+   },
+   {
+    "en": "or maybe hear ’em talk;",
+    "ko": "아니면 그놈들이 말하는 소리가 들려;",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "and when they’re taking that feller away,",
+    "ko": "그리고 그놈들이 그 녀석을 데려갈 때,",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "you heave your cat after ’em and say,",
+    "ko": "고양이를 그놈들 뒤로 던지면서 말하는 거야,",
+    "r": "대등절"
+   },
+   {
+    "en": "‘Devil follow corpse, cat follow devil, warts follow cat, I’m done with ye!’",
+    "ko": "'악마는 시체를 따르고, 고양이는 악마를 따르고, 사마귀는 고양이를 따르라, 난 이제 너희와 끝이다!'",
+    "r": "인용(주문)"
+   }
+  ]
+ },
+ {
+  "id": "6.95.1",
+  "en": "Last time, you kep’ me a-meowing around till old Hays went to throwing rocks at me and says ‘Dern that cat!’ and so I hove a brick through his window—but don’t you tell.”",
+  "s": "you",
+  "v": "kep’",
+  "ko": "지난번엔 네가 날 계속 야옹거리게 만들었잖아. 헤이스 영감이 나한테 돌을 던지기 시작하면서 '저놈의 고양이!' 할 때까지 말이야. 그래서 내가 그 집 창문에 벽돌을 던져 넣었지—근데 아무한테도 말하지 마.",
+  "chunks": [
+   {
+    "en": "Last time, you kep’ me a-meowing around",
+    "ko": "지난번엔 네가 날 계속 야옹거리게 만들었잖아",
+    "r": "시간+주어+동사+목적어"
+   },
+   {
+    "en": "till old Hays went to throwing rocks at me",
+    "ko": "헤이스 영감이 나한테 돌을 던지기 시작할 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and says ‘Dern that cat!’",
+    "ko": "그러고는 '저놈의 고양이!' 하더라고",
+    "r": "대등(동사)+인용"
+   },
+   {
+    "en": "and so I hove a brick through his window—",
+    "ko": "그래서 내가 그 집 창문에 벽돌을 던져 넣었지—",
+    "r": "대등절"
+   },
+   {
+    "en": "but don’t you tell.”",
+    "ko": "근데 아무한테도 말하지 마.\"",
+    "r": "대등절(명령)"
+   }
+  ]
+ },
+ {
+  "id": "6.113.0",
+  "en": "When Tom reached the little isolated frame school-house, he strode in briskly, with the manner of one who had come with all honest speed.",
+  "s": "he",
+  "v": "strode",
+  "ko": "톰이 외따로 떨어진 작은 목조 교사(校舍)에 도착했을 때, 그는 마치 최대한 서둘러 정직하게 달려온 사람 같은 태도로 씩씩하게 성큼성큼 걸어 들어갔다.",
+  "chunks": [
+   {
+    "en": "When Tom reached the little isolated frame school-house,",
+    "ko": "톰이 외따로 떨어진 작은 목조 교사(校舍)에 도착했을 때,",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he strode in briskly,",
+    "ko": "그는 씩씩하게 성큼성큼 걸어 들어갔다,",
+    "r": "주어+동사"
+   },
+   {
+    "en": "with the manner of one",
+    "ko": "마치 ~한 사람의 태도로",
+    "r": "전치사구(방식)"
+   },
+   {
+    "en": "who had come with all honest speed.",
+    "ko": "최대한 서둘러 정직하게 달려온 (사람).",
+    "r": "관계절(앞 명사 설명)"
+   }
+  ]
+ },
+ {
+  "id": "6.118.0",
+  "en": "Tom was about to take refuge in a lie, when he saw two long tails of yellow hair hanging down a back that he recognized by the electric sympathy of love; and by that form was the only vacant place on the girls’ side of the school-house.",
+  "s": "Tom",
+  "v": "was about to take",
+  "ko": "톰은 막 거짓말로 피하려던 참에, 어떤 등 뒤로 늘어뜨려진 노란 머리 두 갈래를 보았다. 사랑의 전기 같은 교감으로 알아본 등이었다. 그리고 그 모습 옆이 교실 여학생 쪽에서 유일하게 빈자리였다.",
+  "chunks": [
+   {
+    "en": "Tom was about to take refuge in a lie,",
+    "ko": "톰은 막 거짓말로 피신하려던 참이었다,",
+    "r": "주어+동사"
+   },
+   {
+    "en": "when he saw two long tails of yellow hair",
+    "ko": "그때 그는 노란 머리 두 갈래 땋은 머리를 보았다",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "hanging down a back",
+    "ko": "어떤 등 뒤로 늘어뜨려진",
+    "r": "분사구(앞 명사 설명)"
+   },
+   {
+    "en": "that he recognized by the electric sympathy of love;",
+    "ko": "사랑의 전기 같은 교감으로 알아본 (등);",
+    "r": "관계절(앞 명사 설명)"
+   },
+   {
+    "en": "and by that form was the only vacant place",
+    "ko": "그리고 그 모습 옆에 유일하게 빈자리가 있었다",
+    "r": "대등절(도치)"
+   },
+   {
+    "en": "on the girls’ side of the school-house.",
+    "ko": "교실의 여학생 쪽에.",
+    "r": "전치사구(장소)"
+   }
+  ]
+ },
+ {
+  "id": "6.127.0",
+  "en": "The titter that rippled around the room appeared to abash the boy, but in reality that result was caused rather more by his worshipful awe of his unknown idol and the dread pleasure that lay in his high good fortune.",
+  "s": "The titter",
+  "v": "appeared",
+  "ko": "교실에 물결처럼 번진 킥킥거림은 소년을 부끄럽게 만든 것처럼 보였다. 하지만 실제로 그 결과(얼굴 붉힘)는 오히려 낯선 우상에 대한 숭배 어린 경외감과, 자신의 엄청난 행운 속에 놓인 두려운 기쁨에서 비롯된 것이었다.",
+  "chunks": [
+   {
+    "en": "The titter that rippled around the room",
+    "ko": "교실에 물결처럼 번진 킥킥거림은",
+    "r": "주어+관계절"
+   },
+   {
+    "en": "appeared to abash the boy,",
+    "ko": "소년을 부끄럽게 만든 것처럼 보였다,",
+    "r": "동사+목적어"
+   },
+   {
+    "en": "but in reality that result was caused",
+    "ko": "하지만 실제로 그 결과는 ~에서 비롯된 것이었다",
+    "r": "대등절(수동)"
+   },
+   {
+    "en": "rather more by his worshipful awe of his unknown idol",
+    "ko": "오히려 낯선 우상에 대한 숭배 어린 경외감과",
+    "r": "전치사구(원인 1)"
+   },
+   {
+    "en": "and the dread pleasure",
+    "ko": "그 두려운 기쁨에서",
+    "r": "대등(원인 2)"
+   },
+   {
+    "en": "that lay in his high good fortune.",
+    "ko": "자신의 엄청난 행운 속에 놓인 (기쁨).",
+    "r": "관계절(앞 명사 설명)"
+   }
+  ]
+ },
+ {
+  "id": "6.132.1",
+  "en": "He could have stepped over the house; but the girl was not hypercritical; she was satisfied with the monster, and whispered:",
+  "s": "He",
+  "v": "could have stepped",
+  "ko": "그(그림 속 남자)는 집을 넘어갈 수도 있을 정도였다. 하지만 소녀는 지나치게 까다롭지 않았다. 그녀는 그 괴물 같은 그림에 만족했고, 이렇게 속삭였다:",
+  "chunks": [
+   {
+    "en": "He could have stepped over the house;",
+    "ko": "그(그림 속 남자)는 집을 넘어갈 수도 있을 정도였다;",
+    "r": "주어+동사(가정)"
+   },
+   {
+    "en": "but the girl was not hypercritical;",
+    "ko": "하지만 소녀는 지나치게 까다롭지 않았다;",
+    "r": "대등절"
+   },
+   {
+    "en": "she was satisfied with the monster,",
+    "ko": "그녀는 그 괴물(같은 그림)에 만족했고,",
+    "r": "대등절"
+   },
+   {
+    "en": "and whispered:",
+    "ko": "속삭였다:",
+    "r": "대등(동사)+콜론"
+   }
+  ]
+ },
+ {
+  "id": "6.154.1",
+  "en": "And she put her small hand upon his and a little scuffle ensued, Tom pretending to resist in earnest but letting his hand slip by degrees till these words were revealed: “I love you.”",
+  "s": "she",
+  "v": "put",
+  "ko": "그리고 그녀는 작은 손을 그의 손 위에 얹었고 작은 실랑이가 이어졌다. 톰은 진지하게 버티는 척하면서도 조금씩 손이 밀려나게 두었고, 마침내 이 글자들이 드러났다: '사랑해.'",
+  "chunks": [
+   {
+    "en": "And she put her small hand upon his",
+    "ko": "그리고 그녀는 작은 손을 그의 손 위에 얹었고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and a little scuffle ensued,",
+    "ko": "작은 실랑이가 이어졌다,",
+    "r": "대등절"
+   },
+   {
+    "en": "Tom pretending to resist in earnest",
+    "ko": "톰은 진지하게 버티는 척하면서",
+    "r": "분사구문(~하면서, 주어 있음)"
+   },
+   {
+    "en": "but letting his hand slip by degrees",
+    "ko": "그러나 조금씩 손이 밀려나게 두었다",
+    "r": "분사구문 대등"
+   },
+   {
+    "en": "till these words were revealed:",
+    "ko": "마침내 이 글자들이 드러날 때까지:",
+    "r": "부사절(때)+콜론"
+   },
+   {
+    "en": "“I love you.”",
+    "ko": "\"사랑해.\"",
+    "r": "인용"
+   }
+  ]
+ },
+ {
+  "id": "6.157.1",
+  "en": "In turn he took his place in the reading class and made a botch of it; then in the geography class and turned lakes into mountains, mountains into rivers, and rivers into continents, till chaos was come again; then in the spelling class, and got “turned down,” by a succession of mere baby words, till he brought up at the foot and yielded up the pewter medal which he had worn with ostentation for months.",
+  "s": "he",
+  "v": "took",
+  "ko": "차례대로 그는 읽기 수업에 들어가 엉망으로 만들었고, 다음 지리 수업에서는 호수를 산으로, 산을 강으로, 강을 대륙으로 바꿔 놓아 다시 혼돈이 찾아왔다. 다음 철자 수업에서는 그저 아기 수준의 쉬운 단어들이 연달아 나오는 바람에 계속 '탈락'하다가 결국 꼴찌 자리까지 내려가, 몇 달 동안 자랑스레 달고 다니던 백랍 메달을 내놓았다.",
+  "chunks": [
+   {
+    "en": "In turn he took his place in the reading class",
+    "ko": "차례대로 그는 읽기 수업에 자리를 잡았고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and made a botch of it;",
+    "ko": "그것을 엉망으로 만들었다;",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "then in the geography class",
+    "ko": "그다음 지리 수업에서는",
+    "r": "대등절(동사 생략)"
+   },
+   {
+    "en": "and turned lakes into mountains,",
+    "ko": "호수를 산으로,",
+    "r": "대등(동사)+나열"
+   },
+   {
+    "en": "mountains into rivers, and rivers into continents,",
+    "ko": "산을 강으로, 강을 대륙으로 바꿔 놓았다,",
+    "r": "나열 계속"
+   },
+   {
+    "en": "till chaos was come again;",
+    "ko": "다시 혼돈이 올 때까지;",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "then in the spelling class,",
+    "ko": "그다음 철자 수업에서는,",
+    "r": "대등절(동사 생략)"
+   },
+   {
+    "en": "and got “turned down,”",
+    "ko": "'탈락'을 당했다,",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "by a succession of mere baby words,",
+    "ko": "그저 아기 수준의 쉬운 단어들이 연달아 나오는 바람에,",
+    "r": "전치사구(원인)"
+   },
+   {
+    "en": "till he brought up at the foot",
+    "ko": "결국 꼴찌 자리에 가서 멈출 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and yielded up the pewter medal",
+    "ko": "그리고 백랍 메달을 내놓았다",
+    "r": "대등(동사)"
+   },
+   {
+    "en": "which he had worn with ostentation for months.",
+    "ko": "그가 몇 달간 자랑스레 달고 다녔던 (메달).",
+    "r": "관계절(앞 명사 설명)"
+   }
+  ]
+ }
+]

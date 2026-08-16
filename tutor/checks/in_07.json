@@ -1,0 +1,750 @@
+[
+ {
+  "id": "7.0.7",
+  "en": "Away off in the flaming sunshine, Cardiff Hill lifted its soft green sides through a shimmering veil of heat, tinted with the purple of distance; a few birds floated on lazy wing high in the air; no other living thing was visible but some cows, and they were asleep.",
+  "s": "Cardiff Hill",
+  "v": "lifted",
+  "ko": "저 멀리 이글거리는 햇살 속에서 카디프 언덕은 아른거리는 열기의 장막 너머로, 먼 거리 특유의 보랏빛에 물든 부드러운 초록 비탈을 드러내고 있었다. 새 몇 마리가 나른한 날갯짓으로 하늘 높이 떠 있었고, 소 몇 마리 말고는 살아 있는 것이라곤 보이지 않았는데, 그 소들마저 잠들어 있었다.",
+  "chunks": [
+   {
+    "en": "Away off in the flaming sunshine,",
+    "ko": "저 멀리 이글거리는 햇살 속에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "Cardiff Hill lifted its soft green sides",
+    "ko": "카디프 언덕이 부드러운 초록 비탈을 들어 올리고 있었다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "through a shimmering veil of heat,",
+    "ko": "아른거리는 열기의 장막 너머로",
+    "r": "전치사구(방향)"
+   },
+   {
+    "en": "tinted with the purple of distance;",
+    "ko": "먼 거리 특유의 보랏빛으로 물든 채",
+    "r": "분사구(앞 명사 설명)"
+   },
+   {
+    "en": "a few birds floated on lazy wing high in the air;",
+    "ko": "새 몇 마리가 나른한 날갯짓으로 하늘 높이 떠 있었고",
+    "r": "대등절(세미콜론)"
+   },
+   {
+    "en": "no other living thing was visible but some cows,",
+    "ko": "소 몇 마리 말고는 다른 생물이 보이지 않았는데",
+    "r": "대등절(세미콜론)"
+   },
+   {
+    "en": "and they were asleep.",
+    "ko": "그 소들마저 잠들어 있었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "7.0.12",
+  "en": "The creature probably glowed with a gratitude that amounted to prayer, too, at this moment, but it was premature: for when he started thankfully to travel off, Tom turned him aside with a pin and made him take a new direction.",
+  "s": "The creature",
+  "v": "glowed",
+  "ko": "그 작은 생물 역시 이 순간 기도나 다름없는 감사의 마음으로 빛났을 테지만, 그것은 너무 이른 기쁨이었다. 왜냐하면 그가 감사한 마음으로 막 길을 떠나려는 순간, 톰이 핀으로 그를 옆으로 돌려 새로운 방향으로 가게 만들었기 때문이다.",
+  "chunks": [
+   {
+    "en": "The creature probably glowed with a gratitude",
+    "ko": "그 작은 생물(진드기)도 아마 감사의 마음으로 빛났을 것이다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "that amounted to prayer, too, at this moment,",
+    "ko": "이 순간 기도나 다름없는 (감사로), 역시",
+    "r": "관계절(gratitude 설명)"
+   },
+   {
+    "en": "but it was premature:",
+    "ko": "하지만 그것은 너무 일렀다",
+    "r": "대등절"
+   },
+   {
+    "en": "for when he started thankfully to travel off,",
+    "ko": "왜냐하면 그가 감사히 길을 떠나려 하자",
+    "r": "부사절(이유+시간)"
+   },
+   {
+    "en": "Tom turned him aside with a pin",
+    "ko": "톰이 핀으로 그를 옆으로 돌려",
+    "r": "주어+동사(for절 안)"
+   },
+   {
+    "en": "and made him take a new direction.",
+    "ko": "새 방향으로 가게 만들었기 때문이다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.1.0",
+  "en": "Tom’s bosom friend sat next him, suffering just as Tom had been, and now he was deeply and gratefully interested in this entertainment in an instant.",
+  "s": "Tom’s bosom friend",
+  "v": "sat",
+  "ko": "톰의 단짝 친구가 바로 옆에 앉아 톰이 그랬던 것처럼 (지루함에) 시달리고 있었는데, 이제 그는 순식간에 이 놀이에 깊이, 그리고 고맙게도 흥미를 느끼게 되었다.",
+  "chunks": [
+   {
+    "en": "Tom’s bosom friend sat next him,",
+    "ko": "톰의 단짝 친구가 그의 옆에 앉아 있었는데",
+    "r": "주어+동사"
+   },
+   {
+    "en": "suffering just as Tom had been,",
+    "ko": "톰이 그랬던 것처럼 (지루함에) 시달리다가",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and now he was deeply and gratefully interested",
+    "ko": "이제 그는 깊이, 그리고 고맙게도 흥미를 느꼈다",
+    "r": "대등절"
+   },
+   {
+    "en": "in this entertainment in an instant.",
+    "ko": "이 놀이에, 순식간에",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "7.2.0",
+  "en": "“Now,” said he, “as long as he is on your side you can stir him up and I’ll let him alone; but if you let him get away and get on my side, you’re to leave him alone as long as I can keep him from crossing over.”",
+  "s": "he",
+  "v": "said",
+  "ko": "\"자,\" 하고 톰이 말했다. \"그놈이 네 쪽에 있는 동안은 네가 건드리고 난 가만둘게. 하지만 네가 놓쳐서 내 쪽으로 넘어오면, 내가 넘어가지 못하게 막는 동안은 네가 손대지 말아야 해.\"",
+  "chunks": [
+   {
+    "en": "“Now,” said he,",
+    "ko": "\"자,\" 하고 그가 말했다",
+    "r": "인용+전달동사(도치)"
+   },
+   {
+    "en": "“as long as he is on your side",
+    "ko": "그놈(진드기)이 네 쪽에 있는 동안은",
+    "r": "부사절(조건)"
+   },
+   {
+    "en": "you can stir him up and I’ll let him alone;",
+    "ko": "네가 건드리고 난 가만둘게",
+    "r": "주절(대사)"
+   },
+   {
+    "en": "but if you let him get away and get on my side,",
+    "ko": "하지만 네가 놓쳐서 내 쪽으로 넘어오면",
+    "r": "부사절(조건)"
+   },
+   {
+    "en": "you’re to leave him alone",
+    "ko": "너는 손대지 말아야 해",
+    "r": "주절(be to=~해야 한다)"
+   },
+   {
+    "en": "as long as I can keep him from crossing over.”",
+    "ko": "내가 넘어가지 못하게 막는 동안은",
+    "r": "부사절(조건)"
+   }
+  ]
+ },
+ {
+  "id": "7.4.3",
+  "en": "While one boy was worrying the tick with absorbing interest, the other would look on with interest as strong, the two heads bowed together over the slate, and the two souls dead to all things else.",
+  "s": "the other",
+  "v": "would look on",
+  "ko": "한 아이가 푹 빠져서 진드기를 괴롭히는 동안, 다른 아이는 그만큼이나 강한 관심으로 지켜보곤 했다. 두 머리는 석판 위로 함께 숙여지고, 두 영혼은 그 밖의 모든 것에는 죽은 듯 무심했다.",
+  "chunks": [
+   {
+    "en": "While one boy was worrying the tick",
+    "ko": "한 아이가 진드기를 괴롭히는 동안",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "with absorbing interest,",
+    "ko": "푹 빠진 관심으로",
+    "r": "전치사구"
+   },
+   {
+    "en": "the other would look on with interest as strong,",
+    "ko": "다른 아이는 그만큼 강한 관심으로 지켜보곤 했다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "the two heads bowed together over the slate,",
+    "ko": "두 머리는 석판 위로 함께 숙여지고",
+    "r": "독립분사구문(~한 채)"
+   },
+   {
+    "en": "and the two souls dead to all things else.",
+    "ko": "두 영혼은 다른 모든 것에는 죽은 듯 무심한 채",
+    "r": "독립분사구문(~한 채)"
+   }
+  ]
+ },
+ {
+  "id": "7.4.5",
+  "en": "The tick tried this, that, and the other course, and got as excited and as anxious as the boys themselves, but time and again just as he would have victory in his very grasp, so to speak, and Tom’s fingers would be twitching to begin, Joe’s pin would deftly head him off, and keep possession.",
+  "s": "The tick",
+  "v": "tried",
+  "ko": "진드기는 이 길 저 길 온갖 길을 시도해 보았고, 아이들 못지않게 흥분하고 초조해졌다. 하지만 번번이, 말하자면 그가 승리를 손아귀에 막 넣으려는 바로 그때, 그리고 톰의 손가락이 시작하고 싶어 근질거릴 때, 조의 핀이 재빨리 그를 가로막고 계속 붙들어 두곤 했다.",
+  "chunks": [
+   {
+    "en": "The tick tried this, that, and the other course,",
+    "ko": "진드기는 이 길 저 길 온갖 길을 시도해 보았고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and got as excited and as anxious as the boys themselves,",
+    "ko": "아이들 못지않게 흥분하고 초조해졌다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "but time and again",
+    "ko": "하지만 번번이",
+    "r": "접속+부사"
+   },
+   {
+    "en": "just as he would have victory in his very grasp,",
+    "ko": "그가 승리를 손아귀에 막 넣으려는 바로 그때",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "so to speak,",
+    "ko": "말하자면",
+    "r": "곁말"
+   },
+   {
+    "en": "and Tom’s fingers would be twitching to begin,",
+    "ko": "그리고 톰의 손가락이 시작하고 싶어 근질거릴 때",
+    "r": "부사절(시간, and로 이어짐)"
+   },
+   {
+    "en": "Joe’s pin would deftly head him off,",
+    "ko": "조의 핀이 재빨리 그를 가로막고",
+    "r": "주어+동사(but절의 주절)"
+   },
+   {
+    "en": "and keep possession.",
+    "ko": "계속 붙들어 두곤 했다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.15.0",
+  "en": "A tremendous whack came down on Tom’s shoulders, and its duplicate on Joe’s; and for the space of two minutes the dust continued to fly from the two jackets and the whole school to enjoy it.",
+  "s": "A tremendous whack",
+  "v": "came down",
+  "ko": "엄청난 일격이 톰의 어깨에 떨어졌고, 똑같은 일격이 조의 어깨에도 떨어졌다. 그리고 2분 동안 두 재킷에서는 먼지가 계속 날렸고, 학교 전체는 그 광경을 계속 즐겼다.",
+  "chunks": [
+   {
+    "en": "A tremendous whack came down on Tom’s shoulders,",
+    "ko": "엄청난 일격이 톰의 어깨에 떨어졌고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and its duplicate on Joe’s;",
+    "ko": "똑같은 일격이 조의 어깨에도 (떨어졌다)",
+    "r": "대등절(동사 생략)"
+   },
+   {
+    "en": "and for the space of two minutes",
+    "ko": "그리고 2분 동안",
+    "r": "접속+시간"
+   },
+   {
+    "en": "the dust continued to fly from the two jackets",
+    "ko": "두 재킷에서는 먼지가 계속 날렸고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and the whole school to enjoy it.",
+    "ko": "학교 전체는 그것을 (계속) 즐겼다",
+    "r": "대등절(continued 생략)"
+   }
+  ]
+ },
+ {
+  "id": "7.15.1",
+  "en": "The boys had been too absorbed to notice the hush that had stolen upon the school awhile before when the master came tiptoeing down the room and stood over them.",
+  "s": "The boys",
+  "v": "had been",
+  "ko": "아이들은 너무 몰두한 나머지, 조금 전 선생님이 발끝으로 살금살금 교실을 걸어와 그들 위에 버티고 섰을 때 학교 전체에 살며시 내려앉은 정적을 알아차리지 못했다.",
+  "chunks": [
+   {
+    "en": "The boys had been too absorbed",
+    "ko": "아이들은 너무 몰두해 있어서",
+    "r": "주어+동사(too ~ to)"
+   },
+   {
+    "en": "to notice the hush",
+    "ko": "정적을 알아차리지 못했다",
+    "r": "to부정사(too ~ to)"
+   },
+   {
+    "en": "that had stolen upon the school awhile before",
+    "ko": "조금 전 학교에 살며시 내려앉은 (정적)",
+    "r": "관계절(hush 설명)"
+   },
+   {
+    "en": "when the master came tiptoeing down the room",
+    "ko": "선생님이 발끝으로 살금살금 교실을 걸어와",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "and stood over them.",
+    "ko": "그들 위에 버티고 섰을 때",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.16.0",
+  "en": "When school broke up at noon, Tom flew to Becky Thatcher, and whispered in her ear:",
+  "s": "Tom",
+  "v": "flew",
+  "ko": "정오에 학교가 파하자, 톰은 베키 대처에게 날듯이 달려가 귀에 대고 속삭였다.",
+  "chunks": [
+   {
+    "en": "When school broke up at noon,",
+    "ko": "정오에 학교가 파하자",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "Tom flew to Becky Thatcher,",
+    "ko": "톰은 베키 대처에게 날듯이 달려가",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and whispered in her ear:",
+    "ko": "그녀의 귀에 속삭였다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.17.0",
+  "en": "“Put on your bonnet and let on you’re going home; and when you get to the corner, give the rest of ’em the slip, and turn down through the lane and come back.",
+  "s": "",
+  "v": "Put on",
+  "ko": "\"보닛을 쓰고 집에 가는 척해. 그리고 모퉁이에 이르면 나머지 애들을 따돌리고, 골목길로 꺾어 내려와서 다시 돌아와.",
+  "chunks": [
+   {
+    "en": "“Put on your bonnet",
+    "ko": "보닛(모자)을 쓰고",
+    "r": "명령문"
+   },
+   {
+    "en": "and let on you’re going home;",
+    "ko": "집에 가는 척해",
+    "r": "명령문(대등)"
+   },
+   {
+    "en": "and when you get to the corner,",
+    "ko": "그리고 모퉁이에 이르면",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "give the rest of ’em the slip,",
+    "ko": "나머지 애들을 따돌리고",
+    "r": "명령문"
+   },
+   {
+    "en": "and turn down through the lane",
+    "ko": "골목길로 꺾어 내려와서",
+    "r": "명령문(대등)"
+   },
+   {
+    "en": "and come back.",
+    "ko": "다시 돌아와",
+    "r": "명령문(대등)"
+   }
+  ]
+ },
+ {
+  "id": "7.18.1",
+  "en": "In a little while the two met at the bottom of the lane, and when they reached the school they had it all to themselves.",
+  "s": "the two",
+  "v": "met",
+  "ko": "잠시 후 두 사람은 골목길 끝에서 만났고, 학교에 도착했을 때는 학교 전체를 둘이서 독차지할 수 있었다.",
+  "chunks": [
+   {
+    "en": "In a little while",
+    "ko": "잠시 후",
+    "r": "시간"
+   },
+   {
+    "en": "the two met at the bottom of the lane,",
+    "ko": "두 사람은 골목길 끝에서 만났고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and when they reached the school",
+    "ko": "학교에 도착했을 때",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "they had it all to themselves.",
+    "ko": "학교는 온전히 둘만의 것이었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "7.18.2",
+  "en": "Then they sat together, with a slate before them, and Tom gave Becky the pencil and held her hand in his, guiding it, and so created another surprising house.",
+  "s": "they",
+  "v": "sat",
+  "ko": "그러고 나서 둘은 앞에 석판을 놓고 나란히 앉았다. 톰은 베키에게 연필을 주고 그녀의 손을 자기 손으로 쥔 채 이끌어 주며, 그렇게 또 하나의 놀라운 집을 그려 냈다.",
+  "chunks": [
+   {
+    "en": "Then they sat together,",
+    "ko": "그러고 나서 둘은 나란히 앉았다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "with a slate before them,",
+    "ko": "앞에 석판을 놓고",
+    "r": "전치사구(with ~한 채)"
+   },
+   {
+    "en": "and Tom gave Becky the pencil",
+    "ko": "톰은 베키에게 연필을 주고",
+    "r": "대등절"
+   },
+   {
+    "en": "and held her hand in his,",
+    "ko": "그녀의 손을 자기 손에 쥔 채",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "guiding it,",
+    "ko": "손을 이끌어 주며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and so created another surprising house.",
+    "ko": "그렇게 또 하나의 놀라운 집을 그려 냈다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.49.0",
+  "en": "Becky hesitating, Tom took silence for consent, and passed his arm about her waist and whispered the tale ever so softly, with his mouth close to her ear.",
+  "s": "Tom",
+  "v": "took",
+  "ko": "베키가 머뭇거리자 톰은 침묵을 승낙으로 받아들이고, 그녀의 허리에 팔을 두른 채 입을 귀에 바짝 대고 그 이야기를 아주 부드럽게 속삭였다.",
+  "chunks": [
+   {
+    "en": "Becky hesitating,",
+    "ko": "베키가 머뭇거리자",
+    "r": "독립분사구문(베키가 ~하자)"
+   },
+   {
+    "en": "Tom took silence for consent,",
+    "ko": "톰은 침묵을 승낙으로 받아들이고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and passed his arm about her waist",
+    "ko": "그녀의 허리에 팔을 두르고",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "and whispered the tale ever so softly,",
+    "ko": "그 이야기를 아주 부드럽게 속삭였다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "with his mouth close to her ear.",
+    "ko": "입을 그녀의 귀에 바짝 대고",
+    "r": "전치사구(with ~한 채)"
+   }
+  ]
+ },
+ {
+  "id": "7.55.0",
+  "en": "Then she sprang away and ran around and around the desks and benches, with Tom after her, and took refuge in a corner at last, with her little white apron to her face.",
+  "s": "she",
+  "v": "sprang away",
+  "ko": "그러자 그녀는 벌떡 달아나 톰이 뒤쫓는 가운데 책상과 걸상 사이를 빙글빙글 뛰어다니다가, 마침내 작고 하얀 앞치마를 얼굴에 댄 채 구석으로 피신했다.",
+  "chunks": [
+   {
+    "en": "Then she sprang away",
+    "ko": "그러자 그녀는 벌떡 달아나",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and ran around and around the desks and benches,",
+    "ko": "책상과 걸상 사이를 빙글빙글 뛰어다녔다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "with Tom after her,",
+    "ko": "톰이 뒤쫓는 가운데",
+    "r": "전치사구(with ~한 채)"
+   },
+   {
+    "en": "and took refuge in a corner at last,",
+    "ko": "마침내 구석으로 피신했다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "with her little white apron to her face.",
+    "ko": "작고 하얀 앞치마를 얼굴에 댄 채",
+    "r": "전치사구(with ~한 채)"
+   }
+  ]
+ },
+ {
+  "id": "7.57.0",
+  "en": "By and by she gave up, and let her hands drop; her face, all glowing with the struggle, came up and submitted.",
+  "s": "she",
+  "v": "gave up",
+  "ko": "이윽고 그녀는 포기하고 두 손을 떨어뜨렸다. 실랑이로 온통 발갛게 달아오른 그녀의 얼굴이 들려 올라와 순순히 응했다.",
+  "chunks": [
+   {
+    "en": "By and by she gave up,",
+    "ko": "이윽고 그녀는 포기하고",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and let her hands drop;",
+    "ko": "두 손을 떨어뜨렸다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "her face, all glowing with the struggle,",
+    "ko": "실랑이로 온통 발갛게 달아오른 그녀의 얼굴이",
+    "r": "주어+분사구(삽입)"
+   },
+   {
+    "en": "came up and submitted.",
+    "ko": "들려 올라와 순순히 응했다",
+    "r": "동사(세미콜론 뒤 절)"
+   }
+  ]
+ },
+ {
+  "id": "7.58.1",
+  "en": "And always after this, you know, you ain’t ever to love anybody but me, and you ain’t ever to marry anybody but me, ever never and forever.",
+  "s": "you",
+  "v": "ain’t ever to love",
+  "ko": "\"그리고 이제부터는 늘, 알지, 넌 나 말고는 아무도 사랑하면 안 되고, 나 말고는 아무하고도 결혼하면 안 돼. 영원히, 절대로, 언제까지나.\"",
+  "chunks": [
+   {
+    "en": "And always after this, you know,",
+    "ko": "그리고 이제부터는 늘, 알지,",
+    "r": "부사+곁말"
+   },
+   {
+    "en": "you ain’t ever to love anybody but me,",
+    "ko": "넌 나 말고는 아무도 사랑하면 안 되고",
+    "r": "주어+동사(be to=~해야 한다)"
+   },
+   {
+    "en": "and you ain’t ever to marry anybody but me,",
+    "ko": "나 말고는 아무하고도 결혼하면 안 돼",
+    "r": "대등절"
+   },
+   {
+    "en": "ever never and forever.",
+    "ko": "영원히, 절대로, 언제까지나",
+    "r": "부사(강조)"
+   }
+  ]
+ },
+ {
+  "id": "7.60.3",
+  "en": "And always coming to school or when we’re going home, you’re to walk with me, when there ain’t anybody looking—and you choose me and I choose you at parties, because that’s the way you do when you’re engaged.”",
+  "s": "you",
+  "v": "’re to walk",
+  "ko": "\"그리고 학교에 올 때나 집에 갈 때는 늘, 아무도 보는 사람이 없을 때 넌 나랑 같이 걸어야 해. 그리고 파티에서는 넌 나를 고르고 난 너를 고르는 거야. 약혼하면 원래 그렇게 하는 거니까.\"",
+  "chunks": [
+   {
+    "en": "And always coming to school or when we’re going home,",
+    "ko": "그리고 학교에 올 때나 집에 갈 때는 늘",
+    "r": "시간(부사구+부사절)"
+   },
+   {
+    "en": "you’re to walk with me,",
+    "ko": "넌 나랑 같이 걸어야 해",
+    "r": "주어+동사(be to=~해야 한다)"
+   },
+   {
+    "en": "when there ain’t anybody looking—and you choose me",
+    "ko": "아무도 보는 사람이 없을 때—그리고 넌 나를 고르고",
+    "r": "부사절(시간)+대시+대등절"
+   },
+   {
+    "en": "and I choose you at parties,",
+    "ko": "난 파티에서 너를 고르는 거야",
+    "r": "대등절"
+   },
+   {
+    "en": "because that’s the way you do when you’re engaged.”",
+    "ko": "약혼하면 원래 그렇게 하는 거니까",
+    "r": "부사절(이유)"
+   }
+  ]
+ },
+ {
+  "id": "7.68.0",
+  "en": "Tom tried to put his arm about her neck, but she pushed him away and turned her face to the wall, and went on crying.",
+  "s": "Tom",
+  "v": "tried",
+  "ko": "톰은 그녀의 목에 팔을 두르려 했지만, 그녀는 그를 밀쳐 내고 얼굴을 벽 쪽으로 돌린 채 계속 울었다.",
+  "chunks": [
+   {
+    "en": "Tom tried to put his arm about her neck,",
+    "ko": "톰은 그녀의 목에 팔을 두르려 했지만",
+    "r": "주어+동사"
+   },
+   {
+    "en": "but she pushed him away",
+    "ko": "그녀는 그를 밀쳐 내고",
+    "r": "대등절"
+   },
+   {
+    "en": "and turned her face to the wall,",
+    "ko": "얼굴을 벽 쪽으로 돌린 채",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "and went on crying.",
+    "ko": "계속 울었다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.68.3",
+  "en": "He stood about, restless and uneasy, for a while, glancing at the door, every now and then, hoping she would repent and come to find him.",
+  "s": "He",
+  "v": "stood about",
+  "ko": "그는 안절부절 불안한 채 한동안 서성거리며, 그녀가 뉘우치고 자기를 찾으러 나오기를 바라며 이따금 문 쪽을 흘끔거렸다.",
+  "chunks": [
+   {
+    "en": "He stood about, restless and uneasy, for a while,",
+    "ko": "그는 안절부절 불안한 채 한동안 서성거렸다",
+    "r": "주어+동사+상태"
+   },
+   {
+    "en": "glancing at the door, every now and then,",
+    "ko": "이따금 문 쪽을 흘끔거리며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "hoping she would repent and come to find him.",
+    "ko": "그녀가 뉘우치고 자기를 찾으러 나오기를 바라면서",
+    "r": "분사구문(~하면서)"
+   }
+  ]
+ },
+ {
+  "id": "7.73.0",
+  "en": "Tom got out his chiefest jewel, a brass knob from the top of an andiron, and passed it around her so that she could see it, and said:",
+  "s": "Tom",
+  "v": "got out",
+  "ko": "톰은 자기 최고의 보물인, 벽난로 장작 받침대 꼭대기에서 떼어 낸 놋쇠 손잡이를 꺼내어 그녀가 볼 수 있도록 그녀 앞으로 돌려 보이며 말했다.",
+  "chunks": [
+   {
+    "en": "Tom got out his chiefest jewel,",
+    "ko": "톰은 자기 최고의 보물을 꺼냈다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "a brass knob from the top of an andiron,",
+    "ko": "벽난로 장작 받침대 꼭대기에서 떼어 낸 놋쇠 손잡이를",
+    "r": "동격(jewel 설명)"
+   },
+   {
+    "en": "and passed it around her so that she could see it,",
+    "ko": "그녀가 볼 수 있게 그녀 앞으로 돌려 보였다",
+    "r": "대등 동사구+목적절"
+   },
+   {
+    "en": "and said:",
+    "ko": "그리고 말했다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "7.75.3",
+  "en": "She ran to the door; he was not in sight; she flew around to the play-yard; he was not there.",
+  "s": "She",
+  "v": "ran",
+  "ko": "그녀는 문으로 달려갔다. 그는 보이지 않았다. 운동장으로 날듯이 돌아가 보았다. 그는 거기에도 없었다.",
+  "chunks": [
+   {
+    "en": "She ran to the door;",
+    "ko": "그녀는 문으로 달려갔다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "he was not in sight;",
+    "ko": "그는 보이지 않았다",
+    "r": "대등절(세미콜론)"
+   },
+   {
+    "en": "she flew around to the play-yard;",
+    "ko": "그녀는 운동장으로 날듯이 돌아갔다",
+    "r": "대등절(세미콜론)"
+   },
+   {
+    "en": "he was not there.",
+    "ko": "그는 거기에도 없었다",
+    "r": "대등절(세미콜론)"
+   }
+  ]
+ },
+ {
+  "id": "7.77.2",
+  "en": "So she sat down to cry again and upbraid herself; and by this time the scholars began to gather again, and she had to hide her griefs and still her broken heart and take up the cross of a long, dreary, aching afternoon, with none among the strangers about her to exchange sorrows with.",
+  "s": "she",
+  "v": "sat down",
+  "ko": "그래서 그녀는 주저앉아 다시 울며 자신을 책망했다. 그리고 이때쯤 학생들이 다시 모여들기 시작했고, 그녀는 슬픔을 감추고 찢어진 마음을 달래며, 주위의 낯선 아이들 가운데 슬픔을 나눌 사람 하나 없이 길고 쓸쓸하고 아픈 오후라는 십자가를 짊어져야 했다.",
+  "chunks": [
+   {
+    "en": "So she sat down to cry again and upbraid herself;",
+    "ko": "그래서 그녀는 주저앉아 다시 울며 자신을 책망했다",
+    "r": "주어+동사+목적(to부정사)"
+   },
+   {
+    "en": "and by this time the scholars began to gather again,",
+    "ko": "그리고 이때쯤 학생들이 다시 모여들기 시작했고",
+    "r": "대등절"
+   },
+   {
+    "en": "and she had to hide her griefs",
+    "ko": "그녀는 슬픔을 감추고",
+    "r": "대등절"
+   },
+   {
+    "en": "and still her broken heart",
+    "ko": "찢어진 마음을 달래고",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "and take up the cross of a long, dreary, aching afternoon,",
+    "ko": "길고 쓸쓸하고 아픈 오후라는 십자가를 짊어져야 했다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "with none among the strangers about her",
+    "ko": "주위의 낯선 아이들 가운데 아무도 없이",
+    "r": "전치사구(with ~한 채)"
+   },
+   {
+    "en": "to exchange sorrows with.",
+    "ko": "슬픔을 나눌 (사람이)",
+    "r": "to부정사(none 수식)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,115 @@
+{
+ "12.0.0": [
+  {"t":"neg","q":"톰의 마음은 그 비밀스러운 걱정거리에 <b>더 깊이 빠져든 것</b>입니까, 거기에서 <b>멀어진 것</b>입니까?","a":"멀어진 것입니다 — drifted away from","tip":"away from 의 방향을 놓치면 이 장 전체의 흐름(톰이 걱정을 잠시 잊는다)이 반대로 잡힙니다."},
+  {"t":"pron","q":"<b>that it had found a new and weighty matter</b> 의 it 은 무엇입니까?","a":"톰의 마음(Tom’s mind)입니다 — 톰이라는 사람이 아니라 '마음'입니다"},
+  {"t":"mod","q":"<b>to interest itself about</b> 는 무엇을 설명합니까?","a":"a new and weighty matter(새롭고 중대한 거리)입니다 — 마음이 관심을 쏟을 만한 거리","tip":"about 이 문장 끝에 홀로 남아 있어 어디에 걸리는지 놓치기 쉽습니다."}
+ ],
+ "12.0.14": [
+  {"t":"who","q":"그녀는 새로 나온 것을 <b>누구에게</b> 시험해 보았습니까?","a":"자기 자신이 아니라, 마침 옆에 있는 아무 다른 사람에게였습니다","tip":"not on herself ... but on anybody else 가 for 절을 사이에 두고 멀리 떨어져 있습니다."},
+  {"t":"neg","q":"그녀는 자주 아팠습니까?","a":"아니요 — she was never ailing, 아픈 적이 아예 없었습니다","tip":"never 를 놓치면 '그녀가 아파서 약을 시험했다'는 정반대 이야기가 됩니다."},
+  {"t":"pron","q":"<b>to try it</b> 의 it 은 무엇입니까?","a":"이 분야(건강 요법)에서 새로 나온 그것(something fresh in this line)입니다"}
+ ],
+ "12.0.15": [
+  {"t":"pron","q":"<b>they were inflated with</b> 의 they 는 누구(무엇)입니까?","a":"그 '건강' 잡지들과 골상학 사기 간행물들입니다 — 사람이 아닙니다"},
+  {"t":"who","q":"<b>was breath to her nostrils</b> 의 주어는 무엇입니까?","a":"그 엄숙한 무지(the solemn ignorance)입니다","tip":"주어 뒤에 관계절이 통째로 끼어들어 동사가 한참 뒤에 나옵니다."},
+  {"t":"neg","q":"이모는 그 '엄숙한 무지'를 싫어했습니까, 좋아했습니까?","a":"좋아했습니다 — 숨 쉬는 공기나 다름없을 만큼 꼭 필요해했습니다","tip":"작가가 비꼬는 표현이라 '숨 막혔다'로 반대로 읽기 쉽습니다."}
+ ],
+ "12.0.16": [
+  {"t":"who","q":"<b>was all gospel to her</b> 의 주어는 무엇입니까?","a":"All the “rot”(그 잡지들에 실린 온갖 헛소리)입니다","tip":"주어와 동사 사이에 and 로 이어진 나열이 일곱 개나 끼어 있습니다. 바로 앞의 what sort of clothing to wear 를 주어로 착각하기 쉽습니다."},
+  {"t":"neg","q":"그녀는 잡지들이 매달 말을 바꾼다는 사실을 <b>알아챘습니까?</b>","a":"아니요 — never observed, 전혀 알아채지 못했습니다"},
+  {"t":"time","q":"이번 달 잡지의 주장과 지난달 권고 중 <b>먼저</b> 나온 것은 무엇입니까?","a":"지난달 권고가 먼저이고, 이번 달 잡지가 그것을 뒤집습니다","tip":"had recommended(대과거)와 the month before 가 함께 순서를 못 박습니다."},
+  {"t":"pron","q":"<b>everything they had recommended</b> 의 they 는 누구입니까?","a":"그 건강 잡지들입니다 — 이모나 다른 사람이 아닙니다"}
+ ],
+ "12.0.18": [
+  {"t":"who","q":"<b>went about on her pale horse</b> 한 사람은 누구입니까?","a":"폴리 이모(She)입니다","tip":"중간에 낀 thus armed with death 때문에 동사의 주어를 놓치기 쉽습니다."},
+  {"t":"mod","q":"<b>thus armed with death</b> — 무엇으로 무장했다는 말입니까?","a":"앞에서 그러모은 돌팔이 잡지와 돌팔이 약으로입니다","tip":"thus(그리하여)가 앞 절의 내용을 받습니다."},
+  {"t":"neg","q":"폴리 이모가 실제로 창백한 말을 타고 다녔습니까?","a":"아니요 — metaphorically speaking(비유적으로 말하자면)이라고 작가가 못 박습니다"}
+ ],
+ "12.1.1": [
+  {"t":"who","q":"<b>She had him out at daylight</b> — 동틀 녘에 밖으로 끌려 나간 사람은 누구입니까?","a":"톰(him)입니다 — 이모가 나간 것이 아닙니다","tip":"have + 목적어 + out 은 '~를 밖으로 나가게 하다'입니다."},
+  {"t":"mod","q":"<b>with a towel like a file</b> — 줄(쇠를 가는 연장)처럼 거친 것은 무엇입니까?","a":"수건(towel)입니다","tip":"like a file 을 문지르는 동작에 붙이면 뜻이 흐려집니다. 수건이 그만큼 거칠었다는 말입니다."},
+  {"t":"pron","q":"<b>the yellow stains of it</b> 의 it 은 무엇입니까?","a":"톰의 영혼(his soul)입니다"},
+  {"t":"who","q":"마지막 인용구(“the yellow stains …”)는 누구의 말입니까?","a":"톰의 말입니다 — as Tom said","tip":"이모가 한 말로 읽으면 이 대목의 익살이 사라집니다."}
+ ],
+ "12.4.0": [
+  {"t":"neg","q":"톰의 생활은 감상(sentiment)이 <b>너무 많아지고</b> 있었습니까, <b>너무 적어지고</b> 있었습니까?","a":"너무 적어지고 있었습니다 — 대신 정신 사나운 변화만 너무 많아졌습니다","tip":"too little A and too much B 를 뭉뚱그려 '둘 다 너무 많다'로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>too much distracting variety about it</b> 의 it 은 무엇입니까?","a":"이런 생활(this sort of life)입니다"},
+  {"t":"mod","q":"<b>in his blighted condition</b> 은 어느 말에 걸립니까?","a":"might be romantic enough 에 걸립니다 — '시들어 버린 그의 처지에서 보면' 낭만적일 수도 있다는 뜻입니다"}
+ ],
+ "12.4.2": [
+  {"t":"pron","q":"<b>He asked for it</b> 의 it 은 무엇입니까?","a":"그 약(이모가 새로 들인 진통제)입니다"},
+  {"t":"who","q":"성가신 존재(a nuisance)가 된 사람은 누구입니까?","a":"톰입니다 — 이모가 아닙니다"},
+  {"t":"neg","q":"<b>quit bothering her</b> 는 계속 귀찮게 하라는 말입니까, 그만두라는 말입니까?","a":"그만 귀찮게 하라는 말입니다 — quit ~ing = ~하기를 그만두다","tip":"quit 뒤에 부정어가 없어서 명령의 방향을 반대로 잡기 쉽습니다."}
+ ],
+ "12.4.3": [
+  {"t":"neg","q":"약을 달라고 조른 그 아이는 실제로 시드였습니까?","a":"아니요 — 톰이었습니다","tip":"If it had been Sid(가정법 과거완료)는 사실과 반대되는 가정입니다. 실제 사실은 뒤의 since it was Tom 에 있습니다."},
+  {"t":"mod","q":"<b>to alloy her delight</b> 는 무엇을 설명합니까?","a":"misgivings(의심)입니다 — 기쁨에 찬물을 끼얹을 만한 의심"},
+  {"t":"neg","q":"이모는 톰을 <b>믿었습니까?</b>","a":"아니요 — 톰이었기 때문에 몰래 약병을 지켜보았습니다","tip":"시드였다면 의심이 없었을 것이라는 말이, 곧 톰은 의심했다는 뜻입니다."}
+ ],
+ "12.4.4": [
+  {"t":"neg","q":"이모는 톰이 약으로 무슨 짓을 하는지 <b>눈치챘습니까?</b>","a":"아니요 — it did not occur to her, 그런 생각은 떠오르지도 않았습니다"},
+  {"t":"who","q":"톰이 '건강'을 고쳐 주고 있던 대상은 누구(무엇)입니까?","a":"거실 마룻바닥의 갈라진 틈(a crack)입니다 — 사람이 아닙니다","tip":"mending the health of ... 의 of 뒤가 한참 떨어져 있어, 톰이 자기 건강을 챙긴 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>with it</b> 의 it 은 무엇입니까?","a":"그 약입니다"}
+ ],
+ "12.5.0": [
+  {"t":"who","q":"<b>purring, eyeing the teaspoon avariciously, and begging for a taste</b> 는 누구의 모습입니까?","a":"이모의 노란 고양이입니다 — 톰이 아닙니다","tip":"분사구문 세 개가 바로 앞의 cat 을 설명합니다. 문장의 첫 주어 Tom 에 붙이면 장면이 통째로 어긋납니다."},
+  {"t":"time","q":"고양이가 다가온 것은 톰이 틈새에 약을 <b>먹이고 있는 중</b>이었습니까, <b>다 먹인 뒤</b>였습니까?","a":"한창 먹이고 있는 중이었습니다 — was in the act of ~ing"},
+  {"t":"pron","q":"<b>dosing the crack</b> 의 the crack 은 무엇입니까?","a":"거실 마룻바닥의 갈라진 틈입니다"}
+ ],
+ "12.10.0": [
+  {"t":"who","q":"톰이 <b>you</b> 라고 부르며 말을 건 상대는 누구입니까?","a":"고양이 피터입니다 — 사람이 아닙니다","tip":"사람에게 하는 말로 읽으면 바로 뒤의 소동이 왜 벌어지는지 알 수 없습니다."},
+  {"t":"neg","q":"<b>there ain’t anything mean about me</b> 는 자기가 인색하다는 말입니까, 인색한 구석이 없다는 말입니까?","a":"인색한 구석이 없다는 말입니다","tip":"ain’t = isn’t. 사투리 표기라 부정어를 놓치기 쉽습니다."},
+  {"t":"neg","q":"<b>you mustn’t blame anybody but your own self</b> — 누구를 탓해야 한다는 말입니까?","a":"오직 자기 자신(고양이 자신)만 탓해야 한다는 말입니다","tip":"anybody but X = X 말고는 아무도. mustn’t 와 겹쳐 두 번 뒤집힙니다."}
+ ],
+ "12.11.2": [
+  {"t":"pron","q":"<b>Peter</b> 는 누구입니까?","a":"폴리 이모의 노란 고양이 이름입니다 — 사람이 아닙니다","tip":"사람 이름처럼 보여 새 인물이 등장한 줄 알기 쉽습니다."},
+  {"t":"who","q":"가구에 부딪히고 화분을 엎으며 온통 난장판을 만든 것은 누구입니까?","a":"고양이 피터입니다"},
+  {"t":"time","q":"화분을 엎은 것은 방을 내달리기 <b>전</b>입니까, 내달리는 <b>동안</b>입니까?","a":"내달리는 동안입니다 — banging, upsetting, making 은 set off 와 동시에 일어나는 동작입니다"}
+ ],
+ "12.11.3": [
+  {"t":"pron","q":"이 문장의 <b>he</b> 는 누구입니까?","a":"고양이 피터입니다 — 톰이 아닙니다"},
+  {"t":"mod","q":"<b>with his head over his shoulder</b> 는 누구의 모습입니까?","a":"고양이 피터의 모습입니다 — 고개를 어깨 너머로 젖힌 채"},
+  {"t":"who","q":"<b>his voice proclaiming his unappeasable happiness</b> — 행복을 외쳐 댄 것은 무엇입니까?","a":"고양이의 목소리(울부짖는 소리)입니다 — 사람의 말이 아닙니다"}
+ ],
+ "12.11.5": [
+  {"t":"who","q":"공중제비를 돌고 창밖으로 날아간 것은 누구입니까?","a":"고양이 피터(him)입니다 — 폴리 이모가 아닙니다","tip":"see + 목적어 + 원형동사(throw / deliver / sail)라, 원형동사 세 개의 주인은 모두 him 입니다."},
+  {"t":"time","q":"폴리 이모는 그 장면을 <b>보았습니까?</b>","a":"네 — entered in time to see, 때맞춰 들어와 그 광경을 그대로 보았습니다","tip":"in time to ~ = 마침 ~할 수 있는 때에. '보려고 들어왔다'가 아닙니다."},
+  {"t":"mod","q":"<b>carrying the rest of the flower-pots with him</b> 은 누구의 모습입니까?","a":"창밖으로 날아가는 고양이의 모습입니다 — 남은 화분까지 함께 끌고 갔습니다"}
+ ],
+ "12.25.1": [
+  {"t":"pron","q":"<b>This</b> 는 무엇을 가리킵니까?","a":"톰이 방금 한 말입니다 — 고양이에게 한 짓과 자기에게 한 짓이 뭐가 다르냐는 지적"},
+  {"t":"mod","q":"<b>putting the thing in a new light</b> — 새로운 각도에서 보이게 된 것은 무엇입니까?","a":"그 일(the thing), 곧 톰에게 억지로 약을 먹여 온 일입니다"},
+  {"t":"who","q":"<b>what was cruelty to a cat</b> 은 이 절에서 주어입니까, 목적어입니까?","a":"주어입니다 — '고양이에게 잔인한 짓이었던 것'이 주어이고, might be 가 동사입니다","tip":"what 을 의문사로 읽으면 문장이 끝까지 풀리지 않습니다."}
+ ],
+ "12.30.5": [
+  {"t":"who","q":"<b>hove in sight</b> — 시야에 나타난 사람은 누구입니까?","a":"제프 대처입니다"},
+  {"t":"pron","q":"<b>he gazed a moment, and then turned sorrowfully away</b> 의 he 는 누구입니까?","a":"톰입니다 — 제프가 아닙니다","tip":"앞 절의 주어가 Jeff 라 그대로 이어 읽기 쉽습니다. 기대했다가 실망하는 쪽은 톰입니다."},
+  {"t":"time","q":"톰이 슬프게 고개를 돌린 것은 언제입니까?","a":"잠시 바라본 뒤입니다 — gazed a moment 다음에 then turned away"}
+ ],
+ "12.30.6": [
+  {"t":"who","q":"<b>“led up” warily to opportunities for remark about Becky</b> — 그렇게 한 사람은 누구입니까?","a":"톰입니다 — 주어 Tom 이 생략된 채 and 로 이어집니다"},
+  {"t":"pron","q":"<b>the giddy lad</b> 는 누구입니까?","a":"제프입니다 — 톰이 아닙니다","tip":"톰을 가리킨다고 보면 '미끼를 못 알아챘다'는 말이 앞뒤가 맞지 않습니다."},
+  {"t":"neg","q":"제프는 톰이 던진 미끼를 <b>알아챘습니까?</b>","a":"아니요 — never could see the bait, 전혀 눈치채지 못했습니다"}
+ ],
+ "12.30.7": [
+  {"t":"who","q":"<b>hoping …</b> 하고 <b>hating …</b> 하고 있는 사람은 누구입니까?","a":"톰입니다 — 두 분사구문 모두 주어가 Tom 입니다"},
+  {"t":"pron","q":"<b>hating the owner of it</b> 에서 미움을 받은 the owner 는 누구입니까?","a":"그 팔랑거리는 원피스를 입고 나타난 (베키가 아닌) 여자아이입니다","tip":"it 은 frock(원피스)이므로 owner 는 그 옷의 주인, 곧 그 옷을 입은 아이입니다."},
+  {"t":"neg","q":"<b>she was not the right one</b> — 그 아이는 톰이 기다리던 아이였습니까?","a":"아니요 — 톰이 기다린 아이는 베키였습니다"}
+ ],
+ "12.30.8": [
+  {"t":"neg","q":"<b>frocks ceased to appear</b> — 원피스들이 나타나기 시작했습니까, 더는 나타나지 않게 되었습니까?","a":"더는 나타나지 않게 되었습니다","tip":"cease to ~ = ~하기를 멈추다. 부정어가 안 보여서 반대로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>the dumps</b> 는 무엇을 말합니까?","a":"우울한 기분입니다 — 쓰레기장 같은 장소가 아닙니다"},
+  {"t":"time","q":"<b>At last</b> 는 '마침내'입니까, '마지막으로'입니까?","a":"'마침내'입니다 — 한참을 기다린 끝에"}
+ ],
+ "12.30.10": [
+  {"t":"who","q":"소리 지르고 웃고 울타리를 뛰어넘고 물구나무를 선 사람은 누구입니까?","a":"톰입니다 — 분사 나열 전체의 주인이 he(Tom)입니다"},
+  {"t":"mod","q":"톰이 이 온갖 짓을 한 <b>진짜 목적</b>은 무엇입니까?","a":"베키 대처가 자기를 보고 있는지 확인하려는 것입니다 — to see if Becky Thatcher was noticing","tip":"문장 맨 끝에 붙어 있어 그냥 흘려보내기 쉽지만, 이 대목이 문장 전체의 요점입니다."},
+  {"t":"time","q":"<b>all the while</b> — 몰래 곁눈질한 것은 언제입니까?","a":"그 온갖 소동을 벌이는 내내입니다 — 다 끝난 뒤가 아닙니다"}
+ ],
+ "12.30.13": [
+  {"t":"pron","q":"<b>hurled it to the roof of the schoolhouse</b> 의 it 은 무엇입니까?","a":"방금 낚아챈 남자아이의 모자(a boy’s cap)입니다"},
+  {"t":"who","q":"<b>fell sprawling, himself, under Becky’s nose</b> — 큰대자로 넘어진 사람은 누구입니까?","a":"톰 자신입니다","tip":"himself 가 '남이 아니라 자기'라고 못 박습니다. 앞의 tumbling them 때문에 다른 아이들이 넘어졌다고 이어 읽기 쉽습니다."},
+  {"t":"neg","q":"톰은 베키를 실제로 <b>넘어뜨렸습니까?</b>","a":"아니요 — almost upsetting her, 하마터면 넘어뜨릴 뻔했을 뿐입니다","tip":"almost 를 놓치면 실제로 부딪혀 넘어뜨린 것이 됩니다."},
+  {"t":"who","q":"<b>and she turned, with her nose in the air</b> — 콧대를 세우고 돌아선 사람은 누구입니까?","a":"베키입니다 — 대시 앞까지는 톰이 주어였지만 여기서 주어가 바뀝니다"}
+ ]
+}

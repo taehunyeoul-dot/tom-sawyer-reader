@@ -1,0 +1,825 @@
+[
+ {
+  "id": "2.0.1",
+  "en": "There was a song in every heart; and if the heart was young the music issued at the lips.",
+  "s": "a song",
+  "v": "was",
+  "ko": "모든 이의 마음속에 노래가 있었다. 그리고 그 마음이 어린 것이라면, 그 노래는 입술로 흘러나왔다.",
+  "chunks": [
+   {
+    "en": "There was a song in every heart;",
+    "ko": "모든 이의 마음속에 노래가 있었다",
+    "r": "There was 구문(주어+동사)"
+   },
+   {
+    "en": "and if the heart was young",
+    "ko": "그리고 그 마음이 어린 것이라면",
+    "r": "접속+부사절(조건)"
+   },
+   {
+    "en": "the music issued at the lips.",
+    "ko": "그 음악은 입술로 흘러나왔다",
+    "r": "대등절(주어+동사)"
+   }
+  ]
+ },
+ {
+  "id": "2.0.4",
+  "en": "Cardiff Hill, beyond the village and above it, was green with vegetation and it lay just far enough away to seem a Delectable Land, dreamy, reposeful, and inviting.",
+  "s": "Cardiff Hill",
+  "v": "was",
+  "ko": "마을 너머 위쪽에 자리한 카디프 언덕은 초목으로 푸르렀고, 딱 알맞을 만큼 멀리 떨어져 있어서 꿈결 같고 평온하며 마음을 끄는 '기쁨의 땅'처럼 보였다.",
+  "chunks": [
+   {
+    "en": "Cardiff Hill,",
+    "ko": "카디프 언덕은",
+    "r": "주어"
+   },
+   {
+    "en": "beyond the village and above it,",
+    "ko": "마을 너머, 마을 위쪽에 자리한",
+    "r": "삽입(위치 설명)"
+   },
+   {
+    "en": "was green with vegetation",
+    "ko": "초목으로 푸르렀다",
+    "r": "동사+보어"
+   },
+   {
+    "en": "and it lay just far enough away",
+    "ko": "그리고 그것은 딱 알맞을 만큼 멀리 떨어져 있어서",
+    "r": "대등절"
+   },
+   {
+    "en": "to seem a Delectable Land,",
+    "ko": "'기쁨의 땅'처럼 보였다",
+    "r": "to부정사(~할 만큼)"
+   },
+   {
+    "en": "dreamy, reposeful, and inviting.",
+    "ko": "꿈결 같고, 평온하고, 마음을 끄는",
+    "r": "형용사 나열(Land 설명)"
+   }
+  ]
+ },
+ {
+  "id": "2.1.4",
+  "en": "Sighing, he dipped his brush and passed it along the topmost plank; repeated the operation; did it again; compared the insignificant whitewashed streak with the far-reaching continent of unwhitewashed fence, and sat down on a tree-box discouraged.",
+  "s": "he",
+  "v": "dipped",
+  "ko": "한숨을 쉬며 그는 붓을 담가 맨 위 판자를 따라 한 번 그었다. 그 동작을 반복하고, 또 한 번 했다. 보잘것없는 회칠 자국 한 줄을 아직 칠하지 않은 울타리의 드넓은 대륙과 견주어 보고는, 낙담하여 나무 보호틀 위에 주저앉았다.",
+  "chunks": [
+   {
+    "en": "Sighing,",
+    "ko": "한숨을 쉬며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "he dipped his brush",
+    "ko": "그는 붓을 담갔다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and passed it along the topmost plank;",
+    "ko": "그리고 맨 위 판자를 따라 붓을 그었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "repeated the operation;",
+    "ko": "그 동작을 반복했다",
+    "r": "동사 나열"
+   },
+   {
+    "en": "did it again;",
+    "ko": "또 한 번 했다",
+    "r": "동사 나열"
+   },
+   {
+    "en": "compared the insignificant whitewashed streak",
+    "ko": "보잘것없는 회칠 자국 한 줄을 견주어 보았다",
+    "r": "동사+목적어"
+   },
+   {
+    "en": "with the far-reaching continent of unwhitewashed fence,",
+    "ko": "아직 칠하지 않은 울타리의 드넓은 대륙과",
+    "r": "전치사구(비교 대상)"
+   },
+   {
+    "en": "and sat down on a tree-box discouraged.",
+    "ko": "그리고 낙담하여 나무 보호틀 위에 주저앉았다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "2.1.9",
+  "en": "And he remembered that although the pump was only a hundred and fifty yards off, Jim never got back with a bucket of water under an hour—and even then somebody generally had to go after him.",
+  "s": "he",
+  "v": "remembered",
+  "ko": "그리고 그는 기억했다. 펌프가 겨우 150야드 떨어져 있을 뿐인데도 짐은 한 시간 안에 물 한 양동이를 들고 돌아오는 법이 없었고, 그때조차 대개 누군가가 그를 데리러 가야 했다는 것을.",
+  "chunks": [
+   {
+    "en": "And he remembered that",
+    "ko": "그리고 그는 ~라는 것을 기억했다",
+    "r": "주어+동사+접속(that절 시작)"
+   },
+   {
+    "en": "although the pump was only a hundred and fifty yards off,",
+    "ko": "펌프가 겨우 150야드 떨어져 있을 뿐인데도",
+    "r": "부사절(양보: ~인데도)"
+   },
+   {
+    "en": "Jim never got back with a bucket of water",
+    "ko": "짐은 물 한 양동이를 들고 돌아오는 법이 없었다",
+    "r": "that절의 주어+동사"
+   },
+   {
+    "en": "under an hour",
+    "ko": "한 시간 안에는",
+    "r": "시간"
+   },
+   {
+    "en": "—and even then somebody generally had to go after him.",
+    "ko": "그리고 그때조차 대개 누군가 그를 데리러 가야 했다",
+    "r": "대시+대등절"
+   }
+  ]
+ },
+ {
+  "id": "2.4.2",
+  "en": "She say she spec’ Mars Tom gwine to ax me to whitewash, an’ so she tole me go ’long an’ ’tend to my own business—she ’lowed she’d ’tend to de whitewashin’.”",
+  "s": "She",
+  "v": "say",
+  "ko": "마님이 말씀하시길, 톰 도련님이 나한테 회칠하자고 할 것 같으니 어서 가서 내 할 일이나 하라고 하셨어요—회칠은 자기가 알아서 하겠다고요.",
+  "chunks": [
+   {
+    "en": "She say she spec’",
+    "ko": "마님이 말씀하시길, 자기 생각엔",
+    "r": "주어+동사(=She says she expects)"
+   },
+   {
+    "en": "Mars Tom gwine to ax me to whitewash,",
+    "ko": "톰 도련님이 나한테 회칠하자고 할 거라고",
+    "r": "목적절(=Master Tom is going to ask me)"
+   },
+   {
+    "en": "an’ so she tole me go ’long",
+    "ko": "그래서 나더러 어서 가서",
+    "r": "접속+동사(=and so she told me to go along)"
+   },
+   {
+    "en": "an’ ’tend to my own business",
+    "ko": "내 할 일이나 하라고 하셨어요",
+    "r": "대등(=and attend to my own business)"
+   },
+   {
+    "en": "—she ’lowed she’d ’tend to de whitewashin’.”",
+    "ko": "회칠은 자기가 알아서 하겠다고요",
+    "r": "대시+대등절(=she allowed she'd attend to the whitewashing)"
+   }
+  ]
+ },
+ {
+  "id": "2.12.2",
+  "en": "In another moment he was flying down the street with his pail and a tingling rear, Tom was whitewashing with vigor, and Aunt Polly was retiring from the field with a slipper in her hand and triumph in her eye.",
+  "s": "he",
+  "v": "was flying",
+  "ko": "다음 순간 짐은 양동이를 든 채 얼얼한 엉덩이를 하고 거리를 내달리고 있었고, 톰은 힘차게 회칠을 하고 있었으며, 폴리 이모는 손에 슬리퍼를 들고 눈에 승리의 빛을 띤 채 전장에서 물러나고 있었다.",
+  "chunks": [
+   {
+    "en": "In another moment",
+    "ko": "다음 순간",
+    "r": "시간"
+   },
+   {
+    "en": "he was flying down the street",
+    "ko": "그(짐)는 거리를 내달리고 있었다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "with his pail and a tingling rear,",
+    "ko": "양동이를 든 채, 엉덩이가 얼얼한 상태로",
+    "r": "전치사구(동반 상태)"
+   },
+   {
+    "en": "Tom was whitewashing with vigor,",
+    "ko": "톰은 힘차게 회칠을 하고 있었다",
+    "r": "대등절"
+   },
+   {
+    "en": "and Aunt Polly was retiring from the field",
+    "ko": "그리고 폴리 이모는 전장에서 물러나고 있었다",
+    "r": "대등절"
+   },
+   {
+    "en": "with a slipper in her hand and triumph in her eye.",
+    "ko": "손에는 슬리퍼를 들고 눈에는 승리의 빛을 띤 채",
+    "r": "전치사구(동반 상태)"
+   }
+  ]
+ },
+ {
+  "id": "2.13.2",
+  "en": "Soon the free boys would come tripping along on all sorts of delicious expeditions, and they would make a world of fun of him for having to work—the very thought of it burnt him like fire.",
+  "s": "the free boys",
+  "v": "would come",
+  "ko": "곧 자유로운 아이들이 온갖 신나는 모험 길에 나서서 경쾌하게 지나갈 것이고, 일을 해야 하는 그를 실컷 놀려댈 것이다—그 생각만으로도 그는 불에 덴 듯 화끈거렸다.",
+  "chunks": [
+   {
+    "en": "Soon the free boys would come tripping along",
+    "ko": "곧 자유로운 아이들이 경쾌하게 지나갈 것이다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "on all sorts of delicious expeditions,",
+    "ko": "온갖 신나는 모험 길에 나서서",
+    "r": "전치사구"
+   },
+   {
+    "en": "and they would make a world of fun of him",
+    "ko": "그리고 그들은 그를 실컷 놀려댈 것이다",
+    "r": "대등절"
+   },
+   {
+    "en": "for having to work",
+    "ko": "일을 해야 한다는 이유로",
+    "r": "전치사구(이유)"
+   },
+   {
+    "en": "—the very thought of it burnt him like fire.",
+    "ko": "그 생각만으로도 불처럼 그를 태웠다",
+    "r": "대시+대등절"
+   }
+  ]
+ },
+ {
+  "id": "2.13.3",
+  "en": "He got out his worldly wealth and examined it—bits of toys, marbles, and trash; enough to buy an exchange of work, maybe, but not half enough to buy so much as half an hour of pure freedom.",
+  "s": "He",
+  "v": "got out",
+  "ko": "그는 자기의 전 재산을 꺼내 살펴보았다—장난감 조각, 구슬, 잡동사니. 일을 맞바꾸기에는 어쩌면 충분할지 몰라도, 순수한 자유 단 30분을 사기에는 절반에도 못 미쳤다.",
+  "chunks": [
+   {
+    "en": "He got out his worldly wealth",
+    "ko": "그는 자기 전 재산을 꺼냈다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and examined it",
+    "ko": "그리고 그것을 살펴보았다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "—bits of toys, marbles, and trash;",
+    "ko": "장난감 조각, 구슬, 잡동사니",
+    "r": "대시 삽입(재산의 내용)"
+   },
+   {
+    "en": "enough to buy an exchange of work, maybe,",
+    "ko": "일을 맞바꾸기에는 어쩌면 충분하지만",
+    "r": "보충 설명(재산 평가)"
+   },
+   {
+    "en": "but not half enough to buy",
+    "ko": "사기에는 절반에도 못 미친다",
+    "r": "대등(대조)"
+   },
+   {
+    "en": "so much as half an hour of pure freedom.",
+    "ko": "단 30분의 순수한 자유조차",
+    "r": "목적어"
+   }
+  ]
+ },
+ {
+  "id": "2.14.3",
+  "en": "He was eating an apple, and giving a long, melodious whoop, at intervals, followed by a deep-toned ding-dong-dong, ding-dong-dong, for he was personating a steamboat.",
+  "s": "He",
+  "v": "was eating",
+  "ko": "그는 사과를 먹으며 이따금 길고 듣기 좋은 함성을 지르고, 뒤이어 낮은 소리로 '딩동동, 딩동동' 하고 있었다. 증기선 흉내를 내고 있었기 때문이다.",
+  "chunks": [
+   {
+    "en": "He was eating an apple,",
+    "ko": "그는 사과를 먹고 있었다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "and giving a long, melodious whoop, at intervals,",
+    "ko": "그리고 이따금 길고 듣기 좋은 함성을 지르고 있었다",
+    "r": "대등 동사(was giving)"
+   },
+   {
+    "en": "followed by a deep-toned ding-dong-dong, ding-dong-dong,",
+    "ko": "뒤이어 낮은 소리로 '딩동동, 딩동동' 하면서",
+    "r": "과거분사구(함성 뒤에 이어지는 것)"
+   },
+   {
+    "en": "for he was personating a steamboat.",
+    "ko": "왜냐하면 그는 증기선 흉내를 내고 있었기 때문이다",
+    "r": "부사절(이유, for=because)"
+   }
+  ]
+ },
+ {
+  "id": "2.14.4",
+  "en": "As he drew near, he slackened speed, took the middle of the street, leaned far over to starboard and rounded to ponderously and with laborious pomp and circumstance—for he was personating the Big Missouri, and considered himself to be drawing nine feet of water.",
+  "s": "he",
+  "v": "slackened",
+  "ko": "가까이 다가오면서 그는 속도를 늦추고, 길 한가운데를 차지하고, 우현으로 크게 기울더니, 잔뜩 공들인 위엄과 격식을 갖추어 육중하게 뱃머리를 돌려 댔다—그는 '빅 미주리호'를 흉내 내고 있었고, 자기 배가 물속 9피트를 잠기며 나아간다고 여겼기 때문이다.",
+  "chunks": [
+   {
+    "en": "As he drew near,",
+    "ko": "가까이 다가오면서",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "he slackened speed,",
+    "ko": "그는 속도를 늦추었다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "took the middle of the street,",
+    "ko": "길 한가운데를 차지했다",
+    "r": "동사 나열"
+   },
+   {
+    "en": "leaned far over to starboard",
+    "ko": "우현(오른쪽)으로 크게 기울었다",
+    "r": "동사 나열"
+   },
+   {
+    "en": "and rounded to ponderously",
+    "ko": "그리고 육중하게 뱃머리를 돌려 댔다",
+    "r": "동사 나열"
+   },
+   {
+    "en": "and with laborious pomp and circumstance",
+    "ko": "잔뜩 공을 들인 위엄과 격식을 갖추고",
+    "r": "부사(태도)"
+   },
+   {
+    "en": "—for he was personating the Big Missouri,",
+    "ko": "왜냐하면 그는 '빅 미주리호' 흉내를 내고 있었으니까",
+    "r": "대시+부사절(이유)"
+   },
+   {
+    "en": "and considered himself to be drawing nine feet of water.",
+    "ko": "그리고 자기 배가 물속 9피트를 잠기며 나아간다고 여겼다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "2.34.2",
+  "en": "Tom swept his brush daintily back and forth—stepped back to note the effect—added a touch here and there—criticised the effect again—Ben watching every move and getting more and more interested, more and more absorbed.",
+  "s": "Tom",
+  "v": "swept",
+  "ko": "톰은 붓을 우아하게 앞뒤로 쓸고—뒤로 물러서서 효과를 살피고—여기저기 한 번씩 덧칠하고—다시 효과를 따져 보았다—벤은 그 모든 동작을 지켜보며 점점 더 흥미를 느끼고, 점점 더 빠져들었다.",
+  "chunks": [
+   {
+    "en": "Tom swept his brush daintily back and forth",
+    "ko": "톰은 붓을 우아하게 앞뒤로 쓸었다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "—stepped back to note the effect",
+    "ko": "뒤로 물러서서 효과를 살폈다",
+    "r": "대시+동사 나열"
+   },
+   {
+    "en": "—added a touch here and there",
+    "ko": "여기저기 한 번씩 덧칠했다",
+    "r": "대시+동사 나열"
+   },
+   {
+    "en": "—criticised the effect again",
+    "ko": "다시 효과를 따져 보았다",
+    "r": "대시+동사 나열"
+   },
+   {
+    "en": "—Ben watching every move",
+    "ko": "벤은 그 모든 동작을 지켜보며",
+    "r": "대시+분사구문(벤은 ~하면서)"
+   },
+   {
+    "en": "and getting more and more interested, more and more absorbed.",
+    "ko": "점점 더 흥미를 느끼고, 점점 더 빠져들었다",
+    "r": "분사구문 이어짐"
+   }
+  ]
+ },
+ {
+  "id": "2.37.1",
+  "en": "You see, Aunt Polly’s awful particular about this fence—right here on the street, you know—but if it was the back fence I wouldn’t mind and she wouldn’t.",
+  "s": "Aunt Polly",
+  "v": "’s",
+  "ko": "있잖아, 폴리 이모는 이 울타리에 엄청 까다로우셔—바로 여기 길가에 있는 거잖아—하지만 뒷울타리라면 난 상관 안 할 거고 이모도 안 하실 거야.",
+  "chunks": [
+   {
+    "en": "You see,",
+    "ko": "있잖아,",
+    "r": "구어 삽입"
+   },
+   {
+    "en": "Aunt Polly’s awful particular about this fence",
+    "ko": "폴리 이모는 이 울타리에 엄청 까다로우셔",
+    "r": "주어+동사(’s=is)+보어"
+   },
+   {
+    "en": "—right here on the street, you know",
+    "ko": "바로 여기 길가에 있는 거잖아",
+    "r": "대시 곁말"
+   },
+   {
+    "en": "—but if it was the back fence",
+    "ko": "하지만 뒷울타리라면",
+    "r": "대시+접속+조건절(가정)"
+   },
+   {
+    "en": "I wouldn’t mind and she wouldn’t.",
+    "ko": "난 상관 안 할 거고 이모도 안 하실 거야",
+    "r": "주절(가정법)"
+   }
+  ]
+ },
+ {
+  "id": "2.37.2",
+  "en": "Yes, she’s awful particular about this fence; it’s got to be done very careful; I reckon there ain’t one boy in a thousand, maybe two thousand, that can do it the way it’s got to be done.”",
+  "s": "she",
+  "v": "’s",
+  "ko": "그래, 이모는 이 울타리에 엄청 까다로우셔. 아주 조심스럽게 해야 하는 거야. 내 생각엔 천 명, 아니 이천 명 중에서도 이걸 제대로 된 방식대로 해낼 수 있는 애는 하나도 없을걸.",
+  "chunks": [
+   {
+    "en": "Yes, she’s awful particular about this fence;",
+    "ko": "그래, 이모는 이 울타리에 엄청 까다로우셔",
+    "r": "주어+동사(’s=is)+보어"
+   },
+   {
+    "en": "it’s got to be done very careful;",
+    "ko": "아주 조심스럽게 해야 하는 거야",
+    "r": "대등절(’s got to=must)"
+   },
+   {
+    "en": "I reckon there ain’t one boy in a thousand,",
+    "ko": "내 생각엔 천 명 중 한 명도 없을걸",
+    "r": "대등절(There is 구문, ain’t=isn’t)"
+   },
+   {
+    "en": "maybe two thousand,",
+    "ko": "아니 어쩌면 이천 명 중에도",
+    "r": "삽입(정정)"
+   },
+   {
+    "en": "that can do it the way it’s got to be done.”",
+    "ko": "이걸 제대로 해야 하는 방식대로 해낼 수 있는 애는",
+    "r": "관계절(one boy 설명)"
+   }
+  ]
+ },
+ {
+  "id": "2.39.0",
+  "en": "“Ben, I’d like to, honest injun; but Aunt Polly—well, Jim wanted to do it, but she wouldn’t let him; Sid wanted to do it, and she wouldn’t let Sid.",
+  "s": "I",
+  "v": "’d like",
+  "ko": "벤, 나도 그러고 싶어, 정말이야. 하지만 폴리 이모가—글쎄, 짐도 하고 싶어 했지만 이모가 못 하게 했고, 시드도 하고 싶어 했는데 시드도 못 하게 하셨어.",
+  "chunks": [
+   {
+    "en": "“Ben, I’d like to, honest injun;",
+    "ko": "벤, 나도 그러고 싶어, 진짜로",
+    "r": "인용(주어+동사)"
+   },
+   {
+    "en": "but Aunt Polly—well,",
+    "ko": "하지만 폴리 이모가—글쎄,",
+    "r": "접속+말 끊김"
+   },
+   {
+    "en": "Jim wanted to do it,",
+    "ko": "짐이 하고 싶어 했지만",
+    "r": "대등절"
+   },
+   {
+    "en": "but she wouldn’t let him;",
+    "ko": "이모가 못 하게 했어",
+    "r": "대등절"
+   },
+   {
+    "en": "Sid wanted to do it,",
+    "ko": "시드도 하고 싶어 했는데",
+    "r": "대등절"
+   },
+   {
+    "en": "and she wouldn’t let Sid.",
+    "ko": "시드도 못 하게 하셨어",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "2.43.1",
+  "en": "And while the late steamer Big Missouri worked and sweated in the sun, the retired artist sat on a barrel in the shade close by, dangled his legs, munched his apple, and planned the slaughter of more innocents.",
+  "s": "the retired artist",
+  "v": "sat",
+  "ko": "그리고 조금 전까지 증기선 '빅 미주리호'였던 벤이 땡볕에서 땀 흘리며 일하는 동안, 은퇴한 화가 톰은 바로 옆 그늘의 통 위에 앉아 다리를 흔들고 사과를 우적우적 먹으며 다음 순진한 희생자들을 잡을 계획을 세웠다.",
+  "chunks": [
+   {
+    "en": "And while the late steamer Big Missouri",
+    "ko": "그리고 조금 전까지 증기선 '빅 미주리호'였던 아이(벤)가",
+    "r": "접속+부사절 주어"
+   },
+   {
+    "en": "worked and sweated in the sun,",
+    "ko": "땡볕에서 일하며 땀 흘리는 동안",
+    "r": "부사절 동사(시간)"
+   },
+   {
+    "en": "the retired artist sat on a barrel",
+    "ko": "은퇴한 화가(톰)는 통 위에 앉아",
+    "r": "주어+동사"
+   },
+   {
+    "en": "in the shade close by,",
+    "ko": "바로 옆 그늘에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "dangled his legs, munched his apple,",
+    "ko": "다리를 흔들고, 사과를 우적우적 먹고",
+    "r": "동사 나열"
+   },
+   {
+    "en": "and planned the slaughter of more innocents.",
+    "ko": "그리고 더 많은 '순진한 희생자'를 잡을 계획을 세웠다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "2.43.3",
+  "en": "By the time Ben was fagged out, Tom had traded the next chance to Billy Fisher for a kite, in good repair; and when he played out, Johnny Miller bought in for a dead rat and a string to swing it with—and so on, and so on, hour after hour.",
+  "s": "Tom",
+  "v": "had traded",
+  "ko": "벤이 지쳐 나가떨어질 무렵, 톰은 이미 다음 차례를 빌리 피셔에게 상태 좋은 연 하나를 받고 넘긴 뒤였다. 빌리가 힘이 다 빠지자 조니 밀러가 죽은 쥐 한 마리와 그것을 빙빙 돌릴 끈을 내고 차례를 샀다—그런 식으로 계속, 몇 시간이고.",
+  "chunks": [
+   {
+    "en": "By the time Ben was fagged out,",
+    "ko": "벤이 지쳐 나가떨어질 무렵에는",
+    "r": "부사절(시간)"
+   },
+   {
+    "en": "Tom had traded the next chance to Billy Fisher",
+    "ko": "톰은 이미 다음 차례를 빌리 피셔에게 넘긴 뒤였다",
+    "r": "주어+동사(과거완료)"
+   },
+   {
+    "en": "for a kite, in good repair;",
+    "ko": "상태 좋은 연 하나를 받고",
+    "r": "전치사구(대가)"
+   },
+   {
+    "en": "and when he played out,",
+    "ko": "그리고 그(빌리)가 힘이 다 빠지자",
+    "r": "접속+부사절(시간)"
+   },
+   {
+    "en": "Johnny Miller bought in",
+    "ko": "조니 밀러가 차례를 사서 들어왔다",
+    "r": "대등절 주어+동사"
+   },
+   {
+    "en": "for a dead rat and a string to swing it with",
+    "ko": "죽은 쥐 한 마리와 그것을 빙빙 돌릴 끈을 내고",
+    "r": "전치사구(대가)"
+   },
+   {
+    "en": "—and so on, and so on, hour after hour.",
+    "ko": "그런 식으로 계속, 몇 시간이고",
+    "r": "대시+부사"
+   }
+  ]
+ },
+ {
+  "id": "2.43.4",
+  "en": "And when the middle of the afternoon came, from being a poor poverty-stricken boy in the morning, Tom was literally rolling in wealth.",
+  "s": "Tom",
+  "v": "was literally rolling",
+  "ko": "그리고 오후 한가운데가 되자, 아침만 해도 가난에 찌든 불쌍한 소년이던 톰은 말 그대로 재산 속에서 뒹굴고 있었다.",
+  "chunks": [
+   {
+    "en": "And when the middle of the afternoon came,",
+    "ko": "그리고 오후 한가운데가 되었을 때",
+    "r": "접속+부사절(시간)"
+   },
+   {
+    "en": "from being a poor poverty-stricken boy in the morning,",
+    "ko": "아침에는 가난에 찌든 불쌍한 소년이던 데서",
+    "r": "전치사구(출발 상태)"
+   },
+   {
+    "en": "Tom was literally rolling in wealth.",
+    "ko": "톰은 말 그대로 재산 속을 뒹굴고 있었다",
+    "r": "주어+동사"
+   }
+  ]
+ },
+ {
+  "id": "2.43.5",
+  "en": "He had besides the things before mentioned, twelve marbles, part of a jews-harp, a piece of blue bottle-glass to look through, a spool cannon, a key that wouldn’t unlock anything, a fragment of chalk, a glass stopper of a decanter, a tin soldier, a couple of tadpoles, six fire-crackers, a kitten with only one eye, a brass door-knob, a dog-collar—but no dog—the handle of a knife, four pieces of orange-peel, and a dilapidated old window sash.",
+  "s": "He",
+  "v": "had",
+  "ko": "그는 앞서 말한 것들 외에도 구슬 열두 개, 구금(입에 물고 켜는 작은 악기) 조각, 들여다보고 노는 파란 병유리 조각, 실패로 만든 대포, 아무것도 못 여는 열쇠, 분필 조각, 유리병 마개, 양철 병정, 올챙이 두어 마리, 폭죽 여섯 개, 애꾸눈 새끼 고양이, 놋쇠 문손잡이, 개 목걸이—개는 없고—칼 손잡이, 오렌지 껍질 네 조각, 그리고 다 낡아빠진 창틀 하나를 갖고 있었다.",
+  "chunks": [
+   {
+    "en": "He had besides the things before mentioned,",
+    "ko": "그는 앞서 말한 것들 외에도 갖고 있었다",
+    "r": "주어+동사+삽입구(besides=~외에)"
+   },
+   {
+    "en": "twelve marbles, part of a jews-harp,",
+    "ko": "구슬 열두 개, 구금(입에 물고 켜는 악기) 조각",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "a piece of blue bottle-glass to look through,",
+    "ko": "들여다보고 노는 파란 병유리 조각",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "a spool cannon, a key that wouldn’t unlock anything,",
+    "ko": "실패로 만든 대포, 아무것도 못 여는 열쇠",
+    "r": "목적어 나열(관계절 포함)"
+   },
+   {
+    "en": "a fragment of chalk, a glass stopper of a decanter,",
+    "ko": "분필 조각, 유리병 마개",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "a tin soldier, a couple of tadpoles, six fire-crackers,",
+    "ko": "양철 병정, 올챙이 두어 마리, 폭죽 여섯 개",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "a kitten with only one eye, a brass door-knob,",
+    "ko": "애꾸눈 새끼 고양이, 놋쇠 문손잡이",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "a dog-collar—but no dog—the handle of a knife,",
+    "ko": "개 목걸이—개는 없고—칼 손잡이",
+    "r": "목적어 나열(대시 곁말)"
+   },
+   {
+    "en": "four pieces of orange-peel,",
+    "ko": "오렌지 껍질 네 조각",
+    "r": "목적어 나열"
+   },
+   {
+    "en": "and a dilapidated old window sash.",
+    "ko": "그리고 다 낡아빠진 창틀 하나",
+    "r": "목적어 나열(끝)"
+   }
+  ]
+ },
+ {
+  "id": "2.45.1",
+  "en": "He had discovered a great law of human action, without knowing it—namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.",
+  "s": "He",
+  "v": "had discovered",
+  "ko": "그는 자기도 모르는 사이에 인간 행동의 위대한 법칙 하나를 발견한 것이다—즉, 어른이든 아이든 어떤 것을 탐내게 만들려면 그것을 얻기 어렵게 만들기만 하면 된다는 법칙을.",
+  "chunks": [
+   {
+    "en": "He had discovered a great law of human action,",
+    "ko": "그는 인간 행동의 위대한 법칙 하나를 발견했다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "without knowing it",
+    "ko": "자기도 모르는 사이에",
+    "r": "전치사구"
+   },
+   {
+    "en": "—namely, that",
+    "ko": "즉, ~라는 것을",
+    "r": "대시+동격(law의 내용 소개)"
+   },
+   {
+    "en": "in order to make a man or a boy covet a thing,",
+    "ko": "어른이든 아이든 어떤 것을 탐내게 만들려면",
+    "r": "부사구(목적)"
+   },
+   {
+    "en": "it is only necessary",
+    "ko": "오직 ~하기만 하면 된다",
+    "r": "가주어 it+동사"
+   },
+   {
+    "en": "to make the thing difficult to attain.",
+    "ko": "그것을 얻기 어렵게 만들기만",
+    "r": "진주어(to부정사)"
+   }
+  ]
+ },
+ {
+  "id": "2.45.2",
+  "en": "If he had been a great and wise philosopher, like the writer of this book, he would now have comprehended that Work consists of whatever a body is obliged to do, and that Play consists of whatever a body is not obliged to do.",
+  "s": "he",
+  "v": "would now have comprehended",
+  "ko": "만약 그가 이 책의 지은이처럼 위대하고 현명한 철학자였다면, '일'이란 사람이 해야만 하는 모든 것이고 '놀이'란 사람이 하지 않아도 되는 모든 것임을 지금쯤 깨달았을 것이다.",
+  "chunks": [
+   {
+    "en": "If he had been a great and wise philosopher,",
+    "ko": "만약 그가 위대하고 현명한 철학자였다면",
+    "r": "부사절(가정: 실제론 아님)"
+   },
+   {
+    "en": "like the writer of this book,",
+    "ko": "이 책의 지은이처럼",
+    "r": "삽입(비유)"
+   },
+   {
+    "en": "he would now have comprehended that",
+    "ko": "그는 지금쯤 ~라는 것을 이해했을 것이다",
+    "r": "주절(가정법 과거완료)"
+   },
+   {
+    "en": "Work consists of whatever a body is obliged to do,",
+    "ko": "'일'이란 사람이 해야만 하는 모든 것이고",
+    "r": "that절 1"
+   },
+   {
+    "en": "and that Play consists of whatever a body is not obliged to do.",
+    "ko": "'놀이'란 사람이 하지 않아도 되는 모든 것이라는 것을",
+    "r": "that절 2"
+   }
+  ]
+ },
+ {
+  "id": "2.45.3",
+  "en": "And this would help him to understand why constructing artificial flowers or performing on a tread-mill is work, while rolling ten-pins or climbing Mont Blanc is only amusement.",
+  "s": "this",
+  "v": "would help",
+  "ko": "그리고 이 사실은 조화를 만들거나 발판 밟는 형벌 기구(트레드밀)를 돌리는 것은 왜 '일'이고, 볼링 핀을 쓰러뜨리거나 몽블랑에 오르는 것은 왜 그저 '놀이'인지 그가 이해하는 데 도움이 될 것이다.",
+  "chunks": [
+   {
+    "en": "And this would help him to understand why",
+    "ko": "그리고 이것은 그가 왜 ~인지 이해하도록 도울 것이다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "constructing artificial flowers or performing on a tread-mill is work,",
+    "ko": "조화를 만들거나 발판 밟는 형벌 기구를 돌리는 것은 일이고",
+    "r": "why절 1(동명사 긴 주어+is)"
+   },
+   {
+    "en": "while rolling ten-pins or climbing Mont Blanc is only amusement.",
+    "ko": "반면 볼링 핀을 쓰러뜨리거나 몽블랑에 오르는 것은 그저 놀이인지",
+    "r": "부사절(대조: 반면에)"
+   }
+  ]
+ },
+ {
+  "id": "2.45.4",
+  "en": "There are wealthy gentlemen in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line, in the summer, because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work and then they would resign.",
+  "s": "wealthy gentlemen",
+  "v": "are",
+  "ko": "영국에는 여름철에 매일 정해진 노선으로 네 마리 말이 끄는 승합마차를 20~30마일씩 모는 부유한 신사들이 있는데, 그 특권을 누리는 데 상당한 돈이 들기 때문이다. 하지만 그 일에 대해 임금을 받게 된다면, 그것은 곧 '노동'이 되어 그들은 그만두어 버릴 것이다.",
+  "chunks": [
+   {
+    "en": "There are wealthy gentlemen in England",
+    "ko": "영국에는 부유한 신사들이 있다",
+    "r": "There are 구문(주어+동사)"
+   },
+   {
+    "en": "who drive four-horse passenger-coaches",
+    "ko": "네 마리 말이 끄는 승합마차를 모는",
+    "r": "관계절(gentlemen 설명)"
+   },
+   {
+    "en": "twenty or thirty miles on a daily line, in the summer,",
+    "ko": "여름철에 매일 정해진 노선을 20~30마일씩",
+    "r": "부사구(거리·시간)"
+   },
+   {
+    "en": "because the privilege costs them considerable money;",
+    "ko": "그 특권을 누리는 데 상당한 돈이 들기 때문에",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "but if they were offered wages for the service,",
+    "ko": "하지만 그 일에 대해 임금을 받게 된다면",
+    "r": "접속+조건절(가정법)"
+   },
+   {
+    "en": "that would turn it into work",
+    "ko": "그것은 그 일을 '노동'으로 바꿔 놓을 것이고",
+    "r": "주절"
+   },
+   {
+    "en": "and then they would resign.",
+    "ko": "그러면 그들은 그만두어 버릴 것이다",
+    "r": "대등절"
+   }
+  ]
+ }
+]

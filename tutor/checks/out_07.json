@@ -1,0 +1,111 @@
+{
+ "7.0.7": [
+  {"t":"pron","q":"맨 끝 <b>and they were asleep</b> 의 <b>they</b> 는 무엇입니까?","a":"소들(some cows)입니다.","tip":"바로 앞 절에 새(birds)가 나와서 새로 착각하기 쉽지만, they 가 받는 것은 바로 앞의 some cows 입니다."},
+  {"t":"neg","q":"<b>no other living thing was visible but some cows</b> — 소는 보였습니까, 보이지 않았습니까?","a":"보였습니다. 소 말고는 아무것도 보이지 않았다는 뜻입니다.","tip":"여기서 but 은 '그러나'가 아니라 '~을 빼고(except)'입니다. 놓치면 소까지 안 보인 것으로 뒤집힙니다."},
+  {"t":"mod","q":"<b>tinted with the purple of distance</b> 는 무엇이 물들었다는 말입니까?","a":"카디프 언덕의 부드러운 초록 비탈(its soft green sides)입니다.","tip":"바로 앞의 heat(열기)에 붙이기 쉽지만, 멀어서 보랏빛으로 보이는 것은 언덕 비탈입니다."}
+ ],
+ "7.0.12": [
+  {"t":"pron","q":"<b>for when he started thankfully to travel off</b> 의 <b>he</b> 는 누구입니까?","a":"그 작은 생물, 즉 진드기입니다. 톰이 아닙니다.","tip":"he/him 을 사람으로만 보면 톰과 진드기가 통째로 뒤바뀝니다."},
+  {"t":"pron","q":"<b>but it was premature</b> 의 <b>it</b> 은 무엇을 가리킵니까?","a":"진드기가 느낀 감사(기쁨)입니다. 고마워하기엔 너무 일렀다는 뜻입니다."},
+  {"t":"who","q":"<b>made him take a new direction</b> — 새 방향으로 가게 된 쪽은 누구입니까?","a":"진드기입니다. 톰이 핀으로 진드기를 돌려세워 그렇게 만들었습니다.","tip":"made him take 를 '톰이 스스로 방향을 잡았다'로 읽으면 시키는 쪽과 당하는 쪽이 뒤집힙니다."}
+ ],
+ "7.1.0": [
+  {"t":"pron","q":"<b>and now he was deeply and gratefully interested</b> 의 <b>he</b> 는 누구입니까?","a":"톰의 단짝 친구입니다. 톰이 아닙니다."},
+  {"t":"mod","q":"<b>suffering just as Tom had been</b> 은 누구의 모습입니까?","a":"톰의 단짝 친구입니다. 그 친구도 톰처럼 지루함에 시달리고 있었다는 뜻입니다.","tip":"분사구문의 주인은 바로 앞 주어인 the friend 입니다. Tom 이라는 말이 붙어 있어 톰에게 붙이기 쉽습니다."},
+  {"t":"time","q":"<b>just as Tom had been</b> — 톰이 시달린 것은 지금입니까, 그보다 앞선 때입니까?","a":"그보다 앞선 때입니다. had been(과거완료)이라 톰은 이미 그 상태를 지나 지금은 진드기 놀이에 빠져 있습니다."}
+ ],
+ "7.2.0": [
+  {"t":"pron","q":"<b>as long as he is on your side</b> 의 <b>he</b> 는 누구입니까?","a":"진드기입니다.","tip":"이 대사에서 he/him 은 전부 진드기를 가리킵니다. 사람으로 읽으면 규칙 전체가 엉킵니다."},
+  {"t":"who","q":"<b>you can stir him up and I’ll let him alone</b> — 진드기를 건드릴 수 있는 사람은 누구입니까?","a":"말을 듣는 상대(조)입니다. 말하는 톰은 가만둡니다.","tip":"you 와 I 를 바꿔 읽으면 놀이 규칙이 정반대가 됩니다."},
+  {"t":"neg","q":"<b>as long as I can keep him from crossing over</b> — 진드기는 넘어옵니까, 못 넘어옵니까?","a":"톰이 막는 동안에는 못 넘어옵니다. keep A from B 는 'A가 B 하지 못하게 막다'입니다.","tip":"from 을 흘리면 '내가 넘어가게 해 주는 동안'으로 뒤집힙니다."}
+ ],
+ "7.4.3": [
+  {"t":"who","q":"<b>While one boy was worrying the tick</b> — 괴롭힘을 당하는 쪽은 누구입니까?","a":"진드기입니다. worry 는 여기서 '걱정하다'가 아니라 '집적거려 괴롭히다'입니다.","tip":"'한 아이가 진드기를 걱정했다'로 읽으면 장면이 통째로 달라집니다."},
+  {"t":"mod","q":"<b>the other would look on with interest as strong</b> — 지켜보는 아이의 관심은 어느 정도였습니까?","a":"괴롭히는 아이의 관심만큼이나 강했습니다.","tip":"as strong 뒤에 as the other's 가 생략된 형태입니다. '조금 덜한 관심'으로 읽지 않도록 하세요."},
+  {"t":"mod","q":"<b>the two souls dead to all things else</b> — 무엇에 대해 죽은 듯했다는 말입니까?","a":"진드기 놀이 말고 다른 모든 것에 대해서입니다. 두 아이가 실제로 죽었다는 말이 아닙니다."}
+ ],
+ "7.4.5": [
+  {"t":"pron","q":"<b>just as he would have victory in his very grasp</b> 의 <b>he</b> 는 누구입니까?","a":"진드기입니다.","tip":"바로 뒤에 Tom’s fingers 가 나와 톰으로 착각하기 쉽습니다."},
+  {"t":"time","q":"<b>just as he would have victory in his very grasp</b> — 진드기가 승리를 이미 거둔 시점입니까?","a":"아닙니다. 막 손에 넣으려던 바로 그 순간이고, 번번이 그 직전에 막혔습니다.","tip":"would have victory in his grasp 를 '승리했다'로 읽으면 결과가 정반대가 됩니다."},
+  {"t":"who","q":"<b>Joe’s pin would deftly head him off, and keep possession</b> — 진드기를 가로막고 계속 차지한 쪽은 누구입니까?","a":"조(조의 핀)입니다. 톰은 손대지 못했습니다."}
+ ],
+ "7.15.0": [
+  {"t":"who","q":"<b>and its duplicate on Joe’s</b> — 똑같은 일격을 맞은 사람은 누구이고, Joe’s 뒤에 생략된 말은 무엇입니까?","a":"조가 맞았고, Joe’s 뒤에는 shoulders(어깨)가 생략되어 있습니다."},
+  {"t":"pron","q":"<b>the whole school to enjoy it</b> 의 <b>it</b> 은 무엇입니까?","a":"두 아이가 매를 맞아 재킷에서 먼지가 풀풀 나던 그 광경입니다."},
+  {"t":"who","q":"<b>and the whole school to enjoy it</b> — 즐긴 쪽은 누구입니까?","a":"구경하던 학교 전체(학생들)입니다. 맞고 있는 톰과 조가 아닙니다.","tip":"앞의 continued 가 생략된 자리라 동사가 안 보여 주어를 놓치기 쉽습니다."}
+ ],
+ "7.15.1": [
+  {"t":"neg","q":"<b>The boys had been too absorbed to notice the hush</b> — 아이들은 정적을 알아차렸습니까?","a":"알아차리지 못했습니다. too ~ to ... 는 '너무 ~해서 ...하지 못하다'입니다.","tip":"too 를 흘리면 '알아차렸다'로 정반대가 됩니다."},
+  {"t":"time","q":"<b>the hush that had stolen upon the school awhile before</b> — 정적이 내려앉은 것은 매질보다 앞입니까, 뒤입니까?","a":"앞입니다. awhile before(조금 전) + 과거완료라서, 맞기 전에 이미 조용해져 있었습니다."},
+  {"t":"who","q":"<b>the master came tiptoeing down the room and stood over them</b> — 발끝으로 걸어와 그들 위에 버티고 선 사람은 누구입니까?","a":"선생님(the master)입니다. them 은 톰과 조입니다."}
+ ],
+ "7.16.0": [
+  {"t":"time","q":"<b>When school broke up at noon</b> 은 언제, 무슨 일이 있었다는 뜻입니까?","a":"정오에 수업이 끝나 학교가 파했을 때입니다.","tip":"break up 을 '부서지다'로 읽으면 엉뚱한 장면이 됩니다."},
+  {"t":"who","q":"<b>and whispered in her ear</b> — 속삭인 사람은 누구입니까?","a":"톰입니다. and 앞의 주어 Tom 이 그대로 이어지고, her ear 는 베키의 귀입니다.","tip":"바로 앞에 Becky 가 있어 베키가 속삭인 것으로 읽기 쉽습니다."}
+ ],
+ "7.17.0": [
+  {"t":"who","q":"이 명령들(<b>Put on … come back</b>)을 실제로 해야 하는 사람은 누구입니까?","a":"베키입니다. 톰이 베키에게 시키는 말입니다."},
+  {"t":"neg","q":"<b>let on you’re going home</b> — 베키는 정말로 집에 갑니까?","a":"아닙니다. let on 은 '~인 척하다'라서, 집에 가는 척만 하고 돌아옵니다.","tip":"'집에 가게 해 줘'로 읽으면 계획 전체가 무너집니다."},
+  {"t":"pron","q":"<b>give the rest of ’em the slip</b> 의 <b>’em</b> 은 누구입니까?","a":"함께 집으로 가는 나머지 아이들입니다. 그들을 따돌리라는 뜻입니다."}
+ ],
+ "7.18.1": [
+  {"t":"pron","q":"<b>they had it all to themselves</b> 의 <b>it</b> 은 무엇입니까?","a":"학교(교실)입니다. 학교를 둘이서 독차지했다는 뜻입니다."},
+  {"t":"who","q":"<b>the two</b> 는 누구와 누구입니까?","a":"톰과 베키입니다."},
+  {"t":"time","q":"두 사람이 골목 끝에서 만난 것은 학교가 파하기 전입니까, 뒤입니까?","a":"뒤입니다. 정오에 학교가 끝나 각자 나갔다가 In a little while(잠시 후) 만납니다."}
+ ],
+ "7.18.2": [
+  {"t":"pron","q":"<b>held her hand in his</b> 의 <b>his</b> 는 무엇입니까?","a":"톰의 손입니다. 베키의 손을 자기 손 안에 쥐었다는 뜻입니다."},
+  {"t":"pron","q":"<b>guiding it</b> 의 <b>it</b> 은 무엇입니까?","a":"베키의 손입니다.","tip":"연필이나 석판으로 보기 쉽지만, 바로 앞에서 쥔 her hand 를 이끄는 것입니다."},
+  {"t":"who","q":"<b>and so created another surprising house</b> — 집을 그려 낸 문장상의 주체는 누구입니까?","a":"톰입니다. 톰이 베키의 손을 잡고 이끌어 그렸습니다.","tip":"바로 앞에 Becky 가 나와 베키가 그린 것으로 읽기 쉽습니다."}
+ ],
+ "7.49.0": [
+  {"t":"who","q":"<b>Becky hesitating</b> — 머뭇거린 사람은 누구이고, 뒤에 이어지는 동작(took/passed/whispered)의 주어는 누구입니까?","a":"머뭇거린 사람은 베키, 뒤의 동작은 모두 톰입니다.","tip":"문장 앞머리에 Becky 가 있어 문장 전체의 주어로 착각하기 쉽습니다. 주어가 따로 붙은 독립분사구문입니다."},
+  {"t":"who","q":"<b>Tom took silence for consent</b> — 침묵을 승낙으로 받아들인 사람은 누구입니까?","a":"톰입니다. 베키는 아무 말도 하지 않았을 뿐, 승낙한다고 말한 적이 없습니다.","tip":"take A for B 는 'A를 B로 여기다'입니다."},
+  {"t":"pron","q":"<b>with his mouth close to her ear</b> — 입을 상대의 귀에 바짝 댄 사람은 누구입니까?","a":"톰입니다. his 는 톰의 입, her 는 베키의 귀입니다."}
+ ],
+ "7.55.0": [
+  {"t":"who","q":"<b>with Tom after her</b> — 앞서 달아나는 쪽과 뒤쫓는 쪽은 각각 누구입니까?","a":"달아나는 쪽은 베키, 뒤쫓는 쪽은 톰입니다."},
+  {"t":"who","q":"<b>and took refuge in a corner at last</b> — 구석으로 피한 사람은 누구입니까?","a":"베키입니다. 문장 주어 she 가 그대로 이어집니다.","tip":"바로 앞에 with Tom after her 가 끼어 있어 톰이 피한 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>with her little white apron to her face</b> — 앞치마로 얼굴을 가린 사람은 누구입니까?","a":"베키입니다. 자기 앞치마를 자기 얼굴에 댔습니다."}
+ ],
+ "7.57.0": [
+  {"t":"time","q":"<b>By and by</b> 는 무슨 뜻입니까?","a":"'이윽고, 얼마 뒤'라는 시간 표현입니다.","tip":"by 가 두 번 나와 '곁에, 나란히'로 오해하기 쉽습니다."},
+  {"t":"mod","q":"<b>all glowing with the struggle</b> 는 무엇의 모습입니까?","a":"베키의 얼굴(her face)입니다. 실랑이 때문에 발갛게 달아오른 것입니다.","tip":"콤마 사이에 끼어 있지만 바로 앞의 her face 를 설명합니다."},
+  {"t":"who","q":"<b>came up and submitted</b> — 들려 올라와 순순히 응한 것은 무엇입니까?","a":"베키의 얼굴입니다. 세미콜론 뒤 절의 주어가 her face 입니다."}
+ ],
+ "7.58.1": [
+  {"t":"neg","q":"<b>you ain’t ever to love anybody but me</b> — '나를 사랑하지 말라'는 뜻입니까, '나 말고 다른 사람을 사랑하지 말라'는 뜻입니까?","a":"'나 말고 다른 사람을 사랑하면 안 된다'는 뜻입니다. but me 는 '나를 빼고'입니다.","tip":"anybody but me 의 but 을 놓치면 뜻이 정반대가 됩니다."},
+  {"t":"who","q":"이 규칙을 지켜야 하는 사람은 누구입니까?","a":"베키('너')입니다. 톰이 베키에게 요구하는 말입니다."},
+  {"t":"time","q":"<b>always after this</b> — 이 약속이 적용되는 때는 언제부터입니까?","a":"이 일 이후로, 즉 지금부터 앞으로 계속입니다."}
+ ],
+ "7.60.3": [
+  {"t":"neg","q":"<b>when there ain’t anybody looking</b> — 함께 걸어야 하는 때는 언제입니까?","a":"보는 사람이 아무도 없을 때입니다.","tip":"ain’t + anybody 는 '아무도 없다'입니다. 부정을 놓치면 '누군가 볼 때'로 뒤집힙니다."},
+  {"t":"who","q":"<b>you choose me and I choose you at parties</b> — 파티에서 베키가 골라야 하는 사람은 누구입니까?","a":"톰입니다. 그리고 톰은 베키를 고릅니다."},
+  {"t":"pron","q":"<b>that’s the way you do when you’re engaged</b> 의 <b>you</b> 는 베키만 가리킵니까?","a":"아닙니다. '약혼한 사람들은 원래 그렇게 한다'는, 사람 일반을 가리키는 you 입니다."}
+ ],
+ "7.68.0": [
+  {"t":"neg","q":"<b>Tom tried to put his arm about her neck</b> — 톰은 실제로 팔을 두르는 데 성공했습니까?","a":"성공하지 못했습니다. tried to 뒤에 곧바로 but she pushed him away 가 이어집니다.","tip":"try to 는 '해 보았다'일 뿐 '해냈다'가 아닙니다."},
+  {"t":"who","q":"<b>but she pushed him away</b> — 미는 쪽과 밀려나는 쪽은 각각 누구입니까?","a":"미는 쪽은 베키, 밀려나는 쪽은 톰입니다."},
+  {"t":"who","q":"<b>and went on crying</b> — 계속 운 사람은 누구입니까?","a":"베키입니다. 주어 she 가 그대로 이어집니다.","tip":"바로 앞에 him(톰)이 있어 톰이 운 것으로 읽기 쉽습니다."}
+ ],
+ "7.68.3": [
+  {"t":"who","q":"<b>hoping she would repent</b> — 바라는 사람과 뉘우쳐야 할 사람은 각각 누구입니까?","a":"바라는 사람은 톰, 뉘우쳐야 할 사람은 베키입니다."},
+  {"t":"pron","q":"<b>come to find him</b> 의 <b>him</b> 은 누구입니까?","a":"톰입니다. 베키가 톰을 찾으러 나오기를 바라는 것입니다."},
+  {"t":"time","q":"<b>every now and then</b> 은 얼마나 자주라는 뜻입니까?","a":"이따금, 때때로라는 뜻입니다. 문 쪽을 내내 쳐다본 것이 아닙니다."}
+ ],
+ "7.73.0": [
+  {"t":"mod","q":"<b>a brass knob from the top of an andiron</b> 은 무엇을 다시 설명한 말입니까?","a":"바로 앞의 his chiefest jewel(그의 최고 보물)입니다. 그 보물의 정체가 벽난로 받침쇠에서 떼어 낸 놋쇠 손잡이입니다.","tip":"보물과 손잡이를 서로 다른 두 물건으로 읽으면 이 대목의 우스움이 사라집니다."},
+  {"t":"pron","q":"<b>passed it around her so that she could see it</b> 의 <b>it</b> 은 무엇입니까?","a":"그 놋쇠 손잡이입니다."},
+  {"t":"who","q":"<b>so that she could see it</b> — 볼 수 있게 된 사람은 누구입니까?","a":"베키입니다. 톰이 베키에게 보이려고 그녀 앞으로 돌려 보였습니다."}
+ ],
+ "7.75.3": [
+  {"t":"pron","q":"<b>She</b> 와 <b>he</b> 는 각각 누구입니까?","a":"She 는 베키, he 는 톰입니다."},
+  {"t":"neg","q":"<b>he was not in sight … he was not there</b> — 베키는 톰을 찾았습니까?","a":"찾지 못했습니다. 문 쪽에도 운동장에도 톰은 없었습니다.","tip":"not 두 개를 흘려 읽으면 '거기 있었다'로 정반대가 됩니다."}
+ ],
+ "7.77.2": [
+  {"t":"who","q":"<b>the scholars</b> 는 누구입니까?","a":"그 학교 학생들입니다.","tip":"'학자'로 읽으면 교실 장면이 이상해집니다. 이 소설에서 scholar 는 학생을 가리킵니다."},
+  {"t":"who","q":"<b>upbraid herself</b> — 꾸짖음을 당하는 사람은 누구입니까?","a":"베키 자신입니다. 스스로를 책망한 것입니다."},
+  {"t":"mod","q":"<b>and still her broken heart</b> 의 <b>still</b> 은 어떤 자리에 쓰였습니까?","a":"hide 와 나란히 이어지는 동사입니다. '찢어진 마음을 가라앉히다(달래다)'라는 뜻입니다.","tip":"'여전히'라는 부사로 읽으면 동사가 사라져 문장이 풀리지 않습니다."},
+  {"t":"neg","q":"<b>with none among the strangers about her to exchange sorrows with</b> — 슬픔을 나눌 사람이 있었습니까?","a":"없었습니다. 주위는 모두 낯선 아이들뿐이었습니다.","tip":"none 을 놓치면 '슬픔을 나눌 사람들과 함께'로 정반대가 됩니다."}
+ ]
+}

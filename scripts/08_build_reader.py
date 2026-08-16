@@ -30,6 +30,7 @@ rd = json.load(open(D('data', 'reader_data.json'), encoding='utf-8'))
 syntax = json.load(open(D('data', 'syntax.json'), encoding='utf-8'))
 grammar = json.load(open(D('data', 'grammar.json'), encoding='utf-8')) if os.path.exists(D('data', 'grammar.json')) else {'groups': [], 'topics': []}
 news = json.load(open(D('data', 'news.json'), encoding='utf-8')) if os.path.exists(D('data', 'news.json')) else {'articles': [], 'vocab': []}
+checks = json.load(open(D('data', 'checks.json'), encoding='utf-8')) if os.path.exists(D('data', 'checks.json')) else {}
 # 뉴스 어휘를 어휘 목록 뒤에 붙인다. 13번이 '소설 어휘 개수 + k' 로 번호를 매겼으므로 순서가 중요하다.
 for k, r in enumerate(news.get('vocab', [])):
     idx = len(vocab)
@@ -93,7 +94,8 @@ for fn in sorted(glob.glob(D('tutor', 'guide_*.json'))):
 
 n_topics = len(grammar.get('topics', []))
 n_news = len(news.get('articles', []))
-print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 문법 주제 {n_topics}개 / 뉴스 {n_news}건 / 경고 {warn}건")
+n_checks = len(checks)
+print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 문법 주제 {n_topics}개 / 뉴스 {n_news}건 / 정밀 확인 {n_checks}문장 / 경고 {warn}건")
 
 # --- 아포스트로피 축약형(’bout, ’em …)을 어휘 목록 뒤에 덧붙인다 -----------
 #     본문에서 이런 형태를 누르면 앞의 아포스트로피가 잘려 엉뚱한 단어로 연결되던 것을 막는다.
@@ -135,7 +137,8 @@ html = (tpl.replace('/*__BOOK__*/', J(book))
            .replace('/*__GUIDES__*/', J(guides))
            .replace('/*__SYNTAX__*/', J(syntax))
            .replace('/*__GRAMMAR__*/', J(grammar))
-           .replace('/*__NEWS__*/', J(news)))
+           .replace('/*__NEWS__*/', J(news))
+           .replace('/*__CHECKS__*/', J(checks)))
 out = D('index.html')
 # 서비스 워커의 캐시 버전을 빌드 시각으로 바꿔 옛 캐시가 남지 않게 한다
 import time as _t

@@ -1,0 +1,1140 @@
+[
+ {
+  "id": "4.0.1",
+  "en": "Breakfast over, Aunt Polly had family worship: it began with a prayer built from the ground up of solid courses of Scriptural quotations, welded together with a thin mortar of originality; and from the summit of this she delivered a grim chapter of the Mosaic Law, as from Sinai.",
+  "s": "Aunt Polly",
+  "v": "had",
+  "ko": "아침 식사가 끝나자 폴리 이모는 가족 예배를 열었다. 예배는 기도로 시작되었는데, 그 기도는 성경 인용구라는 단단한 벽돌 층을 바닥부터 쌓아 올리고 독창성이라는 얇은 회반죽으로 붙여 놓은 것이었다. 그리고 그 꼭대기에서 이모는 마치 시나이 산에서 내리듯 모세 율법의 엄한 한 장을 전했다.",
+  "chunks": [
+   {
+    "en": "Breakfast over,",
+    "ko": "아침 식사가 끝나자",
+    "r": "분사구문(being 생략: ~가 끝나자)"
+   },
+   {
+    "en": "Aunt Polly had family worship:",
+    "ko": "폴리 이모는 가족 예배를 열었다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "it began with a prayer",
+    "ko": "그것(예배)은 기도로 시작되었는데",
+    "r": "콜론 뒤 설명절"
+   },
+   {
+    "en": "built from the ground up",
+    "ko": "바닥부터 쌓아 올린",
+    "r": "과거분사구(prayer 설명)"
+   },
+   {
+    "en": "of solid courses of Scriptural quotations,",
+    "ko": "성경 인용구라는 단단한 벽돌 층으로",
+    "r": "전치사구(재료)"
+   },
+   {
+    "en": "welded together with a thin mortar of originality;",
+    "ko": "독창성이라는 얇은 회반죽으로 붙여 놓은",
+    "r": "과거분사구(prayer 설명)"
+   },
+   {
+    "en": "and from the summit of this",
+    "ko": "그리고 그 꼭대기에서",
+    "r": "접속+전치사구(장소)"
+   },
+   {
+    "en": "she delivered a grim chapter of the Mosaic Law,",
+    "ko": "이모는 모세 율법의 엄한 한 장을 전했다",
+    "r": "대등절"
+   },
+   {
+    "en": "as from Sinai.",
+    "ko": "마치 시나이 산에서 내리듯",
+    "r": "비유(전치사구)"
+   }
+  ]
+ },
+ {
+  "id": "4.1.3",
+  "en": "At the end of half an hour Tom had a vague general idea of his lesson, but no more, for his mind was traversing the whole field of human thought, and his hands were busy with distracting recreations.",
+  "s": "Tom",
+  "v": "had",
+  "ko": "30분이 지났을 때 톰은 자기가 외울 구절을 어렴풋이 대강만 알 뿐 그 이상은 아니었다. 그의 마음은 인간 사고의 온 들판을 떠돌고 있었고, 손은 정신을 흩뜨리는 딴짓을 하느라 바빴기 때문이다.",
+  "chunks": [
+   {
+    "en": "At the end of half an hour",
+    "ko": "30분이 지났을 때",
+    "r": "시간"
+   },
+   {
+    "en": "Tom had a vague general idea of his lesson,",
+    "ko": "톰은 자기 과제(외울 구절)를 어렴풋이 대강만 알았고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "but no more,",
+    "ko": "그 이상은 아니었다",
+    "r": "접속(하지만)"
+   },
+   {
+    "en": "for his mind was traversing",
+    "ko": "왜냐하면 그의 마음은 떠돌고 있었기 때문이다",
+    "r": "쉼표+for(=because)"
+   },
+   {
+    "en": "the whole field of human thought,",
+    "ko": "인간 사고의 온 들판을",
+    "r": "목적어"
+   },
+   {
+    "en": "and his hands were busy",
+    "ko": "그리고 그의 손은 바빴다",
+    "r": "대등절"
+   },
+   {
+    "en": "with distracting recreations.",
+    "ko": "정신을 흩뜨리는 딴짓들로",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "4.19.2",
+  "en": "True, the knife would not cut anything, but it was a “sure-enough” Barlow, and there was inconceivable grandeur in that—though where the Western boys ever got the idea that such a weapon could possibly be counterfeited to its injury is an imposing mystery and will always remain so, perhaps.",
+  "s": "the knife",
+  "v": "would not cut",
+  "ko": "사실 그 칼은 아무것도 자르지 못했지만, '진짜' 발로 칼이었고, 거기에는 상상도 못 할 위엄이 있었다. 하긴 서부 아이들이 그런 무기가 짝퉁으로 만들어져 명성에 흠이 갈 수도 있다는 생각을 대체 어디서 얻었는지는 대단한 수수께끼이고, 아마 영원히 수수께끼로 남을 것이다.",
+  "chunks": [
+   {
+    "en": "True, the knife would not cut anything,",
+    "ko": "사실 그 칼은 아무것도 자르지 못했다",
+    "r": "부사+주어+동사"
+   },
+   {
+    "en": "but it was a “sure-enough” Barlow,",
+    "ko": "하지만 그것은 '진짜' 발로 칼이었고",
+    "r": "대등절"
+   },
+   {
+    "en": "and there was inconceivable grandeur in that—though",
+    "ko": "거기에는 상상도 못 할 위엄이 있었다 — 하긴",
+    "r": "There was 구문+대시 양보 접속"
+   },
+   {
+    "en": "where the Western boys ever got the idea",
+    "ko": "서부 아이들이 대체 어디서 그런 생각을 얻었는지는",
+    "r": "긴 주어(간접의문절)"
+   },
+   {
+    "en": "that such a weapon could possibly be counterfeited",
+    "ko": "그런 무기가 위조될 수도 있다는 (생각)",
+    "r": "동격절(idea 의 내용)"
+   },
+   {
+    "en": "to its injury",
+    "ko": "그 칼(의 명성)에 흠이 가도록",
+    "r": "전치사구"
+   },
+   {
+    "en": "is an imposing mystery",
+    "ko": "대단한 수수께끼이며",
+    "r": "동사+보어(긴 주어의 동사)"
+   },
+   {
+    "en": "and will always remain so, perhaps.",
+    "ko": "아마 영원히 그럴 것이다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "4.20.0",
+  "en": "Mary gave him a tin basin of water and a piece of soap, and he went outside the door and set the basin on a little bench there; then he dipped the soap in the water and laid it down; turned up his sleeves; poured out the water on the ground, gently, and then entered the kitchen and began to wipe his face diligently on the towel behind the door.",
+  "s": "Mary",
+  "v": "gave",
+  "ko": "메리는 그에게 양철 대야에 담은 물과 비누 한 조각을 주었고, 그는 문 밖으로 나가 거기 작은 벤치 위에 대야를 놓았다. 그러고는 비누를 물에 담갔다가 내려놓고, 소매를 걷어 올리고, 물을 땅에 살살 쏟아 버린 다음, 부엌으로 들어가 문 뒤에 걸린 수건에 얼굴을 열심히 닦기 시작했다.",
+  "chunks": [
+   {
+    "en": "Mary gave him a tin basin of water and a piece of soap,",
+    "ko": "메리는 그에게 양철 대야에 담은 물과 비누 한 조각을 주었고",
+    "r": "주어+동사+간접목적어+직접목적어"
+   },
+   {
+    "en": "and he went outside the door",
+    "ko": "그는 문 밖으로 나가",
+    "r": "대등절"
+   },
+   {
+    "en": "and set the basin on a little bench there;",
+    "ko": "거기 작은 벤치 위에 대야를 놓았다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "then he dipped the soap in the water",
+    "ko": "그러고는 비누를 물에 담갔다가",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "and laid it down;",
+    "ko": "내려놓고",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "turned up his sleeves;",
+    "ko": "소매를 걷어 올리고",
+    "r": "동사구(주어 he 생략)"
+   },
+   {
+    "en": "poured out the water on the ground, gently,",
+    "ko": "물을 땅에 살살 쏟아 버린 다음",
+    "r": "동사구(주어 he 생략)"
+   },
+   {
+    "en": "and then entered the kitchen",
+    "ko": "부엌으로 들어가",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "and began to wipe his face diligently",
+    "ko": "얼굴을 열심히 닦기 시작했다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "on the towel behind the door.",
+    "ko": "문 뒤에 걸린 수건에",
+    "r": "전치사구(장소)"
+   }
+  ]
+ },
+ {
+  "id": "4.22.3",
+  "en": "But when he emerged from the towel, he was not yet satisfactory, for the clean territory stopped short at his chin and his jaws, like a mask; below and beyond this line there was a dark expanse of unirrigated soil that spread downward in front and backward around his neck.",
+  "s": "he",
+  "v": "was",
+  "ko": "하지만 수건에서 얼굴을 뗐을 때도 그는 아직 합격점이 아니었다. 깨끗해진 영역이 마치 가면처럼 턱과 턱뼈 선에서 딱 멈춰 있었기 때문이다. 이 선 아래와 그 너머로는 물이 닿지 않은 거무스름한 흙의 벌판이 앞으로는 아래쪽으로, 뒤로는 목 둘레로 퍼져 있었다.",
+  "chunks": [
+   {
+    "en": "But when he emerged from the towel,",
+    "ko": "하지만 그가 수건에서 얼굴을 뗐을 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he was not yet satisfactory,",
+    "ko": "그는 아직 합격점이 아니었다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "for the clean territory stopped short",
+    "ko": "왜냐하면 깨끗한 영역이 딱 멈춰 있었기 때문이다",
+    "r": "쉼표+for(=because)"
+   },
+   {
+    "en": "at his chin and his jaws, like a mask;",
+    "ko": "턱과 턱뼈 선에서, 마치 가면처럼",
+    "r": "전치사구(장소)+비유"
+   },
+   {
+    "en": "below and beyond this line",
+    "ko": "이 선 아래와 그 너머에는",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "there was a dark expanse of unirrigated soil",
+    "ko": "물이 닿지 않은 거무스름한 흙의 벌판이 있었다",
+    "r": "There was 구문"
+   },
+   {
+    "en": "that spread downward in front",
+    "ko": "앞으로는 아래쪽으로 퍼지고",
+    "r": "관계절(soil 설명)"
+   },
+   {
+    "en": "and backward around his neck.",
+    "ko": "뒤로는 목 둘레로 퍼진",
+    "r": "대등(관계절 계속)"
+   }
+  ]
+ },
+ {
+  "id": "4.22.4",
+  "en": "Mary took him in hand, and when she was done with him he was a man and a brother, without distinction of color, and his saturated hair was neatly brushed, and its short curls wrought into a dainty and symmetrical general effect.",
+  "s": "Mary",
+  "v": "took",
+  "ko": "메리가 그를 맡아 손봐 주었고, 손질이 끝나자 그는 피부색 구별 없이 어엿한 '사람이자 형제'가 되었다. 흠뻑 젖은 머리는 단정히 빗겨졌고, 짧은 곱슬머리는 앙증맞고 좌우 대칭인 모양으로 다듬어졌다.",
+  "chunks": [
+   {
+    "en": "Mary took him in hand,",
+    "ko": "메리가 그를 맡아 손봐 주었고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and when she was done with him",
+    "ko": "그녀의 손질이 끝났을 때",
+    "r": "접속+부사절(때)"
+   },
+   {
+    "en": "he was a man and a brother,",
+    "ko": "그는 어엿한 '사람이자 형제'였다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "without distinction of color,",
+    "ko": "피부색의 구별 없이",
+    "r": "전치사구(곁말)"
+   },
+   {
+    "en": "and his saturated hair was neatly brushed,",
+    "ko": "흠뻑 젖은 머리는 단정히 빗겨졌고",
+    "r": "대등절"
+   },
+   {
+    "en": "and its short curls wrought",
+    "ko": "짧은 곱슬머리는 다듬어졌다",
+    "r": "대등절(were 생략된 수동)"
+   },
+   {
+    "en": "into a dainty and symmetrical general effect.",
+    "ko": "앙증맞고 좌우 대칭인 전체 모양으로",
+    "r": "전치사구(결과)"
+   }
+  ]
+ },
+ {
+  "id": "4.22.7",
+  "en": "The girl “put him to rights” after he had dressed himself; she buttoned his neat roundabout up to his chin, turned his vast shirt collar down over his shoulders, brushed him off and crowned him with his speckled straw hat.",
+  "s": "The girl",
+  "v": "put",
+  "ko": "그 소녀는 톰이 옷을 다 입은 뒤 그를 '제대로 매만져 주었다'. 단정한 짧은 재킷 단추를 턱까지 채워 주고, 커다란 셔츠 깃을 어깨 위로 접어 내리고, 옷을 털어 준 다음, 얼룩무늬 밀짚모자를 씌워 마무리했다.",
+  "chunks": [
+   {
+    "en": "The girl “put him to rights”",
+    "ko": "그 소녀는 그를 '제대로 매만져 주었다'",
+    "r": "주어+동사(관용구)"
+   },
+   {
+    "en": "after he had dressed himself;",
+    "ko": "그가 옷을 다 입은 뒤에",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "she buttoned his neat roundabout up to his chin,",
+    "ko": "그녀는 그의 단정한 짧은 재킷 단추를 턱까지 채우고",
+    "r": "세미콜론 뒤 새 절"
+   },
+   {
+    "en": "turned his vast shirt collar down over his shoulders,",
+    "ko": "커다란 셔츠 깃을 어깨 위로 접어 내리고",
+    "r": "동사구(주어 she 생략)"
+   },
+   {
+    "en": "brushed him off",
+    "ko": "옷을 털어 준 뒤",
+    "r": "동사구(주어 she 생략)"
+   },
+   {
+    "en": "and crowned him with his speckled straw hat.",
+    "ko": "얼룩무늬 밀짚모자를 씌워 마무리했다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "4.32.5",
+  "en": "The teacher, a grave, elderly man, interfered; then turned his back a moment and Tom pulled a boy’s hair in the next bench, and was absorbed in his book when the boy turned around; stuck a pin in another boy, presently, in order to hear him say “Ouch!” and got a new reprimand from his teacher.",
+  "s": "The teacher",
+  "v": "interfered",
+  "ko": "엄숙한 노인인 선생님이 끼어들어 말렸다. 그러고는 잠시 등을 돌렸는데, 톰은 옆 의자 아이의 머리를 잡아당기고는 그 아이가 돌아봤을 때는 책에 푹 빠진 척하고 있었다. 곧이어 다른 아이를 핀으로 찔러 '아야!' 소리를 듣고는 선생님에게 또 꾸지람을 들었다.",
+  "chunks": [
+   {
+    "en": "The teacher, a grave, elderly man, interfered;",
+    "ko": "엄숙한 노인인 선생님이 끼어들어 말렸다",
+    "r": "주어+동격+동사"
+   },
+   {
+    "en": "then turned his back a moment",
+    "ko": "그러고는 잠시 등을 돌렸는데",
+    "r": "동사구(주어 The teacher 생략)"
+   },
+   {
+    "en": "and Tom pulled a boy’s hair in the next bench,",
+    "ko": "톰은 옆 의자에 앉은 아이의 머리를 잡아당기고",
+    "r": "대등절"
+   },
+   {
+    "en": "and was absorbed in his book",
+    "ko": "책에 푹 빠진 척하고 있었다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "when the boy turned around;",
+    "ko": "그 아이가 돌아보았을 때는",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "stuck a pin in another boy, presently,",
+    "ko": "곧이어 다른 아이를 핀으로 찌르고",
+    "r": "동사구(주어 Tom 생략)"
+   },
+   {
+    "en": "in order to hear him say “Ouch!”",
+    "ko": "그 아이가 '아야!' 하는 소리를 들으려고",
+    "r": "목적(~하려고)"
+   },
+   {
+    "en": "and got a new reprimand from his teacher.",
+    "ko": "선생님에게 또 꾸지람을 들었다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "4.32.9",
+  "en": "Ten blue tickets equalled a red one, and could be exchanged for it; ten red tickets equalled a yellow one; for ten yellow tickets the superintendent gave a very plainly bound Bible (worth forty cents in those easy times) to the pupil.",
+  "s": "Ten blue tickets",
+  "v": "equalled",
+  "ko": "파란 표 열 장은 빨간 표 한 장과 같아서 서로 바꿀 수 있었고, 빨간 표 열 장은 노란 표 한 장과 같았다. 노란 표 열 장을 가져오면 교장이 그 학생에게 아주 수수하게 제본된 성경 한 권(물가가 싸던 그 시절에 40센트짜리)을 주었다.",
+  "chunks": [
+   {
+    "en": "Ten blue tickets equalled a red one,",
+    "ko": "파란 표 열 장은 빨간 표 한 장과 같았고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and could be exchanged for it;",
+    "ko": "그것과 바꿀 수 있었다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "ten red tickets equalled a yellow one;",
+    "ko": "빨간 표 열 장은 노란 표 한 장과 같았다",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "for ten yellow tickets",
+    "ko": "노란 표 열 장과 바꾸어",
+    "r": "전치사구(교환 조건)"
+   },
+   {
+    "en": "the superintendent gave a very plainly bound Bible",
+    "ko": "교장은 아주 수수하게 제본된 성경 한 권을 주었다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "(worth forty cents in those easy times)",
+    "ko": "(물가가 싸던 그 시절에 40센트짜리)",
+    "r": "괄호 삽입"
+   },
+   {
+    "en": "to the pupil.",
+    "ko": "그 학생에게",
+    "r": "전치사구(대상)"
+   }
+  ]
+ },
+ {
+  "id": "4.32.12",
+  "en": "He once recited three thousand verses without stopping; but the strain upon his mental faculties was too great, and he was little better than an idiot from that day forth—a grievous misfortune for the school, for on great occasions, before company, the superintendent (as Tom expressed it) had always made this boy come out and “spread himself.”",
+  "s": "He",
+  "v": "recited",
+  "ko": "그 아이는 한번은 쉬지 않고 3천 구절을 암송했다. 하지만 정신에 걸린 부담이 너무 커서 그날 이후로 바보나 다름없게 되었다. 학교로서는 통탄할 불운이었다. 큰 행사 때 손님들 앞에서 교장은 (톰의 표현을 빌리면) 늘 이 아이를 앞으로 불러내어 '실력을 뽐내게' 했었기 때문이다.",
+  "chunks": [
+   {
+    "en": "He once recited three thousand verses without stopping;",
+    "ko": "그 아이는 한번은 쉬지 않고 3천 구절을 암송했다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "but the strain upon his mental faculties was too great,",
+    "ko": "하지만 정신 능력에 걸린 부담이 너무 커서",
+    "r": "대등절"
+   },
+   {
+    "en": "and he was little better than an idiot",
+    "ko": "그는 바보나 다름없게 되었다",
+    "r": "대등절"
+   },
+   {
+    "en": "from that day forth—a grievous misfortune for the school,",
+    "ko": "그날 이후로 — 학교로서는 통탄할 불운이었다",
+    "r": "시간+곁말(대시 삽입, 동격)"
+   },
+   {
+    "en": "for on great occasions, before company,",
+    "ko": "왜냐하면 큰 행사 때, 손님들 앞에서",
+    "r": "쉼표+for(=because)+시간"
+   },
+   {
+    "en": "the superintendent (as Tom expressed it)",
+    "ko": "교장은 (톰의 표현을 빌리면)",
+    "r": "주어+괄호 삽입"
+   },
+   {
+    "en": "had always made this boy come out",
+    "ko": "늘 이 아이를 앞으로 불러내어",
+    "r": "동사(사역: ~하게 만들다)"
+   },
+   {
+    "en": "and “spread himself.”",
+    "ko": "'실력을 뽐내게' 했기 때문이다",
+    "r": "대등(사역의 두 번째 동사)"
+   }
+  ]
+ },
+ {
+  "id": "4.32.13",
+  "en": "Only the older pupils managed to keep their tickets and stick to their tedious work long enough to get a Bible, and so the delivery of one of these prizes was a rare and noteworthy circumstance; the successful pupil was so great and conspicuous for that day that on the spot every scholar’s heart was fired with a fresh ambition that often lasted a couple of weeks.",
+  "s": "the older pupils",
+  "v": "managed",
+  "ko": "나이 많은 학생들만이 표를 간직하고 그 지루한 공부를 성경을 받을 만큼 오래 붙들 수 있었기에, 이 상이 수여되는 일은 드물고 눈에 띄는 사건이었다. 성공한 학생은 그날 하루 너무나 위대하고 돋보여서, 그 자리에서 모든 학생의 가슴에 새로운 야망의 불이 붙었다 — 그 야망은 대개 두어 주쯤 갔다.",
+  "chunks": [
+   {
+    "en": "Only the older pupils managed to keep their tickets",
+    "ko": "나이 많은 학생들만이 표를 간직하고",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "and stick to their tedious work",
+    "ko": "지루한 공부를 계속 붙들 수 있었다",
+    "r": "대등 동사구"
+   },
+   {
+    "en": "long enough to get a Bible,",
+    "ko": "성경을 받을 만큼 오래",
+    "r": "부사(정도)"
+   },
+   {
+    "en": "and so the delivery of one of these prizes",
+    "ko": "그래서 이 상 하나가 수여되는 일은",
+    "r": "접속+주어"
+   },
+   {
+    "en": "was a rare and noteworthy circumstance;",
+    "ko": "드물고 눈에 띄는 사건이었다",
+    "r": "동사+보어"
+   },
+   {
+    "en": "the successful pupil was so great and conspicuous for that day",
+    "ko": "성공한 학생은 그날 하루 너무나 위대하고 돋보여서",
+    "r": "세미콜론 뒤 절(so ~ that)"
+   },
+   {
+    "en": "that on the spot every scholar’s heart was fired",
+    "ko": "그 자리에서 모든 학생의 가슴에 불이 붙었다",
+    "r": "that절(결과)"
+   },
+   {
+    "en": "with a fresh ambition",
+    "ko": "새로운 야망으로",
+    "r": "전치사구"
+   },
+   {
+    "en": "that often lasted a couple of weeks.",
+    "ko": "그 야망은 대개 두어 주쯤 갔다",
+    "r": "관계절(ambition 설명)"
+   }
+  ]
+ },
+ {
+  "id": "4.33.1",
+  "en": "When a Sunday-school superintendent makes his customary little speech, a hymn-book in the hand is as necessary as is the inevitable sheet of music in the hand of a singer who stands forward on the platform and sings a solo at a concert—though why, is a mystery: for neither the hymn-book nor the sheet of music is ever referred to by the sufferer.",
+  "s": "a hymn-book in the hand",
+  "v": "is",
+  "ko": "주일학교 교장이 늘 하는 짧은 연설을 할 때, 손에 든 찬송가책은 콘서트에서 무대 앞으로 나와 독창하는 가수 손에 반드시 들려 있는 악보만큼이나 필수품이다. 그런데 왜 그런지는 수수께끼다. 찬송가책이든 악보든 그 '고생하는 사람'이 한 번도 들여다보지 않으니 말이다.",
+  "chunks": [
+   {
+    "en": "When a Sunday-school superintendent makes his customary little speech,",
+    "ko": "주일학교 교장이 늘 하는 짧은 연설을 할 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "a hymn-book in the hand is as necessary",
+    "ko": "손에 든 찬송가책은 꼭 필요하다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "as is the inevitable sheet of music",
+    "ko": "반드시 들고 나오는 악보가 (필요한) 만큼",
+    "r": "비교(as ~ as, 동사 도치)"
+   },
+   {
+    "en": "in the hand of a singer",
+    "ko": "가수의 손에 든",
+    "r": "전치사구"
+   },
+   {
+    "en": "who stands forward on the platform",
+    "ko": "무대 앞으로 나와 서서",
+    "r": "관계절(singer 설명)"
+   },
+   {
+    "en": "and sings a solo at a concert—though why, is a mystery:",
+    "ko": "콘서트에서 독창하는 (가수) — 그런데 왜인지는 수수께끼다",
+    "r": "대등(관계절 계속)+대시 곁말"
+   },
+   {
+    "en": "for neither the hymn-book nor the sheet of music",
+    "ko": "왜냐하면 찬송가책도 악보도",
+    "r": "for(=because)+주어"
+   },
+   {
+    "en": "is ever referred to by the sufferer.",
+    "ko": "그 '고생하는 사람'이 한 번도 들여다보지 않기 때문이다",
+    "r": "동사(수동)"
+   }
+  ]
+ },
+ {
+  "id": "4.33.2",
+  "en": "This superintendent was a slim creature of thirty-five, with a sandy goatee and short sandy hair; he wore a stiff standing-collar whose upper edge almost reached his ears and whose sharp points curved forward abreast the corners of his mouth—a fence that compelled a straight lookout ahead, and a turning of the whole body when a side view was required; his chin was propped on a spreading cravat which was as broad and as long as a bank-note, and had fringed ends; his boot toes were turned sharply up, in the fashion of the day, like sleigh-runners—an effect patiently and laboriously produced by the young men by sitting with their toes pressed against a wall for hours together.",
+  "s": "This superintendent",
+  "v": "was",
+  "ko": "이 교장은 서른다섯 살의 호리호리한 인물로, 모래색 염소수염에 짧은 모래색 머리를 하고 있었다. 빳빳하게 세운 옷깃을 달고 있었는데, 그 깃의 윗가장자리는 귀에 거의 닿았고 뾰족한 끝은 입꼬리와 나란할 만큼 앞으로 휘어져 있었다 — 그야말로 곧장 앞만 보게 하고, 옆을 볼 때는 몸 전체를 돌리게 만드는 울타리였다. 턱은 지폐만큼 넓고 긴, 끝에 술이 달린 크라바트(넥타이) 위에 받쳐져 있었고, 부츠 앞코는 당시 유행대로 썰매 날처럼 위로 뾰족하게 올라가 있었다 — 젊은이들이 발끝을 벽에 대고 몇 시간이고 앉아 있음으로써 참을성 있게 공들여 만들어 낸 효과였다.",
+  "chunks": [
+   {
+    "en": "This superintendent was a slim creature of thirty-five,",
+    "ko": "이 교장은 서른다섯 살의 호리호리한 인물로",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "with a sandy goatee and short sandy hair;",
+    "ko": "모래색 염소수염에 짧은 모래색 머리를 하고 있었다",
+    "r": "전치사구(외모)"
+   },
+   {
+    "en": "he wore a stiff standing-collar",
+    "ko": "그는 빳빳하게 세운 옷깃을 달고 있었는데",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "whose upper edge almost reached his ears",
+    "ko": "그 깃의 윗가장자리는 귀에 거의 닿았고",
+    "r": "관계절(collar 설명)"
+   },
+   {
+    "en": "and whose sharp points curved forward",
+    "ko": "뾰족한 끝은 앞으로 휘어져",
+    "r": "관계절(collar 설명)"
+   },
+   {
+    "en": "abreast the corners of his mouth—a fence",
+    "ko": "입꼬리와 나란히 있었다 — 그것은 하나의 울타리였는데",
+    "r": "전치사구(위치)+곁말(대시 삽입)"
+   },
+   {
+    "en": "that compelled a straight lookout ahead,",
+    "ko": "곧장 앞만 보게 만들고",
+    "r": "관계절(fence 설명)"
+   },
+   {
+    "en": "and a turning of the whole body",
+    "ko": "몸 전체를 돌리게 만드는",
+    "r": "대등(compelled 의 두 번째 목적어)"
+   },
+   {
+    "en": "when a side view was required;",
+    "ko": "옆을 봐야 할 때는",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "his chin was propped on a spreading cravat",
+    "ko": "그의 턱은 넓게 펼쳐진 크라바트(넥타이) 위에 받쳐져 있었는데",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "which was as broad and as long as a bank-note,",
+    "ko": "그것은 지폐만큼 넓고 길었고",
+    "r": "관계절(cravat 설명)"
+   },
+   {
+    "en": "and had fringed ends;",
+    "ko": "끝에 술이 달려 있었다",
+    "r": "대등(관계절 계속)"
+   },
+   {
+    "en": "his boot toes were turned sharply up,",
+    "ko": "그의 부츠 앞코는 위로 뾰족하게 올라가 있었다",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "in the fashion of the day, like sleigh-runners—an effect",
+    "ko": "당시 유행대로, 썰매 날처럼 — 그것은 하나의 효과였는데",
+    "r": "전치사구+비유+곁말(대시 삽입)"
+   },
+   {
+    "en": "patiently and laboriously produced by the young men",
+    "ko": "젊은이들이 참을성 있게 공들여 만들어 낸",
+    "r": "과거분사구(effect 설명)"
+   },
+   {
+    "en": "by sitting with their toes pressed against a wall",
+    "ko": "발끝을 벽에 대고 눌러 앉아 있음으로써",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "for hours together.",
+    "ko": "몇 시간이고 계속",
+    "r": "시간"
+   }
+  ]
+ },
+ {
+  "id": "4.33.3",
+  "en": "Mr. Walters was very earnest of mien, and very sincere and honest at heart; and he held sacred things and places in such reverence, and so separated them from worldly matters, that unconsciously to himself his Sunday-school voice had acquired a peculiar intonation which was wholly absent on week-days.",
+  "s": "Mr. Walters",
+  "v": "was",
+  "ko": "월터스 씨는 표정과 태도가 매우 진지했고 마음속으로도 매우 성실하고 정직했다. 그리고 신성한 것과 장소를 어찌나 경외하고 세속의 일과 철저히 구별했던지, 자기도 모르는 사이에 그의 주일학교용 목소리는 평일에는 전혀 나오지 않는 독특한 억양을 갖게 되었다.",
+  "chunks": [
+   {
+    "en": "Mr. Walters was very earnest of mien,",
+    "ko": "월터스 씨는 표정과 태도가 매우 진지했고",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "and very sincere and honest at heart;",
+    "ko": "마음속으로도 매우 성실하고 정직했다",
+    "r": "대등 보어"
+   },
+   {
+    "en": "and he held sacred things and places in such reverence,",
+    "ko": "그리고 그는 신성한 것과 장소를 어찌나 경외했고",
+    "r": "대등절(such ~ that)"
+   },
+   {
+    "en": "and so separated them from worldly matters,",
+    "ko": "그것들을 세속의 일과 어찌나 철저히 구별했는지",
+    "r": "대등 동사구(so ~ that)"
+   },
+   {
+    "en": "that unconsciously to himself",
+    "ko": "자기도 모르는 사이에",
+    "r": "that절(결과) 시작"
+   },
+   {
+    "en": "his Sunday-school voice had acquired a peculiar intonation",
+    "ko": "그의 주일학교용 목소리는 독특한 억양을 갖게 되었다",
+    "r": "주어+동사+목적어"
+   },
+   {
+    "en": "which was wholly absent on week-days.",
+    "ko": "평일에는 전혀 나오지 않는 (억양)",
+    "r": "관계절(intonation 설명)"
+   }
+  ]
+ },
+ {
+  "id": "4.35.0",
+  "en": "The latter third of the speech was marred by the resumption of fights and other recreations among certain of the bad boys, and by fidgetings and whisperings that extended far and wide, washing even to the bases of isolated and incorruptible rocks like Sid and Mary.",
+  "s": "The latter third of the speech",
+  "v": "was marred",
+  "ko": "연설의 마지막 3분의 1은 몇몇 나쁜 아이들 사이에서 다시 시작된 싸움과 장난, 그리고 사방으로 퍼져 나간 꼼지락거림과 속삭임 때문에 망쳐졌다. 그 소란은 시드와 메리처럼 외따로 서서 흔들리지 않는 바위의 발치에까지 파도처럼 밀려왔다.",
+  "chunks": [
+   {
+    "en": "The latter third of the speech was marred",
+    "ko": "연설의 마지막 3분의 1은 망쳐졌다",
+    "r": "주어+동사(수동)"
+   },
+   {
+    "en": "by the resumption of fights and other recreations",
+    "ko": "싸움과 다른 장난들이 다시 시작된 것 때문에",
+    "r": "전치사구(원인)"
+   },
+   {
+    "en": "among certain of the bad boys,",
+    "ko": "몇몇 나쁜 아이들 사이에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "and by fidgetings and whisperings",
+    "ko": "그리고 꼼지락거림과 속삭임 때문에",
+    "r": "대등 전치사구(원인)"
+   },
+   {
+    "en": "that extended far and wide,",
+    "ko": "멀리 널리 퍼져 나간",
+    "r": "관계절(fidgetings and whisperings 설명)"
+   },
+   {
+    "en": "washing even to the bases of isolated and incorruptible rocks",
+    "ko": "외따로 서 있는 흔들림 없는 바위의 발치까지 밀려오면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "like Sid and Mary.",
+    "ko": "시드와 메리 같은 (바위)",
+    "r": "비유"
+   }
+  ]
+ },
+ {
+  "id": "4.36.0",
+  "en": "A good part of the whispering had been occasioned by an event which was more or less rare—the entrance of visitors: lawyer Thatcher, accompanied by a very feeble and aged man; a fine, portly, middle-aged gentleman with iron-gray hair; and a dignified lady who was doubtless the latter’s wife.",
+  "s": "A good part of the whispering",
+  "v": "had been occasioned",
+  "ko": "속삭임의 상당 부분은 다소 드문 사건 — 방문객의 입장 — 때문에 일어난 것이었다. 매우 쇠약한 노인과 함께 온 변호사 대처, 철회색 머리에 풍채 좋고 살집 있는 중년 신사, 그리고 틀림없이 그 신사의 아내일 기품 있는 부인이었다.",
+  "chunks": [
+   {
+    "en": "A good part of the whispering had been occasioned",
+    "ko": "속삭임의 상당 부분은 ~ 때문에 일어난 것이었다",
+    "r": "주어+동사(수동)"
+   },
+   {
+    "en": "by an event",
+    "ko": "어떤 사건 때문에",
+    "r": "전치사구(원인)"
+   },
+   {
+    "en": "which was more or less rare—the entrance of visitors:",
+    "ko": "다소 드문 사건, 즉 방문객의 입장이었다",
+    "r": "관계절(event 설명)+곁말(대시 동격)"
+   },
+   {
+    "en": "lawyer Thatcher,",
+    "ko": "변호사 대처,",
+    "r": "나열1"
+   },
+   {
+    "en": "accompanied by a very feeble and aged man;",
+    "ko": "매우 쇠약한 노인과 함께 온",
+    "r": "과거분사구(Thatcher 설명)"
+   },
+   {
+    "en": "a fine, portly, middle-aged gentleman with iron-gray hair;",
+    "ko": "철회색 머리에 풍채 좋고 살집 있는 중년 신사,",
+    "r": "나열2"
+   },
+   {
+    "en": "and a dignified lady",
+    "ko": "그리고 기품 있는 부인",
+    "r": "나열3"
+   },
+   {
+    "en": "who was doubtless the latter’s wife.",
+    "ko": "틀림없이 그 신사(후자)의 아내인",
+    "r": "관계절(lady 설명)"
+   }
+  ]
+ },
+ {
+  "id": "4.37.1",
+  "en": "The middle-aged man turned out to be a prodigious personage—no less a one than the county judge—altogether the most august creation these children had ever looked upon—and they wondered what kind of material he was made of—and they half wanted to hear him roar, and were half afraid he might, too.",
+  "s": "The middle-aged man",
+  "v": "turned out",
+  "ko": "그 중년 남자는 알고 보니 굉장한 인물 — 다름 아닌 카운티 판사 — 이 아이들이 여태껏 본 것 중 그야말로 가장 위엄 있는 존재였다. 아이들은 그가 어떤 재료로 만들어졌을까 궁금해했고, 반쯤은 그가 으르렁거리는 소리를 듣고 싶었고, 반쯤은 정말 그럴까 봐 두렵기도 했다.",
+  "chunks": [
+   {
+    "en": "The middle-aged man turned out to be",
+    "ko": "그 중년 남자는 알고 보니 ~였다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "a prodigious personage—no less a one than the county judge—altogether",
+    "ko": "굉장한 인물 — 다름 아닌 카운티 판사 — 그야말로",
+    "r": "보어+곁말(대시 삽입: 다름 아닌 ~)"
+   },
+   {
+    "en": "the most august creation these children had ever looked upon—and",
+    "ko": "이 아이들이 여태껏 본 것 중 가장 위엄 있는 존재였다 — 그리고",
+    "r": "최상급 보어+관계절(that 생략)"
+   },
+   {
+    "en": "they wondered what kind of material he was made of—and",
+    "ko": "아이들은 그가 어떤 재료로 만들어졌을지 궁금해했다 — 그리고",
+    "r": "대등절(간접의문문)"
+   },
+   {
+    "en": "they half wanted to hear him roar,",
+    "ko": "반쯤은 그가 으르렁거리는 소리를 듣고 싶었고",
+    "r": "대등절"
+   },
+   {
+    "en": "and were half afraid he might, too.",
+    "ko": "반쯤은 정말 그럴까 봐 두렵기도 했다",
+    "r": "대등 동사구"
+   }
+  ]
+ },
+ {
+  "id": "4.39.3",
+  "en": "The young gentlemen teachers “showed off” with small scoldings and other little displays of authority and fine attention to discipline—and most of the teachers, of both sexes, found business up at the library, by the pulpit; and it was business that frequently had to be done over again two or three times (with much seeming vexation).",
+  "s": "The young gentlemen teachers",
+  "v": "showed off",
+  "ko": "젊은 남자 선생님들은 소소한 꾸지람과 자잘한 권위 과시, 규율에 대한 세심한 신경 씀으로 '잘난 척'을 했다. 그리고 남녀 할 것 없이 대부분의 선생님들이 설교단 옆 서가 쪽에서 볼일을 찾아냈는데, 그 볼일은 (몹시 짜증 난다는 듯이) 두세 번씩 자꾸 다시 해야 하는 일이었다.",
+  "chunks": [
+   {
+    "en": "The young gentlemen teachers “showed off”",
+    "ko": "젊은 남자 선생님들은 '잘난 척'을 했다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "with small scoldings and other little displays of authority",
+    "ko": "소소한 꾸지람과 다른 자잘한 권위 과시로",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "and fine attention to discipline—and",
+    "ko": "그리고 규율에 대한 세심한 신경 씀으로 — 그리고",
+    "r": "대등 명사구+대시 접속"
+   },
+   {
+    "en": "most of the teachers, of both sexes,",
+    "ko": "남녀 할 것 없이 대부분의 선생님들은",
+    "r": "주어(대등절)"
+   },
+   {
+    "en": "found business up at the library, by the pulpit;",
+    "ko": "설교단 옆 서가 쪽에서 볼일을 찾아냈다",
+    "r": "동사+목적어+장소"
+   },
+   {
+    "en": "and it was business",
+    "ko": "그리고 그것은 (~한) 볼일이었다",
+    "r": "It was ~ that 구문"
+   },
+   {
+    "en": "that frequently had to be done over again",
+    "ko": "자주 다시 해야 하는",
+    "r": "관계절(business 설명)"
+   },
+   {
+    "en": "two or three times (with much seeming vexation).",
+    "ko": "두세 번씩 (몹시 짜증 난다는 듯이)",
+    "r": "횟수+괄호 삽입"
+   }
+  ]
+ },
+ {
+  "id": "4.41.6",
+  "en": "The boys were all eaten up with envy—but those that suffered the bitterest pangs were those who perceived too late that they themselves had contributed to this hated splendor by trading tickets to Tom for the wealth he had amassed in selling whitewashing privileges.",
+  "s": "The boys",
+  "v": "were all eaten up",
+  "ko": "아이들은 모두 질투에 사로잡혔다. 하지만 가장 쓰라린 고통을 겪은 아이들은, 자기들 스스로가 이 미운 영광에 한몫했다는 걸 너무 늦게 깨달은 아이들이었다 — 톰이 담장 칠할 권리를 팔아 긁어모은 재물과 바꾸어 톰에게 표를 팔아넘겼으니 말이다.",
+  "chunks": [
+   {
+    "en": "The boys were all eaten up with envy—but",
+    "ko": "아이들은 모두 질투에 사로잡혔다 — 하지만",
+    "r": "주어+동사(수동)+대시 접속"
+   },
+   {
+    "en": "those that suffered the bitterest pangs",
+    "ko": "가장 쓰라린 고통을 겪은 아이들은",
+    "r": "주어(관계절 포함)"
+   },
+   {
+    "en": "were those who perceived too late",
+    "ko": "너무 늦게 깨달은 아이들이었다",
+    "r": "동사+보어(관계절)"
+   },
+   {
+    "en": "that they themselves had contributed to this hated splendor",
+    "ko": "자기들 스스로가 이 미운 영광에 한몫했다는 것을",
+    "r": "목적어절(perceived 의 내용)"
+   },
+   {
+    "en": "by trading tickets to Tom",
+    "ko": "톰에게 표를 팔아넘김으로써",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "for the wealth he had amassed",
+    "ko": "그가 긁어모은 재물과 바꾸어",
+    "r": "전치사구+관계절(that 생략)"
+   },
+   {
+    "en": "in selling whitewashing privileges.",
+    "ko": "담장 칠할 권리를 팔아서",
+    "r": "전치사구(방법)"
+   }
+  ]
+ },
+ {
+  "id": "4.42.0",
+  "en": "The prize was delivered to Tom with as much effusion as the superintendent could pump up under the circumstances; but it lacked somewhat of the true gush, for the poor fellow’s instinct taught him that there was a mystery here that could not well bear the light, perhaps; it was simply preposterous that this boy had warehoused two thousand sheaves of Scriptural wisdom on his premises—a dozen would strain his capacity, without a doubt.",
+  "s": "The prize",
+  "v": "was delivered",
+  "ko": "상은 그 상황에서 교장이 짜낼 수 있는 최대한의 감격을 담아 톰에게 수여되었다. 하지만 진짜 감격의 분출은 좀 부족했다. 그 딱한 양반의 직감이, 여기에는 아마도 빛을 보면 곤란한 수상한 점이 있다고 일러 주었기 때문이다. 이 아이가 성경 지혜의 볏단 2천 개를 자기 창고(머릿속)에 쟁여 두었다는 건 정말 말도 안 되는 일이었다 — 열두 개만 해도 그의 용량에 무리일 게 틀림없었다.",
+  "chunks": [
+   {
+    "en": "The prize was delivered to Tom",
+    "ko": "상은 톰에게 수여되었다",
+    "r": "주어+동사(수동)"
+   },
+   {
+    "en": "with as much effusion as the superintendent could pump up",
+    "ko": "교장이 짜낼 수 있는 만큼의 감격을 담아",
+    "r": "전치사구(as ~ as 비교)"
+   },
+   {
+    "en": "under the circumstances;",
+    "ko": "그 상황에서",
+    "r": "전치사구"
+   },
+   {
+    "en": "but it lacked somewhat of the true gush,",
+    "ko": "하지만 진짜 감격의 분출은 좀 부족했다",
+    "r": "대등절"
+   },
+   {
+    "en": "for the poor fellow’s instinct taught him",
+    "ko": "왜냐하면 그 딱한 양반의 직감이 그에게 일러 주었기 때문이다",
+    "r": "쉼표+for(=because)"
+   },
+   {
+    "en": "that there was a mystery here",
+    "ko": "여기에 뭔가 수상한 점이 있다고",
+    "r": "목적어절(There was)"
+   },
+   {
+    "en": "that could not well bear the light, perhaps;",
+    "ko": "아마도 빛을 보면 곤란할 (수상한 점)",
+    "r": "관계절(mystery 설명)"
+   },
+   {
+    "en": "it was simply preposterous",
+    "ko": "정말 말도 안 되는 일이었다",
+    "r": "It was ~ that(가주어)"
+   },
+   {
+    "en": "that this boy had warehoused two thousand sheaves of Scriptural wisdom",
+    "ko": "이 아이가 성경 지혜의 볏단 2천 개를 창고에 쟁여 두었다는 것은",
+    "r": "that절(진주어)"
+   },
+   {
+    "en": "on his premises—a dozen",
+    "ko": "자기 창고(머릿속)에 — 열두 개만 해도",
+    "r": "전치사구+곁말(대시 삽입) 시작"
+   },
+   {
+    "en": "would strain his capacity, without a doubt.",
+    "ko": "그의 용량에 무리였을 것이다, 틀림없이",
+    "r": "동사+목적어"
+   }
+  ]
+ },
+ {
+  "id": "4.43.1",
+  "en": "She wondered; then she was just a grain troubled; next a dim suspicion came and went—came again; she watched; a furtive glance told her worlds—and then her heart broke, and she was jealous, and angry, and the tears came and she hated everybody.",
+  "s": "She",
+  "v": "wondered",
+  "ko": "그녀는 의아해했다. 그러다 아주 조금 마음이 불편해졌고, 이어서 희미한 의심이 스쳤다가 사라지고 — 다시 찾아왔다. 그녀는 지켜보았다. 몰래 훔쳐본 한 번의 눈길이 모든 것을 말해 주었다 — 그러자 가슴이 무너졌고, 질투가 나고, 화가 나고, 눈물이 났고, 모두가 미웠다.",
+  "chunks": [
+   {
+    "en": "She wondered;",
+    "ko": "그녀는 의아해했다",
+    "r": "주어+동사"
+   },
+   {
+    "en": "then she was just a grain troubled;",
+    "ko": "그러다 아주 조금 마음이 불편해졌고",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "next a dim suspicion came and went—came again;",
+    "ko": "이어서 희미한 의심이 스쳤다가 사라지고 — 다시 왔다",
+    "r": "세미콜론 뒤 절+대시"
+   },
+   {
+    "en": "she watched;",
+    "ko": "그녀는 지켜보았다",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "a furtive glance told her worlds—and",
+    "ko": "몰래 훔쳐본 한 번의 눈길이 모든 것을 말해 주었다 — 그리고",
+    "r": "세미콜론 뒤 절+대시 접속"
+   },
+   {
+    "en": "then her heart broke,",
+    "ko": "그러자 그녀의 가슴은 무너졌고",
+    "r": "대등절"
+   },
+   {
+    "en": "and she was jealous, and angry,",
+    "ko": "질투가 나고, 화가 나고",
+    "r": "대등절"
+   },
+   {
+    "en": "and the tears came and she hated everybody.",
+    "ko": "눈물이 났고 모두가 미웠다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "4.51.5",
+  "en": "And you never can be sorry for the trouble you took to learn them; for knowledge is worth more than anything there is in the world; it’s what makes great men and good men; you’ll be a great man and a good man yourself, some day, Thomas, and then you’ll look back and say, It’s all owing to the precious Sunday-school privileges of my boyhood—it’s all owing to my dear teachers that taught me to learn—it’s all owing to the good superintendent, who encouraged me, and watched over me, and gave me a beautiful Bible—a splendid elegant Bible—to keep and have it all for my own, always—it’s all owing to right bringing up!",
+  "s": "you",
+  "v": "can be",
+  "ko": "그리고 그것들을 외우느라 들인 수고를 너는 결코 후회하지 않을 거다. 지식은 세상 그 무엇보다 값진 것이고, 위대한 사람과 훌륭한 사람을 만드는 게 바로 지식이니까. 너도 언젠가 위대하고 훌륭한 사람이 될 거야, 토머스. 그때 뒤돌아보며 이렇게 말하겠지 — 이게 다 어린 시절 소중한 주일학교의 은혜 덕분이다, 다 배우는 법을 가르쳐 주신 선생님들 덕분이다, 다 나를 격려하고 지켜봐 주시고 아름다운 성경을 — 훌륭하고 우아한 성경을 — 영원히 온전히 내 것으로 간직하라고 주신 훌륭한 교장 선생님 덕분이다, 다 올바른 가정교육 덕분이다!",
+  "chunks": [
+   {
+    "en": "And you never can be sorry for the trouble",
+    "ko": "그리고 너는 그 수고를 결코 후회하지 않을 거다",
+    "r": "주어+동사+보어"
+   },
+   {
+    "en": "you took to learn them;",
+    "ko": "그것들을 외우느라 들인 (수고)",
+    "r": "관계절(that 생략, trouble 설명)"
+   },
+   {
+    "en": "for knowledge is worth more",
+    "ko": "왜냐하면 지식은 더 값지기 때문이다",
+    "r": "for(=because)+주어+동사"
+   },
+   {
+    "en": "than anything there is in the world;",
+    "ko": "세상에 있는 그 무엇보다도",
+    "r": "비교(than)"
+   },
+   {
+    "en": "it’s what makes great men and good men;",
+    "ko": "지식이 바로 위대한 사람과 훌륭한 사람을 만드는 것이다",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "you’ll be a great man and a good man yourself,",
+    "ko": "너도 위대하고 훌륭한 사람이 될 거다",
+    "r": "세미콜론 뒤 절"
+   },
+   {
+    "en": "some day, Thomas,",
+    "ko": "언젠가는, 토머스",
+    "r": "시간+호칭"
+   },
+   {
+    "en": "and then you’ll look back and say,",
+    "ko": "그때 뒤돌아보며 이렇게 말하겠지",
+    "r": "대등절+전달동사"
+   },
+   {
+    "en": "It’s all owing to the precious Sunday-school privileges",
+    "ko": "이게 다 소중한 주일학교의 은혜 덕분이다",
+    "r": "인용(미래의 속말)"
+   },
+   {
+    "en": "of my boyhood—it’s all owing to my dear teachers",
+    "ko": "내 어린 시절의 — 다 나를 가르쳐 주신 선생님들 덕분이다",
+    "r": "전치사구+대시 반복"
+   },
+   {
+    "en": "that taught me to learn—it’s all owing to the good superintendent,",
+    "ko": "배우는 법을 가르쳐 주신 — 다 훌륭한 교장 선생님 덕분이다",
+    "r": "관계절(teachers 설명)+대시 반복"
+   },
+   {
+    "en": "who encouraged me, and watched over me,",
+    "ko": "나를 격려하고 지켜봐 주신",
+    "r": "관계절(superintendent 설명)"
+   },
+   {
+    "en": "and gave me a beautiful Bible—a splendid elegant Bible—to keep and have it all",
+    "ko": "아름다운 성경을 — 훌륭하고 우아한 성경을 — 온전히 간직하고 가지라고 주신",
+    "r": "대등 동사구+곁말(대시 삽입)"
+   },
+   {
+    "en": "for my own, always—it’s all owing to right bringing up!",
+    "ko": "영원히 내 것으로 — 이게 다 올바른 가정교육 덕분이다!",
+    "r": "전치사구+대시 마무리 인용"
+   }
+  ]
+ }
+]

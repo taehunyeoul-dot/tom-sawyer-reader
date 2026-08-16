@@ -1,0 +1,115 @@
+{
+ "2.0.1": [
+  {"t":"pron","q":"<b>the music</b> 은 무엇을 가리킵니까?","a":"앞에 나온 a song — 모든 이의 마음속에 있던 그 노래","tip":"새로운 '음악'이 등장한 것이 아니라 앞의 노래를 다시 말한 것입니다."},
+  {"t":"who","q":"<b>if the heart was young the music issued at the lips</b> — 노래가 입 밖으로 흘러나온 사람은 누구입니까?","a":"마음이 젊은(어린) 사람만","tip":"노래는 모두의 마음속에 있었지만, 입 밖으로 나오는 데는 조건이 붙습니다. issued 는 '흘러나왔다'입니다."}
+ ],
+ "2.0.4": [
+  {"t":"pron","q":"<b>beyond the village and above it</b> 의 it 과 <b>it lay just far enough away</b> 의 it 은 각각 무엇입니까?","a":"앞의 it = 마을(the village), 뒤의 it = 카디프 언덕","tip":"한 문장 안에서 it 이 서로 다른 것을 가리킵니다."},
+  {"t":"mod","q":"<b>dreamy, reposeful, and inviting</b> 는 무엇을 설명합니까?","a":"a Delectable Land — 언덕이 그렇게 보였다는 그 '기쁨의 땅'","tip":"마을이나 사람을 꾸미는 말로 붙이기 쉽습니다."},
+  {"t":"mod","q":"<b>just far enough away to seem a Delectable Land</b> — 언덕은 너무 멀어서 그렇게 보이지 '않았다'는 뜻입니까?","a":"아니요 — 딱 알맞을 만큼 떨어져 있어서 꿈결 같은 땅처럼 보였다는 뜻입니다","tip":"enough ~ to ... 는 '~할 만큼 충분히'입니다. too ~ to(너무 ~해서 못 한다)와 헷갈리면 뜻이 뒤집힙니다."}
+ ],
+ "2.1.4": [
+  {"t":"pron","q":"<b>passed it along the topmost plank</b> 의 it 은 무엇입니까?","a":"붓(his brush)","tip":"회칠이나 판자로 잡기 쉽습니다. 바로 앞에서 담근 그 붓입니다."},
+  {"t":"who","q":"<b>repeated the operation; did it again; compared ...</b> — 세미콜론으로 이어진 이 동작들의 주어는 누구입니까?","a":"모두 he(톰) — 같은 주어가 반복되어 생략된 것입니다","tip":"주어 없이 동사만 줄줄이 나오면 앞의 주어가 계속 이어집니다."},
+  {"t":"neg","q":"<b>the far-reaching continent of unwhitewashed fence</b> — 이 '드넓은 대륙'은 이미 칠한 부분입니까, 아직 안 칠한 부분입니까?","a":"아직 칠하지 않은 부분","tip":"un- 하나로 뜻이 정반대가 됩니다. 앞의 whitewashed streak(칠한 자국 한 줄)와 대비되는 말입니다."},
+  {"t":"mod","q":"<b>sat down on a tree-box discouraged</b> 의 discouraged 는 무엇을 설명합니까?","a":"주저앉은 톰의 상태 — 낙담한 채로","tip":"나무 보호틀(tree-box)을 꾸미는 말이 아닙니다."}
+ ],
+ "2.1.9": [
+  {"t":"who","q":"이 문장에서 그 사실을 떠올린(기억한) 사람은 누구입니까?","a":"톰(he remembered) — 짐이 아닙니다","tip":"that 절 안의 주어가 Jim 이라서 헷갈리기 쉽습니다."},
+  {"t":"neg","q":"<b>Jim never got back with a bucket of water under an hour</b> — 짐은 한 시간 안에 물을 들고 돌아왔습니까?","a":"아니요 — 한 시간 안에 돌아오는 법이 없었습니다(늘 한 시간 넘게 걸렸습니다)","tip":"never 를 놓치면 정반대가 됩니다. under an hour 는 '한 시간 이내'입니다."},
+  {"t":"pron","q":"<b>somebody generally had to go after him</b> 의 him 은 누구입니까?","a":"짐","tip":"톰으로 잡기 쉽습니다. 물을 뜨러 갔다가 안 오는 쪽이 짐입니다."}
+ ],
+ "2.4.2": [
+  {"t":"pron","q":"<b>ax me to whitewash</b> 와 <b>my own business</b> 의 me, my 는 누구입니까?","a":"이 말을 하고 있는 짐","tip":"짐이 톰에게 하는 말입니다. ax 는 ask 를 소리 나는 대로 적은 것입니다."},
+  {"t":"who","q":"<b>She say ... she tole me ...</b> — 이 She 는 누구입니까?","a":"폴리 이모(짐이 말하는 '마님')","tip":"짐이 이모의 말을 그대로 옮기고 있는 것입니다. tole = told."},
+  {"t":"who","q":"<b>she ’lowed she’d ’tend to de whitewashin’</b> — 회칠은 누가 하겠다고 했습니까?","a":"폴리 이모가 자기가 알아서 하겠다고 했습니다","tip":"’lowed = allowed(말했다), ’tend to = attend to(맡아서 처리하다). 톰이 하겠다는 말이 아닙니다."}
+ ],
+ "2.12.2": [
+  {"t":"pron","q":"<b>he was flying down the street</b> 의 he 는 누구입니까?","a":"짐 — 톰이 아닙니다","tip":"바로 뒤에 Tom 이 따로 나옵니다. 같은 사람이라면 이름을 다시 쓸 이유가 없습니다."},
+  {"t":"who","q":"손에 슬리퍼를 들고 있던 사람과 엉덩이가 얼얼해진 사람은 각각 누구입니까?","a":"슬리퍼를 든 사람은 폴리 이모, 얼얼해진 쪽은 짐","tip":"a tingling rear(얼얼한 엉덩이)는 슬리퍼로 맞은 결과입니다."},
+  {"t":"mod","q":"<b>with his pail and a tingling rear</b> 는 무엇을 설명합니까?","a":"거리를 내달리던 짐의 상태 — 양동이를 든 채, 엉덩이가 얼얼한 채","tip":"with 가 '~을 지닌 채'라는 상태를 나타냅니다. 얼얼한 엉덩이를 손에 들었다는 말이 아닙니다."}
+ ],
+ "2.13.2": [
+  {"t":"time","q":"<b>the free boys would come tripping along</b> — 아이들은 이미 지나갔습니까, 곧 지나갈 것입니까?","a":"곧 지나갈 것입니다 — 톰이 머릿속으로 그리는 앞일입니다","tip":"would 는 과거 시점에서 본 미래입니다. '왔다'로 읽으면 시점이 어긋납니다."},
+  {"t":"who","q":"<b>they would make a world of fun of him</b> — 놀리는 쪽과 놀림당하는 쪽은 각각 누구입니까?","a":"놀리는 쪽은 자유로운 아이들(they), 놀림당하는 쪽은 톰(him)","tip":"make fun of ~ 는 '~을 놀리다'입니다. him 이 톰이라는 점이 핵심입니다."},
+  {"t":"pron","q":"<b>the very thought of it</b> 의 it 은 무엇입니까?","a":"아이들이 자기를 실컷 놀려대는 일","tip":"바로 앞의 work(일)로 잡기 쉽지만, 톰을 불에 덴 듯 만든 것은 '놀림당한다는 생각'입니다."}
+ ],
+ "2.13.3": [
+  {"t":"pron","q":"<b>examined it</b> 의 it 은 무엇입니까?","a":"그가 꺼낸 전 재산(his worldly wealth) — 대시 뒤에 장난감 조각, 구슬, 잡동사니로 풀어 놓았습니다","tip":"worldly wealth 라고 거창하게 썼지만 실제 내용은 잡동사니입니다."},
+  {"t":"mod","q":"<b>enough to buy an exchange of work, maybe</b> — 그 재산으로 어쩌면 살 수 있을지 모르는 것은 무엇입니까?","a":"일을 대신 맡아 줄 맞바꿈(누군가와 일을 바꾸는 것)","tip":"뒤의 not half enough 와 짝을 이루는 대비입니다."},
+  {"t":"neg","q":"<b>not half enough to buy so much as half an hour of pure freedom</b> — 그는 자유 30분을 살 수 있었습니까?","a":"아니요 — 절반에도 한참 못 미쳤습니다","tip":"not half enough 는 '반도 안 된다'는 강한 부정입니다. so much as ~ 는 '~조차'입니다."}
+ ],
+ "2.14.3": [
+  {"t":"mod","q":"<b>followed by a deep-toned ding-dong-dong</b> 는 무엇을 설명합니까?","a":"바로 앞의 함성(a long, melodious whoop) — 그 함성 뒤에 이어지던 낮은 소리","tip":"사람이 뒤따라온다는 뜻이 아닙니다."},
+  {"t":"time","q":"<b>at intervals</b> — 그는 그 함성을 쉬지 않고 계속 질렀습니까?","a":"아니요 — 사이사이 간격을 두고 이따금 질렀습니다","tip":"interval 은 '간격'입니다."},
+  {"t":"who","q":"<b>for he was personating a steamboat</b> — 실제로 증기선이 나타난 것입니까?","a":"아니요 — 한 아이가 자기 몸으로 증기선 흉내를 내고 있는 것입니다","tip":"personate 는 '~인 체하다, 흉내 내다'입니다. 여기서 for 는 '왜냐하면'입니다."}
+ ],
+ "2.14.4": [
+  {"t":"time","q":"<b>As he drew near</b> — 이 동작들은 그가 다 온 뒤의 일입니까, 다가오는 도중의 일입니까?","a":"다가오는 도중입니다","tip":"draw near 는 '가까이 다가오다'입니다. draw 를 '그리다'로 읽으면 문장이 통째로 무너집니다."},
+  {"t":"who","q":"속도를 늦추고 우현으로 크게 기울고 뱃머리를 돌린 것은 무엇입니까?","a":"그 아이 자신의 몸 — 실제 배가 아니라 아이가 배 흉내를 내며 한 동작입니다","tip":"주어는 처음부터 끝까지 he 하나입니다. 배가 등장했다고 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>with laborious pomp and circumstance</b> 는 무엇을 설명합니까?","a":"뱃머리를 돌리던(rounded to) 그 동작의 태도 — 잔뜩 공들인 위엄과 격식을 갖추어","tip":"바로 앞의 ponderously(육중하게)와 나란히 놓인 태도 표현입니다."},
+  {"t":"pron","q":"<b>considered himself to be drawing nine feet of water</b> 의 himself 는 누구입니까?","a":"그 아이 자신 — 자기를 배로 여기고, 자기가 물속 9피트를 잠긴 채 나아간다고 생각한 것입니다","tip":"여기서 draw 는 배가 물에 '잠기다(흘수)'라는 뜻입니다."}
+ ],
+ "2.34.2": [
+  {"t":"who","q":"<b>stepped back ... added a touch ... criticised the effect</b> — 대시로 이어진 이 동작들의 주어는 누구입니까?","a":"모두 톰","tip":"주어 없이 동사만 이어지면 맨 앞의 주어(Tom)가 계속됩니다."},
+  {"t":"mod","q":"<b>getting more and more interested, more and more absorbed</b> 는 누구를 설명합니까?","a":"벤(Ben) — 지켜보던 쪽","tip":"바로 앞의 Ben watching every move 와 한 덩어리입니다. 톰이 빠져든 것이 아닙니다."},
+  {"t":"pron","q":"<b>the effect</b> 는 무엇입니까?","a":"톰이 칠해 놓은 자국이 만들어 내는 모양새(칠한 솜씨의 효과)","tip":"'영향'이 아니라 붓질이 만든 겉모습입니다. 톰이 일부러 감상하는 척하는 대목입니다."}
+ ],
+ "2.37.1": [
+  {"t":"mod","q":"<b>right here on the street</b> 는 무엇을 설명합니까?","a":"this fence — 이 울타리가 길가에 훤히 보이는 자리에 있다는 뜻","tip":"톰이 서 있는 위치를 말하는 것이 아닙니다."},
+  {"t":"time","q":"<b>but if it was the back fence</b> — 지금 칠하는 것이 뒷울타리입니까?","a":"아니요 — 실제로는 길가의 앞 울타리이고, '뒷울타리라면'이라는 가정입니다","tip":"if + 과거형은 사실이 아닌 일을 가정하는 형태입니다."},
+  {"t":"neg","q":"<b>I wouldn’t mind and she wouldn’t</b> — 뒷울타리였다면 톰과 이모는 신경을 썼겠습니까?","a":"아니요 — 둘 다 신경 쓰지 않았을 것이라는 뜻입니다","tip":"끝의 she wouldn’t 는 she wouldn’t mind 에서 mind 가 생략된 것입니다."}
+ ],
+ "2.37.2": [
+  {"t":"neg","q":"<b>there ain’t one boy in a thousand ... that can do it</b> — 천 명 중 몇 명이 이 일을 제대로 할 수 있습니까?","a":"한 명도 없다는 뜻입니다","tip":"ain’t = isn’t. not one ~ 은 '단 하나도 없다'는 강한 부정입니다."},
+  {"t":"mod","q":"<b>that can do it the way it’s got to be done</b> 는 무엇을 꾸밉니까?","a":"one boy — '제대로 해야 하는 방식대로 해낼 수 있는 아이'","tip":"사이에 maybe two thousand 가 끼어들어 꾸밈 대상과 멀어져 있습니다."},
+  {"t":"pron","q":"<b>it’s got to be done very careful</b> 의 it 은 무엇입니까?","a":"이 울타리를 칠하는 일","tip":"’s got to = has got to(~해야 한다). 톰이 일부러 대단한 일처럼 부풀리는 대목입니다."}
+ ],
+ "2.39.0": [
+  {"t":"pron","q":"<b>I’d like to</b> — to 뒤에 생략된 말은 무엇입니까?","a":"너(벤)에게 칠하게 해 주다 — '나도 그러게 해 주고 싶어'라는 뜻입니다","tip":"앞에서 벤이 칠하게 해 달라고 조른 것을 그대로 받습니다."},
+  {"t":"who","q":"짐과 시드가 회칠하는 것을 막은 사람은 누구입니까?","a":"폴리 이모(she)","tip":"let 의 주어는 이모입니다. 톰이 막았다고 읽으면 톰의 수법이 보이지 않습니다."},
+  {"t":"neg","q":"<b>she wouldn’t let him</b> — 짐은 결국 회칠을 했습니까?","a":"아니요 — 이모가 못 하게 했습니다","tip":"wouldn’t let = 못 하게 했다. 부정을 놓치면 정반대가 됩니다."}
+ ],
+ "2.43.1": [
+  {"t":"who","q":"땡볕에서 땀 흘리며 일한 사람과 그늘에 앉아 있던 사람은 각각 누구입니까?","a":"일한 사람은 벤(the late steamer Big Missouri), 그늘에 앉은 사람은 톰(the retired artist)","tip":"둘 다 이름 대신 별명처럼 불러서 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>the late steamer Big Missouri</b> 에서 late 는 무슨 뜻입니까?","a":"'조금 전까지 ~였던' — 방금 전까지 증기선 흉내를 내던 그 아이(벤)","tip":"'늦은'이나 '죽은'으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>munched his apple</b> 의 his 는 누구입니까?","a":"톰 — 원래 벤이 먹던 사과를 넘겨받아 이제 톰이 먹고 있습니다","tip":"이 절의 주어가 the retired artist(톰)입니다."}
+ ],
+ "2.43.3": [
+  {"t":"time","q":"<b>Tom had traded the next chance to Billy Fisher</b> — 이 거래는 벤이 지쳐 나가떨어지기 전입니까, 후입니까?","a":"전 — 벤이 지칠 무렵에는 이미 거래가 끝나 있었습니다","tip":"had traded 는 과거완료로, 기준 시점보다 앞선 일입니다."},
+  {"t":"who","q":"<b>traded the next chance to Billy Fisher for a kite</b> — 연을 받은 사람은 누구입니까?","a":"톰 — 톰이 차례를 넘겨주고 빌리에게서 연을 받았습니다","tip":"trade A to B for C 는 'B에게 A를 주고 C를 받다'입니다. 방향을 뒤집으면 톰이 손해 보는 이야기가 됩니다."},
+  {"t":"pron","q":"<b>and when he played out</b> 의 he 는 누구입니까?","a":"빌리 피셔 — 바로 앞에서 차례를 사 간 아이","tip":"벤으로 잡기 쉽습니다. 지쳐 나가떨어지는 순서가 벤 → 빌리 → 조니입니다."},
+  {"t":"pron","q":"<b>a string to swing it with</b> 의 it 은 무엇입니까?","a":"죽은 쥐(a dead rat)","tip":"끈은 그 쥐를 매달아 빙빙 돌리는 데 쓰는 것입니다."}
+ ],
+ "2.43.4": [
+  {"t":"time","q":"톰이 가난뱅이였던 때와 재산 속에 뒹굴게 된 때는 각각 언제입니까?","a":"아침에는 가난에 찌든 아이였고, 오후 한가운데가 되자 재산 속에 뒹굴었습니다","tip":"from being ... in the morning 이 출발점, when the middle of the afternoon came 가 도착점입니다."},
+  {"t":"mod","q":"<b>from being a poor poverty-stricken boy in the morning</b> 는 무엇을 설명합니까?","a":"톰이 어떤 처지에서 시작했는지 — 그 변화의 출발 상태","tip":"from A(출발) → 지금은 재산 속에 뒹구는 상태(도착)로 이어지는 대비입니다."},
+  {"t":"pron","q":"<b>rolling in wealth</b> 의 wealth 는 구체적으로 무엇입니까?","a":"아이들에게서 받아 모은 장난감·구슬 같은 잡동사니","tip":"돈이 생겼다는 뜻이 아닙니다. 바로 다음 문장에 그 목록이 나옵니다."}
+ ],
+ "2.43.5": [
+  {"t":"mod","q":"<b>besides the things before mentioned</b> 는 무슨 뜻입니까?","a":"앞에서 이미 말한 것들 '외에도' 더 있었다는 뜻","tip":"beside(~옆에)와 다릅니다. besides 는 '~ 외에도'입니다."},
+  {"t":"neg","q":"<b>a key that wouldn’t unlock anything</b> — 그 열쇠로 열 수 있는 것이 있었습니까?","a":"아니요 — 아무것도 열지 못하는 열쇠였습니다","tip":"wouldn’t 와 anything 이 합쳐져 전부 부정입니다."},
+  {"t":"neg","q":"<b>a dog-collar—but no dog</b> — 톰은 개를 가지고 있었습니까?","a":"아니요 — 개 목걸이만 있고 개는 없었습니다","tip":"대시 사이의 곁말이 이 농담의 핵심입니다. 놓치면 개까지 얻은 것이 됩니다."}
+ ],
+ "2.45.1": [
+  {"t":"neg","q":"<b>without knowing it</b> — 그는 자기가 위대한 법칙을 발견했다는 것을 알고 있었습니까?","a":"아니요 — 자기도 모르는 사이에 발견한 것입니다","tip":"without ~ing 는 '~하지 않은 채'입니다. 놓치면 톰이 알고 한 일이 됩니다."},
+  {"t":"pron","q":"<b>it is only necessary to make the thing difficult to attain</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to make the thing difficult to attain 입니다","tip":"'그것이 필요할 뿐이다'로 옮기면 앞에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"mod","q":"<b>make the thing difficult to attain</b> — 무엇을 어렵게 만든다는 말입니까?","a":"그 물건을 손에 넣기(얻기) 어렵게 만든다는 뜻입니다","tip":"attain 은 '손에 넣다'입니다. '어려운 물건을 만든다'가 아닙니다."}
+ ],
+ "2.45.2": [
+  {"t":"time","q":"<b>If he had been a great and wise philosopher</b> — 톰은 실제로 위대하고 현명한 철학자였습니까?","a":"아니요 — 사실이 아닌 일을 가정한 것입니다","tip":"If + had p.p. / would have p.p. 는 실제와 반대되는 가정입니다."},
+  {"t":"pron","q":"<b>whatever a body is obliged to do</b> 의 a body 는 무엇을 가리킵니까?","a":"사람(누구든) — '몸'이 아닙니다","tip":"옛 구어에서 a body 는 a person 을 뜻합니다."},
+  {"t":"neg","q":"<b>Work</b> 와 <b>Play</b> 는 각각 무엇이라고 정의되어 있습니까?","a":"Work = 사람이 해야만 하는 모든 것, Play = 사람이 하지 않아도 되는 모든 것","tip":"두 번째 that절의 not 을 놓치면 두 정의가 똑같아져 문장 전체가 뜻을 잃습니다."}
+ ],
+ "2.45.3": [
+  {"t":"pron","q":"<b>this would help him</b> 의 this 와 him 은 각각 무엇입니까?","a":"this = 앞 문장의 그 깨달음(일과 놀이의 정의), him = 톰","tip":"this 를 막연히 '이것'으로 두면 무엇이 도움이 된다는 것인지가 사라집니다."},
+  {"t":"time","q":"<b>while rolling ten-pins or climbing Mont Blanc is only amusement</b> 의 while 은 '~하는 동안'입니까, '반면에'입니까?","a":"'반면에' — 앞뒤를 대조하는 뜻입니다","tip":"while 을 시간으로 읽으면 '볼링을 치는 동안'이 되어 대조가 사라집니다."},
+  {"t":"who","q":"<b>is work</b> 와 <b>is only amusement</b> 의 주어는 각각 무엇입니까?","a":"앞은 '조화를 만들거나 트레드밀을 밟는 것', 뒤는 '볼링 핀을 쓰러뜨리거나 몽블랑에 오르는 것'","tip":"-ing 로 시작하는 긴 덩어리가 통째로 주어입니다. 사람이 주어가 아닙니다."}
+ ],
+ "2.45.4": [
+  {"t":"who","q":"<b>wealthy gentlemen ... who drive four-horse passenger-coaches</b> — 마차를 모는 사람은 누구입니까?","a":"그 부유한 신사들 자신","tip":"고용한 마부가 아니라 신사들이 직접 몹니다. 이 점이 뒤의 이야기와 이어집니다."},
+  {"t":"who","q":"<b>because the privilege costs them considerable money</b> — 돈을 내는 쪽은 누구입니까?","a":"신사들 자신 — 그 특권을 누리는 데 상당한 돈이 듭니다","tip":"cost + 사람 + 돈 은 '그 사람에게 돈이 들게 하다'입니다. 돈을 받는다고 읽으면 이야기가 정반대가 됩니다."},
+  {"t":"time","q":"<b>if they were offered wages for the service</b> — 그들은 실제로 임금을 받고 있습니까?","a":"아니요 — 사실이 아닌 가정입니다","tip":"if + 과거형과 would 는 실제와 다른 일을 가정할 때 씁니다."},
+  {"t":"pron","q":"<b>that would turn it into work</b> 의 that 과 it 은 각각 무엇입니까?","a":"that = 임금을 받게 되는 일, it = 마차를 모는 그 일","tip":"둘을 뒤집으면 '일이 임금을 바꾼다'는 이상한 말이 됩니다."}
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "1.6.1": [
+  {"t":"pron","q":"이 문장의 <b>them</b> 은 무엇을 가리킵니까?","a":"폴리 이모의 안경(그 나들이용 안경 한 벌)","tip":"사람으로 착각하기 쉽습니다. 뒤에 나오는 they were her state pair 가 같은 것을 받습니다."},
+  {"t":"neg","q":"<b>She seldom or never looked through them</b> — 이모는 그 안경을 통해 자주 보았습니까?","a":"아니요 — 거의, 아니 아예 보지 않았습니다","tip":"seldom(거의 ~않다) 자체가 부정어입니다. '가끔 봤다'로 읽으면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>the pride of her heart</b> 는 무엇을 설명하는 말입니까?","a":"그 안경(her state pair)","tip":"폴리 이모 자신을 설명하는 말로 붙이기 쉽습니다. 바로 앞 명사를 다시 말하는 동격입니다."},
+  {"t":"time","q":"<b>she could have seen through a pair of stove-lids just as well</b> — 이모가 실제로 난로 뚜껑으로 본 적이 있습니까?","a":"아니요 — '난로 뚜껑을 끼고 봤어도 똑같았을 것'이라는 가정입니다(그만큼 안경이 쓸모없었다는 뜻)","tip":"could have p.p. 는 실제로 일어난 일이 아니라 '~했을 것이다'라는 가정입니다."}
+ ],
+ "1.8.0": [
+  {"t":"neg","q":"<b>She did not finish</b> — 이모는 하던 말을 끝맺었습니까?","a":"아니요 — 끝맺지 못했습니다","tip":"did not 을 놓치면 뜻이 정반대가 됩니다."},
+  {"t":"who","q":"몸을 굽혀 빗자루로 침대 밑을 쿡쿡 찌른 사람은 누구입니까?","a":"폴리 이모(she) — 톰이 아닙니다","tip":"침대 밑에 숨은 쪽이 톰이라 주어를 톰으로 바꿔 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>to punctuate the punches with</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 breath(숨) — 찌를 때마다 끙끙 소리를 낼 '숨'","tip":"문장 맨 끝의 with 는 앞의 breath 와 짝입니다(breath to punctuate the punches with)."}
+ ],
+ "1.12.0": [
+  {"t":"who","q":"작은 사내아이를 붙잡은 사람은 누구입니까?","a":"그녀(폴리 이모)","tip":"seize 의 주어는 앞의 she 입니다. 아이가 무언가를 붙잡았다고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>his roundabout</b> 과 <b>his flight</b> 의 his 는 누구입니까?","a":"붙잡힌 그 작은 사내아이 — his flight 는 '그 아이의 도망'입니다","tip":"바로 앞의 her(이모)와 헷갈리기 쉽습니다. arrest 는 '체포하다'가 아니라 '막다'입니다."},
+  {"t":"time","q":"이모가 돌아선 것은 소리가 나기 전입니까, 난 뒤입니까?","a":"소리가 난 뒤 — 소리를 듣고 마침 제때(just in time) 돌아섰습니다","tip":"and 로 이어져 있지만 두 일 사이에는 분명한 순서가 있습니다."}
+ ],
+ "1.22.5": [
+  {"t":"who","q":"<b>he can torment me</b> — 괴롭히는 쪽과 괴롭힘당하는 쪽은 각각 누구입니까?","a":"he = 톰(괴롭히는 쪽), me = 말하고 있는 폴리 이모(당하는 쪽)","tip":"이모의 혼잣말입니다. me 를 톰으로 잡으면 문장 전체가 뒤집힙니다."},
+  {"t":"time","q":"<b>before I get my dander up</b> — 톰이 놀려먹는 것은 이모의 성질이 터지기 전입니까, 터진 뒤입니까?","a":"터지기 전 — 이모가 폭발하기 직전까지의 시간을 톰이 정확히 안다는 뜻입니다","tip":"before 절을 놓치면 '화가 난 뒤에 놀린다'로 거꾸로 읽게 됩니다."},
+  {"t":"who","q":"<b>make me laugh</b> — 웃는 사람은 누구입니까?","a":"폴리 이모(me) — 톰이 이모를 웃기는 것입니다","tip":"make + 목적어 + 동사원형에서 그 동작을 하는 사람은 목적어입니다."},
+  {"t":"neg","q":"<b>I can’t hit him a lick</b> — 이모는 톰을 때립니까?","a":"아니요 — 한 대도 때리지 못합니다","tip":"can’t 를 놓치면 정반대가 됩니다. a lick 은 '한 대'입니다."}
+ ],
+ "1.22.9": [
+  {"t":"mod","q":"<b>my own dead sister’s boy</b> — 죽은 사람은 누구입니까?","a":"이모의 언니(누나) — 아이가 죽은 것이 아닙니다","tip":"dead 는 sister 를 꾸밉니다. 'dead boy'로 붙여 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>poor thing</b> 은 누구를 가리킵니까?","a":"톰(그 아이)","tip":"이모가 자기 자신을 가엾어하는 말로 읽기 쉽지만, 앞의 '죽은 언니의 아들'을 받는 말입니다."},
+  {"t":"neg","q":"<b>I ain’t got the heart to lash him</b> — 이모는 톰에게 매를 듭니까?","a":"아니요 — 매질할 마음이 나지 않습니다","tip":"ain’t got = haven’t got. 부정을 놓치면 '매질할 마음이 있다'가 되어 정반대입니다."}
+ ],
+ "1.22.13": [
+  {"t":"mod","q":"<b>when all the boys is having holiday</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Saturdays(토요일) — 다른 아이들이 다 노는 그 날이라는 뜻","tip":"주절 전체의 때로 붙이면 '아이들이 노는 동안 시키기 힘들다'가 되어 초점이 흐려집니다."},
+  {"t":"who","q":"<b>to make him work</b> — 일을 시키는 쪽과 일을 하는 쪽은 각각 누구입니까?","a":"시키는 쪽은 이모(말하는 사람), 일하는 쪽은 톰(him)","tip":"make + 목적어 + 동사원형 구조입니다."},
+  {"t":"neg","q":"<b>or I’ll be the ruination of the child</b> — 이모가 아이를 망치게 되는 것은 어떤 경우입니까?","a":"이모가 톰에 대한 도리(일을 시키는 것)를 하지 '않는' 경우","tip":"여기서 or 는 '또는'이 아니라 '안 그러면'입니다. 망치는 사람은 이모 자신입니다."}
+ ],
+ "1.23.1": [
+  {"t":"mod","q":"<b>the small colored boy</b> 는 누구를 설명하는 말입니까?","a":"짐(Jim)","tip":"톰을 설명하는 말로 읽기 쉽습니다. 바로 앞 이름을 다시 말하는 동격입니다."},
+  {"t":"who","q":"<b>saw next-day’s wood and split the kindlings</b> — 톱질하고 쪼갠 사람은 누구입니까?","a":"짐 — 톰은 그 일을 '도우러' 온 것입니다(help Jim saw ... and split ...)","tip":"saw 는 see 의 과거가 아니라 '톱질하다'라는 동사이고, help 뒤에 오는 동사원형입니다."},
+  {"t":"who","q":"<b>while Jim did three-fourths of the work</b> — 그 일의 4분의 3을 한 사람은 누구입니까?","a":"짐 — 톰은 그동안 자기 모험담을 늘어놓았습니다","tip":"대시 뒤의 at least ~ 는 앞말을 비꼬아 정정하는 부분입니다. 톰이 도왔다는 말이 아닙니다."}
+ ],
+ "1.23.2": [
+  {"t":"time","q":"<b>was already through with his part of the work</b> — 시드는 자기 몫의 일을 끝냈습니까, 아직 하는 중입니까?","a":"이미 끝냈습니다","tip":"be through with = ~을 끝내다. '일을 통과해 지나가는 중'으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>(picking up chips)</b> 는 무엇을 설명합니까?","a":"시드가 맡은 몫의 일 — 나뭇조각 줍기","tip":"괄호는 바로 앞의 his part of the work 를 풀어 준 것입니다."},
+  {"t":"pron","q":"<b>for he was a quiet boy</b> 의 he 는 누구입니까?","a":"시드","tip":"앞 문장들의 주인공이 톰이라 톰으로 잡기 쉽습니다. 여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."},
+  {"t":"neg","q":"<b>had no adventurous, trouble-some ways</b> — 시드는 모험을 좋아하고 말썽을 부리는 아이였습니까?","a":"아니요 — 그런 구석이 전혀 없었습니다","tip":"no 를 놓치면 톰과 똑같은 아이가 되어 문장의 대비가 무너집니다."}
+ ],
+ "1.24.0": [
+  {"t":"who","q":"<b>stealing sugar as opportunity offered</b> — 설탕을 훔쳐 먹은 사람은 누구입니까?","a":"톰","tip":"While Tom was eating ... and stealing ... 으로 이어집니다. 바로 뒤에 나오는 폴리 이모로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>that were full of guile, and very deep</b> 는 무엇을 꾸밉니까?","a":"이모가 던진 questions(질문들)","tip":"폴리 이모를 꾸미는 말로 붙이면 '아주 속 깊은 이모'가 되어 뜻이 달라집니다."},
+  {"t":"who","q":"<b>for she wanted to trap him</b> — 함정을 파는 쪽과 걸려드는 쪽은 각각 누구입니까?","a":"함정을 파는 쪽은 폴리 이모(she), 걸려드는 쪽은 톰(him)","tip":"여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."}
+ ],
+ "1.24.1": [
+  {"t":"pron","q":"<b>it was her pet vanity to believe ...</b> — 이 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to believe ... 이하입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"mod","q":"<b>Like many other simple-hearted souls</b> 는 누구를 두고 하는 말입니까?","a":"폴리 이모 — 이모도 다른 순진한 사람들과 똑같다는 뜻입니다","tip":"바로 뒤가 it 이라서 붙일 곳을 잃기 쉽습니다."},
+  {"t":"who","q":"<b>her most transparent devices</b> 를 '대단한 잔꾀의 걸작(marvels of low cunning)'이라고 여긴 사람은 누구입니까?","a":"폴리 이모 자신뿐입니다 — 실제로는 남들이 빤히 들여다보는 뻔한 수법입니다","tip":"transparent 는 '투명한'에서 나와 '속이 빤히 보이는'이라는 뜻입니다. 작가가 이모를 놀리는 대목입니다."}
+ ],
+ "1.45.0": [
+  {"t":"mod","q":"<b>which were thrust into the lapels of his jacket</b> 는 무엇을 설명합니까?","a":"커다란 바늘 두 개(two large needles)","tip":"바로 앞 명사가 needles 입니다. 톰이 옷깃에 꽂혀 있는 것이 아닙니다."},
+  {"t":"pron","q":"<b>had thread bound about them</b> 의 them 은 무엇입니까?","a":"그 바늘 두 개 — 바늘에 실이 감겨 있었다는 뜻입니다","tip":"바로 앞 명사인 lapels(옷깃)로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>the other black</b> 은 무슨 뜻입니까?","a":"나머지 바늘 한 개는 검은 실을 지니고 있었다 — carried 가 생략된 것입니다","tip":"the other 는 둘 중 나머지 하나입니다. 반복되는 말은 통째로 생략됩니다."}
+ ],
+ "1.48.1": [
+  {"t":"neg","q":"<b>Not because ... but because ...</b> — 톰이 고민을 잊은 진짜 이유는 무엇입니까?","a":"새롭고 강력한 관심사가 고민을 눌러 머릿속에서 몰아냈기 때문 — 고민이 가벼워서가 아닙니다","tip":"Not because A, but because B 구조입니다. 앞쪽은 부정되는 이유, 뒤쪽이 진짜 이유입니다."},
+  {"t":"neg","q":"<b>one whit less heavy and bitter</b> — 톰의 고민은 어른의 고민보다 가벼웠습니까?","a":"아니요 — 조금도(one whit) 덜 무겁거나 덜 쓰라리지 않았습니다","tip":"Not ... less ... 는 부정이 겹쳐 '조금도 덜하지 않다'가 됩니다."},
+  {"t":"pron","q":"<b>bore them down</b> 과 <b>drove them out of his mind</b> 의 them 은 무엇입니까?","a":"톰의 고민(his troubles)","tip":"앞뒤에 a man, men 이 나와서 사람으로 잡기 쉽습니다."}
+ ],
+ "1.48.3": [
+  {"t":"mod","q":"<b>produced by touching the tongue to the roof of the mouth</b> 는 무엇을 설명합니까?","a":"그 새소리 같은 꺾기, 즉 매끄러운 떨림소리(a sort of liquid warble)","tip":"사람을 꾸미는 말로 붙이면 '혀를 대서 만들어진 독자'가 되어 버립니다."},
+  {"t":"pron","q":"<b>if he has ever been a boy</b> 의 he 는 누구입니까?","a":"the reader — 이 책을 읽는 독자","tip":"톰으로 잡기 쉽지만, 바로 앞 절의 주어가 the reader 입니다."},
+  {"t":"time","q":"<b>has ever been a boy</b> 는 지금 소년이라는 뜻입니까, 예전에 소년이었던 적이 있다는 뜻입니까?","a":"예전에 한 번이라도 소년이었던 적이 있다면, 이라는 뜻입니다","tip":"현재완료(has been)는 지금까지의 '경험'을 말합니다."}
+ ],
+ "1.48.5": [
+  {"t":"mod","q":"<b>who has discovered a new planet</b> 는 누구를 꾸밉니까?","a":"천문학자(an astronomer)","tip":"바로 앞에 feels 가 있어 he(톰)를 꾸미는 것으로 착각하기 쉽습니다. 톰이 행성을 발견한 것이 아닙니다."},
+  {"t":"neg","q":"<b>the advantage was with the boy, not the astronomer</b> — 더 크고 순수한 기쁨을 느낀 쪽은 누구입니까?","a":"그 소년(톰)","tip":"not 뒤에 오는 쪽이 아닙니다. 두 쪽을 뒤집어 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>as far as strong, deep, unalloyed pleasure is concerned</b> 는 무슨 뜻입니까?","a":"강렬하고 깊고 순수한 기쁨이라는 점에 관한 한(그 점만 놓고 보면)","tip":"as far as ~ is concerned 는 '~에 관한 한'으로 굳어진 표현입니다. '~만큼 멀리'로 읽으면 문장이 무너집니다."}
+ ],
+ "1.49.11": [
+  {"t":"pron","q":"<b>he turned up his nose at his finery</b> 에서 his finery 의 his 는 누구입니까?","a":"톰이 쳐다보고 있는 그 새로 온 아이 — 그 아이의 화려한 차림새입니다","tip":"같은 절의 주어가 he(톰)라서 톰의 옷으로 읽기 쉽습니다. 톰의 옷은 뒤에 his own outfit 으로 따로 나옵니다."},
+  {"t":"pron","q":"<b>his own outfit seemed to him to grow</b> — 여기서 his own 과 him 은 누구입니까?","a":"둘 다 톰 — 톰 자신의 옷차림이, 톰이 보기에 그렇다는 뜻입니다","tip":"한 문장 안에서 his 가 두 사람을 가리키고 있습니다."},
+  {"t":"who","q":"코웃음을 치며 깔본 쪽과 깔봄을 당한 쪽은 각각 누구입니까?","a":"깔본 쪽은 톰, 깔봄을 당한 것은 그 새로 온 아이의 화려한 옷차림","tip":"turn up one’s nose at ~ 은 '~을 코웃음 치며 깔보다'입니다. 부러움에서 나온 반응입니다."}
+ ],
+ "1.49.13": [
+  {"t":"pron","q":"<b>If one moved, the other moved</b> — one 과 the other 는 각각 누구입니까?","a":"마주 선 두 아이 중 한 명과 나머지 한 명(톰과 새로 온 아이)","tip":"one 을 '하나의 것'이나 일반적인 사람으로 읽으면 장면이 사라집니다."},
+  {"t":"mod","q":"<b>but only sidewise, in a circle</b> 는 무엇을 설명합니까?","a":"둘이 움직인 방식 — 앞뒤가 아니라 옆으로만, 빙 원을 그리며 돌았다는 뜻","tip":"only 가 붙어 '다가서거나 물러선 것이 아니다'라는 제한이 생깁니다."},
+  {"t":"time","q":"<b>If one moved, the other moved</b> 는 실제로 있었던 일입니까, 사실이 아닌 가정입니까?","a":"실제로 되풀이해서 일어난 일 — 한쪽이 움직일 때마다 다른 쪽도 움직였다는 뜻입니다","tip":"if + 과거형이 늘 가정법인 것은 아닙니다. 여기서는 반복되던 상황을 말합니다."}
+ ],
+ "1.90.0": [
+  {"t":"mod","q":"<b>placed at an angle as a brace</b> 는 무엇을 설명합니까?","a":"각자 내디딘 한쪽 발(a foot) — 버팀대처럼 비스듬히 딛은 그 발","tip":"as a brace 는 '버팀대로서'입니다. 버팀대라는 물건이 따로 있는 것이 아닙니다."},
+  {"t":"who","q":"<b>both shoving with might and main</b> — 있는 힘껏 밀고 있는 사람은 누구입니까?","a":"두 아이 모두(both) — 한 명이 일방적으로 미는 것이 아닙니다","tip":"each ... both ... 로 이어지는 부분은 모두 앞의 they(두 아이)를 설명합니다."},
+  {"t":"who","q":"<b>glowering at each other with hate</b> — 노려보는 사람과 노려봄을 당하는 사람은 각각 누구입니까?","a":"두 아이가 서로를 노려보고 있습니다(each other)","tip":"with hate 는 노려보는 태도이지 제3의 인물이 아닙니다."}
+ ],
+ "1.102.2": [
+  {"t":"mod","q":"<b>gripped together like cats</b> 는 누구를 설명합니까?","a":"흙바닥을 구르던 두 아이 — 고양이들처럼 한데 엉겨 붙은 채","tip":"고양이가 무언가를 붙잡았다는 뜻이 아닙니다. 두 아이가 서로 엉킨 상태입니다."},
+  {"t":"time","q":"<b>for the space of a minute</b> 는 '1분 뒤'입니까, '1분 동안'입니까?","a":"1분 동안(1분 남짓 계속)","tip":"for + 기간은 '~ 동안'입니다. '1분 뒤에'로 읽으면 순서가 어긋납니다."},
+  {"t":"who","q":"<b>each other’s hair and clothes</b> — 잡아당기고 쥐어뜯긴 것은 누구의 머리카락과 옷입니까?","a":"두 아이가 각각 상대방의 것을 잡아당겼습니다(서로)","tip":"each other 는 '서로'입니다. 한쪽이 일방적으로 당한 것이 아닙니다."}
+ ],
+ "1.107.0": [
+  {"t":"who","q":"흐느끼고 코를 훌쩍이며 옷의 먼지를 턴 사람은 누구입니까?","a":"새로 온 아이(The new boy) — 톰이 아닙니다","tip":"싸움에서 진 쪽입니다. 문장 안에 Tom 이 나와서 주어를 톰으로 바꿔 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>the “next time he caught him out”</b> — he 와 him 은 각각 누구입니까?","a":"he = 새로 온 아이, him = 톰","tip":"바로 앞에 Tom 이 나오므로 he 를 톰으로 잡기 쉽습니다. 으름장을 놓는 쪽이 he 입니다."},
+  {"t":"time","q":"<b>what he would do to Tom the “next time”</b> — 이것은 이미 벌어진 일입니까, 앞으로 하겠다는 말입니까?","a":"앞으로 다음번에 하겠다는 으름장입니다","tip":"would, caught 로 과거형이지만, 아이가 한 말 속에서는 아직 오지 않은 일입니다."}
+ ],
+ "1.107.1": [
+  {"t":"pron","q":"<b>To which Tom responded with jeers</b> — which 는 무엇을 받습니까?","a":"새로 온 아이가 놓은 으름장(앞 문장에서 한 말)","tip":"which 가 앞 문장 전체의 내용을 받는 경우입니다. 사물 하나를 찾으면 안 됩니다."},
+  {"t":"who","q":"돌을 집어 던진 사람과 돌에 맞은 사람은 각각 누구입니까?","a":"던진 사람은 새로 온 아이(the new boy), 맞은 사람은 톰(him)","tip":"앞 절의 주어가 Tom 이라 톰이 던졌다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>as soon as his back was turned</b> — 돌을 던진 것은 톰이 등을 돌리기 전입니까, 후입니까?","a":"톰이 등을 돌린 직후 — 돌리자마자입니다","tip":"his back 의 his 는 톰입니다. 등 뒤에서 던졌다는 점이 이 장면의 핵심입니다."},
+  {"t":"who","q":"<b>turned tail and ran like an antelope</b> — 꽁무니를 빼고 달아난 사람은 누구입니까?","a":"새로 온 아이","tip":"turn tail 은 '등을 돌리고 도망치다'입니다. 바로 앞의 him(톰)으로 이어 읽지 않도록 주의하세요."}
+ ],
+ "1.107.3": [
+  {"t":"pron","q":"<b>the enemy</b> 는 누구입니까?","a":"새로 온 아이 — 톰이 '적'이라고 부르는 상대입니다","tip":"He(톰)와 the enemy(새 아이)를 뒤집으면 장면이 정반대가 됩니다."},
+  {"t":"who","q":"<b>daring the enemy to come outside</b> — 밖으로 나오라고 도발한 사람은 누구입니까?","a":"톰(He) — 대문 앞에 버티고 선 쪽","tip":"dare + 목적어 + to부정사는 목적어에게 '할 테면 해 보라'고 부추기는 것입니다."},
+  {"t":"neg","q":"<b>the enemy only made faces at him through the window and declined</b> — 적은 밖으로 나왔습니까?","a":"아니요 — 창문 너머로 얼굴만 찡그려 보이고 나오기를 거절했습니다","tip":"declined 를 놓치면 결말이 정반대가 됩니다. only 도 '얼굴만' 했다는 제한입니다."}
+ ],
+ "1.108.0": [
+  {"t":"who","q":"<b>he uncovered an ambuscade, in the person of his aunt</b> — 매복하고 기다린 사람은 누구입니까?","a":"폴리 이모 — 톰은 그 매복에 걸린 쪽입니다","tip":"uncovered 의 주어는 톰이지만, 숨어서 기다린 사람은 이모입니다. in the person of ~ 는 '그 정체는 바로 ~'라는 뜻입니다."},
+  {"t":"mod","q":"<b>the state his clothes were in</b> 은 무슨 뜻입니까?","a":"그의 옷이 처해 있던 꼴(엉망이 된 상태)","tip":"the state (which) his clothes were in 에서 관계사가 빠진 형태입니다. 끝의 in 이 state 와 짝입니다."},
+  {"t":"who","q":"<b>became adamantine in its firmness</b> — 쇠처럼 단단해진 것은 무엇입니까?","a":"토요일 휴일을 중노동의 감금으로 바꾸겠다는 이모의 결심(her resolution)","tip":"주어가 to부정사까지 달고 길어져서, 가까이 있는 hard labor 를 주어로 잡기 쉽습니다."},
+  {"t":"time","q":"이모의 결심이 단단해진 것은 톰의 옷 꼴을 보기 전입니까, 본 뒤입니까?","a":"본 뒤 — 옷 꼴을 본 순간 결심이 굳어졌습니다","tip":"when 절이 그 시점이자 원인입니다."}
+ ]
+}
