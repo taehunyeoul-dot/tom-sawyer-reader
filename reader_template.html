@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#2b2822">
+<meta name="theme-color" content="#0d2a78">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="톰 소여 리더">
@@ -12,12 +12,18 @@
 <title>톰 소여의 모험 리더 — 읽으면서 배우는 영어</title>
 <style>
 :root{
-  --bg:#f6f3ec; --panel:#fffdf8; --ink:#2b2822; --muted:#7d7566; --line:#e2dbcc;
-  --accent:#8a5a2b; --accent2:#3f6b52; --chip:#efe9dc; --soft:#f0ebe0;
-  --l1:#5b8c6e; --l2:#b8862f; --l3:#a1503a; --blue:#3b5b8c; --red:#a1503a;
-  --serif:Georgia,"Times New Roman","Noto Serif",serif;
-  --sans:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
-  --fs:18px; --lh:1.85;
+  /* 코발트 잉크 · 차가운 종이.  1877년 리드-켈로그 문장 도해(이 소설과 같은 시대의
+     미국 교실에서 쓰던 문장 분해도)를 화면 언어로 삼았다. 파랑은 뼈대, 붉은색은 동사. */
+  --ground:#eaeef7; --paper:#fff; --panel:#fff; --ink:#14171f; --muted:#5b6478;
+  --line:#d8deea; --rule:#e4e9f3; --chip:#e9eefc; --soft:#f4f7fd;
+  --cobalt:#1b45c4; --cobalt-deep:#0d2a78; --cobalt-soft:#5c7ee0; --cobalt-wash:#e9eefc;
+  --brick:#b3261e; --brick-wash:#fbeae8;
+  --accent:#1b45c4; --accent2:#2f6b4f; --blue:#0d2a78; --red:#b3261e;
+  --l1:#2f6b4f; --l2:#a06400; --l3:#7a2e6b;
+  --serif:Constantia,"Iowan Old Style","Palatino Linotype",Palatino,Charter,Georgia,"Noto Serif",serif;
+  --sans:"Segoe UI","Malgun Gothic",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+  --mono:Consolas,"Cascadia Mono","SF Mono",ui-monospace,Menlo,monospace;
+  --fs:19px; --lh:1.9;
 }
 *{box-sizing:border-box}
 /* 역할 이름표(절대 위치)와 드로어가 화면 오른쪽으로 삐져나가 모바일 화면이 축소되는 것을 막는다.
@@ -26,11 +32,16 @@ html{overflow-x:clip}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
 button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
 button{cursor:pointer}
-header{background:linear-gradient(135deg,#2b2822,#4a3f31);color:#f6f3ec;padding:14px 18px 12px}
-header .wrap{max-width:1180px;margin:0 auto;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
-header h1{margin:0;font-size:18px;letter-spacing:-.01em}
-header .sub{opacity:.72;font-size:12.5px}
-header .today{margin-left:auto;font-size:12.5px;opacity:.9}
+header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#eaeefc;padding:13px 18px 12px}
+header .wrap{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+header h1{margin:0;font-size:17px;font-weight:650;letter-spacing:-.01em;color:#fff}
+header .sub{opacity:.72;font-size:12px}
+header .sub i{font-style:italic}
+header .today{margin-left:auto;font-size:12px;opacity:.9;font-variant-numeric:tabular-nums}
+/* 아이콘과 같은 문장 도해 기호 */
+header .mark{position:relative;width:20px;height:20px;flex:none}
+header .mark i{position:absolute;left:0;top:9px;width:20px;height:2px;background:#fff;border-radius:1px}
+header .mark b{position:absolute;left:9px;top:2px;width:2px;height:16px;background:#9db8ff;border-radius:1px}
 nav{background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30}
 nav .wrap{max-width:1180px;margin:0 auto;display:flex;gap:2px;padding:0 10px;overflow-x:auto}
 nav button{background:none;border:0;padding:12px 15px;font-size:14px;font-weight:600;color:var(--muted);
@@ -48,7 +59,7 @@ section.tab{display:none}section.tab.on{display:block}
 .btn{background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:8px 14px;font-size:13.5px}
 .btn:hover{background:var(--soft)}
 .btn.pri{background:var(--accent);color:#fff;border-color:var(--accent)}
-.btn.pri:hover{background:#74491f}
+.btn.pri:hover{background:#12309a}
 .btn.grn{background:var(--accent2);color:#fff;border-color:var(--accent2)}
 .btn.sm{padding:4px 9px;font-size:12px}
 .btn:disabled{opacity:.4;cursor:default}
@@ -80,7 +91,7 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .phases{display:flex;gap:4px;margin-bottom:12px;flex-wrap:wrap}
 .phases button{flex:1;min-width:120px;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:9px 6px;font-size:13.5px;font-weight:600;color:var(--muted)}
 .phases button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-.phases button.done::after{content:" ✓";color:#cfe8d5}
+.phases button.done::after{content:" ✓";color:#cfe0d6}
 .phases button.on.done::after{color:#fff}
 /* ---- 본문 */
 .toolbar{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:8px 10px;background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:12px;position:sticky;top:46px;z-index:20;font-size:12.5px}
@@ -89,40 +100,104 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .toolbar .adv{display:contents}
 .text{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:28px 34px 40px;font-family:var(--serif);font-size:var(--fs);line-height:var(--lh)}
 .text .chno{font-family:var(--sans);text-align:center;color:var(--muted);font-size:13px;letter-spacing:.2em;margin-bottom:6px}
-.text .epi{white-space:pre-line;color:#5c5446;font-style:italic;text-align:center;font-size:.9em;margin:0 auto 4px;max-width:520px}
+.text .epi{white-space:pre-line;color:#4a5265;font-style:italic;text-align:center;font-size:.9em;margin:0 auto 4px;max-width:520px}
 .text .by{text-align:center;color:var(--muted);font-size:.78em;font-family:var(--sans);margin-bottom:28px}
 .text p{margin:0 0 .35em;text-indent:1.4em}
 .text p:first-of-type{text-indent:0}
 .text .s{border-radius:3px;transition:background .15s}
-.text .s:hover{background:#f7f2e4}
-.text .s.speaking{background:#fff2c2}
+.text .s:hover{background:#f4f7fd}
+.text .s.speaking{background:#fff6d0}
 .text .s.bm{box-shadow:inset 3px 0 0 var(--l2)}
-.text .s.hasan{border-bottom:2px dotted #b99a6b}
+.text .s.hasan{border-bottom:2px dotted #7f97dd}
 .text .tk{cursor:pointer;border-radius:2px}
-.text .tk:hover{background:#efe4c8}
-.text .tk.lk{border-bottom:2px solid #d9c48f}
+.text .tk:hover{background:#dbe4fb}
+.text .tk.lk{border-bottom:2px solid #a9bcec}
 .text .tk.incd{border-bottom:2px solid var(--l1)}
-.text.showhard .tk.hd{background:#fbf3d9}
-.text .tk.hard{background:#fbf3d9}
+.text.showhard .tk.hd{background:#fff6e0}
+.text .tk.hard{background:#fff6e0}
 .text .tag{font-family:var(--sans);font-size:10px;vertical-align:super;color:var(--blue);margin-left:1px;opacity:.75;cursor:pointer;user-select:none}
-.text .cb{display:inline-block;width:1px;height:.9em;background:#c9b48a;margin:0 4px 0 3px;vertical-align:-2px}
-.text .an{font-family:var(--sans);font-size:11px;color:#8a5a2b;cursor:pointer;margin-left:2px;vertical-align:1px}
+.text .cb{display:inline-block;width:1px;height:.9em;background:#9db2e8;margin:0 4px 0 3px;vertical-align:-2px}
+.text .an{font-family:var(--sans);font-size:11px;color:#1b45c4;cursor:pointer;margin-left:2px;vertical-align:1px}
 .text .dim{opacity:.32}
 .text .end{font-family:var(--sans);text-align:center;margin-top:34px;padding-top:20px;border-top:1px dashed var(--line);font-size:14px}
-.text .chtitle{font-family:var(--serif);text-align:center;font-size:1.05em;color:#4d463a;margin:0 auto 26px;max-width:640px;line-height:1.5}
+.text .chtitle{font-family:var(--serif);text-align:center;font-size:.86em;color:var(--muted);margin:0 auto 24px;max-width:560px;line-height:1.55;font-style:italic}
 .text .fn{font-family:var(--sans);font-size:.72em;color:var(--muted);margin:-.1em 0 .6em 1.4em;text-indent:0}
 /* ---- 구조 가이드 (자동 분석) */
-.text.guide .tk.gS{border-bottom:3px solid #6aa87e;background:#e6f2ea}
-.text.guide .tk.gV{border-bottom:3px solid #d1826c;background:#fbe4dc}
-.text .gb{display:inline-block;width:1px;height:.95em;background:#b9a57d;margin:0 5px 0 4px;vertical-align:-2px;position:relative}
+.text.guide .tk.gS{border-bottom:3px solid #1b45c4;background:#e9eefc}
+.text.guide .tk.gV{border-bottom:3px solid #b3261e;background:#fbeae8}
+.text .gb{display:inline-block;width:1px;height:.95em;background:#8fa4e0;margin:0 5px 0 4px;vertical-align:-2px;position:relative}
 .text{overflow-x:clip}
-.text .gb i{position:absolute;left:1px;top:-1.15em;max-width:16ch;overflow:hidden;text-overflow:ellipsis;font-family:var(--sans);font-style:normal;font-size:9.5px;line-height:1;color:#7d6a4a;white-space:nowrap;background:rgba(255,253,248,.85);padding:0 2px;border-radius:2px}
-.text .gb.nest{background:#d9cdb2}
-.text .gb.nest i{color:#a89673}
+.text .gb i{position:absolute;left:1px;top:-1.15em;max-width:16ch;overflow:hidden;text-overflow:ellipsis;font-family:var(--sans);font-style:normal;font-size:9.5px;line-height:1;color:#334a94;white-space:nowrap;background:rgba(255,253,248,.85);padding:0 2px;border-radius:2px}
+.text .gb.nest{background:#c3cfef}
+.text .gb.nest i{color:#7186c4}
 .text.guide.roles p{line-height:calc(var(--lh) + .55)}
 .glegend{font-family:var(--sans);font-size:12px;color:var(--muted);text-align:center;margin:0 0 14px}
 .glegend b{font-weight:600;padding:0 5px;border-radius:2px}
-.glegend .s{border-bottom:3px solid #6aa87e;background:#e6f2ea}.glegend .v{border-bottom:3px solid #d1826c;background:#fbe4dc}
+.glegend .s{border-bottom:3px solid #1b45c4;background:#e9eefc}.glegend .v{border-bottom:3px solid #b3261e;background:#fbeae8}
+/* ---- 읽기 모드: 문장별 줄바꿈 / 구조 펼침 -------------------------------
+   1877년 리드-켈로그 문장 도해에서 가져온 표기다. 왼쪽 세로선이 문장의 뼈대(주어·동사),
+   들여쓴 줄은 그 앞줄에 매달린 꾸밈말. 번호는 '읽는 순서'이고 언제나 위에서 아래로 읽는다. */
+.text .sn{display:none}
+.text.mode-sent .para{margin:0 0 1.5em;text-indent:0}
+.text.mode-struct .para.plain{margin:0 0 12px;text-indent:0}
+.text.mode-struct .para.plain .s{display:grid;grid-template-columns:2.9em 1fr;gap:0 .55em;align-items:baseline;padding:.1em .25em .1em 0}
+.text.mode-struct .para.plain .sn{display:block;font-family:var(--mono);font-size:10px;color:var(--cobalt-soft);text-align:right;padding-top:.3em;white-space:nowrap}
+.text.mode-struct .para.plain .sb{display:block;min-width:0}
+.text.mode-sent .s{display:grid;grid-template-columns:2.9em 1fr;gap:0 .55em;
+  padding:.12em .25em .12em 0;border-radius:6px;align-items:baseline}
+.text.mode-sent .s + .s{margin-top:.34em}
+.text.mode-sent .sn{display:block;font-family:var(--mono);font-size:10px;line-height:1.7;
+  color:var(--cobalt-soft);text-align:right;letter-spacing:.02em;white-space:nowrap;
+  padding-top:.32em;-webkit-user-select:none;user-select:none}
+.text.mode-sent .sb{display:block;min-width:0;overflow-wrap:break-word}
+.text.mode-sent .s:hover{background:var(--soft)}
+.text.mode-sent .s.bm{box-shadow:inset 3px 0 0 var(--l2)}
+/* 구조 펼침 */
+.sx{background:var(--paper);border:1px solid var(--rule);border-radius:9px;
+  padding:9px 12px 11px;margin:0 0 12px;box-shadow:0 1px 0 rgba(20,23,31,.02)}
+.sx .hd{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-bottom:7px;
+  padding-bottom:6px;border-bottom:1px dashed var(--rule)}
+.sx .loc{font-family:var(--mono);font-size:10px;color:var(--cobalt-soft);letter-spacing:.02em}
+.sx .src{font-family:var(--sans);font-size:10px;color:var(--muted);margin-left:auto}
+.sx .src.tut{color:var(--cobalt);font-weight:600}
+.sx .row{display:grid;grid-template-columns:1.75em 1fr;gap:0 .45em;align-items:start;
+  padding:.2em .3em;border-radius:5px;cursor:pointer}
+.sx .row .n{font-family:var(--mono);font-size:10.5px;font-weight:700;color:var(--cobalt-soft);
+  text-align:right;padding-top:.5em;-webkit-user-select:none;user-select:none}
+.sx .rb{min-width:0;position:relative;margin-left:calc(var(--d,0) * 1.05em)}
+.sx .row[data-d="1"] .rb::before,.sx .row[data-d="2"] .rb::before,.sx .row[data-d="3"] .rb::before{
+  content:"└";position:absolute;left:-.95em;top:.02em;font-family:var(--mono);font-size:11px;color:#c3cfef}
+.sx .en{font-family:var(--serif);font-size:1em;line-height:1.5;display:block;overflow-wrap:break-word}
+.sx .ko{font-family:var(--sans);font-size:.72em;line-height:1.55;color:#4a5265;display:block;margin-top:.1em}
+.sx .rl{font-family:var(--mono);font-size:9.5px;letter-spacing:.03em;color:var(--blue);
+  display:inline-block;margin-top:.15em;background:var(--chip);border-radius:3px;padding:.1em .4em}
+.sx .rl .to{color:var(--cobalt-soft)}
+.sx .row.is-S .en{color:var(--cobalt);font-weight:600}
+.sx .row.is-V .en{color:var(--brick);font-weight:600}
+.sx .row.is-S .rl,.sx .row.is-V .rl{font-weight:700}
+.sx .row.is-S{box-shadow:inset 2px 0 0 var(--cobalt)}
+.sx .row.is-V{box-shadow:inset 2px 0 0 var(--brick)}
+.sx .row.sel{background:var(--soft)}
+.sx .row.lit{background:var(--cobalt-wash);box-shadow:inset 2px 0 0 var(--cobalt-soft)}
+.sx .row:hover{background:var(--soft)}
+.sx .full{margin-top:8px;padding-top:7px;border-top:1px dashed var(--rule);
+  font-family:var(--serif);font-size:.92em;line-height:1.65;color:#3a4152}
+.sx .full .lbl{font-family:var(--mono);font-size:9.5px;color:var(--muted);display:block;margin-bottom:2px}
+.modelegend{font-family:var(--sans);font-size:11.5px;color:var(--muted);text-align:center;
+  margin:0 0 16px;padding:7px 10px;background:var(--soft);border-radius:7px;line-height:1.6}
+.modelegend b{color:var(--cobalt)}
+.modelegend .v{color:var(--brick)}
+@media(max-width:860px){
+  .text.mode-sent .s{grid-template-columns:2.4em 1fr;gap:0 .4em}
+  .text.mode-sent .sn{font-size:9.5px}
+  .sx{padding:8px 9px 10px;margin-bottom:10px}
+  .sx .row{grid-template-columns:1.5em 1fr;padding:.22em .15em}
+  .sx .rb{margin-left:calc(var(--d,0) * .75em)}
+}
+/* 문장별·구조 모드에서는 문장 전체를 가로지르는 점선 대신 왼쪽에 작은 표식만 둔다 */
+.text.mode-sent .s.hasan,.text.mode-struct .s.hasan{border-bottom:0}
+.text.mode-sent .s.hasan .sn::after,.text.mode-struct .para.plain .s.hasan .sn::after{content:"·";color:var(--cobalt);font-weight:700;margin-left:2px}
+.text.mode-sent .s.bm .sn{color:var(--l2);font-weight:700}
 /* ---- 아래 이동 바 (모바일) */
 .bnav{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:12px}
 .progress{position:fixed;left:0;top:0;height:3px;background:var(--accent2);width:0;z-index:40;transition:width .15s}
@@ -130,21 +205,21 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 /* ---- 주어·동사 퀴즈 */
 .qz2 .qs{font-family:var(--serif);font-size:19px;line-height:1.9;background:var(--soft);padding:14px 16px;border-radius:8px}
 .qz2 .qs .qw{cursor:pointer;border-radius:3px;padding:1px 2px}
-.qz2 .qs .qw:hover{background:#efe4c8}
-.qz2 .qs .qw.pickS{background:#e6f2ea;border-bottom:3px solid #6aa87e}
-.qz2 .qs .qw.pickV{background:#fbe4dc;border-bottom:3px solid #d1826c}
-.qz2 .qs .qw.ansS{outline:2px dashed #6aa87e;outline-offset:1px}
-.qz2 .qs .qw.ansV{outline:2px dashed #d1826c;outline-offset:1px}
+.qz2 .qs .qw:hover{background:#dbe4fb}
+.qz2 .qs .qw.pickS{background:#e9eefc;border-bottom:3px solid #1b45c4}
+.qz2 .qs .qw.pickV{background:#fbeae8;border-bottom:3px solid #b3261e}
+.qz2 .qs .qw.ansS{outline:2px dashed #1b45c4;outline-offset:1px}
+.qz2 .qs .qw.ansV{outline:2px dashed #b3261e;outline-offset:1px}
 .qz2 .step{font-weight:600;margin:10px 0 6px}
 .qz2 .fb{min-height:22px;margin-top:8px}
 .roles-table{width:100%;font-size:13px;margin-top:6px}
 .roles-table td{padding:5px 6px}
 .roles-table .en{font-family:var(--serif);font-size:15px}
 .roles-table .r{color:var(--blue);white-space:nowrap;font-size:12px}
-.roles-table .r.nest{color:#a89673}
+.roles-table .r.nest{color:#7186c4}
 .roles-table .r.nest::before{content:"↳ ";}
-.roles-table tr.S td.en{box-shadow:inset 3px 0 0 #6aa87e;padding-left:8px}
-.roles-table tr.V td.en{box-shadow:inset 3px 0 0 #d1826c;padding-left:8px}
+.roles-table tr.S td.en{box-shadow:inset 3px 0 0 #1b45c4;padding-left:8px}
+.roles-table tr.V td.en{box-shadow:inset 3px 0 0 #b3261e;padding-left:8px}
 /* ---- 단어 표 */
 table{width:100%;border-collapse:collapse}
 th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line);vertical-align:top;font-size:13.5px}
@@ -154,8 +229,8 @@ td .fm{font-size:11px;color:var(--muted);font-family:var(--serif)}
 td .pos{font-family:var(--serif);font-style:italic;color:var(--muted);font-size:12px}
 tr.known td{opacity:.45}
 tr.incard td .w{color:var(--accent2)}
-.ex{font-family:var(--serif);font-size:14px;color:#4d463a;background:var(--soft);padding:8px 11px;border-radius:6px;margin-top:6px;border-left:3px solid var(--accent2)}
-.ex b{background:#ffe9a8;font-weight:700;padding:0 1px;border-radius:2px}
+.ex{font-family:var(--serif);font-size:14px;color:#3a4152;background:var(--soft);padding:8px 11px;border-radius:6px;margin-top:6px;border-left:3px solid var(--accent2)}
+.ex b{background:#fff0b8;font-weight:700;padding:0 1px;border-radius:2px}
 /* ---- 팝오버(단어) */
 #pop{position:absolute;z-index:60;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 8px 28px rgba(0,0,0,.14);padding:12px 14px;width:min(360px,calc(100vw - 20px));display:none;font-size:13.5px}
 #pop .w{font-family:var(--serif);font-size:22px;font-weight:700}
@@ -171,32 +246,32 @@ tr.incard td .w{color:var(--accent2)}
 #drawer .x{position:sticky;top:0;float:right;border:0;background:var(--chip);border-radius:50%;width:30px;height:30px;font-size:16px}
 #drawer h3{margin:4px 0 10px;font-size:15px;color:var(--accent)}
 #drawer .sent{font-family:var(--serif);font-size:17px;line-height:1.7;background:var(--soft);padding:12px 14px;border-radius:8px}
-#drawer .sent .S{background:#dbeee0;border-bottom:2px solid var(--l1);padding:0 2px;border-radius:2px}
-#drawer .sent .V{background:#fde3d8;border-bottom:2px solid var(--l3);padding:0 2px;border-radius:2px}
+#drawer .sent .S{background:#e9eefc;border-bottom:2px solid var(--l1);padding:0 2px;border-radius:2px}
+#drawer .sent .V{background:#fbeae8;border-bottom:2px solid var(--l3);padding:0 2px;border-radius:2px}
 #drawer .sent .dim{opacity:.32}
 #drawer .legend{font-size:12px;color:var(--muted);margin:6px 0 0}
 #drawer .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin:0 3px 0 8px;vertical-align:-1px}
 .chunks{margin-top:10px}
 .chunks .ck{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:7px 8px;border-bottom:1px solid var(--line);font-size:14px}
-.chunks .ck:nth-child(odd){background:#faf7ef}
+.chunks .ck:nth-child(odd){background:#f8fafe}
 .chunks .ck .en{font-family:var(--serif);font-size:15px}
 .chunks .ck .en.S{box-shadow:inset 3px 0 0 var(--l1);padding-left:6px}
 .chunks .ck .en.V{box-shadow:inset 3px 0 0 var(--l3);padding-left:6px}
 .chunks .ck .r{display:block;font-size:11px;color:var(--blue);margin-top:2px}
-.chunks .ck .ko{color:#4d463a}
+.chunks .ck .ko{color:#3a4152}
 .auto{font-family:var(--serif);font-size:15.5px;line-height:1.9;margin-top:6px}
-.auto .cb{display:inline-block;width:1px;height:.9em;background:#c9b48a;margin:0 5px 0 4px;vertical-align:-2px}
-.stag{display:inline-block;background:#e9eef7;color:var(--blue);border-radius:6px;padding:3px 8px;font-size:12px;margin:3px 4px 0 0;cursor:pointer;border:1px solid #d3dcec}
-.stag:hover{background:#dde6f4}
-.tip{background:#eaf1ec;border-left:3px solid var(--accent2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
-.why{background:#fdf5e4;border-left:3px solid var(--l2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
-.ko-full{margin-top:10px;padding:10px 12px;background:#f3f6f9;border-radius:6px;font-size:14px}
+.auto .cb{display:inline-block;width:1px;height:.9em;background:#9db2e8;margin:0 5px 0 4px;vertical-align:-2px}
+.stag{display:inline-block;background:#e9eefc;color:var(--blue);border-radius:6px;padding:3px 8px;font-size:12px;margin:3px 4px 0 0;cursor:pointer;border:1px solid #c9d5f2}
+.stag:hover{background:#dbe4fb}
+.tip{background:#eef3ee;border-left:3px solid var(--accent2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
+.why{background:#fdf6e6;border-left:3px solid var(--l2);padding:9px 12px;border-radius:6px;margin-top:10px;font-size:13.5px}
+.ko-full{margin-top:10px;padding:10px 12px;background:#f1f5fd;border-radius:6px;font-size:14px}
 /* ---- 문장구조 */
 .sc{padding:14px 16px}
 .sc .cat{display:inline-block;font-size:11px;background:var(--chip);color:var(--muted);padding:2px 9px;border-radius:12px;margin-right:6px}
 .formula{font-family:var(--serif);background:var(--soft);padding:9px 12px;border-radius:6px;margin:10px 0;font-size:14px}
 .sc .en{font-family:var(--serif);font-size:15px;margin-top:10px}
-.sc .ko{color:#5c5446;font-size:14px;margin-top:3px;padding-left:10px;border-left:2px solid var(--line)}
+.sc .ko{color:#4a5265;font-size:14px;margin-top:3px;padding-left:10px;border-left:2px solid var(--line)}
 .sc .more{margin-top:8px}
 .sc .hit{font-family:var(--serif);font-size:14px;padding:6px 8px;border-bottom:1px dashed var(--line);cursor:pointer}
 .sc .hit:hover{background:var(--soft)}
@@ -206,7 +281,7 @@ tr.incard td .w{color:var(--accent2)}
 .rv .front{font-family:var(--serif);font-size:38px;font-weight:700;margin:6px 0 2px}
 .rv .pos{font-family:var(--serif);font-style:italic;color:var(--muted)}
 .rv .ctx{font-family:var(--serif);font-size:16px;line-height:1.7;background:var(--soft);padding:12px 14px;border-radius:8px;margin:14px 0;text-align:left}
-.rv .ctx b{background:#ffe9a8;padding:0 2px;border-radius:2px}
+.rv .ctx b{background:#fff0b8;padding:0 2px;border-radius:2px}
 .rv .ctx .blank{display:inline-block;min-width:80px;border-bottom:2px solid var(--accent);text-align:center;color:var(--accent);font-family:var(--sans);font-size:13px}
 .rv .back{font-size:20px;margin:6px 0}
 .rv .grades{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:12px}
@@ -227,13 +302,13 @@ tr.incard td .w{color:var(--accent2)}
 .bars i span{position:absolute;bottom:-16px;left:0;right:0;text-align:center;font-size:9px;color:var(--muted)}
 .qbox{border:1px solid var(--line);border-radius:8px;padding:12px;margin-bottom:10px;background:#fff}
 .qbox .q{font-weight:600}
-.qbox .a{background:#eaf1ec;padding:8px 10px;border-radius:6px;margin-top:8px;font-size:14px}
+.qbox .a{background:#eef3ee;padding:8px 10px;border-radius:6px;margin-top:8px;font-size:14px}
 .qbox .t{font-size:11px;color:var(--muted);margin-left:6px;font-weight:400}
 .help h4{margin:16px 0 4px;color:var(--accent)}
 .help ol,.help ul{padding-left:20px}
 .help li{margin-bottom:5px}
 .help .ev{font-size:12.5px;color:var(--muted)}
-.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#2b2822;color:#fff;padding:10px 16px;border-radius:8px;font-size:13.5px;z-index:90;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#0d2a78;color:#fff;padding:10px 16px;border-radius:8px;font-size:13.5px;z-index:90;opacity:0;transition:opacity .2s;pointer-events:none}
 .toast.on{opacity:.95}
 @media(max-width:860px){
   .readwrap{grid-template-columns:1fr}
@@ -246,7 +321,7 @@ tr.incard td .w{color:var(--accent2)}
   .toolbar .timer{margin-left:auto}
   #drawer{width:100vw;top:auto;bottom:0;max-height:78vh;transform:translateY(105%);border-left:0;border-top:1px solid var(--line);border-radius:14px 14px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.18);padding:10px 14px 30px}
   #drawer.on{transform:none}
-  #drawer::before{content:"";display:block;width:40px;height:4px;border-radius:2px;background:#cfc6b3;margin:0 auto 8px}
+  #drawer::before{content:"";display:block;width:40px;height:4px;border-radius:2px;background:#c3cbdd;margin:0 auto 8px}
   .chunks .ck{grid-template-columns:1fr}
   main{padding:10px 8px 70px}
   .phases button{min-width:0;font-size:12.5px;padding:8px 4px}
@@ -261,8 +336,9 @@ tr.incard td .w{color:var(--accent2)}
 </head>
 <body>
 <header><div class="wrap">
+  <span class="mark" aria-hidden="true"><i></i><b></b></span>
   <h1>톰 소여의 모험 리더</h1>
-  <span class="sub">Mark Twain, <i>The Adventures of Tom Sawyer</i> (1876) · 36장 · 읽기 전 → 읽기 → 읽은 후 · 문장 구조 가이드 · 단어는 간격 반복으로</span>
+  <span class="sub">Mark Twain, <i>The Adventures of Tom Sawyer</i> (1876) · 36장</span>
   <span class="today" id="hdr"></span>
 </div></header>
 <div class="progress" id="prog"></div>
@@ -362,9 +438,15 @@ tr.incard td .w{color:var(--accent2)}
     <h3>이 앱은 어떤 원리로 만들었나</h3>
     <p>영어 독해력은 <b>① 어휘</b> ② <b>문장(구조) 처리</b> ③ 읽기 유창성(속도) ④ 이해 전략의 네 축으로 설명됩니다. 아래는 이 앱의 기능이 어떤 검증된 방법에 대응하는지입니다. (근거 문헌은 저장소의 <i>docs/독해기법_근거보고서.md</i>)</p>
     <h4>0) 문장 구조 가이드 — 이 앱의 핵심 (초기 훈련 모드)</h4>
-    <p>본문의 <b>모든 문장</b>에 주절의 <span style="border-bottom:3px solid #6aa87e;background:#e6f2ea;padding:0 3px">주어</span>와 <span style="border-bottom:3px solid #d1826c;background:#fbe4dc;padding:0 3px">동사</span>를 표시하고, 의미 단위 경계( | )와 그 역할(전치사구·부사절·관계절·분사구문 …)을 붙였습니다(컴퓨터 구문 분석, 약 9할 정확). 문장을 누르면 의미 단위 표와 역할 설명이 나오고, 1~12장의 어려운 문장에는 튜터가 직접 쓴 분석·번역이 있습니다.</p>
-    <p><b>왜 초기에 도움이 되나:</b> L2 독해에서 문법·통사 지식은 어휘만큼이나(상관 r≈.85) 이해도를 결정하고(Jeon &amp; Yamashita 2014), 문장 수준의 명시적 지도가 특히 긴 문장·삽입절에서 효과가 있습니다(Scott 2009; Zipoli 2017). 구 단위 경계 표시(phrase-cued text)는 읽기가 서툰 독자의 유창성·이해를 돕습니다(Casteel 1988; LeVasseur 2006).</p>
-    <p><b>단, 발판은 걷어내야 합니다.</b> 가이드에 계속 기대면 스스로 파싱하는 힘이 늘지 않고 읽기 속도도 안 붙습니다. 권장 순서: <b>1~7장 "모든 문장" → 8~15장 "긴 문장만" → 이후 "끔"</b>(막히는 문장만 눌러서 확인). 매 장 끝의 <b>주어·동사 찾기 퀴즈</b>에서 8/10 이상이 이어지면 한 단계 줄이세요. 7장을 넘기면 앱이 한 번 알려 줍니다.</p>
+    <p>읽기 화면은 세 가지입니다. 도구 막대 맨 왼쪽에서 고릅니다.</p>
+    <ul>
+      <li><b>문장별 줄바꿈</b> (기본) — 한 줄에 문장 하나. 줄 간격을 넓혀 두었고, 문장 안에 <span style="border-bottom:3px solid #1b45c4;background:#e9eefc;padding:0 3px">주어</span>·<span style="border-bottom:3px solid #b3261e;background:#fbeae8;padding:0 3px">동사</span>와 의미 단위 구분선( | )이 표시됩니다. 왼쪽 회색 숫자는 <b>문단·문장 번호</b>로, 읽은 후 확인 질문의 근거 번호와 같습니다.</li>
+      <li><b>구조 펼침</b> — 긴 문장을 <b>의미 단위마다 한 줄씩 번호를 붙여</b> 쌓습니다. <b>번호가 곧 읽는 순서</b>이고 언제나 위에서 아래로 읽습니다. 들여쓴 줄(└)은 앞의 무언가에 매달린 꾸밈말이며, 이름표의 <b>→숫자</b>가 <b>무엇을 꾸미는지</b> 가리킵니다. <b>줄을 누르면 그 대상이 파랗게 켜집니다.</b> 1~12장의 어려운 문장 264개는 튜터가 쓴 한국어 뜻이 줄마다 붙고 전체 번역도 함께 나옵니다. 대사 한 마디처럼 펼칠 구조가 없는 짧은 문장은 그냥 한 줄로 둡니다.</li>
+      <li><b>이어서 읽기</b> — 보통 소설처럼 문단으로 이어 읽습니다. 발판을 다 걷어냈을 때 쓰세요.</li>
+    </ul>
+    <p>표기는 1877년 미국 교실에서 쓰던 <b>문장 도해(리드-켈로그)</b>에서 가져왔습니다. 이 소설이 나온 해(1876년)의 학교에서 실제로 문장을 이렇게 뜯어 봤습니다.</p>
+    <p><b>왜 초기에 도움이 되나:</b> L2 독해에서 문법·통사 지식은 어휘만큼이나(상관 r≈.85) 이해도를 결정하고(Jeon &amp; Yamashita 2014), 문장 수준의 명시적 지도가 특히 긴 문장·삽입절에서 효과가 있습니다(Scott 2009; Zipoli 2017). 구 단위 경계 표시는 읽기가 서툰 독자의 유창성·이해를 돕습니다(Casteel 1988; LeVasseur 2006).</p>
+    <p><b>단, 발판은 걷어내야 합니다.</b> 가이드에 계속 기대면 스스로 파싱하는 힘이 늘지 않고 읽기 속도도 안 붙습니다. 권장 순서: <b>1~7장 구조 펼침·문장별 → 8~15장 문장별 + "긴 문장만" → 이후 이어서 읽기</b>(막히는 문장만 눌러서 확인). 매 장 끝의 <b>주어·동사 찾기 퀴즈</b>에서 8/10 이상이 이어지면 한 단계 줄이세요.</p>
     <h4>1) 읽기 전 — 단어 미리보기 (어휘 커버리지 98% 원칙)</h4>
     <p>본문 단어의 <b>98%</b>를 알면 편하게 읽히고 95% 아래면 이해가 무너집니다(Hu &amp; Nation 2000; Nation 2006). 장을 열면 <b>그 장의 낯선 단어를 빈도순으로</b> 보여주고 몇 개를 익히면 98%가 되는지 계산합니다. 처음 한 번 <b>어휘 수준 점검</b>(레벨 2 단어 20개)을 하면 목록이 내 수준에 맞게 줄어듭니다.</p>
     <h4>2) 읽는 중 — 단어를 누르면 뜻(L1 글로스), 문장을 누르면 구조</h4>
@@ -380,7 +462,7 @@ tr.incard td .w{color:var(--accent2)}
     <h4>화면 조작 요령</h4>
     <ul>
       <li>본문에서 <b>단어</b>를 누르면 뜻 팝업, <b>문장의 빈 곳(또는 세로선·번호)</b>을 누르면 문장 패널(휴대폰은 아래에서 올라옴). 🔍 표시 = 튜터 분석 있음.</li>
-      <li>도구 막대: <b>구조 가이드</b>(모든 문장/긴 문장만/끔), <b>역할 이름</b>(경계선 위 작은 글씨), 🔊 읽어주기, ⚙ 도구(글자 크기·줄간격·태그·새 단어 강조·속도).</li>
+      <li>도구 막대: <b>읽기 화면</b>(문장별/이어서/구조 펼침), <b>구조 표시</b>(모든 문장/긴 문장만/끔), 🔊 읽어주기, ⚙ 도구(역할 이름·글자 크기·줄간격·태그·새 단어 강조·속도).</li>
       <li>[1.14.0] 같은 번호 = 1장 · 14번째 문단 · 첫 문장. 확인 질문의 근거 번호와 같습니다.</li>
       <li>단어 복습 키보드: <kbd>Space</kbd> 뜻 보기, <kbd>1</kbd>~<kbd>4</kbd> 채점, 철자 모드 <kbd>Enter</kbd>.</li>
       <li>진행 기록은 이 브라우저(기기)에만 저장됩니다. 다른 기기로 옮기려면 <b>기록 탭 → 내보내기/불러오기</b>. 휴대폰에서는 브라우저 메뉴의 "홈 화면에 추가"로 앱처럼 쓸 수 있습니다.</li>
@@ -424,7 +506,7 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:18,lh:1.85,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,guide:'all',roles:true,fadeHint:0},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,guide:'all',roles:true,fadeHint:0,layout:'sent'},cur:{ch:1,phase:'pre'},log:{},done:{},quiz:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -589,45 +671,76 @@ function resumeTimer(){ if(!timer.iv&&timer.ch===S.cur.ch){timer.on=true;timer.i
 const HARDTAGS=new Set([3,4,6,7,8,9,10,11,12,13,14,15,17,18]);
 // 자동 구문 분석의 역할 코드 → 한국어 (06_parse_syntax.py 와 같은 표)
 const ROLE={S:'주어',V:'동사',O:'목적어',C:'보어',P:'전치사구',A:'부사',M:'수식어',R:'관계절',N:'명사구',Q:'인용',T:'전달동사',J:'접속사',I:'삽입',D:'부사절',G:'분사구문',K:'대등절',Z:'목적어절',E:'to부정사',X:'기타'};
-const LABEL_ROLES=new Set(['S','V','O','C','P','D','G','R','K','Z','Q','T','E']); // 본문 경계선 위에 이름을 붙일 역할 (부사·접속사·수식어는 선만)
 const ROLE_LONG={S:'주어 — 누가/무엇이',V:'동사 — 어떻게 하다/이다',O:'목적어 — 무엇을',C:'보어 — 주어·목적어를 설명',P:'전치사구 — 장소·시간·수단 등 꾸밈',A:'부사(구) — 언제·어떻게·얼마나',M:'수식어 — 명사를 꾸밈',R:'관계절 — 앞 명사를 설명(who/which/that…)',N:'명사구 — 동격·호격·나열',Q:'인용 — 따옴표 속 대사',T:'전달동사 — said Tom 등',J:'접속사 — and/but/that/when…',I:'삽입·감탄 — 끼어든 말',D:'부사절 — 때·이유·조건(when/because/if…)',G:'분사구문 — ~하면서/~하고 나서',K:'대등절 — and/but/;로 이어진 또 하나의 문장',Z:'목적어절 — that…/의문사절',E:'to부정사·보어절 — ~하는 것/~하기 위해',X:'기타'};
+const LABEL_ROLES=new Set(['S','V','O','C','P','D','G','R','K','Z','Q','T','E']); // 본문 경계선 위에 이름을 붙일 역할
 const roleName=r=>{const parts=r.split('>');const last=parts[parts.length-1];return (parts.length>1?(ROLE[parts[0]]||'')+'›':'')+(ROLE[last]||last);};
+const lastRole=r=>r.split('>').pop();
 const syn=(n,pi,si)=>{const c=SYNTAX[String(n)];const row=c&&c[pi];return row?row[si]:null;};
+// 들여쓰기 깊이: 뼈대(주어·동사)는 0, 목적어·보어는 1, 다른 꾸밈말에 매달리면 한 단 더
+function rowDepth(ch,i){
+  if(ch.length<2)return 0;
+  const r=ch[i][1], hk=ch[i][2];
+  const nest=(r.match(/>/g)||[]).length, last=lastRole(r);
+  let d=(last==='V'||last==='S')?0:1;
+  if(hk>=0&&hk<ch.length){ const hr=lastRole(ch[hk][1]||'X'); if(hr!=='V'&&hr!=='S')d+=1; }
+  return Math.min(nest+d,3);
+}
 function renderRead(n){
   const c=CH[n-1], rc=RD.chapters[n-1];
   const tagmap={}; rc.tags.forEach(([pi,si,ids])=>tagmap[pi+'.'+si]=ids);
   const lk=S.lookups[n]||{};
-  const st=S.set;
+  const st=S.set, mode=st.layout||'sent';
   let html=`<div class="toolbar" id="tb">
-    <label>구조 가이드 <select id="guide"><option value="all" ${st.guide==='all'?'selected':''}>모든 문장</option><option value="long" ${st.guide==='long'?'selected':''}>긴 문장만 (12단어↑)</option><option value="off" ${st.guide==='off'?'selected':''}>끔</option></select></label>
-    <label><input type="checkbox" id="ckRoles" ${st.roles?'checked':''}> 역할 이름</label>
+    <label>읽기 화면 <select id="layout">
+      <option value="sent" ${mode==='sent'?'selected':''}>문장별 줄바꿈</option>
+      <option value="flow" ${mode==='flow'?'selected':''}>이어서 읽기</option>
+      <option value="struct" ${mode==='struct'?'selected':''}>구조 펼침</option>
+    </select></label>
+    <label class="${mode==='struct'?'hide':''}">구조 표시 <select id="guide"><option value="all" ${st.guide==='all'?'selected':''}>모든 문장</option><option value="long" ${st.guide==='long'?'selected':''}>긴 문장만</option><option value="off" ${st.guide==='off'?'selected':''}>끔</option></select></label>
     <button class="btn sm" id="ttsPlay">🔊 읽어주기</button><button class="btn sm" id="ttsStop">■</button>
     <button class="btn sm advtog" id="advtog">⚙ 도구</button>
     <span class="timer">⏱ <span id="tm">${fmtT(timer.ch===n?timer.secs:0)}</span></span>
     <div class="adv">
-      <label>글자 <input type="range" id="fs" min="14" max="26" step="1" value="${st.fs}"></label>
-      <label>줄간격 <input type="range" id="lh" min="1.5" max="2.4" step="0.05" value="${st.lh}"></label>
+      <label><input type="checkbox" id="ckRoles" ${st.roles?'checked':''}> 역할 이름</label>
+      <label>글자 <input type="range" id="fs" min="15" max="28" step="1" value="${st.fs}"></label>
+      <label>줄간격 <input type="range" id="lh" min="1.5" max="2.6" step="0.05" value="${st.lh}"></label>
       <label><input type="checkbox" id="ckTags" ${st.tags?'checked':''}> 구조 태그(번호)</label>
       <label><input type="checkbox" id="ckHard"> 새 단어 강조</label>
       <label>읽기 속도 <input type="range" id="rate" min="0.6" max="1.3" step="0.05" value="${st.rate}"></label>
     </div>
   </div>`;
-  html+=`<div class="text ${st.guide!=='off'?'guide':''} ${st.roles?'roles':''}" id="text"><div class="chno">CHAPTER ${esc(c.roman)}</div>`;
+  const guideOn=st.guide!=='off'&&mode!=='struct';
+  html+=`<div class="text mode-${mode} ${guideOn?'guide':''} ${st.roles?'roles':''}" id="text"><div class="chno">CHAPTER ${esc(c.roman)}</div>`;
   if(c.title&&c.title!=='Conclusion')html+=`<div class="chtitle">${esc(c.title)}</div>`;
-  if(st.guide!=='off')html+=`<div class="glegend"><b class="s">주어</b> <b class="v">동사</b> 는 각 문장 주절의 것 · 세로선 <span style="color:#7d6a4a">|</span> 은 의미 단위 경계(자동 분석) · 문장을 누르면 자세히</div>`;
+  if(mode==='struct')html+=`<div class="modelegend"><b>번호 순서대로 위에서 아래로</b> 읽으세요. 왼쪽 세로선이 문장의 뼈대 — <b>주어</b>와 <span class="v">동사</span>입니다.<br>들여쓴 줄(└)은 <b>바로 위 어딘가에 매달린 꾸밈말</b>이고, 이름표의 <b>→숫자</b>가 무엇을 꾸미는지 가리킵니다. 줄을 누르면 그 대상이 파랗게 켜집니다.</div>`;
+  else if(mode==='sent')html+=`<div class="modelegend">한 줄에 <b>문장 하나</b>. 왼쪽 회색 숫자는 <b>문단·문장 번호</b>로, 읽은 후 확인 질문의 근거 번호와 같습니다.${guideOn?' 문장 안의 <b>주어</b>·<span class="v">동사</span>와 의미 단위 구분선도 함께 표시됩니다.':''}</div>`;
   c.paras.forEach((para,pi)=>{
-    html+='<p>'+para.map((s,si)=>{
-      const id=`${n}.${pi}.${si}`, ids=tagmap[pi+'.'+si]||[];
-      const has=!!ANA[id];
-      const sy=syn(n,pi,si);
-      const words=s.split(/\s+/).length;
-      const g=st.guide==='all'||(st.guide==='long'&&words>=12);
-      let inner=renderSent(s,lk,g?sy:null);
-      const tg=ids.filter(t=>HARDTAGS.has(t));
-      const tagHtml=tg.length?`<span class="tag" title="문장구조 ${tg.join(',')}">${tg.join('·')}</span>`:'';
-      return `<span class="s ${has?'hasan':''} ${S.bm[id]?'bm':''}" data-id="${id}" data-t="${ids.join(',')}">${inner}${has?'<span class="an" title="튜터 분석 있음">🔍</span>':''}${tagHtml}</span>`;
-    }).join(' ')+'</p>';
-    if(c.notes&&c.notes[String(pi)])html+=`<div class="fn">※ ${esc(c.notes[String(pi)])}</div>`;
+    if(mode==='struct'){
+      // 짧고 단순한 문장(대사 한 마디 등)은 도해로 펼치지 않고 한 줄로 둔다 — 펼칠 구조가 없다
+      let plain=[];
+      const flush=()=>{ if(plain.length){ html+='<p class="para plain">'+plain.join('')+'</p>'; plain=[]; } };
+      para.forEach((sent,si)=>{
+        const id=`${n}.${pi}.${si}`, sy=syn(n,pi,si), a=ANA[id];
+        const nch=a&&a.chunks?a.chunks.length:(sy&&sy[2]?sy[2].length:0);
+        if(!a&&(nch<3||sent.split(/\s+/).length<7)){
+          plain.push(`<span class="s" data-id="${id}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk,null)}</span></span>`);
+        }else{ flush(); html+=structBlock(n,pi,si,sent,tagmap[pi+'.'+si]||[]); }
+      });
+      flush();
+    }else{
+      html+='<p class="para">'+para.map((sent,si)=>{
+        const id=`${n}.${pi}.${si}`, ids=tagmap[pi+'.'+si]||[];
+        const has=!!ANA[id];
+        const sy=syn(n,pi,si);
+        const words=sent.split(/\s+/).length;
+        const g=guideOn&&(st.guide==='all'||(st.guide==='long'&&words>=12));
+        const inner=renderSent(sent,lk,g?sy:null);
+        const tg=ids.filter(t=>HARDTAGS.has(t));
+        const tagHtml=tg.length?`<span class="tag" title="문장구조 ${tg.join(',')}">${tg.join('·')}</span>`:'';
+        return `<span class="s ${has?'hasan':''} ${S.bm[id]?'bm':''}" data-id="${id}" data-t="${ids.join(',')}"><span class="sn">${pi}·${si}</span><span class="sb">${inner}${has?'<span class="an" title="튜터 분석 있음">🔍</span>':''}${tagHtml}</span></span>`;
+      }).join(mode==='sent'?'':' ')+'</p>';
+      if(c.notes&&c.notes[String(pi)])html+=`<div class="fn">※ ${esc(c.notes[String(pi)])}</div>`;
+    }
   });
   html+=`<div class="end">CHAPTER ${esc(c.roman)} 끝 (${rc.tok.toLocaleString()}단어)<br><br>
     <button class="btn pri" id="finishRead">다 읽었어요 → 읽은 후로</button>
@@ -636,6 +749,7 @@ function renderRead(n){
   $('#pane').innerHTML=html;
   applyTextStyle();
   startTimer(n);
+  $('#layout').onchange=e=>{S.set.layout=e.target.value;save();renderRead(n);window.scrollTo(0,0);};
   $('#guide').onchange=e=>{S.set.guide=e.target.value;save();renderRead(n);};
   $('#ckRoles').onchange=e=>{S.set.roles=e.target.checked;save();$('#text').classList.toggle('roles',S.set.roles);};
   $('#advtog').onclick=()=>$('#tb').classList.toggle('open');
@@ -652,17 +766,61 @@ function renderRead(n){
   $('#text').onclick=e=>{
     const tk=e.target.closest('.tk');
     if(tk){showPop(tk,n);e.stopPropagation();return;}
+    const row=e.target.closest('.sx .row');
+    if(row){ litRow(row); e.stopPropagation(); return; }
     if(e.target.closest('.an')||e.target.closest('.tag')||e.target.closest('.gb')){openDrawer(e.target.closest('.s').dataset.id);return;}
-    const s=e.target.closest('.s'); if(s){openDrawer(s.dataset.id);}
+    const sxh=e.target.closest('.sx .hd'); if(sxh){openDrawer(sxh.parentNode.dataset.id);return;}
+    const sEl=e.target.closest('.s'); if(sEl){openDrawer(sEl.dataset.id);}
   };
-  // 가이드 줄이기 힌트: 7장 이상 완료했는데 아직 '모든 문장'이면 한 번만 권한다
-  if(st.guide==='all'&&Object.keys(S.done).length>=7&&!st.fadeHint){S.set.fadeHint=1;save();setTimeout(()=>toast('7장을 넘겼습니다. 구조 가이드를 "긴 문장만"으로 줄여 스스로 읽는 연습을 시작해 보세요.'),800);}
-  if(S.cur.sid&&S.cur.sid.startsWith(n+'.')){const el=document.querySelector(`.s[data-id="${S.cur.sid}"]`);if(el)setTimeout(()=>el.scrollIntoView({block:'center'}),50);}
+  if(st.guide==='all'&&mode!=='struct'&&Object.keys(S.done).length>=7&&!st.fadeHint){S.set.fadeHint=1;save();setTimeout(()=>toast('7장을 넘겼습니다. 구조 표시를 "긴 문장만"으로 줄여 스스로 읽는 연습을 시작해 보세요.'),800);}
+  if(S.cur.sid&&S.cur.sid.startsWith(n+'.')){const el=document.querySelector(`[data-id="${S.cur.sid}"]`);if(el)setTimeout(()=>el.scrollIntoView({block:'center'}),50);}
+}
+// 누른 줄이 무엇을 꾸미는지 켜서 보여준다
+function litRow(row){
+  const box=row.parentNode;
+  box.querySelectorAll('.row').forEach(r=>r.classList.remove('lit','sel'));
+  row.classList.add('sel');
+  const hk=+row.dataset.hk;
+  if(hk>=0){const t=box.querySelector(`.row[data-i="${hk}"]`); if(t)t.classList.add('lit');}
 }
 function applyTextStyle(){
   document.documentElement.style.setProperty('--fs',S.set.fs+'px');
   document.documentElement.style.setProperty('--lh',S.set.lh);
   const t=$('#text'); if(t){t.querySelectorAll('.tag').forEach(x=>x.style.display=S.set.tags?'':'none');}
+}
+// 문장 하나를 '구조 펼침'으로: 의미 단위를 번호 순서대로 쌓고, 무엇을 꾸미는지 표시한다
+function structBlock(n,pi,si,sent,ids){
+  const id=`${n}.${pi}.${si}`, a=ANA[id], sy=syn(n,pi,si);
+  let rows='', src='';
+  if(a&&a.chunks&&a.chunks.length){          // 튜터가 직접 쓴 분석이 있으면 그것을 쓴다 (한국어 뜻까지)
+    src='<span class="src tut">튜터 분석</span>';
+    rows=a.chunks.map((ck,k)=>{
+      const isS=a.s&&ck.en.includes(a.s), isV=a.v&&ck.en.includes(a.v);
+      return `<div class="row ${isS?'is-S':''} ${isV?'is-V':''}" data-i="${k}" data-hk="-1" data-d="0">
+        <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(ck.en)}</span>
+        <span class="ko">${esc(ck.ko)}</span>${ck.r?`<span class="rl">${esc(ck.r)}</span>`:''}</span></div>`;
+    }).join('');
+  }else if(sy&&sy[2]&&sy[2].length){         // 없으면 자동 구문 분석
+    src='<span class="src">자동 분석</span>';
+    const ch=sy[2], starts=ch.map(x=>x[0]).concat([sent.length]);
+    rows=ch.map((x,k)=>{
+      const r=x[1], hk=(x[2]===undefined?-1:x[2]), last=lastRole(r);
+      const txt=sent.slice(starts[k],starts[k+1]).trim();
+      if(!txt)return '';
+      const d=rowDepth(ch,k);
+      const to=(hk>=0&&hk!==k)?` <span class="to">→${hk+1}</span>`:'';
+      return `<div class="row ${last==='S'?'is-S':''} ${last==='V'?'is-V':''}" data-i="${k}" data-hk="${hk}" data-d="${d}" style="--d:${d}">
+        <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(txt)}</span>
+        <span class="rl" title="${esc(ROLE_LONG[last]||'')}">${esc(roleName(r))}${to}</span></span></div>`;
+    }).join('');
+  }else{
+    src='<span class="src">짧은 문장</span>';
+    rows=`<div class="row" data-i="0" data-hk="-1" data-d="0"><span class="n">1</span><span class="rb"><span class="en">${esc(sent)}</span></span></div>`;
+  }
+  const tg=ids.filter(t=>HARDTAGS.has(t));
+  const tagHtml=tg.length?tg.map(t=>`<span class="loc">유형 ${t}</span>`).join(''):'';
+  const full=a&&a.ko?`<div class="full"><span class="lbl">전체 뜻</span>${esc(a.ko)}</div>`:'';
+  return `<div class="sx ${S.bm[id]?'bm':''}" data-id="${id}"><div class="hd"><span class="loc">${pi}·${si}</span>${tagHtml}${src}</div>${rows}${full}</div>`;
 }
 // 문장 하나를 HTML 로: 단어를 span 으로 감싸고, (가이드가 있으면) 주어·동사 표시와 의미 단위 경계를 넣는다
 function renderSent(s,lk,sy){
@@ -672,7 +830,7 @@ function renderSent(s,lk,sy){
   while((m=re.exec(s))){
     const o=m.index, w=m[0];
     out+=esc(s.slice(last,o));
-    if(sy){ while(ci<chunks.length&&chunks[ci][0]<=o){ if(ci>0){const r=chunks[ci][1];const nest=r.includes('>');const lastR=r.split('>').pop();const lab=showLabels&&LABEL_ROLES.has(lastR)?`<i>${esc(roleName(r))}</i>`:'';out+=`<span class="gb ${nest?'nest':''}">${lab}</span>`;} ci++; } }
+    if(sy){ while(ci<chunks.length&&chunks[ci][0]<=o){ if(ci>0){const r=chunks[ci][1];const nest=r.includes('>');const lastR=lastRole(r);const lab=showLabels&&LABEL_ROLES.has(lastR)?`<i>${esc(roleName(r))}</i>`:'';out+=`<span class="gb ${nest?'nest':''}">${lab}</span>`;} ci++; } }
     const i=lookupIdx(w); const cls=['tk'];
     if(Ss&&o>=Ss[0]&&o<Ss[1])cls.push('gS'); if(Vs&&o>=Vs[0]&&o<Vs[1])cls.push('gV');
     if(i>=0){ const v=VOCAB[i]; if(lk[i])cls.push('lk'); if(S.cards[i])cls.push('incd'); if((v.l===2||v.l===3)&&!isKnownIdx(i))cls.push('hd');
@@ -729,7 +887,7 @@ function renderPost(n){
   html+=`<div class="card"><h3>문장 구조 퀴즈 — 주어·동사 찾기</h3><p class="note" style="margin:0 0 8px">이 장에서 고른 5문장. 스스로 주어와 동사를 짚어 보세요. 정답은 자동 분석 기준입니다(가끔 틀릴 수 있음).${(S.quiz[n]||[]).length?` 지난 기록: ${S.quiz[n].map(q=>q.ok+'/'+q.total*2).join(', ')}`:''}</p><div id="qzbox"><button class="btn" id="qzStart">퀴즈 시작</button></div></div>`;
   html+=`<div class="card"><h3>요약 쓰기</h3><p class="note" style="margin:0 0 6px">이 장을 2~3문장으로 요약하세요(한국어도 좋고, 영어면 더 좋습니다). 누가 · 무엇을 · 그래서 어떻게 됐나.</p>
     <textarea id="summ" style="min-height:90px">${esc(S.summary[n]||'')}</textarea>
-    ${g?`<button class="btn sm" id="hintBtn" style="margin-top:6px">채점 기준 보기</button><div class="a hide" id="hint" style="margin-top:6px;background:#eaf1ec;padding:8px 10px;border-radius:6px;font-size:14px">${esc(g.summary_hint)}</div>`:''}
+    ${g?`<button class="btn sm" id="hintBtn" style="margin-top:6px">채점 기준 보기</button><div class="a hide" id="hint" style="margin-top:6px;background:#eef3ee;padding:8px 10px;border-radius:6px;font-size:14px">${esc(g.summary_hint)}</div>`:''}
     <div class="row" style="margin-top:14px;justify-content:space-between"><span class="note">다 했으면 →</span><button class="btn pri" id="doneCh">${n}장 완료 표시 ${n<CH.length?'→ 다음 장으로':''}</button></div>
   </div>`;
   $('#pane').innerHTML=html;
@@ -814,7 +972,7 @@ function openDrawer(id){
   const sy=syn(n,pi,si);
   let html=`<h3>문장 [${id}] ${a?'· 튜터 분석':'· 자동 분석'}</h3>`;
   html+=`<div class="sent" id="drSent">${a?markSV(esc(s),a):markSVspan(s,sy)}</div>`;
-  html+=`<div class="legend"><i style="background:#dbeee0;border-bottom:2px solid var(--l1)"></i>주절 주어 <i style="background:#fde3d8;border-bottom:2px solid var(--l3)"></i>주절 동사${sy&&sy[3]>1?` · 절(주어+동사 묶음) ${sy[3]}개`:''}</div>`;
+  html+=`<div class="legend"><i style="background:#e9eefc;border-bottom:2px solid var(--l1)"></i>주절 주어 <i style="background:#fbeae8;border-bottom:2px solid var(--l3)"></i>주절 동사${sy&&sy[3]>1?` · 절(주어+동사 묶음) ${sy[3]}개`:''}</div>`;
   html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="drSkel">곁말 흐리게</button><button class="btn sm" id="drSay">🔊 듣기</button><button class="btn sm" id="drBm">${S.bm[id]?'★ 저장됨':'☆ 문장 저장'}</button><button class="btn sm" id="drGo">본문 위치로</button></div>`;
   if(tg.length){
     html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">이 문장의 구조 유형</h4><div>${tg.map(t=>`<span class="stag" data-st="${t}">${t}. ${esc(STRUCT[t-1].title)}</span>`).join('')}</div>`;
@@ -863,14 +1021,14 @@ function renderQuiz(container,n,total){
     while((m=re.exec(s))){html+=esc(s.slice(last,m.index))+`<span class="qw" data-o="${m.index}" data-e="${m.index+m[0].length}">${esc(m[0])}</span>`;last=m.index+m[0].length;}
     html+=esc(s.slice(last));
     box.innerHTML=`<div class="qz2"><div class="note">${qi+1} / ${picks.length} · 문장 [${q.id}]</div><div class="qs" id="qzS">${html}</div>
-      <div class="step" id="qzStep">① 이 문장의 <span style="color:#3f6b52">주어</span>(누가/무엇이)를 누르세요</div><div class="fb" id="qzFb"></div>
+      <div class="step" id="qzStep">① 이 문장의 <span style="color:#2f6b4f">주어</span>(누가/무엇이)를 누르세요</div><div class="fb" id="qzFb"></div>
       <div class="row"><button class="btn sm hide" id="qzNext">다음 →</button><button class="btn sm" id="qzSkip">모르겠어요 (정답 보기)</button></div></div>`;
     const inS=(o,e)=>o<q.sy[0][1]&&e>q.sy[0][0], inV=(o,e)=>o<q.sy[1][1]&&e>q.sy[1][0];
     const reveal=()=>{ $$('#qzS .qw').forEach(w=>{const o=+w.dataset.o,e=+w.dataset.e; if(inS(o,e))w.classList.add('ansS'); if(inV(o,e))w.classList.add('ansV');}); $('#qzNext').classList.remove('hide'); $('#qzSkip').classList.add('hide'); };
     $$('#qzS .qw').forEach(w=>w.onclick=()=>{
       const o=+w.dataset.o,e=+w.dataset.e;
       if(step==='S'){ if(inS(o,e)){ok++;w.classList.add('pickS');$('#qzFb').innerHTML='<span style="color:var(--accent2)">맞았습니다.</span>';} else {w.classList.add('pickS');$('#qzFb').innerHTML=`<span style="color:var(--red)">아쉽네요 — 주어는 <b>${esc(s.slice(q.sy[0][0],q.sy[0][1]))}</b></span>`;}
-        step='V'; $('#qzStep').innerHTML='② 이제 그 주어의 <span style="color:#a1503a">동사</span>(주절의 동사)를 누르세요'; }
+        step='V'; $('#qzStep').innerHTML='② 이제 그 주어의 <span style="color:#b3261e">동사</span>(주절의 동사)를 누르세요'; }
       else if(step==='V'){ if(inV(o,e)){ok++;w.classList.add('pickV');$('#qzFb').innerHTML+=' <span style="color:var(--accent2)">동사도 맞았습니다.</span>';} else {w.classList.add('pickV');$('#qzFb').innerHTML+=` <span style="color:var(--red)">동사는 <b>${esc(s.slice(q.sy[1][0],q.sy[1][1]))}</b></span>`;}
         step='done'; reveal(); }
     });

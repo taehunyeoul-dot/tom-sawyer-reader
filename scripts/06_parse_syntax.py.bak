@@ -77,10 +77,7 @@ def is_quote(tok):
 
 
 def segments(head, depth=0):
-    """절의 머리(동사) 기준으로 그 절을 의미 단위로 나눈다.
-    반환: [(시작토큰i, 끝토큰i, 역할, 걸리는_토큰i)] — 끝 포함.
-    '걸리는_토큰i' 는 이 덩어리가 무엇을 꾸미는지(무엇에 붙는지)를 가리키는 토큰 번호.
-    앱이 이 정보로 '④는 ②를 꾸밈' 같은 연결선을 그린다. 절의 중심 동사는 자기 자신을 가리킨다."""
+    """절의 머리(동사) 기준으로 그 절을 의미 단위로 나눈다. 반환: [(시작토큰i, 끝토큰i, 역할)] (끝 포함)."""
     kids = sorted(head.children, key=lambda t: t.i)
     vg = [head] + [c for c in kids if c.dep_ in VERB_GROUP]
     vg_i = sorted(t.i for t in vg)
@@ -89,8 +86,8 @@ def segments(head, depth=0):
     run = [vg_i[0]]
     for i in vg_i[1:]:
         if i == run[-1] + 1: run.append(i)
-        else: segs.append((run[0], run[-1], 'V', head.i)); run = [i]
-    segs.append((run[0], run[-1], 'V', head.i))
+        else: segs.append((run[0], run[-1], 'V')); run = [i]
+    segs.append((run[0], run[-1], 'V'))
     for c in kids:
         if c.dep_ in VERB_GROUP or c.dep_ == 'punct': continue
         st = list(c.subtree)
@@ -98,30 +95,31 @@ def segments(head, depth=0):
         r = role_of(c, head)
         # 큰 절 덩어리는 한 단계 더 쪼갠다 (안쪽 성분에 'D>S' 식으로 표시)
         if depth == 0 and r in CLAUSE_ROLES and hi - lo + 1 >= 8 and c.pos_ in ('VERB', 'AUX'):
-            for a, b, rr, ht in segments(c, depth + 1):
-                segs.append((a, b, f"{r}>{rr}", ht))
+            inner = segments(c, depth + 1)
+            for a, b, rr in inner:
+                segs.append((a, b, f"{r}>{rr}"))
         else:
-            segs.append((lo, hi, r, c.head.i))
+            segs.append((lo, hi, r))
     segs.sort()
     return segs
 
 
 def cover(segs, lo, hi):
-    """조각들이 [lo,hi]를 빈틈·겹침 없이 덮도록 정리한다. (걸리는 토큰 정보는 그대로 유지)"""
+    """조각들이 [lo,hi]를 빈틈·겹침 없이 덮도록 정리한다."""
     out = []
     cur = lo
-    for a, b, r, ht in segs:
+    for a, b, r in segs:
         if b < cur: continue
         a = max(a, cur)
         if out and a > cur:            # 틈(문장부호 등)은 앞 조각에 붙인다
-            pa, pb, pr, pht = out[-1]; out[-1] = (pa, a - 1, pr, pht)
+            pa, pb, pr = out[-1]; out[-1] = (pa, a - 1, pr)
         elif not out and a > cur:
-            out.append((cur, a - 1, 'X', cur))
-        out.append((a, b, r, ht)); cur = b + 1
+            out.append((cur, a - 1, 'X'))
+        out.append((a, b, r)); cur = b + 1
     if out and cur <= hi:
-        pa, pb, pr, pht = out[-1]; out[-1] = (pa, hi, pr, pht)
+        pa, pb, pr = out[-1]; out[-1] = (pa, hi, pr)
     elif not out:
-        out.append((lo, hi, 'X', lo))
+        out.append((lo, hi, 'X'))
     return out
 
 
@@ -137,7 +135,7 @@ def analyse_part(doc, off):
         if root.pos_ not in ('VERB', 'AUX'):
             vs = [t for t in sent if t.pos_ in ('VERB', 'AUX') and t.head == root]
             if not vs:
-                all_segs.append((sent.start, sent.end - 1, 'N' if root.pos_ in ('NOUN', 'PROPN', 'PRON') else 'X', sent.start))
+                all_segs.append((sent.start, sent.end - 1, 'N' if root.pos_ in ('NOUN', 'PROPN', 'PRON') else 'X'))
                 continue
         segs = cover(segments(root), sent.start, sent.end - 1)
         all_segs.extend(segs)
@@ -166,22 +164,13 @@ def analyse_part(doc, off):
                 S = [off + st[0].idx, off + st[-1].idx + len(st[-1].text)]
         fin += sum(1 for t in sent if t.pos_ in ('VERB', 'AUX') and t.dep_ in ('ROOT', 'conj', 'advcl', 'ccomp', 'relcl', 'parataxis')
                    and any(c.dep_ in ('nsubj', 'nsubjpass', 'expl') for c in t.children))
-    # 덩어리 만들기: [글자시작, 역할, 걸리는_토큰i, 토큰시작, 토큰끝]
-    raw = []
-    for a, b, r, ht in all_segs:
+    chunks = []
+    for a, b, r in all_segs:
         first = next((t for t in toks[a:b + 1] if re.match(r"[A-Za-z0-9]", t.text)), None)
         if first is None: continue
         cs = off + first.idx
-        if raw and raw[-1][0] == cs: continue
-        raw.append([cs, r, ht, a, b])
-    # '걸리는 토큰'을 '걸리는 덩어리 번호'로 바꾼다 (그 토큰을 품고 있는 덩어리를 찾는다)
-    chunks = []
-    for k, (cs, r, ht, a, b) in enumerate(raw):
-        hk = -1
-        for j, (_, _, _, ja, jb) in enumerate(raw):
-            if ja <= ht <= jb: hk = j; break
-        if hk == k: hk = -1                     # 자기 자신을 가리키면 절의 중심(동사)
-        chunks.append([cs, r, hk])
+        if chunks and chunks[-1][0] == cs: continue
+        chunks.append([cs, r])
     return S, V, chunks, fin
 
 
@@ -215,9 +204,7 @@ def main():
         for j, (Sp, Vp, ch, f) in res:
             if j == 0: S, V = Sp, Vp
             # 두 번째 부분부터는 '세미콜론 뒤 대등절'(K)로 표시
-            base = len(chunks)      # 이 부분의 덩어리들이 전체에서 몇 번부터 시작하는지
-            chunks.extend([[c, r if j == 0 else ('K>' + r if not r.startswith('K') else r),
-                            (hk + base if hk is not None and hk >= 0 else -1)] for c, r, hk in ch])
+            chunks.extend([[c, r if j == 0 else ('K>' + r if not r.startswith('K') else r)] for c, r in ch])
             fin += f
         if chunks: chunks[0][0] = 0
         a = {'s': S, 'v': V, 'c': chunks, 'f': fin} if chunks else None
@@ -243,9 +230,7 @@ def main():
         if a and a[0]: print('   S =', s[a[0][0]:a[0][1]], '| V =', s[a[1][0]:a[1][1]] if a[1] else None)
         if a:
             starts = [x[0] for x in a[2]] + [len(s)]
-            print('   ' + ' / '.join(
-                f"{k+1}[{r}{'' if hk < 0 else '→' + str(hk + 1)}] {s[starts[k]:starts[k+1]].strip()}"
-                for k, (st, r, hk) in enumerate(a[2])))
+            print('   ' + ' / '.join(f"[{r}] {s[starts[k]:starts[k+1]].strip()}" for k, (st, r) in enumerate(a[2])))
 
 
 if __name__ == '__main__':

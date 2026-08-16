@@ -4,11 +4,16 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f3ec",
-  "theme_color": "#2b2822",
+  "background_color": "#eaeef7",
+  "theme_color": "#0d2a78",
   "lang": "ko",
   "description": "The Adventures of Tom Sawyer를 읽으면서 영어 독해력을 키우는 학습용 리더",
   "icons": [
-    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
   ]
 }

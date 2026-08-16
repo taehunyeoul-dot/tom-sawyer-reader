@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><rect width="128" height="128" rx="24" fill="#2b2822"/><rect x="26" y="22" width="76" height="84" rx="6" fill="#f6f3ec"/><rect x="26" y="22" width="10" height="84" fill="#8a5a2b"/><path d="M46 44h44M46 58h44M46 72h32M46 86h40" stroke="#3f6b52" stroke-width="5" stroke-linecap="round"/><circle cx="90" cy="86" r="9" fill="#a1503a"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="톰 소여 리더">
+  <!-- 코발트 바탕 위의 문장 도해(리드-켈로그, 1877) — 가로선이 주어|동사의 뼈대,
+       비스듬한 선이 거기에 매달린 꾸밈말이다. 이 앱이 하는 일 그 자체를 기호로 삼았다. -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2352DA"/>
+      <stop offset="1" stop-color="#0D2A78"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#g)"/>
+  <g stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" fill="none">
+    <!-- 뼈대: 주어 | 동사 -->
+    <path d="M22 56 H106"/>
+    <path d="M60 40 V72"/>
+    <!-- 매달린 꾸밈말 -->
+    <path d="M36 56 L26 84" stroke="#9DB8FF" stroke-width="5"/>
+    <path d="M84 56 L94 84" stroke="#9DB8FF" stroke-width="5"/>
+  </g>
+  <!-- 읽는 순서를 뜻하는 점 세 개 -->
+  <g fill="#9DB8FF">
+    <circle cx="26" cy="100" r="4.5"/>
+    <circle cx="60" cy="100" r="4.5" fill="#FFFFFF"/>
+    <circle cx="94" cy="100" r="4.5"/>
+  </g>
+</svg>
