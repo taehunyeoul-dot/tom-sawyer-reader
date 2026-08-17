@@ -1073,7 +1073,7 @@ function renderPost(n){
   $$('#pane [data-no]').forEach(b=>b.onclick=()=>{const qi=b.dataset.no;S.answers[n][qi].ok=0;save();renderPost(n);});
   $('#summ').oninput=e=>{S.summary[n]=e.target.value;save();};
   $('#qzStart').onclick=()=>renderQuiz('#qzbox',n,5);
-  renderVerify($('#vbox2'),n);
+  renderVerify('#vbox2',chapterChecks(n),'이 장에는 정밀 확인 문장이 없습니다. 소설은 36장 전부에 준비돼 있습니다.');
   $('#odStart').onclick=()=>renderOrderDrill($('#odbox'),n);
   const hb=$('#hintBtn'); if(hb)hb.onclick=()=>$('#hint').classList.toggle('hide');
   $('#doneCh').onclick=()=>{S.done[n]=1;save();renderChList();if(n<CH.length)openChapter(n+1,'pre');else{toast('완독을 축하합니다!');renderPane();}};
@@ -1132,6 +1132,10 @@ function ctxSentence(sid){
   }
   try{ return sentById(sid)||''; }catch(e){ return ''; }
 }
+// 소설("장.문단.문장")과 뉴스("기사id|문단.문장") 를 모두 받는다
+function anySent(id){ return ctxSentence(id); }
+// 화면에 보여 줄 짧은 이름. 뉴스는 기사 안 위치만 보여 준다(기사 id 는 의미 없는 숫자라 감춘다)
+function sentLabel(id){ return id.includes('|') ? id.split('|')[1].replace('.','·') : id; }
 function skeleton(s){ // 곁말 흐리게: 대시·괄호·삽입 관계절
   let h=esc(s);
   h=h.replace(/(—[^—]{4,120}—|\([^)]{2,120}\))/g,'<span class="dim">$1</span>');
@@ -1378,34 +1382,46 @@ function chunkBoundaries(words){
 function vState(){ S.verify=S.verify||{}; return S.verify; }
 const CHECK_LABEL={neg:'부정',who:'주체',pron:'대명사',mod:'수식',time:'시간'};
 function chapterChecks(n){
-  return Object.keys(CHECKS).filter(id=>id.startsWith(n+'.')).sort((a,b)=>{
+  return Object.keys(CHECKS).filter(id=>!id.includes('|')&&id.startsWith(n+'.')).sort((a,b)=>{
     const A=a.split('.').map(Number), B=b.split('.').map(Number);
     return A[1]-B[1]||A[2]-B[2];
   });
 }
-function renderVerify(box,n){
-  const ids=chapterChecks(n), v=vState();
-  if(!ids.length){ box.innerHTML=`<p class="note" style="margin:0">이 장에는 정밀 확인 문장이 없습니다. 소설은 36장 전부에 준비돼 있습니다.</p>`; return; }
+// 기사 하나의 정밀 확인 문장들 (뉴스 문장 번호는 "기사id|문단.문장")
+function artChecks(aid){
+  return Object.keys(CHECKS).filter(id=>id.startsWith(aid+'|')).sort((a,b)=>{
+    const A=a.split('|')[1].split('.').map(Number), B=b.split('|')[1].split('.').map(Number);
+    return A[0]-B[0]||A[1]-B[1];
+  });
+}
+/* 소설과 뉴스가 같은 화면을 쓴다. 어느 상자에 무엇을 그렸는지 기억해 두었다가
+   확인 창을 닫을 때 그대로 다시 그린다. */
+let vCtx=null;
+function renderVerify(sel,ids,emptyMsg){
+  const box=(typeof sel==='string')?$(sel):sel; if(!box)return;
+  vCtx={sel:(typeof sel==='string')?sel:null, ids, emptyMsg};
+  const v=vState();
+  if(!ids.length){ box.innerHTML=`<p class="note" style="margin:0">${emptyMsg||'정밀 확인 문장이 없습니다.'}</p>`; return; }
   const doneN=ids.filter(i=>v[i]).length;
   box.innerHTML=`<p class="note" style="margin:0 0 8px">문장 ${ids.length}개 중 <b>${doneN}개</b> 확인함.
     한 번에 한 문장이면 충분합니다 — 오래 걸려도 이게 가장 확실합니다.</p>
     <div class="vlist">${ids.map((id,k)=>{
-      const r=v[id];
+      const r=v[id], s=anySent(id)||'';
       return `<button class="vitem ${r?'done':''}" data-v="${id}">
         <span class="vn">${k+1}</span>
-        <span class="vt">${esc(sentById(id).slice(0,52))}${sentById(id).length>52?'…':''}</span>
+        <span class="vt">${esc(s.slice(0,52))}${s.length>52?'…':''}</span>
         <span class="vs">${r?`${r.ok}/${r.total}`:'미확인'}</span></button>`;}).join('')}</div>`;
   box.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>openVerify(b.dataset.v));
 }
 function openVerify(id){
-  const s=sentById(id), items=CHECKS[id]||[], a=ANA[id];
+  const s=anySent(id), items=CHECKS[id]||[], a=ANA[id];
   const prev=(vState()[id]||{});
   let stage=prev.mine?1:0, marks={};
   const box=$('#vbox'); if(!box)return;
   const draw=()=>{
     if(stage===0){
       box.innerHTML=`<div class="vcard">
-        <div class="vhd">문장 [${id}] · 1단계</div>
+        <div class="vhd">문장 [${sentLabel(id)}] · 1단계</div>
         <div class="sent">${esc(s)}</div>
         <p class="note" style="margin:10px 0 6px"><b>이 문장을 한국어로 옮겨 써 보세요.</b>
         머릿속으로만 하면 얼버무리게 됩니다. 손으로 쓰면 부정어·누가·무엇을·언제를 전부 정해야 합니다.
@@ -1424,7 +1440,7 @@ function openVerify(id){
     }else{
       const mine=(vState()[id]||{}).mine||'';
       box.innerHTML=`<div class="vcard">
-        <div class="vhd">문장 [${id}] · 2단계 — 내 번역과 대조</div>
+        <div class="vhd">문장 [${sentLabel(id)}] · 2단계 — 내 번역과 대조</div>
         <div class="sent">${esc(s)}</div>
         <div class="vmine"><span class="lbl">내가 쓴 번역</span>${esc(mine)}</div>
         <p class="note" style="margin:12px 0 4px">아래 항목을 하나씩 열어, <b>내 번역이 그렇게 되어 있는지</b> 직접 대조하세요.</p>
@@ -1465,7 +1481,10 @@ function openVerify(id){
   };
   $('#vwrap').classList.add('on'); draw(); window.scrollTo(0,0);
 }
-function closeVerify(){ $('#vwrap').classList.remove('on'); const n=S.cur.ch; const b=$('#vbox2'); if(b)renderVerify(b,n); }
+function closeVerify(){
+  $('#vwrap').classList.remove('on');
+  if(vCtx&&vCtx.sel&&$(vCtx.sel))renderVerify(vCtx.sel,vCtx.ids,vCtx.emptyMsg);
+}
 
 /* ---- 구조 연습 — 의미 단위 순서 맞추기
    주의: 이것은 '뜻을 이해했는지'가 아니라 '어순·구조 감각'을 재는 연습이다.
@@ -1554,22 +1573,36 @@ function renderNewsRead(){
       para.forEach((sent,si)=>{
         const sy=(a.syn[pi]||[])[si];
         const nch=sy&&sy[2]?sy[2].length:0;
+        const hasA=!!ANA[`${a.id}|${pi}.${si}`];
         if(nch<3||sent.split(/\s+/).length<7){
-          plain.push(`<span class="s" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}</span></span>`);
+          plain.push(`<span class="s ${hasA?'hasan':''}" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}${hasA?'<span class="an" title="튜터 분석 있음">🔍</span>':''}</span></span>`);
         }else{ flush(); html+=newsStructBlock(a,pi,si,sent); }
       });
       flush();
     }else{
-      html+='<p class="para">'+para.map((sent,si)=>
-        `<span class="s" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}</span></span>`
-      ).join('')+'</p>';
+      html+='<p class="para">'+para.map((sent,si)=>{
+        const hasA=!!ANA[`${a.id}|${pi}.${si}`];
+        return `<span class="s ${hasA?'hasan':''}" data-id="${pi}.${si}"><span class="sn">${pi}·${si}</span><span class="sb">${renderSent(sent,lk)}${hasA?'<span class="an" title="튜터 분석 있음">🔍</span>':''}</span></span>`;
+      }).join('')+'</p>';
     }
   });
   html+=`<div class="end">기사 끝 (${a.tok.toLocaleString()}단어)<br>
-    <a href="${esc(a.url)}" target="_blank" rel="noopener" class="note" style="color:var(--cobalt)">NASA 원문 보기 ↗</a><br><br>
-    <button class="btn pri" id="nDone">다 읽었어요</button>
-    <div class="bnav"><button class="btn sm" id="nBack">← 기사 목록</button></div></div></div>`;
+    <a href="${esc(a.url)}" target="_blank" rel="noopener" class="note" style="color:var(--cobalt)">NASA 원문 보기 ↗</a></div></div>`;
+  // 기사를 다 읽은 뒤 — 소설의 '읽은 후'와 같은 정밀 확인. 기사는 짧아 본문 바로 아래 둔다.
+  const nids=artChecks(a.id);
+  html+=`<div class="card"><h3>정밀 확인 — 내가 제대로 읽었나</h3>
+    <p class="note" style="margin:0 0 8px"><b>고르는 문제가 아닙니다.</b> 문장을 직접 한국어로 옮겨 쓴 뒤,
+    답이 정해진 항목과 하나씩 대조합니다. 찍기나 소거법으로 넘어갈 수 없어서
+    <b>유추로 읽은 곳이 드러납니다.</b> 하루 2~3문장이면 충분합니다.</p>
+    <p class="note" style="margin:0 0 8px">다만 <b>틀렸다는 신호는 믿을 만하지만, 다 맞았다고 해서
+    그 문장을 제대로 읽었다는 보장은 되지 않습니다.</b> 항목이 짚지 않은 곳은 검사되지 않습니다.</p>
+    <div id="nvbox"></div></div>
+    <div class="card" style="text-align:center">
+      <button class="btn pri" id="nDone">다 읽었어요</button>
+      <div class="bnav" style="margin-top:10px"><button class="btn sm" id="nBack">← 기사 목록</button></div>
+    </div>`;
   $('#pane').innerHTML=html;
+  renderVerify('#nvbox',nids,'이 기사에는 아직 정밀 확인이 없습니다. 매일 새로 들어오는 기사는 자동 구조 분석부터 붙고, 튜터 분석은 나중에 채워집니다.');
   applyTextStyle();
   $('#nBack').onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
   $('#nDone').onclick=()=>{S.newsDone=S.newsDone||{};S.newsDone[a.id]=dayNum();save();toast('읽음으로 표시했습니다');S.cur.phase='list';renderReadbar();renderPane();};
@@ -1584,7 +1617,18 @@ function renderNewsRead(){
 // 기사 문장 하나를 구조 펼침으로 (소설의 structBlock 과 같은 모양)
 function newsStructBlock(a,pi,si,sent){
   const sy=(a.syn[pi]||[])[si];
-  let rows='';
+  const an=ANA[`${a.id}|${pi}.${si}`];   // 튜터 분석이 있으면 소설처럼 줄마다 한국어 뜻을 붙인다
+  let rows='', src='<span class="src">자동 분석</span>';
+  if(an&&an.chunks&&an.chunks.length){
+    src='<span class="src tut">튜터 분석</span>';
+    rows=an.chunks.map((ck,k)=>{
+      const isS=an.s&&ck.en.includes(an.s), isV=an.v&&ck.en.includes(an.v);
+      return `<div class="row ${isS?'is-S':''} ${isV?'is-V':''}" data-i="${k}" data-hk="-1" data-d="0">
+        <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(ck.en)}</span>
+        <span class="ko">${esc(ck.ko)}</span>${ck.r?`<span class="rl">${esc(ck.r)}</span>`:''}</span></div>`;
+    }).join('');
+    return `<div class="sx" data-id="${pi}.${si}"><div class="hd"><span class="loc">${pi}·${si}</span>${src}</div>${rows}</div>`;
+  }
   if(sy&&sy[2]&&sy[2].length){
     const ch=sy[2], starts=ch.map(x=>x[0]).concat([sent.length]);
     rows=ch.map((x,k)=>{
@@ -1604,16 +1648,30 @@ function openNewsDrawer(a,nid){
   hidePop();
   const [pi,si]=nid.split('.').map(Number);
   const s=a.paras[pi][si], sy=(a.syn[pi]||[])[si];
-  let html=`<h3>문장 [${pi}·${si}] · 자동 분석</h3>`;
-  html+=`<div class="sent" id="drSent">${markSVspan(s,sy)}</div>`;
+  const fid=`${a.id}|${nid}`, an=ANA[fid];   // 튜터 분석이 있으면 소설과 똑같이 보여 준다
+  let html=`<h3>문장 [${pi}·${si}] ${an?'· 튜터 분석':'· 자동 분석'}</h3>`;
+  html+=`<div class="sent" id="drSent">${an?markSV(esc(s),an):markSVspan(s,sy)}</div>`;
   html+=`<div class="legend"><i style="background:#e9eefc;border-bottom:2px solid var(--l1)"></i>주절 주어 <i style="background:#fbeae8;border-bottom:2px solid var(--l3)"></i>주절 동사</div>`;
-  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="ndSkel">곁말 흐리게</button><button class="btn sm" id="ndSay">🔊 듣기</button></div>`;
-  html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위와 역할 (자동 분석)</h4>${autoTable(s,sy)}
-    <p class="note" style="margin-top:8px">컴퓨터 구문 분석기가 붙인 것이라 열에 하나쯤은 틀립니다. 앞에서부터 <b>주어 → 동사 → 나머지</b> 순으로 덩어리째 읽어 보세요.</p>`;
+  html+=`<div class="row" style="margin-top:8px"><button class="btn sm" id="ndSkel">곁말 흐리게</button><button class="btn sm" id="ndSay">🔊 듣기</button>${
+    CHECKS[fid]?`<button class="btn sm" id="ndVer">정밀 확인하기</button>`:''}</div>`;
+  if(an){
+    html+=`<div class="why"><b>왜 어렵나 · 어떻게 읽나</b><br>${esc(an.why)}</div>`;
+    html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">튜터의 의미 단위 읽기 (앞에서부터 순서대로)</h4><div class="chunks">`+
+      an.chunks.map(c=>{const cls=c.en===an.s||(an.s&&c.en.includes(an.s)&&an.s.length>4)?'S':(an.v&&c.en.includes(an.v)?'V':'');
+        return `<div class="ck"><div class="en ${cls}">${esc(c.en)}<span class="r">${esc(c.r||'')}</span></div><div class="ko">${esc(c.ko)}</div></div>`;}).join('')+`</div>`;
+    html+=`<button class="btn sm" id="ndKo" style="margin-top:10px">전체 번역 보기</button><div class="ko-full hide" id="ndKoT">${esc(an.ko)}</div>`;
+    html+=`<details style="margin-top:12px"><summary class="note" style="cursor:pointer">자동 분석(기계)도 보기</summary>${autoTable(s,sy)}</details>`;
+  }else{
+    html+=`<h4 style="margin:14px 0 4px;font-size:13px;color:var(--accent)">의미 단위와 역할 (자동 분석)</h4>${autoTable(s,sy)}
+      <p class="note" style="margin-top:8px">컴퓨터 구문 분석기가 붙인 것이라 열에 하나쯤은 틀립니다. 앞에서부터 <b>주어 → 동사 → 나머지</b> 순으로 덩어리째 읽어 보세요.</p>`;
+  }
   $('#drc').innerHTML=html; $('#drawer').classList.add('on');
   let skel=false;
-  $('#ndSkel').onclick=()=>{skel=!skel;$('#drSent').innerHTML=skel?skeleton(s):markSVspan(s,sy);};
+  $('#ndSkel').onclick=()=>{skel=!skel;const base=skel?skeleton(s):null;
+    $('#drSent').innerHTML=base?markSV(base,an||null):(an?markSV(esc(s),an):markSVspan(s,sy));};
   $('#ndSay').onclick=()=>speakText(s);
+  const kb=$('#ndKo'); if(kb)kb.onclick=()=>$('#ndKoT').classList.toggle('hide');
+  const vb=$('#ndVer'); if(vb)vb.onclick=()=>{closeDrawer();openVerify(fid);};
 }
 
 /* ================= 문법 ================= */

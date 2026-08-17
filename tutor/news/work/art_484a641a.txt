@@ -1,0 +1,29 @@
+Volunteer Develops Machine-Learning Tool to Identify Rare Clouds
+NASA · 2026-08-14
+https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/
+
+[0.0] Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to.
+[0.1] To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.
+[0.2] Now, one volunteer has developed a new tool to help other Space Cloud Watch volunteers work more efficiently.
+
+[1.0] The misbehaving clouds are “noctilucent” or “night-shining” clouds (NLCs).
+[1.1] These clouds scatter light from the Sun long after sunset and long before sunrise, giving them a silvery glow.
+[1.2] But despite this glow, it can be hard to differentiate NLCs from lower-altitude look-alikes.
+[1.3] That confusion has meant extra work for project leaders.
+
+[2.0] Volunteer Namai Chandra shared, “I noticed that NLC images were being manually verified by the project leaders.
+[2.1] It felt like a task well-suited for a human-in-the-loop machine learning pipeline, one that could handle the repetitive screening automatically, while keeping human judgment central for the images that matter most.”
+[2.2] In other words, Namai found a way to help observers verify when they are indeed seeing NLCs and when they’re not.
+
+[3.0] Namai reached out to the Space Cloud Watch scientists Drs.
+[3.1] Chihoko Cullens and Brentha Thurairajah, who were delighted with his idea.
+[3.2] Namai soon developed a machine learning pipeline, training it on a variety of cloud images, including both the NLCs and the lower altitude look-alikes that are often submitted to Space Cloud Watch.
+[3.3] The pipeline combines image pre-screening, cloud classification, and confidence-based review routing.
+[3.4] After several rounds of development, testing, and refinement, he released his NLC identification tool to the project.
+[3.5] This tool is now being used by cloud contributors who are unsure whether they have observed NLCs, as well as project scientists that want to flag images for review.
+
+[4.0] Grab a camera and join the Space Cloud Watch project today!
+[4.1] If you’ve hesitated to contribute to Space Cloud Watch because you were not certain if what you were seeing was a noctilucent cloud, you now have a way to check before you share – thanks to Namai.
+
+[5.0] Photograph clouds just after sunset or before dawn to investigate our changing atmosphere.
+

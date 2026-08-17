@@ -1,0 +1,808 @@
+[
+ {
+  "id": "bfba627d|0.0",
+  "en": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida.",
+  "s": "NASA",
+  "v": "announced",
+  "chunks": [
+   {
+    "en": "In honor of America’s historic 250th anniversary,",
+    "ko": "미국의 역사적인 250주년을 기념하여",
+    "r": "목적(기념)"
+   },
+   {
+    "en": "NASA announced on Friday",
+    "ko": "NASA는 금요일에 발표했다",
+    "r": "주어 + 동사 + 시간"
+   },
+   {
+    "en": "MAX POWER, a public exposition",
+    "ko": "MAX POWER 를, 곧 하나의 공개 전시 행사를",
+    "r": "목적어 + 동격(같은 것을 다시 말함)"
+   },
+   {
+    "en": "of American air and space innovation,",
+    "ko": "미국의 항공·우주 혁신을 보여 주는",
+    "r": "전치사구(exposition 설명)"
+   },
+   {
+    "en": "Nov. 7 and Nov. 8,",
+    "ko": "11월 7일과 11월 8일에",
+    "r": "시간(행사가 열리는 날)"
+   },
+   {
+    "en": "on and near the agency’s Kennedy Space Center in Florida.",
+    "ko": "플로리다에 있는 그 기관(NASA)의 케네디 우주센터 안과 그 근처에서",
+    "r": "전치사구(장소)"
+   }
+  ],
+  "ko": "미국의 역사적인 250주년을 기념하여, NASA는 금요일에 MAX POWER 를 발표했다. 미국의 항공·우주 혁신을 보여 주는 공개 전시 행사로, 11월 7일과 8일에 플로리다에 있는 NASA 케네디 우주센터 안과 그 부근에서 열린다.",
+  "why": "발표한 것(MAX POWER)이 나오자마자 그것을 다시 설명하는 말(a public exposition …)이 붙는 동격 구조다. announced 의 목적어는 MAX POWER 하나뿐이고, 뒤의 날짜와 장소는 전부 그 행사가 언제 어디서 열리는지를 덧붙인 것이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|1.0",
+  "en": "The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define the future of transportation in air and space, bringing together the public, innovators, investors, pilots, astronauts, engineers, and companies helping open this new frontier.",
+  "s": "The multi-day, family-friendly event",
+  "v": "will showcase",
+  "chunks": [
+   {
+    "en": "The multi-day, family-friendly event",
+    "ko": "여러 날에 걸친, 가족이 함께 즐기는 이 행사는",
+    "r": "주어"
+   },
+   {
+    "en": "will showcase the next-generation aircraft, spacecraft,",
+    "ko": "선보일 것이다 — 차세대 항공기, 우주선,",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "autonomous vehicles, and technologies",
+    "ko": "자율주행 차량, 그리고 여러 기술을",
+    "r": "목적어(나열)"
+   },
+   {
+    "en": "that will help define the future of transportation",
+    "ko": "교통(운송)의 미래를 규정하는 데 도움이 될",
+    "r": "관계절(앞의 나열된 명사들 설명)"
+   },
+   {
+    "en": "in air and space,",
+    "ko": "하늘과 우주에서의",
+    "r": "전치사구(future of transportation 설명)"
+   },
+   {
+    "en": "bringing together the public,",
+    "ko": "그러면서 일반 대중을 한자리에 불러 모은다",
+    "r": "분사구문(딸린 동작)"
+   },
+   {
+    "en": "innovators, investors, pilots, astronauts, engineers, and companies",
+    "ko": "혁신가, 투자자, 조종사, 우주비행사, 엔지니어, 그리고 기업들을",
+    "r": "나열(bringing together 의 목적어)"
+   },
+   {
+    "en": "helping open this new frontier.",
+    "ko": "이 새로운 개척지를 여는 데 힘을 보태고 있는",
+    "r": "분사구(companies 설명)"
+   }
+  ],
+  "ko": "여러 날에 걸친 이 가족 친화 행사는 하늘과 우주에서 교통의 미래를 규정하는 데 도움이 될 차세대 항공기, 우주선, 자율주행 차량, 여러 기술을 선보이며, 일반 대중과 혁신가, 투자자, 조종사, 우주비행사, 엔지니어, 그리고 이 새로운 개척지를 여는 데 힘을 보태고 있는 기업들을 한자리에 불러 모은다.",
+  "why": "주어(The … event)와 동사(will showcase)는 붙어 있지만 목적어 나열이 길고, 그 뒤로 that 관계절과 bringing 분사구문이 이어져 문장이 길어졌다. 나열 → 관계절 → 분사구문 순으로 끊어 읽으면 뼈대는 '행사가 ~를 선보이고, ~를 불러 모은다' 둘뿐이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|2.0",
+  "en": "“This November, we are opening Kennedy Space Center’s historic Shuttle Landing Facility to the public for America’s newest and most exciting aerospace technology expo and airshow, and we are calling it MAX POWER,” said NASA Administrator Jared Isaacman.",
+  "s": "NASA Administrator Jared Isaacman",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“This November, we are opening",
+    "ko": "이번 11월, 우리는 개방합니다",
+    "r": "시간 + 인용문의 주어·동사"
+   },
+   {
+    "en": "Kennedy Space Center’s historic Shuttle Landing Facility",
+    "ko": "케네디 우주센터의 역사적인 셔틀 착륙장(우주왕복선 착륙 시설)을",
+    "r": "목적어"
+   },
+   {
+    "en": "to the public",
+    "ko": "일반에게",
+    "r": "전치사구(대상)"
+   },
+   {
+    "en": "for America’s newest and most exciting aerospace technology expo and airshow,",
+    "ko": "미국에서 가장 새롭고 가장 신나는 항공우주 기술 박람회 겸 에어쇼를 위해",
+    "r": "전치사구(목적)"
+   },
+   {
+    "en": "and we are calling it MAX POWER,”",
+    "ko": "그리고 우리는 그것을 MAX POWER 라고 부릅니다",
+    "r": "대등절"
+   },
+   {
+    "en": "said NASA Administrator Jared Isaacman.",
+    "ko": "라고 NASA 국장 재러드 아이잭먼이 말했다",
+    "r": "전달절(동사가 주어보다 먼저 온 도치)"
+   }
+  ],
+  "ko": "“이번 11월, 우리는 케네디 우주센터의 역사적인 셔틀 착륙장을 미국에서 가장 새롭고 가장 신나는 항공우주 기술 박람회 겸 에어쇼를 위해 일반에 개방합니다. 그리고 우리는 그것을 MAX POWER 라고 부릅니다.” NASA 국장 재러드 아이잭먼이 말했다.",
+  "why": "인용문이 먼저 나오고 맨 끝에 'said + 말한 사람'이 오는 기사 특유의 순서다. 문장의 뼈대는 'NASA 국장이 말했다'이고 큰따옴표 안이 그 내용이다. said 가 주어보다 앞에 놓인 도치라서 주어를 놓치기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|2.1",
+  "en": "“For 250 years, America has advanced by building what did not exist, flying higher, moving faster, and reaching toward the near-impossible.",
+  "s": "America",
+  "v": "has advanced",
+  "chunks": [
+   {
+    "en": "“For 250 years, America has advanced",
+    "ko": "250년 동안 미국은 발전해 왔습니다",
+    "r": "시간 + 주어 + 동사"
+   },
+   {
+    "en": "by building what did not exist,",
+    "ko": "존재하지 않던 것을 만들어 냄으로써",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "flying higher, moving faster,",
+    "ko": "더 높이 날고, 더 빨리 움직이고",
+    "r": "나열(by 에 이어짐)"
+   },
+   {
+    "en": "and reaching toward the near-impossible.",
+    "ko": "그리고 거의 불가능한 것을 향해 손을 뻗음으로써",
+    "r": "나열(by 에 이어짐)"
+   }
+  ],
+  "ko": "“250년 동안 미국은 존재하지 않던 것을 만들어 내고, 더 높이 날고, 더 빨리 나아가고, 거의 불가능한 것을 향해 손을 뻗으며 발전해 왔습니다.",
+  "why": "뼈대는 'America has advanced'(미국은 발전해 왔다) 하나뿐이고, 그 뒤는 전부 by(~함으로써)에 걸리는 방법의 나열이다. building 뒤에 오는 -ing 세 개도 모두 by 에 걸린다는 점을 놓치기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|2.2",
+  "en": "There is no better place to celebrate that spirit than at NASA Kennedy, America’s gateway to the stars and the place where so many of our nation’s greatest achievements began.”",
+  "s": "There",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "There is no better place",
+    "ko": "더 나은 곳은 없습니다",
+    "r": "유도부사 there + 동사 + 진짜 주어"
+   },
+   {
+    "en": "to celebrate that spirit",
+    "ko": "그 정신을 기념하기에",
+    "r": "to부정사(place 설명)"
+   },
+   {
+    "en": "than at NASA Kennedy,",
+    "ko": "NASA 케네디(우주센터)보다",
+    "r": "비교 대상"
+   },
+   {
+    "en": "America’s gateway to the stars",
+    "ko": "미국이 별을 향해 나아가는 관문이자",
+    "r": "동격(NASA Kennedy 설명)"
+   },
+   {
+    "en": "and the place",
+    "ko": "그리고 바로 그곳입니다",
+    "r": "동격(나열)"
+   },
+   {
+    "en": "where so many of our nation’s greatest achievements began.”",
+    "ko": "우리나라의 가장 위대한 업적이 그토록 많이 시작된",
+    "r": "관계절(place 설명)"
+   }
+  ],
+  "ko": "그 정신을 기념하기에 NASA 케네디보다 더 나은 곳은 없습니다. 그곳은 미국이 별을 향해 나아가는 관문이자, 우리나라의 가장 위대한 업적이 그토록 많이 시작된 곳입니다.”",
+  "why": "'no better place … than …'은 '~보다 더 나은 곳은 없다', 곧 '거기가 최고다'라는 뜻이다. 쉼표 뒤의 America’s gateway … 와 the place where … 는 둘 다 NASA Kennedy 를 다시 설명하는 동격(같은 것을 다른 말로 다시 말함)이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|3.0",
+  "en": "By bringing together the legacy of NASA with the companies and technologies shaping what comes next, MAX POWER aims to ignite the spirit of exploration and inspire the next generation of explorers, builders, and dreamers.",
+  "s": "MAX POWER",
+  "v": "aims",
+  "chunks": [
+   {
+    "en": "By bringing together the legacy of NASA",
+    "ko": "NASA의 유산을 한자리에 모아",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "with the companies and technologies",
+    "ko": "그 기업들 및 기술들과 함께",
+    "r": "전치사구(bring A with B)"
+   },
+   {
+    "en": "shaping what comes next,",
+    "ko": "다음에 올 것을 만들어 가고 있는",
+    "r": "분사구(companies and technologies 설명)"
+   },
+   {
+    "en": "MAX POWER aims to ignite",
+    "ko": "MAX POWER 는 불붙이는 것을 목표로 한다",
+    "r": "주어 + 동사 + to부정사"
+   },
+   {
+    "en": "the spirit of exploration and inspire",
+    "ko": "탐험 정신에, 그리고 북돋우는 것을",
+    "r": "목적어 + 두 번째 to부정사"
+   },
+   {
+    "en": "the next generation of explorers, builders, and dreamers.",
+    "ko": "다음 세대의 탐험가, 건설자, 몽상가들을",
+    "r": "목적어"
+   }
+  ],
+  "ko": "다음에 올 것을 만들어 가는 기업·기술들과 NASA의 유산을 한자리에 모음으로써, MAX POWER 는 탐험 정신에 불을 붙이고 다음 세대의 탐험가와 건설자, 몽상가들을 북돋우는 것을 목표로 한다.",
+  "why": "문장이 By -ing(~함으로써)로 시작해 쉼표까지가 전부 '방법'이고, 진짜 주어·동사는 쉼표 뒤의 MAX POWER aims 다. aims to 뒤에 ignite 와 inspire 두 동사가 나란히 걸린다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|3.1",
+  "en": "In addition to the agency, Air Dot Show, Delaware North, Space Florida, Purpose Entertainment, and UP.Summit are external collaborators.",
+  "s": "Air Dot Show, Delaware North, Space Florida, Purpose Entertainment, and UP.Summit",
+  "v": "are",
+  "chunks": [
+   {
+    "en": "In addition to the agency,",
+    "ko": "그 기관(NASA) 말고도",
+    "r": "전치사구(추가)"
+   },
+   {
+    "en": "Air Dot Show, Delaware North,",
+    "ko": "Air Dot Show, Delaware North,",
+    "r": "주어(나열)"
+   },
+   {
+    "en": "Space Florida, Purpose Entertainment, and UP.Summit",
+    "ko": "Space Florida, Purpose Entertainment, 그리고 UP.Summit 이",
+    "r": "주어(나열)"
+   },
+   {
+    "en": "are external collaborators.",
+    "ko": "외부 협력사다",
+    "r": "동사 + 보어"
+   }
+  ],
+  "ko": "그 기관(NASA) 외에, Air Dot Show, Delaware North, Space Florida, Purpose Entertainment, UP.Summit 이 외부 협력사다.",
+  "why": "주어가 회사 이름 다섯 개의 나열이라 어디까지가 주어인지 잡기 어렵다. 동사 are 앞까지가 전부 주어이고, 맨 앞의 In addition to the agency 는 '그 기관 말고도'라는 뜻의 덧붙임이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|4.0",
+  "en": "Some activities will take place at NASA Kennedy, including the Apollo Saturn V facility, and the Launch and Landing Facility currently leased by Space Florida.",
+  "s": "Some activities",
+  "v": "will take place",
+  "chunks": [
+   {
+    "en": "Some activities will take place",
+    "ko": "일부 행사는 열린다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "at NASA Kennedy,",
+    "ko": "NASA 케네디(우주센터)에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "including the Apollo Saturn V facility,",
+    "ko": "그중에는 아폴로 새턴 V 시설과",
+    "r": "예시(장소 나열)"
+   },
+   {
+    "en": "and the Launch and Landing Facility",
+    "ko": "발사·착륙 시설이 포함된다",
+    "r": "예시(나열)"
+   },
+   {
+    "en": "currently leased by Space Florida.",
+    "ko": "현재 Space Florida 가 임차해 쓰고 있는",
+    "r": "분사구(앞 시설 설명, 수동)"
+   }
+  ],
+  "ko": "일부 행사는 NASA 케네디에서 열리며, 그 장소에는 아폴로 새턴 V 시설과 현재 Space Florida 가 임차해 쓰고 있는 발사·착륙 시설이 포함된다.",
+  "why": "including 뒤에 시설 두 곳이 나열되고, 그중 둘째 시설에 'currently leased by …'(현재 ~가 임차 중인)라는 수동 분사구가 붙어 문장이 길어졌다. 뼈대는 'Some activities will take place at NASA Kennedy' 하나다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|4.1",
+  "en": "Others will take place at the Kennedy Space Center Visitor Complex adjacent to the center leading up to, and during, the festival.",
+  "s": "Others",
+  "v": "will take place",
+  "chunks": [
+   {
+    "en": "Others will take place",
+    "ko": "나머지 행사들은 열린다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "at the Kennedy Space Center Visitor Complex",
+    "ko": "케네디 우주센터 방문자 단지에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "adjacent to the center",
+    "ko": "그 센터에 바로 붙어 있는",
+    "r": "형용사구(Visitor Complex 설명)"
+   },
+   {
+    "en": "leading up to, and during, the festival.",
+    "ko": "축제로 이어지는 기간과 축제가 열리는 동안",
+    "r": "시간"
+   }
+  ],
+  "ko": "나머지 행사들은 센터에 붙어 있는 케네디 우주센터 방문자 단지에서, 축제로 이어지는 기간과 축제 기간 동안 열린다.",
+  "why": "장소를 나타내는 긴 명사구(the Kennedy Space Center Visitor Complex)에 adjacent to the center(그 센터에 인접한)가 붙고, 그 뒤에 시간을 말하는 leading up to, and during, the festival 이 이어진다. 명사구가 어디서 끝나는지를 잡는 것이 관건이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|5.0",
+  "en": "MAX POWER will give the public a front-row seat to the future of American aerospace, including advanced aircraft, autonomous systems, commercial space, NASA’s work to return Americans to the lunar surface, plans for a Moon Base, and the technologies strengthening America’s aerospace industrial base.",
+  "s": "MAX POWER",
+  "v": "will give",
+  "chunks": [
+   {
+    "en": "MAX POWER will give",
+    "ko": "MAX POWER 는 줄 것이다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "the public a front-row seat",
+    "ko": "일반 대중에게 맨 앞자리를",
+    "r": "간접목적어 + 직접목적어"
+   },
+   {
+    "en": "to the future of American aerospace,",
+    "ko": "미국 항공우주의 미래를 볼 수 있는",
+    "r": "전치사구(seat 설명)"
+   },
+   {
+    "en": "including advanced aircraft, autonomous systems,",
+    "ko": "여기에는 첨단 항공기, 자율 시스템,",
+    "r": "예시(나열)"
+   },
+   {
+    "en": "commercial space, NASA’s work",
+    "ko": "상업 우주, 그리고 NASA의 작업,",
+    "r": "나열"
+   },
+   {
+    "en": "to return Americans to the lunar surface,",
+    "ko": "미국인을 달 표면으로 다시 보내려는",
+    "r": "to부정사(work 설명)"
+   },
+   {
+    "en": "plans for a Moon Base,",
+    "ko": "달 기지 계획,",
+    "r": "나열"
+   },
+   {
+    "en": "and the technologies strengthening America’s aerospace industrial base.",
+    "ko": "그리고 미국의 항공우주 산업 기반을 튼튼히 하는 기술들이 포함된다",
+    "r": "나열 + 분사구"
+   }
+  ],
+  "ko": "MAX POWER 는 일반 대중에게 미국 항공우주의 미래를 맨 앞자리에서 볼 기회를 준다. 여기에는 첨단 항공기, 자율 시스템, 상업 우주, 미국인을 달 표면으로 다시 보내려는 NASA의 작업, 달 기지 계획, 그리고 미국의 항공우주 산업 기반을 튼튼히 하는 기술들이 포함된다.",
+  "why": "뼈대는 'MAX POWER will give the public a front-row seat'(대중에게 맨 앞자리를 준다) 하나다. including 뒤로 여섯 가지가 나열되는데 그중 NASA’s work 에는 to부정사가, the technologies 에는 -ing 분사가 붙어 각각 길어졌다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|6.0",
+  "en": "“For a decade, UP.Summit has convened the companies, investors, entrepreneurs, and policymakers building the future of how the world moves,” said Cyrus Sigari, UP.Summit founder and mission commander.",
+  "s": "Cyrus Sigari",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“For a decade, UP.Summit has convened",
+    "ko": "10년 동안 UP.Summit 은 불러 모아 왔습니다",
+    "r": "시간 + 인용문의 주어·동사"
+   },
+   {
+    "en": "the companies, investors, entrepreneurs, and policymakers",
+    "ko": "기업, 투자자, 창업가, 그리고 정책 입안자들을",
+    "r": "목적어(나열)"
+   },
+   {
+    "en": "building the future of how the world moves,”",
+    "ko": "세상이 움직이는 방식의 미래를 만들어 가고 있는",
+    "r": "분사구(앞의 나열된 사람들 설명)"
+   },
+   {
+    "en": "said Cyrus Sigari, UP.Summit founder and mission commander.",
+    "ko": "라고 UP.Summit 창립자이자 미션 커맨더인 사이러스 시가리가 말했다",
+    "r": "전달절(도치) + 동격"
+   }
+  ],
+  "ko": "“10년 동안 UP.Summit 은 세상이 움직이는 방식의 미래를 만들어 가는 기업, 투자자, 창업가, 정책 입안자들을 한자리에 불러 모아 왔습니다.” UP.Summit 창립자이자 미션 커맨더인 사이러스 시가리가 말했다.",
+  "why": "인용문이 앞에 오고 'said + 말한 사람'이 뒤에 온다. 인용문 안에서는 convened 의 목적어 네 개가 나열된 뒤 building … 분사구가 그 넷을 한꺼번에 꾸민다. 문장 끝의 UP.Summit founder and mission commander 는 Cyrus Sigari 를 다시 말한 동격이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|6.2",
+  "en": "The public will stand next to the aircraft, spacecraft, and autonomous systems that will define the next 250 years and meet the people building them.",
+  "s": "The public",
+  "v": "will stand",
+  "chunks": [
+   {
+    "en": "The public will stand",
+    "ko": "일반 대중은 서 보게 될 것입니다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "next to the aircraft, spacecraft, and autonomous systems",
+    "ko": "그 항공기, 우주선, 자율 시스템 바로 옆에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "that will define the next 250 years",
+    "ko": "앞으로 250년을 규정하게 될",
+    "r": "관계절(앞의 나열된 명사들 설명)"
+   },
+   {
+    "en": "and meet the people building them.",
+    "ko": "그리고 그것들을 만드는 사람들을 만나게 될 것입니다",
+    "r": "대등절(will 에 이어짐)"
+   }
+  ],
+  "ko": "일반 대중은 앞으로 250년을 규정하게 될 항공기, 우주선, 자율 시스템 바로 옆에 서 보고, 그것들을 만드는 사람들을 만나게 됩니다.",
+  "why": "and 가 무엇과 무엇을 잇는지가 관건이다. and meet 은 관계절 안이 아니라 앞의 will stand 와 짝이다(대중이 옆에 서 보고, 또 사람들을 만난다). 맨 끝의 them 은 앞에 나열된 기계들을 받는다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|6.3",
+  "en": "MAX POWER is about lighting that spark in thousands of Americans and showing the world what this country builds when it aims high.”",
+  "s": "MAX POWER",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "MAX POWER is about",
+    "ko": "MAX POWER 가 하려는 일은",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "lighting that spark in thousands of Americans",
+    "ko": "수천 명의 미국인 안에 그 불꽃을 지피는 것",
+    "r": "보어(동명사)"
+   },
+   {
+    "en": "and showing the world",
+    "ko": "그리고 세계에 보여 주는 것입니다",
+    "r": "보어(동명사 나열)"
+   },
+   {
+    "en": "what this country builds",
+    "ko": "이 나라가 무엇을 만들어 내는지를",
+    "r": "목적어(what 명사절)"
+   },
+   {
+    "en": "when it aims high.”",
+    "ko": "높은 목표를 세울 때",
+    "r": "부사절(때)"
+   }
+  ],
+  "ko": "MAX POWER 는 수천 명의 미국인 안에 그 불꽃을 지피고, 이 나라가 높은 목표를 세울 때 무엇을 만들어 내는지를 세계에 보여 주는 일입니다.”",
+  "why": "is about 뒤에 동명사 두 개(lighting …, showing …)가 나란히 걸린다. what this country builds 는 '이 나라가 무엇을 만들어 내는지'라는 명사절이고, what 은 builds 의 목적어다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|7.0",
+  "en": "“It is an honor to collaborate with NASA and bring an aviation spectacle to the skies over Kennedy Space Center as part of MAX POWER,” said Bryan Lilley, CEO of Air Dot Show.",
+  "s": "Bryan Lilley",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“It is an honor",
+    "ko": "영광입니다",
+    "r": "가주어 It + 동사 + 보어"
+   },
+   {
+    "en": "to collaborate with NASA",
+    "ko": "NASA와 협력하고",
+    "r": "진짜 주어(to부정사)"
+   },
+   {
+    "en": "and bring an aviation spectacle",
+    "ko": "항공 볼거리를 선사하는 것은",
+    "r": "to부정사 나열"
+   },
+   {
+    "en": "to the skies over Kennedy Space Center",
+    "ko": "케네디 우주센터 상공에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "as part of MAX POWER,”",
+    "ko": "MAX POWER 의 한 부분으로서",
+    "r": "전치사구(자격)"
+   },
+   {
+    "en": "said Bryan Lilley, CEO of Air Dot Show.",
+    "ko": "라고 Air Dot Show 최고경영자 브라이언 릴리가 말했다",
+    "r": "전달절(도치) + 동격"
+   }
+  ],
+  "ko": "“MAX POWER 의 하나로 NASA와 협력해 케네디 우주센터 상공에 항공 볼거리를 선사하게 되어 영광입니다.” Air Dot Show 의 CEO 브라이언 릴리가 말했다.",
+  "why": "It 은 뜻이 없는 가주어이고 진짜 주어는 to collaborate … and bring … 이다. 문장 전체의 뼈대는 맨 뒤의 'said Bryan Lilley'이고, CEO of Air Dot Show 는 그 사람을 다시 설명하는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|7.1",
+  "en": "“There could not be a more iconic place to celebrate the past, showcase the present, and preview the future of American aviation and space exploration as our nation marks its 250th anniversary.”",
+  "s": "There",
+  "v": "could not be",
+  "chunks": [
+   {
+    "en": "“There could not be a more iconic place",
+    "ko": "더 상징적인 곳은 있을 수 없습니다",
+    "r": "유도부사 there + 동사 + 진짜 주어"
+   },
+   {
+    "en": "to celebrate the past,",
+    "ko": "과거를 기념하고",
+    "r": "to부정사(place 설명)"
+   },
+   {
+    "en": "showcase the present, and preview",
+    "ko": "현재를 선보이고, 그리고 미리 보여 주기에",
+    "r": "to부정사 나열"
+   },
+   {
+    "en": "the future of American aviation and space exploration",
+    "ko": "미국 항공과 우주 탐사의 미래를",
+    "r": "목적어"
+   },
+   {
+    "en": "as our nation marks its 250th anniversary.”",
+    "ko": "우리나라가 250주년을 맞는 이때에",
+    "r": "부사절(때)"
+   }
+  ],
+  "ko": "“우리나라가 250주년을 맞는 이때에, 미국 항공과 우주 탐사의 과거를 기념하고 현재를 선보이며 미래를 미리 보여 주기에 이보다 더 상징적인 곳은 없습니다.”",
+  "why": "'not + 비교급(a more iconic place)'은 '더 ~한 곳은 없다', 곧 '여기가 최고다'라는 뜻이다. to celebrate / (to) showcase / (to) preview 세 동사가 나란히 place 를 설명하는데 to 는 맨 앞에 한 번만 나온다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|8.0",
+  "en": "“Kennedy Space Center Visitor Complex is where America’s history of aerospace innovation comes to life, from the aircraft that helped launch the space program to the spacecraft that carried us to the Moon and the technologies shaping what comes next,” said Therrin Protze, chief operating officer of Kennedy Space Center Visitor Complex.",
+  "s": "Therrin Protze",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“Kennedy Space Center Visitor Complex is",
+    "ko": "케네디 우주센터 방문자 단지는 ~한 곳입니다",
+    "r": "인용문의 주어 + 동사"
+   },
+   {
+    "en": "where America’s history of aerospace innovation comes to life,",
+    "ko": "미국 항공우주 혁신의 역사가 살아나는 곳",
+    "r": "보어(관계부사절)"
+   },
+   {
+    "en": "from the aircraft",
+    "ko": "그 항공기들에서부터",
+    "r": "전치사구(범위의 시작)"
+   },
+   {
+    "en": "that helped launch the space program",
+    "ko": "우주 계획을 띄우는 데 힘을 보탠",
+    "r": "관계절(aircraft 설명)"
+   },
+   {
+    "en": "to the spacecraft",
+    "ko": "그 우주선까지",
+    "r": "전치사구(범위의 끝)"
+   },
+   {
+    "en": "that carried us to the Moon",
+    "ko": "우리를 달로 데려다준",
+    "r": "관계절(spacecraft 설명)"
+   },
+   {
+    "en": "and the technologies",
+    "ko": "그리고 그 기술들까지",
+    "r": "나열"
+   },
+   {
+    "en": "shaping what comes next,”",
+    "ko": "다음에 올 것을 만들어 가고 있는",
+    "r": "분사구(technologies 설명)"
+   },
+   {
+    "en": "said Therrin Protze,",
+    "ko": "라고 테린 프로체가 말했다",
+    "r": "전달절(도치)"
+   },
+   {
+    "en": "chief operating officer of Kennedy Space Center Visitor Complex.",
+    "ko": "케네디 우주센터 방문자 단지 최고운영책임자인",
+    "r": "동격(Therrin Protze 설명)"
+   }
+  ],
+  "ko": "“케네디 우주센터 방문자 단지는 미국 항공우주 혁신의 역사가 살아나는 곳입니다. 우주 계획을 띄우는 데 힘을 보탠 항공기에서부터 우리를 달로 데려다준 우주선, 그리고 다음에 올 것을 만들어 가는 기술들까지 말입니다.” 케네디 우주센터 방문자 단지 최고운영책임자 테린 프로체가 말했다.",
+  "why": "큰따옴표 안이 아주 길어 문장의 뼈대(said Therrin Protze)를 놓치기 쉽다. 인용문 안은 'A는 ~한 곳이다' 뒤에 from … to … 로 그 역사의 범위를 항공기 → 우주선 → 기술 순으로 늘어놓은 구조다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|8.1",
+  "en": "“MAX POWER brings that entire story together in one place, giving the public an up-close look at the past, present and future of American aerospace.”",
+  "s": "MAX POWER",
+  "v": "brings",
+  "chunks": [
+   {
+    "en": "“MAX POWER brings that entire story together",
+    "ko": "MAX POWER 는 그 이야기 전체를 한데 모읍니다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "in one place,",
+    "ko": "한 장소에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "giving the public an up-close look",
+    "ko": "그러면서 일반 대중에게 가까이서 볼 기회를 줍니다",
+    "r": "분사구문(딸린 결과)"
+   },
+   {
+    "en": "at the past, present and future of American aerospace.”",
+    "ko": "미국 항공우주의 과거와 현재와 미래를",
+    "r": "전치사구(look 의 대상)"
+   }
+  ],
+  "ko": "“MAX POWER 는 그 이야기 전체를 한자리에 모아, 일반 대중이 미국 항공우주의 과거와 현재와 미래를 가까이서 볼 수 있게 해 줍니다.”",
+  "why": "쉼표 뒤의 giving … 은 분사구문이고 그 주어는 주절의 주어인 MAX POWER 다. look 과 at 이 떨어져 있으므로 an up-close look at …(~을 가까이서 보는 것)으로 묶어 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|9.0",
+  "en": "“Florida has been part of some of the most historic moments in American space exploration, and we’re proud to welcome the nation to this storied site for MAX POWER this fall,” said Col.",
+  "s": "Col.",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“Florida has been",
+    "ko": "플로리다는 ~였습니다",
+    "r": "인용문의 주어 + 동사"
+   },
+   {
+    "en": "part of some of the most historic moments",
+    "ko": "가장 역사적인 순간들 가운데 일부의 한 부분",
+    "r": "보어"
+   },
+   {
+    "en": "in American space exploration,",
+    "ko": "미국 우주 탐사에서",
+    "r": "전치사구"
+   },
+   {
+    "en": "and we’re proud to welcome",
+    "ko": "그리고 우리는 맞이하게 되어 자랑스럽습니다",
+    "r": "대등절"
+   },
+   {
+    "en": "the nation to this storied site",
+    "ko": "온 나라를 이 유서 깊은 곳으로",
+    "r": "목적어 + 전치사구"
+   },
+   {
+    "en": "for MAX POWER this fall,”",
+    "ko": "올가을 MAX POWER 를 위해",
+    "r": "목적 + 시간"
+   },
+   {
+    "en": "said Col.",
+    "ko": "라고 대령이 말했다",
+    "r": "전달절(이름은 다음 문장으로 이어짐)"
+   }
+  ],
+  "ko": "“플로리다는 미국 우주 탐사에서 가장 역사적인 순간들의 일부를 함께해 왔고, 우리는 올가을 MAX POWER 를 위해 온 나라를 이 유서 깊은 곳으로 맞이하게 되어 자랑스럽습니다.” 대령(Col.)이 말했다.",
+  "why": "인용문 뒤의 said 다음에 직함(Col.)만 나오고 이름은 다음 문장으로 넘어가 있어, 이 문장만 보면 주어가 잘려 보인다. 인용문 안은 'Florida has been …' 과 'we’re proud to …' 두 절이 and 로 이어진 구조다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|9.2",
+  "en": "“Together with NASA, we have spent generations building the infrastructure, talent, and spirit of innovation that make moments like this possible, and this event offers a front-row seat to that ongoing story.”",
+  "s": "we",
+  "v": "have spent",
+  "chunks": [
+   {
+    "en": "“Together with NASA, we",
+    "ko": "NASA와 함께, 우리는",
+    "r": "전치사구 + 주어"
+   },
+   {
+    "en": "have spent generations building",
+    "ko": "여러 세대를 들여 쌓아 왔습니다",
+    "r": "동사 + 목적어(시간) + 분사"
+   },
+   {
+    "en": "the infrastructure, talent, and spirit of innovation",
+    "ko": "기반 시설과 인재, 그리고 혁신의 정신을",
+    "r": "building 의 목적어(나열)"
+   },
+   {
+    "en": "that make moments like this possible,",
+    "ko": "이런 순간을 가능하게 하는",
+    "r": "관계절(앞의 나열된 명사들 설명)"
+   },
+   {
+    "en": "and this event offers",
+    "ko": "그리고 이 행사는 제공합니다",
+    "r": "대등절 주어 + 동사"
+   },
+   {
+    "en": "a front-row seat to that ongoing story.”",
+    "ko": "지금도 이어지는 그 이야기를 맨 앞자리에서 볼 자리를",
+    "r": "목적어"
+   }
+  ],
+  "ko": "“NASA와 함께 우리는 여러 세대에 걸쳐 이런 순간을 가능하게 하는 기반 시설과 인재, 혁신의 정신을 쌓아 왔고, 이 행사는 지금도 이어지는 그 이야기를 맨 앞자리에서 볼 기회를 줍니다.”",
+  "why": "spend + 시간 + -ing 는 '~하는 데 시간을 쓰다'라는 짝이라 have spent generations building 을 한 덩어리로 읽어야 한다. 목적어 나열 뒤에 that make … 관계절이 붙어 뒤가 길어졌다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|10.1",
+  "en": "To attend, media must RSVP by 5 p.m. on Tuesday, Oct. 6, to the Kennedy newsroom at: https://media.ksc.nasa.gov .",
+  "s": "media",
+  "v": "must RSVP",
+  "chunks": [
+   {
+    "en": "To attend, media must RSVP",
+    "ko": "참석하려면, 취재진은 참가 신청을 해야 한다",
+    "r": "목적 + 주어 + 동사"
+   },
+   {
+    "en": "by 5 p.m. on Tuesday, Oct. 6,",
+    "ko": "10월 6일 화요일 오후 5시까지",
+    "r": "시간(마감)"
+   },
+   {
+    "en": "to the Kennedy newsroom",
+    "ko": "케네디 뉴스룸으로",
+    "r": "전치사구(신청 대상)"
+   },
+   {
+    "en": "at: https://media.ksc.nasa.gov .",
+    "ko": "다음 주소에서:",
+    "r": "전치사구(주소)"
+   }
+  ],
+  "ko": "참석하려면 취재진은 10월 6일 화요일 오후 5시까지 https://media.ksc.nasa.gov 에서 케네디 뉴스룸으로 참가 신청(RSVP)을 해야 한다.",
+  "why": "문장이 To attend(참석하려면)라는 목적으로 시작하고 주어 media 가 그 뒤에 온다. 뼈대는 'media must RSVP by …'(취재진은 ~까지 참가 신청을 해야 한다)이고, by 는 '~까지'라는 마감을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "bfba627d|11.0",
+  "en": "There are multiple “parks” and experiences planned, each of which require separate tickets to attend.",
+  "s": "There",
+  "v": "are",
+  "chunks": [
+   {
+    "en": "There are multiple “parks” and experiences planned,",
+    "ko": "여러 '파크(구역)'와 체험 행사가 계획되어 있다",
+    "r": "유도부사 there + 동사 + 진짜 주어 + 분사"
+   },
+   {
+    "en": "each of which require",
+    "ko": "그런데 그 하나하나가 필요로 한다",
+    "r": "관계절 주어 + 동사"
+   },
+   {
+    "en": "separate tickets to attend.",
+    "ko": "들어가려면 별도의 표를",
+    "r": "목적어 + to부정사"
+   }
+  ],
+  "ko": "여러 '파크(구역)'와 체험 프로그램이 계획되어 있는데, 그 하나하나가 들어가려면 별도의 표가 필요하다.",
+  "why": "'There are … planned'는 '~가 계획되어 있다'는 뜻이고 planned 는 앞 명사를 꾸미는 말이다. each of which 는 앞의 파크·체험 각각을 받는 관계사로 '그 하나하나가 ~'로 읽으면 된다.",
+  "st": []
+ }
+]

@@ -1,0 +1,42 @@
+{
+ "626f4575|0.0": [
+  {"t":"who","q":"<b>was painted</b> — 칠한 쪽과 칠해진 쪽은 각각 무엇입니까?","a":"칠해진 것은 NASA의 737 항공기입니다. 칠한 주체는 이 문장에 나오지 않습니다(수동태)","tip":"주어인 NASA’s 737 aircraft 를 '칠한 쪽'으로 읽으면 주체와 대상이 통째로 뒤집힙니다."},
+  {"t":"pron","q":"<b>as it progresses with modifications</b> 의 it 은 무엇을 가리킵니까?","a":"그 737 항공기입니다","tip":"바로 앞의 Oklahoma(오클라호마)나 NASA로 잡기 쉽습니다. 개조가 진행되고 있는 것은 항공기입니다."},
+  {"t":"mod","q":"<b>a reduced gravity test aircraft</b> 는 무엇을 가리킵니까?","a":"개조를 마친 뒤의 그 737 항공기 자신입니다","tip":"따로 만들 다른 항공기로 읽기 쉽습니다. reduced gravity 는 '줄인 중력', 즉 달·무중력에 가까운 상태를 만들어 시험한다는 뜻입니다."},
+  {"t":"time","q":"<b>was painted</b> 와 <b>progresses</b> — 도색은 이미 끝난 일입니까, 앞으로 할 일입니까?","a":"이미 끝난 일입니다 — 이번 주에 칠해졌고, 개조 작업은 지금도 진행 중입니다","tip":"한 문장 안에 과거(was painted)와 현재(progresses)가 함께 들어 있습니다. 시제가 다르면 시점도 다릅니다."}
+ ],
+ "626f4575|0.1": [
+  {"t":"who","q":"<b>took ownership of the aircraft from the United States Air Force</b> — 넘겨받은 쪽과 내준 쪽은 각각 어디입니까?","a":"넘겨받은 쪽은 NASA 암스트롱 비행연구센터, 내준 쪽은 미 공군입니다","tip":"from 이 붙은 쪽이 내준 쪽입니다. 방향을 뒤집어 읽으면 NASA가 공군에 넘긴 것이 됩니다."},
+  {"t":"mod","q":"<b>in Edwards, California,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 NASA’s Armstrong Flight Research Center — 그 센터가 있는 곳입니다","tip":"소유권을 넘겨받은 장소로 붙이기 쉽지만, 쉼표로 둘러싸여 앞 기관의 소재지를 밝히는 말입니다."},
+  {"t":"pron","q":"<b>the aircraft</b> 는 어느 항공기입니까?","a":"앞 문장에 나온 NASA의 737 항공기입니다","tip":"the 가 붙었다는 것은 앞에서 이미 나온 그것을 다시 가리킨다는 신호입니다."},
+  {"t":"time","q":"<b>in June</b> — 소유권을 넘겨받은 것은 도색보다 앞입니까, 뒤입니까?","a":"앞입니다 — 6월에 넘겨받았고, 도색은 '이번 주'에 했습니다","tip":"기사가 시간 순서대로 쓰여 있지 않습니다. 첫 문장 쪽이 더 최근 일입니다."}
+ ],
+ "626f4575|1.0": [
+  {"t":"mod","q":"<b>required to support Artemis mission objectives</b> 는 무엇을 설명하는 말입니까?","a":"앞의 astronaut lunar suits 와 associated crew systems(달 우주복과 그에 딸린 승무원 장비)입니다 — 아르테미스 임무에 필요한 장비라는 뜻","tip":"required 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 will perform 하나뿐입니다."},
+  {"t":"who","q":"<b>to validate astronaut lunar suits</b> — 검증하는 쪽은 무엇입니까?","a":"그 항공기입니다 — 항공기가 포물선 비행을 해서 우주복을 검증합니다","tip":"우주비행사가 검증한다고 읽기 쉽습니다. to부정사가 나타내는 동작의 주체는 문장의 주어입니다."},
+  {"t":"time","q":"<b>will perform</b> — 이 비행은 이미 한 것입니까, 앞으로 할 것입니까?","a":"앞으로 할 것입니다 — 아직 하지 않았습니다","tip":"앞 문단의 과거형(was painted, took)에 끌려 이미 한 일로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>lunar-gravity parabolic flights</b> 는 무슨 뜻입니까?","a":"달의 중력과 같은 상태를 만들어 내는 포물선 비행입니다","tip":"명사 앞에 꾸미는 말이 여러 겹 붙어 있습니다. 뒤에서부터 '비행 ← 포물선 ← 달 중력' 순으로 풀면 됩니다."}
+ ],
+ "626f4575|1.1": [
+  {"t":"pron","q":"<b>These flights</b> 는 무엇을 가리킵니까?","a":"앞 문장에 나온 달 중력 포물선 비행(lunar-gravity parabolic flights)입니다","tip":"These 는 앞에서 이미 말한 것을 받습니다. 새로 나온 다른 비행이 아닙니다."},
+  {"t":"who","q":"<b>with NASA Armstrong oversight</b> — 감독하는 쪽은 어디입니까?","a":"NASA 암스트롱 비행연구센터입니다. 비행이 이루어지는 곳은 존슨우주센터로, 서로 다른 곳입니다","tip":"비행 장소와 감독 주체를 한 곳으로 뭉뚱그리면 틀립니다. 두 센터 이름이 한 문장에 같이 나옵니다."},
+  {"t":"time","q":"<b>will happen</b> — 이 비행은 이미 이루어졌습니까?","a":"아니요 — 아직이며 앞으로 이루어질 예정입니다","tip":"will 을 놓치면 이미 끝난 일로 읽게 됩니다."}
+ ],
+ "626f4575|2.0": [
+  {"t":"mod","q":"<b>autonomy, sensors, and other digital systems</b> — 이 셋은 무엇에 걸리는 말입니까?","a":"바로 앞 flight testing(비행 시험)의 대상입니다 — 이 세 가지를 비행 중에 시험한다는 뜻","tip":"research(연구)의 종류를 나열한 것으로 읽기 쉽습니다. 받는 말은 testing 입니다."},
+  {"t":"who","q":"<b>the aircraft will serve as a key asset</b> — 여기서 '핵심 자산'인 것은 무엇입니까?","a":"그 항공기 자신입니다","tip":"serve as ~ 는 '~ 노릇을 하다, ~로 쓰이다'입니다. 항공기가 다른 자산을 위해 봉사한다는 뜻이 아닙니다."},
+  {"t":"time","q":"<b>will serve</b> — 이 연구용 활용은 이미 하고 있는 일입니까?","a":"아니요 — 앞으로의 계획입니다","tip":"will 은 아직 일어나지 않은 일을 가리킵니다."},
+  {"t":"mod","q":"<b>In addition</b> 은 무엇에 덧붙이는 말입니까?","a":"앞 문단에서 말한 달 중력 포물선 비행 임무입니다 — 그 밖에 또 한 가지 쓰임이 있다는 뜻","tip":"'게다가' 정도로 흘려 읽기 쉽지만, 앞에서 말한 용도에 다른 용도를 하나 더 얹는다는 신호입니다."}
+ ],
+ "626f4575|3.0": [
+  {"t":"who","q":"<b>NASA has declared “wrenches down”</b> — 선언한 쪽은 누구입니까?","a":"NASA입니다","tip":"앞에 다른 기사 제목이 붙어 있어 주어를 놓치기 쉽습니다. 이 문장의 뼈대는 NASA has declared 부터입니다."},
+  {"t":"mod","q":"<b>Article 4 days ago 5 min read</b> 는 이 문장의 일부입니까?","a":"아니요 — 홈페이지의 관련 기사 안내(4일 전 게시, 읽는 데 5분)가 섞여 들어온 것입니다","tip":"억지로 문장으로 이어 붙이려 하면 뜻이 만들어지지 않습니다. 진짜 문장은 NASA has declared 부터입니다."},
+  {"t":"mod","q":"<b>designed for Artemis astronauts to…</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the first completed payload(처음으로 완성된 탑재체)입니다","tip":"designed 를 또 하나의 동사로 읽으면 안 됩니다. 앞 명사를 꾸미는 과거분사입니다."},
+  {"t":"time","q":"<b>has declared</b> — 이 선언은 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다 — 현재완료라 '방금 그렇게 되었다'는 느낌입니다","tip":"'렌치를 내려놓았다'는 작업이 끝났다는 뜻이므로, 완성은 이미 이루어진 상태입니다."}
+ ],
+ "626f4575|4.0": [
+  {"t":"mod","q":"<b>Building the Moon Base: NASA Stories at the Ion</b> 은 이 문장의 주절입니까?","a":"아니요 — 다른 기사의 제목입니다(달 기지 짓기: 아이온에서 만나는 NASA 이야기)","tip":"Building 을 동사로 읽으면 뜻이 만들어지지 않습니다. 제목은 문장이 아닙니다."},
+  {"t":"mod","q":"<b>From NASA Armstrong Flight Research Center</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Discover More Topics — 암스트롱 비행연구센터가 내놓는 다른 주제들을 더 보라는 뜻입니다","tip":"앞의 기사 제목에 붙여 '암스트롱 센터에서 달 기지를 짓는다'로 읽으면 안 됩니다."},
+  {"t":"time","q":"<b>5 days ago</b> 와 <b>4 min read</b> 는 각각 무슨 뜻입니까?","a":"'5일 전에 올라온 기사', '읽는 데 4분 걸림'이라는 뜻입니다","tip":"min 은 minute(분), read 는 '읽기'입니다. '4분 동안 읽었다'는 지난 일이 아닙니다."}
+ ]
+}

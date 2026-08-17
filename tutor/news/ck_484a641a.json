@@ -1,0 +1,57 @@
+{
+ "484a641a|0.0": [
+  {"t":"mod","q":"<b>appearing more often and lower in the sky</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 are misbehaving — 구름이 어떻게 '이상하게 구는지'를 풀어 준 것입니다","tip":"대시(–) 뒤가 새 문장처럼 보이지만, 앞말을 구체적으로 다시 말해 주는 부분입니다."},
+  {"t":"pron","q":"<b>than they used to</b> 의 they 는 무엇을 가리킵니까?","a":"그 어떤 종류의 구름들(Certain kinds of clouds)","tip":"바로 앞에 the sky 가 있어 헷갈리기 쉽지만, 복수형이므로 clouds 를 받습니다."},
+  {"t":"time","q":"<b>than they used to</b> 는 무엇과 무엇을 견주는 말입니까?","a":"지금과 예전 — 예전에 나타나던 것보다 지금 더 자주, 더 낮게 나타난다는 뜻입니다","tip":"used to 뒤에 appear 가 생략돼 있습니다. '그들이 익숙했던 것보다'로 읽으면 안 됩니다."}
+ ],
+ "484a641a|0.1": [
+  {"t":"who","q":"<b>to submit fresh images of these clouds</b> — 사진을 보내는 쪽은 누구입니까?","a":"카메라를 가진 전 세계 사람들(people around the world with cameras) — 과학자들이 아닙니다","tip":"ask A to B 에서 to B 를 하는 쪽은 A, 즉 부탁받은 쪽입니다."},
+  {"t":"mod","q":"<b>with cameras</b> 는 무엇을 설명하는 말입니까?","a":"people around the world — 카메라를 가진 사람들이라는 뜻입니다","tip":"바로 앞의 the world 에 붙이면 '카메라가 달린 세계'가 되어 버립니다."},
+  {"t":"mod","q":"<b>influencing these changes</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the factors(요인들) — 이 변화에 영향을 주는 요인들","tip":"문장의 동사로 착각하기 쉽지만 -ing 형이라 앞 명사를 꾸밉니다. 문장의 진짜 동사는 have asked 입니다."},
+  {"t":"time","q":"<b>scientists have asked</b> — 이 요청은 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다(현재완료) — 요청해 두었고 그 요청이 지금도 유효합니다","tip":"문장이 To help identify … 로 시작해 계획처럼 보이지만, 요청 자체는 이미 이루어졌습니다."}
+ ],
+ "484a641a|0.2": [
+  {"t":"who","q":"<b>work more efficiently</b> — 더 효율적으로 작업하게 되는 쪽은 누구입니까?","a":"다른 Space Cloud Watch 자원봉사자들(other Space Cloud Watch volunteers) — 도구를 만든 그 한 사람이 아닙니다","tip":"help + 목적어 + 동사원형에서 그 동작을 하는 쪽은 목적어입니다."},
+  {"t":"mod","q":"<b>other Space Cloud Watch volunteers</b> 에서 other 는 누구를 빼고 말하는 것입니까?","a":"도구를 만든 그 자원봉사자(one volunteer) — 그 사람을 뺀 나머지 참여자들이라는 뜻입니다","tip":"other 를 흘려보내면 '자기 자신을 도우려고 만들었다'로 읽히기 쉽습니다."},
+  {"t":"time","q":"<b>has developed</b> — 도구는 아직 만드는 중입니까, 이미 완성되었습니까?","a":"이미 만들어 냈습니다(현재완료)","tip":"맨 앞의 Now 때문에 '지금 만들고 있다'로 읽기 쉽습니다."}
+ ],
+ "484a641a|1.1": [
+  {"t":"pron","q":"<b>giving them a silvery glow</b> 의 them 은 무엇을 가리킵니까?","a":"이 구름들(These clouds) — 태양이나 빛이 아닙니다","tip":"바로 앞에 sunset, sunrise 가 있어 헷갈리지만, 은빛으로 빛나는 것은 구름입니다."},
+  {"t":"who","q":"<b>These clouds scatter light from the Sun</b> — 빛을 흩뿌리는 쪽과 빛을 내보내는 쪽은 각각 무엇입니까?","a":"흩뿌리는 쪽은 이 구름들, 빛을 내보내는 쪽은 태양입니다","tip":"scatter 는 '흩어 뿌리다'라는 동사입니다. 구름이 스스로 빛을 만들어 내는 것이 아닙니다."},
+  {"t":"time","q":"<b>long after sunset and long before sunrise</b> 는 언제를 말합니까?","a":"해가 지고 한참 지난 뒤와, 해가 뜨기 한참 전 — 즉 하늘이 어두운 때입니다","tip":"long 은 '길게'가 아니라 after/before 를 강조하는 '한참'입니다. before sunrise 를 '해가 뜬 뒤'로 뒤집지 않도록 주의하세요."}
+ ],
+ "484a641a|2.0": [
+  {"t":"who","q":"<b>NLC images were being manually verified by the project leaders</b> — 확인하는 쪽과 확인당하는 쪽은 각각 무엇입니까?","a":"확인하는 쪽은 프로젝트 책임자들, 확인당하는 쪽은 NLC 사진들입니다","tip":"수동태입니다. 주어(NLC images)를 행동하는 쪽으로 읽으면 뜻이 뒤집힙니다."},
+  {"t":"time","q":"<b>were being manually verified</b> — 한 번 있었던 일입니까, 그때 계속 되풀이되고 있던 일입니까?","a":"그때 계속 되풀이되고 있던 일입니다(수동 진행형)","tip":"were verified 라면 '확인되었다'로 끝나지만, being 이 붙어 '확인되고 있는 중'이 됩니다."},
+  {"t":"mod","q":"<b>Volunteer Namai Chandra</b> 에서 Volunteer 는 무엇을 말합니까?","a":"Namai Chandra 의 신분 — '자원봉사자인 Namai Chandra'라는 뜻으로 한 사람입니다","tip":"관사도 쉼표도 없이 이름 앞에 붙어 있어, 별개의 사람이나 동사로 읽기 쉽습니다."}
+ ],
+ "484a641a|2.1": [
+  {"t":"pron","q":"<b>one that could handle the repetitive screening automatically</b> 의 one 은 무엇을 가리킵니까?","a":"바로 앞의 machine learning pipeline — 그 파이프라인을 다시 설명하는 말입니다","tip":"'한 사람'이나 '하나'로 읽으면 없던 대상이 생겨 문장이 무너집니다."},
+  {"t":"mod","q":"<b>well-suited for a human-in-the-loop machine learning pipeline</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 a task(그 일) — 그런 파이프라인에 잘 맞는 '일'이라는 뜻입니다","tip":"pipeline 을 꾸미는 말로 붙이면 '잘 맞는 파이프라인'이 되어 앞뒤가 뒤집힙니다."},
+  {"t":"who","q":"<b>while keeping human judgment central</b> — 사람의 판단을 중심에 두는 쪽은 무엇입니까?","a":"그 파이프라인 — 반복 작업은 자동으로 하되 중요한 사진은 사람 판단에 맡긴다는 뜻입니다","tip":"keeping 앞에 주어가 없어 말하는 사람(I)으로 잡기 쉽지만, 앞에 나온 파이프라인이 하는 일입니다."},
+  {"t":"pron","q":"<b>It felt like a task</b> 의 It 은 무엇을 가리킵니까?","a":"앞 문장에서 말한 그 일 — 프로젝트 책임자들이 NLC 사진을 손으로 일일이 확인하던 작업입니다","tip":"'그것은 느꼈다'가 아닙니다. 사람이 느낀 것이 아니라 '~처럼 느껴졌다'입니다."}
+ ],
+ "484a641a|2.2": [
+  {"t":"who","q":"<b>to help observers verify</b> — 직접 가려내는(verify) 쪽은 누구입니까?","a":"관측하는 사람들(observers) — Namai 가 대신 확인해 주는 것이 아닙니다","tip":"help + 목적어 + 동사원형에서 그 동작을 하는 쪽은 목적어입니다."},
+  {"t":"neg","q":"<b>and when they’re not</b> 는 무슨 뜻입니까?","a":"관측자가 NLC 를 보고 있지 '않은' 경우 — 뒤에 seeing NLCs 가 생략돼 있습니다","tip":"이 부분을 흘려보내면 '맞을 때만 알려 주는 도구'가 되어 절반이 사라집니다."},
+  {"t":"pron","q":"<b>when they are indeed seeing NLCs</b> 의 they 는 누구입니까?","a":"관측하는 사람들(observers)","tip":"바로 앞 명사가 observers 입니다. NLCs 를 받는다고 보면 '구름이 무언가를 보고 있다'가 됩니다."}
+ ],
+ "484a641a|3.2": [
+  {"t":"pron","q":"<b>training it on a variety of cloud images</b> 의 it 은 무엇을 가리킵니까?","a":"Namai 가 만든 기계학습 파이프라인(a machine learning pipeline)","tip":"학습시키는 쪽이 Namai, 학습당하는 쪽이 파이프라인입니다. 사람으로 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>that are often submitted to Space Cloud Watch</b> — 제출되는 것은 무엇이고, 제출하는 쪽은 문장에 나옵니까?","a":"제출되는 것은 그 닮은꼴 구름 사진들이고, 제출하는 쪽은 문장에 나오지 않습니다(수동태)","tip":"are submitted 는 '제출한다'가 아니라 '제출된다'입니다."},
+  {"t":"mod","q":"<b>the lower altitude look-alikes</b> 는 무엇을 가리킵니까?","a":"더 낮은 고도에 생기는, NLC 와 닮아 보이는 다른 구름들","tip":"look-alikes 는 '닮은꼴'이라는 명사입니다. NLC 를 다시 말한 것이 아니라 NLC 와 헷갈리는 별개의 구름입니다."},
+  {"t":"mod","q":"<b>including both the NLCs and the lower altitude look-alikes</b> 는 무엇의 내용을 밝히는 말입니까?","a":"바로 앞의 a variety of cloud images — 그 사진들 안에 두 가지가 다 들어 있다는 뜻입니다","tip":"pipeline 에 붙이면 '파이프라인이 구름을 포함한다'가 되어 버립니다."}
+ ],
+ "484a641a|3.5": [
+  {"t":"who","q":"<b>This tool is now being used by cloud contributors</b> — 도구를 실제로 쓰는 쪽은 누구입니까?","a":"구름 사진을 올리는 참여자들과 프로젝트 과학자들입니다","tip":"수동태라 주어(This tool)는 쓰이는 쪽입니다. 쓰는 쪽은 by 뒤에 나옵니다."},
+  {"t":"neg","q":"<b>who are unsure whether they have observed NLCs</b> — 이 참여자들은 자기가 본 것이 NLC 라고 확신합니까?","a":"아니요 — 확신하지 못합니다","tip":"unsure 는 '확신하지 못하는'이라는 부정의 뜻입니다. sure 로 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that want to flag images for review</b> 는 누구를 설명하는 말입니까?","a":"프로젝트 과학자들(project scientists)","tip":"바로 앞 명사가 project scientists 입니다. 앞쪽의 cloud contributors 에 붙이면 두 무리가 하나로 뭉개집니다."},
+  {"t":"time","q":"<b>whether they have observed NLCs</b> — 확신하지 못하는 대상은 앞으로 볼 것입니까, 이미 본 것입니까?","a":"이미 본 것 — 자기가 본 그것이 NLC 였는지 확신하지 못한다는 뜻입니다","tip":"have observed 는 현재완료로, 이미 관측한 일을 말합니다."}
+ ],
+ "484a641a|4.1": [
+  {"t":"neg","q":"<b>you were not certain</b> — 당신은 자기가 본 것이 야광운이라고 확신했습니까?","a":"아니요 — 확신하지 못했습니다","tip":"not 을 놓치면 '확신했는데도 망설였다'가 되어 망설인 이유가 사라집니다."},
+  {"t":"mod","q":"<b>if what you were seeing was a noctilucent cloud</b> 는 무엇에 걸리는 말입니까?","a":"바로 앞의 not certain — 무엇을 확신하지 못했는지를 밝히는 부분입니다('~인지 아닌지')","tip":"문장 맨 앞의 If 와 같은 '만약'으로 읽으면 조건이 두 개가 되어 문장이 엉킵니다."},
+  {"t":"time","q":"<b>you now have a way to check before you share</b> — 확인하는 것은 사진을 올리기 전입니까, 올린 뒤입니까?","a":"올리기 전입니다","tip":"share 는 여기서 '사진을 올려 보내는 것'입니다. 순서를 뒤집으면 이 도구의 쓸모가 사라집니다."},
+  {"t":"who","q":"<b>thanks to Namai</b> — 이 확인 방법을 만들어 준 사람은 누구입니까?","a":"Namai(Namai Chandra) — 그 도구를 만든 자원봉사자입니다","tip":"thanks to ~ 는 '~에게 감사한다'가 아니라 '~ 덕분에'입니다."}
+ ]
+}

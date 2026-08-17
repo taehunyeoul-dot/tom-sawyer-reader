@@ -1,0 +1,112 @@
+[
+ {
+  "id": "626f4575|0.0",
+  "en": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency.",
+  "s": "NASA’s 737 aircraft",
+  "v": "was painted",
+  "chunks": [
+   {"en": "NASA’s 737 aircraft", "ko": "NASA의 737 항공기가", "r": "주어"},
+   {"en": "was painted this week in Oklahoma", "ko": "이번 주 오클라호마에서 도색되었다", "r": "동사(수동태) + 시간 + 장소"},
+   {"en": "as it progresses with modifications", "ko": "그 항공기가 개조 작업을 진행해 가는 가운데", "r": "부사절(~해 가는 가운데)"},
+   {"en": "for use as a reduced gravity test aircraft", "ko": "저중력 시험 항공기로 쓰기 위한 (개조)", "r": "목적(개조의 용도)"},
+   {"en": "for the agency.", "ko": "그 기관, 곧 NASA가 쓸", "r": "전치사구(누구를 위한 것인가)"}
+  ],
+  "ko": "NASA의 737 항공기가 이번 주 오클라호마에서 새로 도색되었다. NASA가 쓸 저중력(중력을 줄인 상태) 시험 항공기로 개조하는 작업이 진행되는 가운데 이루어진 일이다.",
+  "why": "was painted 는 수동태(당하는 형태)라 '칠했다'가 아니라 '칠해졌다'이고, 칠한 쪽은 문장에 나오지 않는다. 뒤쪽 as 는 '~로서'가 아니라 '~해 감에 따라, ~하는 가운데'라는 뜻이고, it 은 그 737 항공기를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "626f4575|0.1",
+  "en": "NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.",
+  "s": "NASA’s Armstrong Flight Research Center",
+  "v": "took",
+  "chunks": [
+   {"en": "NASA’s Armstrong Flight Research Center", "ko": "NASA의 암스트롱 비행연구센터가", "r": "주어(기관 이름)"},
+   {"en": "in Edwards, California,", "ko": "캘리포니아주 에드워즈에 있는", "r": "전치사구(앞 기관의 소재지)"},
+   {"en": "took ownership of the aircraft", "ko": "그 항공기의 소유권을 넘겨받았다", "r": "동사 + 목적어"},
+   {"en": "from the United States Air Force", "ko": "미 공군으로부터", "r": "전치사구(내준 쪽)"},
+   {"en": "in June.", "ko": "6월에", "r": "시간"}
+  ],
+  "ko": "캘리포니아주 에드워즈에 있는 NASA 암스트롱 비행연구센터(Armstrong Flight Research Center)가 6월에 미 공군으로부터 그 항공기의 소유권을 넘겨받았다.",
+  "why": "주어가 기관 이름이라 길고, 그 뒤에 쉼표로 둘러싸인 소재지(in Edwards, California,)가 끼어들어 동사 took 이 멀리 떨어진다. 쉼표 안쪽을 괄호로 묶어 두고 '센터가 ~ 넘겨받았다'로 뼈대를 먼저 잡을 것.",
+  "st": []
+ },
+ {
+  "id": "626f4575|1.0",
+  "en": "The aircraft will perform lunar-gravity parabolic flights to validate astronaut lunar suits and associated crew systems required to support Artemis mission objectives.",
+  "s": "The aircraft",
+  "v": "will perform",
+  "chunks": [
+   {"en": "The aircraft will perform", "ko": "그 항공기는 ~을 수행하게 된다", "r": "주어 + 동사(미래)"},
+   {"en": "lunar-gravity parabolic flights", "ko": "달 중력 상태를 만드는 포물선 비행을", "r": "목적어(긴 명사구)"},
+   {"en": "to validate astronaut lunar suits", "ko": "우주비행사의 달 표면 우주복을 검증하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "and associated crew systems", "ko": "그리고 그에 딸린 승무원 장비들을", "r": "검증 대상 나열"},
+   {"en": "required to support Artemis mission objectives.", "ko": "아르테미스 임무 목표를 뒷받침하는 데 필요한", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "이 항공기는 달 중력과 같은 상태를 만들어 내는 포물선 비행을 수행하게 된다. 아르테미스(Artemis) 임무 목표를 뒷받침하는 데 필요한 우주비행사용 달 우주복과 그에 딸린 승무원 장비들을 검증하기 위해서다.",
+  "why": "이 문장의 동사는 will perform 하나뿐이다. to validate 는 '검증하기 위해'라는 목적이고, 맨 끝 required to support ~ 는 앞의 우주복·승무원 장비를 꾸미는 말(과거분사)이라 또 하나의 동사가 아니다. lunar-gravity parabolic flights 처럼 명사 앞에 말이 여러 겹 붙으면 뒤에서부터 '비행 ← 포물선 ← 달 중력' 순으로 풀면 된다.",
+  "st": []
+ },
+ {
+  "id": "626f4575|1.1",
+  "en": "These flights will happen at NASA’s Johnson Space Center in Houston for reduced-gravity operations, with NASA Armstrong oversight.",
+  "s": "These flights",
+  "v": "will happen",
+  "chunks": [
+   {"en": "These flights will happen", "ko": "이 비행들은 이루어질 것이다", "r": "주어 + 동사(미래)"},
+   {"en": "at NASA’s Johnson Space Center in Houston", "ko": "휴스턴에 있는 NASA 존슨우주센터에서", "r": "전치사구(장소)"},
+   {"en": "for reduced-gravity operations,", "ko": "저중력 운용을 위해", "r": "목적"},
+   {"en": "with NASA Armstrong oversight.", "ko": "NASA 암스트롱(비행연구센터)의 감독을 받으며", "r": "전치사구(딸린 상황)"}
+  ],
+  "ko": "이 비행들은 휴스턴에 있는 NASA 존슨우주센터(Johnson Space Center)에서 저중력 운용을 위해, NASA 암스트롱 비행연구센터의 감독을 받으며 이루어질 예정이다.",
+  "why": "뼈대는 '이 비행들이 이루어진다' 하나뿐이고 그 뒤에 전치사구가 셋(at ~ 장소 / for ~ 목적 / with ~ 딸린 상황) 줄줄이 붙는다. 마지막 with NASA Armstrong oversight 는 '암스트롱의 감독을 받으며'라는 뜻이라, 비행이 이루어지는 곳(존슨우주센터)과 감독하는 곳(암스트롱 비행연구센터)이 서로 다르다.",
+  "st": []
+ },
+ {
+  "id": "626f4575|2.0",
+  "en": "In addition, the aircraft will serve as a key asset for systems‑integration research for flight testing autonomy, sensors, and other digital systems.",
+  "s": "the aircraft",
+  "v": "will serve",
+  "chunks": [
+   {"en": "In addition, the aircraft will serve", "ko": "또한 그 항공기는 ~ 노릇을 하게 된다", "r": "연결어 + 주어 + 동사"},
+   {"en": "as a key asset for systems‑integration research", "ko": "시스템 통합 연구의 핵심 자산으로", "r": "보어(~로서)"},
+   {"en": "for flight testing autonomy, sensors,", "ko": "자율비행 기술과 센서를 비행 중에 시험하기 위한", "r": "목적(무엇을 시험하나)"},
+   {"en": "and other digital systems.", "ko": "그리고 그 밖의 디지털 시스템들을", "r": "시험 대상 나열"}
+  ],
+  "ko": "또한 이 항공기는 자율비행 기술과 센서, 그 밖의 디지털 시스템을 비행 중에 시험하기 위한 시스템 통합 연구에서도 핵심 자산으로 쓰이게 된다.",
+  "why": "serve as ~ 는 '~에 봉사하다'가 아니라 '~ 노릇을 하다, ~로 쓰이다'이다. for 가 두 번 나오는데 앞의 for 는 '무엇을 위한 자산인지', 뒤의 for 는 '그 연구가 무엇을 위한 것인지'를 밝힌다. 맨 끝의 autonomy, sensors, other digital systems 세 가지는 testing(시험)의 대상이다.",
+  "st": []
+ },
+ {
+  "id": "626f4575|3.0",
+  "en": "Article 4 days ago 5 min read NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to…",
+  "s": "NASA",
+  "v": "has declared",
+  "chunks": [
+   {"en": "Article 4 days ago 5 min read", "ko": "기사 · 4일 전 · 읽는 데 5분", "r": "홈페이지 안내(본문 아님)"},
+   {"en": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface", "ko": "「NASA, 달 표면용 우주비행사 설치형 과학 장비를 완성하다」", "r": "다른 기사의 제목"},
+   {"en": "NASA has declared “wrenches down”", "ko": "NASA는 '렌치를 내려놓았다(작업 끝)'고 선언했다", "r": "주어 + 동사 + 목적어(인용)"},
+   {"en": "on the first completed payload", "ko": "처음으로 완성된 탑재체를 두고", "r": "전치사구(대상)"},
+   {"en": "designed for Artemis astronauts to…", "ko": "아르테미스 우주비행사들이 ~하도록 설계된 (여기서 잘림)", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "기사 · 4일 전 · 5분 분량 「NASA, 달 표면용 우주비행사 설치형 과학 장비를 완성하다」 — NASA는 아르테미스 우주비행사들이 (무엇을) 하도록 설계된, 처음으로 완성된 탑재체를 두고 '렌치를 내려놓았다', 곧 작업이 끝났다고 선언했다… (뒤가 잘려 있다)",
+  "why": "이 줄은 기사 본문이 아니라 홈페이지에 딸려 온 '관련 기사' 목록이 통째로 섞여 들어온 것이다. 앞의 Article … 5 min read 는 안내 문구, 그다음은 다른 기사의 제목이고, 진짜 문장은 NASA has declared 부터다. 맨 끝의 to… 는 원문이 잘렸다는 표시라 뒤에 올 말은 알 수 없다.",
+  "st": []
+ },
+ {
+  "id": "626f4575|4.0",
+  "en": "Article 5 days ago 4 min read Building the Moon Base: NASA Stories at the Ion Article 5 days ago Keep Exploring Discover More Topics From NASA Armstrong Flight Research Center",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Article 5 days ago 4 min read", "ko": "기사 · 5일 전 · 읽는 데 4분", "r": "홈페이지 안내(본문 아님)"},
+   {"en": "Building the Moon Base: NASA Stories at the Ion", "ko": "「달 기지 짓기: 아이온(the Ion)에서 만나는 NASA 이야기」", "r": "다른 기사의 제목"},
+   {"en": "Article 5 days ago", "ko": "기사 · 5일 전", "r": "홈페이지 안내(반복)"},
+   {"en": "Keep Exploring Discover More Topics", "ko": "계속 둘러보기 · 더 많은 주제 보기", "r": "홈페이지 버튼 문구"},
+   {"en": "From NASA Armstrong Flight Research Center", "ko": "NASA 암스트롱 비행연구센터가 내놓는", "r": "전치사구(앞의 More Topics 설명)"}
+  ],
+  "ko": "기사 · 5일 전 · 4분 분량 「달 기지 짓기: 아이온(the Ion)에서 만나는 NASA 이야기」 / 기사 · 5일 전 / 계속 둘러보기 — NASA 암스트롱 비행연구센터가 내놓는 더 많은 주제 보기.",
+  "why": "이 줄에는 주어와 동사를 갖춘 문장이 아예 없다. NASA 홈페이지 아래쪽의 기사 목록과 버튼 글자가 통째로 딸려 온 것이라, 억지로 문법을 맞추려 하지 말고 제목·안내 문구 덩어리로 끊어 읽으면 된다. Building 은 동사가 아니라 제목의 첫머리(달 기지를 짓는 일)다.",
+  "st": []
+ }
+]

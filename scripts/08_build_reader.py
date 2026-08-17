@@ -86,6 +86,22 @@ for fn in sorted(glob.glob(D('tutor', 'analyses_*.json'))):
             if a.get(key) and a[key] not in a['en']:
                 print(f"  ! {a['id']} {key}='{a[key]}' 가 문장에 없음 → 비움"); warn += 1; a[key] = ''
         analyses.append(a)
+# --- 뉴스 튜터 분석·정밀 확인 (15번이 만든다. 없어도 된다) --------------------
+# 문장 번호가 "기사id|문단.문장" 이라 소설과 섞여도 앱에서 충돌하지 않는다.
+# 기사는 60건까지만 보관하므로, 지금 없는 기사의 것은 버린다.
+n_nan = n_nck = 0
+if os.path.exists(D('data', 'news_tutor.json')):
+    nt = json.load(open(D('data', 'news_tutor.json'), encoding='utf-8'))
+    live = {a['id'] for a in news.get('articles', [])}
+    keep = [a for a in nt.get('analyses', []) if a['id'].split('|')[0] in live]
+    dropped = len(nt.get('analyses', [])) - len(keep)
+    analyses.extend(keep); n_nan = len(keep)
+    for sid, items in nt.get('checks', {}).items():
+        if sid.split('|')[0] in live:
+            checks[sid] = items; n_nck += 1
+    if dropped:
+        print(f"  · 정리된 기사의 분석 {dropped}문장은 넣지 않음")
+
 for fn in sorted(glob.glob(D('tutor', 'guide_*.json'))):
     try:
         guides.append(json.load(open(fn, encoding='utf-8')))
@@ -95,7 +111,8 @@ for fn in sorted(glob.glob(D('tutor', 'guide_*.json'))):
 n_topics = len(grammar.get('topics', []))
 n_news = len(news.get('articles', []))
 n_checks = len(checks)
-print(f"튜터 분석 {len(analyses)}문장 / 장 가이드 {len(guides)}개 / 문법 주제 {n_topics}개 / 뉴스 {n_news}건 / 정밀 확인 {n_checks}문장 / 경고 {warn}건")
+print(f"튜터 분석 {len(analyses)}문장(소설 {len(analyses)-n_nan} + 뉴스 {n_nan}) / 장 가이드 {len(guides)}개 / "
+      f"문법 주제 {n_topics}개 / 뉴스 {n_news}건 / 정밀 확인 {n_checks}문장(소설 {n_checks-n_nck} + 뉴스 {n_nck}) / 경고 {warn}건")
 
 # --- 아포스트로피 축약형(’bout, ’em …)을 어휘 목록 뒤에 덧붙인다 -----------
 #     본문에서 이런 형태를 누르면 앞의 아포스트로피가 잘려 엉뚱한 단어로 연결되던 것을 막는다.

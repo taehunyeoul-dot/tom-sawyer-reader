@@ -81,6 +81,18 @@ python scripts/08_build_reader.py
 `12_fetch_nasa.py` → `13_build_news.py` → `08`. 매일 자동으로도 돈다(`.github/workflows/daily-news.yml`).
 **작업 전 `git pull --rebase` 를 먼저 할 것** — 봇이 커밋을 올린다.
 
+**기사에도 튜터 분석·정밀 확인이 있다** (기사 6건·100문장·336항목). 자동 작업에는 모델이 없어
+새 기사에는 구조분석·어휘까지만 붙으므로, 튜터 분석은 따로 돌려야 한다.
+```bash
+python scripts/15_news_tutor.py out       # 분석 없는 기사만 골라 tutor/news/work/ 에 생성
+# tutor/news/TUTOR_PROMPT.md 를 읽혀 기사 하나당 에이전트 하나 (분석+정밀확인을 한 번에 씀)
+python scripts/15_news_tutor.py merge     # 원문 대조 검증 후 data/news_tutor.json
+python scripts/08_build_reader.py
+```
+- 뉴스 문장 번호는 **`기사id|문단.문장`**. 소설(`장.문단.문장`)과 같은 `ANA`/`CHECKS` 에 들어가되 섞이지 않는다.
+- 기사는 60건까지만 보관하므로, **없어진 기사의 분석은 08번이 알아서 뺀다.**
+- 분석이 없는 기사도 화면은 정상 동작한다(안내문 + 구조분석). 이 동작을 없애지 말 것.
+
 ## 하지 말 것
 
 - 전 문장 번역을 넣는 것

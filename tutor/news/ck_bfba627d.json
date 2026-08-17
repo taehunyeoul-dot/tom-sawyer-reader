@@ -1,0 +1,440 @@
+{
+ "bfba627d|0.0": [
+  {
+   "t": "mod",
+   "q": "<b>a public exposition of American air and space innovation</b> 는 무엇을 다시 설명하는 말입니까?",
+   "a": "MAX POWER — 그 행사가 어떤 것인지 다시 말해 주는 동격입니다",
+   "tip": "바로 앞의 Friday 나 문장 앞의 NASA 에 붙이면 '금요일이 전시회'가 되어 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>Nov. 7 and Nov. 8</b> 은 발표한 날입니까, 행사가 열리는 날입니까?",
+   "a": "행사가 열리는 날입니다. 발표한 날은 Friday(금요일)입니다",
+   "tip": "announced on Friday 와 날짜가 가까이 있어 발표일로 붙이기 쉽습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>the agency’s</b> 에서 the agency 는 어디를 가리킵니까?",
+   "a": "NASA",
+   "tip": "기사에서 the agency 는 앞에 나온 NASA 를 되받는 말로 쓰입니다. 다른 기관이 아닙니다."
+  }
+ ],
+ "bfba627d|1.0": [
+  {
+   "t": "who",
+   "q": "<b>bringing together the public</b> — 사람들을 한자리에 불러 모으는 주체는 무엇입니까?",
+   "a": "그 행사(The multi-day, family-friendly event)입니다",
+   "tip": "-ing 로 시작하는 분사구문의 주어는 보통 주절의 주어입니다. 앞에 있는 technologies 로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>will showcase</b> — 이 행사는 이미 열렸습니까, 앞으로 열립니까?",
+   "a": "앞으로 열립니다 — 아직 열리지 않았습니다",
+   "tip": "기사 전체가 예정 발표라서 will 이 계속 나옵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>helping open this new frontier</b> 는 바로 앞의 무엇을 꾸미는 말입니까?",
+   "a": "companies(기업들)",
+   "tip": "helping 을 문장의 동사로 읽으면 뼈대가 무너집니다. 여기서는 앞 명사를 꾸미는 말입니다."
+  }
+ ],
+ "bfba627d|2.0": [
+  {
+   "t": "who",
+   "q": "<b>said NASA Administrator Jared Isaacman</b> — 큰따옴표 안의 말을 한 사람은 누구입니까?",
+   "a": "NASA 국장 재러드 아이잭먼(Jared Isaacman)",
+   "tip": "said 가 주어보다 먼저 나오는 도치입니다. 인용문 안의 we 를 말한 사람으로 잡지 않도록 하세요."
+  },
+  {
+   "t": "pron",
+   "q": "<b>we are calling it MAX POWER</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "이번에 여는 그 항공우주 기술 박람회 겸 에어쇼입니다 — 셔틀 착륙장(시설)이 아닙니다",
+   "tip": "바로 앞 명사가 airshow 라서 시설로 잡기 쉽습니다. 이름을 붙이는 대상은 행사입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>we are opening</b> — 이미 개방했습니까, 앞으로 개방합니까?",
+   "a": "앞으로(이번 11월) 개방합니다",
+   "tip": "현재진행형이 가까운 미래의 예정을 나타내는 경우입니다. This November 가 그 신호입니다."
+  }
+ ],
+ "bfba627d|2.1": [
+  {
+   "t": "neg",
+   "q": "<b>building what did not exist</b> — 미국이 만들어 낸 것은 원래 있던 것입니까, 없던 것입니까?",
+   "a": "그때까지 존재하지 않던 것입니다",
+   "tip": "did not 을 놓치면 '이미 있던 것을 만들었다'가 되어 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>flying higher, moving faster, and reaching toward the near-impossible</b> 은 문장에서 무엇에 이어지는 말입니까?",
+   "a": "앞의 by 에 이어집니다 — 전부 '~함으로써'(발전해 온 방법)입니다",
+   "tip": "by 에 걸리는 것이 building 하나뿐이라고 보면 뒤의 -ing 들이 갈 곳을 잃습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>has advanced</b> — 발전은 과거에 끝난 일입니까, 지금까지 이어져 온 일입니까?",
+   "a": "250년 동안 지금까지 이어져 온 일입니다",
+   "tip": "For + 기간 + 현재완료는 '지금까지 죽 ~해 왔다'는 뜻입니다."
+  }
+ ],
+ "bfba627d|2.2": [
+  {
+   "t": "neg",
+   "q": "<b>There is no better place … than at NASA Kennedy</b> — 케네디는 그 정신을 기념하기에 어떤 곳입니까?",
+   "a": "가장 좋은 곳입니다(더 나은 곳이 없다 = 여기가 최고다)",
+   "tip": "no 가 있어도 '좋지 않다'는 뜻이 아닙니다. no + 비교급 + than 은 최상급의 뜻입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>America’s gateway to the stars</b> 는 무엇을 설명하는 말입니까?",
+   "a": "NASA Kennedy(케네디 우주센터)",
+   "tip": "바로 앞 명사를 다시 말하는 동격입니다. 미국 전체를 설명하는 말이 아닙니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that spirit</b> 은 어떤 정신을 가리킵니까?",
+   "a": "앞 문장에서 말한, 없던 것을 만들어 내고 더 높이 날고 더 빨리 나아가려 해 온 미국의 정신입니다",
+   "tip": "that 은 앞 문장을 되받는 말입니다. 이 문장 안에서 새로 설명되는 정신이 아닙니다."
+  }
+ ],
+ "bfba627d|3.0": [
+  {
+   "t": "who",
+   "q": "<b>MAX POWER aims to ignite</b> — 불붙이려는 주체는 무엇입니까?",
+   "a": "MAX POWER(그 행사)입니다",
+   "tip": "문장 앞의 By bringing … 을 주어로 착각하기 쉽습니다. 진짜 주어는 쉼표 뒤에 나옵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>shaping what comes next</b> 는 무엇을 설명하는 말입니까?",
+   "a": "the companies and technologies(그 기업들과 기술들)입니다",
+   "tip": "the legacy of NASA 에 붙이면 'NASA의 유산이 다음 시대를 만든다'가 되어 뜻이 달라집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>inspire</b> 는 문장에서 무엇과 짝을 이룹니까?",
+   "a": "앞의 aims to 와 짝입니다 — aims to ignite … and (to) inspire … 두 개가 걸립니다",
+   "tip": "inspire 를 exploration 에 걸린 말로 읽으면 목표가 하나로 줄어듭니다."
+  }
+ ],
+ "bfba627d|3.1": [
+  {
+   "t": "pron",
+   "q": "<b>the agency</b> 는 어디를 가리킵니까?",
+   "a": "NASA",
+   "tip": "뒤에 나오는 회사 중 하나로 읽으면 안 됩니다. 기사에서 the agency 는 NASA 를 되받는 말입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>are external collaborators</b> — 외부 협력사로 나열된 곳은 몇 곳입니까?",
+   "a": "다섯 곳입니다(Air Dot Show, Delaware North, Space Florida, Purpose Entertainment, UP.Summit)",
+   "tip": "UP.Summit 은 가운데 마침표가 있어도 한 회사 이름입니다. 문장이 끝난 것으로 오해하지 마세요."
+  },
+  {
+   "t": "mod",
+   "q": "<b>external</b> 은 어디를 기준으로 '바깥'이라는 뜻입니까?",
+   "a": "NASA 기준입니다 — NASA 밖의 협력 단체라는 뜻",
+   "tip": "앞의 In addition to the agency 가 그 기준을 알려 줍니다."
+  }
+ ],
+ "bfba627d|4.0": [
+  {
+   "t": "who",
+   "q": "<b>currently leased by Space Florida</b> — 빌려 쓰는 쪽은 어디이고, 빌린 것은 무엇입니까?",
+   "a": "빌려 쓰는 쪽은 Space Florida, 빌린 것은 the Launch and Landing Facility(발사·착륙 시설)입니다",
+   "tip": "leased 는 수동입니다. 'Space Florida 가 빌려주었다'로 읽으면 방향이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>including the Apollo Saturn V facility</b> — including 뒤에 오는 것들은 무엇의 예입니까?",
+   "a": "행사가 열리는 장소(NASA 케네디 안의 시설들)의 예입니다",
+   "tip": "activities(행사들)의 예로 읽으면 '아폴로 새턴 V 시설이 하나의 행사'가 되어 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>currently</b> — 그 임차는 지금도 이어지고 있습니까?",
+   "a": "네, 현재 임차 중입니다",
+   "tip": "currently 를 놓치면 예전에 빌렸던 시설로 읽게 됩니다."
+  }
+ ],
+ "bfba627d|4.1": [
+  {
+   "t": "pron",
+   "q": "<b>Others</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장의 activities 중 나머지 행사들입니다",
+   "tip": "'다른 사람들'로 읽기 쉽지만 앞 문장의 Some activities 와 짝을 이루는 말입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>adjacent to the center</b> 는 무엇을 설명하는 말입니까?",
+   "a": "the Kennedy Space Center Visitor Complex(방문자 단지) — 그 단지가 센터에 붙어 있다는 뜻입니다",
+   "tip": "the center 를 꾸미는 말로 붙이면 두 곳의 위치 관계가 뒤집힙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>leading up to, and during, the festival</b> — 행사가 열리는 때는 언제입니까?",
+   "a": "축제로 이어지는 기간(축제 전)과 축제 기간, 둘 다입니다",
+   "tip": "leading up to 는 '~로 이어지는(~직전까지의)'입니다. 축제 기간만으로 읽으면 절반을 놓칩니다."
+  }
+ ],
+ "bfba627d|5.0": [
+  {
+   "t": "mod",
+   "q": "<b>to return Americans to the lunar surface</b> 는 무엇을 설명하는 말입니까?",
+   "a": "NASA’s work(NASA가 하고 있는 작업) — 어떤 작업인지 밝히는 말입니다",
+   "tip": "앞의 commercial space 에 붙이면 '상업 우주가 사람을 달로 보낸다'가 되어 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>plans for a Moon Base</b> — 달 기지는 이미 있습니까?",
+   "a": "아니요 — 아직 계획(plans) 단계입니다",
+   "tip": "plans 를 빼고 읽으면 이미 있는 시설처럼 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>the technologies strengthening America’s aerospace industrial base</b> — 튼튼하게 만드는 쪽은 무엇입니까?",
+   "a": "그 기술들이 미국의 항공우주 산업 기반을 튼튼하게 한다는 뜻입니다",
+   "tip": "strengthening 은 앞 명사를 꾸미는 능동 분사입니다. '기술이 강화된다'로 읽으면 방향이 뒤집힙니다."
+  }
+ ],
+ "bfba627d|6.0": [
+  {
+   "t": "who",
+   "q": "<b>said Cyrus Sigari</b> — 인용문을 말한 사람은 누구입니까?",
+   "a": "UP.Summit 창립자 사이러스 시가리(Cyrus Sigari)",
+   "tip": "said 뒤에 주어가 오는 도치입니다. 인용문 안의 UP.Summit 을 말한 주체로 잡지 마세요."
+  },
+  {
+   "t": "mod",
+   "q": "<b>building the future of how the world moves</b> 는 무엇을 설명하는 말입니까?",
+   "a": "앞에 나열된 기업·투자자·창업가·정책 입안자들입니다 — 그들이 그 미래를 만들어 가고 있다는 뜻",
+   "tip": "UP.Summit 이 미래를 만든다고 읽기 쉽지만, building 은 바로 앞의 나열을 꾸밉니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>For a decade, UP.Summit has convened</b> — 10년 전에 한 번 모은 것입니까, 10년 동안 이어 온 일입니까?",
+   "a": "10년 동안 이어 온 일입니다",
+   "tip": "For + 기간 + 현재완료는 지금까지 계속되고 있음을 뜻합니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>UP.Summit founder and mission commander</b> 는 누구를 설명하는 말입니까?",
+   "a": "사이러스 시가리(Cyrus Sigari)",
+   "tip": "이름 뒤에 쉼표를 두고 직함을 덧붙이는 동격입니다. 또 다른 사람으로 세지 마세요."
+  }
+ ],
+ "bfba627d|6.2": [
+  {
+   "t": "who",
+   "q": "<b>and meet the people</b> — 만나는 쪽은 누구입니까?",
+   "a": "일반 대중(The public)입니다 — will stand 와 meet 둘 다 주어가 The public 입니다",
+   "tip": "가까이 있는 systems 나 250 years 를 주어로 잡기 쉽습니다. and 는 will stand 와 meet 을 잇습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>the people building them</b> 의 them 은 무엇을 가리킵니까?",
+   "a": "앞에 나열된 항공기·우주선·자율 시스템들입니다",
+   "tip": "the people 이나 250 years 로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that will define the next 250 years</b> 는 무엇을 설명하는 말입니까?",
+   "a": "the aircraft, spacecraft, and autonomous systems(항공기·우주선·자율 시스템)",
+   "tip": "The public 을 꾸미는 말로 붙이면 '대중이 250년을 규정한다'가 되어 뜻이 달라집니다."
+  }
+ ],
+ "bfba627d|6.3": [
+  {
+   "t": "who",
+   "q": "<b>what this country builds</b> — 만드는 주체는 누구입니까?",
+   "a": "this country(이 나라, 곧 미국)입니다",
+   "tip": "what 을 주어로 읽어 '무엇이 이 나라를 만드는가'로 뒤집기 쉽습니다. 여기서 what 은 builds 의 목적어입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>when it aims high</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "this country(이 나라)입니다",
+   "tip": "MAX POWER 나 that spark 로 잡기 쉽습니다. 바로 앞 절의 주어를 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and showing the world</b> 는 무엇과 짝을 이룹니까?",
+   "a": "앞의 lighting 과 짝입니다 — is about lighting … and showing … 두 개가 about 에 걸립니다",
+   "tip": "showing 의 주체를 the world 로 읽으면 안 됩니다. 세계는 보여 주는 대상입니다."
+  }
+ ],
+ "bfba627d|7.0": [
+  {
+   "t": "pron",
+   "q": "<b>It is an honor</b> 의 It 은 무엇을 가리킵니까?",
+   "a": "아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to collaborate … and bring … 입니다",
+   "tip": "'그것'으로 옮기면 앞에서 그것을 찾게 되어 길을 잃습니다(가주어 it)."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and bring an aviation spectacle</b> 는 무엇과 짝을 이룹니까?",
+   "a": "앞의 to collaborate 와 짝입니다 — to collaborate … and (to) bring … 둘 다 '영광인 일'의 내용입니다",
+   "tip": "bring 을 별개의 동사로 읽으면 문장의 뼈대가 두 개가 되어 버립니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>said Bryan Lilley, CEO of Air Dot Show</b> — 말한 사람은 누구이고 어느 회사 사람입니까?",
+   "a": "Air Dot Show 의 CEO 브라이언 릴리(Bryan Lilley)입니다",
+   "tip": "CEO of Air Dot Show 는 Bryan Lilley 를 다시 설명하는 동격입니다. 두 사람으로 세지 마세요."
+  }
+ ],
+ "bfba627d|7.1": [
+  {
+   "t": "neg",
+   "q": "<b>There could not be a more iconic place</b> — 이곳은 상징성이 떨어지는 곳입니까?",
+   "a": "아니요 — 이보다 더 상징적인 곳은 있을 수 없다, 곧 여기가 가장 상징적인 곳이라는 뜻입니다",
+   "tip": "not + 비교급은 '~보다 더한 것이 없다 = 최고다'입니다. 부정어만 보고 반대로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>showcase the present, and preview</b> — 이 두 동사는 무엇에 걸립니까?",
+   "a": "앞의 to 에 걸립니다 — to celebrate …, (to) showcase …, (to) preview … 세 개가 나란히 place 를 설명합니다",
+   "tip": "to 는 맨 앞에 한 번만 나오고 뒤에서는 생략됩니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>as our nation marks its 250th anniversary</b> — 250주년은 이미 지나간 일입니까?",
+   "a": "아니요 — 지금 맞이하고 있는 일입니다",
+   "tip": "여기서 as 는 '~처럼'이 아니라 '~하는 이때에'라는 뜻입니다."
+  }
+ ],
+ "bfba627d|8.0": [
+  {
+   "t": "who",
+   "q": "<b>said Therrin Protze</b> — 이 말을 한 사람은 누구입니까?",
+   "a": "케네디 우주센터 방문자 단지의 최고운영책임자 테린 프로체(Therrin Protze)입니다",
+   "tip": "큰따옴표 안이 아주 길어 맨 끝의 said 를 놓치기 쉽습니다. 문장의 뼈대는 따옴표 바깥에 있습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that helped launch the space program</b> 는 무엇을 설명하는 말입니까?",
+   "a": "the aircraft(그 항공기들)입니다",
+   "tip": "바로 앞 명사를 꾸밉니다. Visitor Complex 를 꾸미는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>from the aircraft … to the spacecraft</b> — 이 from ~ to ~ 는 무엇의 범위를 말합니까?",
+   "a": "방문자 단지에서 되살아나는 그 '항공우주 혁신의 역사'의 범위입니다",
+   "tip": "'항공기에서 우주선으로 옮겼다'는 이동으로 읽으면 안 됩니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that carried us to the Moon</b> 의 us 는 누구입니까?",
+   "a": "말하는 사람을 포함한 미국인들입니다 — 방문자 단지의 관람객이 아닙니다",
+   "tip": "과거에 달에 간 사람들을 가리키는 '우리'입니다."
+  }
+ ],
+ "bfba627d|8.1": [
+  {
+   "t": "who",
+   "q": "<b>giving the public an up-close look</b> — 주는 쪽과 받는 쪽은 각각 누구입니까?",
+   "a": "주는 쪽은 MAX POWER, 받는 쪽은 일반 대중(the public)입니다",
+   "tip": "분사구문(-ing)의 주어는 주절의 주어인 MAX POWER 입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that entire story</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 말한, 항공기부터 우주선과 앞으로의 기술까지 이어지는 미국 항공우주 혁신의 역사입니다",
+   "tip": "that 은 앞 문장을 되받는 말입니다. 새로 나온 이야기가 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>at the past, present and future of American aerospace</b> 는 무엇에 이어지는 말입니까?",
+   "a": "앞의 an up-close look 에 이어집니다 — '~을 가까이서 보는 것'",
+   "tip": "look 과 at 이 떨어져 있어 at 을 다른 말에 붙이기 쉽습니다."
+  }
+ ],
+ "bfba627d|9.0": [
+  {
+   "t": "who",
+   "q": "<b>said Col.</b> — 이 인용문을 말한 것은 플로리다입니까?",
+   "a": "아니요 — 어떤 대령(Col.)이 말했습니다. 그 이름은 다음 문장에 이어집니다",
+   "tip": "문장이 said Col. 에서 끊겨 있어 말한 사람이 없어 보입니다. 인용문 안의 we 를 말한 사람으로 잡지 마세요."
+  },
+  {
+   "t": "time",
+   "q": "<b>has been part of</b> — 이것은 과거 한때의 일입니까, 지금까지 이어져 온 일입니까?",
+   "a": "지금까지 이어져 온 일입니다",
+   "tip": "현재완료를 단순 과거로 읽으면 '지금은 아니다'라는 뉘앙스가 됩니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>this storied site</b> 는 어디를 가리킵니까?",
+   "a": "MAX POWER 가 열리는 그곳, 곧 케네디 우주센터입니다",
+   "tip": "storied 는 '층이 있는'이 아니라 '이야깃거리가 많은, 유서 깊은'이라는 뜻입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>we’re proud to welcome the nation</b> — 맞이하는 쪽과 맞이받는 쪽은 각각 누구입니까?",
+   "a": "맞이하는 쪽은 말하는 사람 쪽(we), 맞이받는 쪽은 the nation(전국의 사람들)입니다",
+   "tip": "welcome A to B 는 'A를 B로 맞이하다'입니다. the nation 을 주체로 잡으면 방향이 뒤집힙니다."
+  }
+ ],
+ "bfba627d|9.2": [
+  {
+   "t": "mod",
+   "q": "<b>that make moments like this possible</b> 는 무엇을 설명하는 말입니까?",
+   "a": "앞의 the infrastructure, talent, and spirit of innovation(기반 시설·인재·혁신의 정신)입니다",
+   "tip": "동사가 makes 가 아니라 make 인 것이 단서입니다 — 여러 개를 한꺼번에 받습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>we have spent generations building</b> — 그것들을 쌓아 온 주체는 누구입니까?",
+   "a": "말하는 쪽(we)이 NASA 와 함께입니다 — NASA 혼자가 아닙니다",
+   "tip": "Together with NASA 를 주어로 잡으면 NASA 만 한 일이 됩니다. 주어는 we 입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that ongoing story</b> 는 무엇을 가리킵니까?",
+   "a": "여러 세대에 걸쳐 쌓아 온, 지금도 이어지고 있는 그 이야기(혁신의 역사)입니다",
+   "tip": "ongoing 이 붙어 있으니 이미 끝난 이야기가 아닙니다."
+  }
+ ],
+ "bfba627d|10.1": [
+  {
+   "t": "time",
+   "q": "<b>by 5 p.m. on Tuesday, Oct. 6</b> — 이 시각은 행사 날짜입니까, 신청 마감입니까?",
+   "a": "신청 마감입니다 — 그때까지 신청해야 합니다",
+   "tip": "by 는 '~까지(마감)'입니다. at 5 p.m.(그 시각에)과 다릅니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>media must RSVP</b> — 신청해야 하는 쪽은 누구입니까?",
+   "a": "취재진(언론)입니다 — 일반 관람객이 아닙니다",
+   "tip": "여기서 media 는 '매체'라기보다 취재하러 오는 기자들을 가리킵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>To attend</b> 는 문장에서 어떤 역할을 합니까?",
+   "a": "'참석하려면'이라는 조건·목적을 나타냅니다 — 문장의 주어가 아닙니다",
+   "tip": "To attend 를 주어로 읽으면 '참석하는 것이 신청해야 한다'가 됩니다. 주어는 media 입니다."
+  }
+ ],
+ "bfba627d|11.0": [
+  {
+   "t": "pron",
+   "q": "<b>each of which</b> 에서 which 는 무엇을 가리킵니까?",
+   "a": "앞의 multiple “parks” and experiences(여러 파크와 체험 행사들)입니다",
+   "tip": "each of which 는 '그 각각'이라는 뜻입니다. 사람으로 읽으면 안 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>separate tickets</b> 는 무엇에 대해 '따로'라는 뜻입니까?",
+   "a": "파크·체험 하나하나마다 따로라는 뜻입니다 — 표 한 장으로 전부 들어갈 수 없습니다",
+   "tip": "앞에 each of which 가 있으니 '각각마다 별도의 표'입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>planned</b> — 이 파크와 체험들은 이미 열려 있습니까?",
+   "a": "아니요 — 계획되어 있는(예정된) 상태입니다",
+   "tip": "planned 는 앞 명사를 꾸미는 과거분사입니다. 문장의 동사로 읽으면 '누가 계획했다'가 됩니다."
+  }
+ ]
+}

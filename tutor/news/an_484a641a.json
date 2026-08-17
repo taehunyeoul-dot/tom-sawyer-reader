@@ -1,0 +1,156 @@
+[
+ {
+  "id": "484a641a|0.0",
+  "en": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to.",
+  "s": "Certain kinds of clouds",
+  "v": "are misbehaving",
+  "chunks": [
+   {"en": "Certain kinds of clouds", "ko": "어떤 종류의 구름들이", "r": "주어"},
+   {"en": "are misbehaving –", "ko": "이상하게 굴고 있다 —", "r": "동사"},
+   {"en": "appearing more often and lower in the sky", "ko": "더 자주, 그리고 하늘 더 낮은 곳에 나타나면서", "r": "분사구문(앞말 부연)"},
+   {"en": "than they used to.", "ko": "예전에 나타나던 것보다", "r": "비교(than절)"}
+  ],
+  "ko": "어떤 종류의 구름들이 이상하게 굴고 있다. 예전보다 더 자주, 그리고 하늘의 더 낮은 곳에 나타나고 있는 것이다.",
+  "why": "대시(–) 뒤의 appearing 은 새 문장이 아니라 바로 앞의 are misbehaving 이 무슨 뜻인지 풀어 주는 분사구문(-ing 로 시작해 앞말을 설명하는 부분)이다. than they used to 는 뒤에 appear 가 생략된 것으로 '예전에 나타나던 것보다'라는 뜻.",
+  "st": []
+ },
+ {
+  "id": "484a641a|0.1",
+  "en": "To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+  "s": "scientists",
+  "v": "have asked",
+  "chunks": [
+   {"en": "To help identify the factors", "ko": "그 요인들을 밝혀내는 데 도움이 되도록", "r": "목적(to부정사)"},
+   {"en": "influencing these changes", "ko": "이 변화에 영향을 주고 있는", "r": "분사구(factors 수식)"},
+   {"en": "(e.g. shifts in Earth’s long-term weather patterns),", "ko": "(예를 들면 지구의 장기적인 날씨 패턴의 변화)", "r": "삽입(예시)"},
+   {"en": "scientists have asked people around the world with cameras", "ko": "과학자들은 카메라를 가진 전 세계 사람들에게 요청했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to submit fresh images of these clouds", "ko": "이 구름들의 새 사진을 보내 달라고", "r": "목적격보어(to부정사)"},
+   {"en": "as a part of the NASA-supported Space Cloud Watch project.", "ko": "NASA 가 지원하는 Space Cloud Watch(우주 구름 관측) 사업의 일부로서", "r": "전치사구(자격)"}
+  ],
+  "ko": "이런 변화에 영향을 주는 요인들(예를 들면 지구의 장기적인 날씨 패턴 변화)을 밝혀내는 데 도움이 되도록, 과학자들은 카메라를 가진 전 세계 사람들에게 NASA 가 지원하는 Space Cloud Watch 사업의 일환으로 이 구름들의 새 사진을 보내 달라고 요청했다.",
+  "why": "문장 맨 앞의 To help identify … 는 주어가 아니라 '~하기 위해'라는 목적을 말하는 부분이고, 진짜 주어는 괄호 뒤의 scientists 다. ask A to B(A 에게 B 해 달라고 부탁하다) 짝을 먼저 잡을 것. people around the world with cameras 에서 with cameras 는 people 을 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|0.2",
+  "en": "Now, one volunteer has developed a new tool to help other Space Cloud Watch volunteers work more efficiently.",
+  "s": "one volunteer",
+  "v": "has developed",
+  "chunks": [
+   {"en": "Now, one volunteer has developed a new tool", "ko": "이제 한 자원봉사자가 새로운 도구를 만들어 냈다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "to help other Space Cloud Watch volunteers", "ko": "다른 Space Cloud Watch 자원봉사자들이", "r": "형용사구(tool 의 용도)"},
+   {"en": "work more efficiently.", "ko": "더 효율적으로 작업하도록 돕는", "r": "목적격보어(원형부정사)"}
+  ],
+  "ko": "이제 한 자원봉사자가 다른 Space Cloud Watch 자원봉사자들이 더 효율적으로 작업할 수 있도록 돕는 새 도구를 만들어 냈다.",
+  "why": "help + 목적어 + 동사원형(work) 구조라서 volunteers 뒤에 to 없이 work 가 그냥 붙는다. work 를 명사 '일'로 읽으면 문장이 끊긴다. to help … 이하는 앞의 a new tool 이 무엇에 쓰는 물건인지 설명하는 부분.",
+  "st": []
+ },
+ {
+  "id": "484a641a|1.1",
+  "en": "These clouds scatter light from the Sun long after sunset and long before sunrise, giving them a silvery glow.",
+  "s": "These clouds",
+  "v": "scatter",
+  "chunks": [
+   {"en": "These clouds scatter light from the Sun", "ko": "이 구름들은 태양에서 온 빛을 흩뿌린다", "r": "주어 + 동사 + 목적어"},
+   {"en": "long after sunset and long before sunrise,", "ko": "해가 지고도 한참 뒤에, 그리고 해가 뜨기 한참 전에", "r": "시간"},
+   {"en": "giving them a silvery glow.", "ko": "그래서 그 구름들이 은빛으로 빛나게 된다", "r": "분사구문(결과)"}
+  ],
+  "ko": "이 구름들은 해가 지고도 한참 뒤까지, 그리고 해가 뜨기 한참 전부터 태양 빛을 흩뿌리는데, 그 덕분에 은빛 광채를 띤다.",
+  "why": "scatter 는 여기서 '흩어 뿌리다(빛을 산란시키다)'라는 동사다. 맨 뒤의 giving 은 따로 주어를 두지 않고 앞 내용 전체의 결과를 말하는 분사구문(그래서 ~하게 된다)이고, them 은 앞의 These clouds 를 받는다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|2.0",
+  "en": "Volunteer Namai Chandra shared, “I noticed that NLC images were being manually verified by the project leaders.",
+  "s": "Volunteer Namai Chandra",
+  "v": "shared",
+  "chunks": [
+   {"en": "Volunteer Namai Chandra shared,", "ko": "자원봉사자 Namai Chandra 는 이렇게 말했다", "r": "주어 + 동사"},
+   {"en": "“I noticed that NLC images", "ko": "\"저는 NLC 사진들이 ~라는 것을 알아차렸습니다", "r": "인용 시작 + 목적어(that절)의 주어"},
+   {"en": "were being manually verified", "ko": "사람 손으로 일일이 확인되고 있다는 것을", "r": "that절 동사(수동 진행)"},
+   {"en": "by the project leaders.", "ko": "프로젝트 책임자들에 의해", "r": "행위자(by구)"}
+  ],
+  "ko": "자원봉사자 Namai Chandra 는 이렇게 말했다. \"저는 NLC 사진들이 프로젝트 책임자들의 손으로 일일이 확인되고 있다는 것을 알게 됐습니다.",
+  "why": "Volunteer Namai Chandra 는 직함과 이름이 그대로 붙은 동격(같은 사람을 두 번 말한 것)이다. were being verified 는 수동 진행형이라 사진은 '확인당하는' 쪽이고, 확인하는 쪽은 by 뒤의 the project leaders 다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|2.1",
+  "en": "It felt like a task well-suited for a human-in-the-loop machine learning pipeline, one that could handle the repetitive screening automatically, while keeping human judgment central for the images that matter most.”",
+  "s": "It",
+  "v": "felt",
+  "chunks": [
+   {"en": "It felt like a task", "ko": "그것은 이런 일거리처럼 느껴졌습니다", "r": "주어 + 동사 + 보어"},
+   {"en": "well-suited for a human-in-the-loop machine learning pipeline,", "ko": "사람이 중간에 개입하는 기계학습 파이프라인에 딱 맞는", "r": "형용사구(task 수식)"},
+   {"en": "one that could handle the repetitive screening automatically,", "ko": "반복되는 선별 작업을 자동으로 처리할 수 있는 그런 파이프라인", "r": "동격(pipeline 다시 설명)"},
+   {"en": "while keeping human judgment central", "ko": "그러면서도 사람의 판단은 중심에 그대로 두는", "r": "분사구문(동시)"},
+   {"en": "for the images that matter most.”", "ko": "가장 중요한 사진들에 대해서는", "r": "전치사구 + 관계절(images 설명)"}
+  ],
+  "ko": "그 일은 사람이 중간에 개입하는(human-in-the-loop) 기계학습 파이프라인에 딱 맞는 일처럼 느껴졌습니다. 반복되는 선별 작업은 자동으로 처리하면서도, 가장 중요한 사진들에 대해서는 사람의 판단을 중심에 그대로 두는 그런 파이프라인 말입니다.\"",
+  "why": "쉼표 뒤의 one 은 '한 사람'이나 '하나'가 아니라 앞의 pipeline 을 다시 가리키는 말(동격)이고, that 이하가 그 파이프라인을 설명한다. while keeping … 은 '~는 유지한 채로'라는 분사구문으로, 자동 처리와 사람의 판단이 함께 간다는 뜻.",
+  "st": []
+ },
+ {
+  "id": "484a641a|2.2",
+  "en": "In other words, Namai found a way to help observers verify when they are indeed seeing NLCs and when they’re not.",
+  "s": "Namai",
+  "v": "found",
+  "chunks": [
+   {"en": "In other words, Namai found a way", "ko": "다시 말해, Namai 는 방법을 찾아냈다", "r": "연결어 + 주어 + 동사 + 목적어"},
+   {"en": "to help observers verify", "ko": "관측하는 사람들이 스스로 가려내도록 돕는", "r": "형용사구(way 수식) + 원형부정사"},
+   {"en": "when they are indeed seeing NLCs", "ko": "자기가 정말로 NLC 를 보고 있는 때가 언제인지", "r": "verify 의 목적어(의문사절)"},
+   {"en": "and when they’re not.", "ko": "그리고 그렇지 않은 때가 언제인지를", "r": "목적어(나열)"}
+  ],
+  "ko": "다시 말해, Namai 는 관측하는 사람들이 자기가 지금 정말 NLC 를 보고 있는 때와 그렇지 않은 때를 스스로 가려낼 수 있도록 돕는 방법을 찾아낸 것이다.",
+  "why": "help + 목적어(observers) + 동사원형(verify) 구조라 verify 앞에 to 가 없다. verify 의 목적어는 when … and when … 두 덩어리이고, 맨 끝 when they’re not 은 뒤에 seeing NLCs 가 생략된 것이다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.2",
+  "en": "Namai soon developed a machine learning pipeline, training it on a variety of cloud images, including both the NLCs and the lower altitude look-alikes that are often submitted to Space Cloud Watch.",
+  "s": "Namai",
+  "v": "developed",
+  "chunks": [
+   {"en": "Namai soon developed a machine learning pipeline,", "ko": "Namai 는 곧 기계학습 파이프라인을 만들었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "training it on a variety of cloud images,", "ko": "여러 종류의 구름 사진으로 그것을 학습시키면서", "r": "분사구문(방법)"},
+   {"en": "including both the NLCs and the lower altitude look-alikes", "ko": "NLC 와 더 낮은 고도의 닮은꼴 구름을 모두 포함해서", "r": "삽입(images 의 범위)"},
+   {"en": "that are often submitted to Space Cloud Watch.", "ko": "Space Cloud Watch 에 자주 올라오는", "r": "관계절(look-alikes 설명)"}
+  ],
+  "ko": "Namai 는 곧 기계학습 파이프라인을 만들었고, Space Cloud Watch 에 자주 올라오는 NLC 와 더 낮은 고도의 닮은꼴 구름 사진을 모두 포함한 다양한 구름 사진들로 그것을 학습시켰다.",
+  "why": "training … 은 새 문장이 아니라 앞의 developed 에 이어 붙는 분사구문(그러면서 ~했다)이고, it 은 앞의 pipeline 을 받는다. including … 은 앞의 cloud images 에 무엇이 들어 있는지 밝히는 부분이고, that are often submitted 는 바로 앞의 look-alikes 를 설명한다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.5",
+  "en": "This tool is now being used by cloud contributors who are unsure whether they have observed NLCs, as well as project scientists that want to flag images for review.",
+  "s": "This tool",
+  "v": "is now being used",
+  "chunks": [
+   {"en": "This tool is now being used", "ko": "이 도구는 지금 쓰이고 있다", "r": "주어 + 동사(수동 진행)"},
+   {"en": "by cloud contributors", "ko": "구름 사진을 올리는 참여자들에 의해", "r": "행위자(by구)"},
+   {"en": "who are unsure whether they have observed NLCs,", "ko": "자기가 NLC 를 본 것인지 확신하지 못하는", "r": "관계절(contributors 설명)"},
+   {"en": "as well as project scientists", "ko": "그리고 프로젝트 과학자들도 마찬가지로", "r": "나열(A as well as B)"},
+   {"en": "that want to flag images for review.", "ko": "검토가 필요한 사진에 표시를 해 두려는", "r": "관계절(scientists 설명)"}
+  ],
+  "ko": "이 도구는 지금, 자기가 NLC 를 본 것인지 확신이 서지 않는 구름 사진 참여자들은 물론 검토가 필요한 사진에 표시를 해 두려는 프로젝트 과학자들도 함께 쓰고 있다.",
+  "why": "is being used by ~ 는 수동 진행형이라 '~에게 쓰이고 있다'는 뜻이고, 실제로 쓰는 쪽은 by 뒤에 나온다. by 뒤에 cloud contributors 와 project scientists 두 무리가 as well as 로 나란히 오고, 각각 뒤에 긴 설명절(who …, that …)이 붙어 문장이 길어진다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|4.1",
+  "en": "If you’ve hesitated to contribute to Space Cloud Watch because you were not certain if what you were seeing was a noctilucent cloud, you now have a way to check before you share – thanks to Namai.",
+  "s": "you",
+  "v": "have",
+  "chunks": [
+   {"en": "If you’ve hesitated to contribute to Space Cloud Watch", "ko": "만약 당신이 Space Cloud Watch 에 참여하기를 망설여 왔다면", "r": "부사절(조건)"},
+   {"en": "because you were not certain", "ko": "확신이 서지 않아서", "r": "부사절(이유)"},
+   {"en": "if what you were seeing was a noctilucent cloud,", "ko": "당신이 보고 있던 것이 야광운인지 아닌지", "r": "certain 의 내용(~인지 아닌지)"},
+   {"en": "you now have a way to check", "ko": "이제 당신에게는 확인해 볼 방법이 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "before you share", "ko": "사진을 올려 보내기 전에", "r": "부사절(때)"},
+   {"en": "– thanks to Namai.", "ko": "— Namai 덕분에", "r": "곁말(대시)"}
+  ],
+  "ko": "당신이 보고 있던 것이 야광운(noctilucent cloud)인지 확신이 서지 않아 Space Cloud Watch 에 사진 보내기를 망설여 왔다면, 이제는 올리기 전에 직접 확인해 볼 방법이 생겼다. Namai 덕분이다.",
+  "why": "If … 안에 because 절이, 그 안에 다시 if 절이 겹겹이 들어 있어 주절이 한참 뒤에 나온다. 쉼표 뒤의 you now have 가 문장의 뼈대다. 두 번째 if 는 '만약'이 아니라 '~인지 아닌지'라는 뜻으로 not certain 에 걸린다.",
+  "st": []
+ }
+]

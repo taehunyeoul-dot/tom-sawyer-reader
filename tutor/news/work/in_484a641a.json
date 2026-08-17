@@ -1,0 +1,62 @@
+[
+ {
+  "id": "484a641a|0.0",
+  "en": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to.",
+  "auto_s": "Certain kinds of clouds",
+  "auto_v": "are misbehaving"
+ },
+ {
+  "id": "484a641a|0.1",
+  "en": "To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+  "auto_s": "scientists",
+  "auto_v": "have asked"
+ },
+ {
+  "id": "484a641a|0.2",
+  "en": "Now, one volunteer has developed a new tool to help other Space Cloud Watch volunteers work more efficiently.",
+  "auto_s": "one volunteer",
+  "auto_v": "has developed"
+ },
+ {
+  "id": "484a641a|1.1",
+  "en": "These clouds scatter light from the Sun long after sunset and long before sunrise, giving them a silvery glow.",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "484a641a|2.0",
+  "en": "Volunteer Namai Chandra shared, “I noticed that NLC images were being manually verified by the project leaders.",
+  "auto_s": "Volunteer Namai Chandra",
+  "auto_v": "shared"
+ },
+ {
+  "id": "484a641a|2.1",
+  "en": "It felt like a task well-suited for a human-in-the-loop machine learning pipeline, one that could handle the repetitive screening automatically, while keeping human judgment central for the images that matter most.”",
+  "auto_s": "It",
+  "auto_v": "felt"
+ },
+ {
+  "id": "484a641a|2.2",
+  "en": "In other words, Namai found a way to help observers verify when they are indeed seeing NLCs and when they’re not.",
+  "auto_s": "Namai",
+  "auto_v": "found"
+ },
+ {
+  "id": "484a641a|3.2",
+  "en": "Namai soon developed a machine learning pipeline, training it on a variety of cloud images, including both the NLCs and the lower altitude look-alikes that are often submitted to Space Cloud Watch.",
+  "auto_s": "Namai",
+  "auto_v": "developed"
+ },
+ {
+  "id": "484a641a|3.5",
+  "en": "This tool is now being used by cloud contributors who are unsure whether they have observed NLCs, as well as project scientists that want to flag images for review.",
+  "auto_s": "This tool",
+  "auto_v": "being used"
+ },
+ {
+  "id": "484a641a|4.1",
+  "en": "If you’ve hesitated to contribute to Space Cloud Watch because you were not certain if what you were seeing was a noctilucent cloud, you now have a way to check before you share – thanks to Namai.",
+  "auto_s": "you",
+  "auto_v": "have"
+ }
+]

@@ -1,0 +1,88 @@
+{
+ "9af122e1|0.0": [
+  {"t":"who","q":"<b>to submit bold, original concepts</b> — 구상을 제출하는 쪽은 누구입니까?","a":"미국에 기반을 둔 대학 팀들(U.S.-based collegiate teams)입니다 — NASA가 제출하는 것이 아닙니다","tip":"ask A to B 에서 B 를 하는 쪽은 목적어 A 입니다. 문장 첫머리의 NASA를 제출자로 읽으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>focused on aerospace innovation</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 a student challenge(그 학생 공모전)입니다","tip":"the 2027 edition 이나 concepts 에 붙이기 쉽습니다. 항공우주 혁신에 초점을 맞춘 것은 공모전 자체입니다."},
+  {"t":"mod","q":"<b>shaped by new technology</b> 는 무엇을 설명하는 말입니까?","a":"a future on the Moon(달에서의 미래)입니다 — 새 기술이 빚어낼 미래라는 뜻","tip":"바로 앞 명사가 the Moon 이라 '기술로 만들어진 달'로 붙여 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>the agency</b> 는 어디를 가리킵니까?","a":"NASA입니다","tip":"앞에 나온 NASA를 다시 말한 표현입니다. 새로 등장한 다른 기관으로 잡으면 문장에 없는 이야기를 만들게 됩니다."}
+ ],
+ "9af122e1|1.0": [
+  {"t":"who","q":"<b>to explore new operations paradigms and advance the technologies</b> — 탐구하고 발전시키는 쪽은 누구입니까?","a":"학생 팀들(student teams)입니다 — 공모전이나 NASA가 아닙니다","tip":"invite A to B 에서 B 를 하는 쪽은 목적어 A 입니다."},
+  {"t":"mod","q":"<b>and advance</b> 는 무엇과 짝을 이루는 말입니까?","a":"앞의 to explore 와 짝입니다 — to 하나에 explore 와 advance 두 동사가 걸립니다","tip":"advance 를 새 절의 동사로 읽으면 '기술이 무엇을 발전시킨다'가 되어 문장이 두 동강 납니다."},
+  {"t":"mod","q":"<b>needed to support sustained operations</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the technologies — 달 남극에서의 지속적 활동을 뒷받침하는 데 '필요한' 기술이라는 뜻","tip":"needed 를 문장의 동사로 읽으면 '기술이 필요했다'가 되어 구조가 무너집니다. 앞 명사를 꾸미는 과거분사입니다."}
+ ],
+ "9af122e1|2.0": [
+  {"t":"who","q":"<b>said Chris Jones</b> — 이 말을 한 사람은 몇 명이고 누구입니까?","a":"크리스 존스(Chris Jones) 한 사람입니다","tip":"뒤에 쉼표로 이어지는 chief technologist, Systems Analysis…, Langley Research Center 는 다른 사람이나 기관이 함께 말했다는 뜻이 아니라 존스의 직함과 소속입니다."},
+  {"t":"mod","q":"<b>chief technologist</b> 는 누구를 설명하는 말입니까?","a":"크리스 존스입니다","tip":"쉼표 뒤에 나와 새 인물처럼 보이지만, 바로 앞 이름을 다시 말하는 동격(직함)입니다."},
+  {"t":"mod","q":"<b>of the next generation of explorers and innovators</b> 는 무엇에 걸리는 말입니까?","a":"the technical excellence and creativity(기술적 탁월함과 창의성) 둘 다에 걸립니다 — 차세대 탐험가·혁신가들이 지닌 것","tip":"바로 앞의 creativity 하나에만 붙이면 '탁월함'이 누구의 것인지 사라집니다."},
+  {"t":"pron","q":"<b>This competition</b> 은 무엇을 가리킵니까?","a":"RASC-AL 공모전입니다","tip":"인용문 안이라 앞 문장과 끊어 읽기 쉽지만, 바로 앞 문단에서 소개한 그 공모전을 받는 말입니다."}
+ ],
+ "9af122e1|2.1": [
+  {"t":"who","q":"<b>The concepts students develop through RASC-AL</b> — 구상을 개발하는 쪽은 누구입니까?","a":"학생들(students)입니다","tip":"관계대명사 that 이 생략돼 있습니다. 'concepts students'를 '구상 학생들'이라는 한 덩어리로 묶으면 안 됩니다."},
+  {"t":"who","q":"<b>demonstrate</b> 의 주어는 무엇입니까?","a":"The concepts(그 구상들)입니다 — students 가 아닙니다","tip":"students develop 은 concepts 를 꾸미는 속절의 주어·동사입니다. 문장의 진짜 동사는 demonstrate 와 contribute 입니다."},
+  {"t":"mod","q":"<b>that advances NASA’s missions</b> 는 무엇을 설명하는 말입니까?","a":"the body of work(축적된 성과 전체)입니다","tip":"advances 가 단수형인 것이 단서입니다. 앞의 concepts(복수)를 받는다면 advance 가 되었을 것입니다."}
+ ],
+ "9af122e1|3.0": [
+  {"t":"time","q":"<b>Since 2002, … has helped</b> — 이 도움은 과거에 끝난 일입니까, 지금까지 이어져 온 일입니까?","a":"2002년부터 지금까지 이어져 온 일입니다","tip":"since + 현재완료는 '그때부터 지금까지'입니다. '2002년에 도왔다'로 읽으면 시간의 폭이 사라집니다."},
+  {"t":"who","q":"<b>by making connections among universities, NASA, and industry</b> — 이어 주는 역할을 한 쪽은 무엇입니까?","a":"RASC-AL 공모전입니다","tip":"by + -ing 의 주체는 문장의 주어입니다. 대학·NASA·산업계는 이어 주는 쪽이 아니라 이어지는 대상입니다."},
+  {"t":"mod","q":"<b>foster</b> 의 대상은 무엇입니까?","a":"aerospace concepts, technology, and prototyping — 항공우주 구상, 기술, 시제품 제작 세 가지입니다","tip":"has helped foster 는 '키우는 것을 도왔다'로 동사 두 개가 붙은 모양입니다. foster 를 명사로 읽으면 목적어가 사라집니다."}
+ ],
+ "9af122e1|3.1": [
+  {"t":"mod","q":"<b>ranging from</b> 과 짝을 이루는 to 는 <b>to support</b> 입니까, <b>to the advancement of critical and expandable infrastructure</b> 입니까?","a":"뒤쪽의 to the advancement 입니다 — 앞의 to support 는 '뒷받침하기 위한'이라는 다른 뜻입니다","tip":"from A to B 의 A와 B는 the development of… / the advancement of… 로 모양이 같습니다. 그 짝을 먼저 찾으세요."},
+  {"t":"mod","q":"<b>to support prospecting in the permanently shadowed regions of lunar craters</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 concepts — 영구 음영 지역의 자원 탐사를 뒷받침하기 '위한' 구상이라는 뜻입니다","tip":"the development 에 붙여 '개발을 뒷받침하려고'로 읽으면 대상이 뒤바뀝니다."},
+  {"t":"mod","q":"<b>ranging</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 themes(주제들)입니다","tip":"This year’s competition 을 주어로 삼는 동사로 읽기 쉽지만, 이 문장의 동사는 includes 하나뿐입니다."}
+ ],
+ "9af122e1|4.0": [
+  {"t":"who","q":"<b>connects top university researchers with the agency’s technology and engineering challenges</b> — 잇는 쪽은 무엇이고, 이어지는 두 쪽은 각각 무엇입니까?","a":"잇는 쪽은 RASC-AL 공모전, 이어지는 두 쪽은 최고 수준의 대학 연구자들과 NASA의 기술·공학 난제입니다","tip":"connect A with B 구조입니다. 연구자들이 무엇을 잇는다고 읽으면 주어가 뒤바뀝니다."},
+  {"t":"pron","q":"<b>the agency’s</b> 는 어디를 가리킵니까?","a":"NASA입니다","tip":"바로 앞에 university 가 나와 대학으로 잡기 쉽습니다. 이 기사에서 the agency 는 늘 NASA입니다."},
+  {"t":"mod","q":"<b>acting cross-program integration lead</b> 는 누구를 설명하는 말입니까?","a":"게이브 메릴(Gabe Merrill)입니다","tip":"쉼표 뒤라 다른 사람처럼 보이지만 바로 앞 이름의 직함입니다. acting 은 '연기하는'이 아니라 '직무대행'입니다."}
+ ],
+ "9af122e1|4.1": [
+  {"t":"who","q":"<b>By asking student innovators to design concepts</b> — 요청하는 쪽과 설계하는 쪽은 각각 누구입니까?","a":"요청하는 쪽은 이 공모전(this competition), 설계하는 쪽은 학생 혁신가들(student innovators)입니다","tip":"By -ing 의 주체는 뒤에 나오는 주절의 주어입니다. 학생들이 요청한다고 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>we need to explore the Moon</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 the technology — 달을 탐사하는 데 우리가 필요로 하는 그 기술이라는 뜻입니다","tip":"we need 를 새 절의 주어·동사로 읽으면 '우리는 달을 탐사할 필요가 있다'가 되어 accelerates 의 목적어가 사라집니다. 관계대명사 that 이 생략돼 있습니다."},
+  {"t":"who","q":"<b>provides a development opportunity</b> — 기회를 제공하는 쪽은 무엇입니까?","a":"이 공모전(this competition)입니다 — accelerates 와 짝을 이루는 두 번째 동사입니다","tip":"바로 앞의 the Moon 이나 we 를 주어로 붙이기 쉽습니다."},
+  {"t":"time","q":"<b>what our future on the Moon might look like</b> — 달에서의 우리 미래는 이미 정해져 있습니까?","a":"아니요 — '어떤 모습일지' 아직 상상해 보는 단계입니다","tip":"might 는 확정된 사실이 아니라 가능성입니다. '어떤 모습이다'로 단정해 옮기면 뜻이 달라집니다."}
+ ],
+ "9af122e1|5.0": [
+  {"t":"who","q":"<b>are required to submit</b> — 의향서를 제출하는 쪽과 요구하는 쪽은 각각 누구입니까?","a":"제출하는 쪽은 참가에 관심 있는 팀들, 요구하는 쪽은 문장에 나오지 않습니다(수동태)","tip":"주어를 요구하는 쪽으로 읽으면 방향이 정반대가 됩니다."},
+  {"t":"time","q":"<b>by Tuesday, Oct. 13</b> 와 <b>on Oct. 27</b> 은 각각 무엇의 날짜입니까?","a":"10월 13일은 의향서 제출 마감일, 10월 27일은 질의응답 시간이 열리는 날입니다","tip":"by 는 '그날까지', on 은 '그날에'입니다. 두 날짜를 한 가지 일로 뭉뚱그리면 안 됩니다."},
+  {"t":"who","q":"<b>will be invited to a Q&A session with NASA experts</b> — 초대받는 쪽은 누구입니까?","a":"그 팀들입니다 — NASA 전문가들은 질의응답 상대이지 초대받는 쪽이 아닙니다","tip":"역시 수동태입니다. with NASA experts 를 주어로 착각하기 쉽습니다."},
+  {"t":"mod","q":"<b>non-binding</b> 은 무엇을 설명하는 말입니까?","a":"notice of intent(참가 의향서)입니다 — 내더라도 반드시 참가해야 하는 구속력은 없다는 뜻","tip":"팀이나 마감일에 붙이면 뜻이 흐려집니다. 서류의 성격을 밝히는 말입니다."}
+ ],
+ "9af122e1|6.1": [
+  {"t":"mod","q":"<b>supported by original engineering and analysis</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 innovative solutions(혁신적인 해법)입니다","tip":"Proposals 에 붙이면 '제안서가 뒷받침된다'가 되어 초점이 달라집니다. 뒷받침되어야 하는 것은 해법입니다."},
+  {"t":"who","q":"<b>supported by original engineering and analysis</b> — 뒷받침하는 쪽은 무엇입니까?","a":"독자적인 공학 작업과 분석입니다","tip":"수동 형태라 방향을 놓치기 쉽습니다. by 뒤가 뒷받침해 주는 쪽입니다."},
+  {"t":"mod","q":"<b>one of the four 2027 RASC-AL themes</b> — 제안서는 몇 개의 주제에 답해야 합니까?","a":"네 개 가운데 하나입니다","tip":"one of ~ 를 놓치고 '네 가지 주제 전부'로 읽기 쉽습니다."}
+ ],
+ "9af122e1|7.0": [
+  {"t":"mod","q":"<b>as many as 14 teams</b> — 뽑히는 팀은 반드시 14개입니까?","a":"아니요 — 최대 14개까지입니다(그보다 적을 수 있습니다)","tip":"as many as 는 상한을 말합니다. '14개나'라는 강조로만 읽으면 '꼭 14개'로 오해합니다."},
+  {"t":"pron","q":"<b>which involves further developing their concepts</b> — which 가 받는 것은 무엇입니까?","a":"바로 앞의 its final phase(그 최종 단계)입니다","tip":"14 teams 로 받으면 '팀이 ~을 포함한다'가 되어 어색해집니다. involves 가 단수형인 것도 phase 를 받기 때문입니다."},
+  {"t":"pron","q":"<b>their concepts</b> 의 their 는 누구입니까?","a":"최종 단계에 오른 그 팀들입니다","tip":"바로 앞의 the competition 이나 NASA로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>will select</b> — 팀 선발은 이미 끝난 일입니까?","a":"아니요 — 앞으로 있을 일입니다","tip":"will 은 아직 일어나지 않은 일입니다. 기사에는 이미 한 일과 앞으로 할 일이 섞여 있으니 시제를 짚어야 합니다."}
+ ],
+ "9af122e1|7.2": [
+  {"t":"who","q":"<b>Finalists will present their concepts to a panel of NASA and industry experts</b> — 발표하는 쪽과 듣는 쪽은 각각 누구입니까?","a":"발표하는 쪽은 결선에 오른 팀들(Finalists), 듣는 쪽은 NASA와 산업계 전문가로 이루어진 심사단입니다","tip":"to 뒤가 듣는 쪽입니다. 전문가들이 발표한다고 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>a panel of NASA and industry experts</b> — 심사단은 몇 개입니까?","a":"하나입니다 — NASA 쪽 전문가와 산업계 쪽 전문가가 함께 들어간 심사단 하나","tip":"'NASA와, 산업계 전문가 심사단'처럼 둘로 나눠 읽기 쉽습니다."},
+  {"t":"time","q":"<b>June 7 to 10, 2027</b> 은 무엇의 날짜입니까?","a":"2027년 RASC-AL 포럼이 열리는 기간(나흘)입니다","tip":"앞의 Cocoa Beach, Florida 와 쉼표로만 이어져 있어 지역 정보의 일부처럼 보이지만 행사 개최 날짜입니다."}
+ ],
+ "9af122e1|8.0": [
+  {"t":"mod","q":"<b>The top two overall teams</b> — 이 상을 받는 팀은 몇 팀입니까?","a":"종합 성적 상위 두 팀입니다","tip":"top two 를 붙여 읽어야 합니다. overall 은 '종합적으로'라는 뜻으로 그 두 팀을 꾸밉니다."},
+  {"t":"mod","q":"<b>and an invitation</b> 은 무엇과 나란히 놓인 말입니까?","a":"앞의 an additional monetary award 와 나란히 놓입니다 — 둘 다 will receive 의 목적어입니다","tip":"and 뒤를 새 문장의 시작으로 읽으면 동사가 없어집니다. 상금과 초청 두 가지를 함께 받습니다."},
+  {"t":"who","q":"<b>an invitation to attend and present their concept</b> — 참석해서 발표하는 쪽은 누구입니까?","a":"종합 성적 상위 두 팀입니다","tip":"초청을 받은 쪽이 곧 참석·발표하는 쪽입니다. 학회 주최 측이 발표한다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>later in 2027</b> 은 언제를 말합니까?","a":"2027년 안에서 (6월 포럼보다) 더 뒤의 시점입니다","tip":"'2027년 이후'가 아니라 '2027년 중 나중'입니다."}
+ ],
+ "9af122e1|9.0": [
+  {"t":"who","q":"<b>are encouraged to visit</b> — 방문하는 쪽과 권하는 쪽은 각각 누구입니까?","a":"방문하는 쪽은 관심 있는 학생 팀들, 권하는 쪽은 문장에 나오지 않습니다(수동태)","tip":"주어를 권하는 쪽으로 읽으면 '팀들이 방문을 권한다'가 되어 뒤집힙니다."},
+  {"t":"mod","q":"<b>for detailed guidelines and eligibility requirements</b> 는 무엇을 밝히는 말입니까?","a":"웹사이트를 방문하는 목적입니다 — 자세한 지침과 참가 자격 요건을 확인하기 위해서","tip":"바로 앞 website 를 꾸미는 말로 붙이면 '지침용 웹사이트'가 되어 방문 목적이 사라집니다."},
+  {"t":"mod","q":"<b>Interested</b> 는 무엇을 설명하는 말입니까?","a":"student teams(학생 팀들)입니다 — 관심이 있는 팀이라는 뜻","tip":"문장 맨 앞에 홀로 있어 동사처럼 보이지만 뒤의 명사를 꾸미는 말입니다."}
+ ],
+ "9af122e1|10.0": [
+  {"t":"who","q":"<b>is administered by the National Institute of Aerospace</b> — 실제로 공모전을 운영하는 곳은 어디입니까?","a":"국립항공우주연구원(the National Institute of Aerospace)입니다 — NASA가 직접 운영하는 것이 아닙니다","tip":"수동태에서 실제 행위자는 by 뒤에 옵니다. 주어(공모전)를 운영 주체로 읽으면 뒤집힙니다."},
+  {"t":"who","q":"<b>on behalf of NASA’s Advanced Research and Technology Division</b> — 대신하는 쪽과 대신함을 받는 쪽은 각각 어디입니까?","a":"대신하는 쪽은 국립항공우주연구원, 대신함을 받는 쪽은 NASA의 선진 연구·기술 부서입니다","tip":"on behalf of 뒤가 '본래 주인'입니다. 두 기관의 역할을 뒤바꿔 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>within the Research and Technology Mission Directorate</b> 는 무엇이 그 본부 안에 있다는 말입니까?","a":"바로 앞의 NASA’s Advanced Research and Technology Division(그 부서)입니다","tip":"공모전이나 국립항공우주연구원이 그 본부 안에 있다는 말로 읽기 쉽습니다."}
+ ],
+ "9af122e1|10.1": [
+  {"t":"who","q":"<b>manages the challenge contract</b> — 계약을 관리하는 곳은 어디입니까?","a":"NASA의 협업 혁신 우수센터(NASA’s Center of Excellence for Collaborative Innovation)입니다","tip":"쉼표 사이의 긴 동격 때문에 바로 앞의 Directorate 를 주어로 잡기 쉽습니다. 동사가 manages(단수)인 것도 Center 를 받기 때문입니다."},
+  {"t":"mod","q":"<b>part of the Prizes, Challenges, and Crowdsourcing Program</b> 는 무엇을 설명하는 말입니까?","a":"NASA의 협업 혁신 우수센터입니다 — 그 센터가 이 프로그램의 일부라는 뜻","tip":"쉼표 뒤에 나와 새로운 주어처럼 보이지만, 앞 이름을 다시 말하는 동격입니다."},
+  {"t":"mod","q":"<b>within the Research and Technology Mission Directorate</b> 는 무엇이 그 본부 안에 있다는 말입니까?","a":"바로 앞의 the Prizes, Challenges, and Crowdsourcing Program(그 프로그램)입니다","tip":"the challenge contract 나 센터 자체에 붙이기 쉽습니다. 조직은 본부 > 프로그램 > 센터 순으로 겹쳐 있습니다."}
+ ]
+}
