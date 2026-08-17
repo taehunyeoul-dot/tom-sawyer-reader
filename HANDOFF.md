@@ -84,9 +84,10 @@ pip install spacy && python -m spacy download en_core_web_sm
 | `12_fetch_nasa.py` | NASA 기사 수집 |
 | `13_build_news.py` | 기사 → 문장·구문분석·어휘 |
 | `14_build_checks.py` | 정밀 확인 입력 만들기(`in`) · 결과 합치기(`merge`) |
-| `check_reader.py` | 브라우저 자동 점검 (오류·개수) |
+| `check_reader.py` | 브라우저 자동 점검 (오류·개수) — **PC 폭만 봄** |
+| `check_mobile.py` | 휴대폰 폭(390px)에서 화면이 삐져나가는지 전 탭 점검 |
 
-**디자인·기능만 고칠 때**: `reader_template.html` 만 수정 → `python scripts/08_build_reader.py` → `python scripts/check_reader.py`
+**디자인·기능만 고칠 때**: `reader_template.html` 만 수정 → `python scripts/08_build_reader.py` → `python scripts/check_reader.py` → **`python scripts/check_mobile.py`**
 **절대 `index.html` 을 직접 고치지 말 것** (재빌드하면 사라짐)
 
 ---
@@ -121,7 +122,8 @@ pip install spacy && python -m spacy download en_core_web_sm
 
 | 문제 | 원인 · 해결 |
 |---|---|
-| 모바일에서 화면이 축소됨 | 절대 위치 역할 이름표가 오른쪽으로 삐져나가 뷰포트가 390→458px로 벌어짐. `html/.text` 에 `overflow-x:clip`. **모바일 레이아웃을 건드리면 뷰포트가 390px를 유지하는지 반드시 확인** |
+| 모바일에서 화면이 축소됨 (1) | 절대 위치 역할 이름표가 오른쪽으로 삐져나가 뷰포트가 390→458px로 벌어짐. `html/.text` 에 `overflow-x:clip`. **모바일 레이아웃을 건드리면 뷰포트가 390px를 유지하는지 반드시 확인** |
+| 모바일에서 화면이 축소됨 (2) — 읽은 후 화면 | 2026-08-17 발견·수정. **그리드 칸은 기본값이 `min-width:auto`라 내용의 최소 폭 아래로 줄어들지 않는다.** `.readwrap`(1fr)과 `.vlist` 의 칸이 419px·385px로 벌어져 화면이 427px가 됐다. `.readwrap>*{min-width:0}` · `.vlist>*{min-width:0}` 로 해결. **`display:grid` 를 새로 쓸 때는 자식에 `min-width:0` 을 같이 줄 것** |
 | 아이폰 상단이 잘림 | `black-translucent` 상태바. 헤더에 `env(safe-area-inset-top)` 적용. 헤더가 고정 틀 안에 있어 항상 적용됨 |
 | `’bout` → "한바탕/권투 시합" | 아포스트로피가 잘려 엉뚱한 단어로 연결. `data/contractions.json` |
 | `reckon` 이 "영국 구어" | 뜻풀이 2,657개를 영국 배경 소설에서 재사용한 탓. `data/gloss_fix.json` 58개 정정 |

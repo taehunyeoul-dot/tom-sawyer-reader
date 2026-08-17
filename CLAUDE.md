@@ -34,13 +34,16 @@
 ## 자주 하게 될 작업
 
 ### 디자인·기능을 바꿀 때
-`reader_template.html` 만 고치고 `python scripts/08_build_reader.py` → `python scripts/check_reader.py`.
+`reader_template.html` 만 고치고 `python scripts/08_build_reader.py` → `python scripts/check_reader.py` → `python scripts/check_mobile.py`.
 - **`index.html` 을 직접 고치지 말 것** (재빌드하면 사라진다)
 - 데이터 자리: `/*__BOOK__*/ /*__VOCAB__*/ /*__RD__*/ /*__STRUCT__*/ /*__ANALYSES__*/ /*__GUIDES__*/ /*__SYNTAX__*/ /*__GRAMMAR__*/ /*__NEWS__*/ /*__CHECKS__*/`
 - localStorage(키 `ts_reader_v1`)를 의도적으로 쓴다. 저장 구조를 바꿀 때는
   `Object.assign(def(), 저장값)` 방식을 유지해 기존 기록이 깨지지 않게 할 것.
 - **모바일 레이아웃을 건드리면 뷰포트가 390px를 유지하는지 반드시 확인.**
-  절대 위치 요소가 오른쪽으로 삐져나가면 화면 전체가 축소된다 (실제로 겪은 문제).
+  화면 전체가 축소되는 문제를 두 번 겪었다. `scripts/check_reader.py` 는 PC 폭(1280px)만 보므로 이 문제를 못 잡는다.
+  1. 절대 위치 요소가 오른쪽으로 삐져나감
+  2. **`display:grid` 자식은 기본값이 `min-width:auto`** 라 내용의 최소 폭 아래로 줄지 않는다.
+     그리드를 새로 쓸 때는 **자식에 `min-width:0` 을 같이 줄 것**.
 
 ### 튜터 분석·장 가이드 (36장 전부 완료 · 741문장)
 새로 만들 일은 없고 **고칠 때** 쓴다. 다시 뽑으려면:
