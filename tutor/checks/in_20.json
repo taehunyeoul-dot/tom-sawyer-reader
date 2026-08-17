@@ -1,0 +1,685 @@
+[
+ {
+  "id": "20.4.1",
+  "en": "Tom was so stunned that he had not even presence of mind enough to say “Who cares, Miss Smarty?” until the right time to say it had gone by.",
+  "s": "Tom",
+  "v": "was",
+  "ko": "톰은 너무 얼이 빠진 나머지 \"누가 신경이나 쓴대, 잘난 척쟁이 아가씨?\"라고 받아칠 정신조차 나지 않았고, 그러는 사이 그 말을 할 적당한 때는 지나가 버렸다.",
+  "chunks": [
+   {
+    "en": "Tom was so stunned",
+    "ko": "톰은 너무 얼이 빠져서",
+    "r": "주어 + 동사 + 보어(so … that)"
+   },
+   {
+    "en": "that he had not even presence of mind enough",
+    "ko": "정신을 차리고 대응할 여유조차 없었다",
+    "r": "결과절(that)"
+   },
+   {
+    "en": "to say “Who cares, Miss Smarty?”",
+    "ko": "\"누가 신경이나 쓴대, 잘난 척쟁이 아가씨?\"라고 받아칠 만큼의",
+    "r": "형용사구(enough 수식)"
+   },
+   {
+    "en": "until the right time to say it had gone by.",
+    "ko": "그 말을 할 적당한 때가 지나가 버릴 때까지",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "20.4.4",
+  "en": "He moped into the schoolyard wishing she were a boy, and imagining how he would trounce her if she were.",
+  "s": "He",
+  "v": "moped",
+  "ko": "그는 그 애가 남자애였으면 좋겠다고, 남자애였다면 어떻게 흠씬 두들겨 줄까 상상하면서 시무룩하게 학교 운동장으로 들어갔다.",
+  "chunks": [
+   {
+    "en": "He moped into the schoolyard",
+    "ko": "그는 시무룩하게 학교 운동장으로 들어갔다",
+    "r": "주어 + 동사 + 전치사구(장소)"
+   },
+   {
+    "en": "wishing she were a boy,",
+    "ko": "그 애가 남자애였으면 하고 바라면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and imagining how he would trounce her",
+    "ko": "그리고 어떻게 흠씬 두들겨 줄까 상상하면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "if she were.",
+    "ko": "만약 남자애였다면",
+    "r": "부사절(가정)"
+   }
+  ]
+ },
+ {
+  "id": "20.4.7",
+  "en": "It seemed to Becky, in her hot resentment, that she could hardly wait for school to “take in,” she was so impatient to see Tom flogged for the injured spelling-book.",
+  "s": "It",
+  "v": "seemed",
+  "ko": "부글부글 화가 난 베키는 학교가 '시작되기'를 도저히 못 기다리겠다는 심정이었다. 망가진 철자 교본 때문에 톰이 매 맞는 꼴을 보고 싶어 그만큼 안달이 나 있었던 것이다.",
+  "chunks": [
+   {
+    "en": "It seemed to Becky,",
+    "ko": "베키에게는 ~인 것 같았다",
+    "r": "가주어 It + 동사"
+   },
+   {
+    "en": "in her hot resentment,",
+    "ko": "부글부글 화가 난 상태에서",
+    "r": "삽입(전치사구)"
+   },
+   {
+    "en": "that she could hardly wait for school to “take in,”",
+    "ko": "학교가 '시작되기'를 도저히 못 기다리겠다고",
+    "r": "진주어(that절)"
+   },
+   {
+    "en": "she was so impatient to see Tom flogged",
+    "ko": "톰이 매 맞는 걸 보고 싶어 그만큼 안달이 났던 것이다",
+    "r": "대등절(이유 설명)"
+   },
+   {
+    "en": "for the injured spelling-book.",
+    "ko": "망가진 철자 교본 때문에",
+    "r": "전치사구(이유)"
+   }
+  ]
+ },
+ {
+  "id": "20.5.2",
+  "en": "The darling of his desires was, to be a doctor, but poverty had decreed that he should be nothing higher than a village schoolmaster.",
+  "s": "The darling of his desires",
+  "v": "was",
+  "ko": "그가 가슴에 품은 소망은 의사가 되는 것이었지만, 가난이 그를 시골 학교 선생 이상은 될 수 없게 못 박아 놓았다.",
+  "chunks": [
+   {
+    "en": "The darling of his desires was,",
+    "ko": "그가 가슴에 품은 가장 아끼는 소망은 ~였다",
+    "r": "주어(긴 주어) + 동사"
+   },
+   {
+    "en": "to be a doctor,",
+    "ko": "의사가 되는 것",
+    "r": "보어(to부정사)"
+   },
+   {
+    "en": "but poverty had decreed",
+    "ko": "하지만 가난이 못 박아 놓았다",
+    "r": "대등절"
+   },
+   {
+    "en": "that he should be nothing higher than a village schoolmaster.",
+    "ko": "그가 시골 학교 선생 이상은 될 수 없다고",
+    "r": "목적어(that절)"
+   }
+  ]
+ },
+ {
+  "id": "20.5.6",
+  "en": "Every boy and girl had a theory about the nature of that book; but no two theories were alike, and there was no way of getting at the facts in the case.",
+  "s": "Every boy and girl",
+  "v": "had",
+  "ko": "남자애든 여자애든 저마다 그 책의 정체에 대한 나름의 설이 있었다. 하지만 똑같은 설은 두 개도 없었고, 진상을 알아낼 방법도 없었다.",
+  "chunks": [
+   {
+    "en": "Every boy and girl had a theory",
+    "ko": "남자애 여자애 할 것 없이 저마다 나름의 설이 있었다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "about the nature of that book;",
+    "ko": "그 책의 정체에 대해",
+    "r": "전치사구"
+   },
+   {
+    "en": "but no two theories were alike,",
+    "ko": "하지만 똑같은 설은 두 개도 없었고",
+    "r": "대등절"
+   },
+   {
+    "en": "and there was no way of getting at the facts in the case.",
+    "ko": "이 일의 진상을 알아낼 방법도 없었다",
+    "r": "대등절(There was)"
+   }
+  ]
+ },
+ {
+  "id": "20.5.7",
+  "en": "Now, as Becky was passing by the desk, which stood near the door, she noticed that the key was in the lock!",
+  "s": "she",
+  "v": "noticed",
+  "ko": "그런데 베키가 문 가까이에 있던 그 책상 옆을 지나가다가, 열쇠가 자물쇠에 꽂혀 있는 것을 알아챘다!",
+  "chunks": [
+   {
+    "en": "Now, as Becky was passing by the desk,",
+    "ko": "그런데 베키가 그 책상 옆을 지나가다가",
+    "r": "접속 + 부사절(때)"
+   },
+   {
+    "en": "which stood near the door,",
+    "ko": "그 책상은 문 가까이에 있었는데",
+    "r": "관계절(desk 설명)"
+   },
+   {
+    "en": "she noticed that the key was in the lock!",
+    "ko": "열쇠가 자물쇠에 꽂혀 있는 것을 알아챘다!",
+    "r": "주어 + 동사 + 목적어(that절)"
+   }
+  ]
+ },
+ {
+  "id": "20.5.10",
+  "en": "The titlepage—Professor Somebody’s Anatomy—carried no information to her mind; so she began to turn the leaves.",
+  "s": "The titlepage",
+  "v": "carried",
+  "ko": "속표지에 적힌 '아무개 교수의 해부학'이라는 제목은 그녀의 머리에 아무것도 알려 주지 못했다. 그래서 그녀는 책장을 넘기기 시작했다.",
+  "chunks": [
+   {
+    "en": "The titlepage—Professor Somebody’s Anatomy—carried no information to her mind;",
+    "ko": "속표지는—'아무개 교수의 해부학'이라는—그녀의 머리에 아무것도 알려 주지 못했다",
+    "r": "주어 + 곁말(대시 삽입) + 동사 + 목적어"
+   },
+   {
+    "en": "so she began to turn the leaves.",
+    "ko": "그래서 그녀는 책장을 넘기기 시작했다",
+    "r": "대등절(결과)"
+   }
+  ]
+ },
+ {
+  "id": "20.5.12",
+  "en": "At that moment a shadow fell on the page and Tom Sawyer stepped in at the door and caught a glimpse of the picture.",
+  "s": "a shadow",
+  "v": "fell",
+  "ko": "바로 그 순간 그림자가 책장 위에 드리우더니, 톰 소여가 문으로 들어서면서 그 그림을 언뜻 보고 말았다.",
+  "chunks": [
+   {
+    "en": "At that moment a shadow fell on the page",
+    "ko": "바로 그 순간 그림자가 책장 위에 드리웠고",
+    "r": "시간 + 주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "and Tom Sawyer stepped in at the door",
+    "ko": "톰 소여가 문으로 들어섰다",
+    "r": "대등절"
+   },
+   {
+    "en": "and caught a glimpse of the picture.",
+    "ko": "그리고 그 그림을 언뜻 보았다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "20.6.0",
+  "en": "“Tom Sawyer, you are just as mean as you can be, to sneak up on a person and look at what they’re looking at.”",
+  "s": "you",
+  "v": "are",
+  "ko": "\"톰 소여, 넌 정말 더할 나위 없이 못된 애야. 남한테 몰래 다가와서 그 사람이 보고 있는 걸 훔쳐보다니.\"",
+  "chunks": [
+   {
+    "en": "“Tom Sawyer, you are just as mean as you can be,",
+    "ko": "\"톰 소여, 넌 더 못될 수 없을 만큼 못됐어",
+    "r": "인용(대사) 호칭 + 주어 + 동사 + 보어"
+   },
+   {
+    "en": "to sneak up on a person",
+    "ko": "남한테 몰래 다가와서",
+    "r": "부사구(그렇게 판단한 근거)"
+   },
+   {
+    "en": "and look at what they’re looking at.”",
+    "ko": "그 사람이 보고 있는 걸 들여다보다니\"",
+    "r": "대등(to에 이어짐)"
+   }
+  ]
+ },
+ {
+  "id": "20.8.0",
+  "en": "“You ought to be ashamed of yourself, Tom Sawyer; you know you’re going to tell on me, and oh, what shall I do, what shall I do!",
+  "s": "You",
+  "v": "ought to be",
+  "ko": "\"부끄러운 줄 알아, 톰 소여. 넌 나를 일러바칠 거면서. 아, 나 어떡해, 나 어떡하지!\"",
+  "chunks": [
+   {
+    "en": "“You ought to be ashamed of yourself, Tom Sawyer;",
+    "ko": "\"너 부끄러운 줄 알아, 톰 소여",
+    "r": "인용(대사) 주어 + 동사 + 보어"
+   },
+   {
+    "en": "you know you’re going to tell on me,",
+    "ko": "넌 나를 일러바칠 거잖아",
+    "r": "대등절 + 목적어(that 생략)"
+   },
+   {
+    "en": "and oh, what shall I do, what shall I do!",
+    "ko": "아, 나 어떡해, 나 어떡하지!",
+    "r": "대등절(감탄·의문)"
+   }
+  ]
+ },
+ {
+  "id": "20.12.5",
+  "en": "Well, of course I ain’t going to tell old Dobbins on this little fool, because there’s other ways of getting even on her, that ain’t so mean; but what of it?",
+  "s": "I",
+  "v": "ain’t going to tell",
+  "ko": "\"뭐, 물론 나야 이 바보 계집애를 늙은 도빈스한테 일러바치진 않을 거야. 그렇게까지 치사하지 않은 앙갚음 방법이 따로 있으니까. 하지만 그래 봤자 무슨 소용이람?\"",
+  "chunks": [
+   {
+    "en": "Well, of course I ain’t going to tell old Dobbins",
+    "ko": "뭐, 물론 나야 늙은 도빈스한테 일러바치진 않을 거다",
+    "r": "접속 + 주어 + 동사"
+   },
+   {
+    "en": "on this little fool,",
+    "ko": "이 바보 계집애를",
+    "r": "전치사구(tell A on B의 B)"
+   },
+   {
+    "en": "because there’s other ways of getting even on her,",
+    "ko": "그 애한테 앙갚음할 다른 방법들이 있으니까",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "that ain’t so mean;",
+    "ko": "그렇게까지 치사하지는 않은 (방법들 말이다)",
+    "r": "관계절(ways 설명)"
+   },
+   {
+    "en": "but what of it?",
+    "ko": "하지만 그래 봤자 무슨 소용이람?",
+    "r": "대등절(반전)"
+   }
+  ]
+ },
+ {
+  "id": "20.12.8",
+  "en": "Then he’ll do just the way he always does—ask first one and then t’other, and when he comes to the right girl he’ll know it, without any telling.",
+  "s": "he",
+  "v": "’ll do",
+  "ko": "\"그러면 선생은 늘 하던 대로 하겠지—먼저 이 애한테 묻고 그다음 저 애한테 묻고. 그러다 진짜 그 애 차례가 오면, 아무도 말해 주지 않아도 알아챌걸.\"",
+  "chunks": [
+   {
+    "en": "Then he’ll do just the way he always does—ask first one and then t’other,",
+    "ko": "그러면 그는 늘 하던 그대로 하겠지—먼저 이 애한테 묻고 그다음 저 애한테 묻고",
+    "r": "주어 + 동사 + 곁말(대시: 그 방식 설명)"
+   },
+   {
+    "en": "and when he comes to the right girl",
+    "ko": "그러다 진짜 그 애 차례가 오면",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he’ll know it, without any telling.",
+    "ko": "아무도 말해 주지 않아도 알아챌 거다",
+    "r": "주절 + 전치사구"
+   }
+  ]
+ },
+ {
+  "id": "20.12.13",
+  "en": "Tom conned the thing a moment longer, and then added: “All right, though; she’d like to see me in just such a fix—let her sweat it out!”",
+  "s": "Tom",
+  "v": "conned",
+  "ko": "톰은 그 일을 잠시 더 곱씹더니 이렇게 덧붙였다. \"그래도 뭐, 괜찮아. 걔도 내가 딱 이런 곤경에 빠진 꼴을 보고 싶어 할 테니까—좀 애태우게 놔두지 뭐!\"",
+  "chunks": [
+   {
+    "en": "Tom conned the thing a moment longer,",
+    "ko": "톰은 그 일을 잠시 더 곱씹었다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and then added:",
+    "ko": "그러고는 이렇게 덧붙였다",
+    "r": "대등 동사 + 콜론"
+   },
+   {
+    "en": "“All right, though;",
+    "ko": "\"그래도 뭐, 괜찮아",
+    "r": "인용(대사)"
+   },
+   {
+    "en": "she’d like to see me",
+    "ko": "걔도 내가 ~한 꼴을 보고 싶어 할 테니까",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "in just such a fix—let her sweat it out!”",
+    "ko": "딱 이런 곤경에 빠진—그러니 좀 애태우게 놔두지 뭐!\"",
+    "r": "전치사구 + 곁말(대시 뒤 명령문)"
+   }
+  ]
+ },
+ {
+  "id": "20.13.8",
+  "en": "She did not expect that Tom could get out of his trouble by denying that he spilt the ink on the book himself; and she was right.",
+  "s": "She",
+  "v": "did not expect",
+  "ko": "그녀는 톰이 자기가 책에 잉크를 쏟았다는 사실을 부인하는 것만으로 곤경에서 빠져나가리라고는 생각하지 않았다. 그리고 그 생각이 맞았다.",
+  "chunks": [
+   {
+    "en": "She did not expect",
+    "ko": "그녀는 ~하리라고 생각하지 않았다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that Tom could get out of his trouble",
+    "ko": "톰이 이 곤경에서 빠져나올 수 있으리라고는",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "by denying that he spilt the ink on the book himself;",
+    "ko": "자기가 책에 잉크를 쏟았다는 것을 부인하는 방법으로",
+    "r": "전치사구(수단) + that절"
+   },
+   {
+    "en": "and she was right.",
+    "ko": "그리고 그 생각이 옳았다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "20.13.10",
+  "en": "Becky supposed she would be glad of that, and she tried to believe she was glad of it, but she found she was not certain.",
+  "s": "Becky",
+  "v": "supposed",
+  "ko": "베키는 자기가 그 일을 고소해할 줄 알았고, 실제로 고소하다고 믿으려 애썼지만, 정작 자기 마음이 그렇지 않다는 것을 깨달았다.",
+  "chunks": [
+   {
+    "en": "Becky supposed she would be glad of that,",
+    "ko": "베키는 자기가 그 일을 고소해할 줄 알았다",
+    "r": "주어 + 동사 + 목적어(that 생략)"
+   },
+   {
+    "en": "and she tried to believe she was glad of it,",
+    "ko": "그리고 정말 고소하다고 믿으려 애썼다",
+    "r": "대등절"
+   },
+   {
+    "en": "but she found she was not certain.",
+    "ko": "하지만 확신이 서지 않는다는 것을 깨달았다",
+    "r": "대등절(반전)"
+   }
+  ]
+ },
+ {
+  "id": "20.13.11",
+  "en": "When the worst came to the worst, she had an impulse to get up and tell on Alfred Temple, but she made an effort and forced herself to keep still—because, said she to herself, “he’ll tell about me tearing the picture sure.",
+  "s": "she",
+  "v": "had",
+  "ko": "사태가 최악으로 치닫자 그녀는 벌떡 일어나 앨프리드 템플을 일러바치고 싶은 충동을 느꼈지만, 애써 참고 가만히 있었다. 속으로 이렇게 생각했기 때문이다. \"쟤는 내가 그림 찢은 걸 틀림없이 일러바칠 거야.\"",
+  "chunks": [
+   {
+    "en": "When the worst came to the worst,",
+    "ko": "사태가 최악에 이르렀을 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "she had an impulse to get up and tell on Alfred Temple,",
+    "ko": "그녀는 일어서서 앨프리드 템플을 일러바치고 싶은 충동을 느꼈다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "but she made an effort",
+    "ko": "하지만 그녀는 애를 썼다",
+    "r": "대등절(반전)"
+   },
+   {
+    "en": "and forced herself to keep still—because, said she to herself,",
+    "ko": "그리고 억지로 가만히 있었다—왜냐하면, 하고 그녀는 속으로 말했다",
+    "r": "대등 동사 + 곁말(대시) + 도치된 전달동사"
+   },
+   {
+    "en": "“he’ll tell about me tearing the picture sure.",
+    "ko": "\"쟤는 내가 그림 찢은 걸 틀림없이 일러바칠 거야",
+    "r": "인용(속말)"
+   }
+  ]
+ },
+ {
+  "id": "20.14.0",
+  "en": "Tom took his whipping and went back to his seat not at all broken-hearted, for he thought it was possible that he had unknowingly upset the ink on the spelling-book himself, in some skylarking bout—he had denied it for form’s sake and because it was custom, and had stuck to the denial from principle.",
+  "s": "Tom",
+  "v": "took",
+  "ko": "톰은 매를 맞고 조금도 상심하지 않은 얼굴로 자기 자리에 돌아갔다. 어디선가 장난치며 뛰놀다가 자기도 모르게 철자 교본에 잉크를 엎었을 수도 있다고 생각했기 때문이다—그가 잘못을 부인한 것은 그저 형식상, 그게 관례였기 때문이고, 일단 부인한 이상 원칙에 따라 끝까지 그 말을 고수했던 것이다.",
+  "chunks": [
+   {
+    "en": "Tom took his whipping and went back to his seat",
+    "ko": "톰은 매를 맞고 자기 자리로 돌아갔다",
+    "r": "주어 + 동사 + 대등 동사"
+   },
+   {
+    "en": "not at all broken-hearted,",
+    "ko": "조금도 상심하지 않은 채",
+    "r": "보어(상태)"
+   },
+   {
+    "en": "for he thought it was possible",
+    "ko": "왜냐하면 그는 ~일 수도 있다고 생각했기 때문이다",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "that he had unknowingly upset the ink on the spelling-book himself,",
+    "ko": "자기도 모르게 자기가 철자 교본에 잉크를 엎었을지 모른다고",
+    "r": "진주어(that절)"
+   },
+   {
+    "en": "in some skylarking bout—he had denied it",
+    "ko": "어디선가 장난치며 뛰노는 와중에—그가 부인한 것은",
+    "r": "전치사구 + 곁말(대시 뒤 절)"
+   },
+   {
+    "en": "for form’s sake and because it was custom,",
+    "ko": "그저 형식상, 그리고 그게 관례여서였다",
+    "r": "이유(나열)"
+   },
+   {
+    "en": "and had stuck to the denial from principle.",
+    "ko": "그러고는 원칙에 따라 그 부인을 끝까지 밀고 나갔다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "20.15.1",
+  "en": "By and by, Mr. Dobbins straightened himself up, yawned, then unlocked his desk, and reached for his book, but seemed undecided whether to take it out or leave it.",
+  "s": "Mr. Dobbins",
+  "v": "straightened",
+  "ko": "이윽고 도빈스 선생은 몸을 곧추세우고 하품을 하더니, 책상 자물쇠를 열고 책에 손을 뻗었다. 하지만 그것을 꺼낼지 그냥 둘지 마음을 정하지 못한 듯했다.",
+  "chunks": [
+   {
+    "en": "By and by, Mr. Dobbins straightened himself up, yawned,",
+    "ko": "이윽고 도빈스 선생은 몸을 곧추세우고 하품을 했다",
+    "r": "시간 + 주어 + 동사(나열)"
+   },
+   {
+    "en": "then unlocked his desk, and reached for his book,",
+    "ko": "그러고는 책상 자물쇠를 열고 책에 손을 뻗었다",
+    "r": "대등 동사(나열)"
+   },
+   {
+    "en": "but seemed undecided",
+    "ko": "하지만 마음을 정하지 못한 듯했다",
+    "r": "대등 동사 + 보어"
+   },
+   {
+    "en": "whether to take it out or leave it.",
+    "ko": "그것을 꺼낼지 그냥 둘지",
+    "r": "목적어(whether A or B)"
+   }
+  ]
+ },
+ {
+  "id": "20.27.0",
+  "en": "“Rebecca Thatcher” [Tom glanced at her face—it was white with terror]—“did you tear—no, look me in the face” [her hands rose in appeal]—“did you tear this book?”",
+  "s": "you",
+  "v": "tear",
+  "ko": "\"리베카 대처\" [톰이 그 애 얼굴을 흘낏 보았다—공포로 하얗게 질려 있었다]—\"네가 찢었—아니, 내 얼굴을 똑바로 봐\" [그 애의 두 손이 애원하듯 올라갔다]—\"네가 이 책을 찢었니?\"",
+  "chunks": [
+   {
+    "en": "“Rebecca Thatcher”",
+    "ko": "\"리베카 대처\"",
+    "r": "인용(호명)"
+   },
+   {
+    "en": "[Tom glanced at her face—it was white with terror]—“did you tear—no,",
+    "ko": "[톰이 그 애 얼굴을 흘낏 보았다—공포로 하얗게 질려 있었다]—\"네가 찢었—아니,",
+    "r": "곁말(대괄호 삽입) + 인용(말 끊김)"
+   },
+   {
+    "en": "look me in the face”",
+    "ko": "내 얼굴을 똑바로 봐\"",
+    "r": "인용(명령문)"
+   },
+   {
+    "en": "[her hands rose in appeal]—“did you tear this book?”",
+    "ko": "[그 애의 두 손이 애원하듯 올라갔다]—\"네가 이 책을 찢었니?\"",
+    "r": "곁말(대괄호 삽입) + 인용(질문)"
+   }
+  ]
+ },
+ {
+  "id": "20.29.1",
+  "en": "Tom stood a moment, to gather his dismembered faculties; and when he stepped forward to go to his punishment the surprise, the gratitude, the adoration that shone upon him out of poor Becky’s eyes seemed pay enough for a hundred floggings.",
+  "s": "Tom",
+  "v": "stood",
+  "ko": "톰은 산산이 흩어진 정신을 그러모으려 잠시 서 있었다. 그리고 벌을 받으러 앞으로 걸어 나갈 때, 가엾은 베키의 눈에서 그에게 쏟아지던 놀라움과 감사와 흠모는 매 백 대를 맞고도 남을 만한 보상으로 보였다.",
+  "chunks": [
+   {
+    "en": "Tom stood a moment,",
+    "ko": "톰은 잠시 서 있었다",
+    "r": "주어 + 동사 + 시간"
+   },
+   {
+    "en": "to gather his dismembered faculties;",
+    "ko": "산산조각 난 정신을 그러모으려고",
+    "r": "목적(to부정사)"
+   },
+   {
+    "en": "and when he stepped forward to go to his punishment",
+    "ko": "그리고 벌을 받으러 앞으로 걸어 나갔을 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "the surprise, the gratitude, the adoration",
+    "ko": "그 놀라움과 감사와 흠모가",
+    "r": "주어(나열)"
+   },
+   {
+    "en": "that shone upon him out of poor Becky’s eyes",
+    "ko": "가엾은 베키의 눈에서 그에게 쏟아지던",
+    "r": "관계절(앞 명사 설명)"
+   },
+   {
+    "en": "seemed pay enough for a hundred floggings.",
+    "ko": "매 백 대의 값으로도 충분해 보였다",
+    "r": "동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "20.29.2",
+  "en": "Inspired by the splendor of his own act, he took without an outcry the most merciless flaying that even Mr. Dobbins had ever administered; and also received with indifference the added cruelty of a command to remain two hours after school should be dismissed—for he knew who would wait for him outside till his captivity was done, and not count the tedious time as loss, either.",
+  "s": "he",
+  "v": "took",
+  "ko": "자기 행동의 장렬함에 도취된 그는, 도빈스 선생이 그때까지 휘둘러 본 적도 없을 만큼 무자비한 매질을 신음 한 번 내지 않고 견뎌 냈다. 게다가 학교가 파한 뒤에도 두 시간 더 남아 있으라는 추가 형벌까지 아무렇지 않게 받아들였다—누가 밖에서 자기가 풀려날 때까지 기다려 줄지, 그리고 그 지루한 시간을 조금도 아깝게 여기지 않으리라는 것을 그는 알고 있었으니까.",
+  "chunks": [
+   {
+    "en": "Inspired by the splendor of his own act,",
+    "ko": "자기 행동의 장렬함에 도취되어",
+    "r": "분사구문(과거분사로 시작)"
+   },
+   {
+    "en": "he took without an outcry",
+    "ko": "그는 신음 한 번 내지 않고 받아 냈다",
+    "r": "주어 + 동사 + 부사구(삽입)"
+   },
+   {
+    "en": "the most merciless flaying that even Mr. Dobbins had ever administered;",
+    "ko": "도빈스 선생조차 이제껏 내려 본 적 없는 가장 무자비한 매질을",
+    "r": "목적어 + 관계절"
+   },
+   {
+    "en": "and also received with indifference",
+    "ko": "그리고 아무렇지 않게 받아들이기까지 했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "the added cruelty of a command to remain two hours",
+    "ko": "두 시간 더 남아 있으라는 명령이라는 추가 형벌을",
+    "r": "목적어"
+   },
+   {
+    "en": "after school should be dismissed—for he knew",
+    "ko": "학교가 파한 뒤에도—그가 알고 있었기 때문이다",
+    "r": "부사절(때) + 곁말(대시) + 이유절(for=because)"
+   },
+   {
+    "en": "who would wait for him outside till his captivity was done,",
+    "ko": "누가 밖에서 자기가 풀려날 때까지 기다려 줄지",
+    "r": "목적어(의문사절)"
+   },
+   {
+    "en": "and not count the tedious time as loss, either.",
+    "ko": "그리고 그 지루한 시간을 손해로 여기지도 않으리라는 것을",
+    "r": "목적어(would에 이어짐)"
+   }
+  ]
+ },
+ {
+  "id": "20.30.0",
+  "en": "Tom went to bed that night planning vengeance against Alfred Temple; for with shame and repentance Becky had told him all, not forgetting her own treachery; but even the longing for vengeance had to give way, soon, to pleasanter musings, and he fell asleep at last with Becky’s latest words lingering dreamily in his ear—",
+  "s": "Tom",
+  "v": "went",
+  "ko": "톰은 그날 밤 앨프리드 템플에게 복수할 궁리를 하며 잠자리에 들었다. 베키가 부끄러움과 뉘우침 속에, 자기가 저지른 배신까지 숨김없이 모두 털어놓았기 때문이다. 하지만 복수하고 싶은 마음조차 곧 더 즐거운 공상에 자리를 내주어야 했고, 그는 베키의 마지막 말이 귓가에 꿈결처럼 맴도는 채로 마침내 잠이 들었다.",
+  "chunks": [
+   {
+    "en": "Tom went to bed that night",
+    "ko": "톰은 그날 밤 잠자리에 들었다",
+    "r": "주어 + 동사 + 시간"
+   },
+   {
+    "en": "planning vengeance against Alfred Temple;",
+    "ko": "앨프리드 템플에게 복수할 궁리를 하면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "for with shame and repentance Becky had told him all,",
+    "ko": "베키가 부끄러움과 뉘우침 속에 모든 것을 그에게 털어놓았기 때문이다",
+    "r": "부사절(이유, for=because) + 앞으로 나온 부사구"
+   },
+   {
+    "en": "not forgetting her own treachery;",
+    "ko": "자기가 저지른 배신도 빼놓지 않고",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "but even the longing for vengeance had to give way, soon,",
+    "ko": "하지만 복수하고 싶은 마음조차 곧 자리를 내주어야 했다",
+    "r": "대등절(반전)"
+   },
+   {
+    "en": "to pleasanter musings,",
+    "ko": "더 즐거운 공상에게",
+    "r": "전치사구(give way to ~)"
+   },
+   {
+    "en": "and he fell asleep at last",
+    "ko": "그리고 그는 마침내 잠이 들었다",
+    "r": "대등절"
+   },
+   {
+    "en": "with Becky’s latest words lingering dreamily in his ear—",
+    "ko": "베키의 마지막 말이 귓가에 꿈결처럼 맴도는 채로",
+    "r": "전치사구(with + 명사 + ~ing)"
+   }
+  ]
+ }
+]

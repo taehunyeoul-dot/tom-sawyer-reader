@@ -1,0 +1,126 @@
+{
+ "17.0.1": [
+  {"t":"who","q":"<b>were being put into mourning</b> — 상복을 입고 상에 들어간 쪽은 누구입니까?","a":"하퍼네 식구들과 폴리 이모네 식구들 — 남을 상복 입힌 것이 아니라 자기들이 상에 들어간 것입니다","tip":"were being put 은 수동입니다. 주어가 그 일을 하는 쪽이 아니라 당하는 쪽입니다."},
+  {"t":"time","q":"<b>were being put</b> 는 이미 끝난 일입니까, 그때 한창 진행 중이던 일입니까?","a":"그때 한창 진행 중 — 상에 들어가는 중이었다는 뜻입니다","tip":"be동사 + being + p.p. 는 수동과 진행이 겹친 형태입니다. '들어갔다'로 끝맺어 읽으면 그 진행 중인 느낌이 사라집니다."},
+  {"t":"mod","q":"<b>with great grief and many tears</b> 는 누구의 슬픔과 눈물입니까?","a":"상에 들어가고 있던 그 두 집안 식구들의 것","tip":"바로 앞의 상황을 설명하는 말입니다. 제3자가 옆에서 울어 준 것이 아닙니다."}
+ ],
+ "17.1.0": [
+  {"t":"who","q":"<b>found herself moping ... and feeling very melancholy</b> — 힘없이 서성이며 우울해한 사람은 누구입니까?","a":"베키 대처 자신 — 남이 그러는 것을 지켜본 것이 아닙니다","tip":"find oneself ~ing 는 '어느새 자기가 ~하고 있음을 깨닫다'입니다. '자기 자신을 발견했다'로 옮기면 어색해집니다."},
+  {"t":"mod","q":"<b>moping about the deserted schoolhouse yard</b> 의 about 은 '~에 대해'입니까, '~를 여기저기'입니까?","a":"'~를 여기저기' — 텅 빈 학교 운동장을 이리저리 서성였다는 뜻입니다","tip":"'운동장에 대해 우울해했다'로 읽으면 장면이 통째로 사라집니다."},
+  {"t":"mod","q":"<b>deserted</b> 는 무엇을 설명합니까?","a":"학교 운동장(schoolhouse yard) — 아무도 없이 텅 빈 상태","tip":"베키가 버림받았다는 뜻이 아닙니다. 학교가 파해 사람이 없는 운동장입니다."}
+ ],
+ "17.5.1": [
+  {"t":"mod","q":"<b>(pregnant with awful prophecy, as they could easily see now!)</b> 는 무엇을 설명하는 말입니까?","a":"조가 했다는 그 사소한 말(this and that small trifle)","tip":"괄호는 바로 앞의 trifle 을 받습니다. 조 자신을 설명하는 말이 아닙니다. pregnant with ~ 는 '~을 잔뜩 품은'입니다."},
+  {"t":"pron","q":"<b>the last time they saw him</b> — they 와 him 은 각각 누구입니까?","a":"they = 지금 이야기하고 있는 놀이 친구들, him = 톰","tip":"바로 앞이 how Tom did so-and-so 입니다. him 을 조로 잡으면 뒤의 how Joe said ... 와 겹칩니다."},
+  {"t":"pron","q":"<b>and as if you was him</b> — you 와 him 은 각각 누구입니까?","a":"you = 지금 그 이야기를 듣고 있는 친구, him = 이야기 속의 죽은 그 아이","tip":"말하는 아이가 친구를 세워 놓고 그때 장면을 재연하는 중입니다. was 는 were 를 사투리로 쓴 것입니다."},
+  {"t":"neg","q":"<b>I never thought what it meant, of course</b> — 말하는 아이는 그때 그것이 무슨 뜻인지 알았습니까?","a":"아니요 — 그때는 생각조차 못 했고, 지금에서야 알겠다고 말합니다","tip":"never 를 놓치면 '그때 이미 알았다'가 되어 바로 뒤의 but I can see now 와 정면으로 어긋납니다."}
+ ],
+ "17.6.0": [
+  {"t":"who","q":"<b>more or less tampered with by the witness</b> — 증거에 손을 댄 사람은 누구입니까?","a":"그 증거를 내놓은 증인, 즉 자기가 마지막으로 봤다고 우기던 아이 자신","tip":"제3의 인물이 아닙니다. tamper with ~ 는 '~에 손을 대 조작하다'입니다. 작가가 아이들을 놀리는 대목입니다."},
+  {"t":"pron","q":"<b>when it was ultimately decided</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 who did see the departed last ... 이하입니다","tip":"'그것이 결정되었다'로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"who","q":"<b>were gaped at and envied by all the rest</b> — 부러워한 쪽과 부러움을 받은 쪽은 각각 누구입니까?","a":"부러워한 쪽은 나머지 아이들 전부(all the rest), 부러움을 받은 쪽은 그 운 좋은 당사자들(the lucky parties)","tip":"수동태라서 두 쪽을 뒤집어 읽기 쉽습니다. by 뒤가 쳐다보고 부러워하는 쪽입니다."},
+  {"t":"time","q":"<b>who saw the dead boys last in life</b> — in life 는 무슨 뜻입니까?","a":"그 아이들이 아직 살아 있을 때 — 죽기 전에 마지막으로 본 사람이 누구냐는 뜻입니다","tip":"'인생에서'로 읽으면 무엇을 다투는지가 흐려집니다."}
+ ],
+ "17.9.0": [
+  {"t":"time","q":"<b>When the Sunday-school hour was finished</b> — 종이 울리기 시작한 것은 주일학교 시간이 끝나기 전입니까, 끝난 뒤입니까?","a":"끝난 뒤","tip":"was finished 는 '끝나 있었다'는 뜻입니다. 누가 끝냈는지 따질 필요는 없습니다."},
+  {"t":"neg","q":"<b>instead of ringing in the usual way</b> — 종은 평소처럼 울렸습니까?","a":"아니요 — 평소 방식 대신 천천히 한 번씩 치는 조종(toll)을 울렸습니다","tip":"instead of 뒤에 오는 쪽이 실제로 하지 '않은' 일입니다. 뒤집어 읽으면 정반대가 됩니다."},
+  {"t":"time","q":"<b>the next morning</b> 은 언제입니까?","a":"앞 장면(아이들이 학교 마당에서 이야기하던 날)의 다음 날 아침 — 일요일 아침입니다","tip":"문장 한가운데 쉼표 사이에 끼어 있어 놓치기 쉽습니다. 이 절과 뒤 절이 모두 이날 아침의 일입니다."}
+ ],
+ "17.9.1": [
+  {"t":"pron","q":"<b>the mournful sound</b> 은 무슨 소리입니까?","a":"앞 문장에 나온 종소리 — 평소와 달리 천천히 치던 그 조종 소리","tip":"새로운 소리가 등장한 것이 아닙니다. 앞 문장을 그대로 받는 말입니다."},
+  {"t":"mod","q":"<b>that lay upon nature</b> 는 무엇을 꾸밉니까?","a":"사색에 잠긴 듯한 그 정적(the musing hush)","tip":"lay 는 lie(놓여 있다)의 과거입니다. 누가 무언가를 '놓았다'가 아니라, 정적이 자연 위에 내려앉아 있었다는 뜻입니다."},
+  {"t":"pron","q":"<b>It was a very still Sabbath</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 날·때를 말할 때 쓰는 it 입니다","tip":"'그것은 고요한 안식일이었다'로 옮기면 앞에서 그것을 찾게 됩니다."}
+ ],
+ "17.9.2": [
+  {"t":"who","q":"<b>loitering a moment in the vestibule</b> — 현관 홀에서 잠시 서성인 사람은 누구입니까?","a":"모여든 마을 사람들(The villagers)","tip":"앞 절의 주어를 그대로 받는 분사구문입니다. 주어를 따로 찾을 필요가 없습니다."},
+  {"t":"mod","q":"<b>to converse in whispers about the sad event</b> 는 무엇을 설명합니까?","a":"현관 홀에서 잠시 서성인 목적 — 그 슬픈 일을 소곤소곤 이야기하려고 서성인 것입니다","tip":"앞의 gather 에 붙이면 '이야기하려고 모였다'가 되어 초점이 어긋납니다. 바로 앞의 loitering 에 걸립니다."},
+  {"t":"time","q":"<b>a moment</b> 는 '잠시 뒤'입니까, '잠시 동안'입니까?","a":"잠시 동안 — 잠깐 사이 머뭇거리며 서 있었다는 뜻입니다","tip":"loiter(서성이다)와 짝을 이루는 기간입니다. '잠시 뒤'로 읽으면 순서가 어긋납니다."}
+ ],
+ "17.9.3": [
+  {"t":"who","q":"<b>disturbed the silence there</b> — 그곳의 정적을 흔들어 놓은 것은 무엇입니까?","a":"옷자락 스치는 장례식장 같은 소리(the funereal rustling of dresses) — 여자들이 아닙니다","tip":"주어와 동사 사이에 as the women gathered ... 가 끼어 있어 바로 앞의 the women 을 주어로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>there was no whispering in the house</b> — 예배당 안에서 사람들이 소곤거렸습니까?","a":"아니요 — 안에서는 속삭이는 소리조차 없었습니다","tip":"바로 앞 문장에서 현관 홀에서는 소곤거렸습니다. no 를 놓치면 안과 밖의 대비가 무너집니다."},
+  {"t":"mod","q":"<b>as the women gathered to their seats</b> 는 무엇을 설명합니까?","a":"옷자락 스치는 소리가 난 때 — 여자들이 자기 자리로 모여들 때 나던 소리라는 뜻입니다","tip":"긴 주어 안에 끼어든 부사절입니다. 주절 전체의 때로 떼어 읽으면 정작 주어가 사라집니다."},
+  {"t":"pron","q":"<b>the silence there</b> 의 there 는 어디입니까?","a":"예배당 안(in the house)","tip":"앞 문장에 나온 현관 홀(vestibule)이 아닙니다. 이 문장은 안쪽 이야기입니다."}
+ ],
+ "17.9.5": [
+  {"t":"who","q":"<b>Aunt Polly entered, followed by Sid and Mary</b> — 앞장선 사람과 뒤따라 들어온 사람은 각각 누구입니까?","a":"앞장선 사람은 폴리 이모, 뒤따른 사람은 시드와 메리","tip":"followed by ~ 는 '~에게 뒤따라져'라는 수동입니다. 이모가 따라 들어갔다고 읽으면 순서가 뒤집힙니다."},
+  {"t":"pron","q":"<b>and they by the Harper family</b> 의 they 는 누구입니까?","a":"시드와 메리 — 그 둘 뒤를 다시 하퍼 가족이 따랐다는 뜻입니다","tip":"반복되는 were followed 가 통째로 생략된 자리입니다. 동사가 없다고 당황하지 마세요."},
+  {"t":"time","q":"<b>rose reverently and stood until the mourners were seated in the front pew</b> — 회중이 서 있었던 것은 언제까지입니까?","a":"유족들이 맨 앞자리에 앉을 때까지 — 유족이 앉고 나서야 서 있기를 그쳤습니다","tip":"until 은 '~할 때까지 계속'입니다. '유족이 앉을 때 일어섰다'로 읽으면 순서가 어긋납니다."},
+  {"t":"who","q":"<b>the whole congregation, the old minister as well, rose reverently</b> — 이때 일어선 사람 중에 늙은 목사도 들어갑니까?","a":"예 — 회중 전체는 물론 늙은 목사까지 함께 일어섰습니다","tip":"as well 은 '~까지도'입니다. 삽입된 말이라 목사를 빼고 읽기 쉽습니다."}
+ ],
+ "17.9.6": [
+  {"t":"mod","q":"<b>broken at intervals by muffled sobs</b> 는 무엇을 설명합니까?","a":"또 한 번 흐른 그 침묵(another communing silence) — 이따금 새어 나오는 흐느낌에 끊기던 침묵","tip":"사람이 무너졌다는 뜻이 아닙니다. broken 은 바로 앞의 silence 를 받는 과거분사입니다."},
+  {"t":"time","q":"<b>at intervals</b> 는 흐느낌이 한 번 났다는 뜻입니까, 여러 번 났다는 뜻입니까?","a":"여러 번 — 사이사이 간격을 두고 이따금 새어 나왔다는 뜻입니다","tip":"interval 은 '사이·간격'입니다. 한 번으로 읽으면 장면의 무게가 달라집니다."},
+  {"t":"mod","q":"<b>spread his hands abroad</b> 는 무슨 뜻입니까?","a":"두 손을 활짝 벌렸다는 뜻입니다","tip":"abroad 를 '해외로'로 읽으면 문장이 무너집니다. 여기서는 '넓게, 활짝'입니다."}
+ ],
+ "17.9.7": [
+  {"t":"mod","q":"<b>A moving hymn</b> 의 moving 은 무슨 뜻입니까?","a":"'움직이는'이 아니라 '가슴을 뭉클하게 하는(감동적인)'","tip":"move 에는 '마음을 움직이다'라는 뜻이 있습니다. 뒤에 오는 명사가 사물이면 이쪽을 먼저 의심하세요."},
+  {"t":"time","q":"<b>and the text followed</b> — 성경 구절은 찬송가보다 먼저 나왔습니까, 나중에 나왔습니까?","a":"나중 — 찬송가를 부른 뒤에 성경 구절이 이어졌습니다","tip":"follow 는 '뒤따르다'입니다. '성경 구절이 (무언가를) 따라갔다'로 읽으면 순서가 헷갈립니다."},
+  {"t":"pron","q":"<b>the text</b> 는 무엇을 가리킵니까?","a":"설교의 바탕이 되는 성경 구절 — 바로 뒤 따옴표 안의 “I am the Resurrection and the Life.” 입니다","tip":"'본문·글'로 뭉뚱그리면 콜론 뒤의 말과 이어지지 않습니다."}
+ ],
+ "17.10.0": [
+  {"t":"who","q":"<b>felt a pang in remembering</b> — 가슴이 아려 온 사람은 누구입니까?","a":"그 자리에 있던 사람들 저마다(every soul there) — 목사가 아닙니다","tip":"such ... that 의 that 절 주어가 every soul there 입니다. 앞의 the clergyman 을 그대로 끌고 가기 쉽습니다."},
+  {"t":"pron","q":"<b>had persistently blinded himself to them always before</b> 의 them 은 무엇입니까?","a":"목사가 그려 보인 그 좋은 점들 — 아이들의 아름다운 품성, 사람을 끄는 태도, 보기 드문 장래성","tip":"the lost lads(아이들)로 잡기 쉽지만, 눈을 감았던 대상은 '아이들'이 아니라 '아이들의 그런 점'입니다."},
+  {"t":"neg","q":"<b>had persistently blinded himself to them always before</b> — 사람들은 그전에 아이들의 그런 좋은 점을 보아 왔습니까?","a":"아니요 — 한사코 눈을 감고 보지 않았습니다","tip":"blind oneself to ~ 는 '~에 일부러 눈을 감다'입니다. not 같은 부정어가 없어 그냥 지나치기 쉽습니다."},
+  {"t":"mod","q":"<b>such pictures ... that every soul there ... felt a pang</b> — 이 that 절은 무엇을 나타냅니까?","a":"앞의 결과 — 목사가 어찌나 생생하게 그려 냈던지 그 결과 사람들이 가슴이 아렸다는 뜻입니다","tip":"such ~ that ... 은 '너무 ~해서 ...하다'입니다. that 을 '~라는'으로 읽으면 그림의 내용으로 오해합니다."}
+ ],
+ "17.10.1": [
+  {"t":"pron","q":"<b>at the time they occurred they had seemed rank rascalities</b> — 이 두 they 는 각각 무엇입니까?","a":"둘 다 그 일화들(벌어졌던 그 일들) — 아이들이 아닙니다","tip":"앞에 the departed(죽은 아이들)가 있어 사람으로 잡기 쉽습니다. '그 일들이 벌어졌던 그때는 그 일들이 ~로 보였다'는 뜻입니다."},
+  {"t":"time","q":"<b>the people could easily see, now, how noble and beautiful those episodes were</b> — 사람들이 그 일들을 고귀하고 아름답게 본 것은 언제입니까?","a":"지금(이제 와서) — 정작 그 일이 벌어졌던 그때는 정반대로 보았습니다","tip":"now 와 at the time 이 정면으로 맞서는 문장입니다. 한쪽만 읽으면 이 대비가 사라집니다."},
+  {"t":"mod","q":"<b>well deserving of the cowhide</b> 는 무엇을 설명합니까?","a":"그때 그렇게 보였다는 '지독한 못된 짓(rank rascalities)'","tip":"cowhide 는 소가죽 채찍입니다. 아이들이 아니라 그 '짓'을 설명하는 말입니다."},
+  {"t":"pron","q":"<b>which illustrated their sweet, generous natures</b> — which 와 their 는 각각 무엇입니까?","a":"which = 목사가 들려준 그 가슴 뭉클한 일화들, their = 죽은 아이들의","tip":"which 를 the departed 로 잡으면 '죽은 아이들이 천성을 보여 주었다'가 되어 초점이 흐려집니다."}
+ ],
+ "17.10.2": [
+  {"t":"who","q":"<b>the preacher himself giving way to his feelings, and crying in the pulpit</b> — 설교단에서 운 사람은 누구입니까?","a":"목사 자신(the preacher himself)","tip":"앞 절의 주어가 the whole company 라서 그대로 끌고 가기 쉽습니다. 여기서는 분사구문에 주어가 따로 붙어 있습니다."},
+  {"t":"who","q":"<b>joined the weeping mourners</b> — 울고 있던 쪽과 거기에 합류한 쪽은 각각 누구입니까?","a":"울고 있던 쪽은 유족들(the weeping mourners), 합류한 쪽은 교회에 모인 사람들 전체(the whole company)","tip":"join 의 주어는 the whole company 입니다. 유족이 회중에 끼어든 것이 아닙니다."},
+  {"t":"mod","q":"<b>the whole company broke down</b> 의 broke down 은 무슨 뜻입니까?","a":"감정이 무너져 울음을 터뜨렸다는 뜻입니다","tip":"'고장 나다'로 읽으면 문장이 이상해집니다. 바로 뒤의 흐느낌 합창이 그 결과입니다."},
+  {"t":"time","q":"<b>as the pathetic tale went on</b> — 회중의 감정이 북받친 것과 이야기가 이어진 것은 어떤 관계입니까?","a":"이야기가 이어질수록 감정이 점점 더 북받쳤습니다","tip":"여기서 as 는 '~함에 따라'입니다. '~처럼'이나 '~때문에'로 읽으면 앞의 more and more 와 이어지지 않습니다."}
+ ],
+ "17.11.0": [
+  {"t":"neg","q":"<b>which nobody noticed</b> — 이층 좌석의 부스럭 소리를 알아챈 사람이 있었습니까?","a":"없었습니다 — 아무도 알아채지 못했습니다","tip":"nobody 자체가 부정어입니다. '누군가 알아챘다'로 읽으면 이 장면의 긴장이 사라집니다."},
+  {"t":"time","q":"<b>a moment later the church door creaked</b> — 문이 삐걱거린 것은 부스럭 소리보다 먼저입니까, 나중입니까?","a":"나중 — 부스럭 소리가 나고 잠시 뒤에 문이 삐걱거렸습니다","tip":"세미콜론으로 나열되어 있지만 세 가지 일 사이에는 분명한 순서가 있습니다."},
+  {"t":"mod","q":"<b>his streaming eyes</b> 의 streaming 은 무엇을 설명합니까?","a":"목사의 눈 — 눈물이 줄줄 흐르고 있는 눈이라는 뜻입니다","tip":"'흐르는 시내'가 아닙니다. 앞 문장에서 목사가 설교단에서 울고 있었다는 것과 이어집니다."},
+  {"t":"who","q":"<b>and stood transfixed!</b> — 그 자리에 못 박힌 듯 굳어 버린 사람은 누구입니까?","a":"목사(the minister)","tip":"raised 와 stood 는 주어가 같습니다. transfixed 는 '꿰뚫려 못 박힌 듯한'이라는 뜻입니다."}
+ ],
+ "17.11.1": [
+  {"t":"pron","q":"<b>followed the minister’s</b> — the minister’s 뒤에 생략된 말은 무엇입니까?","a":"eyes — 목사의 눈, 곧 목사의 시선입니다. 사람들이 목사가 보던 쪽을 따라 본 것입니다","tip":"소유격만 남기고 반복되는 명사를 생략한 형태입니다. '목사를 따라갔다'가 아닙니다."},
+  {"t":"mod","q":"<b>a ruin of drooping rags</b> 는 누구를 설명하는 말입니까?","a":"허크(Huck) — 축 늘어진 누더기 덩어리 같은 몰골이었다는 뜻입니다","tip":"따로 놓인 물건이 아니라, 바로 앞의 이름을 다시 말하는 동격입니다."},
+  {"t":"who","q":"<b>sneaking sheepishly in the rear!</b> — 맨 뒤에서 겸연쩍게 슬금슬금 따라온 사람은 누구입니까?","a":"허크 — 톰이 맨 앞, 조가 그다음입니다","tip":"in the lead(맨 앞) / next(그다음) / in the rear(맨 뒤) 로 세 아이의 자리가 정해져 있습니다."},
+  {"t":"time","q":"<b>while the three dead boys came marching up the aisle</b> — 회중이 일어나 쳐다본 것과 세 소년이 걸어 들어온 것은 어떤 관계입니까?","a":"같은 때에 벌어진 일 — 소년들이 통로를 걸어 올라오는 동안 회중이 일어나 바라보았습니다","tip":"while 은 '~하는 동안'입니다. 앞뒤 순서로 갈라 읽으면 장면이 흩어집니다."}
+ ],
+ "17.12.0": [
+  {"t":"pron","q":"<b>their restored ones</b> 는 누구입니까?","a":"되돌아온 자기 집 아이들 — 톰과 조입니다(허크는 여기에 들어가지 않습니다)","tip":"restored 는 '되돌려 받은'입니다. 뒤 절에서 허크만 따로 떨어져 서 있는 것이 이 문장의 핵심입니다."},
+  {"t":"who","q":"<b>smothered them with kisses and poured out thanksgivings</b> — 입맞춤을 퍼부은 쪽과 받은 쪽은 각각 누구입니까?","a":"퍼부은 쪽은 폴리 이모와 메리, 하퍼 가족이고, 받은 쪽(them)은 돌아온 아이들입니다","tip":"smother 는 '숨 막히도록 뒤덮다'입니다. 아이들이 어른들에게 한 것이 아닙니다."},
+  {"t":"neg","q":"<b>not knowing exactly what to do or where to hide</b> — 허크는 무엇을 해야 할지 알고 있었습니까?","a":"아니요 — 무엇을 할지도, 어디로 숨을지도 몰랐습니다","tip":"not 을 놓치면 정반대가 됩니다. or 로 이어진 두 가지가 모두 '모른다'에 걸립니다."},
+  {"t":"mod","q":"<b>so many unwelcoming eyes</b> 는 누구의 눈길입니까?","a":"허크를 반겨 주지 않는 교회 사람들의 눈길","tip":"unwelcoming 은 '환영받지 못하는'이 아니라 '반겨 주지 않는'입니다. 눈길의 주인은 허크가 아니라 그를 보는 사람들입니다."}
+ ],
+ "17.14.2": [
+  {"t":"who","q":"<b>the loving attentions Aunt Polly lavished upon him</b> — 애정 어린 관심을 퍼부은 쪽과 그것을 받은 쪽은 각각 누구입니까?","a":"퍼부은 쪽은 폴리 이모, 받은 쪽은 허크(him)","tip":"attentions 와 Aunt Polly 사이에 관계사가 생략되어 있습니다. 관심의 주인을 허크로 잡으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>capable of making him more uncomfortable</b> 는 무엇을 설명합니까?","a":"바로 앞의 the one thing(유일한 그것) — 곧 이모의 애정 어린 관심입니다","tip":"him(허크)을 꾸미는 말로 붙이면 '남을 불편하게 만들 줄 아는 허크'가 되어 버립니다."},
+  {"t":"time","q":"<b>than he was before</b> — 허크는 그전에는 편안했습니까?","a":"아니요 — 그전에도 이미 불편했고, 이모의 관심이 그보다 '더' 불편하게 만들었다는 뜻입니다","tip":"more ... than he was before 는 그전에도 불편했다는 것을 전제로 하는 비교입니다."}
+ ],
+ "17.15.0": [
+  {"t":"mod","q":"<b>at the top of his voice</b> 는 무슨 뜻입니까?","a":"목청껏, 있는 힘껏 큰 소리로","tip":"'목소리 꼭대기에서'로 곧이곧대로 옮기면 뜻이 통하지 않습니다. 굳어진 표현입니다."},
+  {"t":"pron","q":"<b>from whom all blessings flow</b> 의 whom 은 누구입니까?","a":"하나님(God) — 모든 복이 그분에게서 흘러나온다는 뜻입니다","tip":"바로 앞 명사를 받는 관계대명사입니다. 찬송가 '만복의 근원' 첫 구절 그대로입니다."},
+  {"t":"pron","q":"<b>put your hearts in it!</b> 의 it 은 무엇입니까?","a":"지금 부르라고 한 그 찬송(노래) — 거기에 마음을 담으라는 뜻입니다","tip":"앞의 God 으로 잡기 쉽지만, 바로 앞의 sing! 이 받는 대상입니다."},
+  {"t":"who","q":"<b>sing!—and put your hearts in it!</b> — 목사가 노래하라고 시킨 상대는 누구입니까?","a":"교회에 모인 사람들(회중) — 목사가 그들에게 외친 명령입니다","tip":"명령문에는 주어가 없습니다. 목사 자신이 부르겠다는 말이 아닙니다."}
+ ],
+ "17.16.1": [
+  {"t":"pron","q":"<b>Old Hundred</b> 는 무엇입니까?","a":"찬송가 이름 — 우리말로 '만복의 근원'으로 알려진 그 곡입니다","tip":"사람 이름이나 '늙은 백 명'이 아닙니다. 바로 앞 문장에서 목사가 부르라고 외친 그 노래입니다."},
+  {"t":"pron","q":"<b>while it shook the rafters</b> 의 it 은 무엇입니까?","a":"Old Hundred, 곧 그 찬송가 소리","tip":"톰으로 잡으면 톰이 서까래를 흔든 것이 됩니다. 노랫소리가 지붕을 울릴 만큼 컸다는 뜻입니다."},
+  {"t":"who","q":"<b>the envying juveniles about him</b> — 부러워하는 쪽과 부러움을 받는 쪽은 각각 누구입니까?","a":"부러워하는 쪽은 주위의 아이들, 부러움을 받는 쪽은 톰","tip":"envying 은 '부러워하는'입니다. 톰이 아이들을 부러워한 것이 아닙니다. about him 은 '그의 주위에 있는'입니다."},
+  {"t":"who","q":"<b>confessed in his heart that this was the proudest moment of his life</b> — 톰은 이 말을 소리 내어 했습니까?","a":"아니요 — 마음속으로만 인정했습니다","tip":"confess 를 '남에게 털어놓다'로만 읽으면 in his heart 를 놓칩니다."}
+ ],
+ "17.17.0": [
+  {"t":"pron","q":"<b>the “sold” congregation</b> 의 sold 는 무슨 뜻입니까?","a":"감쪽같이 속아 넘어간 — 회중이 톰 일행에게 한 방 먹었다는 뜻입니다","tip":"'팔린'으로 읽으면 뜻이 통하지 않습니다. 따옴표는 속어라는 표시입니다."},
+  {"t":"who","q":"<b>to be made ridiculous again</b> — 웃음거리가 되는 쪽은 누구입니까?","a":"속아 넘어간 회중 자신들","tip":"be made 는 수동입니다. 그들이 남을 웃음거리로 만들겠다는 말이 아닙니다."},
+  {"t":"who","q":"<b>to hear Old Hundred sung like that once more</b> — 이 사람들은 그 찬송을 부르고 싶다는 것입니까, 그렇게 불리는 것을 듣고 싶다는 것입니까?","a":"듣고 싶다는 것입니다 — hear + 목적어 + 과거분사(sung)로 '~이 불리는 것을 듣다'입니다","tip":"sung 을 주어가 하는 동작으로 읽으면 뜻이 뒤집힙니다."},
+  {"t":"time","q":"<b>they would almost be willing to be made ridiculous again</b> — 이것은 이미 그렇게 했다는 말입니까, 앞으로 그래도 좋겠다는 말입니까?","a":"앞으로 또 한 번 그래도 좋겠다는 말입니다","tip":"would be willing 은 '그럴 수만 있다면 기꺼이 ~하겠다'는 가정입니다. almost 는 '거의'라며 한 걸음 물러선 표현입니다."}
+ ],
+ "17.18.0": [
+  {"t":"mod","q":"<b>more cuffs and kisses</b> 의 cuffs 는 무엇입니까?","a":"손으로 툭툭 때리는 것(꿀밤·손찌검) — 옷의 소맷동이 아닙니다","tip":"바로 뒤의 kisses 와 짝을 이루는 말입니다. 이모의 오락가락하는 기분이 그 둘 사이를 오갔습니다."},
+  {"t":"time","q":"<b>than he had earned before in a year</b> — 무엇과 무엇을 견주고 있습니까?","a":"그날 하루 받은 양과, 그전 일 년 동안 받았던 양","tip":"had earned 는 그날보다 앞선 시간입니다. '일 년 뒤'가 아니라 '그전 일 년 동안'입니다."},
+  {"t":"neg","q":"<b>he hardly knew</b> — 톰은 어느 쪽인지 알았습니까?","a":"아니요 — 도무지 알 수 없었습니다","tip":"hardly 는 '거의 ~ 않다'는 부정어입니다. '힘겹게 알아냈다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>which expressed the most gratefulness to God and affection for himself</b> — which 는 무엇 중에서 고르는 말입니까?","a":"꿀밤(cuffs)과 입맞춤(kisses) 둘 중 어느 쪽 — himself 는 톰 자신입니다","tip":"이모가 하나님을 향한 감사와 톰을 향한 애정을 어느 쪽으로 더 드러낸 것인지 알 수 없었다는 뜻입니다."}
+ ]
+}

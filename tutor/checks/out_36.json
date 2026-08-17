@@ -1,0 +1,18 @@
+{
+ "36.0.1": [
+  {"t":"pron","q":"<b>It being strictly a history of a boy, it must stop here</b> — 여기 나온 두 개의 it 은 무엇을 가리킵니까?","a":"둘 다 이 책, 즉 지금까지 읽어 온 이 이야기 — 톰(소년)이 아닙니다","tip":"바로 뒤의 the story 가 같은 것을 다시 말합니다. it 을 소년으로 잡으면 '소년이 여기서 멈춰야 한다'가 되어 버립니다."},
+  {"t":"mod","q":"<b>It being strictly a history of a boy,</b> 는 뒤에 오는 말과 어떤 관계입니까?","a":"이유 — '이것은 엄밀히 한 소년의 이야기이므로' 여기서 멈춰야 한다는 뜻입니다","tip":"being 을 '~이고'로 이어 붙이면 멈춰야 하는 까닭이 사라집니다. 앞뒤를 '~므로'로 이어야 합니다."},
+  {"t":"neg","q":"<b>could not go much further without becoming the history of a man</b> — 이 이야기를 더 이어 가면 어떻게 됩니까?","a":"반드시 '한 남자(어른)의 이야기'가 되어 버립니다 — 그래서 더 나아갈 수 없다는 뜻입니다","tip":"not ... without ~ 는 부정이 두 번 겹쳐 '~되지 않고서는 갈 수 없다', 곧 '가면 반드시 ~된다'가 됩니다."}
+ ],
+ "36.0.2": [
+  {"t":"pron","q":"<b>one</b> 과 그 뒤에 세 번 나오는 <b>he</b> 는 누구를 가리킵니까?","a":"특정 인물이 아니라 '소설을 쓰는 사람이라면 누구나' — 앞의 one 을 he 로 받은 것이고, 세 he 가 모두 같은 사람입니다","tip":"he 를 소설 속 등장인물로 잡으면 '그가 결혼에서 멈춘다'가 되어 문장이 엉킵니다."},
+  {"t":"mod","q":"<b>—that is, with a marriage;</b> 는 무엇을 보충해 주는 말입니까?","a":"바로 앞의 where to stop(어디서 멈출지) — 즉 결혼시키는 데서 끝내면 된다는 뜻입니다","tip":"that is 는 '즉, 다시 말해'로 굳어진 표현입니다. that 을 '그것은'으로 읽으면 문장이 끊어집니다."},
+  {"t":"mod","q":"<b>he must stop where he best can</b> 에서 <b>best</b> 는 무엇에 걸리는 말입니까?","a":"can 에 걸립니다 — '가장 잘 멈출 수 있는 자리에서' 멈춰야 한다는 뜻입니다","tip":"can 뒤에 stop 이 생략돼 있습니다(where he best can stop). best 를 '가장 좋은 곳'이라는 명사로 읽으면 뜻이 흐려집니다."}
+ ],
+ "36.1.1": [
+  {"t":"pron","q":"<b>it may seem worth while</b> 과 <b>it will be wisest</b> 의 it 은 무엇을 가리킵니까?","a":"둘 다 아무것도 가리키지 않는 가주어입니다 — 진짜 주어는 앞은 to take up ... and see ..., 뒤는 not to reveal ... 입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"pron","q":"<b>the younger ones</b> 와 <b>they</b> 는 누구입니까?","a":"이 이야기에 나왔던 아이들(톰과 그 또래 아이들)","tip":"'더 어린 사람들'이라는 일반적인 말로 읽으면, 왜 이 말이 마지막에 붙었는지 알 수 없게 됩니다."},
+  {"t":"time","q":"<b>what sort of men and women they turned out to be</b> — 그 아이들은 지금 이미 어른이 되어 있습니까?","a":"아니요 — 언젠가(Some day) 이야기를 다시 꺼낼 그때 가서 보면 어떤 어른이 되어 있을지, 아직 오지 않은 일을 말합니다","tip":"turned out 이 과거형이라 이미 지나간 일로 읽기 쉽지만, 기준 시점은 문장 맨 앞의 Some day 입니다."},
+  {"t":"neg","q":"<b>it will be wisest not to reveal any of that part of their lives at present</b> — 작가는 지금 그 부분을 밝히겠다는 것입니까?","a":"아니요 — 지금은 그 부분을 조금도 밝히지 않는 편이 가장 현명하다는 뜻입니다","tip":"not 은 wisest 가 아니라 to reveal 에 걸립니다. 놓치면 '밝히는 것이 가장 현명하다'로 정반대가 됩니다."}
+ ]
+}

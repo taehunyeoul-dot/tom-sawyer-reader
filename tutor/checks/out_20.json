@@ -1,0 +1,123 @@
+{
+ "20.4.1": [
+  {"t":"neg","q":"<b>he had not even presence of mind enough to say “Who cares, Miss Smarty?”</b> — 톰은 실제로 이 말을 되받아쳤습니까?","a":"아니요 — 그 말을 할 정신조차 나지 않아 하지 못했습니다","tip":"not 을 놓치면 '톰이 되받아쳤다'가 되어 정반대입니다. 바로 뒤 문장이 So he said nothing 입니다."},
+  {"t":"pron","q":"<b>Miss Smarty</b> 는 누구를 부르는 말입니까?","a":"베키 — 톰이 되받아치고 싶었던 상대입니다","tip":"새로운 인물 이름으로 착각하기 쉽습니다. '잘난 척쟁이 아가씨'라는 비꼬는 호칭입니다."},
+  {"t":"pron","q":"<b>the right time to say it</b> 의 it 은 무엇입니까?","a":"“Who cares, Miss Smarty?” 라는 그 한마디","tip":"앞의 presence of mind 나 베키가 한 말로 잡기 쉽습니다. say 의 목적어입니다."},
+  {"t":"time","q":"<b>until the right time to say it had gone by</b> — 톰에게 되받아칠 정신이 든 것과 그 말을 할 알맞은 때가 지나간 것 중 어느 쪽이 먼저입니까?","a":"알맞은 때가 지나간 것이 먼저입니다 — 정신이 든 것은 이미 때를 놓친 뒤였습니다","tip":"not ... until ~ 은 '~하고 나서야 비로소'입니다. had gone by 가 앞선 일임을 알려 줍니다."}
+ ],
+ "20.4.4": [
+  {"t":"mod","q":"<b>wishing she were a boy</b> 와 <b>imagining how he would trounce her</b> 는 누구의 행동입니까?","a":"둘 다 톰 — 학교 운동장으로 들어가면서 톰이 한 생각입니다","tip":"분사구문이라 주어가 겉으로 보이지 않지만 앞의 He 가 그대로 이어집니다. 베키가 상상한 것이 아닙니다."},
+  {"t":"who","q":"<b>how he would trounce her</b> — 두들겨 패는 쪽과 맞는 쪽은 각각 누구입니까?","a":"패는 쪽은 톰(he), 맞는 쪽은 베키(her)","tip":"머릿속 상상일 뿐 실제로 벌어진 일이 아닙니다. 두 사람을 뒤집으면 장면이 정반대가 됩니다."},
+  {"t":"time","q":"<b>wishing she were a boy</b>, <b>if she were</b> — 베키는 실제로 남자애입니까?","a":"아니요 — 사실이 아닌 가정입니다(if she were 뒤에는 a boy 가 생략됨)","tip":"she was 가 아니라 she were 인 것이 '사실이 아니다'라는 표시입니다. 과거형이지만 과거의 일을 말하는 것이 아닙니다."}
+ ],
+ "20.4.7": [
+  {"t":"pron","q":"<b>It seemed to Becky ... that ...</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 내용은 뒤의 that절입니다","tip":"'그것이 베키에게 ~해 보였다'로 옮기면 앞 문장에서 그것을 찾다가 길을 잃습니다."},
+  {"t":"neg","q":"<b>she could hardly wait for school to “take in,”</b> — 베키는 학교가 시작되기를 잘 기다릴 수 있었습니까?","a":"아니요 — 도저히 못 기다릴 지경이었습니다(어서 시작하기를 바랐다는 뜻)","tip":"hardly 는 '거의 ~않다'는 부정어입니다. '힘들게 기다렸다', '학교 가기 싫었다'로 읽으면 뜻이 어긋납니다."},
+  {"t":"who","q":"<b>to see Tom flogged</b> — 매를 맞는 사람은 누구입니까?","a":"톰 — 베키는 그 광경을 보고 싶어 한 쪽입니다","tip":"flogged 는 과거분사라 톰이 '맞는' 쪽입니다. Tom flogged 를 '톰이 때렸다'로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>for the injured spelling-book</b> 는 무엇의 이유입니까?","a":"톰이 매를 맞게 되는 이유 — 망가진 철자 교본 때문에 맞는다는 뜻입니다","tip":"베키가 화가 난 이유로 붙이면 초점이 흐려집니다. flogged 에 걸리는 말입니다."}
+ ],
+ "20.5.2": [
+  {"t":"mod","q":"<b>The darling of his desires</b> 는 무엇을 가리키는 말입니까?","a":"그가 가장 아끼며 품어 온 소망 — 사람이 아닙니다","tip":"darling 을 사람으로 읽으면 '그가 사랑하는 사람'이 되어 문장이 무너집니다. 그 소망의 내용은 뒤의 to be a doctor 입니다."},
+  {"t":"who","q":"<b>poverty had decreed that ...</b> — 그렇게 못 박아 정해 버린 것은 누구/무엇입니까?","a":"가난(poverty) 그 자체 — 어떤 사람이 정한 것이 아닙니다","tip":"사람이 아닌 것이 주어로 오면 '~ 때문에 어쩔 수 없이 ~하게 되었다'는 뜻이 됩니다."},
+  {"t":"neg","q":"<b>he should be nothing higher than a village schoolmaster</b> — 그는 시골 학교 선생보다 높은 자리에 오를 수 있었습니까?","a":"아니요 — 그 이상은 될 수 없었습니다","tip":"nothing higher than ~ 은 '~보다 더 나은 것은 아무것도 될 수 없다'입니다. 부정을 놓치면 출세한 이야기가 되어 버립니다."}
+ ],
+ "20.5.6": [
+  {"t":"who","q":"<b>Every boy and girl had a theory</b> — 나름의 설을 가지고 있던 사람은 누구입니까?","a":"학교의 남자애 여자애 할 것 없이 한 명 한 명이 저마다 하나씩 가지고 있었습니다","tip":"Every A and B 는 단수 취급이라 동사가 had 입니다. '남자애 한 명과 여자애 한 명'이 아닙니다."},
+  {"t":"neg","q":"<b>no two theories were alike</b> — 서로 똑같은 설이 두 개 있었습니까?","a":"아니요 — 어느 둘을 골라도 같은 것이 없었습니다(전부 제각각)","tip":"'두 개의 설은 같지 않았다'로 읽으면 설이 두 개뿐인 이야기가 됩니다. no two ~ 는 '어떤 두 개도 ~않다'입니다."},
+  {"t":"pron","q":"<b>the facts in the case</b> 의 the case 는 무엇을 가리킵니까?","a":"그 수수께끼 책이 대체 무슨 책이냐 하는 그 문제","tip":"case 를 '경우'로 옮기면 무슨 말인지 사라집니다. 여기서는 '그 일, 그 건'입니다."}
+ ],
+ "20.5.7": [
+  {"t":"mod","q":"<b>which stood near the door</b> 는 무엇을 설명합니까?","a":"그 책상(the desk) — 문 가까이에 놓여 있던 선생의 책상","tip":"바로 앞 명사가 desk 입니다. 베키가 문 가까이 서 있었다는 뜻이 아닙니다."},
+  {"t":"pron","q":"<b>the key was in the lock</b> — 이 열쇠와 자물쇠는 무엇의 것입니까?","a":"선생이 수수께끼 책을 넣고 잠가 두던 그 책상의 것입니다","tip":"앞에서 He kept that book under lock and key 라고 한 바로 그 자물쇠입니다. 교실 문 열쇠로 잡으면 장면이 달라집니다."},
+  {"t":"time","q":"<b>Now, as Becky was passing by the desk</b> — 베키가 열쇠를 알아챈 것은 책상을 다 지나간 뒤입니까, 지나가던 도중입니까?","a":"지나가던 도중입니다","tip":"as + 진행형(was passing)은 '~하던 중에'입니다. 맨 앞의 Now 는 '지금'이 아니라 이야기를 이어 주는 '그런데'입니다."}
+ ],
+ "20.5.10": [
+  {"t":"neg","q":"<b>carried no information to her mind</b> — 속표지를 보고 베키는 그 책이 무슨 책인지 알았습니까?","a":"아니요 — 아무것도 알 수 없었습니다","tip":"no 를 놓치면 정반대가 됩니다. carry information 은 '알려 주다'라는 뜻입니다."},
+  {"t":"mod","q":"<b>—Professor Somebody’s Anatomy—</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 titlepage(속표지)에 적혀 있던 제목","tip":"대시 사이에 끼워 넣은 곁말입니다. 주어는 여전히 The titlepage 이고 동사는 carried 입니다. Somebody 는 실제 이름이 아니라 '아무개'입니다."},
+  {"t":"pron","q":"<b>she began to turn the leaves</b> 의 the leaves 는 무엇입니까?","a":"책의 낱장, 곧 책장입니다 — 나뭇잎이 아닙니다","tip":"leaf 에는 '책의 한 장'이라는 뜻이 있습니다. turn the leaves = 책장을 넘기다."}
+ ],
+ "20.5.12": [
+  {"t":"who","q":"<b>caught a glimpse of the picture</b> — 그 그림을 언뜻 본 사람은 누구입니까?","a":"톰 소여","tip":"두 번째 and 는 stepped 와 caught 를 잇습니다. 주어를 a shadow 로 잡으면 '그림자가 그림을 보았다'가 됩니다."},
+  {"t":"pron","q":"<b>a shadow</b> 는 누구의 그림자입니까?","a":"문으로 들어선 톰의 그림자","tip":"정체가 같은 문장 안에서 곧바로 밝혀집니다. 제3의 인물이 나타난 것이 아닙니다."},
+  {"t":"pron","q":"<b>the page</b> 와 <b>the picture</b> 는 무엇입니까?","a":"베키가 막 펼쳐 본 그 알몸 그림이 실린 책장입니다","tip":"둘 다 앞 문장의 frontispiece(속표지 그림)를 받습니다. 다른 페이지로 잡으면 베키가 왜 놀랐는지가 사라집니다."}
+ ],
+ "20.6.0": [
+  {"t":"who","q":"이 대사를 하는 사람은 누구이고 <b>you</b> 는 누구입니까?","a":"말하는 사람은 베키, you 는 톰입니다","tip":"맨 앞의 Tom Sawyer 는 부르는 말이지 주어가 아닙니다. 톰의 대사로 읽으면 전부 뒤집힙니다."},
+  {"t":"pron","q":"<b>a person</b> 과 <b>they’re looking at</b> 의 they 는 누구를 가리킵니까?","a":"둘 다 베키 자신 — '남'이라고 돌려 말한 것입니다","tip":"they 가 복수라서 여러 사람으로 읽기 쉽지만, a person 을 받는 they 입니다."},
+  {"t":"mod","q":"<b>to sneak up on a person and look at what they’re looking at</b> 는 무엇을 말하는 부분입니까?","a":"톰이 못됐다고 판단한 근거 — 그런 짓을 했으니 못됐다는 뜻입니다","tip":"'~하기 위해'로 읽으면 '못되게 굴려고 몰래 다가왔다'가 되어 앞뒤가 뒤바뀝니다."}
+ ],
+ "20.8.0": [
+  {"t":"who","q":"<b>you’re going to tell on me</b> — 일러바칠 사람과 일러바침을 당할 사람은 각각 누구입니까?","a":"일러바칠 사람은 톰(you), 당할 사람은 베키(me)","tip":"베키가 톰에게 하는 말입니다. tell on ~ 은 '~을 일러바치다'. 두 사람을 뒤집으면 정반대가 됩니다."},
+  {"t":"time","q":"<b>you know you’re going to tell on me</b> — 톰은 이미 일러바쳤습니까?","a":"아니요 — 아직입니다. '너는 결국 이를 거야'라고 베키가 앞일을 단정하는 말입니다","tip":"be going to 는 앞으로 일어날 일입니다. know 때문에 이미 벌어진 일로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>what shall I do, what shall I do!</b> 의 I 는 누구입니까?","a":"베키 — 자기 걱정을 하고 있는 것입니다","tip":"바로 앞 절의 주어가 you(톰)라서 이어서 톰으로 읽기 쉽습니다. 한 문장 안에서 you 와 I 가 서로 다른 사람입니다."}
+ ],
+ "20.12.5": [
+  {"t":"neg","q":"<b>I ain’t going to tell old Dobbins</b> — 톰은 도빈스 선생에게 일러바칠 생각입니까?","a":"아니요 — 이르지 않을 작정입니다","tip":"ain’t = am not 입니다. 축약형이라 부정을 통째로 놓치기 쉽습니다."},
+  {"t":"who","q":"<b>tell old Dobbins on this little fool</b> — 말을 듣는 사람과 일러바침을 당하는 사람은 각각 누구입니까?","a":"듣는 사람은 도빈스 선생, 당하는 사람은 this little fool(베키)","tip":"tell A on B 는 'A에게 B를 일러바치다'입니다. '이 바보에게 말한다'로 읽으면 두 사람이 뒤바뀝니다."},
+  {"t":"pron","q":"<b>this little fool</b> 과 <b>getting even on her</b> 의 her 는 누구입니까?","a":"둘 다 베키","tip":"톰이 속으로 하는 험한 말이라 이름 대신 이렇게 부릅니다. get even on ~ 은 '~에게 앙갚음하다'입니다."},
+  {"t":"mod","q":"<b>that ain’t so mean</b> 은 무엇을 꾸미는 말입니까?","a":"other ways(다른 방법들) — 그렇게까지 치사하지는 않은 방법들이라는 뜻입니다","tip":"바로 앞에 her 가 있어 베키를 꾸미는 것으로 붙이기 쉽습니다. 그러면 '그렇게 못되지 않은 그 애'가 되어 버립니다."}
+ ],
+ "20.12.8": [
+  {"t":"pron","q":"<b>Then he’ll do just the way he always does</b> 의 he 는 누구입니까?","a":"도빈스 선생","tip":"톰이 속으로 하는 말이라 톰 자신으로 읽기 쉽지만, 앞 문장의 Old Dobbins 를 받습니다."},
+  {"t":"pron","q":"<b>ask first one and then t’other</b> 는 무엇을 하는 것입니까?","a":"아이들에게 먼저 이 아이, 그다음 저 아이 하는 식으로 한 명씩 차례로 묻는 것입니다","tip":"t’other = the other 입니다. '물건 하나와 다른 하나'가 아니라 아이들을 하나씩 짚어 가는 것입니다."},
+  {"t":"pron","q":"<b>when he comes to the right girl</b> 의 the right girl 은 누구입니까?","a":"책을 찢은 진짜 범인, 곧 베키","tip":"right 를 '올바른·착한'으로 읽으면 안 됩니다. '바로 그 (문제의)'라는 뜻입니다."},
+  {"t":"neg","q":"<b>he’ll know it, without any telling</b> — 선생이 알아채려면 누군가 말해 주어야 합니까?","a":"아니요 — 아무도 말해 주지 않아도 알아챕니다","tip":"without 이 부정입니다. '말하지 않고서는'으로 뒤집어 읽기 쉽습니다."}
+ ],
+ "20.12.13": [
+  {"t":"pron","q":"대사 속의 <b>she</b> 와 <b>me</b> 는 각각 누구입니까?","a":"she = 베키, me = 톰(혼잣말을 하고 있는 사람)","tip":"앞부분 서술의 주어가 Tom 이라 me 를 다른 사람으로 잡기 쉽습니다. 따옴표 안은 톰의 속말입니다."},
+  {"t":"time","q":"<b>she’d like to see me in just such a fix</b> — 지금 실제로 그 곤경에 빠져 있는 사람은 누구입니까?","a":"베키입니다 — 톰은 '내가 이런 처지였다면 걔도 고소해했을걸'이라고 짐작하는 것입니다","tip":"she’d = she would 로, 실제 일이 아니라 톰의 짐작입니다. 톰이 이미 곤경에 빠졌다고 읽으면 순서가 어긋납니다."},
+  {"t":"who","q":"<b>let her sweat it out!</b> — 애를 태우는 사람은 누구입니까?","a":"베키(her) — 톰은 그냥 내버려 두겠다는 것입니다","tip":"let + 목적어 + 동사원형에서 그 동작을 하는 사람은 목적어입니다. sweat it out 은 '마음 졸이며 견디다'입니다."}
+ ],
+ "20.13.8": [
+  {"t":"neg","q":"<b>She did not expect that Tom could get out of his trouble</b> — 베키는 톰이 곤경에서 빠져나가리라고 보았습니까?","a":"아니요 — 빠져나가지 못할 거라고 보았습니다","tip":"did not 을 놓치면 정반대가 됩니다. 문장 끝의 she was right 가 이 예상이 맞았음을 확인해 줍니다."},
+  {"t":"mod","q":"<b>by denying that he spilt the ink ...</b> 는 무엇에 걸리는 말입니까?","a":"get out of his trouble — 곤경에서 빠져나가는 '방법'을 말합니다","tip":"expect 에 붙여 '부인함으로써 예상했다'로 읽으면 뜻이 무너집니다. by + ~ing 는 수단입니다."},
+  {"t":"who","q":"<b>denying that he spilt the ink on the book himself</b> — 톰이 아니라고 부인한 내용은 무엇입니까?","a":"잉크를 쏟은 사람이 자기 자신이라는 것","tip":"himself 는 '다른 누구도 아닌 자기가'를 강조합니다. deny 뒤의 that절은 톰이 사실이 아니라고 우긴 내용입니다."},
+  {"t":"pron","q":"<b>and she was right</b> — 무엇이 맞았다는 말입니까?","a":"부인만으로는 톰이 빠져나가지 못하리라던 베키의 예상","tip":"'베키가 옳은 사람이었다'가 아닙니다. 앞의 예상이 들어맞았다는 뜻입니다."}
+ ],
+ "20.13.10": [
+  {"t":"pron","q":"<b>she would be glad of that</b> 의 that 과 <b>glad of it</b> 의 it 은 무엇을 가리킵니까?","a":"톰의 부인이 오히려 상황을 더 나쁘게 만든 일(앞 문장의 내용)","tip":"둘 다 같은 것을 받습니다. 베키가 책을 찢은 일로 잡으면 앞뒤가 어긋납니다."},
+  {"t":"neg","q":"<b>she found she was not certain</b> — 베키는 자기가 고소해하고 있다고 확신했습니까?","a":"아니요 — 확신이 서지 않았습니다","tip":"not 하나로 이 문장의 결론이 뒤집힙니다. 놓치면 '고소해했다'로 끝나 버려 베키의 마음이 흔들리는 대목이 사라집니다."},
+  {"t":"who","q":"고소해할 줄 알았던 사람과 확신이 서지 않는다는 것을 깨달은 사람은 같은 사람입니까, 다른 사람입니까?","a":"같은 사람입니다 — 처음부터 끝까지 베키","tip":"문장 안에 톰 이야기가 깔려 있어 중간에 주어가 바뀐다고 착각하기 쉽습니다. she 는 세 번 다 베키입니다."}
+ ],
+ "20.13.11": [
+  {"t":"neg","q":"<b>she made an effort and forced herself to keep still</b> — 베키는 일어나서 앨프리드 템플을 일러바쳤습니까?","a":"아니요 — 충동을 억누르고 가만히 있었습니다","tip":"had an impulse to ~ 는 '~하고 싶은 충동이 들었다'일 뿐 실행한 것이 아닙니다. keep still 은 '가만히 있다'입니다."},
+  {"t":"who","q":"<b>said she to herself</b> — 이 말을 한 사람은 누구이고, 소리 내어 한 말입니까?","a":"베키가 자기 자신에게 한 말, 곧 속말입니다","tip":"said she 는 she said 를 뒤집어 놓은 것입니다. '그녀에게 말했다'로 읽으면 안 됩니다."},
+  {"t":"pron","q":"속말 속의 <b>he’ll tell about me</b> 에서 he 와 me 는 각각 누구입니까?","a":"he = 앨프리드 템플, me = 베키","tip":"바로 앞에 톰 이야기가 이어져 he 를 톰으로 잡기 쉽습니다. 베키가 이르려던 상대가 앨프리드입니다."},
+  {"t":"who","q":"<b>about me tearing the picture</b> — 그림을 찢은 사람은 누구입니까?","a":"베키(me) 자신입니다","tip":"me tearing 은 '내가 찢은 일'입니다. 앨프리드가 찢었다고 이르는 말로 읽으면 정반대가 됩니다."}
+ ],
+ "20.14.0": [
+  {"t":"neg","q":"<b>went back to his seat not at all broken-hearted</b> — 톰은 매를 맞고 상심했습니까?","a":"아니요 — 조금도 상심하지 않았습니다","tip":"not at all 은 '전혀 ~아니다'입니다. broken-hearted 만 눈에 들어와 '가슴이 미어진 채'로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>he had unknowingly upset the ink on the spelling-book himself</b> — 잉크를 엎었을지도 모른다고 톰이 의심한 사람은 누구입니까?","a":"톰 자기 자신","tip":"upset 은 '속상하게 하다'가 아니라 '엎지르다'입니다. himself 가 '남이 아니라 자기가'라는 뜻을 강조합니다."},
+  {"t":"mod","q":"<b>for form’s sake and because it was custom</b> 는 무엇의 이유입니까?","a":"톰이 자기 잘못을 부인한 이유 — 결백을 확신해서가 아니라 그저 형식상, 그게 관례여서였습니다","tip":"부인한 이유가 '진짜 안 했으니까'라고 읽으면 이 문장의 비꼬는 맛이 사라집니다."},
+  {"t":"time","q":"<b>he had denied it</b>, <b>had stuck to the denial</b> — 이 일들은 매를 맞은 것보다 먼저입니까, 나중입니까?","a":"먼저입니다 — 매 맞기 전에 이미 부인했고 끝까지 그 말을 고수했습니다","tip":"had + p.p. 는 그 시점보다 앞선 일입니다. 대시 뒤에서 시간이 거슬러 올라갑니다."}
+ ],
+ "20.15.1": [
+  {"t":"time","q":"<b>By and by</b> 는 무슨 뜻입니까?","a":"이윽고, 얼마쯤 지난 뒤에","tip":"'옆으로 옆으로'나 '그럭저럭'이 아닙니다. 앞 문장의 '한 시간이 흘렀다'와 이어지는 시간 표시입니다."},
+  {"t":"neg","q":"<b>but seemed undecided whether to take it out or leave it</b> — 도빈스 선생은 책을 꺼낼지 말지 마음을 정했습니까?","a":"아니요 — 정하지 못한 것처럼 보였습니다","tip":"undecided 의 un- 이 부정입니다. decided 만 보고 '마음을 정했다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>whether to take it out or leave it</b> 의 it 은 무엇입니까?","a":"책상 속의 그 수수께끼 책(his book)","tip":"바로 앞 명사가 book 입니다. 책상(desk)으로 잡기 쉽습니다. leave it 은 '꺼내지 않고 그대로 두다'입니다."}
+ ],
+ "20.27.0": [
+  {"t":"who","q":"이 따옴표 안의 말을 하고 있는 사람은 누구입니까?","a":"도빈스 선생 — 아이들을 한 명씩 불러 캐묻는 중입니다","tip":"대괄호 안에 Tom 이 나와서 톰의 말로 읽기 쉽습니다. 톰은 지켜보는 쪽입니다."},
+  {"t":"pron","q":"<b>it was white with terror</b> 의 it 과 <b>her hands</b> 의 her 는 각각 누구/무엇입니까?","a":"it = 베키의 얼굴, her = 베키","tip":"바로 앞 명사가 her face 입니다. 톰이 하얗게 질린 것이 아닙니다."},
+  {"t":"neg","q":"<b>did you tear—no, look me in the face</b> 의 no 는 무엇입니까?","a":"선생이 질문을 하다 말고 스스로 끊으며 하는 말입니다('아니, 잠깐')","tip":"베키가 '아니에요'라고 대답한 것으로 읽기 쉽지만, 베키는 아직 한마디도 하지 않았습니다."},
+  {"t":"mod","q":"<b>[Tom glanced at her face—it was white with terror]</b> 와 <b>[her hands rose in appeal]</b> 는 누가 한 말입니까?","a":"아무도 한 말이 아닙니다 — 대사 사이에 끼워 넣은 작가의 장면 설명입니다","tip":"대괄호 안은 말이 아니라 곁말입니다. 선생의 말은 따옴표 안에 있는 부분뿐입니다."}
+ ],
+ "20.29.1": [
+  {"t":"time","q":"<b>Tom stood a moment, to gather his dismembered faculties</b> — 톰이 잠시 서 있었던 것은 벌 받으러 나가기 전입니까, 후입니까?","a":"전입니다 — 정신을 그러모은 다음 앞으로 걸어 나갔습니다","tip":"to gather 는 '~하려고'라는 목적입니다. 세미콜론 뒤의 when he stepped forward 가 그다음 일입니다."},
+  {"t":"mod","q":"<b>that shone upon him out of poor Becky’s eyes</b> 는 무엇을 꾸밉니까?","a":"앞에 나열된 세 가지, 곧 놀라움·감사·흠모(the surprise, the gratitude, the adoration)","tip":"바로 앞의 his punishment 에 붙이면 '그의 벌이 베키의 눈에서 빛났다'가 되어 문장이 무너집니다."},
+  {"t":"pron","q":"<b>shone upon him</b> 의 him 은 누구입니까?","a":"톰 — 베키의 눈에서 그 감정이 톰에게로 쏟아졌다는 뜻입니다","tip":"바로 옆에 Becky’s eyes 가 있어 헷갈리기 쉽습니다. 받는 쪽이 톰입니다."},
+  {"t":"mod","q":"<b>seemed pay enough for a hundred floggings</b> 는 무슨 뜻입니까?","a":"매를 백 대 맞고도 남을 만한 값어치로 보였다는 뜻입니다","tip":"pay 를 '지불하다'라는 동사로 읽으면 주어와 동사가 꼬입니다. 여기서는 '보상, 값'이라는 명사이고 동사는 seemed 입니다."}
+ ],
+ "20.29.2": [
+  {"t":"mod","q":"<b>Inspired by the splendor of his own act</b> 는 누구를 설명하는 말입니까?","a":"톰(he) — 자기가 한 행동의 장렬함에 도취된 것은 톰입니다","tip":"과거분사로 시작해 주어가 보이지 않지만 바로 뒤의 he 를 설명합니다. 누가 톰을 감동시킨 것이 아닙니다."},
+  {"t":"neg","q":"<b>he took without an outcry the most merciless flaying</b> — 톰은 매를 맞으며 소리를 질렀습니까?","a":"아니요 — 신음 한 번 내지 않고 견뎠습니다","tip":"without 이 부정입니다. 동사(took)와 목적어(the most merciless flaying) 사이에 끼어 있어 통째로 지나치기 쉽습니다."},
+  {"t":"mod","q":"<b>that even Mr. Dobbins had ever administered</b> 는 무엇을 꾸밉니까?","a":"그 매질(the most merciless flaying) — 도빈스 선생조차 그때까지 그렇게 심하게 때려 본 적이 없다는 뜻입니다","tip":"even Mr. Dobbins 를 주어로 잡아 '도빈스 선생마저 매를 맞았다'로 읽지 않도록 주의하세요. administer 는 '(벌을) 내리다'입니다."},
+  {"t":"who","q":"<b>he knew who would wait for him outside</b> — 톰이 풀려날 때까지 밖에서 기다려 줄 사람은 누구입니까?","a":"베키 — 톰이 대신 매를 맞아 준 그 아이입니다","tip":"여기서 who 는 '누구?'라는 물음이 아니라 knew 의 목적어절('누가 ~할지')입니다. 뒤의 not count ... either 는 그 사람이 기다리는 시간을 조금도 아깝게 여기지 않으리라는 뜻입니다."}
+ ],
+ "20.30.0": [
+  {"t":"who","q":"<b>for with shame and repentance Becky had told him all</b> — 모든 것을 털어놓은 사람과 들은 사람은 각각 누구입니까?","a":"털어놓은 사람은 베키, 들은 사람은 톰(him)","tip":"문장 앞부분의 주어가 Tom 이라 톰이 말한 것으로 읽기 쉽습니다. 여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."},
+  {"t":"time","q":"<b>Becky had told him all</b> — 베키가 털어놓은 것은 톰이 잠자리에 든 뒤입니까, 그전입니까?","a":"그전입니다 — 그래서 톰이 앨프리드에게 복수할 궁리를 하며 잠자리에 든 것입니다","tip":"had told 는 앞선 일을 나타냅니다. 글에 적힌 순서와 실제로 일어난 순서가 다릅니다."},
+  {"t":"mod","q":"<b>not forgetting her own treachery</b> 는 누구의 행동이며 무엇을 말합니까?","a":"베키의 행동 — 톰이 억울하게 매 맞는 것을 알고도 입을 다물었던 자기 잘못까지 빼놓지 않고 말했다는 뜻입니다","tip":"톰이 잊지 않았다는 말로 읽기 쉽습니다. 앞의 Becky had told 에 이어지는 분사구문입니다."},
+  {"t":"pron","q":"<b>Becky’s latest words</b> 는 무엇입니까?","a":"바로 다음에 이어지는 “Tom, how could you be so noble!”","tip":"latest 는 '가장 늦은'이 아니라 '가장 최근의, 마지막으로 한'입니다. 문장 끝의 대시가 그 말이 곧 나온다는 표시입니다."}
+ ]
+}

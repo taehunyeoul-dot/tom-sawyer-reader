@@ -1,0 +1,104 @@
+[
+ {
+  "id": "36.0.1",
+  "en": "It being strictly a history of a boy, it must stop here; the story could not go much further without becoming the history of a man.",
+  "s": "it",
+  "v": "must stop",
+  "ko": "이것은 엄밀히 말해 한 소년의 이야기이므로 여기서 멈추어야 한다. 이 이야기는 한 남자의 이야기가 되어 버리지 않고서는 더 멀리 나아갈 수 없다.",
+  "chunks": [
+   {
+    "en": "It being strictly a history of a boy,",
+    "ko": "이것은 엄밀히 한 소년의 이야기이므로",
+    "r": "분사구문(이유)"
+   },
+   {
+    "en": "it must stop here;",
+    "ko": "여기서 멈추어야 한다",
+    "r": "주어 + 동사 + 부사"
+   },
+   {
+    "en": "the story could not go much further",
+    "ko": "이 이야기는 더 멀리 나아갈 수 없다",
+    "r": "대등절(주어 + 동사)"
+   },
+   {
+    "en": "without becoming the history of a man.",
+    "ko": "한 남자의 이야기가 되지 않고서는",
+    "r": "전치사구(~하지 않고서는)"
+   }
+  ]
+ },
+ {
+  "id": "36.0.2",
+  "en": "When one writes a novel about grown people, he knows exactly where to stop—that is, with a marriage; but when he writes of juveniles, he must stop where he best can.",
+  "s": "he",
+  "v": "knows",
+  "ko": "어른들에 관한 소설을 쓸 때는 어디서 멈춰야 할지 정확히 알 수 있다—즉 결혼에서 끝내면 된다. 하지만 아이들에 관해 쓸 때는 멈출 수 있는 가장 적당한 자리에서 멈추어야 한다.",
+  "chunks": [
+   {
+    "en": "When one writes a novel about grown people,",
+    "ko": "어른들에 관한 소설을 쓸 때는",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he knows exactly where to stop—that is,",
+    "ko": "어디서 멈춰야 할지 정확히 안다—즉,",
+    "r": "주어 + 동사 + 목적어 + 곁말(대시)"
+   },
+   {
+    "en": "with a marriage;",
+    "ko": "결혼으로 (끝내면 된다)",
+    "r": "곁말(대시 뒤 보충)"
+   },
+   {
+    "en": "but when he writes of juveniles,",
+    "ko": "하지만 아이들에 관해 쓸 때는",
+    "r": "접속 + 부사절(때)"
+   },
+   {
+    "en": "he must stop where he best can.",
+    "ko": "멈출 수 있는 가장 적당한 곳에서 멈추어야 한다",
+    "r": "대등절(주어 + 동사) + 부사절(장소)"
+   }
+  ]
+ },
+ {
+  "id": "36.1.1",
+  "en": "Some day it may seem worth while to take up the story of the younger ones again and see what sort of men and women they turned out to be; therefore it will be wisest not to reveal any of that part of their lives at present.",
+  "s": "it",
+  "v": "may seem",
+  "ko": "언젠가는 그 어린 아이들의 이야기를 다시 꺼내어 그들이 어떤 어른이 되었는지 살펴보는 것이 해 볼 만한 일로 보일지도 모른다. 그러므로 지금은 그들 삶의 그 부분을 조금도 밝히지 않는 것이 가장 현명할 것이다.",
+  "chunks": [
+   {
+    "en": "Some day it may seem worth while",
+    "ko": "언젠가는 해 볼 만한 일로 보일지도 모른다",
+    "r": "시간 + 가주어 + 동사 + 보어"
+   },
+   {
+    "en": "to take up the story of the younger ones again",
+    "ko": "그 어린 아이들의 이야기를 다시 꺼내는 것이",
+    "r": "진주어(to부정사)"
+   },
+   {
+    "en": "and see what sort of men and women",
+    "ko": "그리고 그들이 어떤 남자와 여자가",
+    "r": "진주어(나열) + 목적어(의문사절)"
+   },
+   {
+    "en": "they turned out to be;",
+    "ko": "되었는지 보는 것이",
+    "r": "의문사절의 주어 + 동사"
+   },
+   {
+    "en": "therefore it will be wisest",
+    "ko": "그러므로 ~하는 것이 가장 현명할 것이다",
+    "r": "접속 부사 + 가주어 + 동사 + 보어"
+   },
+   {
+    "en": "not to reveal any of that part of their lives at present.",
+    "ko": "지금은 그들 삶의 그 부분을 조금도 밝히지 않는 것이",
+    "r": "진주어(to부정사, 부정)"
+   }
+  ]
+ }
+]

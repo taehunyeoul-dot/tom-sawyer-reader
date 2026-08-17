@@ -1,0 +1,252 @@
+[
+ {
+  "id": "34.0.0",
+  "en": "Huck said: “Tom, we can slope, if we can find a rope.",
+  "s": "Huck",
+  "v": "said",
+  "chunks": [
+   {"en": "Huck said:", "ko": "헉이 말했다", "r": "주어 + 전달동사 + 콜론"},
+   {"en": "“Tom, we can slope,", "ko": "톰, 우리 몰래 튈 수 있어", "r": "인용(대사) 부르는 말 + 주절"},
+   {"en": "if we can find a rope.", "ko": "밧줄만 하나 구하면", "r": "부사절(조건)"}
+  ],
+  "ko": "헉이 말했다. \"톰, 밧줄만 하나 구하면 우리 몰래 튈 수 있어.",
+  "why": "콜론(:) 뒤가 곧바로 헉의 대사다. 여기서 slope는 명사 '비탈'이 아니라 '몰래 달아나다'라는 미국 구어 동사이니 주의할 것. slope와 rope로 운을 맞춘 말장난이기도 하다.",
+  "st": [5]
+ },
+ {
+  "id": "34.7.1",
+  "en": "This time it’s for the Welshman and his sons, on account of that scrape they helped her out of the other night.",
+  "s": "it",
+  "v": "’s",
+  "chunks": [
+   {"en": "This time it’s for the Welshman and his sons,", "ko": "이번엔 웨일스 노인과 그 아들들을 위한 거야", "r": "시간 + 주어 + 동사 + 보어"},
+   {"en": "on account of that scrape", "ko": "그 곤경 때문이지", "r": "전치사구(이유)"},
+   {"en": "they helped her out of the other night.", "ko": "요전 날 밤 그들이 과부댁을 구해 준", "r": "관계절(scrape 설명, 관계사 생략)"}
+  ],
+  "ko": "이번엔 웨일스 노인과 그 아들들을 위한 거야. 요전 날 밤 그 사람들이 과부댁을 곤경에서 구해 준 일 때문이지.",
+  "why": "\"on account of ~\"는 '~ 때문에'(because of). 그 뒤 \"that scrape (which) they helped her out of\"는 관계대명사가 생략된 관계절로, 끝의 of가 갈 곳이 없어 보이지만 실은 scrape에 걸린다(그 곤경에서 그녀를 구해 주었다).",
+  "st": []
+ },
+ {
+  "id": "34.9.0",
+  "en": "“Why, old Mr. Jones is going to try to spring something on the people here tonight, but I overheard him tell auntie today about it, as a secret, but I reckon it’s not much of a secret now.",
+  "s": "old Mr. Jones",
+  "v": "is going to try",
+  "chunks": [
+   {"en": "“Why, old Mr. Jones is going to try", "ko": "아 글쎄, 존스 영감님이 ~하려고 한단 말이야", "r": "감탄사 + 주어 + 동사"},
+   {"en": "to spring something on the people here tonight,", "ko": "오늘 밤 여기 사람들한테 뭔가를 불쑥 터뜨리려고", "r": "목적어(to부정사)"},
+   {"en": "but I overheard him tell auntie today about it,", "ko": "그런데 내가 오늘 그 양반이 이모한테 그 얘기 하는 걸 엿들었거든", "r": "대등절(반전)"},
+   {"en": "as a secret,", "ko": "비밀이라면서 말이야", "r": "전치사구(자격)"},
+   {"en": "but I reckon it’s not much of a secret now.", "ko": "근데 이젠 별로 비밀도 아닌 것 같아", "r": "대등절"}
+  ],
+  "ko": "아 글쎄, 존스 영감님이 오늘 밤 여기 사람들한테 뭔가를 불쑥 터뜨리려고 하는데, 내가 오늘 그 양반이 이모한테 비밀이라며 그 얘기 하는 걸 엿들었거든. 근데 이젠 별로 비밀도 아닌 것 같아.",
+  "why": "맨 앞의 Why는 '왜'가 아니라 말을 꺼낼 때 쓰는 감탄사('아 글쎄, 그게 말이야'). \"spring something on ~\"은 '~에게 불쑥 터뜨리다'. \"overheard him tell\"은 지각동사 + 목적어 + 원형동사(그가 말하는 것을 우연히 들었다), \"not much of a secret\"은 '비밀이랄 것도 못 된다'.",
+  "st": [2]
+ },
+ {
+  "id": "34.9.2",
+  "en": "Mr. Jones was bound Huck should be here—couldn’t get along with his grand secret without Huck, you know!”",
+  "s": "Mr. Jones",
+  "v": "was bound",
+  "chunks": [
+   {"en": "Mr. Jones was bound", "ko": "존스 영감님은 기어이 우겼어", "r": "주어 + 동사 + 보어"},
+   {"en": "Huck should be here—couldn’t get along", "ko": "헉이 꼭 여기 있어야 한다고—(그 양반은) 해 나갈 수가 없었거든", "r": "보어절(that 생략) + 곁말(대시)"},
+   {"en": "with his grand secret without Huck, you know!”", "ko": "헉 없이는 그 대단한 비밀을 말이야, 알잖아!", "r": "전치사구 + 맞장구"}
+  ],
+  "ko": "존스 영감님은 헉이 꼭 여기 있어야 한다고 우겼어. 헉 없이는 그 대단한 비밀 얘기를 풀어놓을 수가 없었으니까, 알잖아!",
+  "why": "\"was bound (that) Huck should be here\"는 that이 생략된 형태로 '헉이 꼭 여기 있어야 한다고 우겼다'는 뜻. 대시 뒤에는 주어(he)가 생략된 채 말이 이어지는 구어체이고, \"get along with ~\"는 '~을 해 나가다'. 이 소설의 대시는 앞뒤에 공백 없이 붙어 있다.",
+  "st": [2, 4]
+ },
+ {
+  "id": "34.11.1",
+  "en": "I reckon Mr. Jones was going to make a grand time over his surprise, but I bet you it will drop pretty flat.”",
+  "s": "I",
+  "v": "reckon",
+  "chunks": [
+   {"en": "I reckon Mr. Jones was going to make a grand time", "ko": "존스 영감님이 한바탕 크게 벌이려던 것 같은데", "r": "주어 + 동사 + 목적어(that 생략)"},
+   {"en": "over his surprise,", "ko": "그 깜짝 발표를 두고", "r": "전치사구"},
+   {"en": "but I bet you it will drop pretty flat.”", "ko": "하지만 내 장담하는데 아주 맥없이 끝날걸", "r": "대등절 + 목적어(that 생략)"}
+  ],
+  "ko": "존스 영감님이 그 깜짝 발표로 한바탕 크게 벌이려던 모양인데, 내 장담하는데 아주 맥없이 끝나고 말걸.",
+  "why": "reckon(~인 것 같다)과 bet you(장담하는데) 뒤에 that이 둘 다 생략되어 절이 그냥 이어 붙는다. \"make a grand time over ~\"는 '~으로 성대하게 판을 벌이다', \"drop flat\"은 반응 없이 김빠지고 만다는 뜻이다.",
+  "st": [2]
+ },
+ {
+  "id": "34.15.1",
+  "en": "If you had been in Huck’s place you’d ’a’ sneaked down the hill and never told anybody on the robbers.",
+  "s": "you",
+  "v": "’d ’a’ sneaked",
+  "chunks": [
+   {"en": "If you had been in Huck’s place", "ko": "네가 헉의 처지였다면", "r": "부사절(가정)"},
+   {"en": "you’d ’a’ sneaked down the hill", "ko": "너는 언덕 아래로 몰래 내뺐을 거고", "r": "주절(주어 + 동사)"},
+   {"en": "and never told anybody on the robbers.", "ko": "강도들 얘기는 아무한테도 일러바치지 않았을 거야", "r": "대등 동사"}
+  ],
+  "ko": "네가 헉의 처지였다면 너는 언덕 아래로 몰래 내뺐을 거고, 강도 얘기는 아무한테도 일러바치지 않았을 거야.",
+  "why": "가정법 과거완료(If you had been …, you would have …=실제와 반대인 상황을 상상)라서 '실제로는 그러지 않았다'는 뜻. \"’d ’a’\"는 would have를 소리 나는 대로 줄여 쓴 사투리 표기다. \"tell on ~\"은 '~을 일러바치다'.",
+  "st": [2, 8, 12]
+ },
+ {
+  "id": "34.15.2",
+  "en": "You can’t do any but mean things, and you can’t bear to see anybody praised for doing good ones.",
+  "s": "You",
+  "v": "can’t do",
+  "chunks": [
+   {"en": "You can’t do any but mean things,", "ko": "너는 못된 짓 말고는 아무것도 못 하고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and you can’t bear to see anybody praised", "ko": "누가 칭찬받는 꼴은 못 견뎌 하지", "r": "대등절"},
+   {"en": "for doing good ones.", "ko": "착한 일을 했다고", "r": "전치사구(이유)"}
+  ],
+  "ko": "너는 못된 짓 말고는 할 줄 아는 게 없고, 누가 착한 일을 해서 칭찬받는 꼴은 못 견뎌 하지.",
+  "why": "\"any but mean things\"의 but은 '하지만'이 아니라 '~을 제외하고'(except)라는 뜻이다. \"see anybody praised\"는 see + 목적어 + 과거분사(누가 칭찬받는 것을 보다)이고, 맨 끝 ones는 앞의 things를 대신한다(good things).",
+  "st": []
+ },
+ {
+  "id": "34.15.3",
+  "en": "There—no thanks, as the widow says”—and Tom cuffed Sid’s ears and helped him to the door with several kicks.",
+  "s": "Tom",
+  "v": "cuffed",
+  "chunks": [
+   {"en": "There—no thanks,", "ko": "자—고맙단 말은 됐고", "r": "인용(대사) + 곁말(대시)"},
+   {"en": "as the widow says”—and Tom cuffed Sid’s ears", "ko": "과부 아주머니가 늘 하시는 말씀처럼 말이야\"—그러고서 톰은 시드의 귀를 후려쳤다", "r": "부사절(비유) → 대시 뒤 서술로 전환"},
+   {"en": "and helped him to the door with several kicks.", "ko": "그리고 발길질 몇 번으로 문까지 '배웅해' 주었다", "r": "대등 동사"}
+  ],
+  "ko": "\"자—고맙단 말은 됐고, 과부 아주머니가 늘 하시는 말씀처럼 말이야.\"—그러고서 톰은 시드의 귀를 후려치고 발길질 몇 번으로 문까지 '배웅해' 주었다.",
+  "why": "앞부분은 톰의 대사인데 닫는 따옴표 뒤에 붙은 대시(”—)에서 갑자기 서술로 바뀐다. 대시가 화면 전환 신호라고 보면 된다. \"helped him to the door with several kicks\"는 발길질로 내쫓았다는 것을 점잖은 말로 뒤집어 표현한 익살(반어)이다.",
+  "st": [4]
+ },
+ {
+  "id": "34.16.0",
+  "en": "Some minutes later the widow’s guests were at the supper-table, and a dozen children were propped up at little side-tables in the same room, after the fashion of that country and that day.",
+  "s": "the widow’s guests",
+  "v": "were",
+  "chunks": [
+   {"en": "Some minutes later the widow’s guests were at the supper-table,", "ko": "몇 분 뒤 과부댁 손님들은 저녁 식탁에 앉아 있었고", "r": "시간 + 주어 + 동사 + 전치사구(장소)"},
+   {"en": "and a dozen children were propped up", "ko": "열두어 명의 아이들은 (자리에) 앉혀져 있었다", "r": "대등절(수동태)"},
+   {"en": "at little side-tables in the same room,", "ko": "같은 방 안 작은 보조 탁자에", "r": "전치사구(장소)"},
+   {"en": "after the fashion of that country and that day.", "ko": "그 고장 그 시절의 관례대로", "r": "전치사구(방식)"}
+  ],
+  "ko": "몇 분 뒤 과부댁 손님들은 저녁 식탁에 앉아 있었고, 열두어 명의 아이들은 그 고장 그 시절의 관례대로 같은 방 안 작은 보조 탁자에 앉혀져 있었다.",
+  "why": "두 절이 and로 나란히 이어지고 각각 주어가 다르다(guests / children). \"were propped up\"은 수동태로 '(어른들이) 받쳐 앉혀 놓았다'는 뜻이고, \"after the fashion of ~\"는 '~의 방식대로'(after를 '뒤에'로 읽으면 안 된다).",
+  "st": []
+ },
+ {
+  "id": "34.16.1",
+  "en": "At the proper time Mr. Jones made his little speech, in which he thanked the widow for the honor she was doing himself and his sons, but said that there was another person whose modesty—",
+  "s": "Mr. Jones",
+  "v": "made",
+  "chunks": [
+   {"en": "At the proper time Mr. Jones made his little speech,", "ko": "때가 되자 존스 씨는 짤막한 연설을 했다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "in which he thanked the widow for the honor", "ko": "그 연설에서 그는 과부댁에게 그 영광에 대해 감사를 표했다", "r": "관계절(speech 설명, 전치사 + which)"},
+   {"en": "she was doing himself and his sons,", "ko": "그녀가 자기와 아들들에게 베풀어 주고 있는", "r": "관계절(honor 설명, 관계사 생략)"},
+   {"en": "but said that there was another person", "ko": "하지만 또 한 사람이 있다고 말했다", "r": "대등 동사 + 목적어(that절)"},
+   {"en": "whose modesty—", "ko": "그의 겸손함이—(하다 말고 끊김)", "r": "관계절(person 설명) + 말 끊김(대시)"}
+  ],
+  "ko": "때가 되자 존스 씨는 짤막한 연설을 했다. 그 연설에서 그는 과부댁이 자기와 아들들에게 베풀어 준 영광에 감사를 표하고는, 여기 또 한 사람이 있는데 그의 겸손함이—라고 말했다.",
+  "why": "\"in which\"는 \"in his little speech\"를 대신하는 관계절(그 연설에서). \"the honor (which) she was doing himself and his sons\"는 관계대명사가 생략된 관계절이다. 맨 끝 \"whose modesty—\"는 문장이 끝나지 않고 대시로 잘린 것으로, 바로 다음 문장 \"And so forth and so on(어쩌고저쩌고)\"이 나머지를 대신한다.",
+  "st": [4, 9]
+ },
+ {
+  "id": "34.17.1",
+  "en": "He sprung his secret about Huck’s share in the adventure in the finest dramatic manner he was master of, but the surprise it occasioned was largely counterfeit and not as clamorous and effusive as it might have been under happier circumstances.",
+  "s": "He",
+  "v": "sprung",
+  "chunks": [
+   {"en": "He sprung his secret about Huck’s share in the adventure", "ko": "그는 그 모험에서 헉이 한 몫에 관한 비밀을 터뜨렸다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in the finest dramatic manner he was master of,", "ko": "자기가 부릴 수 있는 가장 극적인 방식으로", "r": "전치사구(방식) + 관계절(manner 설명)"},
+   {"en": "but the surprise it occasioned was largely counterfeit", "ko": "하지만 그것이 불러일으킨 놀라움은 대체로 꾸며 낸 것이었고", "r": "대등절 주어(관계절 포함) + 동사 + 보어"},
+   {"en": "and not as clamorous and effusive", "ko": "그렇게 떠들썩하지도 호들갑스럽지도 않았다", "r": "보어(as ~ as 비교)"},
+   {"en": "as it might have been under happier circumstances.", "ko": "더 좋은 상황이었다면 그랬을 만큼은", "r": "비교절(가정법)"}
+  ],
+  "ko": "그는 자기가 부릴 수 있는 가장 극적인 방식으로 헉이 그 모험에서 한 몫에 관한 비밀을 터뜨렸지만, 그것이 불러일으킨 놀라움은 대체로 꾸며 낸 것이었고, 더 좋은 상황이었다면 나왔을 만큼 떠들썩하거나 호들갑스럽지도 않았다.",
+  "why": "but 뒤 절의 주어는 \"the surprise (that) it occasioned\"(그것이 불러일으킨 놀라움) 전체이고 그 뒤 was가 동사다. \"not as A as it might have been\"은 '그랬을 수도 있었을 만큼은 A하지 않았다'는 가정법 비교로, 이미 소문이 다 퍼져 반응이 시들했다는 뜻이다.",
+  "st": [12, 18]
+ },
+ {
+  "id": "34.17.2",
+  "en": "However, the widow made a pretty fair show of astonishment, and heaped so many compliments and so much gratitude upon Huck that he almost forgot the nearly intolerable discomfort of his new clothes in the entirely intolerable discomfort of being set up as a target for everybody’s gaze and everybody’s laudations.",
+  "s": "the widow",
+  "v": "made",
+  "chunks": [
+   {"en": "However, the widow made a pretty fair show of astonishment,", "ko": "하지만 과부댁은 제법 그럴듯하게 놀란 척을 해 보였고", "r": "접속 + 주어 + 동사 + 목적어"},
+   {"en": "and heaped so many compliments and so much gratitude upon Huck", "ko": "헉에게 어찌나 많은 칭찬과 감사를 쏟아부었는지", "r": "대등 동사(so ~ that의 so)"},
+   {"en": "that he almost forgot the nearly intolerable discomfort of his new clothes", "ko": "그는 새 옷의 거의 못 견딜 불편함마저 잊어버릴 지경이었다", "r": "결과절(that)"},
+   {"en": "in the entirely intolerable discomfort of being set up as a target", "ko": "표적으로 세워지는, 완전히 못 견딜 불편함에 파묻혀", "r": "전치사구(원인·상황)"},
+   {"en": "for everybody’s gaze and everybody’s laudations.", "ko": "모두의 시선과 모두의 찬사의 (표적으로)", "r": "전치사구"}
+  ],
+  "ko": "하지만 과부댁은 제법 그럴듯하게 놀란 척을 해 보이며 헉에게 어찌나 많은 칭찬과 감사를 쏟아부었는지, 헉은 모두의 시선과 찬사의 표적으로 내세워지는 완전히 못 견딜 불편함에 파묻혀 새 옷의 거의 못 견딜 불편함마저 잊어버릴 지경이었다.",
+  "why": "\"so many … and so much … that …\"(어찌나 ~해서 그 결과 …하다)의 짝을 먼저 찾아야 뼈대가 보인다. \"nearly intolerable(거의 못 견딜)\"과 \"entirely intolerable(완전히 못 견딜)\"을 나란히 놓아, 더 큰 괴로움이 작은 괴로움을 덮어 버렸다고 말하는 익살이다.",
+  "st": []
+ },
+ {
+  "id": "34.18.0",
+  "en": "The widow said she meant to give Huck a home under her roof and have him educated; and that when she could spare the money she would start him in business in a modest way.",
+  "s": "The widow",
+  "v": "said",
+  "chunks": [
+   {"en": "The widow said she meant to give Huck a home under her roof", "ko": "과부댁은 헉에게 자기 집에 살 자리를 마련해 주겠다고 말했다", "r": "주어 + 동사 + 목적어(that 생략)"},
+   {"en": "and have him educated;", "ko": "그리고 그를 가르쳐 주겠다고", "r": "대등 to부정사(have + 목적어 + 과거분사)"},
+   {"en": "and that when she could spare the money", "ko": "그리고 돈에 여유가 생기면", "r": "대등 that절 + 부사절(때)"},
+   {"en": "she would start him in business in a modest way.", "ko": "작게나마 그를 장사에 앉혀 주겠다고", "r": "that절 주어 + 동사"}
+  ],
+  "ko": "과부댁은 헉에게 자기 집에 살 자리를 마련해 주고 공부도 시키겠다고 말했다. 그리고 돈에 여유가 생기면 작게나마 그를 장사에 앉혀 주겠다고 했다.",
+  "why": "said 뒤에 that이 생략된 절과, 세미콜론 뒤의 \"and that …\" 절이 나란히 said에 걸린다(둘 다 과부댁이 한 말의 내용). \"have him educated\"는 have + 목적어 + 과거분사(그가 교육받게 하다)이고, \"spare the money\"는 '그 돈을 낼 여유가 있다'는 뜻이다.",
+  "st": [3]
+ },
+ {
+  "id": "34.20.0",
+  "en": "Nothing but a heavy strain upon the good manners of the company kept back the due and proper complimentary laugh at this pleasant joke.",
+  "s": "Nothing but a heavy strain",
+  "v": "kept back",
+  "chunks": [
+   {"en": "Nothing but a heavy strain", "ko": "심한 무리 말고는 아무것도", "r": "주어(긴 주어의 머리)"},
+   {"en": "upon the good manners of the company", "ko": "그 자리 사람들의 예의범절에 가해진", "r": "전치사구(strain 수식)"},
+   {"en": "kept back the due and proper complimentary laugh", "ko": "당연하고 마땅한 예의상의 웃음을 막아 냈다", "r": "동사 + 목적어"},
+   {"en": "at this pleasant joke.", "ko": "이 유쾌한 농담에 터져 나왔을", "r": "전치사구"}
+  ],
+  "ko": "이 유쾌한 농담에 당연히 터져 나왔어야 할 예의상의 웃음은, 오직 그 자리 사람들이 예의를 지키느라 안간힘을 쓴 덕분에 겨우 참아졌다.",
+  "why": "\"Nothing but A kept back B\"는 직역하면 'A 말고는 아무것도 B를 막지 못했다', 곧 'A 덕분에 겨우 B를 참았다'는 뜻이다. 주어 Nothing과 동사 kept back 사이에 긴 전치사구가 끼어 있어 동사를 놓치기 쉽다. 사람들이 톰의 \"Huck’s rich\"를 농담으로 알아듣고 웃음을 참았다는 풍자.",
+  "st": [18]
+ },
+ {
+  "id": "34.24.0",
+  "en": "Tom entered, struggling with the weight of his sacks, and Aunt Polly did not finish her sentence.",
+  "s": "Tom",
+  "v": "entered",
+  "chunks": [
+   {"en": "Tom entered,", "ko": "톰이 들어왔다", "r": "주어 + 동사"},
+   {"en": "struggling with the weight of his sacks,", "ko": "자루 무게에 낑낑대면서", "r": "분사구문(~하면서)"},
+   {"en": "and Aunt Polly did not finish her sentence.", "ko": "그리고 폴리 이모는 하던 말을 끝맺지 못했다", "r": "대등절"}
+  ],
+  "ko": "톰이 자루 무게에 낑낑대며 들어왔고, 폴리 이모는 하던 말을 끝맺지 못했다.",
+  "why": "가운데 \"struggling …\"은 앞의 Tom이 '~하면서'라는 뜻으로 덧붙는 분사구문이다. 뒤 절에서는 주어가 Aunt Polly로 바뀐다. \"did not finish her sentence\"는 (놀라서) 하던 말을 하다 말았다는 뜻.",
+  "st": [6]
+ },
+ {
+  "id": "34.27.0",
+  "en": "“I thought I had fixed up a little surprise for this occasion, but it don’t amount to anything now.",
+  "s": "I",
+  "v": "thought",
+  "chunks": [
+   {"en": "“I thought I had fixed up a little surprise", "ko": "나는 깜짝 놀랄 일을 하나 준비해 뒀다고 생각했는데", "r": "주어 + 동사 + 목적어(that 생략)"},
+   {"en": "for this occasion,", "ko": "이 자리를 위해", "r": "전치사구(목적)"},
+   {"en": "but it don’t amount to anything now.", "ko": "이젠 아무것도 아닌 게 돼 버렸구먼", "r": "대등절(반전)"}
+  ],
+  "ko": "\"이 자리를 위해 깜짝 놀랄 일을 하나 준비해 뒀다고 생각했는데, 이젠 아무것도 아닌 게 돼 버렸구먼.",
+  "why": "thought 뒤에 that이 생략되고, 그 안이 과거완료(had fixed up = 그보다 먼저 준비해 두었다)다. \"it don’t\"는 doesn’t 대신 쓰는 구어(비표준) 형태이고, \"amount to anything\"은 '대단한 것이 되다'라서 부정문이면 '별것 아니다'라는 뜻이 된다.",
+  "st": [2]
+ },
+ {
+  "id": "34.28.2",
+  "en": "It was more than any one present had ever seen at one time before, though several persons were there who were worth considerably more than that in property.",
+  "s": "It",
+  "v": "was",
+  "chunks": [
+   {"en": "It was more than any one present had ever seen", "ko": "그것은 그 자리에 있던 누구도 본 적 없는 액수였다", "r": "주어 + 동사 + 비교절"},
+   {"en": "at one time before,", "ko": "전에 한꺼번에", "r": "부사구(시간)"},
+   {"en": "though several persons were there", "ko": "비록 그 자리에 몇 사람이 있기는 했지만", "r": "부사절(양보)"},
+   {"en": "who were worth considerably more than that in property.", "ko": "재산으로 치면 그보다 훨씬 더 값어치가 나가는", "r": "관계절(persons 설명)"}
+  ],
+  "ko": "그 돈은 그 자리에 있던 누구도 전에 한꺼번에 본 적이 없는 액수였다. 물론 재산으로 따지면 그보다 훨씬 더 값어치가 나가는 사람이 몇 있기는 했지만.",
+  "why": "\"any one present\"의 present는 '현재의'가 아니라 '그 자리에 있는'이라는 뜻으로 뒤에서 명사를 꾸민다. 맨 끝 \"who were worth …\"는 several persons를 설명하는 관계절인데 were there에 밀려 멀리 떨어져 있으니, who가 가리키는 것이 persons임을 놓치지 말 것.",
+  "st": []
+ }
+]

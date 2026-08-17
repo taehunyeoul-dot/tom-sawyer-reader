@@ -1,0 +1,121 @@
+{
+ "15.0.1": [
+  {"t":"time","q":"<b>Before the depth reached his middle he was halfway over</b> — 그가 절반쯤 건넌 것은 물이 허리께에 닿기 전입니까, 닿은 뒤입니까?","a":"닿기 전 — 물이 허리에 오기도 전에 이미 절반을 건너 있었습니다","tip":"Before 절이 문장 맨 앞에 나와 주절과 순서를 뒤집어 읽기 쉽습니다. 여울이라 한복판도 얕았다는 것이 요지입니다."},
+  {"t":"neg","q":"<b>the current would permit no more wading</b> — 그는 계속 걸어서 건널 수 있었습니까?","a":"아니요 — 더는 걸어서 갈 수 없었습니다","tip":"permit no more 는 '더는 허락하지 않는다'입니다. no 를 놓치면 정반대가 됩니다."},
+  {"t":"who","q":"<b>the current would permit no more wading</b> — 걸어서 건너는 것을 막은 것은 누구, 또는 무엇입니까?","a":"물살(the current) — 사람이 막은 것이 아닙니다","tip":"permit(허락하다)의 주어가 사물입니다. '톰이 더 걷지 않기로 했다'로 읽으면 주어가 바뀝니다."}
+ ],
+ "15.0.4": [
+  {"t":"mod","q":"<b>found his piece of bark safe</b> — safe(무사한)는 무엇을 두고 하는 말입니까?","a":"주머니 속 나무껍질 조각 — 그것이 젖지도 없어지지도 않고 그대로인 것을 확인했다는 뜻입니다","tip":"'무사히 찾아냈다'로 읽으면 톰이 무사한 것처럼 됩니다. find + 목적어 + 보어 구조입니다."},
+  {"t":"who","q":"<b>following the shore</b> — 강기슭을 따라간 것은 누구입니까?","a":"톰(He) — 숲이나 길이 강기슭을 따라간 것이 아닙니다","tip":"분사구문의 주체는 문장의 주어와 같습니다."},
+  {"t":"mod","q":"<b>with streaming garments</b> — 물이 줄줄 흐르고 있던 것은 무엇입니까?","a":"톰이 입고 있던 옷 — 강물이나 시냇물이 아닙니다","tip":"streaming 은 garments 를 꾸밉니다. 방금 강을 건너와 옷이 흠뻑 젖은 상태입니다."}
+ ],
+ "15.0.5": [
+  {"t":"time","q":"<b>Shortly before ten o’clock</b> 는 10시가 되기 조금 전입니까, 10시가 조금 지난 뒤입니까?","a":"10시가 되기 조금 전","tip":"shortly after(조금 뒤)와 한 글자 차이입니다. before 를 놓치면 시간이 뒤집힙니다."},
+  {"t":"mod","q":"<b>opposite the village</b> 는 무엇을 설명하는 말입니까?","a":"그가 나온 트인 곳(an open place) — 마을 건너편에 있는 그 자리","tip":"came out 에 붙여 '마을 반대쪽으로 나갔다'로 읽기 쉽습니다. 톰은 강 건너편에서 마을을 바라보고 있습니다."},
+  {"t":"who","q":"<b>saw the ferryboat lying in the shadow</b> — 그늘 속에 놓여 있던 것은 무엇입니까?","a":"나룻배(the ferryboat) — 톰이 누워 있는 것이 아닙니다","tip":"lying 의 주체는 바로 앞의 목적어입니다. see + 목적어 + ~ing 구조입니다."}
+ ],
+ "15.0.7": [
+  {"t":"pron","q":"<b>at the boat’s stern</b> 의 the boat 는 어느 배를 가리킵니까?","a":"나룻배(the ferryboat) — 앞 문장에서 본 그 배입니다","tip":"한 문장 안에 배가 둘 나옵니다. skiff 로 잡으면 '작은 배 뒤에 매달린 작은 배'가 되어 버립니다."},
+  {"t":"mod","q":"<b>that did “yawl” duty at the boat’s stern</b> 는 무엇을 설명합니까?","a":"톰이 기어오른 작은 배(the skiff) — 나룻배 뒷꽁무니에서 보조선 노릇을 하던 배","tip":"바로 앞 명사가 skiff 입니다. 톰이 올라탄 것은 나룻배가 아니라 거기 딸린 작은 배입니다."},
+  {"t":"who","q":"<b>watching with all his eyes</b> — 사방을 살핀 사람은 누구입니까?","a":"톰(He)","tip":"with all his eyes 는 '있는 눈을 다 써서', 즉 눈을 부릅뜨고 살폈다는 뜻입니다. 눈이 여럿이라는 말이 아닙니다."}
+ ],
+ "15.1.3": [
+  {"t":"time","q":"<b>At the end of a long twelve or fifteen minutes</b> — 이것은 12~15분이 시작될 때입니까, 다 지났을 때입니까?","a":"다 지났을 때 — 그만큼의 시간이 흐른 뒤입니다","tip":"at the end of ~ 는 '~이 끝날 무렵'입니다. long 은 시간이 길게 느껴졌다는 뜻이지 실제 길이가 아닙니다."},
+  {"t":"who","q":"<b>the wheels stopped</b> — 멈춘 것은 무엇입니까?","a":"나룻배의 물레바퀴(외륜) — 톰이나 배 전체가 아니라 바퀴입니다","tip":"증기 나룻배를 움직이던 큰 바퀴입니다. 바퀴가 멈췄다는 것은 배가 선착장에 닿았다는 신호입니다."},
+  {"t":"neg","q":"<b>out of danger of possible stragglers</b> — 톰이 상륙한 곳은 사람들에게 들킬 위험이 있는 곳이었습니까?","a":"아니요 — 위험에서 벗어난 곳이었습니다","tip":"out of ~ 는 '~의 밖', 즉 그 위험이 미치지 않는 자리입니다. danger 만 보고 위험한 곳으로 읽기 쉽습니다."}
+ ],
+ "15.2.4": [
+  {"t":"pron","q":"<b>quaking every time it creaked</b> 의 it 은 무엇입니까?","a":"문(the door) — 문이 삐걱거릴 때마다라는 뜻입니다","tip":"몸을 떤 쪽은 톰이지만 삐걱거린 쪽은 문입니다. 둘을 한 주어로 묶으면 장면이 사라집니다."},
+  {"t":"mod","q":"<b>the door yielded a crack</b> — 문은 얼마나 열렸습니까?","a":"딱 틈이 벌어질 만큼만 — 활짝 열린 것이 아닙니다","tip":"a crack 은 '틈'이고 여기서는 열린 정도를 나타냅니다. yield 를 '양보하다'로 읽으면 문이 사람처럼 됩니다."},
+  {"t":"mod","q":"<b>on his knees</b> 는 무엇을 설명합니까?","a":"비집고 들어가는 자세 — 무릎을 꿇고 기어서 들어간다는 뜻입니다","tip":"'그의 무릎 위에'로 읽으면 뜻이 통하지 않습니다."},
+  {"t":"time","q":"<b>so he put his head through and began</b> — 머리를 들이민 것은 무릎으로 비집고 들어갈 만하다고 판단하기 전입니까, 뒤입니까?","a":"뒤 — 그만큼 벌어졌다고 판단한 다음에 머리를 넣었습니다","tip":"till 절이 문을 계속 밀던 동작의 끝을 정해 줍니다."}
+ ],
+ "15.6.0": [
+  {"t":"pron","q":"<b>It was just so with my Joe</b> — 이 It 은 무엇을 가리킵니까?","a":"바로 앞에서 폴리 이모가 톰을 두고 한 말(못된 게 아니라 장난이 심했을 뿐이라는 이야기) — '우리 조도 꼭 그랬다'는 뜻입니다","tip":"'그것'으로 옮기면 가리킬 사물을 찾다가 길을 잃습니다."},
+  {"t":"who","q":"<b>I went and whipped him</b> — 때린 사람과 맞은 사람은 각각 누구입니까?","a":"때린 사람은 말하고 있는 하퍼 부인(I), 맞은 사람은 아들 조(him)","tip":"went and whipped 는 '가서 때렸다'가 아니라 '하필 때리고 말았다'는 후회의 말투입니다."},
+  {"t":"pron","q":"<b>I throwed it out myself</b> 의 it 은 무엇입니까?","a":"그 크림(that cream) — 조가 먹었다고 야단맞은 바로 그 크림입니다","tip":"앞의 him(조)으로 잡으면 아이를 내쫓은 이야기가 됩니다. throwed 는 threw 의 사투리입니다."},
+  {"t":"neg","q":"<b>never once recollecting that I throwed it out myself</b> — 부인은 자기가 크림을 버렸다는 것을 떠올린 채 아이를 때렸습니까?","a":"아니요 — 단 한 번도 떠올리지 못한 채 때렸습니다","tip":"never once 는 '단 한 번도 ~않고'입니다. 이 부정을 놓치면 후회의 이유가 통째로 사라집니다."}
+ ],
+ "15.9.3": [
+  {"t":"neg","q":"<b>Little did I know then</b> — 그때 부인은 그 일을 알고 있었습니까?","a":"아니요 — 조금도 몰랐습니다","tip":"Little 이 '조금은 알았다'가 아니라 '조금도 모른다'는 부정어입니다. 이 부정 때문에 뒤에 did I 로 순서가 뒤집혔습니다."},
+  {"t":"who","q":"<b>Little did I know</b> — 몰랐던 사람은 누구입니까?","a":"말하고 있는 하퍼 부인(I) — Little 은 주어가 아닙니다","tip":"부정어가 맨 앞으로 나오면서 주어와 동사가 자리를 바꾼 도치 문장입니다."},
+  {"t":"pron","q":"<b>I’d hug him and bless him for it</b> — him 과 it 은 각각 무엇입니까?","a":"him = 아들 조, it = 조가 코앞에서 폭죽을 터뜨린 그 장난","tip":"야단칠 일을 두고 오히려 껴안고 축복해 주겠다는 말입니다. it 을 다른 것으로 잡으면 뉘우침의 초점이 흐려집니다."},
+  {"t":"time","q":"<b>if it was to do over again I’d hug him</b> — 부인은 실제로 아이를 껴안아 주었습니까?","a":"아니요 — 그때로 되돌릴 수만 있다면 그러겠다는 가정입니다. 실제로는 때려서 나뒹굴게 했습니다","tip":"if ~ , I’d ... 는 이룰 수 없는 일을 두고 하는 가정입니다."}
+ ],
+ "15.10.1": [
+  {"t":"time","q":"<b>No longer ago than yesterday noon</b> — 이 일은 오래전 일입니까?","a":"아니요 — 바로 어제 낮에 있었던 일입니다","tip":"no longer ago than ~ 은 '~보다 더 오래되지도 않은', 즉 '바로 ~에'라는 강조입니다. no longer(더 이상 ~않다)로 읽으면 뜻이 어그러집니다."},
+  {"t":"who","q":"<b>filled the cat full of Pain-killer</b> — 약을 먹인 쪽과 먹은 쪽은 각각 누구입니까?","a":"먹인 쪽은 톰(my Tom), 먹은 쪽은 고양이(the cat)","tip":"fill A full of B 는 'A를 B로 가득 채우다'입니다. 톰이 약을 먹은 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>the cretur</b> 는 무엇을 가리킵니까?","a":"그 고양이 — cretur 는 creature(짐승)의 사투리 표기입니다","tip":"톰을 가리키는 말로 읽기 쉽지만, 집을 부술 듯 날뛴 쪽은 약을 먹은 고양이입니다."}
+ ],
+ "15.11.4": [
+  {"t":"mod","q":"<b>sufficiently touched by his aunt’s grief to long to rush out</b> — sufficiently 는 무엇을 설명합니까?","a":"마음이 움직인 정도 — 뛰쳐나가고 싶어질 만큼 충분히 마음이 움직였다는 뜻입니다","tip":"sufficiently ~ to ... 는 '…할 만큼 충분히 ~한'입니다. to 이하를 목적으로 읽으면 앞뒤가 뒤집힙니다."},
+  {"t":"who","q":"<b>overwhelm her with joy</b> — 기쁨에 휩싸이게 될 사람은 누구입니까?","a":"폴리 이모(her) — 톰이 이모를 기쁨으로 뒤덮어 주는 것입니다","tip":"주어가 톰이라 톰이 기뻐하는 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>the theatrical gorgeousness of the thing</b> 의 the thing 은 무엇을 가리킵니까?","a":"톰이 침대 밑에서 뛰쳐나가 이모를 기쁘게 해 주는 그 장면","tip":"앞에 나온 물건을 찾으면 안 됩니다. 방금 상상한 그 '연출'을 받는 말입니다."},
+  {"t":"neg","q":"<b>but he resisted and lay still</b> — 톰은 침대 밑에서 뛰쳐나갔습니까?","a":"아니요 — 그러고 싶은 마음을 참고 그대로 가만히 누워 있었습니다","tip":"앞부분이 온통 '뛰쳐나가고 싶다'라서 실제로 나간 것으로 읽기 쉽습니다. lay still 은 '가만히 누워 있었다'입니다."}
+ ],
+ "15.12.0": [
+  {"t":"pron","q":"<b>it was conjectured at first that the boys had got drowned</b> — 이 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 that the boys had got drowned ... 입니다","tip":"'그것이 짐작되었다'로 옮기면 앞에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"who","q":"<b>the wise-heads had “put this and that together”</b> — 이것저것을 맞춰 보고 결론을 낸 사람들은 누구입니까?","a":"마을의 어른들(똑똑하다는 사람들) — 아이들이 아닙니다","tip":"바로 앞에 certain boys 가 나와 그대로 아이들로 이어 읽기 쉽습니다."},
+  {"t":"time","q":"<b>but toward noon the raft had been found ... and then hope perished</b> — 희망이 사라진 것은 뗏목이 발견되기 전입니까, 뒤입니까?","a":"뒤 — 뗏목이 강기슭에 걸린 채 발견되자 그때 희망이 사라졌습니다","tip":"'뗏목을 찾았으니 아이들도 찾았겠지'로 읽기 쉽지만, 뗏목만 나온 것이 오히려 절망의 근거가 됩니다."},
+  {"t":"neg","q":"<b>else hunger would have driven them home by nightfall</b> — 아이들은 배가 고파 집으로 돌아왔습니까?","a":"아니요 — 돌아오지 않았습니다. '익사한 게 아니라면 배고파서라도 돌아왔을 텐데'라는 뜻입니다","tip":"else(그렇지 않다면) + would have p.p. 는 실제로 일어나지 않은 일을 말합니다."}
+ ],
+ "15.12.1": [
+  {"t":"neg","q":"<b>the search for the bodies had been a fruitless effort</b> — 시신을 찾는 일은 성과가 있었습니까?","a":"아니요 — 아무 성과 없는 헛수고였습니다","tip":"fruitless 는 '열매가 없는', 곧 '헛된'입니다. fruitful(성과 있는)로 잘못 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>merely because the drowning must have occurred in mid-channel</b> 는 무엇을 설명합니까?","a":"시신 찾기가 헛수고로 끝난 이유 — 오직 강 한복판에서 빠졌기 때문이라는 뜻입니다","tip":"merely 는 '그 이유 하나뿐'이라는 한정입니다. was believed 에 붙이면 '단지 그래서 믿었다'가 되어 뜻이 달라집니다."},
+  {"t":"who","q":"<b>the boys, being good swimmers</b> — 헤엄을 잘 쳤던 사람들은 누구입니까?","a":"물에 빠졌다고 여겨진 그 아이들 — 시신을 찾던 사람들이 아닙니다","tip":"콤마 사이에 끼어든 삽입구로, 바로 앞의 the boys 를 설명합니다."},
+  {"t":"time","q":"<b>would otherwise have escaped to shore</b> — 아이들은 물가로 헤엄쳐 나왔습니까?","a":"아니요 — 강 한복판이 아니었다면 나왔을 것이라는 가정입니다","tip":"otherwise(그렇지 않았다면) + would have p.p. 는 실제로는 일어나지 않은 일입니다."}
+ ],
+ "15.12.3": [
+  {"t":"neg","q":"<b>If the bodies continued missing until Sunday</b> — 이것은 시신이 발견된 경우입니까, 발견되지 않은 경우입니까?","a":"일요일까지도 시신이 나오지 않은 경우입니다","tip":"continue missing 은 '없어진 상태가 계속되다'입니다. '시신이 계속 사라지다'로 읽으면 장면이 이상해집니다."},
+  {"t":"pron","q":"<b>on that morning</b> 은 어느 날 아침입니까?","a":"일요일 아침 — 앞에 나온 Sunday 를 받습니다","tip":"'그날 아침'만 보고 톰이 숨어 있던 그날 아침으로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>all hope would be given over</b> — 이것은 이미 벌어진 일입니까, 앞으로 그렇게 하기로 정해 둔 일입니까?","a":"앞으로 그렇게 하기로 정해 둔 일입니다 — 일요일까지 시신이 안 나오면 그러기로 한 것입니다","tip":"If ~ , would ... 는 아직 오지 않은 일에 대한 계획·예상입니다."}
+ ],
+ "15.13.1": [
+  {"t":"who","q":"<b>the two bereaved women</b> 는 누구와 누구입니까?","a":"폴리 이모와 조의 어머니 하퍼 부인","tip":"bereaved 는 '가족을 잃은'입니다. 그 방에는 메리도 있었지만 두 여인에 들어가지 않습니다."},
+  {"t":"who","q":"<b>flung themselves into each other’s arms</b> — 누가 누구의 품에 안겼습니까?","a":"두 사람이 서로의 품에 안겼습니다 — 한쪽이 일방적으로 안긴 것이 아닙니다","tip":"themselves 와 each other 가 함께 쓰여 '서로가 서로에게'가 됩니다."},
+  {"t":"mod","q":"<b>had a good, consoling cry</b> 에서 good 은 무엇을 말합니까?","a":"울음의 정도 — 실컷, 한바탕 울었다는 뜻입니다","tip":"'좋은 울음'이라는 평가가 아닙니다. have a good cry 는 '실컷 울다'로 굳어진 표현입니다."}
+ ],
+ "15.14.0": [
+  {"t":"who","q":"<b>he was weltering in tears again</b> — 눈물에 흠뻑 젖은 사람은 누구입니까?","a":"톰 — 침대 밑에 숨어 그 기도를 듣고 있던 쪽입니다","tip":"문장의 주어가 Aunt Polly 라서 이모가 운 것으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>so touchingly, so appealingly</b> 와 뒤의 <b>that</b> 절은 어떤 관계입니까?","a":"so ~ that 구문 — 어찌나 가슴 울리게 기도했던지 '그 결과' 톰이 눈물에 젖었다는 뜻입니다","tip":"that 절을 '~라는 것'으로 읽으면 기도의 내용처럼 되어 버립니다."},
+  {"t":"time","q":"<b>long before she was through</b> — 톰이 운 것은 이모가 기도를 마치기 전입니까, 뒤입니까?","a":"훨씬 전 — 기도가 끝나기 한참 전부터 이미 울고 있었습니다","tip":"be through 는 '끝내다'입니다. long before 는 '~보다 훨씬 전에'로, long after(훨씬 뒤에)와 뒤집히기 쉽습니다."}
+ ],
+ "15.15.0": [
+  {"t":"neg","q":"<b>He had to keep still</b> — 톰은 움직일 수 있었습니까?","a":"아니요 — 꼼짝하지 않고 가만히 있어야 했습니다","tip":"keep still 은 '가만히 있다'입니다. still 을 '여전히'로 읽으면 문장이 무너집니다."},
+  {"t":"time","q":"<b>long after she went to bed</b> — 톰이 가만히 있어야 했던 것은 이모가 잠자리에 들기 전입니까, 든 뒤입니까?","a":"든 뒤 — 이모가 누운 뒤로도 한참 동안입니다","tip":"long after 는 '한참 뒤까지'입니다. long before(훨씬 전)와 헷갈리기 쉽습니다."},
+  {"t":"who","q":"<b>for she kept making broken-hearted ejaculations</b> — 가슴 미어지는 소리를 내뱉은 사람은 누구입니까?","a":"폴리 이모(she) — 톰이 아닙니다","tip":"문장의 주어가 He(톰)라 그대로 이어 읽기 쉽습니다. 여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."},
+  {"t":"mod","q":"<b>tossing unrestfully, and turning over</b> 는 누구의 모습입니까?","a":"폴리 이모 — 잠자리에서 편치 않게 뒤척이고 몸을 뒤집는 이모의 모습입니다","tip":"분사구문이 바로 앞 절의 주어 she 를 받습니다. 톰이 뒤척였다고 읽으면 '가만히 있었다'와 어긋납니다."}
+ ],
+ "15.15.7": [
+  {"t":"mod","q":"<b>the faded lips</b> 는 누구의 입술입니까?","a":"잠들어 있던 폴리 이모의 입술","tip":"his 나 her 가 붙어 있지 않아 주인을 놓치기 쉽습니다. 침대에 누워 있는 사람은 이모입니다."},
+  {"t":"who","q":"<b>latching the door behind him</b> — 문을 걸어 잠근 사람은 누구입니까?","a":"톰 — 빠져나가면서 자기 등 뒤로 문을 걸었습니다","tip":"behind him 은 '그의 뒤에 있는 문'이 아니라 '나온 뒤 등 뒤로'라는 뜻입니다."},
+  {"t":"mod","q":"<b>made his stealthy exit</b> 는 무슨 뜻입니까?","a":"살그머니 빠져나갔다 — exit 는 여기서 '나가는 행동'입니다","tip":"'출구를 만들었다'로 읽으면 장면이 달라집니다. make one’s exit 는 '자리를 뜨다'입니다."}
+ ],
+ "15.16.0": [
+  {"t":"neg","q":"<b>found nobody at large there</b> — 선착장에 돌아다니는 사람이 있었습니까?","a":"아니요 — 아무도 없었습니다","tip":"nobody 가 목적어 자리에 있어 부정을 놓치기 쉽습니다. at large 는 '풀려나 돌아다니는'입니다."},
+  {"t":"pron","q":"<b>he knew she was tenantless</b> 의 she 는 누구입니까?","a":"그 나룻배(the boat) — 사람이 아닙니다. 영어에서는 배를 she 로 받습니다","tip":"바로 앞 장면에 여자가 여럿 나와 폴리 이모나 하퍼 부인으로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>tenantless except that there was a watchman</b> — 배에는 사람이 아무도 없었습니까?","a":"야경꾼 한 사람은 있었습니다 — 그 사람 말고는 아무도 없었다는 뜻입니다","tip":"except that ~ 이 앞의 '아무도 없다'에서 하나를 덜어 냅니다. 이 예외를 놓치면 톰이 조심할 이유가 사라집니다."},
+  {"t":"mod","q":"<b>who always turned in and slept like a graven image</b> 는 누구를 설명합니까?","a":"야경꾼(a watchman) — 늘 일찌감치 자리에 들어 조각상처럼 곤히 자던 사람입니다","tip":"바로 앞 명사가 watchman 입니다. 톰을 설명하는 말로 붙이면 장면이 뒤집힙니다. turn in 은 '잠자리에 들다'입니다."}
+ ],
+ "15.16.2": [
+  {"t":"time","q":"<b>When he had pulled a mile above the village</b> — 비스듬히 가로지르기 시작한 것은 1마일을 저어 올라가기 전입니까, 뒤입니까?","a":"뒤 — 상류로 1마일을 먼저 저어 올라간 다음 가로지르기 시작했습니다","tip":"had pulled(과거완료)가 '먼저 끝난 일'을 나타냅니다."},
+  {"t":"mod","q":"<b>a mile above the village</b> 는 어디를 말합니까?","a":"마을에서 강 상류 쪽으로 1마일 떨어진 지점","tip":"강에서 above 는 '상류'입니다. '마을 위쪽 하늘'이나 '마을보다 높은 곳'이 아닙니다."},
+  {"t":"pron","q":"<b>bent himself stoutly to his work</b> 의 his work 는 무슨 일입니까?","a":"노 젓는 일 — 배를 저어 강을 건너는 그 일입니다","tip":"직업이나 숙제로 읽기 쉽습니다. bend oneself to ~ 는 '~에 힘껏 매달리다'입니다."}
+ ],
+ "15.16.4": [
+  {"t":"pron","q":"<b>arguing that it might be considered a ship</b> 의 it 은 무엇입니까?","a":"그 작은 배(the skiff) — 나룻배 뒤에 매달려 있던 보조선입니다","tip":"it 과 a ship 은 같은 것을 다르게 부른 말입니다. it 을 나룻배로 잡으면 톰이 큰 배를 훔치려는 이야기가 됩니다."},
+  {"t":"mod","q":"<b>and therefore legitimate prey for a pirate</b> 는 무엇을 두고 하는 말입니까?","a":"그 작은 배 — 배로 쳐 줄 수 있으니 해적이 차지해도 되는 정당한 노획물이라는 뜻입니다","tip":"it might be considered [a ship] and [legitimate prey] 로 보어가 둘 나열된 것입니다."},
+  {"t":"who","q":"<b>a thorough search would be made for it</b> — 그 배를 샅샅이 찾아 나설 사람은 누구입니까?","a":"마을 사람들(배를 잃은 쪽) — 톰이 찾는 것이 아닙니다","tip":"수동태라 찾는 사람이 문장에 드러나 있지 않습니다. 주어를 톰으로 잡으면 뜻이 뒤집힙니다."},
+  {"t":"pron","q":"<b>and that might end in revelations</b> 의 that 은 무엇을 가리킵니까?","a":"사람들이 그 배를 샅샅이 찾는 일 — 그러다 보면 아이들이 살아 있다는 사실이 드러날 수 있다는 뜻입니다","tip":"앞 절 전체를 받는 that 입니다. 배 하나를 가리키는 말로 잡으면 뜻이 통하지 않습니다."}
+ ],
+ "15.17.0": [
+  {"t":"neg","q":"<b>torturing himself meanwhile to keep awake</b> — 톰은 잠들려고 애썼습니까?","a":"아니요 — 잠들지 않으려고 스스로를 못살게 굴었습니다","tip":"keep awake 는 '깨어 있는 상태를 유지하다'입니다. 쉬는 중이라 잠들려 한다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>meanwhile</b> 은 언제를 말합니까?","a":"앉아서 한참 쉬는 그 동안 — 쉬면서 동시에 잠을 쫓았다는 뜻입니다","tip":"'그런 다음'으로 읽으면 쉬는 일과 잠 쫓는 일이 앞뒤로 갈라집니다."},
+  {"t":"mod","q":"<b>the home-stretch</b> 는 어디를 말합니까?","a":"야영지까지 남은 마지막 구간","tip":"home 이 들어 있어 폴리 이모네 집으로 가는 길로 읽기 쉽지만, 경주로의 마지막 직선 구간에서 온 말입니다."}
+ ],
+ "15.22.0": [
+  {"t":"time","q":"<b>was shortly provided</b> 의 shortly 는 무슨 뜻입니까?","a":"곧, 얼마 지나지 않아 — 아침이 금방 차려졌다는 뜻입니다","tip":"'짧게 제공되었다'가 아닙니다. shortly 는 양이 아니라 때를 말합니다."},
+  {"t":"pron","q":"<b>as the boys set to work upon it</b> 의 it 은 무엇입니까?","a":"그 푸짐한 아침 식사 — 아이들이 밥에 달려들었다는 뜻입니다","tip":"set to work 만 보고 '일을 시작했다'로 읽기 쉽습니다. 여기서 달려든 일감은 밥입니다."},
+  {"t":"who","q":"<b>Tom recounted (and adorned) his adventures</b> — 모험담을 부풀린 사람은 누구입니까?","a":"톰 자신 — 자기 이야기를 늘어놓으면서 스스로 잔뜩 꾸며 냈다는 뜻입니다","tip":"괄호는 작가가 슬쩍 끼워 넣은 비꼼입니다. 다른 사람이 꾸며 준 것이 아닙니다."}
+ ]
+}

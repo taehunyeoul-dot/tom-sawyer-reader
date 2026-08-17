@@ -1,0 +1,127 @@
+{
+ "33.1.1": [
+  {"t":"who","q":"<b>Injun Joe lay stretched upon the ground</b> — 누군가 인전 조를 땅에 눕혀 놓았다는 뜻입니까?","a":"아니요 — 조 자신이 땅바닥에 뻗어 누워 있었다는 뜻입니다","tip":"lay 는 '놓다'(lay-laid)가 아니라 '눕다'(lie-lay-lain)의 과거입니다. '놓다'로 읽으면 누군가 시신을 옮겨 놓은 장면이 되어 버립니다."},
+  {"t":"mod","q":"<b>dead</b> 는 무엇을 설명하는 말입니까?","a":"인전 조 — 죽은 채로 뻗어 있었다는 뜻입니다","tip":"바로 앞의 the ground 에 붙여 읽기 쉽습니다. 콤마로 떼어 놓았지만 주어를 설명하는 말입니다."},
+  {"t":"time","q":"<b>as if his longing eyes had been fixed ... upon the light</b> — 그의 눈이 정말로 빛에 붙박여 있었다고 확인된 것입니까?","a":"아니요 — 마치 그랬던 것처럼 보였다는 비유입니다","tip":"as if + 과거완료는 사실이 아니라 '마치 ~였던 듯'이라는 상상입니다."},
+  {"t":"mod","q":"<b>outside</b> 는 무엇을 꾸미는 말입니까?","a":"the free world — 바깥의 자유로운 세상","tip":"the light 에 붙여 '바깥의 빛'으로 읽기 쉽지만, outside 는 바로 앞 명사 the free world 뒤에 붙은 말입니다."}
+ ],
+ "33.1.3": [
+  {"t":"pron","q":"<b>which revealed to him</b> — 이 which 는 무엇을 받습니까?","a":"바로 앞의 an abounding sense of relief and security(넘쳐흐르는 안도감과 안전한 느낌)","tip":"His pity 나 문장 전체로 잡기 쉽습니다. 톰에게 무언가를 알려 준 것은 '그 안도감'입니다."},
+  {"t":"neg","q":"<b>in a degree which he had not fully appreciated before</b> — 톰은 전에도 그 두려움의 크기를 충분히 알고 있었습니까?","a":"아니요 — 전에는 미처 다 깨닫지 못하고 있었습니다","tip":"not 을 놓치면 '전부터 잘 알고 있었다'가 되어 이 문장의 핵심(이제야 알았다)이 사라집니다."},
+  {"t":"who","q":"<b>the day he lifted his voice against this bloody-minded outcast</b> — 목소리를 낸 사람과 그 상대는 각각 누구입니까?","a":"목소리를 낸 사람은 톰, 맞선 상대는 인전 조(this bloody-minded outcast)","tip":"outcast 를 제3의 인물로 잡기 쉽습니다. 톰이 법정에서 조의 살인을 증언한 그날을 말합니다."},
+  {"t":"time","q":"<b>had been lying upon him since the day</b> — 두려움의 무게가 톰을 짓누른 기간은 언제부터 언제까지입니까?","a":"톰이 증언한 그날부터 지금(조가 죽은 이 순간)까지 줄곧","tip":"since + 과거완료진행은 '그때부터 지금까지 계속'입니다. 그날 하루만의 일로 읽으면 안 됩니다."}
+ ],
+ "33.2.1": [
+  {"t":"who","q":"<b>had been chipped and hacked through</b> — 문의 큰 받침 기둥을 깎고 찍어 뚫은 사람은 누구입니까?","a":"인전 조 — 문장에는 한 사람이 드러나 있지 않습니다(수동태)","tip":"주어 the great foundation-beam 이 무언가를 깎았다고 읽으면 정반대입니다. 기둥은 당한 쪽입니다."},
+  {"t":"pron","q":"<b>the native rock formed a sill outside it</b> 의 it 은 무엇입니까?","a":"문(the door)","tip":"바로 앞의 the native rock 이나 기둥으로 잡기 쉽습니다. 문 바깥쪽에 자연 암반이 문턱을 이루고 있었다는 뜻입니다."},
+  {"t":"neg","q":"<b>the knife had wrought no effect</b> — 칼은 그 돌에 효과가 있었습니까?","a":"아니요 — 아무 효과도 내지 못했습니다","tip":"no 를 놓치면 정반대가 됩니다. wrought 는 work 의 옛 과거분사로 '만들어 냈다'는 뜻입니다."},
+  {"t":"who","q":"<b>the only damage done was to the knife itself</b> — 상한 것은 무엇입니까?","a":"칼 자신뿐 — 돌도 문턱도 상하지 않았습니다","tip":"앞에서 기둥이 깎였다고 했으므로 기둥이 상했다고 이어 읽기 쉽지만, 이 대목은 '망가진 것은 칼뿐'이라는 뜻입니다."}
+ ],
+ "33.2.2": [
+  {"t":"neg","q":"<b>if there had been no stony obstruction there</b> — 실제로 그 자리에 돌 장애물이 있었습니까?","a":"있었습니다 — '없었더라면'이라는, 사실과 반대되는 가정입니다","tip":"가정법 과거완료(if + had p.p.)는 실제와 반대되는 상황을 세워 보는 말입니다."},
+  {"t":"neg","q":"<b>Injun Joe could not have squeezed his body under the door</b> — 조는 문 밑으로 몸을 빼낼 수 있었을까요?","a":"아니요 — 기둥을 완전히 잘라 냈더라도 빠져나갈 수 없었을 것입니다","tip":"not 을 놓치면 '빠져나갈 수 있었을 것'이 되어 앞뒤 논리가 무너집니다."},
+  {"t":"pron","q":"<b>and he knew it</b> — he 와 it 은 각각 무엇입니까?","a":"he = 인전 조, it = 기둥을 다 잘라 내도 문 밑으로 빠져나갈 수 없다는 사실","tip":"it 을 '돈'이나 '돌'로 잡기 쉽습니다. 조는 헛수고인 줄 알면서도 팠다는 뜻입니다."}
+ ],
+ "33.2.9": [
+  {"t":"who","q":"<b>The captive</b> 는 누구입니까?","a":"인전 조 — 동굴에 갇혀 죽은 그 사람입니다","tip":"동굴에 갇혔던 톰과 베키로 잡기 쉽습니다. 이 대목은 조가 갇혀 있던 동안의 이야기입니다."},
+  {"t":"who","q":"<b>and upon the stump had placed a stone</b> — 돌을 얹은 사람과 얹은 자리는 각각 무엇입니까?","a":"얹은 사람은 인전 조(앞 절의 주어), 얹은 자리는 부러뜨린 석순의 그루터기 위","tip":"전치사구가 앞으로 나온 도치입니다. the stump 를 주어로 잡으면 '그루터기가 돌을 놓았다'가 됩니다."},
+  {"t":"pron","q":"<b>wherein he had scooped a shallow hollow</b> — 얕은 홈을 판 곳은 어디입니까?","a":"그루터기 위에 얹은 그 돌(a stone) 안","tip":"wherein 은 in which 입니다. 석순이나 그루터기에 팠다고 잡기 쉽습니다."},
+  {"t":"time","q":"<b>a dessertspoonful once in four and twenty hours</b> — 얼마 만에 얼마씩 모였다는 뜻입니까?","a":"스물네 시간(하루)에 디저트 스푼 하나 분량","tip":"four and twenty 는 옛 어법으로 24입니다. '4시간에서 20시간'으로 읽으면 안 됩니다."}
+ ],
+ "33.2.10": [
+  {"t":"pron","q":"<b>That drop</b> 은 무엇을 가리킵니까?","a":"인전 조가 돌 홈에 받아 마시던 그 물방울(3분에 한 방울씩 떨어지던 것)","tip":"새 이야기가 시작된 것처럼 보이지만 앞 문장의 그 물방울을 그대로 이어받습니다."},
+  {"t":"time","q":"<b>That drop was falling when the Pyramids were new</b> — 물방울이 떨어지기 시작한 것은 여기 나열된 사건들보다 앞입니까, 뒤입니까?","a":"앞 — 그 사건들이 벌어지던 때에 이미 떨어지고 있었습니다","tip":"was falling(과거진행)은 '그때 이미 진행 중이었다'는 뜻입니다. 사건 뒤에 떨어졌다고 읽으면 이 문장의 아득한 시간 감각이 사라집니다."},
+  {"t":"time","q":"<b>when the Pyramids were new</b> 는 언제를 말합니까?","a":"피라미드가 갓 지어져 새것이던 아득한 옛날","tip":"'새 피라미드가 생겼을 때'를 최근 일로 착각하기 쉽습니다."}
+ ],
+ "33.3.0": [
+  {"t":"pron","q":"<b>It is falling now</b> — 지금도 떨어지고 있는 It 은 무엇입니까?","a":"그 물방울","tip":"앞 문장에 피라미드·트로이·로마가 잔뜩 나와 그중 하나로 잡기 쉽지만, 주인공은 물방울 하나입니다."},
+  {"t":"pron","q":"<b>all these things</b> 는 무엇을 가리킵니까?","a":"앞 문장에 나열된 역사적 사건들(피라미드·트로이·로마·콜럼버스·렉싱턴 등)","tip":"동굴 안의 물건들로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>when all these things shall have sunk down the afternoon of history</b> — 이 일은 이미 벌어진 일입니까, 앞으로 벌어질 일입니까?","a":"앞으로 벌어질 일 — 그렇게 되고 난 뒤에도 물방울은 여전히 떨어지고 있을 것이라는 뜻입니다","tip":"shall have p.p. 는 미래의 어느 시점에 이미 다 끝나 있을 일을 말합니다(미래완료)."},
+  {"t":"mod","q":"<b>and been swallowed up in the thick night of oblivion</b> 은 어디에 이어지는 말입니까?","a":"앞의 shall have 에 이어집니다 — 삼켜지는 것은 all these things 입니다","tip":"물방울(it)이 삼켜진다고 읽으면 뜻이 정반대가 됩니다. 물방울만은 끝까지 남는다는 것이 이 문장의 요점입니다."}
+ ],
+ "33.3.4": [
+  {"t":"pron","q":"<b>It is many and many a year since ...</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 시간을 말할 때 쓰는 형식 주어입니다","tip":"'그것'으로 옮기면 앞에서 그것을 찾게 되어 길을 잃습니다. '~한 지 아주 오랜 세월이 지났다'는 뜻입니다."},
+  {"t":"who","q":"<b>the hapless half-breed</b> 는 누구입니까?","a":"인전 조","tip":"새 인물이 등장한 것으로 읽기 쉽습니다. 앞의 the captive 와 같은 사람입니다."},
+  {"t":"time","q":"<b>to this day</b> 는 무슨 뜻입니까?","a":"오늘날까지도(지금도 여전히)","tip":"'그날까지'로 읽으면 이야기 속 과거의 일이 되어 버립니다. 작가가 글을 쓰는 현재를 말합니다."},
+  {"t":"pron","q":"<b>when he comes to see the wonders of McDougal’s cave</b> 의 he 는 누구입니까?","a":"앞에 나온 the tourist(관광객)","tip":"톰이나 인전 조로 잡기 쉽습니다. the tourist 는 관광객 전체를 하나로 묶어 부른 말입니다."}
+ ],
+ "33.4.0": [
+  {"t":"who","q":"<b>confessed that they had had almost as satisfactory a time</b> — 그렇게 털어놓은 사람은 누구입니까?","a":"장례식에 몰려온 마을 사람들(they)","tip":"바로 앞에 their children 이 나와 아이들로 잡기 쉽습니다. 주어는 앞 절의 they 그대로입니다."},
+  {"t":"mod","q":"<b>for seven miles around</b> 는 무엇을 설명합니까?","a":"사람들이 몰려온 범위 — 주변 7마일 안쪽의 마을과 농장, 촌락","tip":"사람들이 7마일을 걸어왔다는 뜻이 아니라, 반경 7마일 안의 모든 동네에서 왔다는 뜻입니다."},
+  {"t":"time","q":"<b>as they could have had at the hanging</b> — 교수형은 실제로 있었습니까?","a":"아니요 — 조가 죽어 열릴 수 없었습니다. '교수형을 구경했더라면 누렸을' 재미를 가정한 것입니다","tip":"could have p.p. 는 실제로 일어난 일이 아닙니다."},
+  {"t":"mod","q":"<b>almost as satisfactory a time ... as</b> — 더 만족스러웠을 쪽은 어느 쪽이라는 뜻입니까?","a":"교수형 구경 쪽 — 장례식은 '거의' 그만큼이었을 뿐 조금 못 미쳤다는 뜻입니다","tip":"almost 를 빼고 읽으면 두 쪽이 똑같아집니다. 마을 사람들을 비꼬는 대목입니다."}
+ ],
+ "33.5.1": [
+  {"t":"who","q":"<b>implore him to be a merciful ass and trample his duty under foot</b> — 자비로운 멍청이가 되어 자기 의무를 발로 짓밟을 사람은 누구입니까?","a":"주지사(him) — 애원하는 여자들이 아닙니다","tip":"implore + 목적어 + to부정사에서 그 일을 할 사람은 목적어입니다. trample 도 to be 와 나란히 him 에 걸립니다."},
+  {"t":"who","q":"<b>go in deep mourning and wail around the governor</b> — 곡을 하며 우는 사람은 누구입니까?","a":"위원회로 뽑힌 그 감상적인 여자들","tip":"주지사가 우는 것이 아닙니다. around the governor 는 그를 둘러싸고 운다는 뜻입니다."},
+  {"t":"mod","q":"<b>in deep mourning</b> 은 무엇을 말합니까?","a":"짙은 상복 차림 — 겉모습(옷차림)을 말합니다","tip":"'깊은 슬픔에 잠겨'라는 마음 상태로 읽기 쉽지만, 여기서는 검은 상복을 갖춰 입은 모습입니다."}
+ ],
+ "33.5.3": [
+  {"t":"pron","q":"<b>If he had been Satan himself</b> 의 he 는 누구입니까?","a":"인전 조","tip":"바로 앞에 주지사와 위원회 여자들이 나와 헷갈리기 쉽습니다. 사면 탄원의 대상인 조를 말합니다."},
+  {"t":"time","q":"<b>If he had been Satan himself there would have been plenty of weaklings</b> — 이 문장은 실제로 있었던 일을 말합니까?","a":"아니요 — 그가 사탄이었다 해도 서명할 나약한 자들은 얼마든지 있었을 것이라는 가정입니다","tip":"if + had p.p. / would have p.p. 는 사실이 아닌 가정입니다."},
+  {"t":"pron","q":"<b>and drip a tear on it</b> 의 it 은 무엇입니까?","a":"사면 탄원서(a pardon-petition)","tip":"바로 앞의 their names 로 잡기 쉽습니다. 탄원서 위에 눈물을 떨어뜨린다는 뜻입니다."},
+  {"t":"mod","q":"<b>their permanently impaired and leaky water-works</b> 는 무엇을 비꼬아 부른 말입니까?","a":"그 나약한 자들의 눈(눈물샘)","tip":"진짜 수도 설비가 아니라, 걸핏하면 눈물이 새는 눈을 고장 난 수도관에 빗대 놀린 말입니다."}
+ ],
+ "33.6.1": [
+  {"t":"who","q":"<b>Huck had learned all about Tom’s adventure from the Welshman and the Widow Douglas</b> — 헉에게 톰의 모험을 알려 준 사람은 누구입니까?","a":"웨일스인과 더글러스 미망인 — 톰이 직접 들려준 것이 아닙니다","tip":"from 뒤에 오는 쪽이 알려 준 사람입니다. 톰이 말해 주었다고 읽으면 이 문장의 요점(톰이 아직 안 한 이야기가 있다)이 사라집니다."},
+  {"t":"neg","q":"<b>there was one thing they had not told him</b> — 그 두 사람은 헉에게 전부 말해 주었습니까?","a":"아니요 — 딱 한 가지를 말하지 않았습니다","tip":"not 을 놓치면 '그들이 말해 준 것이 하나 있다'가 되어 뜻이 달라집니다."},
+  {"t":"pron","q":"<b>that thing was what he wanted to talk about now</b> 의 he 는 누구입니까?","a":"톰","tip":"바로 앞의 him(헉)에 이어져 헉으로 잡기 쉽습니다. 이야기를 꺼내려는 쪽은 톰입니다."},
+  {"t":"time","q":"<b>by this time</b> 은 무슨 뜻입니까?","a":"이때쯤에는 이미(이야기를 나누기 전에 벌써)","tip":"'이번에는'이나 '이 시간에'로 읽기 쉽습니다. 헉이 이미 다 알고 있었다는 점이 중요합니다."}
+ ],
+ "33.7.2": [
+  {"t":"neg","q":"<b>Nobody told me it was you</b> — 그게 톰이라고 헉에게 알려 준 사람이 있었습니까?","a":"아무도 없었습니다","tip":"Nobody 자체가 부정어입니다. '누가 말해 줬다'로 읽으면 헉이 스스로 알아챘다는 이 대사의 핵심이 무너집니다."},
+  {"t":"pron","q":"<b>I just knowed it must ’a’ ben you</b> — 말하는 사람(I)과 you 는 각각 누구입니까?","a":"말하는 사람은 헉, you 는 톰","tip":"knowed = knew, ’a’ ben = have been 입니다. 2호실에 들어간 사람이 톰이었겠구나 하고 헉이 짐작했다는 뜻입니다."},
+  {"t":"neg","q":"<b>I knowed you hadn’t got the money</b> — 톰은 그 돈을 찾았습니까?","a":"아니요 — 못 찾았습니다","tip":"hadn’t 를 놓치면 '돈을 찾은 걸 알았다'가 되어 정반대가 됩니다."},
+  {"t":"time","q":"<b>you’d ’a’ got at me some way or other and told me</b> — 톰이 실제로 헉을 찾아와 말했습니까?","a":"아니요 — '돈을 찾았더라면 그랬을 것'이라는 가정입니다","tip":"you’d ’a’ got 은 you would have got 입니다. 그런 일이 없었으니 돈도 못 찾았을 것이라고 헉이 거꾸로 추리한 것입니다."}
+ ],
+ "33.13.0": [
+  {"t":"who","q":"<b>coming back to the main question</b> — 본래 이야기로 돌아온 사람은 누구입니까?","a":"헉(said Huck 의 Huck)","tip":"분사구문의 주인은 그 문장의 주어입니다. 바로 앞에서 헉이 자기 모험담을 길게 늘어놓았기 때문에 나온 말입니다."},
+  {"t":"who","q":"<b>whoever nipped the whiskey in No. 2, nipped the money, too</b> — 이 대사의 주어는 무엇이고 주된 동사는 어느 것입니까?","a":"주어는 whoever nipped the whiskey in No. 2(2호실에서 위스키를 슬쩍한 사람이 누구든), 주된 동사는 뒤의 nipped 입니다","tip":"nipped 가 두 번 나와 둘 다 주된 동사로 읽기 쉽습니다. 앞의 nipped 는 whoever 절 안에 들어 있습니다."},
+  {"t":"pron","q":"<b>it’s a goner for us</b> 의 it 은 무엇입니까?","a":"그 돈","tip":"바로 앞의 위스키로 잡기 쉽습니다. a goner 는 '이미 글러 먹은 것'이라는 뜻입니다."},
+  {"t":"time","q":"<b>presently</b> 는 무슨 뜻입니까?","a":"잠시 뒤에, 이윽고","tip":"'현재·지금'으로 읽기 쉽지만 이 책에서는 '조금 있다가'라는 뜻입니다."}
+ ],
+ "33.31.1": [
+  {"t":"mod","q":"<b>they call lucifer matches</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 these new-fangled things(요즘 새로 나온 그 물건)","tip":"관계대명사가 생략되어 있어 they call 을 새 문장의 시작으로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>they call</b> 의 they 는 누구입니까?","a":"딱히 누구랄 것 없는 세상 사람들","tip":"톰과 헉으로 잡기 쉽습니다. '사람들이 그렇게 부른다'는 뜻입니다."},
+  {"t":"mod","q":"<b>a little bag or two</b> 는 몇 개를 말합니까?","a":"작은 자루 한두 개","tip":"'작은 자루 하나와 두 개'가 아닙니다. or two 가 붙어 '한두 개'라는 어림수가 됩니다. 뒤의 two or three kite-strings 도 '두세 개'입니다."}
+ ],
+ "33.37.4": [
+  {"t":"pron","q":"<b>We’ve got it now</b> 의 it 은 무엇입니까?","a":"방금 찾아낸 그 굴 — 도둑 소굴로 쓸 은신처입니다","tip":"돈이나 보물로 잡기 쉽습니다. 바로 앞에서 톰이 '도둑이 되려면 이런 자리가 있어야 한다'고 했습니다."},
+  {"t":"who","q":"<b>only we’ll let Joe Harper and Ben Rogers in</b> — 끼워 주는 쪽과 끼는 쪽은 각각 누구입니까?","a":"끼워 주는 쪽은 톰과 헉(we), 끼는 쪽은 조 하퍼와 벤 로저스","tip":"let ~ in 의 in 이 목적어 뒤로 멀리 떨어져 있어 놓치기 쉽습니다. only 는 '오직 우리만'이 아니라 '다만·단'이라는 단서입니다."},
+  {"t":"neg","q":"<b>or else there wouldn’t be any style about it</b> — 갱단이 없으면 어떻게 된다는 뜻입니까?","a":"폼(멋)이 하나도 안 난다는 뜻입니다","tip":"or else 는 '또는'이 아니라 '안 그러면'입니다. wouldn’t ... any 는 '조금도 없다'입니다."}
+ ],
+ "33.63.4": [
+  {"t":"pron","q":"<b>in the one nearest the base of the rock</b> 의 the one 은 무엇입니까?","a":"바위에서 갈라져 나온 네 갈래 길 가운데 하나 — 바위 밑동에 가장 가까운 그 길","tip":"the one 을 사람으로 읽기 쉽습니다. 앞에서 네 갈래 중 셋은 이미 뒤졌다고 했습니다."},
+  {"t":"pron","q":"<b>with a pallet of blankets spread down in it</b> 의 it 은 무엇입니까?","a":"방금 찾아낸 그 작은 후미진 공간(a small recess)","tip":"바위나 길로 잡기 쉽습니다. 그 우묵한 자리 안에 담요 잠자리가 펴져 있었다는 뜻입니다."},
+  {"t":"mod","q":"<b>also an old suspender, some bacon rind, and the well-gnawed bones ...</b> 는 어디에 이어지는 말입니까?","a":"앞의 They found 에 이어집니다 — 그들이 찾아낸 물건들의 나열입니다","tip":"바로 앞 with 구에 붙이면 '담요 잠자리 속에 있었다'는 말이 되어 버립니다."},
+  {"t":"mod","q":"<b>the well-gnawed bones of two or three fowls</b> — 두세 개인 것은 무엇입니까?","a":"닭(fowls)이 두세 마리 — 뼈가 두세 개라는 뜻이 아닙니다","tip":"of 앞뒤를 뒤집어 읽기 쉽습니다. 닭 두세 마리를 뜯어 먹고 남긴 뼈라는 뜻입니다."}
+ ],
+ "33.72.0": [
+  {"t":"who","q":"<b>occupying a snug little cavern</b> — 그 아늑한 작은 굴을 차지하고 있던 것은 무엇입니까?","a":"보물 상자(the treasure-box)","tip":"분사구문의 주인은 그 문장의 주어인 It, 곧 보물 상자입니다. 사람이 굴을 차지하고 있는 장면이 아닙니다."},
+  {"t":"mod","q":"<b>along with an empty powder-keg, a couple of guns ...</b> 이하의 물건들은 어디에 있던 것입니까?","a":"상자 속이 아니라, 상자와 '함께' 그 굴 안에 놓여 있던 것들입니다","tip":"상자 안에 든 물건 목록으로 읽기 쉽습니다. along with 는 '~와 나란히 함께'입니다."},
+  {"t":"mod","q":"<b>well soaked with the water-drip</b> 는 무엇을 설명합니까?","a":"바로 앞의 some other rubbish(그 밖의 잡동사니)","tip":"나열된 물건 전부가 젖었다는 뜻으로 읽기 쉽지만, 마지막 항목에만 붙은 말입니다."}
+ ],
+ "33.83.0": [
+  {"t":"mod","q":"<b>the loft of the widow’s woodshed</b> 는 어디를 말합니까?","a":"더글러스 미망인네 장작 창고의 다락","tip":"of 앞뒤를 뒤집어 '다락에 있는 장작 창고'로 읽기 쉽습니다. A of B 는 'B의 A'입니다."},
+  {"t":"time","q":"<b>I’ll come up in the morning</b> — 톰이 올라오는 것은 언제입니까?","a":"다음 날 아침 — 아직 오지 않은 일입니다","tip":"지금은 해가 지고 어두워진 뒤입니다. 이미 아침에 왔다는 말로 읽으면 순서가 어긋납니다."},
+  {"t":"mod","q":"<b>where it will be safe</b> 는 무엇을 꾸밉니까?","a":"a place(자리) — 그 돈이 안전할 만한 자리","tip":"바로 앞의 the woods 를 꾸민다고 읽기 쉽지만 '숲이 안전하다'는 말이 아닙니다. 여기 it 은 그 돈입니다."}
+ ],
+ "33.84.0": [
+  {"t":"who","q":"<b>He disappeared, and presently returned with the wagon</b> — 사라졌다가 수레를 끌고 돌아온 사람은 누구입니까?","a":"톰","tip":"바로 앞에서 톰이 '너는 여기 가만히 지키고 있어, 내가 벤 테일러네 수레를 가져올게'라고 했습니다. 남아서 짐을 지킨 쪽이 헉입니다."},
+  {"t":"time","q":"<b>presently</b> 는 무슨 뜻입니까?","a":"곧, 이윽고(잠시 뒤에)","tip":"'현재·지금'이 아닙니다. 사라졌다가 조금 있다 돌아왔다는 뜻입니다."},
+  {"t":"pron","q":"<b>put the two small sacks into it</b> 의 it 은 무엇입니까?","a":"수레(the wagon)","tip":"바로 앞의 sacks 로 이어 잡기 쉽습니다. 자루를 수레에 실었다는 뜻입니다."},
+  {"t":"pron","q":"<b>threw some old rags on top of them</b> 의 them 은 무엇입니까?","a":"작은 자루 두 개(the two small sacks)","tip":"바로 앞의 it(수레)으로 이어 읽기 쉽습니다. 자루 위를 낡은 헝겊으로 덮어 감춘 것입니다."}
+ ],
+ "33.89.0": [
+  {"t":"who","q":"<b>the boys in this town will take more trouble ... than they would</b> — 여기서 they 는 누구입니까?","a":"이 동네 아이들(the boys in this town) — 앞의 주어와 같은 사람들입니다","tip":"주물 공장 사람들이나 어른들로 잡기 쉽습니다. 같은 아이들을 두 상황에 놓고 견주는 문장입니다."},
+  {"t":"time","q":"<b>will take more trouble and fool away more time</b> — 이것은 앞으로 일어날 일을 말합니까?","a":"아니요 — 늘 그러기 마련이라는 버릇·습성을 말합니다","tip":"여기서 will 은 미래가 아니라 '으레 ~하곤 한다'는 뜻입니다. 뒤에 But that’s human nature 가 이어집니다."},
+  {"t":"mod","q":"<b>six bits’ worth of old iron</b> 은 무슨 뜻입니까?","a":"75센트어치의 고철 — 값으로 따지면 얼마 안 되는 양","tip":"'고철 여섯 조각'이 아닙니다. bit 은 옛 돈 단위로 six bits 는 75센트입니다."},
+  {"t":"mod","q":"<b>more trouble ... than they would to make twice the money at regular work</b> — 아이들이 더 힘을 쏟는 쪽은 어느 쪽입니까?","a":"고철을 주우러 다니는 쪽 — 제대로 일해서 그 두 배를 벌 때보다 더 고생하고 시간도 더 버립니다","tip":"than 은 앞의 more trouble 과 more time 두 군데 모두에 걸립니다. 앞뒤를 뒤집으면 비꼬는 뜻이 사라집니다."}
+ ],
+ "33.100.0": [
+  {"t":"neg","q":"<b>Tom wasn’t at home, yet</b> — 말하는 사람이 찾아갔을 때 톰이 집에 있었습니까?","a":"아니요 — 아직 돌아와 있지 않았습니다","tip":"wasn’t 를 놓치면 '톰이 집에 있었다'가 되어 뒤의 gave him up 이 설명되지 않습니다."},
+  {"t":"who","q":"<b>so I gave him up</b> — 누가 무엇을 포기한 것입니까?","a":"말하는 사람(웨일스인 존스 씨)이 톰을 데려오기를 단념한 것입니다","tip":"give up 을 '넘겨주다'로 읽으면 톰을 남에게 넘긴 이야기가 되어 버립니다."},
+  {"t":"mod","q":"<b>right at my door</b> 의 right 은 무슨 뜻입니까?","a":"'바로' — 바로 우리 집 문간에서라는 뜻입니다","tip":"'오른쪽'으로 읽기 쉽습니다. right 이 전치사구 앞에 오면 '바로·꼭'이라는 강조입니다."},
+  {"t":"pron","q":"<b>I just brought them along in a hurry</b> 의 them 은 누구입니까?","a":"톰과 헉","tip":"짐이나 물건으로 잡기 쉽습니다. 앞의 him and Huck 을 한 번에 받는 말입니다."}
+ ]
+}

@@ -1,0 +1,925 @@
+[
+ {
+  "id": "21.0.4",
+  "en": "Mr. Dobbins’ lashings were very vigorous ones, too; for although he carried, under his wig, a perfectly bald and shiny head, he had only reached middle age, and there was no sign of feebleness in his muscle.",
+  "s": "Mr. Dobbins’ lashings",
+  "v": "were",
+  "ko": "도빈스 선생의 매질 또한 아주 힘찼다. 가발 밑에 완전히 벗어져 번들거리는 머리를 감추고 있기는 했어도, 그는 이제 겨우 중년에 접어들었을 뿐이라 근육에 쇠약한 기미라곤 없었기 때문이다.",
+  "chunks": [
+   {
+    "en": "Mr. Dobbins’ lashings were very vigorous ones, too;",
+    "ko": "도빈스 선생의 매질도 아주 힘찬 것이었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "for although he carried,",
+    "ko": "왜냐하면 그가 (~을) 이고 다니기는 했지만",
+    "r": "부사절(이유, for=because) + 양보절"
+   },
+   {
+    "en": "under his wig,",
+    "ko": "가발 밑에",
+    "r": "삽입(전치사구)"
+   },
+   {
+    "en": "a perfectly bald and shiny head,",
+    "ko": "완전히 벗어져 번들거리는 머리를",
+    "r": "목적어(carried의)"
+   },
+   {
+    "en": "he had only reached middle age,",
+    "ko": "그는 이제 겨우 중년에 이르렀을 뿐이었고",
+    "r": "주절"
+   },
+   {
+    "en": "and there was no sign of feebleness in his muscle.",
+    "ko": "그의 근육에는 쇠약한 기미가 전혀 없었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "21.0.5",
+  "en": "As the great day approached, all the tyranny that was in him came to the surface; he seemed to take a vindictive pleasure in punishing the least shortcomings.",
+  "s": "all the tyranny",
+  "v": "came",
+  "ko": "그 대단한 날이 다가오자 그의 안에 있던 온갖 폭군 기질이 겉으로 드러났다. 그는 아주 사소한 잘못을 벌하는 데서 앙갚음하는 듯한 쾌감을 느끼는 것 같았다.",
+  "chunks": [
+   {
+    "en": "As the great day approached,",
+    "ko": "그 대단한 날이 다가오자",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "all the tyranny that was in him",
+    "ko": "그의 안에 들어 있던 온갖 폭군 기질이",
+    "r": "주어(관계절 포함)"
+   },
+   {
+    "en": "came to the surface;",
+    "ko": "겉으로 떠올랐다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "he seemed to take a vindictive pleasure",
+    "ko": "그는 앙갚음하는 듯한 쾌감을 느끼는 것 같았다",
+    "r": "대등절(주어+동사)"
+   },
+   {
+    "en": "in punishing the least shortcomings.",
+    "ko": "아주 사소한 잘못을 벌하는 데서",
+    "r": "전치사구(~하는 데서)"
+   }
+  ]
+ },
+ {
+  "id": "21.0.13",
+  "en": "The master’s wife would go on a visit to the country in a few days, and there would be nothing to interfere with the plan; the master always prepared himself for great occasions by getting pretty well fuddled, and the signpainter’s boy said that when the dominie had reached the proper condition on Examination Evening he would “manage the thing” while he napped in his chair; then he would have him awakened at the right time and hurried away to school.",
+  "s": "The master’s wife",
+  "v": "would go",
+  "ko": "선생의 아내가 며칠 뒤 시골로 다니러 갈 예정이라 계획을 방해할 것이 아무것도 없을 터였다. 선생은 큰 행사를 앞두면 늘 술에 꽤 거나하게 취해 두는 버릇이 있었는데, 간판장이네 아들 말로는 시험 날 저녁에 선생이 적당한 상태에 이르면 의자에서 조는 사이에 자기가 '그 일을 처리하겠다'고 했다. 그런 다음 알맞은 때에 선생을 깨워 서둘러 학교로 보내겠다는 것이었다.",
+  "chunks": [
+   {
+    "en": "The master’s wife would go on a visit to the country",
+    "ko": "선생의 아내가 시골로 방문을 떠날 예정이었고",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "in a few days,",
+    "ko": "며칠 뒤에",
+    "r": "시간"
+   },
+   {
+    "en": "and there would be nothing to interfere with the plan;",
+    "ko": "그래서 계획을 방해할 것이 아무것도 없을 터였다",
+    "r": "대등절(There would be ~)"
+   },
+   {
+    "en": "the master always prepared himself for great occasions",
+    "ko": "선생은 늘 큰 행사에 대비해 몸을 만들어 두었다",
+    "r": "대등절(주어+동사)"
+   },
+   {
+    "en": "by getting pretty well fuddled,",
+    "ko": "술에 꽤 거나하게 취하는 방식으로",
+    "r": "전치사구(방법)"
+   },
+   {
+    "en": "and the signpainter’s boy said",
+    "ko": "그리고 간판장이네 아들이 말하기를",
+    "r": "대등절 + 전달동사"
+   },
+   {
+    "en": "that when the dominie had reached the proper condition",
+    "ko": "그 선생이 적당한 상태에 이르면",
+    "r": "목적어(that절) 안 부사절(때)"
+   },
+   {
+    "en": "on Examination Evening",
+    "ko": "시험 날 저녁에",
+    "r": "시간"
+   },
+   {
+    "en": "he would “manage the thing”",
+    "ko": "자기가 '그 일을 처리하겠다'고",
+    "r": "that절의 주절"
+   },
+   {
+    "en": "while he napped in his chair;",
+    "ko": "선생이 의자에서 조는 사이에",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "then he would have him awakened at the right time",
+    "ko": "그런 다음 알맞은 때에 선생을 깨우게 해서",
+    "r": "대등절(have + 목적어 + 과거분사)"
+   },
+   {
+    "en": "and hurried away to school.",
+    "ko": "서둘러 학교로 보내겠다는 것이었다",
+    "r": "대등(과거분사, have에 이어짐)"
+   }
+  ]
+ },
+ {
+  "id": "21.1.5",
+  "en": "To his left, back of the rows of citizens, was a spacious temporary platform upon which were seated the scholars who were to take part in the exercises of the evening; rows of small boys, washed and dressed to an intolerable state of discomfort; rows of gawky big boys; snowbanks of girls and young ladies clad in lawn and muslin and conspicuously conscious of their bare arms, their grandmothers’ ancient trinkets, their bits of pink and blue ribbon and the flowers in their hair.",
+  "s": "a spacious temporary platform",
+  "v": "was",
+  "ko": "그의 왼쪽, 시민들이 앉은 줄 뒤편에는 널찍한 임시 무대가 있었고 그 위에 그날 저녁 순서에 나설 학생들이 앉아 있었다. 참을 수 없을 만큼 불편하게 씻기고 차려입은 어린 남자아이들이 줄줄이, 껑충한 큰 남자아이들이 줄줄이, 그리고 얇은 무명과 모슬린 옷을 입고 드러난 팔이며 할머니들의 오래된 장신구, 분홍·파랑 리본 조각, 머리에 꽂은 꽃을 눈에 띄게 의식하는 여자아이들과 아가씨들이 눈더미처럼 모여 있었다.",
+  "chunks": [
+   {
+    "en": "To his left,",
+    "ko": "그의 왼쪽에는",
+    "r": "전치사구(장소, 도치)"
+   },
+   {
+    "en": "back of the rows of citizens,",
+    "ko": "시민들이 앉은 줄 뒤편에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "was a spacious temporary platform",
+    "ko": "널찍한 임시 무대가 있었다",
+    "r": "동사 + 주어(도치)"
+   },
+   {
+    "en": "upon which were seated the scholars",
+    "ko": "그 위에는 학생들이 앉아 있었는데",
+    "r": "관계절(도치)"
+   },
+   {
+    "en": "who were to take part in the exercises of the evening;",
+    "ko": "그날 저녁 순서에 참가할 학생들이었다",
+    "r": "관계절(scholars 설명)"
+   },
+   {
+    "en": "rows of small boys,",
+    "ko": "줄줄이 앉은 어린 남자아이들",
+    "r": "동격(나열)"
+   },
+   {
+    "en": "washed and dressed to an intolerable state of discomfort;",
+    "ko": "참을 수 없을 만큼 불편할 정도로 씻기고 차려입은",
+    "r": "과거분사구(boys 설명)"
+   },
+   {
+    "en": "rows of gawky big boys;",
+    "ko": "줄줄이 앉은 껑충한 큰 남자아이들",
+    "r": "나열"
+   },
+   {
+    "en": "snowbanks of girls and young ladies",
+    "ko": "눈더미 같은 여자아이들과 아가씨들",
+    "r": "나열"
+   },
+   {
+    "en": "clad in lawn and muslin",
+    "ko": "얇은 무명과 모슬린 옷을 차려입고",
+    "r": "과거분사구(설명)"
+   },
+   {
+    "en": "and conspicuously conscious of their bare arms,",
+    "ko": "드러난 자기 팔을 눈에 띄게 의식하는",
+    "r": "형용사구"
+   },
+   {
+    "en": "their grandmothers’ ancient trinkets,",
+    "ko": "할머니들의 오래된 장신구",
+    "r": "나열"
+   },
+   {
+    "en": "their bits of pink and blue ribbon and the flowers in their hair.",
+    "ko": "분홍·파랑 리본 조각과 머리에 꽂은 꽃까지도",
+    "r": "나열"
+   }
+  ]
+ },
+ {
+  "id": "21.2.1",
+  "en": "A very little boy stood up and sheepishly recited, “You’d scarce expect one of my age to speak in public on the stage,” etc.—accompanying himself with the painfully exact and spasmodic gestures which a machine might have used—supposing the machine to be a trifle out of order.",
+  "s": "A very little boy",
+  "v": "stood",
+  "ko": "아주 작은 남자아이가 일어서서 수줍게 \"제 나이 또래가 무대 위에서 여러 사람 앞에 말하리라고는 거의 기대하지 않으시겠지요\" 어쩌고를 낭송했다. 그러면서 기계나 썼을 법한, 고통스러울 만큼 정확하고 발작적인 동작을 곁들였다—그것도 어딘가 살짝 고장 난 기계라고 치면 말이다.",
+  "chunks": [
+   {
+    "en": "A very little boy stood up and sheepishly recited,",
+    "ko": "아주 작은 남자아이가 일어서서 수줍게 낭송했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "“You’d scarce expect one of my age",
+    "ko": "'제 나이 또래가 ~하리라고는 거의 기대하지 않으시겠지요'",
+    "r": "인용(낭송 내용)"
+   },
+   {
+    "en": "to speak in public on the stage,” etc.—accompanying himself",
+    "ko": "'무대 위에서 여러 사람 앞에 말하리라고는' 등등—그러면서 스스로 곁들였다",
+    "r": "인용 끝 + 곁말(대시, ~하면서)"
+   },
+   {
+    "en": "with the painfully exact and spasmodic gestures",
+    "ko": "고통스러울 만큼 정확하고 발작적인 동작을",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "which a machine might have used—supposing the machine to be a trifle out of order.",
+    "ko": "기계나 썼을 법한 동작을—그것도 어딘가 살짝 고장 난 기계라고 치면",
+    "r": "관계절 + 곁말(대시, 가정)"
+   }
+  ]
+ },
+ {
+  "id": "21.4.0",
+  "en": "Tom Sawyer stepped forward with conceited confidence and soared into the unquenchable and indestructible “Give me liberty or give me death” speech, with fine fury and frantic gesticulation, and broke down in the middle of it.",
+  "s": "Tom Sawyer",
+  "v": "stepped",
+  "ko": "톰 소여는 우쭐한 자신감을 안고 앞으로 나서서, 꺼지지도 부서지지도 않는 그 유명한 \"자유가 아니면 죽음을 달라\" 연설로 멋진 격정과 미친 듯한 손짓과 함께 힘차게 날아올랐다—그러다 한복판에서 막혀 버렸다.",
+  "chunks": [
+   {
+    "en": "Tom Sawyer stepped forward with conceited confidence",
+    "ko": "톰 소여가 우쭐한 자신감을 안고 앞으로 나섰다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "and soared into the unquenchable and indestructible",
+    "ko": "그리고 꺼지지도 부서지지도 않는",
+    "r": "대등 동사 + 형용사"
+   },
+   {
+    "en": "“Give me liberty or give me death” speech,",
+    "ko": "'자유가 아니면 죽음을 달라' 연설로 힘차게 날아올랐다",
+    "r": "목적어(연설 제목)"
+   },
+   {
+    "en": "with fine fury and frantic gesticulation,",
+    "ko": "멋진 격정과 미친 듯한 손짓을 곁들여",
+    "r": "전치사구(방식)"
+   },
+   {
+    "en": "and broke down in the middle of it.",
+    "ko": "그러다 한복판에서 막혀 버렸다",
+    "r": "대등 동사(반전)"
+   }
+  ]
+ },
+ {
+  "id": "21.5.6",
+  "en": "“Friendship” was one; “Memories of Other Days”; “Religion in History”; “Dream Land”; “The Advantages of Culture”; “Forms of Political Government Compared and Contrasted”; “Melancholy”; “Filial Love”; “Heart Longings,” etc., etc.",
+  "s": "“Friendship”",
+  "v": "was",
+  "ko": "'우정'이 그중 하나였고, '지난날의 추억', '역사 속의 종교', '꿈나라', '교양의 이로움', '정치 체제의 비교와 대조', '우울', '효심', '마음의 그리움' 등등이 이어졌다.",
+  "chunks": [
+   {
+    "en": "“Friendship” was one;",
+    "ko": "'우정'이 그중 하나였다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "“Memories of Other Days”; “Religion in History”;",
+    "ko": "'지난날의 추억', '역사 속의 종교'",
+    "r": "나열(제목)"
+   },
+   {
+    "en": "“Dream Land”; “The Advantages of Culture”;",
+    "ko": "'꿈나라', '교양의 이로움'",
+    "r": "나열(제목)"
+   },
+   {
+    "en": "“Forms of Political Government Compared and Contrasted”;",
+    "ko": "'정치 체제의 비교와 대조'",
+    "r": "나열(제목)"
+   },
+   {
+    "en": "“Melancholy”; “Filial Love”;",
+    "ko": "'우울', '효심'",
+    "r": "나열(제목)"
+   },
+   {
+    "en": "“Heart Longings,” etc., etc.",
+    "ko": "'마음의 그리움' 등등",
+    "r": "나열 마무리"
+   }
+  ]
+ },
+ {
+  "id": "21.6.0",
+  "en": "A prevalent feature in these compositions was a nursed and petted melancholy; another was a wasteful and opulent gush of “fine language”; another was a tendency to lug in by the ears particularly prized words and phrases until they were worn entirely out; and a peculiarity that conspicuously marked and marred them was the inveterate and intolerable sermon that wagged its crippled tail at the end of each and every one of them.",
+  "s": "A prevalent feature",
+  "v": "was",
+  "ko": "이 작문들에 널리 퍼진 특징 하나는 애지중지 길러 낸 우울이었다. 또 하나는 흥청망청 쏟아 붓는 '고상한 말'의 홍수였고, 또 하나는 특별히 아끼는 낱말과 표현을 완전히 닳아 없어질 때까지 억지로 끌어다 붙이는 버릇이었다. 그리고 그 글들을 눈에 띄게 특징짓고 또 망쳐 놓은 버릇은, 글마다 하나같이 그 끝에서 절름발이 꼬리를 흔들어 대는 고질적이고 참을 수 없는 설교였다.",
+  "chunks": [
+   {
+    "en": "A prevalent feature in these compositions",
+    "ko": "이 작문들에 널리 퍼진 특징 하나는",
+    "r": "주어"
+   },
+   {
+    "en": "was a nursed and petted melancholy;",
+    "ko": "애지중지 길러 낸 우울이었다",
+    "r": "동사 + 보어"
+   },
+   {
+    "en": "another was a wasteful and opulent gush of “fine language”;",
+    "ko": "또 하나는 흥청망청 쏟아 붓는 '고상한 말'의 홍수였다",
+    "r": "대등절"
+   },
+   {
+    "en": "another was a tendency to lug in by the ears",
+    "ko": "또 하나는 억지로 끌어다 붙이는 버릇이었다",
+    "r": "대등절"
+   },
+   {
+    "en": "particularly prized words and phrases",
+    "ko": "특별히 아끼는 낱말과 표현들을",
+    "r": "목적어(lug in의)"
+   },
+   {
+    "en": "until they were worn entirely out;",
+    "ko": "그것들이 완전히 닳아 없어질 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and a peculiarity that conspicuously marked and marred them",
+    "ko": "그리고 그 글들을 눈에 띄게 특징짓고 또 망쳐 놓은 버릇 하나는",
+    "r": "대등절 주어(관계절 포함)"
+   },
+   {
+    "en": "was the inveterate and intolerable sermon",
+    "ko": "고질적이고 참을 수 없는 설교였다",
+    "r": "동사 + 보어"
+   },
+   {
+    "en": "that wagged its crippled tail",
+    "ko": "절름발이 꼬리를 흔들어 대는",
+    "r": "관계절(sermon 설명)"
+   },
+   {
+    "en": "at the end of each and every one of them.",
+    "ko": "글마다 하나같이 그 끝에서",
+    "r": "전치사구(위치)"
+   }
+  ]
+ },
+ {
+  "id": "21.6.1",
+  "en": "No matter what the subject might be, a brainracking effort was made to squirm it into some aspect or other that the moral and religious mind could contemplate with edification.",
+  "s": "a brainracking effort",
+  "v": "was made",
+  "ko": "주제가 무엇이든 상관없이, 그것을 어떻게든 도덕적이고 종교적인 마음이 교훈을 얻으며 곱씹을 만한 측면으로 비틀어 넣으려는 머리 쥐어짜는 노력이 뒤따랐다.",
+  "chunks": [
+   {
+    "en": "No matter what the subject might be,",
+    "ko": "주제가 무엇이든 상관없이",
+    "r": "부사절(양보)"
+   },
+   {
+    "en": "a brainracking effort was made",
+    "ko": "머리를 쥐어짜는 노력이 이루어졌다",
+    "r": "주어 + 동사(수동)"
+   },
+   {
+    "en": "to squirm it into some aspect or other",
+    "ko": "그것을 어떻게든 어떤 측면으로 비틀어 넣으려고",
+    "r": "목적(to부정사)"
+   },
+   {
+    "en": "that the moral and religious mind could contemplate with edification.",
+    "ko": "도덕적이고 종교적인 마음이 교훈을 얻으며 곱씹을 수 있는",
+    "r": "관계절(aspect 설명)"
+   }
+  ]
+ },
+ {
+  "id": "21.6.2",
+  "en": "The glaring insincerity of these sermons was not sufficient to compass the banishment of the fashion from the schools, and it is not sufficient today; it never will be sufficient while the world stands, perhaps.",
+  "s": "The glaring insincerity",
+  "v": "was",
+  "ko": "이 설교들의 뻔히 들여다보이는 거짓됨도 그런 유행을 학교에서 몰아내기에는 충분하지 못했고, 오늘날에도 충분하지 않다. 아마 세상이 존재하는 한 앞으로도 결코 충분하지 않을 것이다.",
+  "chunks": [
+   {
+    "en": "The glaring insincerity of these sermons",
+    "ko": "이 설교들의 뻔히 보이는 거짓됨은",
+    "r": "주어"
+   },
+   {
+    "en": "was not sufficient to compass the banishment",
+    "ko": "추방을 이루어 내기에는 충분하지 못했다",
+    "r": "동사 + 보어 + to부정사"
+   },
+   {
+    "en": "of the fashion from the schools,",
+    "ko": "그 유행을 학교에서 (몰아내기에는)",
+    "r": "전치사구"
+   },
+   {
+    "en": "and it is not sufficient today;",
+    "ko": "오늘날에도 충분하지 않다",
+    "r": "대등절"
+   },
+   {
+    "en": "it never will be sufficient",
+    "ko": "앞으로도 결코 충분하지 않을 것이다",
+    "r": "대등절"
+   },
+   {
+    "en": "while the world stands, perhaps.",
+    "ko": "세상이 서 있는 동안은, 아마도",
+    "r": "부사절(때) + 부사"
+   }
+  ]
+ },
+ {
+  "id": "21.6.3",
+  "en": "There is no school in all our land where the young ladies do not feel obliged to close their compositions with a sermon; and you will find that the sermon of the most frivolous and the least religious girl in the school is always the longest and the most relentlessly pious.",
+  "s": "no school",
+  "v": "is",
+  "ko": "우리 땅 어느 학교에도 여학생들이 작문을 설교로 끝맺어야 한다고 느끼지 않는 곳은 없다. 그리고 학교에서 가장 경박하고 신앙심이라곤 가장 없는 여학생의 설교가 언제나 가장 길고 가장 가차 없이 경건하다는 것을 알게 될 것이다.",
+  "chunks": [
+   {
+    "en": "There is no school in all our land",
+    "ko": "우리 땅 어디에도 학교가 없다",
+    "r": "There is + 주어"
+   },
+   {
+    "en": "where the young ladies do not feel obliged",
+    "ko": "여학생들이 의무감을 느끼지 않는 (학교는)",
+    "r": "관계절(school 설명)"
+   },
+   {
+    "en": "to close their compositions with a sermon;",
+    "ko": "자기 작문을 설교로 끝맺어야 한다는",
+    "r": "to부정사"
+   },
+   {
+    "en": "and you will find that the sermon",
+    "ko": "그리고 당신은 알게 될 것이다, 그 설교가",
+    "r": "대등절 + 목적어(that절) 주어"
+   },
+   {
+    "en": "of the most frivolous and the least religious girl in the school",
+    "ko": "학교에서 가장 경박하고 가장 신앙심 없는 여학생의 (설교가)",
+    "r": "전치사구(sermon 수식)"
+   },
+   {
+    "en": "is always the longest and the most relentlessly pious.",
+    "ko": "언제나 가장 길고 가장 가차 없이 경건하다는 것을",
+    "r": "that절 동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "21.8.3",
+  "en": "Her graceful form, arrayed in snowy robes, is whirling through the mazes of the joyous dance; her eye is brightest, her step is lightest in the gay assembly.",
+  "s": "Her graceful form",
+  "v": "is whirling",
+  "ko": "눈처럼 흰 드레스를 차려입은 그녀의 우아한 자태가 즐거운 춤의 미로 사이를 빙글빙글 돌고 있다. 그 화려한 모임에서 그녀의 눈이 가장 빛나고, 그녀의 발걸음이 가장 가볍다.",
+  "chunks": [
+   {
+    "en": "Her graceful form,",
+    "ko": "그녀의 우아한 자태가",
+    "r": "주어"
+   },
+   {
+    "en": "arrayed in snowy robes,",
+    "ko": "눈처럼 흰 드레스를 차려입고",
+    "r": "과거분사구(form 설명)"
+   },
+   {
+    "en": "is whirling through the mazes of the joyous dance;",
+    "ko": "즐거운 춤의 미로 사이를 빙글빙글 돌고 있다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "her eye is brightest,",
+    "ko": "그녀의 눈이 가장 빛나고",
+    "r": "대등절"
+   },
+   {
+    "en": "her step is lightest in the gay assembly.",
+    "ko": "그 화려한 모임에서 그녀의 발걸음이 가장 가볍다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "21.9.3",
+  "en": "But after a while she finds that beneath this goodly exterior, all is vanity, the flattery which once charmed her soul, now grates harshly upon her ear; the ballroom has lost its charms; and with wasted health and imbittered heart, she turns away with the conviction that earthly pleasures cannot satisfy the longings of the soul!”",
+  "s": "she",
+  "v": "finds",
+  "ko": "그러나 얼마 지나지 않아 그녀는 이 번듯한 겉모습 아래 모든 것이 헛되다는 것을 알게 된다. 한때 그녀의 영혼을 홀리던 아첨은 이제 귀에 거슬리게 긁히고, 무도회장은 매력을 잃었다. 그리하여 상한 건강과 쓰라린 마음을 안고 그녀는 이 땅의 즐거움으로는 영혼의 갈망을 채울 수 없다는 확신을 품은 채 돌아선다!\"",
+  "chunks": [
+   {
+    "en": "But after a while she finds",
+    "ko": "그러나 얼마 지나지 않아 그녀는 알게 된다",
+    "r": "접속 + 시간 + 주어 + 동사"
+   },
+   {
+    "en": "that beneath this goodly exterior, all is vanity,",
+    "ko": "이 번듯한 겉모습 아래 모든 것이 헛되다는 것을",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "the flattery which once charmed her soul,",
+    "ko": "한때 그녀의 영혼을 홀리던 아첨이",
+    "r": "주어(관계절 포함)"
+   },
+   {
+    "en": "now grates harshly upon her ear;",
+    "ko": "이제는 귀에 거슬리게 긁힌다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "the ballroom has lost its charms;",
+    "ko": "무도회장은 매력을 잃었다",
+    "r": "대등절"
+   },
+   {
+    "en": "and with wasted health and imbittered heart,",
+    "ko": "그리하여 상한 건강과 쓰라린 마음을 안고",
+    "r": "전치사구(상태)"
+   },
+   {
+    "en": "she turns away with the conviction",
+    "ko": "그녀는 이런 확신을 품고 돌아선다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that earthly pleasures cannot satisfy the longings of the soul!”",
+    "ko": "이 땅의 즐거움으로는 영혼의 갈망을 채울 수 없다는 (확신을)",
+    "r": "동격 that절(conviction 설명)"
+   }
+  ]
+ },
+ {
+  "id": "21.14.0",
+  "en": "“Yet shame I not to bear an o’erfull heart, Nor blush to turn behind my tearful eyes; ’Tis from no stranger land I now must part, ’Tis to no strangers left I yield these sighs.",
+  "s": "I",
+  "v": "shame",
+  "ko": "\"그래도 나는 벅찬 가슴을 안는 것을 부끄러워하지 않으며, 눈물 젖은 눈을 돌리는 것도 부끄러워하지 않는다. 내가 이제 떠나야 하는 곳은 낯선 땅이 아니요, 내가 이 한숨을 바치는 이들도 뒤에 남는 낯선 사람들이 아니니.",
+  "chunks": [
+   {
+    "en": "“Yet shame I not to bear an o’erfull heart,",
+    "ko": "그래도 나는 벅찬 가슴을 안는 것을 부끄러워하지 않으며",
+    "r": "도치(동사+주어) + to부정사"
+   },
+   {
+    "en": "Nor blush to turn behind my tearful eyes;",
+    "ko": "눈물 젖은 눈을 돌리는 것도 부끄러워 얼굴 붉히지 않는다",
+    "r": "대등(부정어 Nor로 시작)"
+   },
+   {
+    "en": "’Tis from no stranger land I now must part,",
+    "ko": "내가 이제 떠나야 하는 곳은 낯선 땅이 아니요",
+    "r": "It is ~ (that) 강조"
+   },
+   {
+    "en": "’Tis to no strangers left I yield these sighs.",
+    "ko": "내가 이 한숨을 바치는 이들도 뒤에 남은 낯선 사람들이 아니다",
+    "r": "It is ~ (that) 강조"
+   }
+  ]
+ },
+ {
+  "id": "21.14.1",
+  "en": "Welcome and home were mine within this State, Whose vales I leave—whose spires fade fast from me And cold must be mine eyes, and heart, and tête, When, dear Alabama! they turn cold on thee!”",
+  "s": "Welcome and home",
+  "v": "were",
+  "ko": "\"환대와 보금자리가 이 주(州) 안에서 내 것이었네. 내가 떠나는 그 골짜기들, 내게서 빠르게 멀어지는 그 첨탑들이여. 그리고 사랑하는 앨라배마여, 내 눈과 마음과 머리가 그대에게 차가워지는 날이 온다면, 그때는 그것들도 차갑게 식어 버리고 말리라!\"",
+  "chunks": [
+   {
+    "en": "Welcome and home were mine within this State,",
+    "ko": "환대와 보금자리가 이 주(州) 안에서 내 것이었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "Whose vales I leave—whose spires fade fast from me",
+    "ko": "내가 떠나는 그 골짜기들, 내게서 빠르게 멀어지는 그 첨탑들",
+    "r": "관계절(State 설명) + 곁말(대시)"
+   },
+   {
+    "en": "And cold must be mine eyes, and heart, and tête,",
+    "ko": "그리고 내 눈도, 마음도, 머리도 차가워지고 말리라",
+    "r": "대등절(보어 cold 앞으로 도치)"
+   },
+   {
+    "en": "When, dear Alabama! they turn cold on thee!”",
+    "ko": "사랑하는 앨라배마여, 그것들이 그대에게 차가워질 그때에는",
+    "r": "부사절(때) + 삽입 호격"
+   }
+  ]
+ },
+ {
+  "id": "21.18.1",
+  "en": "Around the throne on high not a single star quivered; but the deep intonations of the heavy thunder constantly vibrated upon the ear; whilst the terrific lightning revelled in angry mood through the cloudy chambers of heaven, seeming to scorn the power exerted over its terror by the illustrious Franklin!",
+  "s": "not a single star",
+  "v": "quivered",
+  "ko": "저 높은 곳의 옥좌 둘레에는 별 하나 반짝이지 않았다. 그러나 묵직한 천둥의 깊은 울림이 끊임없이 귓전을 울렸고, 그러는 동안 무시무시한 번개는 하늘의 구름 방들을 가로지르며 성난 기세로 날뛰었다. 저 유명한 프랭클린이 그 공포 위에 휘두른 힘을 비웃기라도 하듯이!",
+  "chunks": [
+   {
+    "en": "Around the throne on high",
+    "ko": "저 높은 곳의 옥좌 둘레에는",
+    "r": "전치사구(장소, 앞으로 나옴)"
+   },
+   {
+    "en": "not a single star quivered;",
+    "ko": "별 하나 반짝이지 않았다",
+    "r": "주어(부정) + 동사"
+   },
+   {
+    "en": "but the deep intonations of the heavy thunder",
+    "ko": "그러나 묵직한 천둥의 깊은 울림은",
+    "r": "대등절 주어"
+   },
+   {
+    "en": "constantly vibrated upon the ear;",
+    "ko": "끊임없이 귓전을 울렸다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "whilst the terrific lightning revelled in angry mood",
+    "ko": "그러는 동안 무시무시한 번개는 성난 기세로 날뛰었다",
+    "r": "부사절(대조·동시)"
+   },
+   {
+    "en": "through the cloudy chambers of heaven,",
+    "ko": "하늘의 구름 방들을 가로질러",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "seeming to scorn the power",
+    "ko": "그 힘을 비웃는 듯이",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "exerted over its terror by the illustrious Franklin!",
+    "ko": "저 유명한 프랭클린이 그 공포 위에 휘두른 (힘을)",
+    "r": "과거분사구(power 설명)"
+   }
+  ]
+ },
+ {
+  "id": "21.21.1",
+  "en": "So soft was her step, it failed to make even a sound, and but for the magical thrill imparted by her genial touch, as other unobtrusive beauties, she would have glided away unperceived—unsought.",
+  "s": "her step",
+  "v": "was",
+  "ko": "그녀의 발걸음이 어찌나 부드러웠던지 소리 하나 나지 않았다. 그리고 그녀의 다정한 손길이 전해 준 신비로운 전율이 없었더라면, 눈에 띄지 않는 다른 미인들처럼 그녀도 아무에게도 들키지 않고—아무도 찾지 않는 채로 미끄러지듯 사라졌을 것이다.",
+  "chunks": [
+   {
+    "en": "So soft was her step,",
+    "ko": "그녀의 발걸음이 어찌나 부드러웠던지",
+    "r": "도치(보어 So soft가 앞)"
+   },
+   {
+    "en": "it failed to make even a sound,",
+    "ko": "소리 한 번 내지 못했다",
+    "r": "결과절"
+   },
+   {
+    "en": "and but for the magical thrill",
+    "ko": "그리고 그 신비로운 전율이 없었더라면",
+    "r": "가정(but for = ~이 없었더라면)"
+   },
+   {
+    "en": "imparted by her genial touch,",
+    "ko": "그녀의 다정한 손길이 전해 준 (전율이)",
+    "r": "과거분사구(thrill 설명)"
+   },
+   {
+    "en": "as other unobtrusive beauties,",
+    "ko": "눈에 띄지 않는 다른 미인들처럼",
+    "r": "비교(~처럼)"
+   },
+   {
+    "en": "she would have glided away unperceived—unsought.",
+    "ko": "그녀는 누구의 눈에도 띄지 않고—찾는 이도 없이 미끄러지듯 사라졌을 것이다",
+    "r": "주절(가정법) + 곁말(대시)"
+   }
+  ]
+ },
+ {
+  "id": "21.22.2",
+  "en": "The mayor of the village, in delivering the prize to the author of it, made a warm speech in which he said that it was by far the most “eloquent” thing he had ever listened to, and that Daniel Webster himself might well be proud of it.",
+  "s": "The mayor",
+  "v": "made",
+  "ko": "마을 시장은 그 글의 지은이에게 상을 건네면서 따뜻한 연설을 했는데, 그 연설에서 그는 그것이 자기가 여태 들어 본 것 중 단연코 가장 '웅변다운' 글이며 대니얼 웹스터 본인이라도 자랑스러워할 만하다고 말했다.",
+  "chunks": [
+   {
+    "en": "The mayor of the village,",
+    "ko": "마을 시장이",
+    "r": "주어"
+   },
+   {
+    "en": "in delivering the prize to the author of it,",
+    "ko": "그 글의 지은이에게 상을 건네면서",
+    "r": "삽입(전치사 + 동명사, ~하면서)"
+   },
+   {
+    "en": "made a warm speech",
+    "ko": "따뜻한 연설을 했다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "in which he said that it was by far the most “eloquent” thing",
+    "ko": "그 연설에서 그는 그것이 단연코 가장 '웅변다운' 글이라고 말했다",
+    "r": "관계절 + 목적어(that절)"
+   },
+   {
+    "en": "he had ever listened to,",
+    "ko": "자기가 여태 들어 본 것 중에",
+    "r": "관계절(thing 설명)"
+   },
+   {
+    "en": "and that Daniel Webster himself might well be proud of it.",
+    "ko": "그리고 대니얼 웹스터 본인이라도 자랑스러워할 만하다고",
+    "r": "목적어(둘째 that절)"
+   }
+  ]
+ },
+ {
+  "id": "21.23.0",
+  "en": "It may be remarked, in passing, that the number of compositions in which the word “beauteous” was over-fondled, and human experience referred to as “life’s page,” was up to the usual average.",
+  "s": "It",
+  "v": "may be remarked",
+  "ko": "지나가는 말로 덧붙이자면, '아리따운'이라는 낱말을 지나치게 어루만지고 인간의 경험을 '인생의 한 페이지'라 불러 댄 작문의 수는 여느 때의 평균치에 이르렀다.",
+  "chunks": [
+   {
+    "en": "It may be remarked, in passing,",
+    "ko": "지나가는 말로 이렇게 언급해 둘 만하다",
+    "r": "가주어 + 동사(수동) + 삽입"
+   },
+   {
+    "en": "that the number of compositions",
+    "ko": "작문의 개수가",
+    "r": "진주어(that절)의 주어"
+   },
+   {
+    "en": "in which the word “beauteous” was over-fondled,",
+    "ko": "'아리따운'이라는 낱말을 지나치게 쓰다듬어 댄",
+    "r": "관계절(compositions 설명)"
+   },
+   {
+    "en": "and human experience referred to as “life’s page,”",
+    "ko": "그리고 인간의 경험을 '인생의 한 페이지'라고 불러 댄",
+    "r": "관계절(and로 이어짐)"
+   },
+   {
+    "en": "was up to the usual average.",
+    "ko": "여느 때의 평균에 이르렀다는 것을",
+    "r": "that절 동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "21.24.0",
+  "en": "Now the master, mellow almost to the verge of geniality, put his chair aside, turned his back to the audience, and began to draw a map of America on the blackboard, to exercise the geography class upon.",
+  "s": "the master",
+  "v": "put",
+  "ko": "이제 선생은 거의 상냥해질 지경까지 알딸딸해진 채 의자를 옆으로 밀어 놓고, 청중에게 등을 돌리고, 칠판에 미국 지도를 그리기 시작했다. 지리 수업 문제를 낼 밑그림으로 쓰려는 것이었다.",
+  "chunks": [
+   {
+    "en": "Now the master,",
+    "ko": "이제 선생이",
+    "r": "부사 + 주어"
+   },
+   {
+    "en": "mellow almost to the verge of geniality,",
+    "ko": "거의 상냥해질 지경까지 알딸딸해진 채",
+    "r": "삽입(형용사구, master 설명)"
+   },
+   {
+    "en": "put his chair aside,",
+    "ko": "의자를 옆으로 밀어 놓고",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "turned his back to the audience,",
+    "ko": "청중에게 등을 돌리고",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and began to draw a map of America on the blackboard,",
+    "ko": "칠판에 미국 지도를 그리기 시작했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "to exercise the geography class upon.",
+    "ko": "지리 수업 문제를 낼 밑그림으로 쓰려고",
+    "r": "목적(to부정사)"
+   }
+  ]
+ },
+ {
+  "id": "21.24.7",
+  "en": "There was a garret above, pierced with a scuttle over his head; and down through this scuttle came a cat, suspended around the haunches by a string; she had a rag tied about her head and jaws to keep her from mewing; as she slowly descended she curved upward and clawed at the string, she swung downward and clawed at the intangible air.",
+  "s": "a garret",
+  "v": "was",
+  "ko": "위쪽에 다락방이 있었고 선생의 머리 바로 위에 뚜껑 구멍이 뚫려 있었다. 그리고 그 구멍으로 고양이 한 마리가 엉덩이께를 끈에 묶인 채 매달려 내려왔다. 고양이는 울지 못하도록 머리와 턱에 헝겊이 동여매져 있었다. 천천히 내려오면서 고양이는 몸을 위로 굽혀 끈을 할퀴다가, 아래로 흔들리며 잡히지 않는 허공을 할퀴었다.",
+  "chunks": [
+   {
+    "en": "There was a garret above,",
+    "ko": "위쪽에 다락방이 있었는데",
+    "r": "There + 동사 + 주어"
+   },
+   {
+    "en": "pierced with a scuttle over his head;",
+    "ko": "선생의 머리 바로 위에 뚜껑 구멍이 뚫려 있었다",
+    "r": "과거분사구(garret 설명)"
+   },
+   {
+    "en": "and down through this scuttle came a cat,",
+    "ko": "그리고 그 구멍으로 고양이 한 마리가 내려왔다",
+    "r": "도치(부사구 앞) + 동사 + 주어"
+   },
+   {
+    "en": "suspended around the haunches by a string;",
+    "ko": "엉덩이께를 끈으로 묶여 매달린 채",
+    "r": "과거분사구(cat 설명)"
+   },
+   {
+    "en": "she had a rag tied about her head and jaws",
+    "ko": "고양이는 머리와 턱에 헝겊이 동여매져 있었다",
+    "r": "대등절(have + 목적어 + 과거분사)"
+   },
+   {
+    "en": "to keep her from mewing;",
+    "ko": "울지 못하게 하려고",
+    "r": "목적(to부정사)"
+   },
+   {
+    "en": "as she slowly descended",
+    "ko": "천천히 내려오면서",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "she curved upward and clawed at the string,",
+    "ko": "고양이는 몸을 위로 굽혀 끈을 할퀴었고",
+    "r": "주절"
+   },
+   {
+    "en": "she swung downward and clawed at the intangible air.",
+    "ko": "아래로 흔들리며 잡히지 않는 허공을 할퀴었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "21.24.8",
+  "en": "The tittering rose higher and higher—the cat was within six inches of the absorbed teacher’s head—down, down, a little lower, and she grabbed his wig with her desperate claws, clung to it, and was snatched up into the garret in an instant with her trophy still in her possession!",
+  "s": "The tittering",
+  "v": "rose",
+  "ko": "킥킥거리는 소리가 점점 더 커졌다—고양이는 몰두한 선생의 머리에서 6인치 앞까지 와 있었다—아래로, 아래로, 조금만 더 아래로. 그러다 고양이가 필사적인 발톱으로 선생의 가발을 움켜쥐고 거기 매달렸고, 전리품을 여전히 움켜쥔 채 순식간에 다락으로 낚아채여 올라갔다!",
+  "chunks": [
+   {
+    "en": "The tittering rose higher and higher—the cat was within six inches",
+    "ko": "킥킥거리는 소리가 점점 커졌다—고양이는 6인치 앞까지 와 있었다",
+    "r": "주어 + 동사 + 곁말(대시)"
+   },
+   {
+    "en": "of the absorbed teacher’s head—down, down, a little lower,",
+    "ko": "몰두한 선생의 머리에서—아래로, 아래로, 조금만 더 아래로",
+    "r": "전치사구 + 곁말(대시)"
+   },
+   {
+    "en": "and she grabbed his wig with her desperate claws,",
+    "ko": "그러다 고양이가 필사적인 발톱으로 선생의 가발을 움켜쥐었고",
+    "r": "대등절"
+   },
+   {
+    "en": "clung to it,",
+    "ko": "거기 매달렸다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and was snatched up into the garret in an instant",
+    "ko": "그리고 순식간에 다락으로 낚아채여 올라갔다",
+    "r": "대등 동사(수동)"
+   },
+   {
+    "en": "with her trophy still in her possession!",
+    "ko": "전리품을 여전히 움켜쥔 채로",
+    "r": "전치사구(부대상황)"
+   }
+  ]
+ }
+]

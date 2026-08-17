@@ -1,0 +1,374 @@
+[
+ {
+  "id": "13.0.2",
+  "en": "He was a forsaken, friendless boy, he said; nobody loved him; when they found out what they had driven him to, perhaps they would be sorry; he had tried to do right and get along, but they would not let him; since nothing would do them but to be rid of him, let it be so; and let them blame him for the consequences—why shouldn’t they?",
+  "s": "He",
+  "v": "was",
+  "chunks": [
+   {"en": "He was a forsaken, friendless boy, he said;", "ko": "자기는 버림받고 친구도 없는 아이라고 그는 말했다", "r": "주어 + 동사 + 보어 + 전달동사"},
+   {"en": "nobody loved him;", "ko": "아무도 자기를 사랑하지 않는다고", "r": "대등절"},
+   {"en": "when they found out what they had driven him to,", "ko": "자기를 어디까지 몰아붙였는지 그들이 알게 되면", "r": "부사절(때)"},
+   {"en": "perhaps they would be sorry;", "ko": "아마 후회하게 되겠지", "r": "주절"},
+   {"en": "he had tried to do right and get along,", "ko": "바르게 살고 잘 지내 보려고 애썼지만", "r": "대등절"},
+   {"en": "but they would not let him;", "ko": "그들이 그러게 놔두질 않았다", "r": "대등절(반전)"},
+   {"en": "since nothing would do them but to be rid of him,", "ko": "자기를 떼어 버리는 것 말고는 그들 성에 차는 게 없다니", "r": "부사절(이유)"},
+   {"en": "let it be so;", "ko": "그럼 그렇게 하라지", "r": "명령문"},
+   {"en": "and let them blame him for the consequences—why shouldn’t they?", "ko": "그 결과에 대해서는 자기를 탓하라지—탓하면 안 될 게 뭐람?", "r": "대등(명령문) + 곁말(대시, 되묻기)"}
+  ],
+  "ko": "자기는 버림받고 친구도 없는 아이라고 그는 말했다. 아무도 자기를 사랑하지 않는다고. 자기들이 자기를 어디까지 몰아붙였는지 알게 되면 아마 후회하겠지. 바르게 살고 잘 지내 보려고 애썼지만 그들이 놔두질 않았다. 자기를 떼어 버리는 것 말고는 그들 성에 차는 게 없다니, 그럼 그렇게 하라지. 그리고 그 결과에 대해서는 자기를 탓하라지—탓하면 안 될 게 뭐람?",
+  "why": "\"he said\" 하나만 빼면 전부 톰의 속마음을 작가가 그대로 옮긴 것(자유간접화법)이라 인용부호가 없어도 톰의 말투로 읽어야 한다. 세미콜론으로 짧은 절이 계속 이어지므로 절마다 주어를 짚을 것. \"nothing would do them but to be rid of him\"에서 do는 '만족시키다', but은 '~말고는'이다.",
+  "st": [3, 4, 15]
+ },
+ {
+  "id": "13.1.1",
+  "en": "He sobbed, now, to think he should never, never hear that old familiar sound any more—it was very hard, but it was forced on him; since he was driven out into the cold world, he must submit—but he forgave them.",
+  "s": "He",
+  "v": "sobbed",
+  "chunks": [
+   {"en": "He sobbed, now,", "ko": "그는 이제 흐느꼈다", "r": "주어 + 동사"},
+   {"en": "to think he should never, never hear that old familiar sound", "ko": "그 정겨운 옛 소리를 두 번 다시, 두 번 다시 못 듣는다는 생각에", "r": "이유(to부정사)"},
+   {"en": "any more—it was very hard,", "ko": "더는—참으로 견디기 힘든 일이었다", "r": "부사 + 곁말(대시 뒤 새 절)"},
+   {"en": "but it was forced on him;", "ko": "하지만 억지로 떠맡겨진 일이었다", "r": "대등절"},
+   {"en": "since he was driven out into the cold world,", "ko": "차가운 세상으로 쫓겨난 이상", "r": "부사절(이유)"},
+   {"en": "he must submit—but he forgave them.", "ko": "받아들일 수밖에 없었다—그래도 그는 그들을 용서했다", "r": "주절 + 곁말(대시 뒤 대등절)"}
+  ],
+  "ko": "그는 이제 그 정겨운 옛 소리를 두 번 다시, 두 번 다시 못 듣는다는 생각에 흐느꼈다—참으로 견디기 힘든 일이지만 억지로 떠맡겨진 일이었다. 차가운 세상으로 쫓겨난 이상 받아들일 수밖에 없었다—그래도 그는 그들을 용서했다.",
+  "why": "대시(—) 두 개가 문장을 세 토막으로 나눈다. 진짜 주절은 맨 앞 \"He sobbed\"뿐이고, 대시 뒤부터는 톰의 속마음이 그대로 이어지는 부분이다. \"to think (that) …\"은 '~라고 생각하니'라는 이유, \"it was forced on him\"은 '억지로 떠맡겨졌다'.",
+  "st": [3, 4, 15]
+ },
+ {
+  "id": "13.2.2",
+  "en": "Tom, wiping his eyes with his sleeve, began to blubber out something about a resolution to escape from hard usage and lack of sympathy at home by roaming abroad into the great world never to return; and ended by hoping that Joe would not forget him.",
+  "s": "Tom",
+  "v": "began",
+  "chunks": [
+   {"en": "Tom, wiping his eyes with his sleeve,", "ko": "톰은 소매로 눈을 훔치면서", "r": "주어 + 분사구문(~하면서)"},
+   {"en": "began to blubber out something", "ko": "뭐라고 훌쩍이며 늘어놓기 시작했다", "r": "동사 + 목적어"},
+   {"en": "about a resolution to escape from hard usage", "ko": "모진 대접에서 벗어나겠다는 결심에 대해", "r": "전치사구(something 설명)"},
+   {"en": "and lack of sympathy at home", "ko": "그리고 집에서의 몰이해에서도", "r": "나열(from에 걸림)"},
+   {"en": "by roaming abroad into the great world never to return;", "ko": "넓은 세상으로 떠돌러 나가 다시는 돌아오지 않는 방법으로", "r": "방법(by ~ing)"},
+   {"en": "and ended by hoping that Joe would not forget him.", "ko": "그리고 조가 자기를 잊지 말아 달라는 말로 끝을 맺었다", "r": "대등 동사(주어 Tom 생략)"}
+  ],
+  "ko": "톰은 소매로 눈을 훔치면서, 집에서의 모진 대접과 몰이해를 피해 넓은 세상으로 떠돌러 나가 다시는 돌아오지 않겠다는 결심에 대해 뭐라고 훌쩍이며 늘어놓기 시작했다. 그리고 조가 자기를 잊지 말아 달라는 말로 끝을 맺었다.",
+  "why": "주어 Tom 바로 뒤에 분사구문(wiping …)이 끼어들어 동사 began이 멀어졌다. resolution 뒤는 전부 그 '결심'의 내용(escape … by roaming …)이고, 세미콜론 뒤 ended의 주어도 앞의 Tom이다(생략).",
+  "st": [3, 6, 18]
+ },
+ {
+  "id": "13.3.1",
+  "en": "His mother had whipped him for drinking some cream which he had never tasted and knew nothing about; it was plain that she was tired of him and wished him to go; if she felt that way, there was nothing for him to do but succumb; he hoped she would be happy, and never regret having driven her poor boy out into the unfeeling world to suffer and die.",
+  "s": "His mother",
+  "v": "had whipped",
+  "chunks": [
+   {"en": "His mother had whipped him", "ko": "어머니는 그를 매질했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for drinking some cream", "ko": "크림을 마셨다는 이유로", "r": "이유(전치사구)"},
+   {"en": "which he had never tasted and knew nothing about;", "ko": "맛본 적도 없고 알지도 못하는 (크림을)", "r": "관계절(cream 설명)"},
+   {"en": "it was plain that she was tired of him", "ko": "어머니가 자기한테 지쳤다는 것이 분명했다", "r": "가주어 it + 진주어(that절)"},
+   {"en": "and wished him to go;", "ko": "그리고 나가 주기를 바란다는 것도", "r": "나열(that절 안)"},
+   {"en": "if she felt that way,", "ko": "어머니가 그렇게 느낀다면", "r": "부사절(조건)"},
+   {"en": "there was nothing for him to do but succumb;", "ko": "자기로서는 순순히 받아들이는 것 말고는 할 일이 없었다", "r": "There is 구문"},
+   {"en": "he hoped she would be happy,", "ko": "그는 어머니가 행복하기를 바랐다", "r": "대등절"},
+   {"en": "and never regret having driven her poor boy out", "ko": "그리고 불쌍한 아들을 내몬 것을 결코 후회하지 않기를", "r": "나열(hoped의 목적어)"},
+   {"en": "into the unfeeling world to suffer and die.", "ko": "고생하다 죽으라고 무정한 세상으로", "r": "전치사구 + 목적(to부정사)"}
+  ],
+  "ko": "어머니는 그가 맛본 적도 없고 알지도 못하는 크림을 마셨다며 매질을 했다. 어머니가 자기한테 지쳐서 나가 주기를 바라는 게 분명했다. 어머니가 그렇게 느낀다면 자기로서는 순순히 받아들이는 것 말고는 할 일이 없었다. 그는 어머니가 행복하기를, 그리고 불쌍한 아들을 무정한 세상으로 내몰아 고생하다 죽게 만든 것을 결코 후회하지 않기를 바랐다.",
+  "why": "세미콜론으로 절 네 개가 이어지는데, 앞에 \"Joe said\" 같은 표시가 없어도 전부 조의 속마음을 옮긴 것이다. \"nothing … but succumb\"의 but은 '~말고는'(except). \"never regret having driven\"은 hoped에 걸리는 두 번째 목적어이며, having driven은 '이미 내몬 것'을 가리킨다.",
+  "st": [3, 15, 17]
+ },
+ {
+  "id": "13.4.0",
+  "en": "As the two boys walked sorrowing along, they made a new compact to stand by each other and be brothers and never separate till death relieved them of their troubles.",
+  "s": "they",
+  "v": "made",
+  "chunks": [
+   {"en": "As the two boys walked sorrowing along,", "ko": "두 소년이 슬퍼하며 걸어가는 동안", "r": "부사절(때)"},
+   {"en": "they made a new compact", "ko": "그들은 새로운 약속을 맺었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to stand by each other and be brothers", "ko": "서로 곁을 지키고 형제가 되겠다는", "r": "형용사구(compact 내용)"},
+   {"en": "and never separate", "ko": "그리고 결코 헤어지지 않겠다는", "r": "나열"},
+   {"en": "till death relieved them of their troubles.", "ko": "죽음이 그들을 고생에서 놓아 줄 때까지", "r": "부사절(때)"}
+  ],
+  "ko": "두 소년은 슬퍼하며 걸어가는 동안 새로운 약속을 맺었다. 서로 곁을 지키고 형제가 되어, 죽음이 그들의 고생을 덜어 줄 때까지 결코 헤어지지 않겠다는 약속이었다.",
+  "why": "맨 앞 As절은 '~하는 동안'이라는 때. compact(약속) 뒤에 붙은 to stand … and be … and never separate 셋이 모두 약속의 내용이다. \"relieve A of B\"는 'A에게서 B를 덜어 주다'라는 짝을 이루는 표현.",
+  "st": [8, 14]
+ },
+ {
+  "id": "13.4.2",
+  "en": "Joe was for being a hermit, and living on crusts in a remote cave, and dying, some time, of cold and want and grief; but after listening to Tom, he conceded that there were some conspicuous advantages about a life of crime, and so he consented to be a pirate.",
+  "s": "Joe",
+  "v": "was",
+  "chunks": [
+   {"en": "Joe was for being a hermit,", "ko": "조는 은둔자가 되자는 쪽이었다", "r": "주어 + 동사 + 보어(be for ~ = ~하자는 쪽이다)"},
+   {"en": "and living on crusts in a remote cave,", "ko": "그리고 외딴 동굴에서 빵 부스러기로 연명하자는", "r": "나열(for에 걸림)"},
+   {"en": "and dying, some time, of cold and want and grief;", "ko": "그리고 언젠가 추위와 궁핍과 슬픔으로 죽자는", "r": "나열(for에 걸림)"},
+   {"en": "but after listening to Tom,", "ko": "하지만 톰의 말을 듣고 나서", "r": "부사구(때)"},
+   {"en": "he conceded that there were some conspicuous advantages", "ko": "그는 눈에 띄는 이점이 몇 가지 있다고 인정했다", "r": "주어 + 동사 + 목적어(that절)"},
+   {"en": "about a life of crime,", "ko": "범죄자의 삶에도", "r": "전치사구"},
+   {"en": "and so he consented to be a pirate.", "ko": "그래서 해적이 되는 데 동의했다", "r": "대등절(결과)"}
+  ],
+  "ko": "조는 은둔자가 되어 외딴 동굴에서 빵 부스러기로 연명하다가 언젠가 추위와 궁핍과 슬픔으로 죽자는 쪽이었다. 하지만 톰의 말을 듣고 나서는 범죄자의 삶에도 눈에 띄는 이점이 몇 가지 있다고 인정했고, 그래서 해적이 되는 데 동의했다.",
+  "why": "\"be for ~ing\"은 '~하는 쪽에 찬성이다'라는 뜻이고, 뒤의 living, dying도 전부 이 for에 걸린다(was의 진행형이 아니다). want는 '원하다'라는 동사가 아니라 '궁핍·결핍'이라는 명사.",
+  "st": [3, 14]
+ },
+ {
+  "id": "13.5.0",
+  "en": "Three miles below St. Petersburg, at a point where the Mississippi River was a trifle over a mile wide, there was a long, narrow, wooded island, with a shallow bar at the head of it, and this offered well as a rendezvous.",
+  "s": "a long, narrow, wooded island",
+  "v": "was",
+  "chunks": [
+   {"en": "Three miles below St. Petersburg,", "ko": "세인트피터즈버그에서 3마일 아래", "r": "전치사구(장소)"},
+   {"en": "at a point where the Mississippi River was a trifle over a mile wide,", "ko": "미시시피 강 폭이 1마일을 조금 넘는 지점에", "r": "전치사구(장소) + 관계절"},
+   {"en": "there was a long, narrow, wooded island,", "ko": "길고 좁은, 숲이 우거진 섬이 하나 있었다", "r": "There is 구문(~이 있었다)"},
+   {"en": "with a shallow bar at the head of it,", "ko": "섬머리 쪽에 얕은 모래톱이 딸린", "r": "전치사구(island 설명)"},
+   {"en": "and this offered well as a rendezvous.", "ko": "그리고 이곳은 집합 장소로 안성맞춤이었다", "r": "대등절"}
+  ],
+  "ko": "세인트피터즈버그에서 3마일 아래, 미시시피 강 폭이 1마일을 조금 넘는 지점에 길고 좁은, 숲이 우거진 섬이 하나 있었다. 섬머리 쪽에는 얕은 모래톱이 있었는데, 이곳은 집합 장소로 안성맞춤이었다.",
+  "why": "진짜 주어(a long, narrow, wooded island)가 나오기까지 장소를 나타내는 덩어리가 두 개나 앞서 나온다. \"there was ~\"를 만날 때까지 기다렸다가 그 뒤의 명사를 주어로 잡으면 된다. a trifle over = 조금 넘는, bar = 모래톱, rendezvous = 집합 장소.",
+  "st": [17]
+ },
+ {
+  "id": "13.14.6",
+  "en": "They made an imposing adventure of it, saying, “Hist!” every now and then, and suddenly halting with finger on lip; moving with hands on imaginary dagger-hilts; and giving orders in dismal whispers that if “the foe” stirred, to “let him have it to the hilt,” because “dead men tell no tales.”",
+  "s": "They",
+  "v": "made",
+  "chunks": [
+   {"en": "They made an imposing adventure of it,", "ko": "그들은 그 일을 거창한 모험으로 만들었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "saying, “Hist!” every now and then,", "ko": "이따금 \"쉿!\" 하고 소리치면서", "r": "분사구문(~하면서)"},
+   {"en": "and suddenly halting with finger on lip;", "ko": "그리고 손가락을 입에 대고 갑자기 멈춰 서면서", "r": "분사구문(~하면서)"},
+   {"en": "moving with hands on imaginary dagger-hilts;", "ko": "있지도 않은 단검 자루에 손을 얹은 채 움직이면서", "r": "분사구문(~하면서)"},
+   {"en": "and giving orders in dismal whispers", "ko": "그리고 음침한 속삭임으로 명령을 내리면서", "r": "분사구문(~하면서)"},
+   {"en": "that if “the foe” stirred,", "ko": "\"적\"이 움직이거든", "r": "명령 내용(that절) + 부사절(조건)"},
+   {"en": "to “let him have it to the hilt,”", "ko": "\"칼자루까지 푹 찔러 넣어라\"라고", "r": "명령 내용"},
+   {"en": "because “dead men tell no tales.”", "ko": "\"죽은 자는 말이 없으니까\"", "r": "부사절(이유)"}
+  ],
+  "ko": "그들은 그 일을 거창한 모험으로 만들었다. 이따금 \"쉿!\" 하고 소리치며 손가락을 입에 대고 갑자기 멈춰 서기도 하고, 있지도 않은 단검 자루에 손을 얹은 채 움직이기도 하고, 음침한 속삭임으로 명령을 내리기도 했다. \"적\"이 움직이거든 \"죽은 자는 말이 없으니 칼자루까지 푹 찔러 넣어라\"라고.",
+  "why": "주절은 첫 일곱 단어뿐이고, 쉼표와 세미콜론으로 나뉜 ~ing 넷(saying / halting / moving / giving)은 전부 '~하면서'다. \"make an imposing adventure of it\"은 '그 일을 거창한 모험으로 꾸미다'. \"let him have it to the hilt\"는 '칼자루까지 박히도록 찔러 버려라'라는 뜻.",
+  "st": [3, 6]
+ },
+ {
+  "id": "13.14.7",
+  "en": "They knew well enough that the raftsmen were all down at the village laying in stores or having a spree, but still that was no excuse for their conducting this thing in an unpiratical way.",
+  "s": "They",
+  "v": "knew",
+  "chunks": [
+   {"en": "They knew well enough", "ko": "그들도 잘 알고 있었다", "r": "주어 + 동사"},
+   {"en": "that the raftsmen were all down at the village", "ko": "뗏목 사공들이 죄다 마을에 내려가 있다는 것을", "r": "목적어(that절)"},
+   {"en": "laying in stores or having a spree,", "ko": "물건을 사들이거나 흥청망청 놀면서", "r": "분사구문(~하면서)"},
+   {"en": "but still that was no excuse", "ko": "하지만 그래도 그것이 핑곗거리는 되지 못했다", "r": "대등절(반전)"},
+   {"en": "for their conducting this thing in an unpiratical way.", "ko": "이 일을 해적답지 않게 처리하는 데 대한", "r": "전치사구(excuse의 내용)"}
+  ],
+  "ko": "뗏목 사공들이 죄다 마을에 내려가 물건을 사들이거나 흥청망청 놀고 있다는 것쯤은 그들도 잘 알고 있었다. 하지만 그렇다고 이 일을 해적답지 않게 처리해도 된다는 핑계가 되지는 않았다.",
+  "why": "that절 안의 동사는 were이고, laying과 having은 사공들이 '~하고 있는' 모습을 덧붙이는 분사구문이다. \"their conducting\"은 '그들이 처리하는 것'이라는 명사 덩어리(소유격 + 동명사). lay in stores = 식량을 사서 쟁여 두다.",
+  "st": [6]
+ },
+ {
+  "id": "13.31.5",
+  "en": "The Black Avenger stood still with folded arms, “looking his last” upon the scene of his former joys and his later sufferings, and wishing “she” could see him now, abroad on the wild sea, facing peril and death with dauntless heart, going to his doom with a grim smile on his lips.",
+  "s": "The Black Avenger",
+  "v": "stood",
+  "chunks": [
+   {"en": "The Black Avenger stood still with folded arms,", "ko": "검은 복수자는 팔짱을 낀 채 가만히 서 있었다", "r": "주어 + 동사 + 전치사구(모습)"},
+   {"en": "“looking his last” upon the scene", "ko": "그 풍경을 \"마지막으로 바라보면서\"", "r": "분사구문(~하면서)"},
+   {"en": "of his former joys and his later sufferings,", "ko": "지난날의 기쁨과 그 뒤의 괴로움이 서린", "r": "전치사구(scene 설명)"},
+   {"en": "and wishing “she” could see him now,", "ko": "그리고 지금 이 모습을 \"그 애\"가 봐 주었으면 하고 바라면서", "r": "분사구문(~하면서)"},
+   {"en": "abroad on the wild sea,", "ko": "거친 바다로 나아가", "r": "보충(톰이 그리는 자기 모습)"},
+   {"en": "facing peril and death with dauntless heart,", "ko": "두려움 없는 마음으로 위험과 죽음을 마주하고", "r": "분사구문(~하면서)"},
+   {"en": "going to his doom with a grim smile on his lips.", "ko": "입가에 비장한 미소를 띤 채 파멸을 향해 가는", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "검은 복수자는 팔짱을 낀 채 가만히 서서, 지난날의 기쁨과 그 뒤의 괴로움이 서린 그 풍경을 \"마지막으로 바라보며\", 지금 이 모습을 \"그 애\"가 봐 주었으면 하고 바랐다. 거친 바다로 나아가 두려움 없는 마음으로 위험과 죽음을 마주하고, 입가에 비장한 미소를 띤 채 파멸을 향해 가는 자기 모습을.",
+  "why": "주절은 \"The Black Avenger stood still\"뿐이고 뒤는 전부 ~ing(looking, wishing, facing, going)로 덧붙는 분사구문이다. 특히 abroad 이하 세 덩어리는 'she가 봐 주었으면' 하는 톰 자신의 상상 속 모습이다. \"look one's last upon ~\"은 '~을 마지막으로 바라보다'.",
+  "st": [6]
+ },
+ {
+  "id": "13.31.7",
+  "en": "The other pirates were looking their last, too; and they all looked so long that they came near letting the current drift them out of the range of the island.",
+  "s": "The other pirates",
+  "v": "were looking",
+  "chunks": [
+   {"en": "The other pirates were looking their last, too;", "ko": "다른 해적들도 마지막 눈길을 보내고 있었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and they all looked so long", "ko": "그런데 다들 너무 오래 바라보는 바람에", "r": "대등절(so … that)"},
+   {"en": "that they came near letting the current", "ko": "하마터면 물살이 ~하게 내버려 둘 뻔했다", "r": "결과절(that)"},
+   {"en": "drift them out of the range of the island.", "ko": "자기들을 섬 사정거리 밖으로 떠내려 보내게", "r": "let의 목적보어(원형동사)"}
+  ],
+  "ko": "다른 해적들도 마지막 눈길을 보내고 있었다. 그런데 다들 너무 오래 바라보는 바람에, 하마터면 물살에 떠밀려 섬 사정거리 밖으로 흘러갈 뻔했다.",
+  "why": "\"so long that …\"은 '너무 오래 ~해서 그 결과 …'라는 짝을 이룬다. \"come near ~ing\"는 '하마터면 ~할 뻔하다'이고, \"let the current drift them\"은 '물살이 자기들을 떠내려가게 내버려 두다'(let + 목적어 + 원형동사).",
+  "st": [3]
+ },
+ {
+  "id": "13.31.10",
+  "en": "Part of the little raft’s belongings consisted of an old sail, and this they spread over a nook in the bushes for a tent to shelter their provisions; but they themselves would sleep in the open air in good weather, as became outlaws.",
+  "s": "Part of the little raft’s belongings",
+  "v": "consisted",
+  "chunks": [
+   {"en": "Part of the little raft’s belongings consisted of an old sail,", "ko": "그 작은 뗏목에 실려 있던 물건 중에는 낡은 돛이 하나 있었다", "r": "주어 + 동사"},
+   {"en": "and this they spread over a nook in the bushes", "ko": "그리고 그것을 그들은 덤불 속 아늑한 구석에 펼쳤다", "r": "대등절(목적어 this가 앞으로 나온 도치)"},
+   {"en": "for a tent to shelter their provisions;", "ko": "식량을 덮어 둘 천막으로 쓰려고", "r": "목적(전치사구)"},
+   {"en": "but they themselves would sleep in the open air in good weather,", "ko": "하지만 자기들은 날씨가 좋으면 한데서 잘 작정이었다", "r": "대등절(반전)"},
+   {"en": "as became outlaws.", "ko": "무법자에게 어울리게끔", "r": "부사절(~답게)"}
+  ],
+  "ko": "그 작은 뗏목에 실려 있던 물건 중에는 낡은 돛이 하나 있었는데, 그들은 그것을 덤불 속 아늑한 구석에 펼쳐 식량을 덮어 둘 천막으로 삼았다. 하지만 날씨가 좋으면 자기들은 무법자답게 한데서 잘 작정이었다.",
+  "why": "\"and this they spread\"는 목적어(this)를 절 맨 앞으로 빼낸 도치다—주어는 they, 동사는 spread. 이 어순에 걸리면 this를 주어로 착각하기 쉽다. 맨 끝 \"as became outlaws\"의 become은 '되다'가 아니라 '어울리다'라는 옛 용법.",
+  "st": [3, 11]
+ },
+ {
+  "id": "13.32.0",
+  "en": "They built a fire against the side of a great log twenty or thirty steps within the sombre depths of the forest, and then cooked some bacon in the frying-pan for supper, and used up half of the corn “pone” stock they had brought.",
+  "s": "They",
+  "v": "built",
+  "chunks": [
+   {"en": "They built a fire against the side of a great log", "ko": "그들은 커다란 통나무 옆구리에 불을 피웠다", "r": "주어 + 동사 + 목적어 + 장소"},
+   {"en": "twenty or thirty steps within the sombre depths of the forest,", "ko": "음침한 숲속으로 스무 걸음 서른 걸음쯤 들어간 곳에서", "r": "장소(얼마나 안쪽인지)"},
+   {"en": "and then cooked some bacon in the frying-pan for supper,", "ko": "그러고는 저녁으로 프라이팬에 베이컨을 구웠고", "r": "대등 동사"},
+   {"en": "and used up half of the corn “pone” stock", "ko": "옥수수빵 비축분의 절반을 먹어 치웠다", "r": "대등 동사"},
+   {"en": "they had brought.", "ko": "그들이 가져온", "r": "관계절(stock 설명)"}
+  ],
+  "ko": "그들은 음침한 숲속으로 스무 걸음 서른 걸음쯤 들어간 곳에서 커다란 통나무 옆구리에 불을 피우고, 저녁으로 프라이팬에 베이컨을 구웠으며, 가져온 옥수수빵의 절반을 먹어 치웠다.",
+  "why": "주어 They 하나에 동사 셋(built, cooked, used up)이 and로 이어진다. \"twenty or thirty steps within ~\"은 '~ 안쪽으로 20~30걸음 되는 곳에'라는 거리 표현이고, 마지막 \"stock they had brought\"는 관계대명사(that)가 생략된 '그들이 가져온 비축분'이다.",
+  "st": [14]
+ },
+ {
+  "id": "13.32.1",
+  "en": "It seemed glorious sport to be feasting in that wild, free way in the virgin forest of an unexplored and uninhabited island, far from the haunts of men, and they said they never would return to civilization.",
+  "s": "It",
+  "v": "seemed",
+  "chunks": [
+   {"en": "It seemed glorious sport", "ko": "그것은 더없이 신나는 놀이 같았다", "r": "가주어 it + 동사 + 보어"},
+   {"en": "to be feasting in that wild, free way", "ko": "그렇게 거칠고 자유롭게 잔치를 벌인다는 것은", "r": "진주어(to부정사)"},
+   {"en": "in the virgin forest of an unexplored and uninhabited island,", "ko": "아무도 탐험한 적 없고 사람도 살지 않는 섬의 원시림에서", "r": "전치사구(장소)"},
+   {"en": "far from the haunts of men,", "ko": "사람들의 발길이 닿는 곳에서 멀리 떨어져", "r": "전치사구(장소)"},
+   {"en": "and they said they never would return to civilization.", "ko": "그리고 그들은 다시는 문명 세계로 돌아가지 않겠다고 말했다", "r": "대등절"}
+  ],
+  "ko": "사람들의 발길이 닿지 않는 곳, 아무도 탐험한 적 없고 사람도 살지 않는 섬의 원시림에서 그렇게 거칠고 자유롭게 잔치를 벌인다는 것은 더없이 신나는 놀이 같았다. 그리고 그들은 다시는 문명 세계로 돌아가지 않겠다고 말했다.",
+  "why": "맨 앞 It은 가짜 주어이고 진짜 주어는 뒤의 \"to be feasting …\"(그렇게 잔치를 벌이는 것)이다. \"It seemed glorious sport to ~\"까지 뼈대를 잡고 나머지 전치사구는 장소 설명으로 미뤄 두면 읽기 쉽다. haunts of men = 사람들이 자주 드나드는 곳.",
+  "st": [17]
+ },
+ {
+  "id": "13.33.0",
+  "en": "When the last crisp slice of bacon was gone, and the last allowance of corn pone devoured, the boys stretched themselves out on the grass, filled with contentment.",
+  "s": "the boys",
+  "v": "stretched",
+  "chunks": [
+   {"en": "When the last crisp slice of bacon was gone,", "ko": "마지막 바삭한 베이컨 조각이 없어지고", "r": "부사절(때)"},
+   {"en": "and the last allowance of corn pone devoured,", "ko": "마지막 몫의 옥수수빵까지 먹어 치워지자", "r": "부사절(나열, was 생략)"},
+   {"en": "the boys stretched themselves out on the grass,", "ko": "소년들은 풀밭에 벌렁 드러누웠다", "r": "주어 + 동사 + 목적어 + 장소"},
+   {"en": "filled with contentment.", "ko": "만족감에 가득 찬 채로", "r": "과거분사구(~한 채로)"}
+  ],
+  "ko": "마지막 바삭한 베이컨 조각이 없어지고 마지막 몫의 옥수수빵까지 먹어 치우자, 소년들은 만족감에 젖은 채 풀밭에 벌렁 드러누웠다.",
+  "why": "앞의 When절이 두 개인데 둘째 절에서는 was가 생략되어 있다(the last allowance … was devoured). 주절은 \"the boys stretched themselves out\"이고, 맨 끝 \"filled with contentment\"는 소년들의 상태를 덧붙이는 분사구(만족감에 가득 찬 채로)다.",
+  "st": [8]
+ },
+ {
+  "id": "13.38.2",
+  "en": "You see a pirate don’t have to do anything, Joe, when he’s ashore, but a hermit he has to be praying considerable, and then he don’t have any fun, anyway, all by himself that way.”",
+  "s": "You",
+  "v": "see",
+  "chunks": [
+   {"en": "You see a pirate don’t have to do anything, Joe,", "ko": "있잖아 조, 해적은 아무것도 안 해도 돼", "r": "주어 + 동사 + 목적어(that 생략) + 호칭"},
+   {"en": "when he’s ashore,", "ko": "뭍에 올라와 있을 땐", "r": "부사절(때)"},
+   {"en": "but a hermit he has to be praying considerable,", "ko": "그런데 은둔자는 말이야, 기도를 엄청나게 해야 하고", "r": "대등절(화제를 앞으로 낸 구어 어순)"},
+   {"en": "and then he don’t have any fun, anyway,", "ko": "그러면서 어차피 아무 재미도 없어", "r": "대등절"},
+   {"en": "all by himself that way.”", "ko": "그렇게 혼자 지내니까", "r": "부사구(상태)"}
+  ],
+  "ko": "\"있잖아 조, 해적은 뭍에 올라와 있을 땐 아무것도 안 해도 돼. 그런데 은둔자는 말이야, 기도를 엄청나게 해야 하고, 그러면서 그렇게 혼자 지내니 어차피 아무 재미도 없잖아.\"",
+  "why": "톰의 구어체라 문법이 흐트러져 있다. don’t(→doesn’t), considerable(→considerably)은 사투리 어법. \"but a hermit he has to be praying\"은 '은둔자로 말하자면, 걔는 …'처럼 화제를 먼저 툭 던져 놓는 구어 어순이니 a hermit을 목적어로 오해하지 말 것.",
+  "st": [2, 11]
+ },
+ {
+  "id": "13.40.1",
+  "en": "And a hermit’s got to sleep on the hardest place he can find, and put sackcloth and ashes on his head, and stand out in the rain, and—”",
+  "s": "a hermit",
+  "v": "’s got",
+  "chunks": [
+   {"en": "And a hermit’s got to sleep on the hardest place", "ko": "그리고 은둔자는 가장 딱딱한 자리에서 자야 해", "r": "접속 + 주어 + 동사(has got to)"},
+   {"en": "he can find,", "ko": "자기가 찾을 수 있는", "r": "관계절(place 설명)"},
+   {"en": "and put sackcloth and ashes on his head,", "ko": "그리고 머리에 거친 삼베랑 재를 뒤집어써야 하고", "r": "나열(got to에 걸림)"},
+   {"en": "and stand out in the rain, and—”", "ko": "그리고 빗속에 나가 서 있어야 하고, 그리고—", "r": "나열 + 말 끊김(대시)"}
+  ],
+  "ko": "\"그리고 은둔자는 찾을 수 있는 가장 딱딱한 자리에서 자야 하고, 머리에 거친 삼베랑 재를 뒤집어써야 하고, 빗속에 나가 서 있어야 하고, 그리고—\"",
+  "why": "\"a hermit’s got to\"는 has got to(=~해야 한다)의 구어 축약이고, 뒤의 put과 stand도 모두 이 got to에 걸린다. \"the hardest place (that) he can find\"는 관계대명사가 생략된 형태. 맨 끝 \"and—\"는 헉이 말을 자르는 바람에 끊긴 것.",
+  "st": [2, 4, 14]
+ },
+ {
+  "id": "13.49.1",
+  "en": "He had finished gouging out a cob, and now he fitted a weed stem to it, loaded it with tobacco, and was pressing a coal to the charge and blowing a cloud of fragrant smoke—he was in the full bloom of luxurious contentment.",
+  "s": "He",
+  "v": "had finished",
+  "chunks": [
+   {"en": "He had finished gouging out a cob,", "ko": "그는 옥수수 속대를 파내는 일을 이미 끝냈고", "r": "주어 + 동사 + 목적어(동명사)"},
+   {"en": "and now he fitted a weed stem to it,", "ko": "이제 거기에 잡초 줄기를 대롱으로 끼우고", "r": "대등절"},
+   {"en": "loaded it with tobacco,", "ko": "담배를 채워 넣고", "r": "대등 동사"},
+   {"en": "and was pressing a coal to the charge", "ko": "그러고는 채워 넣은 담배에 불씨를 눌러 붙이며", "r": "대등 동사(과거진행)"},
+   {"en": "and blowing a cloud of fragrant smoke—he was", "ko": "향긋한 연기를 뭉게뭉게 뿜어내고 있었다—그는 ~였다", "r": "대등 동사 + 곁말(대시 뒤 새 절)"},
+   {"en": "in the full bloom of luxurious contentment.", "ko": "호사스러운 만족감이 한창 만개한 상태", "r": "보어(전치사구)"}
+  ],
+  "ko": "그는 옥수수 속대를 파내는 일을 막 끝내고, 이제 거기에 잡초 줄기를 대롱으로 끼우고 담배를 채워 넣고는, 불씨를 눌러 붙여 향긋한 연기를 뭉게뭉게 뿜어내고 있었다—호사스러운 만족감이 한창 만개한 상태였다.",
+  "why": "주어 he 하나에 동사가 넷(had finished, fitted, loaded, was pressing … blowing) 이어진다. 시제가 과거완료→과거→과거진행으로 옮겨 가는 지점을 보면 순서가 잡힌다. 대시 뒤는 그 결과를 요약한 별개의 절. cob = 옥수수 속대(파이프 대용), charge = 채워 넣은 담배.",
+  "st": [4, 14]
+ },
+ {
+  "id": "13.52.0",
+  "en": "“Oh, they have just a bully time—take ships and burn them, and get the money and bury it in awful places in their island where there’s ghosts and things to watch it, and kill everybody in the ships—make ’em walk a plank.”",
+  "s": "they",
+  "v": "have",
+  "chunks": [
+   {"en": "“Oh, they have just a bully time—take ships and burn them,", "ko": "\"아, 걔들은 아주 신나게 지내—배를 빼앗아 불태우고", "r": "인용(대사): 주어 + 동사 + 곁말(대시 뒤 나열 시작)"},
+   {"en": "and get the money and bury it in awful places", "ko": "돈을 챙겨서 무시무시한 곳에 묻어 두고", "r": "나열"},
+   {"en": "in their island where there’s ghosts and things to watch it,", "ko": "자기네 섬에, 유령이니 뭐니 하는 것들이 지키고 있는 곳에", "r": "전치사구 + 관계절(places 설명)"},
+   {"en": "and kill everybody in the ships—make ’em walk a plank.”", "ko": "그리고 배에 탄 사람은 다 죽여—널빤지 위를 걷게 해서", "r": "나열 + 곁말(대시)"}
+  ],
+  "ko": "\"아, 걔들은 아주 신나게 지내. 배를 빼앗아 불태우고, 돈을 챙겨서 자기네 섬 무시무시한 곳에 묻어 두지—유령이니 뭐니 하는 것들이 지키고 있는 곳에. 그리고 배에 탄 사람은 다 죽여—널빤지 위를 걷게 해서 말이야.\"",
+  "why": "첫 대시 뒤부터가 '신나게 지낸다'는 말의 설명이라, take·burn·get·bury·kill이 전부 they에 이어지는 동사다. \"there’s ghosts\"는 there are를 there’s로 쓰는 구어 어법이고 ’em은 them. \"walk a plank\"는 포로를 널빤지 끝에서 바다로 떨어뜨리는 해적의 처형 방식.",
+  "st": [2, 4, 14]
+ },
+ {
+  "id": "13.61.3",
+  "en": "They said their prayers inwardly, and lying down, since there was nobody there with authority to make them kneel and recite aloud; in truth, they had a mind not to say them at all, but they were afraid to proceed to such lengths as that, lest they might call down a sudden and special thunderbolt from heaven.",
+  "s": "They",
+  "v": "said",
+  "chunks": [
+   {"en": "They said their prayers inwardly, and lying down,", "ko": "그들은 마음속으로, 그것도 누운 채로 기도를 했다", "r": "주어 + 동사 + 목적어 + 분사구문(~한 채로)"},
+   {"en": "since there was nobody there with authority", "ko": "거기엔 권위 있는 사람이 아무도 없었으니까", "r": "부사절(이유)"},
+   {"en": "to make them kneel and recite aloud;", "ko": "무릎 꿇고 소리 내어 외우게 시킬 만한", "r": "형용사구(authority 설명)"},
+   {"en": "in truth, they had a mind not to say them at all,", "ko": "사실은 기도를 아예 안 할 마음이었지만", "r": "대등절"},
+   {"en": "but they were afraid to proceed to such lengths as that,", "ko": "그렇게까지 갈 엄두는 나지 않았다", "r": "대등절(반전)"},
+   {"en": "lest they might call down a sudden and special thunderbolt from heaven.", "ko": "하늘에서 느닷없이 특별한 벼락이 떨어질까 봐", "r": "부사절(~할까 봐)"}
+  ],
+  "ko": "그들은 마음속으로, 그것도 누운 채로 기도를 했다. 무릎 꿇고 소리 내어 외우게 시킬 만한 어른이 거기엔 아무도 없었으니까. 사실은 기도를 아예 안 하고 싶었지만, 그랬다가 하늘에서 느닷없이 특별한 벼락이 떨어질까 봐 그렇게까지 할 엄두는 못 냈다.",
+  "why": "\"say one’s prayers\"는 '기도를 하다'라는 숙어이고 lying down은 '누운 채로'라는 분사구문이다. 맨 뒤 lest는 '~할까 봐 (두려워)'라는 옛 접속사. \"proceed to such lengths as that\"은 '그 정도까지 나아가다'.",
+  "st": [3, 6]
+ },
+ {
+  "id": "13.61.6",
+  "en": "They began to feel a vague fear that they had been doing wrong to run away; and next they thought of the stolen meat, and then the real torture came.",
+  "s": "They",
+  "v": "began",
+  "chunks": [
+   {"en": "They began to feel a vague fear", "ko": "그들은 막연한 두려움을 느끼기 시작했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that they had been doing wrong to run away;", "ko": "도망쳐 나온 것이 잘못이었다는 (두려움)", "r": "동격절(fear의 내용)"},
+   {"en": "and next they thought of the stolen meat,", "ko": "그다음엔 훔친 고기 생각이 났고", "r": "대등절"},
+   {"en": "and then the real torture came.", "ko": "그러자 진짜 고통이 찾아왔다", "r": "대등절"}
+  ],
+  "ko": "그들은 도망쳐 나온 것이 잘못이었다는 막연한 두려움을 느끼기 시작했다. 그다음엔 훔친 고기 생각이 났고, 그러자 진짜 고통이 찾아왔다.",
+  "why": "fear 뒤의 that절은 관계절이 아니라 그것이 '어떤 두려움'인지 밝히는 동격절(~라는 두려움)이다. \"had been doing wrong to run away\"는 '도망친 것이 줄곧 잘못을 저지르는 일이었다'는 뜻.",
+  "st": [3]
+ },
+ {
+  "id": "13.61.7",
+  "en": "They tried to argue it away by reminding conscience that they had purloined sweetmeats and apples scores of times; but conscience was not to be appeased by such thin plausibilities; it seemed to them, in the end, that there was no getting around the stubborn fact that taking sweetmeats was only “hooking,” while taking bacon and hams and such valuables was plain simple stealing—and there was a command against that in the Bible.",
+  "s": "They",
+  "v": "tried",
+  "chunks": [
+   {"en": "They tried to argue it away", "ko": "그들은 그것을 말로 몰아내려 했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "by reminding conscience that they had purloined sweetmeats", "ko": "단것을 슬쩍한 적이 있다고 양심에게 상기시키는 방법으로", "r": "방법(by ~ing) + 목적어(that절)"},
+   {"en": "and apples scores of times;", "ko": "그리고 사과도 수십 번이나", "r": "나열"},
+   {"en": "but conscience was not to be appeased by such thin plausibilities;", "ko": "하지만 양심은 그런 얄팍한 변명으로는 달래지지 않았다", "r": "대등절(반전)"},
+   {"en": "it seemed to them, in the end,", "ko": "결국 그들에게는 ~인 것 같았다", "r": "가주어 it + 동사"},
+   {"en": "that there was no getting around the stubborn fact", "ko": "그 완고한 사실을 피해 갈 도리가 없다는 것이", "r": "진주어(that절)"},
+   {"en": "that taking sweetmeats was only “hooking,”", "ko": "단것을 가져오는 건 그저 \"슬쩍하는 것\"이지만", "r": "동격절(fact의 내용)"},
+   {"en": "while taking bacon and hams and such valuables", "ko": "베이컨이며 햄이며 그런 값나가는 것을 가져오는 건", "r": "부사절(대조)의 주어"},
+   {"en": "was plain simple stealing—and there was a command", "ko": "명백한 도둑질이라는 것—게다가 계명이 있었다", "r": "동사 + 보어 + 곁말(대시 뒤 대등절)"},
+   {"en": "against that in the Bible.", "ko": "그것을 금하는, 성경에", "r": "전치사구"}
+  ],
+  "ko": "그들은 단것이며 사과며 수십 번도 더 슬쩍한 적이 있지 않느냐고 양심에게 상기시키며 그 생각을 몰아내려 했다. 하지만 양심은 그런 얄팍한 변명으로는 달래지지 않았다. 결국 그들에게는, 단것을 가져오는 건 그저 \"슬쩍하는 것\"이지만 베이컨이며 햄이며 그런 값나가는 것을 가져오는 건 명백한 도둑질이라는 완고한 사실을 피해 갈 도리가 없어 보였다—게다가 성경에는 그것을 금하는 계명까지 있었다.",
+  "why": "세미콜론으로 세 덩어리로 나뉜다. \"there is no ~ing\"은 '~할 수가 없다'이고 \"no getting around the fact that …\"은 '…라는 사실을 피해 갈 도리가 없다'. that이 두 번 겹치므로(fact that / taking … was) fact의 내용이 어디까지인지 잡는 것이 관건이다. was not to be appeased = 달래질 수 없었다.",
+  "st": [3, 4, 17]
+ }
+]

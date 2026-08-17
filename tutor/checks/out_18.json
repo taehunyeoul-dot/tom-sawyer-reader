@@ -1,0 +1,128 @@
+{
+ "18.0.1": [
+  {"t":"pron","q":"이 문장의 <b>They</b> 는 누구입니까?","a":"섬으로 달아났던 세 아이 — 톰, 조 하퍼, 허크","tip":"장례식에 모인 마을 사람들로 잡기 쉽습니다. 이 대목은 아이들이 어떻게 몰래 돌아왔는지를 되짚는 부분입니다."},
+  {"t":"mod","q":"<b>landing five or six miles below the village</b> — 그들이 배를 댄 곳은 어디입니까?","a":"마을에서 강 하류 쪽으로 5, 6마일 떨어진 곳","tip":"below 를 '마을 밑(아래층)'으로 읽으면 안 됩니다. 강을 두고 말할 때 below 는 '하류 쪽'입니다."},
+  {"t":"time","q":"<b>till nearly daylight</b> — 그들이 숲에서 잔 것은 언제까지입니까?","a":"날이 거의 밝아 올 무렵까지 — 해가 뜨기 직전까지입니다","tip":"nearly 를 놓치면 '아침 내내 잤다'가 됩니다. 어두울 때 움직이려고 날이 밝기 전에 일어난 것입니다."},
+  {"t":"mod","q":"<b>a chaos of invalided benches</b> 는 무엇을 말합니까?","a":"부서져 못 쓰게 된 의자들이 어지럽게 쌓여 있는 더미","tip":"invalid(환자)를 떠올려 '환자용 의자'로 읽기 쉽습니다. 여기서는 '망가져 못 쓰게 된'이라는 뜻입니다."}
+ ],
+ "18.2.0": [
+  {"t":"neg","q":"<b>I don’t say it wasn’t a fine joke</b> — 이모는 그것이 멋진 장난이었다고 인정하는 것입니까, 아니라는 것입니까?","a":"멋진 장난이긴 했다고 마지못해 인정하는 말입니다 — '멋진 장난이 아니었다고는 안 하마'","tip":"don’t say 와 wasn’t 가 겹친 이중부정입니다. '멋진 장난이 아니다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>it wasn’t a fine joke</b> 의 it 은 무엇을 가리킵니까?","a":"뒤에 나오는 to keep everybody suffering ’most a week — 온 마을을 일주일 가까이 애태우게 만든 그 일","tip":"앞에서 가리킬 것을 찾으면 길을 잃습니다. 진짜 내용은 뒤의 to부정사입니다."},
+  {"t":"time","q":"<b>’most a week</b> — 사람들이 애태운 기간은 얼마입니까?","a":"거의 일주일(’most = almost)","tip":"’most 를 most(대부분)로 읽기 쉽습니다. 앞에 아포스트로피가 붙어 al- 이 떨어져 나간 almost 입니다."},
+  {"t":"who","q":"<b>so hard-hearted as to let me suffer so</b> — 모질었던 쪽과 괴로움을 당한 쪽은 각각 누구입니까?","a":"모질었던 쪽은 톰(you), 괴로움을 당한 쪽은 말하고 있는 폴리 이모(me)","tip":"이모가 톰에게 하는 말입니다. me 를 톰으로 잡으면 문장이 통째로 뒤집힙니다."}
+ ],
+ "18.2.1": [
+  {"t":"mod","q":"<b>to go to your funeral</b> — 누구의 장례식입니까?","a":"톰 자신의 장례식","tip":"your 는 듣고 있는 톰입니다. 죽은 줄 알고 치른 자기 장례식을 톰이 몰래 보러 왔다는 뜻입니다."},
+  {"t":"neg","q":"<b>that you warn’t dead, but only run off</b> — 이 말은 톰이 죽었다는 뜻입니까?","a":"아니요 — 죽은 게 아니라 그냥 도망쳐 나갔을 뿐이라는 뜻입니다","tip":"warn’t 는 wasn’t 의 사투리입니다. 부정을 놓치면 정반대가 됩니다."},
+  {"t":"time","q":"<b>you could have come over and give me a hint</b> — 톰은 실제로 이모에게 언질을 주었습니까?","a":"아니요 — '그럴 수도 있었잖니'라는 원망입니다. 실제로는 알리지 않았습니다","tip":"could have p.p. 는 하지 않은 일을 두고 '그럴 수 있었는데'라고 말하는 표현입니다."},
+  {"t":"who","q":"<b>give me a hint</b> — 언질을 줄 사람과 받을 사람은 각각 누구입니까?","a":"줄 사람은 톰(you), 받을 사람은 폴리 이모(me)","tip":"give 는 앞의 could have 에 이어지는 동사이고, 주어는 그대로 you 입니다."}
+ ],
+ "18.32.1": [
+  {"t":"who","q":"<b>you said I warn’t bad</b> — 그렇게 말한 사람과 '나쁘지 않다'는 말을 들은 사람은 각각 누구입니까?","a":"말한 사람은 폴리 이모(you), 그 대상은 톰 자신(I)","tip":"톰이 이모에게 '이모가 이렇게 말했잖아요' 하고 옮기는 대목입니다. 주어를 톰으로 잡으면 뒤집힙니다."},
+  {"t":"neg","q":"<b>I warn’t bad, only mischeevous and harum-scarum</b> — 톰이 나쁜 아이라는 뜻입니까?","a":"아니요 — 나쁜 게 아니라 그저 장난기 많고 덜렁대는 아이일 뿐이라는 뜻입니다","tip":"warn’t(=wasn’t)를 놓치고 bad 만 보면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>not any more responsible than—than—I think it was a colt</b> — 톰의 책임을 무엇과 견주고 있습니까?","a":"망아지(colt) — 망아지한테 책임을 물을 수 없듯 톰에게도 물을 수 없다는 뜻입니다","tip":"말이 끊겨 than 뒤가 늦게 나옵니다. '망아지보다 책임감이 있다'가 아니라 '망아지만큼이나 책임이 없다'입니다."}
+ ],
+ "18.36.0": [
+  {"t":"who","q":"<b>Mrs. Harper she began to cry</b> — 운 사람은 누구입니까? 두 사람입니까?","a":"하퍼 아주머니 한 사람입니다 — Mrs. Harper 와 she 는 같은 사람","tip":"입말에서 이름을 말한 뒤 대명사로 한 번 더 받는 사투리 말투입니다. 두 사람으로 읽으면 안 됩니다."},
+  {"t":"neg","q":"<b>she wished she hadn’t whipped him</b> — 하퍼 아주머니는 조를 때렸습니까, 때리지 않았습니까?","a":"때렸습니다 — 때린 것을 후회하는 말입니다","tip":"wish + hadn’t p.p. 는 '실제로 한 일'을 뉘우치는 표현입니다. 부정만 보고 '안 때렸다'로 읽으면 정반대입니다."},
+  {"t":"pron","q":"<b>when she’d throwed it out her own self</b> 의 it 은 무엇입니까?","a":"그 크림 — 조가 먹었다고 오해받은 바로 그 크림","tip":"조나 회초리로 잡기 쉽습니다. 앞의 taking cream 을 받는 말입니다."},
+  {"t":"time","q":"<b>when she’d throwed it out her own self</b> — 크림을 내다 버린 것은 조를 때리기 전입니까, 후입니까?","a":"때리기 전 — 자기가 이미 버려 놓고서 조가 먹은 줄 알고 때린 것입니다","tip":"she’d throwed = she had thrown, 즉 더 앞선 일입니다. 순서를 뒤집으면 아주머니가 후회하는 이유가 사라집니다."}
+ ],
+ "18.48.0": [
+  {"t":"mod","q":"<b>dragging the river for us</b> 는 무슨 뜻입니까?","a":"우리(세 아이)를 찾으려고 강바닥을 갈고리로 훑는 것 — 시신을 건지려는 작업입니다","tip":"drag 를 '끌고 가다'로 읽으면 말이 되지 않습니다. for us 도 '우리를 위해'가 아니라 '우리를 찾으려고'입니다."},
+  {"t":"who","q":"<b>you and old Miss Harper hugged and cried</b> — 껴안고 운 사람은 누구입니까?","a":"폴리 이모(you)와 하퍼 아주머니 두 사람","tip":"말하고 있는 사람은 톰입니다. 톰이 그 자리에 낀 것이 아닙니다."},
+  {"t":"pron","q":"<b>and she went</b> 의 she 는 누구입니까?","a":"하퍼 아주머니(old Miss Harper) — 이야기를 마치고 돌아간 쪽입니다","tip":"바로 앞에 두 사람이 나와 폴리 이모로 잡기 쉽습니다. 그 집은 이모의 집이므로 자리를 뜬 쪽은 손님입니다."}
+ ],
+ "18.50.1": [
+  {"t":"neg","q":"<b>‘We ain’t dead—we are only off being pirates,’</b> — 이 쪽지는 무슨 뜻입니까?","a":"우리는 죽지 않았고, 그저 해적 노릇을 하러 나가 있을 뿐이라는 뜻","tip":"ain’t = aren’t. 부정을 놓치면 쪽지 내용이 정반대가 됩니다."},
+  {"t":"pron","q":"<b>and put it on the table by the candle</b> 의 it 은 무엇입니까?","a":"글을 적은 그 플라타너스 나무껍질 조각","tip":"촛불이나 침대로 잡기 쉽습니다. 앞의 a piece of sycamore bark 를 받습니다."},
+  {"t":"mod","q":"<b>laying there asleep</b> 는 누구를 설명합니까?","a":"폴리 이모(you) — 거기 잠들어 누워 있던 사람은 이모입니다","tip":"바로 앞 절의 주어가 you 입니다. 톰에게 붙이면 장면이 뒤집힙니다."},
+  {"t":"who","q":"<b>I went and leaned over and kissed you on the lips</b> — 입을 맞춘 쪽과 맞춤을 받은 쪽은 각각 누구입니까?","a":"입을 맞춘 쪽은 톰(I), 받은 쪽은 폴리 이모(you)","tip":"톰이 '꿈 이야기'인 척 실제로 있었던 일을 옮기는 대목입니다."}
+ ],
+ "18.53.3": [
+  {"t":"mod","q":"<b>that’s long-suffering and merciful to them</b> 는 무엇을 설명하는 말입니까?","a":"앞에 나온 하느님 아버지(the good God and Father of us all)","tip":"가까이 있는 you(톰)를 꾸미는 말로 붙이기 쉽습니다. 오래 참고 자비로우신 쪽은 하느님입니다."},
+  {"t":"pron","q":"<b>merciful to them that believe on Him</b> 에서 them 과 Him 은 각각 누구입니까?","a":"them = 하느님을 믿고 그 말씀을 지키는 사람들, Him = 하느님","tip":"them 을 톰과 아이들로 잡기 쉽습니다. 대문자 Him 은 하느님을 가리키는 표시입니다."},
+  {"t":"neg","q":"<b>though goodness knows I’m unworthy of it</b> — 이모는 자기가 그 은혜를 받을 자격이 있다고 말합니까?","a":"아니요 — 자기는 자격이 없는 사람이라고 말합니다","tip":"unworthy 의 un- 을 놓치면 정반대가 됩니다. goodness knows 는 '뻔히 알다시피'라는 뜻입니다."},
+  {"t":"neg","q":"<b>there’s few enough would smile here or ever enter into His rest</b> — 웃고 안식에 들 사람이 많다는 뜻입니까, 적다는 뜻입니까?","a":"거의 없다는 뜻입니다","tip":"few 는 그 자체로 '거의 없다'는 부정입니다. enough 가 붙어도 '충분히 많다'가 되지 않습니다."}
+ ],
+ "18.55.2": [
+  {"t":"neg","q":"<b>he tried not to seem to see the looks or hear the remarks</b> — 톰은 사람들의 시선과 말을 못 알아챘습니까?","a":"아니요 — 다 보고 듣고 있었지만 못 본 척, 못 들은 척하려 했습니다","tip":"not 이 seem 앞에 붙어 '못 본 것처럼 보이려 했다'가 됩니다. '보지 않으려 했다'와는 다릅니다."},
+  {"t":"pron","q":"<b>but they were food and drink to him</b> 의 they 는 무엇입니까?","a":"사람들의 시선과 수군거림(the looks and the remarks)","tip":"사람들로 잡기 쉽습니다. 톰에게는 그 시선과 말이 밥과 물처럼 달콤했다는 뜻입니다."},
+  {"t":"time","q":"<b>as he passed along</b> 은 '그가 지나간 뒤'입니까, '지나가는 동안'입니까?","a":"지나가는 동안","tip":"여기서 as 는 '~ 때문에'나 '~처럼'이 아니라 '~하는 동안'입니다."}
+ ],
+ "18.55.3": [
+  {"t":"who","q":"<b>Smaller boys than himself flocked at his heels</b> — 따라다닌 쪽과 뒤를 내준 쪽은 각각 누구입니까?","a":"따라다닌 쪽은 톰보다 어린 아이들, 뒤를 내준 쪽은 톰","tip":"at his heels 는 '발뒤꿈치에 붙어서', 즉 졸졸 따라다닌다는 뜻입니다."},
+  {"t":"who","q":"<b>as proud to be seen with him, and tolerated by him</b> — 자랑스러워한 사람은 누구입니까?","a":"어린 아이들 — 톰과 함께 다니는 것, 그리고 톰이 끼워 주는 것을 자랑스러워했습니다","tip":"톰이 자랑스러워한 것으로 읽기 쉽습니다. tolerated by him 은 '톰에게 봐줌을 받는'이라는 수동입니다."},
+  {"t":"mod","q":"<b>leading a menagerie into town</b> 는 무엇을 꾸밉니까?","a":"코끼리(the elephant)","tip":"톰을 꾸미는 말로 붙이기 쉽습니다. 동물 쇼단을 이끌고 들어오는 것은 코끼리입니다."},
+  {"t":"time","q":"<b>as if he had been the drummer at the head of a procession</b> — 톰은 실제로 행렬 앞에서 북을 치는 사람이었습니까?","a":"아니요 — '마치 ~라도 되는 듯이'라는 비유일 뿐입니다","tip":"as if + had been 은 사실이 아닌 가정입니다. 실제로 있었던 일로 읽으면 장면이 어긋납니다."}
+ ],
+ "18.55.5": [
+  {"t":"pron","q":"<b>They would have given anything</b> 의 They 와 <b>that swarthy sun-tanned skin of his</b> 의 his 는 각각 누구입니까?","a":"They = 톰을 따라다니던 어린 아이들, his = 톰","tip":"한 문장 안에서 가리키는 사람이 다릅니다. 부러워하는 쪽이 They, 부러움을 받는 쪽이 톰입니다."},
+  {"t":"pron","q":"<b>would not have parted with either</b> 의 either 는 무엇입니까?","a":"그 두 가지 — 새까맣게 그을린 살갗과 번쩍이는 악명","tip":"either 는 '둘 중 어느 하나'입니다. 부정문과 함께 쓰여 '둘 중 어느 것도 ~않다'가 됩니다."},
+  {"t":"neg","q":"<b>Tom would not have parted with either</b> — 톰은 그것들을 내주었을까요?","a":"아니요 — 어느 하나도 내주지 않았을 것입니다","tip":"part with 는 '내주다, 넘기다'입니다. not 을 놓치면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>for a circus</b> 는 무슨 뜻입니까?","a":"서커스 구경을 대가로 준다 해도 — '서커스를 위해'가 아닙니다","tip":"여기서 for 는 맞바꾸는 대가를 나타냅니다. 아이에게 서커스는 최고의 값이라 '그런 걸 줘도 안 바꾼다'는 뜻이 됩니다."}
+ ],
+ "18.56.0": [
+  {"t":"who","q":"<b>the children made so much of him and of Joe</b> — 떠받든 쪽과 떠받들어진 쪽은 각각 누구입니까?","a":"떠받든 쪽은 학교 아이들, 떠받들어진 쪽은 톰(him)과 조","tip":"make much of ~ 는 '~를 대단하게 떠받들다'입니다. '만들었다'로 읽으면 문장이 무너집니다."},
+  {"t":"mod","q":"<b>delivered such eloquent admiration from their eyes</b> — 감탄은 무엇을 통해, 누구에게서 나왔습니까?","a":"학교 아이들(their = the children)의 눈빛에서 — 말이 아니라 눈으로 쏟아 낸 감탄입니다","tip":"eloquent(웅변하는)가 붙어 있어 말로 했다고 읽기 쉽고, their 를 톰과 조로 잡기도 쉽습니다."},
+  {"t":"neg","q":"<b>the two heroes were not long in becoming insufferably “stuck-up.”</b> — 두 아이가 잘난 척쟁이가 되기까지 오래 걸렸습니까?","a":"아니요 — 얼마 지나지 않아 금방 그렇게 됐습니다","tip":"not long in ~ing 는 '~하는 데 오래 걸리지 않았다'입니다. '오래도록 그렇게 되지 않았다'로 읽으면 정반대입니다."}
+ ],
+ "18.56.1": [
+  {"t":"neg","q":"<b>but they only began</b> — 그들은 모험담을 끝까지 다 이야기했습니까?","a":"아니요 — 시작만 했을 뿐입니다(이야기는 끝나지 않았습니다)","tip":"대시 뒤는 앞말을 비꼬아 정정하는 곁말입니다. only began 은 '시작에 지나지 않았다'는 뜻입니다."},
+  {"t":"mod","q":"<b>hungry listeners</b> 는 어떤 사람들입니까?","a":"이야기를 더 듣고 싶어 안달이 난 청중 — 배가 고픈 사람들이 아닙니다","tip":"hungry 가 몸의 배고픔이 아니라 마음의 굶주림을 나타냅니다."},
+  {"t":"neg","q":"<b>it was not a thing likely to have an end</b> — 그 이야기는 끝이 날 것 같았습니까?","a":"아니요 — 끝날 법한 일이 아니었습니다","tip":"not 이 likely 앞에 있습니다. '끝이 있을 것 같았다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>with imaginations like theirs</b> 의 theirs 는 누구의 것입니까?","a":"톰과 조의 상상력","tip":"바로 앞의 hungry listeners(청중)로 잡기 쉽습니다. 이야깃거리를 끝없이 지어내는 쪽은 두 아이입니다."}
+ ],
+ "18.57.8": [
+  {"t":"mod","q":"<b>with flushed face and dancing eyes</b> 는 누구의 모습입니까?","a":"그녀(베키)","tip":"문장의 주어가 he(톰)라 톰에게 붙이기 쉽습니다. 톰이 지켜본 것은 베키의 모습입니다."},
+  {"t":"neg","q":"<b>pretending to be busy chasing schoolmates</b> — 베키는 정말로 동무들을 쫓느라 바빴습니까?","a":"아니요 — 바쁜 척한 것입니다","tip":"pretending 을 놓치면 그냥 신나게 노는 장면이 되어, 톰을 의식하고 있다는 이 대목의 핵심이 사라집니다."},
+  {"t":"who","q":"<b>when she made a capture</b> — 붙잡는 쪽과 붙잡히는 쪽은 각각 누구입니까?","a":"붙잡는 쪽은 베키, 붙잡히는 쪽은 같이 놀던 동무들(schoolmates) — 톰이 아닙니다","tip":"바로 뒤에 in his vicinity 가 나와 톰을 붙잡았다고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>in his vicinity</b> 와 <b>in his direction</b> 의 his 는 누구입니까?","a":"둘 다 톰","tip":"가까운 주어가 she(베키)라 베키로 잡기 쉽습니다. 베키가 일부러 톰 근처에서만 붙잡았다는 것이 요점입니다."}
+ ],
+ "18.57.9": [
+  {"t":"pron","q":"이 문장을 여는 <b>It</b> 은 무엇을 가리킵니까?","a":"앞 문장에서 말한 베키의 행동 — 늘 톰 근처에서만 붙잡고 톰 쪽을 흘낏거린 것","tip":"사물 하나를 찾으면 안 됩니다. 앞 문장 전체의 내용을 받습니다."},
+  {"t":"mod","q":"<b>that was in him</b> 는 무엇을 설명하는 말입니까?","a":"고약한 허영심(the vicious vanity) — 톰 안에 들어 있던 그 허영심","tip":"him(톰)을 꾸미는 말로 붙이면 뜻이 흐려집니다. 관계절은 바로 앞 명사 vanity 를 받습니다."},
+  {"t":"neg","q":"<b>instead of winning him</b> — 베키의 그 행동은 톰의 마음을 얻었습니까?","a":"아니요 — 마음을 얻기는커녕 오히려 더 우쭐거리게 만들었습니다","tip":"instead of ~ 를 '~하는 대신'으로만 옮기면 힘이 빠집니다. 여기서는 '~하기는커녕'입니다."},
+  {"t":"neg","q":"<b>to avoid betraying that he knew she was about</b> — 톰은 그녀가 근처에 있다는 것을 알고 있었습니까?","a":"네, 알고 있었습니다 — 다만 안다는 티를 내지 않으려고 애썼습니다","tip":"betray 는 '배신하다'가 아니라 '속마음을 드러내다'입니다. avoid 만 보고 '몰랐다'로 읽으면 정반대입니다."}
+ ],
+ "18.70.0": [
+  {"t":"mod","q":"<b>every one that’s friends to me—or wants to be</b> — wants to be 뒤에 생략된 말은 무엇입니까?","a":"friends to me — '나와 친해지고 싶어 하는 사람도'라는 뜻입니다","tip":"되풀이되는 말이 통째로 빠졌습니다. '되고 싶어 하는'만 남아 무엇이 되고 싶은지 놓치기 쉽습니다."},
+  {"t":"who","q":"<b>she glanced ever so furtively at Tom</b> — 슬그머니 흘낏 본 쪽과 보인 쪽은 각각 누구입니까?","a":"본 쪽은 베키(she), 보인 쪽은 톰","tip":"둘을 뒤집으면 이 장면의 힘겨루기가 정반대가 됩니다. 톰은 일부러 안 보는 쪽입니다."},
+  {"t":"who","q":"<b>but he talked right along to Amy Lawrence</b> — 톰이 이야기를 늘어놓은 상대는 누구입니까?","a":"에이미 로렌스 — 베키가 아닙니다","tip":"right along 은 '곧장'이 아니라 '아랑곳없이 계속'입니다. 베키를 못 본 척하려고 일부러 에이미에게 떠든 것입니다."},
+  {"t":"pron","q":"<b>standing within three feet of it</b> 의 it 은 무엇입니까?","a":"그 커다란 플라타너스 나무(the great sycamore tree)","tip":"폭풍이나 번개로 잡기 쉽습니다. 번개 맞은 나무에서 3피트도 안 되는 데 서 있었다는 허풍입니다."}
+ ],
+ "18.77.2": [
+  {"t":"pron","q":"<b>she hid these signs</b> 의 these signs 는 무엇입니까?","a":"입술이 떨리고 눈에 눈물이 고인 것 — 울음이 터지려는 기색","tip":"앞 절의 두 가지를 한꺼번에 받는 말입니다. 무슨 신호나 표지판이 아닙니다."},
+  {"t":"neg","q":"<b>with a forced gayety</b> — 베키는 정말로 즐거웠습니까?","a":"아니요 — 억지로 꾸며 낸 명랑함입니다","tip":"forced 를 놓치면 베키가 아무렇지 않았다는 정반대 장면이 됩니다."},
+  {"t":"mod","q":"<b>the life had gone out of the picnic</b> 는 무슨 뜻입니까?","a":"소풍 이야기에서 생기와 재미가 다 빠져나가 버렸다는 뜻","tip":"the life 를 '목숨'으로 읽으면 사람이 죽은 이야기가 됩니다. 여기서는 '활기'입니다."},
+  {"t":"pron","q":"<b>what her sex call “a good cry”</b> 의 her sex 는 누구를 말합니까?","a":"여자들 — 베키와 같은 여성들이 그렇게 부른다는 뜻입니다","tip":"여기서 sex 는 '성(性)', 즉 남녀로 나눈 무리를 가리킵니다. 다른 뜻으로 읽으면 문장이 통하지 않습니다."}
+ ],
+ "18.78.3": [
+  {"t":"who","q":"<b>She was sitting ... looking at a picture-book with Alfred Temple</b> — 벤치에 나란히 앉아 그림책을 보던 사람은 누구와 누구입니까?","a":"베키와 앨프리드 템플 — 톰이 아닙니다","tip":"톰이 멀리서 보고 있는 장면입니다. 톰이 낀 것으로 읽으면 뒤에 이어지는 톰의 질투가 설명되지 않습니다."},
+  {"t":"who","q":"<b>and so absorbed were they</b> — 푹 빠져 있던 사람은 누구입니까?","a":"베키와 앨프리드 두 사람","tip":"보어가 앞으로 나온 도치 문장이라 주어를 찾기 어렵습니다. were 뒤의 they 가 주어입니다."},
+  {"t":"mod","q":"<b>and their heads so close together over the book</b> 는 무엇을 설명합니까?","a":"두 사람의 머리 — 책 위로 머리를 바짝 맞대고 있었다는 뜻입니다","tip":"되풀이되는 were 가 빠졌습니다. 앞의 so absorbed were they 와 나란히 놓인 부분입니다."},
+  {"t":"neg","q":"<b>they did not seem to be conscious of anything in the world besides</b> — 두 사람은 주위를 알아차리고 있었습니까?","a":"아니요 — 그 밖의 어떤 것도 눈에 들어오지 않는 듯했습니다","tip":"not ... anything 은 '아무것도 ~않다'입니다. besides 는 '게다가'가 아니라 '그 밖의'입니다."}
+ ],
+ "18.78.9": [
+  {"t":"neg","q":"<b>He did not hear what Amy was saying</b> — 톰은 에이미의 말을 듣고 있었습니까?","a":"아니요 — 귀에 들어오지 않았습니다","tip":"소리가 안 들린 것이 아니라 마음이 딴 데 가 있어 알아듣지 못했다는 뜻입니다."},
+  {"t":"who","q":"<b>whenever she paused expectantly</b> — 말을 멈춘 사람과 맞장구를 친 사람은 각각 누구입니까?","a":"말을 멈춘 쪽은 에이미(she), 맞장구를 친 쪽은 톰(he)","tip":"expectantly 는 '대답을 기다리며'입니다. 주어가 she 에서 he 로 바뀌는 자리입니다."},
+  {"t":"pron","q":"<b>which was as often misplaced as otherwise</b> 의 which 는 무엇을 받습니까?","a":"톰이 더듬거린 그 어색한 맞장구(an awkward assent)","tip":"에이미나 톰으로 잡기 쉽습니다. 쉼표 뒤의 which 는 바로 앞 명사를 다시 설명합니다."},
+  {"t":"mod","q":"<b>as often misplaced as otherwise</b> 는 무슨 뜻입니까?","a":"엉뚱한 자리에 붙는 경우가 제대로 붙는 경우만큼이나 잦았다는 뜻","tip":"otherwise 는 '그렇지 않은 경우', 즉 제대로 맞아떨어진 경우를 말합니다. as ~ as 는 '~만큼'입니다."}
+ ],
+ "18.82.2": [
+  {"t":"neg","q":"<b>no Tom came to suffer</b> — 톰이 왔습니까?","a":"아니요 — 오지 않았습니다","tip":"이름 앞의 no 가 부정입니다. '괴로워하러 온 톰은 없었다', 즉 톰이 끝내 나타나지 않았다는 뜻입니다."},
+  {"t":"who","q":"<b>her triumph began to cloud</b> — 흐려지기 시작한 것은 무엇입니까?","a":"베키의 승리감(her triumph)","tip":"cloud 를 명사 '구름'으로 읽으면 날씨 이야기가 됩니다. 여기서는 '흐려지다'라는 동사입니다."},
+  {"t":"time","q":"<b>as the minutes dragged along</b> — 시간이 빨리 갔습니까, 더디게 갔습니까?","a":"더디게 갔습니다","tip":"drag 는 '질질 끌리다'입니다. 톰을 기다리는 베키에게 시간이 더디게 느껴졌다는 뜻입니다."},
+  {"t":"pron","q":"<b>but it was a false hope</b> 의 it 은 무엇입니까?","a":"발소리를 듣고 톰인가 하고 품었던 기대","tip":"발소리(a footstep) 자체가 거짓이었다는 말이 아니라, 그 소리에 걸었던 기대가 헛되었다는 뜻입니다."}
+ ],
+ "18.82.4": [
+  {"t":"who","q":"<b>kept exclaiming</b> 한 사람과 <b>she lost patience at last, and said</b> 한 사람은 각각 누구입니까?","a":"소리쳐 댄 쪽은 앨프리드, 참다못해 쏘아붙인 쪽은 베키(she)","tip":"When 절이 길어 주어 poor Alfred 와 동사 kept 가 멀리 떨어져 있습니다. 주절은 she 부터 시작합니다."},
+  {"t":"pron","q":"<b>seeing that he was losing her</b> 의 he 와 her 는 각각 누구입니까?","a":"he = 앨프리드, her = 베키(의 마음)","tip":"여기서 lose 는 '잃어버리다', 즉 상대의 마음이 자기에게서 멀어진다는 뜻입니다."},
+  {"t":"mod","q":"<b>he did not know how</b> 는 무엇을 말하는 곁말입니까?","a":"앨프리드 자신도 어쩌다 그렇게 됐는지 영문을 몰랐다는 뜻입니다","tip":"쉼표 사이에 끼워 넣은 삽입절입니다. 주어가 하나 더 있는 것으로 착각해 문장 구조를 놓치기 쉽습니다."}
+ ],
+ "18.85.0": [
+  {"t":"pron","q":"<b>So the boy halted</b> 의 the boy 는 누구입니까?","a":"앨프리드 템플 — 톰이 아닙니다","tip":"장 전체의 주인공이 톰이라 톰으로 잡기 쉽습니다. 이 자리에 톰은 없습니다."},
+  {"t":"mod","q":"대시로 묶인 <b>for she had said she would look at pictures all through the nooning</b> 은 무엇을 설명합니까?","a":"앨프리드가 어리둥절해한 이유 — 베키가 점심시간 내내 그림을 보겠다고 했었기 때문입니다","tip":"여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다. nooning 은 한낮의 점심 쉬는 시간입니다."},
+  {"t":"who","q":"<b>and she walked on, crying</b> — 울면서 걸어가 버린 사람은 누구입니까?","a":"베키(she)","tip":"바로 앞이 앨프리드 이야기라 그대로 이어 읽기 쉽습니다. 멈춰 선 쪽이 앨프리드, 가 버린 쪽이 베키입니다."}
+ ]
+}

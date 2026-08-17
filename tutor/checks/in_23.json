@@ -1,0 +1,735 @@
+[
+ {
+  "id": "23.0.3",
+  "en": "Every reference to the murder sent a shudder to his heart, for his troubled conscience and fears almost persuaded him that these remarks were put forth in his hearing as “feelers”; he did not see how he could be suspected of knowing anything about the murder, but still he could not be comfortable in the midst of this gossip.",
+  "s": "Every reference to the murder",
+  "v": "sent",
+  "ko": "살인 이야기가 나올 때마다 그의 가슴은 오싹해졌다. 괴로운 양심과 두려움 탓에, 그런 말들이 자기 들으라고 떠보려 던지는 말이라는 생각이 자꾸 들었기 때문이다. 자기가 그 살인에 대해 뭔가 안다고 어떻게 의심받을 수 있는지는 알 수 없었지만, 그래도 이런 소문 한가운데서 마음이 편할 수는 없었다.",
+  "chunks": [
+   {
+    "en": "Every reference to the murder",
+    "ko": "살인 사건에 대한 언급 하나하나가",
+    "r": "주어"
+   },
+   {
+    "en": "sent a shudder to his heart,",
+    "ko": "그의 가슴을 오싹하게 만들었다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "for his troubled conscience and fears",
+    "ko": "괴로운 양심과 두려움이",
+    "r": "부사절(이유, for=because)의 주어"
+   },
+   {
+    "en": "almost persuaded him",
+    "ko": "그를 거의 믿게 만들었기 때문이다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "that these remarks were put forth in his hearing",
+    "ko": "이런 말들이 그가 듣는 데서 일부러 던져진 것이라고",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "as “feelers”;",
+    "ko": "'떠보는 말'로서",
+    "r": "전치사구(자격)"
+   },
+   {
+    "en": "he did not see how he could be suspected",
+    "ko": "그는 자기가 어떻게 의심받을 수 있는지 알 수 없었다",
+    "r": "대등절(주어 + 동사 + 목적어)"
+   },
+   {
+    "en": "of knowing anything about the murder,",
+    "ko": "그 살인에 대해 뭔가 안다고 (의심받는 것)",
+    "r": "전치사구"
+   },
+   {
+    "en": "but still he could not be comfortable",
+    "ko": "하지만 그래도 마음이 편할 수는 없었다",
+    "r": "대등절(반전)"
+   },
+   {
+    "en": "in the midst of this gossip.",
+    "ko": "이런 소문 한가운데서는",
+    "r": "전치사구(장소)"
+   }
+  ]
+ },
+ {
+  "id": "23.0.6",
+  "en": "It would be some relief to unseal his tongue for a little while; to divide his burden of distress with another sufferer.",
+  "s": "It",
+  "v": "would be",
+  "ko": "잠시나마 입을 열어 보는 것, 괴로움의 짐을 같이 고통받는 사람과 나누는 것은 얼마간 위안이 될 것 같았다.",
+  "chunks": [
+   {
+    "en": "It would be some relief",
+    "ko": "그것은 얼마간 위안이 될 터였다",
+    "r": "가주어 + 동사 + 보어"
+   },
+   {
+    "en": "to unseal his tongue for a little while;",
+    "ko": "잠시나마 봉해 둔 입을 여는 것은",
+    "r": "진주어(to부정사)"
+   },
+   {
+    "en": "to divide his burden of distress with another sufferer.",
+    "ko": "괴로움의 짐을 같이 괴로워하는 사람과 나누는 것은",
+    "r": "진주어(to부정사, 앞과 나란히)"
+   }
+  ]
+ },
+ {
+  "id": "23.18.2",
+  "en": "Just fishes a little, to get money to get drunk on—and loafs around considerable; but lord, we all do that—leastways most of us—preachers and such like.",
+  "s": "",
+  "v": "fishes",
+  "ko": "그냥 취하도록 마실 돈이나 벌려고 낚시를 좀 하고, 꽤 빈둥거리며 돌아다니지. 근데 참, 우리도 다 그러잖아—적어도 대부분은—목사들이나 그런 사람들까지 말이야.",
+  "chunks": [
+   {
+    "en": "Just fishes a little,",
+    "ko": "(그 사람은) 그냥 낚시나 좀 하고",
+    "r": "동사(주어 He 생략)"
+   },
+   {
+    "en": "to get money to get drunk on—and loafs around considerable;",
+    "ko": "취하도록 마실 돈이나 벌려고—그러고는 꽤나 빈둥거리며 돌아다니지",
+    "r": "목적(to부정사) + 대등 동사"
+   },
+   {
+    "en": "but lord, we all do that—leastways most of us—preachers and such like.",
+    "ko": "하지만 참, 우리도 다 그러잖아—적어도 대부분은—목사들이나 그런 사람들도",
+    "r": "대등절 + 곁말(대시 삽입)"
+   }
+  ]
+ },
+ {
+  "id": "23.18.3",
+  "en": "But he’s kind of good—he give me half a fish, once, when there warn’t enough for two; and lots of times he’s kind of stood by me when I was out of luck.”",
+  "s": "he",
+  "v": "’s",
+  "ko": "그래도 걘 좀 착한 구석이 있어. 언젠가 둘이 먹기엔 모자랐는데도 나한테 물고기 반 마리를 줬거든. 그리고 내가 운이 없을 때 여러 번 내 편이 되어 줬고.",
+  "chunks": [
+   {
+    "en": "But he’s kind of good—he give me half a fish, once,",
+    "ko": "그래도 걘 좀 착한 데가 있어—언젠가 나한테 물고기 반 마리를 줬거든",
+    "r": "주어 + 동사 + 보어 + 곁말(대시)"
+   },
+   {
+    "en": "when there warn’t enough for two;",
+    "ko": "둘이 먹기엔 모자랐을 때인데도",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and lots of times he’s kind of stood by me",
+    "ko": "그리고 여러 번 내 편이 되어 줬어",
+    "r": "대등절"
+   },
+   {
+    "en": "when I was out of luck.”",
+    "ko": "내가 운이 없을 때",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "23.25.1",
+  "en": "As the twilight drew on, they found themselves hanging about the neighborhood of the little isolated jail, perhaps with an undefined hope that something would happen that might clear away their difficulties.",
+  "s": "they",
+  "v": "found",
+  "ko": "땅거미가 내려앉을 무렵, 그들은 어느새 외따로 떨어진 작은 유치장 근처를 서성거리고 있었다. 아마도 무슨 일인가 일어나 자기들의 곤경을 걷어내 줄지 모른다는 막연한 희망 때문이었을 것이다.",
+  "chunks": [
+   {
+    "en": "As the twilight drew on,",
+    "ko": "땅거미가 내려앉을 무렵",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "they found themselves hanging about",
+    "ko": "그들은 어느새 자기들이 서성거리고 있음을 깨달았다",
+    "r": "주어 + 동사 + 목적어 + 보어(~하고 있는)"
+   },
+   {
+    "en": "the neighborhood of the little isolated jail,",
+    "ko": "외따로 선 작은 유치장 근처를",
+    "r": "장소(hang about의 대상)"
+   },
+   {
+    "en": "perhaps with an undefined hope",
+    "ko": "아마도 어떤 막연한 희망을 품고서",
+    "r": "전치사구(이유·상태)"
+   },
+   {
+    "en": "that something would happen",
+    "ko": "무슨 일인가 일어나 주어서",
+    "r": "동격절(hope의 내용)"
+   },
+   {
+    "en": "that might clear away their difficulties.",
+    "ko": "자기들의 곤경을 걷어내 줄지도 모른다는",
+    "r": "관계절(something 설명)"
+   }
+  ]
+ },
+ {
+  "id": "23.28.2",
+  "en": "Often I says to myself, says I, ‘I used to mend all the boys’ kites and things, and show ’em where the good fishin’ places was, and befriend ’em what I could, and now they’ve all forgot old Muff when he’s in trouble; but Tom don’t, and Huck don’t—they don’t forget him,’ says I, ‘and I don’t forget them.’",
+  "s": "I",
+  "v": "says",
+  "ko": "나는 종종 속으로 이렇게 말한다니까. '난 예전에 애들 연이란 연은 다 고쳐 주고, 낚시 잘 되는 자리도 알려 주고, 할 수 있는 만큼 잘해 줬는데, 이제 늙은 머프가 곤경에 빠지니까 다들 잊어버렸구나. 하지만 톰은 안 그래, 허크도 안 그래—걔들은 나를 안 잊어.' 그러고 또 이러지. '나도 걔들을 안 잊는다고.'",
+  "chunks": [
+   {
+    "en": "Often I says to myself, says I,",
+    "ko": "나는 종종 속으로 이렇게 말하지, 내가 말이야",
+    "r": "부사 + 주어 + 동사 + 전달동사(되풀이)"
+   },
+   {
+    "en": "‘I used to mend all the boys’ kites and things,",
+    "ko": "'난 예전에 애들 연이며 이것저것 다 고쳐 주고",
+    "r": "인용(대사) 시작"
+   },
+   {
+    "en": "and show ’em where the good fishin’ places was,",
+    "ko": "낚시 잘 되는 자리도 알려 주고",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and befriend ’em what I could,",
+    "ko": "할 수 있는 만큼 잘해 줬는데",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and now they’ve all forgot old Muff",
+    "ko": "이제 다들 늙은 머프를 잊어버렸어",
+    "r": "대등절"
+   },
+   {
+    "en": "when he’s in trouble;",
+    "ko": "그가 곤경에 빠지니까",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "but Tom don’t, and Huck don’t—they don’t forget him,’ says I,",
+    "ko": "하지만 톰은 안 그래, 허크도 안 그래—걔들은 날 안 잊어' 하고 내가 말하지",
+    "r": "대등절 + 곁말(대시) + 전달동사"
+   },
+   {
+    "en": "‘and I don’t forget them.’",
+    "ko": "'그리고 나도 걔들을 안 잊어'",
+    "r": "인용(대사) 이어짐"
+   }
+  ]
+ },
+ {
+  "id": "23.28.3",
+  "en": "Well, boys, I done an awful thing—drunk and crazy at the time—that’s the only way I account for it—and now I got to swing for it, and it’s right.",
+  "s": "I",
+  "v": "done",
+  "ko": "자, 얘들아, 난 끔찍한 짓을 저질렀어—그때는 취하고 정신이 나가 있었지—내가 그 일을 설명할 수 있는 건 그것뿐이야—그리고 이제 그 대가로 목이 매달려야 해. 그게 마땅하고.",
+  "chunks": [
+   {
+    "en": "Well, boys, I done an awful thing—drunk",
+    "ko": "자, 얘들아, 난 끔찍한 짓을 저질렀어—그땐 취하고",
+    "r": "주어 + 동사 + 목적어 + 곁말(대시)"
+   },
+   {
+    "en": "and crazy at the time—that’s the only way",
+    "ko": "정신도 나가 있었지—그게 유일한 설명이야",
+    "r": "곁말 이어짐 + 삽입절"
+   },
+   {
+    "en": "I account for it—and now I got to swing for it,",
+    "ko": "내가 그 일을 해명할 수 있는—그리고 이제 그 대가로 목이 매달려야 해",
+    "r": "관계절(way 설명) + 대등절"
+   },
+   {
+    "en": "and it’s right.",
+    "ko": "그리고 그게 마땅한 일이야",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "23.28.8",
+  "en": "Stand a litter furder west—so—that’s it; it’s a prime comfort to see faces that’s friendly when a body’s in such a muck of trouble, and there don’t none come here but yourn.",
+  "s": "",
+  "v": "Stand",
+  "ko": "조금만 더 서쪽으로 서 봐—그래—됐다. 사람이 이런 진창 같은 곤경에 빠져 있을 때 다정한 얼굴을 본다는 건 더없는 위안이야. 그런데 여기 찾아오는 얼굴이라곤 너희밖에 없구나.",
+  "chunks": [
+   {
+    "en": "Stand a litter furder west—so—that’s it;",
+    "ko": "조금만 더 서쪽으로 서 봐—그래—됐다",
+    "r": "명령문(주어 없음) + 곁말(대시)"
+   },
+   {
+    "en": "it’s a prime comfort to see faces that’s friendly",
+    "ko": "다정한 얼굴을 본다는 건 더없는 위안이야",
+    "r": "가주어 + 동사 + 보어 + 진주어(to부정사)"
+   },
+   {
+    "en": "when a body’s in such a muck of trouble,",
+    "ko": "사람이 이런 진창 같은 곤경에 빠져 있을 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and there don’t none come here but yourn.",
+    "ko": "그리고 여기 오는 얼굴이라곤 너희 것밖에 없어",
+    "r": "대등절(사투리 이중부정)"
+   }
+  ]
+ },
+ {
+  "id": "23.29.1",
+  "en": "The next day and the day after, he hung about the courtroom, drawn by an almost irresistible impulse to go in, but forcing himself to stay out.",
+  "s": "he",
+  "v": "hung",
+  "ko": "다음 날도 그다음 날도 그는 법정 주변을 서성거렸다. 거의 뿌리칠 수 없는 충동에 이끌려 안으로 들어가고 싶었지만, 억지로 자신을 눌러 밖에 있었다.",
+  "chunks": [
+   {
+    "en": "The next day and the day after,",
+    "ko": "다음 날도 그다음 날도",
+    "r": "시간"
+   },
+   {
+    "en": "he hung about the courtroom,",
+    "ko": "그는 법정 주변을 서성거렸다",
+    "r": "주어 + 동사 + 장소"
+   },
+   {
+    "en": "drawn by an almost irresistible impulse to go in,",
+    "ko": "거의 뿌리칠 수 없는, 들어가고 싶은 충동에 이끌린 채",
+    "r": "과거분사구(~된 채로)"
+   },
+   {
+    "en": "but forcing himself to stay out.",
+    "ko": "그러면서도 억지로 자신을 눌러 밖에 머물면서",
+    "r": "분사구문(~하면서, 대조)"
+   }
+  ]
+ },
+ {
+  "id": "23.29.5",
+  "en": "Tom kept his ears open when idlers sauntered out of the courtroom, but invariably heard distressing news—the toils were closing more and more relentlessly around poor Potter.",
+  "s": "Tom",
+  "v": "kept",
+  "ko": "톰은 한량들이 법정에서 어슬렁어슬렁 걸어 나올 때면 귀를 쫑긋 세웠지만, 들리는 것은 언제나 괴로운 소식뿐이었다—올가미가 가엾은 포터를 점점 더 무자비하게 조여 오고 있었다.",
+  "chunks": [
+   {
+    "en": "Tom kept his ears open",
+    "ko": "톰은 귀를 쫑긋 세우고 있었다",
+    "r": "주어 + 동사 + 목적어 + 보어"
+   },
+   {
+    "en": "when idlers sauntered out of the courtroom,",
+    "ko": "한량들이 법정에서 어슬렁어슬렁 나올 때면",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "but invariably heard distressing news—the toils were closing",
+    "ko": "하지만 언제나 괴로운 소식뿐이었다—올가미가 조여들고 있었던 것이다",
+    "r": "대등 동사 + 곁말(대시)"
+   },
+   {
+    "en": "more and more relentlessly around poor Potter.",
+    "ko": "가엾은 포터를 점점 더 무자비하게",
+    "r": "부사 + 전치사구"
+   }
+  ]
+ },
+ {
+  "id": "23.29.6",
+  "en": "At the end of the second day the village talk was to the effect that Injun Joe’s evidence stood firm and unshaken, and that there was not the slightest question as to what the jury’s verdict would be.",
+  "s": "the village talk",
+  "v": "was",
+  "ko": "이틀째가 저물 무렵 마을에 도는 이야기는, 인전 조의 증언이 확고해 흔들림이 없고 배심원단의 평결이 어떻게 나올지에는 조금의 의문도 없다는 것이었다.",
+  "chunks": [
+   {
+    "en": "At the end of the second day",
+    "ko": "이틀째가 끝날 무렵",
+    "r": "시간"
+   },
+   {
+    "en": "the village talk was to the effect",
+    "ko": "마을에 도는 이야기는 이런 취지였다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "that Injun Joe’s evidence stood firm and unshaken,",
+    "ko": "인전 조의 증언은 확고해서 흔들림이 없다는 것",
+    "r": "동격절(내용 1)"
+   },
+   {
+    "en": "and that there was not the slightest question",
+    "ko": "그리고 조금의 의문도 없다는 것",
+    "r": "동격절(내용 2)"
+   },
+   {
+    "en": "as to what the jury’s verdict would be.",
+    "ko": "배심원단의 평결이 어떻게 될지에 관해서는",
+    "r": "전치사구 + 의문사절"
+   }
+  ]
+ },
+ {
+  "id": "23.30.3",
+  "en": "All the village flocked to the courthouse the next morning, for this was to be the great day.",
+  "s": "All the village",
+  "v": "flocked",
+  "ko": "다음 날 아침 온 마을 사람이 법원으로 몰려들었다. 이날이야말로 그 대단한 날이 될 참이었기 때문이다.",
+  "chunks": [
+   {
+    "en": "All the village flocked to the courthouse",
+    "ko": "온 마을 사람이 법원으로 몰려들었다",
+    "r": "주어 + 동사 + 장소"
+   },
+   {
+    "en": "the next morning,",
+    "ko": "다음 날 아침",
+    "r": "시간"
+   },
+   {
+    "en": "for this was to be the great day.",
+    "ko": "이날이야말로 그 대단한 날이 될 참이었으니까",
+    "r": "부사절(이유, for=because)"
+   }
+  ]
+ },
+ {
+  "id": "23.30.5",
+  "en": "After a long wait the jury filed in and took their places; shortly afterward, Potter, pale and haggard, timid and hopeless, was brought in, with chains upon him, and seated where all the curious eyes could stare at him; no less conspicuous was Injun Joe, stolid as ever.",
+  "s": "the jury",
+  "v": "filed",
+  "ko": "오랜 기다림 끝에 배심원단이 줄지어 들어와 자리에 앉았다. 곧이어 창백하고 초췌하며 겁먹고 절망한 포터가 쇠사슬을 찬 채 끌려 들어와, 호기심에 찬 온갖 눈이 마음껏 쳐다볼 수 있는 자리에 앉혀졌다. 그에 못지않게 눈에 띈 것은 여전히 무표정한 인전 조였다.",
+  "chunks": [
+   {
+    "en": "After a long wait the jury filed in",
+    "ko": "오랜 기다림 끝에 배심원단이 줄지어 들어와",
+    "r": "시간 + 주어 + 동사"
+   },
+   {
+    "en": "and took their places;",
+    "ko": "각자 자리에 앉았다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "shortly afterward, Potter, pale and haggard, timid and hopeless,",
+    "ko": "곧이어, 창백하고 초췌하며 겁먹고 절망한 포터가",
+    "r": "대등절 주어 + 삽입(형용사 나열)"
+   },
+   {
+    "en": "was brought in, with chains upon him,",
+    "ko": "쇠사슬을 찬 채 끌려 들어와",
+    "r": "동사(수동) + 전치사구(상태)"
+   },
+   {
+    "en": "and seated where all the curious eyes could stare at him;",
+    "ko": "호기심에 찬 온갖 눈이 마음껏 쳐다볼 수 있는 자리에 앉혀졌다",
+    "r": "대등 동사(수동) + 부사절(장소)"
+   },
+   {
+    "en": "no less conspicuous was Injun Joe, stolid as ever.",
+    "ko": "그에 못지않게 눈에 띈 것은 인전 조였다, 여전히 무표정한 채로",
+    "r": "도치(보어 + 동사 + 주어)"
+   }
+  ]
+ },
+ {
+  "id": "23.31.0",
+  "en": "Now a witness was called who testified that he found Muff Potter washing in the brook, at an early hour of the morning that the murder was discovered, and that he immediately sneaked away.",
+  "s": "a witness",
+  "v": "was called",
+  "ko": "이제 한 증인이 불려 나왔는데, 그는 살인이 발견된 그날 아침 이른 시각에 머프 포터가 개울에서 몸을 씻고 있는 것을 보았고 포터가 곧바로 슬그머니 달아났다고 증언했다.",
+  "chunks": [
+   {
+    "en": "Now a witness was called",
+    "ko": "이제 한 증인이 불려 나왔다",
+    "r": "부사 + 주어 + 동사(수동)"
+   },
+   {
+    "en": "who testified that he found Muff Potter washing in the brook,",
+    "ko": "그는 머프 포터가 개울에서 몸을 씻고 있는 것을 보았다고 증언했다",
+    "r": "관계절(witness 설명) + 목적어(that절 1)"
+   },
+   {
+    "en": "at an early hour of the morning that the murder was discovered,",
+    "ko": "살인이 발견된 그날 아침 이른 시각에",
+    "r": "시간 + 관계절(morning 설명)"
+   },
+   {
+    "en": "and that he immediately sneaked away.",
+    "ko": "그리고 포터가 곧바로 슬그머니 달아났다고",
+    "r": "목적어(that절 2, testified에 이어짐)"
+   }
+  ]
+ },
+ {
+  "id": "23.42.0",
+  "en": "Every detail of the damaging circumstances that occurred in the graveyard upon that morning which all present remembered so well was brought out by credible witnesses, but none of them were cross-examined by Potter’s lawyer.",
+  "s": "Every detail",
+  "v": "was brought",
+  "ko": "그날 아침 묘지에서 벌어진, 그 자리에 있던 사람들 모두가 너무나 잘 기억하는 그 불리한 정황이 믿을 만한 증인들의 입을 통해 낱낱이 드러났다. 그러나 그중 누구도 포터의 변호사에게 반대신문을 받지 않았다.",
+  "chunks": [
+   {
+    "en": "Every detail of the damaging circumstances",
+    "ko": "그 불리한 정황의 세세한 부분 하나하나가",
+    "r": "주어(긴 주어)"
+   },
+   {
+    "en": "that occurred in the graveyard upon that morning",
+    "ko": "그날 아침 묘지에서 벌어진",
+    "r": "관계절(circumstances 설명)"
+   },
+   {
+    "en": "which all present remembered so well",
+    "ko": "그 자리에 있던 사람들 모두가 너무나 잘 기억하는",
+    "r": "관계절(that morning 설명)"
+   },
+   {
+    "en": "was brought out by credible witnesses,",
+    "ko": "믿을 만한 증인들에 의해 낱낱이 드러났다",
+    "r": "동사(수동) + 행위자"
+   },
+   {
+    "en": "but none of them were cross-examined by Potter’s lawyer.",
+    "ko": "하지만 그중 누구도 포터의 변호사에게 반대신문을 받지 않았다",
+    "r": "대등절(반전)"
+   }
+  ]
+ },
+ {
+  "id": "23.43.0",
+  "en": "“By the oaths of citizens whose simple word is above suspicion, we have fastened this awful crime, beyond all possibility of question, upon the unhappy prisoner at the bar.",
+  "s": "we",
+  "v": "have fastened",
+  "ko": "\"그 말 한마디만으로도 의심할 여지가 없는 시민들의 선서를 통해, 우리는 이 끔찍한 범죄를 한 점 의문의 여지도 없이 저 피고석의 불행한 죄수에게 못 박았습니다.",
+  "chunks": [
+   {
+    "en": "“By the oaths of citizens",
+    "ko": "시민들의 선서를 통해",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "whose simple word is above suspicion,",
+    "ko": "그들의 말 한마디는 의심할 여지가 없는데",
+    "r": "관계절(citizens 설명)"
+   },
+   {
+    "en": "we have fastened this awful crime,",
+    "ko": "우리는 이 끔찍한 범죄를 못 박았습니다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "beyond all possibility of question,",
+    "ko": "한 점 의문의 여지도 없이",
+    "r": "삽입(전치사구)"
+   },
+   {
+    "en": "upon the unhappy prisoner at the bar.",
+    "ko": "저 피고석의 불행한 죄수에게",
+    "r": "전치사구(대상)"
+   }
+  ]
+ },
+ {
+  "id": "23.44.0",
+  "en": "A groan escaped from poor Potter, and he put his face in his hands and rocked his body softly to and fro, while a painful silence reigned in the courtroom.",
+  "s": "A groan",
+  "v": "escaped",
+  "ko": "가엾은 포터에게서 신음이 새어 나왔고, 그는 두 손에 얼굴을 파묻은 채 몸을 앞뒤로 가만가만 흔들었다. 그동안 법정에는 고통스러운 침묵이 내려앉아 있었다.",
+  "chunks": [
+   {
+    "en": "A groan escaped from poor Potter,",
+    "ko": "가엾은 포터에게서 신음이 새어 나왔다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "and he put his face in his hands",
+    "ko": "그리고 그는 두 손에 얼굴을 파묻고",
+    "r": "대등절"
+   },
+   {
+    "en": "and rocked his body softly to and fro,",
+    "ko": "몸을 앞뒤로 가만가만 흔들었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "while a painful silence reigned in the courtroom.",
+    "ko": "그동안 법정에는 고통스러운 침묵이 내려앉아 있었다",
+    "r": "부사절(때, ~하는 동안)"
+   }
+  ]
+ },
+ {
+  "id": "23.45.0",
+  "en": "“Your honor, in our remarks at the opening of this trial, we foreshadowed our purpose to prove that our client did this fearful deed while under the influence of a blind and irresponsible delirium produced by drink.",
+  "s": "we",
+  "v": "foreshadowed",
+  "ko": "\"재판장님, 저희는 이 재판을 시작하며 드린 말씀에서, 의뢰인이 술이 불러온 앞뒤 못 가리는 무책임한 착란 상태에서 이 끔찍한 짓을 저질렀음을 증명하겠다고 미리 밝힌 바 있습니다.",
+  "chunks": [
+   {
+    "en": "“Your honor, in our remarks",
+    "ko": "재판장님, 저희가 드린 말씀에서",
+    "r": "호격 + 전치사구"
+   },
+   {
+    "en": "at the opening of this trial,",
+    "ko": "이 재판을 시작할 때",
+    "r": "전치사구(시간)"
+   },
+   {
+    "en": "we foreshadowed our purpose to prove",
+    "ko": "저희는 증명하겠다는 뜻을 미리 밝혔습니다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "that our client did this fearful deed",
+    "ko": "저희 의뢰인이 이 끔찍한 짓을 저질렀다는 것을",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "while under the influence of a blind and irresponsible delirium",
+    "ko": "앞뒤 못 가리는 무책임한 착란 상태에 빠진 채로",
+    "r": "부사절(때, 주어+be동사 생략)"
+   },
+   {
+    "en": "produced by drink.",
+    "ko": "술이 불러온",
+    "r": "과거분사구(delirium 수식)"
+   }
+  ]
+ },
+ {
+  "id": "23.48.2",
+  "en": "After a few moments, however, the boy got a little of his strength back, and managed to put enough of it into his voice to make part of the house hear:",
+  "s": "the boy",
+  "v": "got",
+  "ko": "그러나 잠시 후 소년은 기운을 조금 되찾았고, 법정에 모인 사람들 일부라도 알아들을 만큼은 가까스로 목소리에 힘을 실을 수 있었다.",
+  "chunks": [
+   {
+    "en": "After a few moments, however,",
+    "ko": "그러나 잠시 후",
+    "r": "시간 + 삽입(however)"
+   },
+   {
+    "en": "the boy got a little of his strength back,",
+    "ko": "소년은 기운을 조금 되찾았고",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and managed to put enough of it into his voice",
+    "ko": "그 기운을 목소리에 충분히 실어 넣는 데 가까스로 성공했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "to make part of the house hear:",
+    "ko": "법정에 모인 사람 일부라도 알아듣게 할 만큼",
+    "r": "목적(to부정사) + 콜론"
+   }
+  ]
+ },
+ {
+  "id": "23.69.1",
+  "en": "Now, my boy, tell us everything that occurred—tell it in your own way—don’t skip anything, and don’t be afraid.”",
+  "s": "",
+  "v": "tell",
+  "ko": "\"자, 얘야, 일어난 일을 전부 말해 보렴—네 식대로 말해도 좋아—하나도 빼먹지 말고, 겁먹지도 말고.\"",
+  "chunks": [
+   {
+    "en": "Now, my boy, tell us everything",
+    "ko": "자, 얘야, 우리에게 전부 말해 보렴",
+    "r": "명령문(주어 없음) + 간접목적어 + 목적어"
+   },
+   {
+    "en": "that occurred—tell it in your own way—don’t skip anything,",
+    "ko": "일어난 일을 전부—네 식대로 말해도 좋아—하나도 빼먹지 말고",
+    "r": "관계절 + 곁말(대시) + 명령문"
+   },
+   {
+    "en": "and don’t be afraid.”",
+    "ko": "그리고 겁먹지도 말고",
+    "r": "대등 명령문"
+   }
+  ]
+ },
+ {
+  "id": "23.70.0",
+  "en": "Tom began—hesitatingly at first, but as he warmed to his subject his words flowed more and more easily; in a little while every sound ceased but his own voice; every eye fixed itself upon him; with parted lips and bated breath the audience hung upon his words, taking no note of time, rapt in the ghastly fascinations of the tale.",
+  "s": "Tom",
+  "v": "began",
+  "ko": "톰이 입을 열었다—처음엔 머뭇거렸지만, 이야기에 열이 오르면서 말은 점점 더 술술 흘러나왔다. 이윽고 그의 목소리 말고는 모든 소리가 멎었고, 모든 눈이 그에게 못 박혔다. 입을 벌리고 숨을 죽인 채 청중은 그의 말에 매달려, 시간 가는 줄도 모르고 그 소름 끼치는 이야기에 홀려 있었다.",
+  "chunks": [
+   {
+    "en": "Tom began—hesitatingly at first,",
+    "ko": "톰이 이야기를 시작했다—처음엔 머뭇거리며",
+    "r": "주어 + 동사 + 곁말(대시)"
+   },
+   {
+    "en": "but as he warmed to his subject",
+    "ko": "하지만 이야기에 열이 오르면서",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "his words flowed more and more easily;",
+    "ko": "그의 말은 점점 더 술술 흘러나왔다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "in a little while every sound ceased but his own voice;",
+    "ko": "이윽고 그의 목소리 말고는 모든 소리가 멎었다",
+    "r": "대등절"
+   },
+   {
+    "en": "every eye fixed itself upon him;",
+    "ko": "모든 눈이 그에게 못 박혔다",
+    "r": "대등절"
+   },
+   {
+    "en": "with parted lips and bated breath",
+    "ko": "입을 벌리고 숨을 죽인 채",
+    "r": "전치사구(상태)"
+   },
+   {
+    "en": "the audience hung upon his words,",
+    "ko": "청중은 그의 말에 매달렸다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "taking no note of time,",
+    "ko": "시간 가는 줄도 모르고",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "rapt in the ghastly fascinations of the tale.",
+    "ko": "그 소름 끼치는 이야기의 매력에 홀린 채",
+    "r": "과거분사구(~한 채로)"
+   }
+  ]
+ },
+ {
+  "id": "23.71.0",
+  "en": "“—and as the doctor fetched the board around and Muff Potter fell, Injun Joe jumped with the knife and—”",
+  "s": "Injun Joe",
+  "v": "jumped",
+  "ko": "\"—그러니까 의사 선생이 널빤지를 휘둘러 머프 포터가 쓰러지자, 인전 조가 칼을 들고 덤벼들었고 그리고—\"",
+  "chunks": [
+   {
+    "en": "“—and as the doctor fetched the board around",
+    "ko": "\"—그러니까 의사 선생이 널빤지를 휙 휘둘렀고",
+    "r": "부사절(때) 시작"
+   },
+   {
+    "en": "and Muff Potter fell,",
+    "ko": "머프 포터가 쓰러졌을 때",
+    "r": "부사절(때, 이어짐)"
+   },
+   {
+    "en": "Injun Joe jumped with the knife and—”",
+    "ko": "인전 조가 칼을 들고 덤벼들었고 그리고—",
+    "r": "주절(주어 + 동사) + 말 끊김(대시)"
+   }
+  ]
+ }
+]

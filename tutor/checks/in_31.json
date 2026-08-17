@@ -1,0 +1,835 @@
+[
+ {
+  "id": "31.0.1",
+  "en": "They tripped along the murky aisles with the rest of the company, visiting the familiar wonders of the cave—wonders dubbed with rather over-descriptive names, such as “The Drawing-Room,” “The Cathedral,” “Aladdin’s Palace,” and so on.",
+  "s": "They",
+  "v": "tripped",
+  "ko": "그들은 나머지 일행과 함께 어둑한 통로를 따라 총총 걸으며 동굴의 낯익은 명소들을 구경했다. '응접실', '대성당', '알라딘의 궁전' 따위, 다소 과하게 거창한 이름이 붙은 명소들이었다.",
+  "chunks": [
+   {
+    "en": "They tripped along the murky aisles",
+    "ko": "그들은 어둑한 통로를 따라 총총 걸었다",
+    "r": "주어 + 동사 + 전치사구(장소)"
+   },
+   {
+    "en": "with the rest of the company,",
+    "ko": "나머지 일행과 함께",
+    "r": "전치사구(동반)"
+   },
+   {
+    "en": "visiting the familiar wonders of the cave—wonders",
+    "ko": "동굴의 낯익은 명소들을 구경하면서 — 그 명소들은",
+    "r": "분사구문(~하면서) + 동격(대시)"
+   },
+   {
+    "en": "dubbed with rather over-descriptive names,",
+    "ko": "다소 과하게 그럴싸한 이름이 붙은 것들이었다",
+    "r": "과거분사구(wonders 수식)"
+   },
+   {
+    "en": "such as “The Drawing-Room,” “The Cathedral,”",
+    "ko": "이를테면 '응접실', '대성당'",
+    "r": "예시(나열)"
+   },
+   {
+    "en": "“Aladdin’s Palace,” and so on.",
+    "ko": "'알라딘의 궁전' 같은",
+    "r": "예시(나열)"
+   }
+  ]
+ },
+ {
+  "id": "31.0.2",
+  "en": "Presently the hide-and-seek frolicking began, and Tom and Becky engaged in it with zeal until the exertion began to grow a trifle wearisome; then they wandered down a sinuous avenue holding their candles aloft and reading the tangled webwork of names, dates, postoffice addresses, and mottoes with which the rocky walls had been frescoed (in candle-smoke).",
+  "s": "the hide-and-seek frolicking",
+  "v": "began",
+  "ko": "이윽고 숨바꼭질 장난이 시작되었고, 톰과 베키는 신이 나서 거기에 뛰어들었지만 몸을 쓰다 보니 조금씩 지겨워졌다. 그러자 둘은 초를 높이 치켜들고 구불구불한 길을 따라 내려가며, 바위벽을 (촛불 그을음으로) 뒤덮은 이름·날짜·우편 주소·좌우명 들이 거미줄처럼 얽힌 것을 읽었다.",
+  "chunks": [
+   {
+    "en": "Presently the hide-and-seek frolicking began,",
+    "ko": "이윽고 숨바꼭질 장난이 시작되었다",
+    "r": "부사 + 주어 + 동사"
+   },
+   {
+    "en": "and Tom and Becky engaged in it with zeal",
+    "ko": "톰과 베키도 신이 나서 거기에 뛰어들었다",
+    "r": "대등절"
+   },
+   {
+    "en": "until the exertion began to grow a trifle wearisome;",
+    "ko": "몸을 쓰는 일이 조금 지겨워지기 시작할 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "then they wandered down a sinuous avenue",
+    "ko": "그러자 둘은 구불구불한 길을 따라 어슬렁어슬렁 내려갔다",
+    "r": "대등절"
+   },
+   {
+    "en": "holding their candles aloft",
+    "ko": "초를 높이 치켜든 채",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and reading the tangled webwork of names, dates,",
+    "ko": "그리고 이름·날짜가 거미줄처럼 얽힌 것을 읽으면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "postoffice addresses, and mottoes",
+    "ko": "우편 주소와 좌우명 들을",
+    "r": "목적어(나열)"
+   },
+   {
+    "en": "with which the rocky walls had been frescoed (in candle-smoke).",
+    "ko": "바위벽이 (촛불 그을음으로) 그림처럼 뒤덮여 있던",
+    "r": "관계절(앞 명사들 설명)"
+   }
+  ]
+ },
+ {
+  "id": "31.0.5",
+  "en": "Presently they came to a place where a little stream of water, trickling over a ledge and carrying a limestone sediment with it, had, in the slow-dragging ages, formed a laced and ruffled Niagara in gleaming and imperishable stone.",
+  "s": "they",
+  "v": "came",
+  "ko": "이윽고 그들은 어떤 곳에 이르렀다. 그곳에서는 바위 턱을 타고 졸졸 흐르며 석회 앙금을 실어 나르던 작은 물줄기가, 느리게 흘러간 아득한 세월 동안, 번쩍이며 스러지지 않는 돌로 레이스처럼 주름진 나이아가라 폭포를 빚어 놓고 있었다.",
+  "chunks": [
+   {
+    "en": "Presently they came to a place",
+    "ko": "이윽고 그들은 어떤 곳에 이르렀다",
+    "r": "부사 + 주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "where a little stream of water,",
+    "ko": "그곳에서는 작은 물줄기가",
+    "r": "관계절(place 설명)의 주어"
+   },
+   {
+    "en": "trickling over a ledge",
+    "ko": "바위 턱을 타고 졸졸 흐르며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and carrying a limestone sediment with it,",
+    "ko": "석회 앙금을 함께 실어 나르며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "had, in the slow-dragging ages, formed",
+    "ko": "느리게 흘러간 오랜 세월 동안 만들어 놓았다",
+    "r": "동사(had + 과거분사) + 삽입(시간)"
+   },
+   {
+    "en": "a laced and ruffled Niagara",
+    "ko": "레이스처럼 주름진 나이아가라 폭포를",
+    "r": "목적어"
+   },
+   {
+    "en": "in gleaming and imperishable stone.",
+    "ko": "번쩍이며 결코 스러지지 않는 돌로",
+    "r": "전치사구(재료)"
+   }
+  ]
+ },
+ {
+  "id": "31.1.2",
+  "en": "In one place they found a spacious cavern, from whose ceiling depended a multitude of shining stalactites of the length and circumference of a man’s leg; they walked all about it, wondering and admiring, and presently left it by one of the numerous passages that opened into it.",
+  "s": "they",
+  "v": "found",
+  "ko": "한 곳에서 그들은 널찍한 동굴을 발견했는데, 그 천장에서는 사람 다리만 한 길이와 굵기의 반짝이는 종유석이 수없이 늘어져 있었다. 둘은 그 안을 두루 돌아다니며 신기해하고 감탄하다가, 이윽고 그 동굴로 통하는 수많은 통로 중 하나로 빠져나왔다.",
+  "chunks": [
+   {
+    "en": "In one place they found a spacious cavern,",
+    "ko": "한 곳에서 그들은 널찍한 동굴을 발견했다",
+    "r": "전치사구(장소) + 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "from whose ceiling depended a multitude of shining stalactites",
+    "ko": "그 천장에서는 반짝이는 종유석이 수없이 늘어져 있었다",
+    "r": "관계절(도치: 동사 + 주어)"
+   },
+   {
+    "en": "of the length and circumference of a man’s leg;",
+    "ko": "사람 다리만 한 길이와 굵기의",
+    "r": "전치사구(stalactites 수식)"
+   },
+   {
+    "en": "they walked all about it, wondering and admiring,",
+    "ko": "둘은 그 안을 두루 돌아다니며 신기해하고 감탄했다",
+    "r": "대등절 + 분사구문(~하면서)"
+   },
+   {
+    "en": "and presently left it",
+    "ko": "그리고 이윽고 그곳을 빠져나왔다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "by one of the numerous passages that opened into it.",
+    "ko": "그 동굴로 통하는 수많은 통로 중 하나로",
+    "r": "전치사구 + 관계절(passages 설명)"
+   }
+  ]
+ },
+ {
+  "id": "31.1.3",
+  "en": "This shortly brought them to a bewitching spring, whose basin was incrusted with a frostwork of glittering crystals; it was in the midst of a cavern whose walls were supported by many fantastic pillars which had been formed by the joining of great stalactites and stalagmites together, the result of the ceaseless water-drip of centuries.",
+  "s": "This",
+  "v": "brought",
+  "ko": "이 길은 곧 그들을 홀린 듯 아름다운 샘으로 데려갔는데, 그 웅덩이에는 반짝이는 결정들이 서리처럼 엉겨 붙어 있었다. 샘은 어느 동굴 한복판에 있었고, 그 동굴의 벽은 기묘한 기둥 여럿이 떠받치고 있었다. 기둥들은 커다란 종유석과 석순이 서로 맞붙어 생긴 것으로, 수백 년간 쉼 없이 떨어진 물방울이 빚어낸 결과였다.",
+  "chunks": [
+   {
+    "en": "This shortly brought them to a bewitching spring,",
+    "ko": "이 길은 곧 그들을 홀린 듯 아름다운 샘으로 데려갔다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "whose basin was incrusted with a frostwork of glittering crystals;",
+    "ko": "그 웅덩이는 반짝이는 결정들이 서리처럼 엉겨 붙어 있었다",
+    "r": "관계절(spring 설명)"
+   },
+   {
+    "en": "it was in the midst of a cavern",
+    "ko": "샘은 어느 동굴 한복판에 있었다",
+    "r": "대등절(주어 + 동사 + 전치사구)"
+   },
+   {
+    "en": "whose walls were supported by many fantastic pillars",
+    "ko": "그 동굴의 벽은 기묘한 기둥 여럿이 떠받치고 있었다",
+    "r": "관계절(cavern 설명)"
+   },
+   {
+    "en": "which had been formed by the joining",
+    "ko": "그 기둥들은 맞붙어서 생긴 것이었다",
+    "r": "관계절(pillars 설명)"
+   },
+   {
+    "en": "of great stalactites and stalagmites together,",
+    "ko": "커다란 종유석과 석순이 서로",
+    "r": "전치사구"
+   },
+   {
+    "en": "the result of the ceaseless water-drip of centuries.",
+    "ko": "수백 년간 쉼 없이 떨어진 물방울이 만들어 낸 결과였다",
+    "r": "동격(앞 내용을 다시 받음)"
+   }
+  ]
+ },
+ {
+  "id": "31.1.4",
+  "en": "Under the roof vast knots of bats had packed themselves together, thousands in a bunch; the lights disturbed the creatures and they came flocking down by hundreds, squeaking and darting furiously at the candles.",
+  "s": "vast knots of bats",
+  "v": "had packed",
+  "ko": "천장 밑에는 박쥐들이 한 덩어리에 수천 마리씩 거대한 무리를 이뤄 빽빽이 뭉쳐 있었다. 불빛이 이 짐승들을 건드리자 박쥐들은 수백 마리씩 떼 지어 내려와, 찍찍대며 촛불을 향해 사납게 달려들었다.",
+  "chunks": [
+   {
+    "en": "Under the roof vast knots of bats had packed themselves together,",
+    "ko": "천장 밑에 박쥐들이 거대한 무리를 이뤄 빽빽이 뭉쳐 있었다",
+    "r": "전치사구(장소) + 주어 + 동사"
+   },
+   {
+    "en": "thousands in a bunch;",
+    "ko": "한 덩어리에 수천 마리씩",
+    "r": "곁말(동사 없는 덧붙임)"
+   },
+   {
+    "en": "the lights disturbed the creatures",
+    "ko": "불빛이 이 짐승들을 건드리자",
+    "r": "대등절(주어 + 동사 + 목적어)"
+   },
+   {
+    "en": "and they came flocking down by hundreds,",
+    "ko": "수백 마리씩 떼 지어 내려왔다",
+    "r": "대등절"
+   },
+   {
+    "en": "squeaking and darting furiously at the candles.",
+    "ko": "찍찍대며 촛불을 향해 사납게 달려들면서",
+    "r": "분사구문(~하면서)"
+   }
+  ]
+ },
+ {
+  "id": "31.1.6",
+  "en": "He seized Becky’s hand and hurried her into the first corridor that offered; and none too soon, for a bat struck Becky’s light out with its wing while she was passing out of the cavern.",
+  "s": "He",
+  "v": "seized",
+  "ko": "그는 베키의 손을 붙잡고 눈앞에 나타난 첫 번째 통로로 서둘러 데리고 들어갔다. 정말 아슬아슬했다. 베키가 동굴을 빠져나가는 사이 박쥐 한 마리가 날개로 그녀의 촛불을 쳐서 꺼 버렸기 때문이다.",
+  "chunks": [
+   {
+    "en": "He seized Becky’s hand",
+    "ko": "그는 베키의 손을 붙잡았다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and hurried her into the first corridor that offered;",
+    "ko": "그리고 눈앞에 나타난 첫 번째 통로로 그녀를 서둘러 데리고 들어갔다",
+    "r": "대등 동사 + 관계절(corridor 설명)"
+   },
+   {
+    "en": "and none too soon,",
+    "ko": "정말 아슬아슬한 타이밍이었다",
+    "r": "곁말(관용구)"
+   },
+   {
+    "en": "for a bat struck Becky’s light out with its wing",
+    "ko": "박쥐 한 마리가 날개로 베키의 촛불을 쳐서 꺼 버렸으니까",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "while she was passing out of the cavern.",
+    "ko": "그녀가 동굴을 빠져나가는 사이에",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "31.10.0",
+  "en": "They started through a corridor, and traversed it in silence a long way, glancing at each new opening, to see if there was anything familiar about the look of it; but they were all strange.",
+  "s": "They",
+  "v": "started",
+  "ko": "그들은 어느 통로로 들어서서 말없이 한참을 걸었다. 새 갈림길이 나올 때마다 낯익은 구석이 있는지 흘낏흘낏 살피면서. 하지만 하나같이 낯설기만 했다.",
+  "chunks": [
+   {
+    "en": "They started through a corridor,",
+    "ko": "그들은 어느 통로로 들어섰다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "and traversed it in silence a long way,",
+    "ko": "그리고 말없이 한참을 걸어 통과했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "glancing at each new opening,",
+    "ko": "새 갈림길이 나올 때마다 흘낏 살피면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "to see if there was anything familiar about the look of it;",
+    "ko": "그 모습에 낯익은 구석이 있는지 보려고",
+    "r": "목적(to부정사)"
+   },
+   {
+    "en": "but they were all strange.",
+    "ko": "하지만 하나같이 낯설기만 했다",
+    "r": "대등절(반전)"
+   }
+  ]
+ },
+ {
+  "id": "31.12.1",
+  "en": "He still said it was “all right,” but there was such a leaden dread at his heart that the words had lost their ring and sounded just as if he had said, “All is lost!”",
+  "s": "He",
+  "v": "said",
+  "ko": "그는 여전히 '괜찮다'고 말했지만, 가슴속에 납덩이 같은 공포가 너무 무겁게 눌러앉은 나머지 그 말은 울림을 잃어, 마치 '다 끝났어!'라고 말한 것처럼 들렸다.",
+  "chunks": [
+   {
+    "en": "He still said it was “all right,”",
+    "ko": "그는 여전히 '괜찮다'고 말했다",
+    "r": "주어 + 동사 + 목적어(that절)"
+   },
+   {
+    "en": "but there was such a leaden dread at his heart",
+    "ko": "하지만 가슴속에 납덩이 같은 공포가 너무 무겁게 눌러앉아 있어서",
+    "r": "대등절(there was such … that)"
+   },
+   {
+    "en": "that the words had lost their ring",
+    "ko": "그 말은 울림을 잃어버렸고",
+    "r": "결과절(that)"
+   },
+   {
+    "en": "and sounded just as if he had said, “All is lost!”",
+    "ko": "마치 '다 끝났어!'라고 말한 것처럼 들렸다",
+    "r": "대등 동사 + as if절"
+   }
+  ]
+ },
+ {
+  "id": "31.22.1",
+  "en": "He sat down by her and put his arms around her; she buried her face in his bosom, she clung to him, she poured out her terrors, her unavailing regrets, and the far echoes turned them all to jeering laughter.",
+  "s": "He",
+  "v": "sat",
+  "ko": "그는 그녀 곁에 앉아 팔로 감쌌다. 그녀는 그의 품에 얼굴을 묻고 매달린 채 자신의 공포와 소용없는 후회를 쏟아냈다. 그리고 멀리서 되돌아온 메아리는 그 모든 것을 비웃는 웃음소리로 바꾸어 놓았다.",
+  "chunks": [
+   {
+    "en": "He sat down by her",
+    "ko": "그는 그녀 곁에 앉았다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and put his arms around her;",
+    "ko": "그리고 팔로 그녀를 감쌌다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "she buried her face in his bosom,",
+    "ko": "그녀는 그의 품에 얼굴을 묻었다",
+    "r": "대등절"
+   },
+   {
+    "en": "she clung to him,",
+    "ko": "그에게 매달렸다",
+    "r": "대등절"
+   },
+   {
+    "en": "she poured out her terrors, her unavailing regrets,",
+    "ko": "자신의 공포와 소용없는 후회를 쏟아냈다",
+    "r": "대등절 + 목적어(나열)"
+   },
+   {
+    "en": "and the far echoes turned them all to jeering laughter.",
+    "ko": "그리고 멀리서 되돌아온 메아리는 그것들을 모두 비웃는 웃음소리로 바꿔 놓았다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "31.22.4",
+  "en": "She said she would try to hope again, she would get up and follow wherever he might lead if only he would not talk like that any more.",
+  "s": "She",
+  "v": "said",
+  "ko": "그녀는 다시 희망을 품어 보겠다고, 그가 다시는 그런 말만 하지 않는다면 일어나서 그가 이끄는 곳이면 어디든 따라가겠다고 말했다.",
+  "chunks": [
+   {
+    "en": "She said she would try to hope again,",
+    "ko": "그녀는 다시 희망을 품어 보겠다고 말했다",
+    "r": "주어 + 동사 + 목적어(that 생략)"
+   },
+   {
+    "en": "she would get up and follow",
+    "ko": "일어나서 따라가겠다고",
+    "r": "목적어(두 번째 절)"
+   },
+   {
+    "en": "wherever he might lead",
+    "ko": "그가 이끄는 곳이면 어디든",
+    "r": "부사절(장소)"
+   },
+   {
+    "en": "if only he would not talk like that any more.",
+    "ko": "그가 다시는 그런 말만 하지 않는다면",
+    "r": "부사절(조건)"
+   }
+  ]
+ },
+ {
+  "id": "31.23.1",
+  "en": "For a little while, hope made a show of reviving—not with any reason to back it, but only because it is its nature to revive when the spring has not been taken out of it by age and familiarity with failure.",
+  "s": "hope",
+  "v": "made",
+  "ko": "잠시 동안 희망이 되살아나는 시늉을 했다. 그럴 만한 근거가 있어서가 아니라, 나이와 거듭된 실패에 길들어 태엽이 빠져 버리지 않은 한 되살아나는 것이 원래 희망의 본성이기 때문이었다.",
+  "chunks": [
+   {
+    "en": "For a little while,",
+    "ko": "잠시 동안",
+    "r": "시간"
+   },
+   {
+    "en": "hope made a show of reviving—not with any reason to back it,",
+    "ko": "희망이 되살아나는 시늉을 했다 — 뒷받침할 근거가 있어서가 아니라",
+    "r": "주어 + 동사 + 목적어 + 곁말(대시)"
+   },
+   {
+    "en": "but only because it is its nature to revive",
+    "ko": "다만 되살아나는 것이 희망의 본성이기 때문이었다",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "when the spring has not been taken out of it by age and familiarity with failure.",
+    "ko": "나이와 거듭된 실패에 길들어 태엽이 빠져 버리지 않은 한",
+    "r": "부사절(조건·때)"
+   }
+  ]
+ },
+ {
+  "id": "31.25.0",
+  "en": "By-and-by, fatigue began to assert its claims; the children tried to pay attention, for it was dreadful to think of sitting down when time was grown to be so precious, moving, in some direction, in any direction, was at least progress and might bear fruit; but to sit down was to invite death and shorten its pursuit.",
+  "s": "fatigue",
+  "v": "began",
+  "ko": "이윽고 피로가 제 몫을 요구하기 시작했다. 아이들은 정신을 차리려 애썼다. 시간이 그토록 귀해진 마당에 주저앉을 생각을 한다는 것 자체가 끔찍했기 때문이다. 어느 방향이든 아무 방향이든 움직이는 것은 그래도 나아가는 것이었고 성과가 있을지도 몰랐다. 그러나 주저앉는 것은 죽음을 불러들여 그 추격을 앞당기는 일이었다.",
+  "chunks": [
+   {
+    "en": "By-and-by, fatigue began to assert its claims;",
+    "ko": "이윽고 피로가 제 몫을 내놓으라고 요구하기 시작했다",
+    "r": "부사 + 주어 + 동사"
+   },
+   {
+    "en": "the children tried to pay attention,",
+    "ko": "아이들은 정신을 차리려고 애썼다",
+    "r": "대등절(주어 + 동사)"
+   },
+   {
+    "en": "for it was dreadful to think of sitting down",
+    "ko": "주저앉을 생각을 한다는 것 자체가 끔찍했기 때문이다",
+    "r": "부사절(이유, for=because) + 가주어 it"
+   },
+   {
+    "en": "when time was grown to be so precious,",
+    "ko": "시간이 그토록 귀해진 마당에",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "moving, in some direction, in any direction,",
+    "ko": "어느 방향으로든, 아무 방향으로든 움직이는 것은",
+    "r": "주어(동명사) + 삽입"
+   },
+   {
+    "en": "was at least progress and might bear fruit;",
+    "ko": "적어도 나아가는 것이었고 성과가 있을지도 몰랐다",
+    "r": "동사 + 보어"
+   },
+   {
+    "en": "but to sit down was to invite death",
+    "ko": "그러나 주저앉는 것은 죽음을 불러들이는 일이었고",
+    "r": "대등절(주어 to부정사 + 동사 + 보어)"
+   },
+   {
+    "en": "and shorten its pursuit.",
+    "ko": "그 추격을 짧게 만드는 일이었다",
+    "r": "보어(나열)"
+   }
+  ]
+ },
+ {
+  "id": "31.26.6",
+  "en": "He sat looking into her drawn face and saw it grow smooth and natural under the influence of pleasant dreams; and by-and-by a smile dawned and rested there.",
+  "s": "He",
+  "v": "sat",
+  "ko": "그는 앉은 채로 초췌한 그녀의 얼굴을 들여다보았고, 좋은 꿈의 기운에 그 얼굴이 펴지고 편안해지는 것을 지켜보았다. 그러다 이윽고 미소가 동트듯 떠올라 거기 머물렀다.",
+  "chunks": [
+   {
+    "en": "He sat looking into her drawn face",
+    "ko": "그는 앉은 채로 초췌한 그녀의 얼굴을 들여다보았다",
+    "r": "주어 + 동사 + 분사(~하면서)"
+   },
+   {
+    "en": "and saw it grow smooth and natural",
+    "ko": "그리고 그 얼굴이 펴지고 편안해지는 것을 보았다",
+    "r": "대등 동사 + 목적어 + 원형동사"
+   },
+   {
+    "en": "under the influence of pleasant dreams;",
+    "ko": "좋은 꿈의 기운을 받아",
+    "r": "전치사구(원인)"
+   },
+   {
+    "en": "and by-and-by a smile dawned and rested there.",
+    "ko": "그러다 이윽고 미소가 동트듯 떠올라 거기 머물렀다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "31.31.1",
+  "en": "They tried to estimate how long they had been in the cave, but all they knew was that it seemed days and weeks, and yet it was plain that this could not be, for their candles were not gone yet.",
+  "s": "They",
+  "v": "tried",
+  "ko": "그들은 동굴에 들어온 지 얼마나 됐는지 어림해 보려 했지만, 아는 것이라곤 며칠, 몇 주쯤 된 것 같다는 느낌뿐이었다. 그런데도 그럴 리 없다는 것은 분명했다. 초가 아직 다 타지 않았으니까.",
+  "chunks": [
+   {
+    "en": "They tried to estimate how long they had been in the cave,",
+    "ko": "그들은 동굴에 들어온 지 얼마나 됐는지 어림해 보려 했다",
+    "r": "주어 + 동사 + 목적어(의문사절)"
+   },
+   {
+    "en": "but all they knew was",
+    "ko": "하지만 그들이 아는 것이라곤 ~뿐이었다",
+    "r": "대등절 주어(관계절 포함) + 동사"
+   },
+   {
+    "en": "that it seemed days and weeks,",
+    "ko": "며칠, 몇 주쯤 된 것 같다는 느낌",
+    "r": "보어(that절)"
+   },
+   {
+    "en": "and yet it was plain that this could not be,",
+    "ko": "그런데도 그럴 리 없다는 것은 분명했다",
+    "r": "대등절(가주어 it + 진주어 that절)"
+   },
+   {
+    "en": "for their candles were not gone yet.",
+    "ko": "초가 아직 다 타지 않았으니까",
+    "r": "부사절(이유, for=because)"
+   }
+  ]
+ },
+ {
+  "id": "31.54.3",
+  "en": "In a moment a new burst of grief from Becky showed Tom that the thing in his mind had struck hers also—that the Sabbath morning might be half spent before Mrs. Thatcher discovered that Becky was not at Mrs. Harper’s.",
+  "s": "a new burst of grief",
+  "v": "showed",
+  "ko": "곧 베키가 새로 터뜨린 울음은 자기 머릿속에 떠오른 그 생각이 그녀 머릿속에도 떠올랐음을 톰에게 알려 주었다. 대처 부인이 베키가 하퍼 부인 댁에 없다는 것을 알아차리기도 전에 일요일 아침이 반나절은 지나가 버릴지 모른다는 생각이었다.",
+  "chunks": [
+   {
+    "en": "In a moment a new burst of grief from Becky showed Tom",
+    "ko": "곧 베키가 새로 터뜨린 울음이 톰에게 알려 주었다",
+    "r": "시간 + 주어(긴 주어) + 동사 + 목적어"
+   },
+   {
+    "en": "that the thing in his mind had struck hers also—that",
+    "ko": "자기 머릿속 그 생각이 그녀 머릿속에도 떠올랐다는 것을 — 즉",
+    "r": "목적어(that절) + 동격(대시)"
+   },
+   {
+    "en": "the Sabbath morning might be half spent",
+    "ko": "일요일 아침이 반나절은 지나가 버릴지도 모른다는 것",
+    "r": "동격 that절의 주어 + 동사"
+   },
+   {
+    "en": "before Mrs. Thatcher discovered that Becky was not at Mrs. Harper’s.",
+    "ko": "대처 부인이 베키가 하퍼 부인 댁에 없다는 걸 알아차리기 전에",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "31.55.0",
+  "en": "The children fastened their eyes upon their bit of candle and watched it melt slowly and pitilessly away; saw the half inch of wick stand alone at last; saw the feeble flame rise and fall, climb the thin column of smoke, linger at its top a moment, and then—the horror of utter darkness reigned!",
+  "s": "The children",
+  "v": "fastened",
+  "ko": "아이들은 남은 초 토막에 눈을 붙박은 채 그것이 천천히, 무자비하게 녹아 없어지는 것을 지켜보았다. 마침내 반 인치짜리 심지만 홀로 남는 것을 보았고, 가냘픈 불꽃이 솟았다 꺼졌다 하며 가느다란 연기 기둥을 타고 올라가 그 꼭대기에서 잠시 머뭇거리는 것을 보았다. 그러고는 — 완전한 어둠의 공포가 온통 지배했다!",
+  "chunks": [
+   {
+    "en": "The children fastened their eyes upon their bit of candle",
+    "ko": "아이들은 남은 초 토막에 눈을 붙박았다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and watched it melt slowly and pitilessly away;",
+    "ko": "그리고 그것이 천천히, 무자비하게 녹아 없어지는 것을 지켜보았다",
+    "r": "대등 동사 + 목적어 + 원형동사"
+   },
+   {
+    "en": "saw the half inch of wick stand alone at last;",
+    "ko": "마침내 반 인치짜리 심지만 홀로 남는 것을 보았다",
+    "r": "대등 동사(주어 생략)"
+   },
+   {
+    "en": "saw the feeble flame rise and fall,",
+    "ko": "가냘픈 불꽃이 솟았다 꺼졌다 하는 것을 보았다",
+    "r": "대등 동사 + 목적어 + 원형동사"
+   },
+   {
+    "en": "climb the thin column of smoke,",
+    "ko": "가느다란 연기 기둥을 타고 올라가",
+    "r": "원형동사(나열)"
+   },
+   {
+    "en": "linger at its top a moment,",
+    "ko": "그 꼭대기에서 잠시 머뭇거리는 것을",
+    "r": "원형동사(나열)"
+   },
+   {
+    "en": "and then—the horror of utter darkness reigned!",
+    "ko": "그러고는 — 완전한 어둠의 공포가 세상을 뒤덮었다!",
+    "r": "대등절(대시 뒤 주어가 바뀜)"
+   }
+  ]
+ },
+ {
+  "id": "31.64.3",
+  "en": "He took a kite-line from his pocket, tied it to a projection, and he and Becky started, Tom in the lead, unwinding the line as he groped along.",
+  "s": "He",
+  "v": "took",
+  "ko": "그는 주머니에서 연줄을 꺼내 튀어나온 바위에 묶었고, 톰이 앞장선 채 그와 베키는 출발했다. 톰은 더듬더듬 나아가며 줄을 풀어 나갔다.",
+  "chunks": [
+   {
+    "en": "He took a kite-line from his pocket,",
+    "ko": "그는 주머니에서 연줄을 꺼냈다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "tied it to a projection,",
+    "ko": "그것을 튀어나온 바위에 묶었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and he and Becky started,",
+    "ko": "그리고 그와 베키는 출발했다",
+    "r": "대등절"
+   },
+   {
+    "en": "Tom in the lead,",
+    "ko": "톰이 앞장선 채로",
+    "r": "곁말(동사 없는 덧붙임)"
+   },
+   {
+    "en": "unwinding the line as he groped along.",
+    "ko": "더듬더듬 나아가면서 줄을 풀어 나갔다",
+    "r": "분사구문(~하면서) + 부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "31.64.5",
+  "en": "Tom got down on his knees and felt below, and then as far around the corner as he could reach with his hands conveniently; he made an effort to stretch yet a little farther to the right, and at that moment, not twenty yards away, a human hand, holding a candle, appeared from behind a rock!",
+  "s": "Tom",
+  "v": "got",
+  "ko": "톰은 무릎을 꿇고 아래쪽을 더듬어 보았고, 이어서 손이 편하게 닿는 데까지 모퉁이 너머도 더듬었다. 오른쪽으로 조금만 더 뻗어 보려고 애를 쓰는데, 바로 그 순간 스무 걸음도 안 되는 곳에서 촛불을 든 사람 손 하나가 바위 뒤에서 불쑥 나타났다!",
+  "chunks": [
+   {
+    "en": "Tom got down on his knees and felt below,",
+    "ko": "톰은 무릎을 꿇고 아래쪽을 더듬어 보았다",
+    "r": "주어 + 동사 + 대등 동사"
+   },
+   {
+    "en": "and then as far around the corner",
+    "ko": "그리고 모퉁이 너머까지도 (더듬어 보았다)",
+    "r": "전치사구(felt에 걸림)"
+   },
+   {
+    "en": "as he could reach with his hands conveniently;",
+    "ko": "손이 편하게 닿는 데까지",
+    "r": "부사절(비교, as … as)"
+   },
+   {
+    "en": "he made an effort to stretch yet a little farther to the right,",
+    "ko": "그는 오른쪽으로 조금만 더 뻗어 보려고 애를 썼다",
+    "r": "대등절(주어 + 동사 + 목적어)"
+   },
+   {
+    "en": "and at that moment, not twenty yards away,",
+    "ko": "그리고 바로 그 순간, 스무 걸음도 안 되는 곳에서",
+    "r": "시간 + 장소"
+   },
+   {
+    "en": "a human hand, holding a candle,",
+    "ko": "촛불을 든 사람 손 하나가",
+    "r": "주어 + 분사(hand 수식)"
+   },
+   {
+    "en": "appeared from behind a rock!",
+    "ko": "바위 뒤에서 나타났다!",
+    "r": "동사 + 전치사구"
+   }
+  ]
+ },
+ {
+  "id": "31.64.13",
+  "en": "He said to himself that if he had strength enough to get back to the spring he would stay there, and nothing should tempt him to run the risk of meeting Injun Joe again.",
+  "s": "He",
+  "v": "said",
+  "ko": "그는 속으로 생각했다. 샘까지 돌아갈 힘만 남아 있다면 거기 눌러앉을 것이고, 그 무엇도 인전 조를 다시 마주칠 위험을 무릅쓰게 만들지는 못하리라고.",
+  "chunks": [
+   {
+    "en": "He said to himself that",
+    "ko": "그는 속으로 이렇게 생각했다",
+    "r": "주어 + 동사 + 목적어(that절 시작)"
+   },
+   {
+    "en": "if he had strength enough to get back to the spring",
+    "ko": "샘까지 돌아갈 힘만 남아 있다면",
+    "r": "부사절(조건, 가정법)"
+   },
+   {
+    "en": "he would stay there,",
+    "ko": "거기 눌러앉아 있겠다고",
+    "r": "주절(가정법 귀결)"
+   },
+   {
+    "en": "and nothing should tempt him to run the risk",
+    "ko": "그리고 무엇도 자기를 그 위험에 뛰어들게 꾀지 못할 거라고",
+    "r": "대등절"
+   },
+   {
+    "en": "of meeting Injun Joe again.",
+    "ko": "인전 조를 다시 만나는 위험에",
+    "r": "전치사구(risk 설명)"
+   }
+  ]
+ },
+ {
+  "id": "31.65.9",
+  "en": "She told Tom to go with the kite-line and explore if he chose; but she implored him to come back every little while and speak to her; and she made him promise that when the awful time came, he would stay by her and hold her hand until all was over.",
+  "s": "She",
+  "v": "told",
+  "ko": "그녀는 톰에게 원한다면 연줄을 가지고 가서 살펴보라고 말했다. 다만 틈틈이 돌아와 자기에게 말을 걸어 달라고 애원했다. 그리고 그 끔찍한 순간이 오면 모든 것이 끝날 때까지 자기 곁에 남아 손을 잡아 주겠다고 약속하게 했다.",
+  "chunks": [
+   {
+    "en": "She told Tom to go with the kite-line",
+    "ko": "그녀는 톰에게 연줄을 가지고 가라고 말했다",
+    "r": "주어 + 동사 + 목적어 + to부정사"
+   },
+   {
+    "en": "and explore if he chose;",
+    "ko": "그리고 원한다면 탐색해 보라고",
+    "r": "to부정사(나열) + 부사절(조건)"
+   },
+   {
+    "en": "but she implored him to come back every little while",
+    "ko": "하지만 틈틈이 돌아와 달라고 애원했다",
+    "r": "대등절"
+   },
+   {
+    "en": "and speak to her;",
+    "ko": "그리고 자기에게 말을 걸어 달라고",
+    "r": "to부정사(나열)"
+   },
+   {
+    "en": "and she made him promise",
+    "ko": "그리고 그에게 약속하게 했다",
+    "r": "대등절(사역동사 + 목적어 + 원형동사)"
+   },
+   {
+    "en": "that when the awful time came,",
+    "ko": "그 끔찍한 순간이 오면",
+    "r": "목적어(that절) + 부사절(때)"
+   },
+   {
+    "en": "he would stay by her and hold her hand",
+    "ko": "자기 곁에 남아 손을 잡아 주겠다고",
+    "r": "that절 주어 + 동사"
+   },
+   {
+    "en": "until all was over.",
+    "ko": "모든 것이 끝날 때까지",
+    "r": "부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "31.66.0",
+  "en": "Tom kissed her, with a choking sensation in his throat, and made a show of being confident of finding the searchers or an escape from the cave; then he took the kite-line in his hand and went groping down one of the passages on his hands and knees, distressed with hunger and sick with bodings of coming doom.",
+  "s": "Tom",
+  "v": "kissed",
+  "ko": "톰은 목이 메어 오는 것을 참으며 그녀에게 입을 맞추고, 수색대를 찾아내거나 동굴에서 빠져나갈 수 있다고 자신하는 척했다. 그러고는 연줄을 손에 쥐고 네 발로 기다시피 통로 중 하나를 더듬어 내려갔다. 굶주림에 시달리고 다가올 파멸의 예감에 속이 뒤집힌 채로.",
+  "chunks": [
+   {
+    "en": "Tom kissed her, with a choking sensation in his throat,",
+    "ko": "톰은 목이 메어 오는 것을 느끼며 그녀에게 입을 맞췄다",
+    "r": "주어 + 동사 + 목적어 + 전치사구(상태)"
+   },
+   {
+    "en": "and made a show of being confident",
+    "ko": "그리고 자신 있는 척했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "of finding the searchers or an escape from the cave;",
+    "ko": "수색대를 찾아내거나 동굴에서 빠져나갈 수 있다고",
+    "r": "전치사구(confident 설명)"
+   },
+   {
+    "en": "then he took the kite-line in his hand",
+    "ko": "그러고는 연줄을 손에 쥐었다",
+    "r": "대등절"
+   },
+   {
+    "en": "and went groping down one of the passages",
+    "ko": "그리고 통로 중 하나를 더듬으며 내려갔다",
+    "r": "대등 동사 + 분사(~하면서)"
+   },
+   {
+    "en": "on his hands and knees,",
+    "ko": "네 발로 기다시피 하며",
+    "r": "전치사구(자세)"
+   },
+   {
+    "en": "distressed with hunger and sick with bodings of coming doom.",
+    "ko": "굶주림에 시달리고 다가올 파멸의 예감에 속이 뒤집힌 채로",
+    "r": "과거분사·형용사구(주어 상태 설명)"
+   }
+  ]
+ }
+]

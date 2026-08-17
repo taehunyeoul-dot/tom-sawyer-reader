@@ -2,7 +2,7 @@ ain't	v.	am/is/are not의 구어 축약형(비표준)	L2	이장6회/전체122회
 lane	n.	좁은 길, 골목	L2	이장5회/전체23회
 upon	prep.	~위에(on보다 격식체)	L2	이장3회/전체146회
 glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장3회/전체21회
-bout	n.	(질병·활동의) 한바탕, (권투) 시합	L2	이장3회/전체19회
+bout	prep., adv., n.	(’bout) ~에 대해, 약 ~쯤(about의 사투리) / 한바탕, 시합	L3	이장3회/전체19회
 schoolhouse	n.	교사(校舍), 학교 건물	L2	이장3회/전체7회
 presently	adv.	곧, 이윽고, 잠시 후(옛말: 곧)	L2	이장2회/전체82회
 though	conj., adv.	비록 ~이지만, 그렇지만	L2	이장2회/전체19회
@@ -22,7 +22,7 @@ hint	n., v.	암시, 힌트, 암시하다	L2	이장2회/전체4회
 wistfully	adv.	아쉬운 듯이, 그리운 듯이	L3	이장2회/전체4회
 conscious	adj.	의식이 있는, 의식적인	L2	이장2회/전체4회
 furtively	adv.	몰래, 슬그머니	L3	이장2회/전체3회
-jolly	adj.	명랑한, 즐거운(영국 구어)	L2	이장2회/전체2회
+jolly	adj.	명랑한, 즐거운	L2	이장2회/전체2회
 within	prep.	~이내에	L2	이장1회/전체27회
 kin	v., n.	~할 수 있다(can의 사투리), 친척	L3	이장1회/전체24회
 shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
@@ -59,8 +59,9 @@ homeward	adv.	집으로, 집을 향해	L2	이장1회/전체6회
 discomfort	n.	불편함	L2	이장1회/전체5회
 pleaded	v.	애원했다, 간청했다	L2	이장1회/전체5회
 recollect	v.	기억해 내다, 회상하다	L2	이장1회/전체5회
-d'you	v.	do you의 축약(영국 구어)	L3	이장1회/전체5회
+d'you	v.	do you 의 축약(구어)	L3	이장1회/전체5회
 utter	v., adj.	입 밖에 내다, 말하다, 완전한	L2	이장1회/전체5회
+skip	v.	깡충깡충 뛰다, 건너뛰다, 빼먹다	L2	이장1회/전체5회
 indifferent	adj.	무관심한	L2	이장1회/전체5회
 uneasy	adj.	불안한	L2	이장1회/전체5회
 hateful	adj.	혐오스러운	L2	이장1회/전체5회
@@ -77,4 +78,3 @@ vanity	n.	허영심	L3	이장1회/전체4회
 skylarking	v., n.	장난치며 떠들기, 야단법석(구어)	L3	이장1회/전체4회
 pang	n.	(마음의) 고통, 격통	L2	이장1회/전체4회
 grace	n.	우아함, 은총, 식전 기도	L2	이장1회/전체4회
-chatter	v., n.	재잘거리다; 수다	L2	이장1회/전체4회

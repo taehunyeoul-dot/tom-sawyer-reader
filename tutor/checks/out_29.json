@@ -1,0 +1,122 @@
+{
+ "29.0.3": [
+  {"t":"pron","q":"<b>and she consented</b> 의 she 는 누구입니까?","a":"베키의 엄마 — 소풍을 허락한 사람","tip":"바로 앞 절의 주어가 Becky 라서 베키로 잡기 쉽습니다. 조른 쪽이 아니라 허락한 쪽입니다."},
+  {"t":"who","q":"<b>Becky teased her mother to appoint the next day</b> — 소풍 날짜를 정하는 사람은 누구입니까?","a":"베키의 엄마 — 베키는 그렇게 해 달라고 조른 쪽입니다","tip":"tease A to do 는 A에게 ~해 달라고 조르는 것입니다. 베키가 날짜를 정했다고 읽기 쉽습니다."},
+  {"t":"mod","q":"콜론(<b>:</b>) 뒤의 내용은 무엇을 설명하는 말입니까?","a":"앞의 in a peculiarly satisfactory way — 그날이 유난히 흡족하게 마무리된 그 '방식'이 무엇이었는지","tip":"콜론은 앞말을 구체적으로 풀어 주는 표시입니다. 새로운 이야기로 넘어가는 것이 아닙니다."}
+ ],
+ "29.0.6": [
+  {"t":"who","q":"<b>Tom’s excitement enabled him to keep awake</b> — 실제로 깨어 있었던 사람은 누구입니까?","a":"톰(him) — 흥분한 덕분에 깨어 있을 수 있었다는 뜻입니다","tip":"주어가 사람이 아니라 '흥분'입니다. 무생물 주어 + enable + 목적어 구조에서 행동하는 쪽은 목적어입니다."},
+  {"t":"mod","q":"<b>to astonish Becky and the picnickers with</b> — 문장 끝의 with 는 무엇과 짝입니까?","a":"his treasure(그 보물) — 그 보물로 놀라게 해 준다는 뜻입니다","tip":"with 뒤가 비어 있어 그냥 넘기기 쉽습니다. 앞의 his treasure 가 with 의 짝입니다."},
+  {"t":"time","q":"<b>next day</b> 는 어느 일이 벌어질 때를 말합니까?","a":"보물로 베키와 소풍 온 아이들을 놀라게 해 주는 일 — 소풍날","tip":"톰이 깨어 있던 것은 '그날 밤'입니다. next day 를 깨어 있던 시각에 붙이면 어긋납니다."},
+  {"t":"neg","q":"<b>but he was disappointed</b> — 톰은 그날 밤 헉의 신호를 들었습니까?","a":"아니요 — 끝내 듣지 못했습니다(기대가 어긋났습니다)","tip":"앞의 긴 기대 서술에 휩쓸리면 실제로 그렇게 된 것으로 읽습니다. 세미콜론 뒤 but 이 문장 전체를 뒤집습니다."}
+ ],
+ "29.14.7": [
+  {"t":"who","q":"<b>The sure fun of the evening outweighed the uncertain treasure</b> — 이긴 쪽은 어느 쪽입니까?","a":"저녁의 확실한 즐거움(더글러스 미망인 집에서의 재미)","tip":"outweigh A 는 'A보다 더 무겁다·더 중요하다'입니다. 주어가 이기는 쪽입니다. 뒤집어 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>the stronger inclination</b> 은 어느 쪽 마음입니까?","a":"그날 저녁 모임에 가고 싶은 마음 — 보물을 찾으러 가고 싶은 마음이 아닙니다","tip":"앞 문장에서 톰이 포기하지 못한 것이 '더글러스 미망인 집에서의 재미'였습니다."},
+  {"t":"neg","q":"<b>and not allow himself to think of the box of money</b> — 톰은 돈궤 생각을 더 하기로 했습니까?","a":"아니요 — 생각하지 않기로 마음먹었습니다","tip":"determined to yield ... and not allow ... 로 이어집니다. not 이 뒤쪽에만 걸린다는 것을 놓치면 정반대가 됩니다."},
+  {"t":"time","q":"<b>another time that day</b> — 톰은 돈궤 생각을 영영 하지 않기로 한 것입니까?","a":"아니요 — 그날 하루 동안만 다시 생각하지 않기로 한 것입니다","tip":"that day 가 붙어 있어 범위가 그날로 한정됩니다. '두 번 다시 영원히'로 읽으면 과합니다."}
+ ],
+ "29.15.2": [
+  {"t":"who","q":"<b>All the different ways ... were gone through with</b> — 그 온갖 방법을 실제로 다 해 본 것은 누구입니까?","a":"소풍 온 아이들 — 문장에는 드러나 있지 않습니다","tip":"수동태라 행위자가 문장에 없습니다. '방법들'을 행동하는 주어로 읽으면 뜻이 무너집니다."},
+  {"t":"mod","q":"<b>fortified with responsible appetites</b> 는 무엇을 설명합니까?","a":"야영지로 돌아온 아이들(the rovers)의 상태 — 든든한 식욕으로 무장한 채","tip":"바로 앞의 camp 를 꾸미는 말로 붙이기 쉽습니다. 야영지가 무장한 것이 아닙니다."},
+  {"t":"mod","q":"<b>the destruction of the good things</b> — 여기서 the good things 는 파괴한 쪽입니까, 파괴당한 쪽입니까?","a":"파괴당한 쪽 — 맛있는 음식들을 먹어 치우기 시작했다는 익살입니다","tip":"of 가 '~이 하는'이 아니라 '~을'에 해당합니다. 사고가 난 장면으로 읽으면 안 됩니다."}
+ ],
+ "29.17.7": [
+  {"t":"time","q":"<b>The moment a candle was lighted</b> 는 무슨 뜻입니까?","a":"촛불이 켜지자마자 — '~하는 순간, ~하자마자'라는 접속사 자리입니다","tip":"The moment 를 '그 순간은'이라는 주어로 읽으면 문장이 두 동강 납니다. 뒤에 진짜 주절 there was ~ 가 나옵니다."},
+  {"t":"pron","q":"<b>the owner of it</b> 의 it 은 무엇입니까?","a":"방금 켜진 그 초 — 그 초를 들고 있던 아이가 owner 입니다","tip":"동굴이나 다른 물건으로 잡기 쉽습니다. 바로 앞의 a candle 을 받습니다."},
+  {"t":"who","q":"<b>a gallant defence</b> — 용감하게 막아 낸 쪽은 누구입니까?","a":"촛불을 들고 있던 그 아이 — 달려드는 쪽이 아니라 당하는 쪽입니다","tip":"바로 앞 a general rush 를 한 쪽(나머지 아이들)과 뒤집어 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>but the candle was soon knocked down or blown out</b> — 그 방어는 성공했습니까?","a":"아니요 — 촛불은 곧 떨어지거나 꺼져 버렸습니다","tip":"gallant defence(용감한 방어)라는 말에 이끌려 but 을 놓치면 결과가 정반대가 됩니다."}
+ ],
+ "29.17.9": [
+  {"t":"who","q":"<b>dimly revealing the lofty walls of rock</b> — 바위 벽을 비춘 것은 무엇입니까?","a":"깜빡이는 불빛의 행렬(the flickering rank of lights) — 사람들의 행렬(the procession)이 아닙니다","tip":"분사구문인데 주어가 앞 절과 다릅니다. 바로 앞에 주어가 따로 적혀 있는 것이 그 신호입니다."},
+  {"t":"pron","q":"<b>their point of junction</b> 의 their 는 무엇을 가리킵니까?","a":"높다란 바위 벽들(the lofty walls of rock) — 양쪽 벽이 거의 맞닿는 지점","tip":"바로 앞의 lights 나 아이들로 잡기 쉽습니다. 맞닿는 것은 양쪽 '벽'입니다."},
+  {"t":"mod","q":"<b>sixty feet overhead</b> 는 무엇을 설명합니까?","a":"양쪽 벽이 거의 맞닿는 그 지점의 높이 — 머리 위 60피트","tip":"내려간 거리나 통로의 폭으로 읽기 쉽습니다. overhead 는 '머리 위'입니다."}
+ ],
+ "29.17.11": [
+  {"t":"pron","q":"<b>branched from it</b> 의 it 은 무엇입니까?","a":"큰 통로(the main avenue) — 앞 문장에서 폭이 8~10피트라고 한 그 길","tip":"동굴 전체로 잡기 쉽습니다. 거기서 옆으로 갈라져 나간다는 뜻입니다."},
+  {"t":"mod","q":"<b>still narrower</b> — 무엇보다 더 좁다는 뜻입니까?","a":"방금 말한 큰 통로보다 더 좁다는 뜻입니다","tip":"여기서 still 은 '여전히'가 아니라 비교급을 강조하는 '한층 더'입니다."},
+  {"t":"neg","q":"<b>McDougal’s cave was but a vast labyrinth</b> — 여기서 but 은 '그러나'입니까?","a":"아니요 — '~에 지나지 않았다'의 but(=only)입니다","tip":"was but 을 '그러나'로 읽으면 문장이 두 동강 나고 앞의 for(왜냐하면)와도 이어지지 않습니다."},
+  {"t":"neg","q":"<b>led nowhere</b> — 그 통로들은 어딘가로 이어졌습니까?","a":"아니요 — 어디에도 닿지 않았습니다","tip":"nowhere 자체가 부정어입니다. '어딘가로 이어졌다'로 읽으면 미로라는 설명이 무너집니다."}
+ ],
+ "29.17.12": [
+  {"t":"pron","q":"<b>It was said that ...</b> — 이 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 내용은 뒤의 that절입니다","tip":"'그것이 말해졌다'로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다. '사람들 말로는 ~라고 했다'입니다."},
+  {"t":"pron","q":"<b>one might wander</b> 의 one 과 <b>he might go down</b> 의 he 는 누구입니까?","a":"특정 인물이 아니라 '누구든 사람이라면'이라는 뜻입니다 — 톰이나 헉이 아닙니다","tip":"두 말이 같은 대상을 받습니다. 이야기 속 인물로 잡으면 실제로 일어난 일처럼 읽게 됩니다."},
+  {"t":"time","q":"<b>days and nights together</b> 는 무슨 뜻입니까?","a":"며칠 밤낮을 내리, 연달아 — 누군가와 '함께'라는 뜻이 아닙니다","tip":"together 를 '함께'로 읽으면 여럿이 몰려다니는 장면이 되어 버립니다."},
+  {"t":"neg","q":"<b>and never find the end of the cave</b> — 그렇게 헤매면 동굴의 끝을 찾을 수 있습니까?","a":"아니요 — 결코 찾지 못합니다","tip":"이 부분은 앞의 might 에 이어집니다(might wander ... and never find). never 를 놓치면 결론이 정반대가 됩니다."}
+ ],
+ "29.18.0": [
+  {"t":"mod","q":"<b>some three-quarters of a mile</b> 에서 some 은 무슨 뜻입니까?","a":"'약, ~쯤' — 4분의 3마일쯤이라는 뜻입니다","tip":"'어떤·일부'로 읽으면 거리가 사라집니다. 숫자 앞의 some 은 대략을 나타냅니다."},
+  {"t":"mod","q":"<b>fly along the dismal corridors</b> 와 <b>take each other by surprise</b> 는 어느 말에 이어집니까?","a":"앞의 began to — 무리와 짝들이 하기 시작한 세 가지 행동 중 둘입니다","tip":"to 가 생략되어 있어 새 문장이나 행렬(procession)이 한 일로 읽기 쉽습니다. fly 는 '날다'가 아니라 '내달리다'입니다."},
+  {"t":"who","q":"<b>take each other by surprise</b> — 놀라게 하는 쪽과 놀라는 쪽은 각각 누구입니까?","a":"아이들끼리 서로 — 한쪽이 일방적으로 놀래킨 것이 아닙니다","tip":"each other 는 '서로'입니다. 제3의 누군가가 나타난 것이 아닙니다."}
+ ],
+ "29.19.0": [
+  {"t":"mod","q":"<b>panting, hilarious, smeared ..., daubed ..., and entirely delighted ...</b> 는 무엇을 설명합니까?","a":"돌아온 아이들의 상태 — 동굴 입구(the mouth of the cave)를 꾸미는 말이 아닙니다","tip":"바로 앞에 the cave 가 있어 거기에 붙이기 쉽습니다. 헐떡이고 촛농을 뒤집어쓴 것은 아이들입니다."},
+  {"t":"who","q":"<b>one group after another came straggling back</b> — 돌아온 것은 한 무리입니까?","a":"여러 무리가 하나씩 잇달아 돌아왔습니다","tip":"one 만 보고 한 무리로 읽기 쉽습니다. one A after another 는 '차례차례, 잇달아'입니다."},
+  {"t":"time","q":"<b>By-and-by</b> 는 무슨 뜻입니까?","a":"이윽고, 얼마 뒤에","tip":"'지나가면서·옆을 스치며'로 읽기 쉽습니다. 이 장에 여러 번 나오는 시간 표현입니다."}
+ ],
+ "29.19.4": [
+  {"t":"pron","q":"<b>the ferryboat with her wild freight</b> 의 her 는 누구입니까?","a":"그 나룻배 자신 — 영어에서 배는 she·her 로 받습니다","tip":"여자 사람으로 잡기 쉽습니다. 그 '짐(freight)'은 떠들썩한 아이들을 가리키는 익살입니다."},
+  {"t":"neg","q":"<b>nobody cared sixpence for the wasted time but the captain</b> — 허비한 시간을 아쉬워한 사람이 있었습니까?","a":"선장 한 사람뿐입니다 — 나머지는 아무도 신경 쓰지 않았습니다","tip":"여기서 but 은 '그러나'가 아니라 '~을 제외하고'입니다. nobody 와 but 을 따로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>the captain of the craft</b> 에서 the craft 는 무엇입니까?","a":"그 나룻배","tip":"craft 를 '기술·공예'로 읽으면 장면이 사라집니다. 여기서는 '배'라는 뜻입니다."}
+ ],
+ "29.20.1": [
+  {"t":"pron","q":"<b>He heard no noise on board</b> 의 He 는 누구입니까?","a":"헉 — 부두에서 망을 보고 있던 아이입니다","tip":"바로 앞 문단이 나룻배와 선장 이야기라 선장으로 잡기 쉽습니다. 앞 문장의 주어가 Huck 입니다."},
+  {"t":"neg","q":"<b>heard no noise</b> — 배에서 소리가 들렸습니까?","a":"아니요 — 아무 소리도 들리지 않았습니다","tip":"no 가 목적어 앞에 붙어 있어 놓치기 쉽습니다. hear 를 부정하는 것과 같습니다."},
+  {"t":"mod","q":"<b>who are nearly tired to death</b> 는 누구를 꾸밉니까?","a":"비교 대상으로 나온 people(사람들 일반) — 죽을 만큼 지친 사람들","tip":"배에 탄 젊은이들을 직접 꾸미는 말로 읽기 쉽습니다. '보통 사람들도 그러하듯'이라는 비교입니다."}
+ ],
+ "29.20.2": [
+  {"t":"pron","q":"<b>why she did not stop</b> 의 she 와 <b>dropped her out of his mind</b> 의 her 는 누구입니까?","a":"둘 다 그 배 — 여자 사람이 아닙니다","tip":"배를 she·her 로 받는 것을 모르면 밤중에 여자 한 사람이 등장하는 이야기가 되어 버립니다."},
+  {"t":"neg","q":"<b>why she did not stop at the wharf</b> — 그 배는 부두에 섰습니까?","a":"아니요 — 서지 않고 그냥 지나갔습니다","tip":"did not 을 놓치면 배가 정박한 장면이 되어 헉이 궁금해할 이유가 사라집니다."},
+  {"t":"who","q":"배 생각을 접고 자기 할 일에 정신을 쏟은 사람은 누구입니까?","a":"헉","tip":"이 문단의 he·his 는 전부 헉입니다. 배의 선장이나 톰으로 잡지 않도록 주의하세요."}
+ ],
+ "29.20.4": [
+  {"t":"mod","q":"<b>scattered lights began to wink out</b> — scattered 는 이 절의 동사입니까?","a":"아니요 — 뒤의 lights 를 꾸미는 말입니다(여기저기 흩어져 있던 불빛). 이 절의 동사는 began 입니다","tip":"문장 앞머리에 있어 '불빛이 흩어졌다'로 읽기 쉽습니다."},
+  {"t":"neg","q":"<b>began to wink out</b> — 불빛이 켜지기 시작했습니까, 꺼지기 시작했습니까?","a":"하나씩 꺼지기 시작했습니다","tip":"wink 를 '반짝이다'로만 알면 정반대로 읽습니다. wink out 은 '깜빡이다 꺼지다'입니다."},
+  {"t":"who","q":"<b>left the small watcher alone</b> — 그를 홀로 남겨 둔 것은 누구입니까?","a":"마을(the village) — 마을이 잠들어 버리면서 그를 혼자 남겼다는 뜻입니다","tip":"앞에 나온 사람들(foot-passengers)이 한 일로 읽기 쉽습니다. the village 가 betook 과 left 두 동사를 함께 받습니다."},
+  {"t":"pron","q":"<b>the small watcher</b> 는 누구입니까?","a":"헉 — 망을 보고 있던 그 아이","tip":"새 인물이 나온 것처럼 읽기 쉽습니다. 작가가 헉을 다르게 불러 준 것입니다."}
+ ],
+ "29.21.10": [
+  {"t":"pron","q":"<b>allowing them to keep just far enough ahead</b> 의 them 은 누구입니까?","a":"앞서 가던 두 사내(the men)","tip":"바로 앞에 Huck 이 나와서 헉 쪽으로 잡기 쉽습니다. 앞서 가는 쪽이 them 입니다."},
+  {"t":"neg","q":"<b>not to be invisible</b> — 헉은 사내들이 보이지 않게 두었습니까?","a":"아니요 — 시야에서 사라지지는 않을 만큼만 거리를 두었습니다(계속 보이는 상태)","tip":"not + invisible 로 부정이 겹칩니다. '안 보이도록'으로 읽으면 뒤를 밟는 장면 자체가 성립하지 않습니다."},
+  {"t":"mod","q":"<b>cat-like, with bare feet</b> 는 누구를 설명합니까?","a":"헉 — 고양이처럼 소리 없이, 맨발로 따라갔다는 뜻입니다","tip":"바로 앞의 the men 에 붙이기 쉽습니다. 맨발인 쪽은 헉입니다."}
+ ],
+ "29.22.8": [
+  {"t":"who","q":"세미콜론으로 이어진 <b>slackened his pace</b>, <b>moved on a piece</b>, <b>stopped altogether</b>, <b>listened</b> — 이 동작들을 한 사람은 누구입니까?","a":"모두 헉 한 사람입니다","tip":"주어가 생략된 채 세미콜론으로 이어집니다. 앞서 가던 사내들이 한 일로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>fearing he was gaining too fast</b> — 너무 빨리 거리를 좁히고 있던 쪽은 누구입니까?","a":"헉 자신 — 자기가 너무 바싹 따라붙는 게 아닌가 겁이 난 것입니다","tip":"gain 은 여기서 '얻다'가 아니라 '따라붙다, 거리를 좁히다'입니다. 사내들이 다가온다는 뜻이 아닙니다."},
+  {"t":"neg","q":"<b>no sound; none, save that he seemed to hear the beating of his own heart</b> — 헉에게 정말 아무 소리도 들리지 않았습니까?","a":"자기 심장 뛰는 소리가 들리는 것 같았던 것 하나 말고는 아무 소리도 없었습니다","tip":"save that 은 '~을 빼고는'입니다. save 를 '구하다'로 읽으면 문장이 무너집니다."},
+  {"t":"time","q":"헉이 아예 멈춰 선 것은 걸음을 늦추기 전입니까, 뒤입니까?","a":"뒤 — 총총걸음 → 걸음 늦춤 → 조금 더 나아감 → 완전히 멈춤 → 귀 기울임 순서입니다","tip":"세미콜론으로만 이어져 있어 순서가 뭉개지기 쉽습니다. 동작마다 시간이 흐릅니다."}
+ ],
+ "29.22.13": [
+  {"t":"pron","q":"<b>but he swallowed it again</b> 의 it 은 무엇입니까?","a":"목구멍까지 치솟은 자기 심장","tip":"앞에 다른 사물이 없어 침이나 비명으로 상상하기 쉽습니다. 앞 절을 그대로 받는 익살스러운 표현입니다."},
+  {"t":"time","q":"<b>as if a dozen agues had taken charge of him at once</b> — 헉이 실제로 학질에 걸렸습니까?","a":"아니요 — 그만큼 심하게 떨었다는 가정(비유)입니다","tip":"as if + 과거완료는 사실이 아닌 가정입니다. 실제로 일어난 일로 읽으면 갑자기 병에 걸린 이야기가 됩니다."},
+  {"t":"mod","q":"<b>and so weak that he thought ...</b> — 그토록 기운이 빠진 것은 무엇(누구)입니까?","a":"헉 자신 — 그 자리에 서 있던 헉의 상태입니다","tip":"바로 앞의 agues 나 shaking 에 붙이기 쉽습니다. he stood there shaking ... and (was) so weak 로 이어집니다."}
+ ],
+ "29.29.3": [
+  {"t":"pron","q":"<b>her husband</b> 의 her 는 누구입니까?","a":"더글러스 미망인 — 그 남편은 이미 죽은 사람입니다","tip":"앞 대사에서 계속 her swag, Damn her 로 불리던 그 여자입니다. 이름이 안 나와 놓치기 쉽습니다."},
+  {"t":"who","q":"<b>he was the justice of the peace that jugged me for a vagrant</b> — 나를 감옥에 처넣은 사람은 누구입니까?","a":"미망인의 남편 — 그가 바로 그 치안판사였습니다","tip":"he 와 that 이 같은 사람입니다. 치안판사가 따로 있었던 것으로 읽으면 원한의 대상이 사라집니다."},
+  {"t":"pron","q":"이 대사의 <b>me</b> 는 누구입니까?","a":"말하고 있는 인전 조","tip":"대사 안의 me 를 헉이나 톰으로 잡으면 이야기가 통째로 어긋납니다. 앞에서 이 목소리가 인전 조의 것이라고 밝혀졌습니다."}
+ ],
+ "29.36.0": [
+  {"t":"mod","q":"<b>a thing still more awful than any amount of murderous talk</b> 는 무엇을 설명하는 말입니까?","a":"곧 뒤따를 침묵(a silence) — 침묵이 아무리 살벌한 이야기보다도 더 무섭다는 뜻입니다","tip":"헉이나 사내들의 말을 가리키는 것으로 읽기 쉽습니다. 대시 앞의 명사를 다시 말하는 동격입니다."},
+  {"t":"neg","q":"<b>almost toppling over</b> — 헉은 실제로 넘어졌습니까?","a":"아니요 — 넘어질 뻔했을 뿐입니다","tip":"almost 는 '거의 그럴 뻔했지만 실제로는 안 했다'입니다. 넘어졌다고 읽으면 발각되는 장면이 되어 버립니다."},
+  {"t":"time","q":"발을 조심스럽게 내려놓은 것(<b>planted his foot</b>)은 한 발로 비틀거린 것(<b>after balancing ... almost toppling over</b>)보다 먼저입니까, 나중입니까?","a":"나중 — 한 발로 아슬아슬하게 버티다가 그다음에 발을 단단히 내려놓았습니다","tip":"문장에서는 planted 가 먼저 나오지만 after 가 순서를 뒤집습니다. 적힌 순서대로 읽으면 어긋납니다."},
+  {"t":"mod","q":"<b>one-legged</b> 는 무엇을 설명합니까?","a":"헉이 균형을 잡던 자세 — 한 발로 선 채라는 뜻입니다","tip":"헉의 다리가 하나라는 말이 아닙니다. 뒤의 first on one side and then on the other 는 그렇게 비틀거린 방향입니다."}
+ ],
+ "29.36.5": [
+  {"t":"time","q":"<b>turned in his tracks</b> 와 <b>turned himself as carefully as if he were a ship</b> — 헉은 몸을 두 번 돌렸습니까?","a":"아니요 — 한 번입니다. 대시 사이의 말은 같은 동작을 다시 풀어 설명한 것입니다","tip":"동사가 두 번 나와 두 동작으로 읽기 쉽습니다. 대시는 앞말을 고쳐 말하거나 자세히 풀어 주는 표시입니다."},
+  {"t":"mod","q":"<b>as carefully as if he were a ship</b> — 배에 비유된 것은 무엇입니까?","a":"헉 자신 — 몸을 돌리는 모습이 배가 방향을 트는 것처럼 굼뜨고 조심스러웠다는 뜻입니다","tip":"were 는 사실이 아닌 가정입니다. 근처에 실제 배가 있다고 읽으면 장면이 어긋납니다."},
+  {"t":"mod","q":"<b>between the walls of sumach bushes</b> 의 walls 는 무엇입니까?","a":"양옆에 벽처럼 빽빽이 선 옻나무 덤불 — 진짜 벽이 아닙니다","tip":"건물이나 동굴의 벽으로 읽기 쉽습니다. 좁은 덤불길이라 몸 돌리기가 어려웠다는 점이 이 장면의 핵심입니다."}
+ ],
+ "29.42.1": [
+  {"t":"neg","q":"<b>Please don’t</b> — 헉이 하지 말아 달라고 부탁한 것은 무엇입니까?","a":"자기가 말해 줬다는 사실을 남에게 알리는 것","tip":"don’t 뒤가 통째로 생략되어 있습니다. 바로 앞 문장의 don’t ever tell I told you 를 받습니다."},
+  {"t":"time","q":"<b>I’d be killed, sure</b> — 헉은 이미 죽임을 당했습니까?","a":"아니요 — 알려지면 틀림없이 죽을 거라는, 아직 일어나지 않은 일입니다","tip":"I’d 는 I would 입니다. 과거처럼 보이지만 앞일에 대한 가정입니다."},
+  {"t":"who","q":"<b>the widow’s been good friends to me sometimes</b> — 잘해 준 쪽과 받은 쪽은 각각 누구입니까?","a":"잘해 준 쪽은 더글러스 미망인, 받은 쪽은 헉","tip":"widow’s 는 소유격이 아니라 the widow has 의 줄임입니다. 소유격으로 읽으면 주어가 사라집니다."},
+  {"t":"neg","q":"<b>if you’ll promise you won’t ever say it was me</b> — 헉이 받아 내려는 약속은 무엇입니까?","a":"말한 사람이 헉이라는 것을 절대 발설하지 않겠다는 약속","tip":"won’t ever = never 입니다. 부정을 놓치면 '내가 말했다고 밝혀 달라'는 정반대 부탁이 됩니다."}
+ ],
+ "29.43.0": [
+  {"t":"who","q":"<b>exclaimed the old man</b> — 이 말을 외친 사람은 누구입니까?","a":"노인(웨일스인 영감)","tip":"주어와 동사가 뒤바뀐 도치입니다. exclaimed 를 보고 앞말의 주인공을 주어로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>he has got something to tell</b> 의 he 는 누구입니까?","a":"헉 — 문 앞에서 사정하던 그 아이입니다","tip":"말하는 사람이 노인이라 he 를 노인 자신으로 잡기 쉽습니다. 노인이 옆의 아들들에게 헉을 두고 하는 말입니다."},
+  {"t":"neg","q":"<b>or he wouldn’t act so!</b> — 여기서 or 는 무슨 뜻입니까?","a":"'또는'이 아니라 '그렇지 않으면' — 할 말이 없다면 저렇게 굴 리가 없다는 뜻입니다","tip":"'또는'으로 읽으면 두 가지 가능성을 말하는 것이 되어, 노인이 확신하고 있다는 점이 사라집니다."},
+  {"t":"neg","q":"<b>nobody here’ll ever tell</b> — 여기 있는 사람들이 그 말을 옮기겠습니까?","a":"아니요 — 아무도 절대 발설하지 않는다는 약속입니다","tip":"nobody 와 ever 가 함께 쓰였습니다. 헉이 원하던 그 약속을 노인이 해 주는 대목입니다."}
+ ]
+}

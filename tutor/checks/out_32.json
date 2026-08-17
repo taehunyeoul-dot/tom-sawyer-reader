@@ -1,0 +1,118 @@
+{
+ "32.0.3": [
+  {"t":"pron","q":"<b>Public prayers had been offered up for them</b> — 이 them 은 누구를 가리킵니까?","a":"동굴에서 실종된 두 아이, 톰과 베키","tip":"기도를 올린 마을 사람들로 잡기 쉽습니다. them 은 기도를 '받는' 쪽입니다."},
+  {"t":"mod","q":"<b>that had the petitioner’s whole heart in it</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 a private prayer(사사로운 기도)","tip":"petitioner(기도하는 사람)를 꾸미는 말로 붙이면 뜻이 엉킵니다. 뒤의 it 도 그 기도를 받습니다."},
+  {"t":"neg","q":"<b>but still no good news came from the cave</b> — 동굴에서 좋은 소식이 왔습니까?","a":"아니요 — 여전히 아무 좋은 소식도 오지 않았습니다","tip":"no 가 news 앞에 붙어 문장 전체를 부정합니다. still 을 '아직도 소식이 온다'로 이어 읽지 마세요."}
+ ],
+ "32.0.4": [
+  {"t":"who","q":"<b>saying that it was plain ...</b> — 그렇게 말한 사람은 누구입니까?","a":"수색자 대부분(The majority of the searchers)","tip":"분사구문의 주인은 문장의 주어입니다. 아이들 부모나 마을 사람들로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>the children could never be found</b> — 아이들을 찾을 수 있다는 말입니까?","a":"아니요 — 결코 찾을 수 없다는 말입니다","tip":"never 를 놓치면 뜻이 정반대가 됩니다. 수동태라 '아이들이 찾지 못한다'도 아닙니다."},
+  {"t":"time","q":"<b>had given up the quest and gone back</b> — 포기하고 생업으로 돌아간 것은 이 장면보다 앞선 일입니까, 지금 벌어지는 일입니까?","a":"앞선 일 — 이미 포기하고 돌아간 뒤였습니다","tip":"had given up ... and (had) gone back, 과거완료가 두 동사 모두에 걸립니다."}
+ ],
+ "32.0.6": [
+  {"t":"who","q":"<b>raise her head and listen a whole minute at a time</b> — 고개를 들고 귀 기울인 사람은 누구입니까?","a":"베키의 어머니인 대처 부인(her) — 그 소리를 듣던 마을 사람들이 아닙니다","tip":"hear her call ... and raise ... and listen ... 처럼 동사원형이 줄줄이 이어집니다. 모두 her 가 하는 동작입니다."},
+  {"t":"pron","q":"<b>then lay it wearily down again</b> 의 it 은 무엇입니까?","a":"그녀의 머리(her head)","tip":"아이(her child)로 잡기 쉽습니다. 바로 앞에서 들었던 고개를 다시 떨구는 것입니다."},
+  {"t":"time","q":"<b>listen a whole minute at a time</b> — 다 합쳐 1분 동안 귀를 기울였다는 뜻입니까?","a":"아니요 — 한 번에 1분씩, 그것을 되풀이했다는 뜻입니다","tip":"at a time 은 '한 번에'입니다. 그만큼 오래 매달렸다는 뜻이 됩니다."}
+ ],
+ "32.1.0": [
+  {"t":"who","q":"<b>who shouted</b> — “나와 봐! 찾았대!” 하고 외친 것은 누구입니까?","a":"거리로 쏟아져 나온, 옷을 반쯤만 걸친 사람들","tip":"who 의 짝은 바로 앞의 people 입니다. 종(bells)이나 거리(streets)로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>they’re found! they’re found!</b> 의 they 는 누구입니까?","a":"실종됐던 톰과 베키","tip":"외치는 사람들 자신으로 잡으면 장면이 무너집니다. '찾았다'가 아니라 '(그 아이들이) 발견됐다'는 수동입니다."},
+  {"t":"time","q":"종소리가 터져 나온 것과 거리가 사람들로 들끓은 것 중 먼저 일어난 일은 무엇입니까?","a":"종소리가 먼저 — 그 소리에 사람들이 순식간에 쏟아져 나왔습니다","tip":"and 로 이어져 있지만 순서가 있습니다. in a moment 는 '잠시 뒤에'가 아니라 '눈 깜짝할 사이에'입니다."}
+ ],
+ "32.1.1": [
+  {"t":"who","q":"<b>met the children coming in an open carriage</b> — 아이들을 맞이한 것은 누구입니까?","a":"강 쪽으로 몰려간 마을 사람들 전체(the population)","tip":"맨 앞 주어인 Tin pans and horns(양철 냄비와 나팔)는 첫 절에만 걸립니다. 중간에 주어가 바뀝니다."},
+  {"t":"mod","q":"<b>coming in an open carriage</b> 는 누구를 설명합니까?","a":"아이들(the children) — 마차를 타고 오고 있던 쪽입니다","tip":"마을 사람들이 마차를 타고 갔다고 읽으면 장면이 뒤집힙니다."},
+  {"t":"mod","q":"<b>drawn by shouting citizens</b> 는 무엇을 설명합니까?","a":"뚜껑 없는 마차(an open carriage) — 시민들이 그 마차를 끌고 있었습니다","tip":"아이들을 꾸미는 말로 붙이면 '시민들에게 끌려온 아이들'이 되어 버립니다. 말 대신 사람이 끄는 것이 이 장면의 핵심입니다."},
+  {"t":"pron","q":"<b>thronged around it, joined its homeward march</b> 의 it 과 its 는 무엇입니까?","a":"그 마차 — 마차를 에워싸고, 마차가 집으로 향하는 행렬에 합류했습니다","tip":"강(the river)이나 마을로 잡기 쉽습니다."}
+ ],
+ "32.2.0": [
+  {"t":"neg","q":"<b>nobody went to bed again</b> — 사람들은 다시 잠자리에 들었습니까?","a":"아니요 — 아무도 다시 자러 가지 않았습니다","tip":"nobody 한 낱말이 문장 전체를 부정합니다. 그만큼 온 마을이 들떴다는 뜻입니다."},
+  {"t":"pron","q":"<b>it was the greatest night</b> 의 it 은 무엇을 가리킵니까?","a":"아이들이 돌아온 그날 밤","tip":"'그것은'으로 옮기면 앞에서 가리킬 것을 찾다가 길을 잃습니다. 뜻 없는 가주어 it 과도 다릅니다."},
+  {"t":"mod","q":"<b>the little town had ever seen</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 the greatest night — 그 작은 마을이 여태 겪어 본 밤들 가운데 최고라는 뜻","tip":"관계대명사(that)가 빠져 있어 새로운 문장으로 읽기 쉽습니다."}
+ ],
+ "32.2.1": [
+  {"t":"who","q":"<b>seized the saved ones and kissed them</b> — 붙잡고 입 맞춘 것은 누구입니까?","a":"줄지어 지나간 마을 사람들(a procession of villagers)","tip":"집주인인 대처 판사 부부로 잡기 쉽습니다. filed, seized, kissed, squeezed 는 모두 같은 주어의 동작입니다."},
+  {"t":"pron","q":"<b>the saved ones</b> 는 누구입니까?","a":"구조된 두 아이, 톰과 베키","tip":"ones 는 앞에서 말한 사람들을 받는 말입니다. 구조하러 갔던 사람들이 아닙니다."},
+  {"t":"neg","q":"<b>tried to speak but couldn’t</b> — 마을 사람들은 말을 했습니까?","a":"아니요 — 말하려 했지만 말이 나오지 않았습니다","tip":"couldn’t 뒤에 speak 가 생략됐습니다. '말하려 애썼다'까지만 읽으면 결과가 정반대가 됩니다."},
+  {"t":"mod","q":"<b>raining tears all over the place</b> 는 누구를 설명합니까?","a":"밖으로 흘러 나가던 그 마을 사람들 — 온 사방에 눈물을 뿌리면서 나갔다는 뜻","tip":"비가 온다는 말이 전혀 아닙니다. raining 은 눈물을 비처럼 뿌린다는 표현입니다."}
+ ],
+ "32.3.1": [
+  {"t":"pron","q":"<b>It would be complete, however</b> 의 It 은 무엇을 가리킵니까?","a":"대처 부인의 기쁨(앞 문장에서 말한 그 행복)","tip":"뒤에 as soon as 절이 길게 붙어 뜻 없는 가주어로 착각하기 쉽지만, 앞 내용을 받는 진짜 주어입니다."},
+  {"t":"mod","q":"<b>dispatched with the great news to the cave</b> 는 무엇을 설명합니까?","a":"전령(the messenger) — 그 굉장한 소식을 갖고 동굴로 급파된 전령","tip":"dispatched 를 이 절의 동사로 읽어 '전령이 소식을 급파했다'로 잡기 쉽습니다. 진짜 동사는 뒤의 should get 입니다."},
+  {"t":"pron","q":"<b>her husband</b> 는 누구입니까?","a":"대처 판사 — 그때까지도 동굴에서 아이들을 찾고 있던 대처 부인의 남편","tip":"her 는 대처 부인입니다. 아직 소식을 못 들은 쪽이 남편이라는 점이 이 문장의 요지입니다."},
+  {"t":"time","q":"이 문장을 말하는 시점에 남편은 그 소식을 들었습니까?","a":"아니요 — 아직입니다. 전령이 전하는 그 순간에야 기쁨이 완전해질 것이라는 말입니다","tip":"would be, should get 은 앞으로 벌어질 일입니다. 이미 전해 들은 것으로 읽지 마세요."}
+ ],
+ "32.3.2": [
+  {"t":"who","q":"<b>putting in many striking additions to adorn it withal</b> — 눈에 띄는 살을 덧붙인 것은 누구입니까?","a":"톰 자신 — 이야기를 그럴듯하게 꾸미려고 없던 얘기를 잔뜩 보탰다는 뜻입니다","tip":"둘러앉은 청중이 거든 것이 아닙니다. 작가가 톰을 슬쩍 놀리는 대목입니다."},
+  {"t":"pron","q":"<b>to adorn it withal</b> 의 it 은 무엇입니까?","a":"톰이 하고 있던 그 모험 이야기(the history of the wonderful adventure)","tip":"소파나 동굴로 잡기 쉽습니다. withal 은 '그것으로'라는 옛말입니다."},
+  {"t":"time","q":"<b>was about to turn back when he glimpsed a far-off speck</b> — 톰은 실제로 돌아섰습니까?","a":"아니요 — 막 돌아서려던 참에 저 멀리 작은 점을 보았습니다","tip":"be about to ~ 는 '막 ~하려던 참'이지 실제로 한 것이 아닙니다."},
+  {"t":"mod","q":"<b>that looked like daylight</b> 는 무엇을 설명합니까?","a":"저 멀리 보이던 작은 점(a far-off speck)","tip":"연줄(kite-line)이나 톰을 꾸미는 말로 붙이면 장면이 사라집니다."}
+ ],
+ "32.4.0": [
+  {"t":"time","q":"<b>if it had only happened to be night</b> — 그때는 실제로 밤이었습니까?","a":"아니요 — 밤이 아니었습니다. '만약 하필 밤이었더라면'이라는, 사실과 반대되는 가정입니다","tip":"if + had p.p. 는 실제로는 그렇지 않았다는 뜻을 품습니다."},
+  {"t":"neg","q":"<b>he would not have seen that speck of daylight</b> — 톰은 그 햇빛 한 점을 보지 못했습니까?","a":"실제로는 보았습니다 — 밤이었더라면 못 봤을 것이라는 가정일 뿐입니다","tip":"would not have p.p. 를 그냥 '보지 못했다'로 읽으면 앞 문장과 정면으로 어긋납니다."},
+  {"t":"pron","q":"<b>it had only happened to be night</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 때·날씨를 말할 때 쓰는 it 입니다","tip":"'그것이 밤이었다면'으로 옮기면 앞에서 가리킬 것을 찾게 됩니다."}
+ ],
+ "32.4.1": [
+  {"t":"who","q":"<b>went back for Becky and broke the good news</b> — 좋은 소식을 전한 것은 누구입니까?","a":"톰(he)","tip":"break the news 는 '소식을 전하다'입니다. 무언가를 부쉈다는 말이 아닙니다."},
+  {"t":"neg","q":"<b>she told him not to fret her with such stuff</b> — 베키는 그 이야기를 더 해 달라고 했습니까?","a":"아니요 — 그런 소리로 자기를 귀찮게 하지 말라고 했습니다","tip":"not 하나로 뜻이 정반대가 됩니다. 좋은 소식인데도 베키는 짜증을 낸 것입니다."},
+  {"t":"pron","q":"문장 끝의 <b>and wanted to.</b> — to 뒤에 생략된 말은 무엇입니까?","a":"to die — 죽기를 바랐다는 뜻입니다","tip":"앞의 was going to die 를 받아 통째로 생략했습니다. tired, knew, wanted 가 모두 베키의 상태입니다."}
+ ],
+ "32.4.2": [
+  {"t":"neg","q":"<b>how the men didn’t believe the wild tale at first</b> — 그 남자들은 끝까지 톰의 말을 믿지 않았습니까?","a":"처음에만 믿지 않았습니다 — 결국은 둘을 배에 태워 도와주었습니다","tip":"at first 를 놓치면 뒤에 이어지는 took them aboard 이하와 앞뒤가 맞지 않게 됩니다."},
+  {"t":"pron","q":"<b>you are five miles down the river</b> 의 you 는 누구입니까?","a":"톰과 베키 — 배를 탄 남자들이 두 아이에게 한 말입니다","tip":"said they 는 '그들이 말했다'의 도치입니다. 톰이 한 말로 잡으면 말하는 쪽이 뒤집힙니다."},
+  {"t":"who","q":"<b>took them aboard, rowed to a house, gave them supper</b> — 배에 태우고 저녁을 먹인 것은 누구입니까?","a":"작은 배를 타고 지나가던 그 남자들(the men)","tip":"바로 앞에 Tom 이 나와서 주어를 톰으로 이어 읽기 쉽습니다. them 이 톰과 베키입니다."},
+  {"t":"time","q":"<b>made them rest till two or three hours after dark</b> — 쉬게 한 것은 언제까지입니까?","a":"어두워지고 나서 두세 시간이 지날 때까지","tip":"'어두워지기 두세 시간 전까지'로 읽기 쉽습니다. after dark(어두워진 뒤)가 한 덩어리입니다."}
+ ],
+ "32.5.0": [
+  {"t":"who","q":"<b>were tracked out, in the cave</b> — 대처 판사 일행은 찾아낸 쪽입니까, 찾아진 쪽입니까?","a":"찾아진 쪽 — 판사와 수색자들이 동굴 안에서 발견된 것입니다","tip":"searchers(수색자)라는 말 때문에 그들이 누군가를 찾아냈다고 읽기 쉽습니다. were + p.p. 라 정반대입니다."},
+  {"t":"pron","q":"<b>the twine clews they had strung behind them</b> 의 they 와 them 은 누구입니까?","a":"둘 다 대처 판사 일행 자신 — 자기들이 뒤에 늘어뜨려 놓은 노끈입니다","tip":"찾으러 온 사람들로 잡기 쉽습니다. 길을 잃지 않으려고 깔아 둔 실이 도리어 자기들을 찾아내는 단서가 된 것입니다."},
+  {"t":"who","q":"<b>and informed of the great news</b> — 소식을 알린 쪽입니까, 전해 들은 쪽입니까?","a":"전해 들은 쪽 — 앞의 were 가 여기에도 걸려 were informed 입니다","tip":"were 가 생략돼 있어 '그리고 소식을 알렸다'로 읽기 쉽습니다."}
+ ],
+ "32.6.0": [
+  {"t":"neg","q":"<b>were not to be shaken off at once</b> — 그 고생과 굶주림은 단번에 털어 낼 수 있었습니까?","a":"아니요 — 단번에 떨쳐 낼 수 있는 것이 아니었습니다","tip":"not 을 놓치면 '금방 회복했다'가 되어, 뒤에 이어지는 며칠간의 앓아누움과 어긋납니다."},
+  {"t":"who","q":"이 문장의 주어, 곧 단번에 털어 낼 수 없었던 것은 무엇입니까?","a":"동굴에서 겪은 사흘 밤낮의 고생과 굶주림 — 톰과 베키가 주어가 아닙니다","tip":"주어가 아주 길어서 뒤에 가까이 붙은 Tom and Becky 를 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>as Tom and Becky soon discovered</b> 는 무슨 뜻입니까?","a":"톰과 베키도 곧 그것을 알게 되었듯이 — 앞의 내용 전체를 받는 말입니다","tip":"여기서 as 는 '~할 때'나 '~때문에'가 아니라 '~듯이'입니다."}
+ ],
+ "32.6.1": [
+  {"t":"pron","q":"<b>They were bedridden</b> 의 They 는 누구입니까?","a":"톰과 베키","tip":"바로 앞 문장에 나온 두 사람입니다. 마을 사람들이나 수색자로 잡으면 흐름이 끊깁니다."},
+  {"t":"time","q":"<b>all of Wednesday and Thursday</b> — 둘은 얼마 동안 몸져누워 있었습니까?","a":"수요일과 목요일 이틀 내내","tip":"all of ~ 는 그 기간 전체입니다. 하루로 줄여 읽지 마세요."},
+  {"t":"time","q":"<b>seemed to grow more and more tired and worn, all the time</b> — 시간이 갈수록 둘은 나아졌습니까?","a":"아니요 — 오히려 점점 더 지치고 수척해져 갔습니다","tip":"grow 는 '자라다'가 아니라 '점점 ~해지다'입니다. all the time 은 '그동안 줄곧'입니다."}
+ ],
+ "32.6.2": [
+  {"t":"who","q":"<b>was downtown Friday, and nearly as whole as ever Saturday</b> — 금요일에 시내에 나가고 토요일에 거의 멀쩡해진 것은 누구입니까?","a":"톰 — 베키가 아닙니다","tip":"주어가 생략된 채 동사만 이어집니다. 뒤의 but Becky ~ 와 대비되는 부분입니다."},
+  {"t":"time","q":"<b>Becky did not leave her room until Sunday</b> — 베키가 방을 나선 것은 언제입니까?","a":"일요일 — 일요일이 되어서야 비로소 나왔습니다","tip":"not ... until ~ 은 '~에야 비로소'입니다. '일요일까지는 안 나왔다'로 흐리게 읽으면 대비가 사라집니다."},
+  {"t":"time","q":"<b>as if she had passed through a wasting illness</b> — 베키는 실제로 사람을 축내는 병을 앓았습니까?","a":"아니요 — 그런 병을 앓고 난 사람처럼 보였다는 말입니다","tip":"as if + 과거완료는 사실이 아닌 비유입니다. 베키를 그 꼴로 만든 것은 동굴에서의 사흘입니다."}
+ ],
+ "32.7.0": [
+  {"t":"pron","q":"<b>went to see him on Friday</b> 의 him 은 누구입니까?","a":"헉(Huck)","tip":"바로 앞의 Huck’s sickness 를 받습니다. 아픈 사람이 톰이 아니라는 점을 확실히 하세요."},
+  {"t":"neg","q":"<b>but could not be admitted to the bedroom</b> — 톰은 침실에 들어갔습니까?","a":"아니요 — 들여보내 주지 않아 들어가지 못했습니다","tip":"be admitted 는 '들어가도록 허락받다'입니다. not 을 놓치면 헉을 만난 것이 되어 버립니다."},
+  {"t":"neg","q":"<b>neither could he on Saturday or Sunday</b> — 토요일과 일요일에는 들어갈 수 있었습니까?","a":"아니요 — 그 이틀도 마찬가지로 들어가지 못했습니다","tip":"부정어 neither 가 앞에 나와 could he 로 뒤집힌 도치입니다. 의문문이나 긍정으로 읽기 쉽습니다."}
+ ],
+ "32.7.1": [
+  {"t":"who","q":"<b>was warned</b> — 톰은 주의를 준 쪽입니까, 받은 쪽입니까?","a":"받은 쪽 — 헉을 돌보던 어른들에게 주의를 들은 것입니다","tip":"He was admitted ... but was warned ... 둘 다 수동입니다."},
+  {"t":"neg","q":"<b>to keep still about his adventure</b> — 톰은 자기 모험 이야기를 하라는 말을 들었습니까?","a":"아니요 — 그 이야기는 입 밖에 내지 말라는 말을 들었습니다","tip":"keep still 은 '가만히·잠자코 있다'입니다. '계속 이야기하다'로 읽으면 정반대가 됩니다."},
+  {"t":"neg","q":"<b>and introduce no exciting topic</b> — 흥분시킬 만한 화제를 꺼내라는 뜻입니까?","a":"아니요 — 그런 화제는 하나도 꺼내지 말라는 뜻입니다","tip":"no 가 topic 앞에 붙어 부정합니다. 앞의 was warned to 에 이어지는 말입니다."}
+ ],
+ "32.7.3": [
+  {"t":"pron","q":"<b>he had been drowned while trying to escape</b> 의 he 는 누구입니까?","a":"'누더기 차림 사내'(the “ragged man”)","tip":"문장 앞머리의 Tom 으로 잡기 쉽습니다. 바로 앞에서 시체가 발견된 그 사람입니다."},
+  {"t":"time","q":"<b>had eventually been found</b> — 시체가 발견된 것은 톰이 그 소식을 들은 뒤입니까, 전입니까?","a":"전 — 이미 발견된 뒤에 톰이 전해 들은 것입니다","tip":"과거완료(had been found)가 '더 먼저'를 나타냅니다."},
+  {"t":"mod","q":"문장 끝의 <b>perhaps</b> 는 어디에 걸리는 말입니까?","a":"바로 앞 절 전체 — '아마 달아나려다 물에 빠져 죽은 모양이다'라는 추측입니다","tip":"맨 끝에 툭 붙어 있어 놓치기 쉽습니다. 확인된 사실이 아니라 짐작입니다."}
+ ],
+ "32.8.0": [
+  {"t":"time","q":"<b>About a fortnight after Tom’s rescue from the cave</b> — 이 일은 구조되고 나서 얼마 뒤입니까?","a":"두 주(2주)쯤 뒤","tip":"a fortnight 은 14일입니다. '구조되기 전'으로 읽으면 순서가 뒤집힙니다."},
+  {"t":"who","q":"<b>who had grown plenty strong enough, now, to hear exciting talk</b> — 그만큼 튼튼해진 사람은 누구입니까?","a":"헉 — 톰이 아닙니다","tip":"who 의 짝은 바로 앞의 Huck 입니다. 앓아누워 있던 쪽이 헉입니다."},
+  {"t":"pron","q":"<b>Tom had some that would interest him</b> 의 some 과 him 은 각각 무엇·누구입니까?","a":"some = 헉이 흥미로워할 만한 이야깃거리, him = 헉","tip":"some 을 '몇 사람'으로 읽으면 문장이 무너집니다. 앞의 exciting talk 를 받는 말입니다."},
+  {"t":"who","q":"문장 끝의 <b>he thought</b> — 그렇게 생각한 사람은 누구입니까?","a":"톰","tip":"'톰 생각에는 그랬다'는 삽입입니다. 남들도 그렇게 여겼다는 말이 아니라 어디까지나 톰의 짐작입니다."}
+ ],
+ "32.8.2": [
+  {"t":"who","q":"<b>set Tom to talking</b> — 이야기를 시킨 쪽과 이야기를 한 쪽은 각각 누구입니까?","a":"시킨 쪽은 판사와 몇몇 친구들, 이야기한 쪽은 톰","tip":"set + 목적어 + ~ing 는 '~에게 …하게 만들다'입니다. 톰이 시켰다고 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>asked him ironically if he wouldn’t like ...</b> 의 him 과 he 는 누구입니까?","a":"둘 다 톰 — 질문을 받은 사람도, 동굴에 갈 사람도 톰입니다","tip":"물은 사람은 some one(누군가)입니다. him 을 그 누군가로 잡지 마세요."},
+  {"t":"neg","q":"<b>if he wouldn’t like to go to the cave again</b> — 이 사람은 톰이 동굴에 다시 가고 싶어 할 거라고 여겨서 물은 것입니까?","a":"아니요 — 가기 싫을 게 뻔한 줄 알면서 놀리려고 비꼬아 물은 것입니다","tip":"ironically(비꼬듯이)가 열쇠입니다. 여기서 if 는 '만약'이 아니라 '~인지'입니다."}
+ ],
+ "32.11.0": [
+  {"t":"who","q":"<b>I had its big door sheathed with boiler iron</b> — 문에 철판을 두르는 일을 직접 한 사람은 누구입니까?","a":"말하고 있는 대처 판사가 직접 한 것이 아니라, 사람을 시켜 그렇게 하게 한 것입니다","tip":"have + 목적어 + p.p. 는 '~을 …되게 시키다'입니다. '나는 큰 문을 가지고 있었다'로 읽으면 뜻이 사라집니다."},
+  {"t":"pron","q":"<b>its big door</b> 의 its 는 무엇을 가리킵니까?","a":"그 동굴 — 동굴의 큰 문입니다","tip":"앞에서 이야기하던 the cave 를 받습니다. 집이나 마을의 문으로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>two weeks ago</b> — 문을 철판으로 감싸고 자물쇠를 세 겹으로 채운 것은 언제입니까?","a":"이 말을 하는 시점보다 두 주 전 — 이미 다 해 놓은 일입니다","tip":"앞으로 그렇게 하겠다는 말로 읽기 쉽습니다. 아이들이 구조된 직후에 벌써 막아 둔 것입니다."}
+ ]
+}

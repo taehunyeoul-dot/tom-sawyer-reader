@@ -1,0 +1,121 @@
+{
+ "26.17.3": [
+  {"t":"who","q":"<b>He could lick any man in England</b> — 때려눕히는 쪽과 당하는 쪽은 각각 누구입니까?","a":"때려눕히는 쪽은 로빈 후드(He), 당하는 쪽은 영국의 어떤 남자든(any man in England)","tip":"톰이 하는 말이라 He 를 톰으로 잡기 쉽습니다. lick 은 '핥다'가 아니라 '때려눕히다, 이기다'입니다."},
+  {"t":"pron","q":"<b>with one hand tied behind him</b> — 묶여 있는 그 한 손은 누구의 손입니까?","a":"로빈 후드 자신의 손 — 제 손 하나를 등 뒤로 묶고도 이겼다는 뜻입니다","tip":"him 을 상대편으로 잡으면 '상대의 손을 묶어 놓고 이겼다'가 되어, 감탄할 일이 아니게 됩니다."},
+  {"t":"mod","q":"<b>a mile and a half</b> 는 무엇을 나타냅니까?","a":"활을 쏜 거리 — 1마일 반이나 떨어진 곳에서 10센트 동전을 맞혔다는 뜻입니다","tip":"문장 맨 끝에 툭 떨어져 있지만 plug(명중시키다)에 걸리는 거리입니다. 시간으로 읽기 쉽습니다."},
+  {"t":"time","q":"<b>could lick</b>, <b>could take</b> — 지금도 그럴 수 있다는 뜻입니까?","a":"아니요 — 오래전에 그랬다는 옛날이야기입니다","tip":"바로 앞 문장 They ain’t any such men now(요즘엔 그런 사람이 없다)가 이를 확인해 줍니다."}
+ ],
+ "26.21.0": [
+  {"t":"time","q":"<b>the morrow’s prospects</b> 의 the morrow 는 언제입니까?","a":"다음 날(내일) — 그날은 금요일이라 하루 미룬 토요일입니다","tip":"morning(아침)과 생김새가 비슷해 '아침'으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>down upon the haunted house</b> 는 두 아이가 어디에 있었다는 뜻입니까?","a":"유령의 집보다 높은 곳(언덕 위)에서 아래를 내려다보았다는 뜻입니다","tip":"down 을 '집 안으로'로 읽으면 위치가 뒤집힙니다. 아이들은 언덕에서 놀고 있었습니다."},
+  {"t":"who","q":"<b>casting a yearning eye</b> 와 <b>passing a remark</b> 를 한 사람은 누구입니까?","a":"두 아이(they, 톰과 헉)","tip":"주어가 적혀 있지 않은 분사구문입니다. 앞 절의 주어 they 가 그대로 이어집니다."}
+ ],
+ "26.21.1": [
+  {"t":"time","q":"<b>As the sun began to sink into the west</b> 의 As 는 '~때문에'입니까, '~할 무렵'입니까?","a":"'~할 무렵, ~하자'(때) — 해가 서쪽으로 기울기 시작할 때 집으로 향했다는 뜻입니다","tip":"as 를 이유로 읽으면 '해가 져서 집에 갔다'는 설명이 되어 원문에 없는 말이 붙습니다."},
+  {"t":"who","q":"<b>soon were buried from sight</b> — 누가 그들을 묻었습니까?","a":"아무도 묻지 않았습니다 — 숲에 가려 시야에서 사라졌다는 뜻입니다","tip":"수동태라고 해서 반드시 누가 한 일은 아닙니다. from sight 가 '시야에서'입니다."},
+  {"t":"mod","q":"<b>athwart the long shadows of the trees</b> 는 무엇을 설명합니까?","a":"아이들이 집으로 간 길 — 나무들의 긴 그림자를 가로질러 갔다는 뜻입니다","tip":"그림자가 무엇을 했다는 말이 아닙니다. athwart 는 '~을 가로질러'입니다."}
+ ],
+ "26.22.1": [
+  {"t":"neg","q":"<b>not with great hope, but merely because Tom said …</b> — 아이들이 구덩이를 더 판 이유는 무엇입니까?","a":"큰 기대가 있어서가 아니라, 그저 톰이 그런 이야기를 했기 때문입니다","tip":"not A but B 구조입니다. 앞쪽은 부정되는 이유, 뒤쪽이 진짜 이유입니다."},
+  {"t":"time","q":"<b>after getting down within six inches of it</b> — 사람들이 보물을 포기한 것은 언제입니까?","a":"보물에서 6인치(약 15cm)밖에 남지 않은 데까지 파 내려간 뒤입니다","tip":"'6인치만 팠다'로 읽으면 '아깝게 놓쳤다'는 이야기의 핵심이 사라집니다."},
+  {"t":"who","q":"<b>turned it up with a single thrust of a shovel</b> — 보물을 파낸 사람은 누구입니까?","a":"포기한 사람이 아니라, 그 뒤에 지나가던 다른 사람(somebody else)입니다","tip":"포기했던 사람이 다시 와서 찾아냈다고 읽기 쉽습니다. 남 좋은 일만 시켰다는 이야기입니다."},
+  {"t":"pron","q":"<b>within six inches of it</b> 과 <b>turned it up</b> 의 it 은 각각 무엇입니까?","a":"둘 다 땅에 묻힌 보물(a treasure)입니다","tip":"바로 앞의 hole(구덩이)이나 shovel 로 잡기 쉽습니다."}
+ ],
+ "26.22.2": [
+  {"t":"neg","q":"<b>they had not trifled with fortune, but had fulfilled all the requirements</b> — 아이들은 자기들이 무엇을 했다고 느꼈습니까?","a":"운을 우습게 대한 것이 아니라, 보물찾기에 필요한 절차는 다 지켰다고 느꼈습니다","tip":"not 을 뒤의 had fulfilled 까지 걸어 읽으면 '요건도 못 채웠다'가 되어 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that belong to the business of treasure-hunting</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 all the requirements(모든 요건)","tip":"fortune(운)을 꾸미는 말로 붙이기 쉽습니다. '보물찾기라는 일에 따라붙는 요건'입니다."},
+  {"t":"pron","q":"<b>The thing failed this time</b> 의 The thing 은 무엇을 가리킵니까?","a":"앞 문장에서 아이들이 마지막 구덩이를 조금 더 파 본 그 시도","tip":"'그 물건'으로 읽으면 앞에서 사물을 찾게 됩니다. 여기서는 방금 한 일 자체입니다."}
+ ],
+ "26.23.0": [
+  {"t":"mod","q":"<b>that reigned there under the baking sun</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 the dead silence(죽은 듯한 정적)","tip":"the haunted house 를 꾸미는 말로 붙이기 쉽습니다. reign 은 '군림하다, 온통 뒤덮다'입니다."},
+  {"t":"mod","q":"맨 뒤의 <b>that they were afraid … to venture in</b> 에서 that 은 앞의 무엇과 짝입니까?","a":"앞에 두 번 나온 so(so weird and grisly / so depressing)와 짝입니다 — '너무 ~해서 …하다'(so ~ that) 구문","tip":"앞쪽의 that(the dead silence that reigned)과 같은 관계사로 읽으면 '결과'가 사라집니다."},
+  {"t":"who","q":"아이들을 무섭게 만든 것은 무엇입니까?","a":"유령이나 사람이 아니라, 그곳을 뒤덮은 죽은 듯한 정적과 그곳의 적막함·황폐함입니다","tip":"이 문장의 주어는 something 두 개입니다. 집 안에 무언가가 있었다는 말이 아닙니다."},
+  {"t":"neg","q":"<b>they were afraid, for a moment, to venture in</b> — 아이들은 이때 곧바로 안으로 들어갔습니까?","a":"아니요 — 잠시 동안은 들어갈 엄두를 내지 못했습니다","tip":"afraid to ~ 는 '무서워서 ~하지 못하다'입니다. '들어가는 것을 무서워하면서 들어갔다'가 아닙니다."}
+ ],
+ "26.23.2": [
+  {"t":"who","q":"<b>hung ragged and abandoned cobwebs</b> — 걸려 있던 것은 무엇입니까?","a":"너덜너덜하게 버려진 거미줄(cobwebs)","tip":"부사가 앞으로 나오면서 동사-주어 순서가 뒤바뀐 도치입니다. 아이들이 거미줄을 걸었다는 말이 아닙니다."},
+  {"t":"mod","q":"<b>unplastered</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 방(a weedgrown, floorless room) — 회벽을 바르지 않은 방","tip":"쉼표로 떨어져 있어 뒤의 fireplace 에 붙여 읽기 쉽습니다. 벽난로가 아니라 방을 설명합니다."},
+  {"t":"mod","q":"<b>abandoned</b> 는 무엇이 버려졌다는 뜻입니까?","a":"거미줄 — 거미가 떠나 방치된 채 남아 있는 거미줄입니다","tip":"'버려진 집'으로 옮기기 쉽지만, 이 말은 cobwebs 를 꾸밉니다."}
+ ],
+ "26.23.3": [
+  {"t":"time","q":"<b>They presently entered</b> 의 presently 는 '지금 현재'라는 뜻입니까?","a":"아니요 — '이윽고, 잠시 뒤에'라는 뜻입니다","tip":"present(현재)와 생김새가 같아 '지금'으로 읽기 쉽습니다. 문 앞에서 떨며 들여다본 다음의 일입니다."},
+  {"t":"who","q":"<b>ears alert</b>, <b>muscles tense</b> — 이 귀와 근육은 누구의 것입니까?","a":"안으로 들어간 두 아이(They)의 것입니다","tip":"동사가 없어 따로 떨어진 명사처럼 보이지만, 모두 They 가 어떤 상태로 들어갔는지 설명합니다."},
+  {"t":"mod","q":"<b>ready for instant retreat</b> 는 무엇이 그런 상태라는 뜻입니까?","a":"아이들의 근육(muscles) — 언제든 곧바로 물러설 수 있게 긴장해 있었다는 뜻입니다","tip":"retreat 를 실제로 벌어진 사건으로 읽으면 '물러났다'가 됩니다. 아직 물러나지 않았습니다."}
+ ],
+ "26.24.0": [
+  {"t":"who","q":"<b>familiarity modified their fears</b> — 아이들의 두려움을 누그러뜨린 것은 무엇입니까?","a":"그곳에 익숙해진 것(familiarity) — 사람이 아닙니다","tip":"주어가 사람이 아닌 명사입니다. '익숙해지자 두려움이 덜해졌다'로 옮기면 자연스럽습니다."},
+  {"t":"who","q":"<b>they gave the place a critical and interested examination</b> — 꼼꼼히 살펴본 쪽과 살펴봄을 당한 쪽은 각각 무엇입니까?","a":"살펴본 쪽은 두 아이(they), 살펴봄을 당한 것은 그 집(the place)","tip":"give A B 모양이지만 뜻은 examine the place 입니다. '그곳에 시험을 주었다'로 읽으면 장면이 사라집니다."},
+  {"t":"pron","q":"<b>and wondering at it, too</b> 의 it 은 무엇입니까?","a":"자기들의 대담함(their own boldness)","tip":"바로 앞의 the place(그 집)로 잡기 쉽습니다. 자기가 이렇게 겁 없이 구는 게 스스로도 신기했다는 뜻입니다."}
+ ],
+ "26.24.2": [
+  {"t":"pron","q":"문장 첫머리의 <b>This</b> 는 무엇을 가리킵니까?","a":"위층에 올라가 보려는 것(바로 앞 문장에서 둘이 하려던 일)","tip":"'이것'으로만 옮기면 가리킬 것을 못 찾습니다. 올라가면 도망칠 길이 끊긴다는 이야기입니다."},
+  {"t":"neg","q":"<b>there could be but one result</b> — 결과가 여러 가지일 수 있었다는 뜻입니까?","a":"아니요 — 결과는 하나뿐일 수밖에 없었다는 뜻입니다","tip":"여기서 but 은 '그러나'가 아니라 only(오직)입니다. '그러나 하나의 결과'로 읽으면 문장이 무너집니다."},
+  {"t":"who","q":"<b>they got to daring each other</b> — 누가 누구를 부추겼습니까?","a":"톰과 헉이 서로를 부추겼습니다(each other)","tip":"get to ~ing 은 '~하기 시작하다'입니다. '~해야 했다(have got to)'로 읽지 않도록 주의하세요."},
+  {"t":"mod","q":"<b>cutting off retreat</b> — 끊기는 것은 누구의 퇴로입니까?","a":"두 아이 자신의 퇴로입니다","tip":"연장을 아래층 구석에 던져 두고 위로 올라가면 스스로 도망칠 길을 막는 셈이라는 뜻입니다."}
+ ],
+ "26.33.1": [
+  {"t":"pron","q":"이 문장의 <b>he</b> 와 <b>his</b> 는 모두 누구를 가리킵니까?","a":"그 스페인 사람(The Spaniard) 한 사람입니다","tip":"방에 남자가 둘이지만, 이 문장은 처음부터 끝까지 스페인 사람의 겉모습만 설명합니다."},
+  {"t":"who","q":"<b>long white hair flowed from under his sombrero</b> — 흘러내린 것은 무엇입니까?","a":"긴 백발(머리카락)","tip":"이 절의 주어는 그 남자가 아니라 hair 입니다. '그가 흘렸다'로 읽으면 주어가 바뀝니다."},
+  {"t":"mod","q":"<b>from under his sombrero</b> 는 무슨 뜻입니까?","a":"솜브레로(챙 넓은 모자) 밑에서부터 밖으로 — 모자 안쪽에서 흘러나왔다는 뜻입니다","tip":"from 과 under 두 전치사가 겹쳐 있습니다. 한쪽만 읽으면 위치가 흐려집니다."}
+ ],
+ "26.33.2": [
+  {"t":"pron","q":"<b>When they came in</b> 과 <b>they sat down</b> 의 they 는 누구입니까?","a":"방금 들어온 두 남자(스페인 사람과 '다른 쪽 남자')입니다","tip":"이 장면의 주인공이 톰과 헉이라 아이들로 잡기 쉽습니다. 아이들은 이미 위층에 엎드려 있습니다."},
+  {"t":"pron","q":"맨 끝의 <b>the speaker</b> 는 누구입니까?","a":"'다른 쪽 남자'(“t’other”) — 낮은 목소리로 말하고 있던 그 사람입니다","tip":"바로 앞에 나온 the Spaniard 로 잡기 쉽습니다. 말하던 쪽이 누구였는지 앞부분을 다시 보세요."},
+  {"t":"time","q":"<b>“t’other” was talking in a low voice</b> — 그가 말을 시작한 것은 두 사람이 방에 들어온 뒤입니까?","a":"아니요 — 들어올 때 이미 말하고 있는 중이었습니다","tip":"과거진행형은 그 시점에 '이미 하고 있던' 일입니다. 그래서 뒤에 continued(계속했다)가 나옵니다."},
+  {"t":"mod","q":"<b>facing the door, with their backs to the wall</b> — 두 사람은 어느 쪽을 보고 앉았습니까?","a":"벽을 등지고 문 쪽을 마주 본 채 앉았습니다","tip":"with their backs to the wall 은 '등을 벽에 대고'입니다. 문을 등졌다고 읽으면 방향이 반대가 됩니다."}
+ ],
+ "26.41.0": [
+  {"t":"pron","q":"주어인 <b>“Those infernal boys”</b> 는 누구입니까?","a":"톰과 헉 — 바로 앞에서 남자가 내뱉은 말을 그대로 가져다 주어로 쓴 것입니다","tip":"따옴표는 인용 표시입니다. 다른 아이들 이야기가 아니라 위층에 숨어 있는 그 두 아이입니다."},
+  {"t":"pron","q":"<b>thought how lucky it was that …</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 that they had remembered … 이하입니다","tip":"'그것이 운이 좋았다'로 옮기면 가리킬 것을 앞에서 찾게 되어 길을 잃습니다."},
+  {"t":"time","q":"<b>they had remembered it was Friday and concluded to wait a day</b> — 이렇게 한 것은 이 말을 들은 뒤입니까, 전입니까?","a":"전(어제) — 이미 지나간 일이라서 지금 다행이라고 생각하는 것입니다","tip":"had remembered, concluded 는 떨고 있는 지금보다 앞선 일입니다. 지금 결정했다는 말이 아닙니다."}
+ ],
+ "26.51.4": [
+  {"t":"pron","q":"<b>till it seemed to them</b> 의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 실제 내용은 뒤의 that time must be done … 이하입니다","tip":"'그것이 그들에게 ~해 보였다'로 옮기면 앞에서 그것을 찾게 됩니다. them 은 두 아이입니다."},
+  {"t":"mod","q":"<b>the dragging moments</b> 에서 dragging 은 무엇을 설명합니까?","a":"흘러가는 시간(moments) — 시간이 지루하게 질질 끌린다는 뜻입니다","tip":"아이들이 무언가를 끌고 있다는 말이 아닙니다. drag 가 '더디게 흐르다'로 쓰였습니다."},
+  {"t":"time","q":"<b>at last the sun was setting</b> — 해는 이미 다 졌습니까, 지고 있는 중입니까?","a":"지고 있는 중입니다 — 해가 기울기 시작한 것을 보고 반가워한 것입니다","tip":"과거진행형입니다. '해가 졌다'로 읽으면 이미 밤이 된 것이 되어 뒤 장면과 어긋납니다."}
+ ],
+ "26.52.1": [
+  {"t":"mod","q":"<b>whose head was drooping upon his knees</b> 는 누구를 설명하는 말입니까?","a":"인전 조의 동료(his comrade) — 고개를 자기 무릎에 처박고 졸던 그 사람입니다","tip":"관계절은 바로 앞 명사 comrade 를 설명합니다. 인전 조가 그런 자세였다고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>stirred him up with his foot</b> — him 과 his 는 각각 누구입니까?","a":"him 은 동료, his foot 은 인전 조의 발입니다","tip":"한 구절 안에서 him 과 his 가 서로 다른 사람을 가리킵니다. 발로 툭툭 차서 깨운 쪽은 인전 조입니다."},
+  {"t":"who","q":"대시(—)로 이어지는 <b>sat up, stared around, smiled, stirred, said</b> 의 주어는 각각 누구입니까?","a":"전부 인전 조 한 사람입니다","tip":"대시가 끼어들어 새 문장이 시작되는 것처럼 보이지만 주어는 바뀌지 않습니다."}
+ ],
+ "26.59.0": [
+  {"t":"who","q":"이 대사를 하고 있는 사람은 누구입니까?","a":"인전 조입니다","tip":"바로 앞 대사(밤에 오자는 말)를 한 쪽이 동료이고, 다음 문장에 “Good idea,” said the comrade 가 나와 확인됩니다."},
+  {"t":"time","q":"<b>it may be a good while before I get the right chance at that job</b> — '그 일'을 할 기회는 곧 온다는 뜻입니까?","a":"아니요 — 제대로 된 기회를 잡기까지 꽤 오래 걸릴지도 모른다는 뜻입니다","tip":"a good while 은 '좋은 시간'이 아니라 '꽤 오랜 시간'입니다. good 을 '좋은'으로 읽으면 뜻이 뒤집힙니다."},
+  {"t":"neg","q":"<b>’tain’t in such a very good place</b> — 지금 돈을 둔 자리는 좋은 자리입니까?","a":"아니요 — 그리 좋은 자리가 아니라는 뜻입니다","tip":"’tain’t 는 it ain’t(= it is not)의 사투리 축약입니다. 부정을 놓치면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>we’ll just regularly bury it—and bury it deep</b> 의 it 은 무엇입니까?","a":"남아 있던 은화(650달러가 든 그 돈)","tip":"앞의 that job(그 일)이나 place 로 잡기 쉽습니다. 묻자는 것은 돈입니다."}
+ ],
+ "26.60.1": [
+  {"t":"pron","q":"<b>He subtracted from it …</b> — 여기서 He 는 누구이고 it 은 무엇입니까?","a":"He 는 인전 조의 동료, it 은 그가 방금 화덕돌 밑에서 꺼낸 돈 자루입니다","tip":"문장 안에 Injun Joe 가 나와서 He 를 인전 조로 잡기 쉽습니다. 돈을 덜어 내는 쪽은 동료입니다."},
+  {"t":"pron","q":"<b>passed the bag to the latter</b> 의 the latter 는 누구입니까?","a":"인전 조 — 앞에 나온 himself(동료 자신)와 Injun Joe 중 뒤에 나온 쪽입니다","tip":"자루를 받은 쪽이 인전 조입니다. 건넨 쪽과 뒤집어 읽으면 다음 장면(칼로 땅을 파다 상자를 발견)이 어긋납니다."},
+  {"t":"mod","q":"<b>and as much for Injun Joe</b> 는 무슨 뜻입니까?","a":"인전 조 몫으로도 똑같은 액수(20~30달러)를 덜어 냈다는 뜻입니다","tip":"as much 앞에 subtracted 가 생략되어 있습니다. 인전 조가 더 많이 가져갔다는 말이 아닙니다."}
+ ],
+ "26.61.5": [
+  {"t":"pron","q":"문장 첫머리의 <b>They</b> 는 누구입니까?","a":"위층에 엎드려 있던 톰과 헉","tip":"바로 앞 장면의 두 남자로 잡기 쉽습니다. 서로 팔꿈치로 찔러 댄 쪽은 아이들입니다."},
+  {"t":"pron","q":"<b>for they simply meant</b> 의 they 는 무엇입니까?","a":"앞에 나온 그 찌르기(nudges) — 사람이 아닙니다","tip":"같은 문장 앞의 They(아이들)와 같다고 잡기 쉽습니다. '그 찌르기가 뜻한 바는'이라는 말입니다."},
+  {"t":"mod","q":"<b>eloquent nudges and easily understood</b> 는 무엇을 설명하는 말입니까?","a":"아이들이 주고받은 그 팔꿈치 찌르기(nudges)","tip":"아이들을 설명하는 말로 붙이기 쉽습니다. 대시 뒤는 앞의 nudged 를 다시 받아 풀어 준 곁말입니다."},
+  {"t":"neg","q":"<b>“Oh, but ain’t you glad now we’re here!”</b> — 여기 온 것을 후회한다는 뜻입니까?","a":"아니요 — '우리 여기 와 있길 정말 잘했지!'라며 기뻐하는 말입니다","tip":"ain’t you glad 는 부정 의문문 모양이지만 강한 긍정입니다. 부정어를 그대로 읽으면 정반대가 됩니다."}
+ ],
+ "26.85.3": [
+  {"t":"pron","q":"<b>The steps came creaking up the stairs</b> 의 The steps 는 무엇을 가리킵니까?","a":"계단을 올라오는 발걸음(발소리)","tip":"뒤에 the stairs(계단)가 따로 나옵니다. steps 를 계단으로 읽으면 '계단이 계단을 올라왔다'가 됩니다."},
+  {"t":"who","q":"<b>woke the stricken resolution of the lads</b> — 아이들의 얼어붙은 결심을 흔들어 깨운 것은 무엇입니까?","a":"그 상황의 견딜 수 없는 괴로움(the intolerable distress of the situation)","tip":"사람이 깨운 것이 아닙니다. 대시 뒤에서 새 절이 시작되고 그 주어가 distress 입니다."},
+  {"t":"time","q":"<b>they were about to spring for the closet</b> — 아이들은 실제로 벽장으로 뛰어들었습니까?","a":"아니요 — 막 뛰어들려던 참에 계단이 무너졌습니다","tip":"be about to 는 '아직 하지 않았지만 막 하려는 참'입니다. 했다고 읽으면 장면이 어긋납니다."},
+  {"t":"mod","q":"<b>Injun Joe landed on the ground amid the debris of the ruined stairway</b> — 인전 조는 어디로 떨어졌습니까?","a":"아래층 바닥 — 썩은 계단이 무너지면서 그 잔해와 함께 아래로 떨어졌습니다","tip":"위층으로 올라와 넘어졌다는 말이 아닙니다. 그래서 아이들이 들키지 않았습니다."}
+ ],
+ "26.88.7": [
+  {"t":"time","q":"<b>He would have hidden the silver with the gold</b> — 인전 조는 실제로 은화를 금화와 함께 숨겼습니까?","a":"아니요 — 아이들이 연장을 거기 두고 오지만 않았다면 그랬을 것이라는 가정입니다","tip":"would have p.p. 는 실제로 일어나지 않은 일입니다. 앞 문장 But for that(그것만 아니었다면)이 조건입니다."},
+  {"t":"who","q":"<b>to wait there till his “revenge” was satisfied</b> — 거기서 기다리는 것은 누구(무엇)입니까?","a":"함께 숨겨 둔 그 돈(은화와 금화)입니다","tip":"인전 조가 거기서 기다린다는 말로 읽기 쉽습니다. 돈을 그 자리에 그대로 두려 했다는 뜻입니다."},
+  {"t":"mod","q":"<b>the misfortune to find that money turn up missing</b> — 이것은 누구에게 불운입니까?","a":"인전 조에게 불운입니다 — 돈이 없어진 걸 알게 되는 일","tip":"to find ~ 는 the misfortune 이 어떤 불운인지 풀어 준 말입니다. 아이들에게는 오히려 잘된 일입니다."}
+ ],
+ "26.89.0": [
+  {"t":"who","q":"<b>spying out for chances to do his revengeful job</b> — 기회를 엿보는 사람은 누구입니까?","a":"그 스페인 사람(인전 조) — 아이들이 아닙니다","tip":"분사구문의 주어는 바로 앞 절의 he 입니다. 망을 보는 쪽(아이들)과 뒤집어 읽기 쉽습니다."},
+  {"t":"who","q":"<b>and follow him to “Number Two,”</b> — '2호'까지 따라가는 사람은 누구입니까?","a":"톰과 헉 — resolved to keep a lookout … and (to) follow 로 이어집니다","tip":"바로 앞이 he(스페인 사람)라서 그가 따라간다고 읽기 쉽습니다. follow 는 resolved 에 걸립니다."},
+  {"t":"time","q":"<b>when he should come to town</b> — 그가 이미 마을에 왔다는 뜻입니까?","a":"아니요 — 앞으로 마을에 나타나면, 이라는 뜻입니다","tip":"여기서 should 는 '~해야 한다'가 아니라 앞날의 일을 가정하는 말입니다."},
+  {"t":"pron","q":"<b>wherever that might be</b> 의 that 은 무엇입니까?","a":"'2호'(“Number Two”)라는 그곳 — 아이들은 그게 어디인지 아직 모릅니다","tip":"앞의 town 이나 job 으로 잡기 쉽습니다. '그게 어디든 간에'라는 뜻입니다."}
+ ],
+ "26.92.0": [
+  {"t":"neg","q":"<b>he might at least mean nobody but Tom</b> — 인전 조가 톰을 노린다는 뜻입니까, 톰은 노리지 않는다는 뜻입니까?","a":"톰만 노린다는 뜻입니다(톰 말고는 아무도 노리지 않는다)","tip":"nobody but ~ 은 '~말고는 아무도 없다'입니다. nobody 만 보고 '톰도 아니다'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"<b>since only Tom had testified</b> — 법정에서 증언한 사람은 누구입니까?","a":"톰 한 사람뿐입니다 — 헉은 증언하지 않았습니다","tip":"여기서 since 는 '~한 뒤로'가 아니라 '~ 때문에'입니다. 그래서 헉은 안심할 이유가 생깁니다."},
+  {"t":"pron","q":"<b>he might possibly mean somebody else</b> 의 he 는 누구입니까?","a":"인전 조 — 복수하겠다고 말한 그 사람입니다","tip":"바로 앞 문장에 Huck 이 나와서 헉으로 잡기 쉽습니다. 노리는 쪽과 노림을 당하는 쪽을 뒤집지 마세요."}
+ ]
+}

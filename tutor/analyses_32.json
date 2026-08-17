@@ -1,0 +1,359 @@
+[
+ {
+  "id": "32.0.3",
+  "en": "Public prayers had been offered up for them, and many and many a private prayer that had the petitioner’s whole heart in it; but still no good news came from the cave.",
+  "s": "Public prayers",
+  "v": "had been offered",
+  "chunks": [
+   {"en": "Public prayers had been offered up for them,", "ko": "그들을 위해 공개 기도가 올려졌고", "r": "주어 + 동사(수동)"},
+   {"en": "and many and many a private prayer", "ko": "그리고 수없이 많은 사사로운 기도도 (올려졌다)", "r": "대등 주어(동사 생략)"},
+   {"en": "that had the petitioner’s whole heart in it;", "ko": "기도하는 사람의 온 마음이 담긴", "r": "관계절(prayer 설명)"},
+   {"en": "but still no good news came from the cave.", "ko": "하지만 여전히 동굴에서는 좋은 소식이 오지 않았다", "r": "대등절(반전)"}
+  ],
+  "ko": "그들을 위해 공개 기도가 올려졌고, 기도하는 사람의 온 마음이 담긴 사사로운 기도도 수없이 많이 올려졌다. 그러나 여전히 동굴에서는 좋은 소식이 오지 않았다.",
+  "why": "\"and many and many a private prayer\" 뒤에는 앞의 had been offered up 이 생략되어 있다(사사로운 기도도 수없이 올려졌다). \"many a + 단수명사\"는 '아주 많은 ~'이라는 옛 표현이고, 세미콜론 뒤 but 이 반전을 만든다.",
+  "st": [3]
+ },
+ {
+  "id": "32.0.4",
+  "en": "The majority of the searchers had given up the quest and gone back to their daily avocations, saying that it was plain the children could never be found.",
+  "s": "The majority of the searchers",
+  "v": "had given up",
+  "chunks": [
+   {"en": "The majority of the searchers had given up the quest", "ko": "수색자 대부분은 탐색을 포기했고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and gone back to their daily avocations,", "ko": "일상 생업으로 돌아갔다", "r": "대등 동사(had gone back)"},
+   {"en": "saying that it was plain", "ko": "~라는 게 뻔하다고 말하면서", "r": "분사구문(~하면서)"},
+   {"en": "the children could never be found.", "ko": "아이들은 결코 찾을 수 없다는", "r": "진짜 내용(that 생략)"}
+  ],
+  "ko": "수색자 대부분은 탐색을 포기하고 일상 생업으로 돌아가면서, 아이들을 결코 찾을 수 없는 게 뻔하다고 말했다.",
+  "why": "\"had given up … and gone back\"은 had 하나에 과거분사 둘이 걸린 형태다(포기하고 돌아갔다). 뒤의 saying 은 '~라고 말하면서'라는 분사구문(동사가 아님)이고, \"it was plain (that) the children could never be found\"에서 it 은 가짜 주어, 뒤 절이 진짜 내용이다.",
+  "st": [6]
+ },
+ {
+  "id": "32.0.6",
+  "en": "People said it was heartbreaking to hear her call her child, and raise her head and listen a whole minute at a time, then lay it wearily down again with a moan.",
+  "s": "People",
+  "v": "said",
+  "chunks": [
+   {"en": "People said it was heartbreaking", "ko": "사람들은 가슴이 미어진다고 말했다", "r": "주어 + 동사 + 목적어(it=가주어)"},
+   {"en": "to hear her call her child,", "ko": "그녀가 아이를 부르는 소리를 듣고 있자면", "r": "진주어(to부정사) + 지각동사"},
+   {"en": "and raise her head and listen a whole minute at a time,", "ko": "그리고 고개를 들어 한 번에 일 분씩이나 귀 기울이고", "r": "원형동사 나열(hear에 걸림)"},
+   {"en": "then lay it wearily down again with a moan.", "ko": "그러다 신음하며 다시 지친 듯 고개를 떨구는 것을", "r": "원형동사 나열"}
+  ],
+  "ko": "사람들 말로는, 그녀가 아이를 부르고 고개를 들어 한 번에 일 분씩이나 귀를 기울이다가 신음하며 다시 지친 듯 고개를 떨구는 것을 듣고 있자면 가슴이 미어졌다고 한다.",
+  "why": "hear 뒤에 목적어(her)와 원형동사 넷(call, raise, listen, lay)이 이어진다 — 그녀가 부르고, 들고, 듣고, 떨구는 것을 '듣다'. \"it was heartbreaking to hear …\"의 it 은 가짜 주어이고 to hear 이하가 진짜 주어다. 마지막 lay it 의 it 은 her head(고개)를 가리킨다.",
+  "st": [14, 17]
+ },
+ {
+  "id": "32.1.0",
+  "en": "Away in the middle of the night a wild peal burst from the village bells, and in a moment the streets were swarming with frantic half-clad people, who shouted, “Turn out! turn out! they’re found! they’re found!”",
+  "s": "a wild peal",
+  "v": "burst",
+  "chunks": [
+   {"en": "Away in the middle of the night", "ko": "한밤중에 저 멀리서", "r": "시간(부사구)"},
+   {"en": "a wild peal burst from the village bells,", "ko": "마을 종들이 요란하게 울려 퍼졌고", "r": "주어 + 동사 + 전치사구"},
+   {"en": "and in a moment the streets were swarming", "ko": "순식간에 거리는 들끓었다", "r": "대등절"},
+   {"en": "with frantic half-clad people, who shouted,", "ko": "옷을 반쯤만 걸친 채 미친 듯이 뛰쳐나온 사람들로 — 그들은 외쳤다", "r": "전치사구 + 관계절(people 설명)"},
+   {"en": "“Turn out! turn out! they’re found! they’re found!”", "ko": "\"나와 봐! 나와 봐! 찾았대! 찾았대!\"", "r": "인용(대사)"}
+  ],
+  "ko": "한밤중에 마을 종들이 갑자기 요란하게 울려 퍼졌고, 순식간에 거리는 옷을 반쯤만 걸친 채 미친 듯이 뛰쳐나온 사람들로 들끓었다. 그들은 이렇게 외쳤다. \"나와 봐! 나와 봐! 찾았대! 찾았대!\"",
+  "why": "문장 맨 앞 \"Away in the middle of the night\"는 때를 알려 주는 부사구일 뿐이니 주어로 읽으면 안 된다 — 진짜 주어는 a wild peal(요란한 종소리)이다. 쉼표 뒤 who 는 앞의 people 을 설명하는 관계절(그런데 그 사람들이 ~했다).",
+  "st": [9]
+ },
+ {
+  "id": "32.1.1",
+  "en": "Tin pans and horns were added to the din, the population massed itself and moved toward the river, met the children coming in an open carriage drawn by shouting citizens, thronged around it, joined its homeward march, and swept magnificently up the main street roaring huzzah after huzzah!",
+  "s": "Tin pans and horns",
+  "v": "were added",
+  "chunks": [
+   {"en": "Tin pans and horns were added to the din,", "ko": "양철 냄비와 나팔 소리까지 그 소란에 더해졌고", "r": "주어 + 동사(수동)"},
+   {"en": "the population massed itself and moved toward the river,", "ko": "사람들은 한 덩어리로 뭉쳐 강 쪽으로 몰려갔다", "r": "대등절(주어 + 동사 둘)"},
+   {"en": "met the children coming in an open carriage", "ko": "뚜껑 없는 마차를 타고 오는 아이들을 맞이했고", "r": "대등 동사 + 목적어 + 분사(~하는)"},
+   {"en": "drawn by shouting citizens,", "ko": "환호하는 시민들이 끄는", "r": "과거분사구(carriage 설명)"},
+   {"en": "thronged around it, joined its homeward march,", "ko": "마차를 에워싸고, 집으로 향하는 행렬에 합류해", "r": "대등 동사(나열)"},
+   {"en": "and swept magnificently up the main street", "ko": "큰길을 당당하게 휩쓸고 올라갔다", "r": "대등 동사"},
+   {"en": "roaring huzzah after huzzah!", "ko": "만세를 연달아 외쳐 대면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "양철 냄비와 나팔 소리까지 그 소란에 더해졌고, 사람들은 한 덩어리로 뭉쳐 강 쪽으로 몰려가 환호하는 시민들이 끄는 뚜껑 없는 마차를 타고 오는 아이들을 맞이했다. 그러고는 마차를 에워싸고 집으로 향하는 행렬에 합류해, 만세를 연달아 외치며 큰길을 당당하게 휩쓸고 올라갔다!",
+  "why": "첫 쉼표 뒤부터 주어는 the population 하나이고 동사가 여섯 개(massed, moved, met, thronged, joined, swept) 줄줄이 이어진다. 쉼표마다 '사람들이 ~했다'를 다시 넣어 읽으면 된다. drawn by ~는 carriage(마차)를 꾸미는 과거분사(~에 끌리는)이고, 맨 뒤 roaring 은 '~하면서'.",
+  "st": [6, 14]
+ },
+ {
+  "id": "32.2.0",
+  "en": "The village was illuminated; nobody went to bed again; it was the greatest night the little town had ever seen.",
+  "s": "The village",
+  "v": "was illuminated",
+  "chunks": [
+   {"en": "The village was illuminated;", "ko": "마을은 온통 불이 밝혀졌다", "r": "주어 + 동사(수동)"},
+   {"en": "nobody went to bed again;", "ko": "아무도 다시 잠자리에 들지 않았다", "r": "대등절"},
+   {"en": "it was the greatest night", "ko": "그날 밤은 가장 굉장한 밤이었다", "r": "대등절 주어 + 동사 + 보어"},
+   {"en": "the little town had ever seen.", "ko": "그 작은 마을이 여태 겪어 본 중에", "r": "관계절(night 설명, 관계대명사 생략)"}
+  ],
+  "ko": "마을은 온통 불이 밝혀졌고 아무도 다시 잠자리에 들지 않았다. 그날 밤은 그 작은 마을이 여태 겪어 본 가장 굉장한 밤이었다.",
+  "why": "세미콜론으로 짧은 절 셋이 나란히 이어진다. 마지막 절의 \"the greatest night the little town had ever seen\"은 night 뒤에 관계대명사(that)가 생략된 형태 — '작은 마을이 여태 본 것 중 가장 굉장한 밤'.",
+  "st": [3]
+ },
+ {
+  "id": "32.2.1",
+  "en": "During the first half-hour a procession of villagers filed through Judge Thatcher’s house, seized the saved ones and kissed them, squeezed Mrs. Thatcher’s hand, tried to speak but couldn’t—and drifted out raining tears all over the place.",
+  "s": "a procession of villagers",
+  "v": "filed",
+  "chunks": [
+   {"en": "During the first half-hour", "ko": "처음 삼십 분 동안", "r": "시간"},
+   {"en": "a procession of villagers filed through Judge Thatcher’s house,", "ko": "마을 사람들의 행렬이 대처 판사의 집을 줄지어 지나가면서", "r": "주어 + 동사 + 전치사구"},
+   {"en": "seized the saved ones and kissed them,", "ko": "구조된 아이들을 붙잡고 입을 맞추고", "r": "대등 동사(나열)"},
+   {"en": "squeezed Mrs. Thatcher’s hand,", "ko": "대처 부인의 손을 꼭 쥐고", "r": "대등 동사"},
+   {"en": "tried to speak but couldn’t—and drifted out", "ko": "뭐라 말하려 했지만 말이 나오지 않아 — 그렇게 흘러 나갔다", "r": "대등 동사 + 곁말(대시)"},
+   {"en": "raining tears all over the place.", "ko": "온 사방에 눈물을 뿌리면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "처음 삼십 분 동안 마을 사람들의 행렬이 대처 판사의 집을 줄지어 지나가면서, 구조된 아이들을 붙잡고 입 맞추고, 대처 부인의 손을 꼭 쥐고, 뭐라 말하려 했지만 말이 나오지 않은 채 — 온 사방에 눈물을 뿌리며 흘러 나갔다.",
+  "why": "주어는 \"a procession of villagers\"(마을 사람들의 행렬) 하나이고, filed, seized, kissed, squeezed, tried, drifted 여섯 동사가 쉼표로 이어진다. couldn’t 뒤에는 speak 가 생략됐다(말하려 했지만 못 했다). 맨 뒤 raining tears 는 '눈물을 쏟으면서'라는 분사구문.",
+  "st": [4, 6, 14]
+ },
+ {
+  "id": "32.3.1",
+  "en": "It would be complete, however, as soon as the messenger dispatched with the great news to the cave should get the word to her husband.",
+  "s": "It",
+  "v": "would be",
+  "chunks": [
+   {"en": "It would be complete, however,", "ko": "하지만 그 기쁨도 완전해질 것이었다", "r": "주어 + 동사 + 보어 + 삽입(부사)"},
+   {"en": "as soon as the messenger", "ko": "전령이 ~하는 순간", "r": "부사절(때)의 주어"},
+   {"en": "dispatched with the great news to the cave", "ko": "그 굉장한 소식을 갖고 동굴로 급파된", "r": "과거분사구(messenger 설명)"},
+   {"en": "should get the word to her husband.", "ko": "남편에게 소식을 전하기만 하면", "r": "부사절의 동사 + 목적어"}
+  ],
+  "ko": "다만 그 기쁨은, 굉장한 소식을 갖고 동굴로 급파된 전령이 그녀의 남편에게 소식을 전하는 순간 완전해질 것이었다.",
+  "why": "as soon as 절의 주어는 the messenger 인데 동사는 한참 뒤의 should get 이다. 그 사이의 \"dispatched with the great news to the cave\"는 messenger 를 꾸미는 과거분사구(~와 함께 급파된 전령)이지 동사가 아니다. 여기서 should 는 '~해야 한다'가 아니라 앞으로 일어날 일을 가리키는 옛 용법.",
+  "st": [18]
+ },
+ {
+  "id": "32.3.2",
+  "en": "Tom lay upon a sofa with an eager auditory about him and told the history of the wonderful adventure, putting in many striking additions to adorn it withal; and closed with a description of how he left Becky and went on an exploring expedition; how he followed two avenues as far as his kite-line would reach; how he followed a third to the fullest stretch of the kite-line, and was about to turn back when he glimpsed a far-off speck that looked like daylight; dropped the line and groped toward it, pushed his head and shoulders through a small hole, and saw the broad Mississippi rolling by!",
+  "s": "Tom",
+  "v": "lay",
+  "chunks": [
+   {"en": "Tom lay upon a sofa with an eager auditory about him", "ko": "톰은 열심히 귀 기울이는 청중을 둘러앉히고 소파에 누워", "r": "주어 + 동사 + 전치사구"},
+   {"en": "and told the history of the wonderful adventure,", "ko": "그 놀라운 모험의 전말을 이야기했다", "r": "대등 동사 + 목적어"},
+   {"en": "putting in many striking additions to adorn it withal;", "ko": "이야기를 꾸미려고 눈에 띄는 살을 잔뜩 덧붙이면서", "r": "분사구문(~하면서)"},
+   {"en": "and closed with a description of how he left Becky", "ko": "그리고 어떻게 베키를 남겨 두고", "r": "대등 동사 + 전치사구(~라는 이야기로 마무리했다)"},
+   {"en": "and went on an exploring expedition;", "ko": "탐험에 나섰는지를", "r": "대등 동사(how절 안)"},
+   {"en": "how he followed two avenues", "ko": "어떻게 두 갈래 길을 따라가 보았는지", "r": "나열(how절)"},
+   {"en": "as far as his kite-line would reach;", "ko": "연줄이 닿는 데까지", "r": "부사절(정도)"},
+   {"en": "how he followed a third to the fullest stretch of the kite-line,", "ko": "어떻게 세 번째 길을 연줄이 다 풀릴 때까지 따라갔는지", "r": "나열(how절)"},
+   {"en": "and was about to turn back", "ko": "그리고 막 돌아서려던 참에", "r": "대등 동사"},
+   {"en": "when he glimpsed a far-off speck", "ko": "저 멀리 작은 점을 언뜻 보았는지", "r": "부사절(때)"},
+   {"en": "that looked like daylight;", "ko": "햇빛처럼 보이는", "r": "관계절(speck 설명)"},
+   {"en": "dropped the line and groped toward it,", "ko": "줄을 놓고 그쪽으로 더듬어 가", "r": "대등 동사(주어 he 생략)"},
+   {"en": "pushed his head and shoulders through a small hole,", "ko": "작은 구멍으로 머리와 어깨를 밀어 넣었더니", "r": "대등 동사"},
+   {"en": "and saw the broad Mississippi rolling by!", "ko": "넓디넓은 미시시피 강이 유유히 흘러가는 것이 보였다는 이야기를", "r": "대등 동사 + 목적어 + 분사"}
+  ],
+  "ko": "톰은 열심히 귀 기울이는 청중을 둘러앉히고 소파에 누워 그 놀라운 모험의 전말을 이야기했는데, 이야기를 꾸미느라 눈에 띄는 살을 잔뜩 덧붙였다. 그리고 어떻게 베키를 남겨 두고 탐험에 나섰는지, 어떻게 연줄이 닿는 데까지 두 갈래 길을 따라가 보았는지, 어떻게 세 번째 길을 연줄이 다 풀릴 때까지 따라갔다가 막 돌아서려던 참에 저 멀리 햇빛처럼 보이는 작은 점을 언뜻 보았는지, 그래서 줄을 놓고 그쪽으로 더듬어 가 작은 구멍으로 머리와 어깨를 밀어 넣었더니 넓디넓은 미시시피 강이 유유히 흘러가고 있더라는 이야기로 마무리했다!",
+  "why": "뼈대는 \"Tom lay … and told … and closed with a description of how …\" 셋뿐이다. 세미콜론으로 잘린 \"how …\" 절 넷은 전부 앞의 \"a description of\"에 걸린다(어떻게 ~했는지에 대한 이야기). 마지막 세미콜론 뒤의 dropped, pushed, saw 는 주어 he 가 생략된 채 이어지는 동사들이다.",
+  "st": [3, 6, 14]
+ },
+ {
+  "id": "32.4.0",
+  "en": "And if it had only happened to be night he would not have seen that speck of daylight and would not have explored that passage any more!",
+  "s": "he",
+  "v": "would not have seen",
+  "chunks": [
+   {"en": "And if it had only happened to be night", "ko": "그리고 만약 그때가 하필 밤이었다면", "r": "부사절(가정)"},
+   {"en": "he would not have seen that speck of daylight", "ko": "그는 그 햇빛 한 점을 보지 못했을 테고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and would not have explored that passage any more!", "ko": "그 통로를 더 이상 탐험해 보지도 않았을 것이다", "r": "대등 동사"}
+  ],
+  "ko": "그리고 만약 그때가 하필 밤이었더라면, 그는 그 햇빛 한 점을 보지 못했을 테고 그 통로를 더 이상 탐험해 보지도 않았을 것이다!",
+  "why": "가정법 과거완료(If it had …, he would not have seen …)로, 실제와 반대되는 상황을 상상하는 말이다 — 곧 '실제로는 밤이 아니었다'는 뜻. \"happened to be\"는 '하필/우연히 ~이다'.",
+  "st": [8, 12]
+ },
+ {
+  "id": "32.4.1",
+  "en": "He told how he went back for Becky and broke the good news and she told him not to fret her with such stuff, for she was tired, and knew she was going to die, and wanted to.",
+  "s": "He",
+  "v": "told",
+  "chunks": [
+   {"en": "He told how he went back for Becky", "ko": "그는 어떻게 베키에게 돌아가", "r": "주어 + 동사 + 목적어(how절)"},
+   {"en": "and broke the good news", "ko": "좋은 소식을 전했는지 이야기했다", "r": "대등 동사"},
+   {"en": "and she told him not to fret her with such stuff,", "ko": "그런데 베키는 그런 소리로 자기를 귀찮게 하지 말라고 했다", "r": "대등절"},
+   {"en": "for she was tired,", "ko": "자기는 지쳤으니까", "r": "부사절(이유, for=because)"},
+   {"en": "and knew she was going to die,", "ko": "그리고 이제 죽을 거라는 걸 알고 있었고", "r": "대등 동사"},
+   {"en": "and wanted to.", "ko": "또 그러기를 바랐으니까", "r": "대등 동사"}
+  ],
+  "ko": "그는 어떻게 베키에게 돌아가 좋은 소식을 전했는지, 그런데 베키가 자기는 지쳤고 이제 죽을 거라는 걸 알고 있으며 또 그러기를 바라니 그런 소리로 귀찮게 하지 말라고 했는지를 이야기했다.",
+  "why": "여기서 for 는 '~을 위해'가 아니라 '왜냐하면'(because)이라는 접속사다. 그 뒤 and knew …, and wanted to 의 주어도 모두 she 다. 맨 끝 \"wanted to\" 뒤에는 die 가 생략됐다(죽고 싶어 했다).",
+  "st": [13, 14]
+ },
+ {
+  "id": "32.4.2",
+  "en": "He described how he labored with her and convinced her; and how she almost died for joy when she had groped to where she actually saw the blue speck of daylight; how he pushed his way out at the hole and then helped her out; how they sat there and cried for gladness; how some men came along in a skiff and Tom hailed them and told them their situation and their famished condition; how the men didn’t believe the wild tale at first, “because,” said they, “you are five miles down the river below the valley the cave is in”—then took them aboard, rowed to a house, gave them supper, made them rest till two or three hours after dark and then brought them home.",
+  "s": "He",
+  "v": "described",
+  "chunks": [
+   {"en": "He described how he labored with her and convinced her;", "ko": "그는 어떻게 그녀를 어르고 달래 설득했는지 이야기했다", "r": "주어 + 동사 + 목적어(how절)"},
+   {"en": "and how she almost died for joy", "ko": "그리고 그녀가 기뻐서 거의 죽을 뻔했는지", "r": "나열(how절)"},
+   {"en": "when she had groped to where she actually saw the blue speck of daylight;", "ko": "더듬더듬 기어가 마침내 푸른 햇빛 점을 실제로 본 곳에 이르렀을 때", "r": "부사절(때) + 장소절"},
+   {"en": "how he pushed his way out at the hole and then helped her out;", "ko": "어떻게 구멍으로 몸을 밀어내고 그녀를 끌어냈는지", "r": "나열(how절)"},
+   {"en": "how they sat there and cried for gladness;", "ko": "둘이 거기 앉아 기뻐서 울었는지", "r": "나열(how절)"},
+   {"en": "how some men came along in a skiff", "ko": "어떻게 어떤 남자들이 작은 배를 타고 지나가기에", "r": "나열(how절)"},
+   {"en": "and Tom hailed them and told them their situation and their famished condition;", "ko": "톰이 그들을 불러 세워 자기들 처지와 굶주린 형편을 말했는지", "r": "대등절"},
+   {"en": "how the men didn’t believe the wild tale at first,", "ko": "그 남자들이 처음에는 그 황당한 이야기를 믿지 않았는지", "r": "나열(how절)"},
+   {"en": "“because,” said they,", "ko": "\"왜냐하면\" 하고 그들이 말하기를", "r": "인용 + 도치 전달동사"},
+   {"en": "“you are five miles down the river", "ko": "\"너희는 강을 따라 5마일이나 아래에 있거든", "r": "인용(대사)"},
+   {"en": "below the valley the cave is in”—then took them aboard,", "ko": "동굴이 있는 골짜기보다\" — 그러고는 둘을 배에 태워", "r": "전치사구 + 관계절 + 곁말(대시) + 대등 동사"},
+   {"en": "rowed to a house, gave them supper,", "ko": "어느 집으로 노를 저어 가 저녁을 먹이고", "r": "대등 동사(나열)"},
+   {"en": "made them rest till two or three hours after dark", "ko": "어두워진 뒤 두세 시간은 쉬게 한 다음", "r": "대등 동사"},
+   {"en": "and then brought them home.", "ko": "집으로 데려다주었는지를", "r": "대등 동사"}
+  ],
+  "ko": "그는 어떻게 자기가 그녀를 어르고 달래 설득했는지, 그녀가 더듬더듬 기어가 마침내 푸른 햇빛 점을 실제로 보았을 때 기뻐서 거의 죽을 뻔했는지, 어떻게 구멍으로 몸을 밀어내고 그녀를 끌어냈는지, 둘이 거기 앉아 기뻐서 울었는지, 어떻게 어떤 남자들이 작은 배를 타고 지나가기에 톰이 불러 세워 자기들 처지와 굶주린 형편을 말했는지, 그런데 그 남자들이 처음에는 \"너희는 동굴이 있는 골짜기에서 강을 따라 5마일이나 아래에 있으니까\"라며 그 황당한 이야기를 믿지 않다가 — 결국 둘을 배에 태워 어느 집으로 노를 저어 가 저녁을 먹이고, 어두워진 뒤 두세 시간은 쉬게 한 다음 집으로 데려다주었는지를 자세히 이야기했다.",
+  "why": "세미콜론으로 끊긴 \"how …\" 절이 여섯 개나 이어지는데 전부 맨 앞 He described 의 목적어다(어떻게 ~했는지를 이야기했다). \"said they\"는 인용문 사이에 끼어든 도치된 전달동사(그들이 말했다). 대시 뒤 took, rowed, gave, made, brought 의 주어는 the men 이다.",
+  "st": [1, 3, 4, 14]
+ },
+ {
+  "id": "32.5.0",
+  "en": "Before day-dawn, Judge Thatcher and the handful of searchers with him were tracked out, in the cave, by the twine clews they had strung behind them, and informed of the great news.",
+  "s": "Judge Thatcher and the handful of searchers with him",
+  "v": "were tracked out",
+  "chunks": [
+   {"en": "Before day-dawn,", "ko": "동이 트기 전", "r": "시간"},
+   {"en": "Judge Thatcher and the handful of searchers with him", "ko": "대처 판사와 그와 함께 있던 몇 안 되는 수색자들은", "r": "주어(긴 주어)"},
+   {"en": "were tracked out, in the cave,", "ko": "동굴 안에서 찾아졌고", "r": "동사(수동) + 삽입(장소)"},
+   {"en": "by the twine clews they had strung behind them,", "ko": "그들이 뒤에 늘어뜨려 놓은 노끈 실마리를 따라", "r": "전치사구(수단) + 관계절"},
+   {"en": "and informed of the great news.", "ko": "그 굉장한 소식을 전해 들었다", "r": "대등 동사(were informed)"}
+  ],
+  "ko": "동이 트기 전, 대처 판사와 그와 함께 있던 몇 안 되는 수색자들은 자기들이 뒤에 늘어뜨려 놓은 노끈 실마리를 따라 동굴 안에서 발견되었고, 그 굉장한 소식을 전해 들었다.",
+  "why": "주어가 \"Judge Thatcher and the handful of searchers with him\"으로 길고, 그 뒤에 동사가 둘(were tracked out … and (were) informed) 이어진다. 중간의 \", in the cave,\"는 삽입된 장소 표시이니 괄호로 묶어 건너뛰면 뼈대가 보인다. clews 는 clue 의 옛 철자로, 여기서는 길을 되찾으려고 풀어 놓은 실 자체를 가리킨다.",
+  "st": [18]
+ },
+ {
+  "id": "32.6.0",
+  "en": "Three days and nights of toil and hunger in the cave were not to be shaken off at once, as Tom and Becky soon discovered.",
+  "s": "Three days and nights of toil and hunger in the cave",
+  "v": "were",
+  "chunks": [
+   {"en": "Three days and nights of toil and hunger in the cave", "ko": "동굴에서 겪은 사흘 밤낮의 고생과 굶주림은", "r": "주어(긴 주어)"},
+   {"en": "were not to be shaken off at once,", "ko": "단번에 털어 낼 수 있는 것이 아니었다", "r": "동사 + 보어"},
+   {"en": "as Tom and Becky soon discovered.", "ko": "톰과 베키도 곧 알게 되었듯이", "r": "부사절(~듯이)"}
+  ],
+  "ko": "동굴에서 겪은 사흘 밤낮의 고생과 굶주림은 단번에 털어 낼 수 있는 것이 아니었다. 톰과 베키도 곧 그것을 깨달았다.",
+  "why": "주어가 \"Three days … in the cave\"로 아주 길어서 동사 were 가 멀리 떨어져 있다. \"be not to be shaken off\"는 '털어 낼 수 있는 것이 아니다'라는 뜻(be to = 가능·예정). 맨 뒤 as 는 '~듯이'로 앞 내용 전체를 받는다.",
+  "st": [18]
+ },
+ {
+  "id": "32.6.1",
+  "en": "They were bedridden all of Wednesday and Thursday, and seemed to grow more and more tired and worn, all the time.",
+  "s": "They",
+  "v": "were",
+  "chunks": [
+   {"en": "They were bedridden all of Wednesday and Thursday,", "ko": "둘은 수요일과 목요일 내내 몸져누워 있었고", "r": "주어 + 동사 + 보어 + 시간"},
+   {"en": "and seemed to grow more and more tired and worn,", "ko": "점점 더 지치고 수척해지는 것 같았다", "r": "대등 동사"},
+   {"en": "all the time.", "ko": "시간이 갈수록 계속", "r": "부사(시간)"}
+  ],
+  "ko": "둘은 수요일과 목요일 내내 몸져누워 있었고, 시간이 갈수록 점점 더 지치고 수척해지는 것 같았다.",
+  "why": "주어 They 하나에 동사가 둘(were bedridden … and seemed to grow …)이다. \"more and more tired and worn\"에서 more and more(점점 더)는 tired 와 worn 두 형용사에 모두 걸린다.",
+  "st": [14]
+ },
+ {
+  "id": "32.6.2",
+  "en": "Tom got about, a little, on Thursday, was downtown Friday, and nearly as whole as ever Saturday; but Becky did not leave her room until Sunday, and then she looked as if she had passed through a wasting illness.",
+  "s": "Tom",
+  "v": "got about",
+  "chunks": [
+   {"en": "Tom got about, a little, on Thursday,", "ko": "톰은 목요일에 조금씩 돌아다녔고", "r": "주어 + 동사 + 삽입 + 시간"},
+   {"en": "was downtown Friday,", "ko": "금요일에는 시내에 나갔으며", "r": "대등 동사"},
+   {"en": "and nearly as whole as ever Saturday;", "ko": "토요일에는 거의 예전만큼 멀쩡해졌다", "r": "대등 보어(was 생략)"},
+   {"en": "but Becky did not leave her room until Sunday,", "ko": "그러나 베키는 일요일이 되어서야 방을 나섰다", "r": "대등절(반전)"},
+   {"en": "and then she looked", "ko": "그리고 그때 그녀의 모습은", "r": "대등절"},
+   {"en": "as if she had passed through a wasting illness.", "ko": "마치 큰 병을 앓고 난 사람 같았다", "r": "as if절(마치 ~인 것처럼)"}
+  ],
+  "ko": "톰은 목요일에 조금씩 돌아다녔고, 금요일에는 시내에 나갔으며, 토요일에는 거의 예전만큼 멀쩡해졌다. 그러나 베키는 일요일이 되어서야 방을 나섰는데, 그때 모습은 마치 사람을 축내는 병을 앓고 난 것 같았다.",
+  "why": "앞부분은 \"Tom got about …, was …, and (was) nearly as whole as ever …\"로 세 번째에는 was 가 생략돼 있다. 뒤의 \"as if she had passed through …\"는 as if + 과거완료로 '실제로는 아니지만 마치 ~했던 것처럼'이라는 뜻. \"not … until Sunday\"는 '일요일이 되어서야 비로소'.",
+  "st": [3, 10, 12]
+ },
+ {
+  "id": "32.7.0",
+  "en": "Tom learned of Huck’s sickness and went to see him on Friday, but could not be admitted to the bedroom; neither could he on Saturday or Sunday.",
+  "s": "Tom",
+  "v": "learned",
+  "chunks": [
+   {"en": "Tom learned of Huck’s sickness", "ko": "톰은 헉이 아프다는 소식을 듣고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and went to see him on Friday,", "ko": "금요일에 그를 보러 갔지만", "r": "대등 동사"},
+   {"en": "but could not be admitted to the bedroom;", "ko": "침실에는 들어갈 수 없었다", "r": "대등 동사(수동)"},
+   {"en": "neither could he on Saturday or Sunday.", "ko": "토요일에도 일요일에도 마찬가지였다", "r": "도치(부정어 neither가 앞)"}
+  ],
+  "ko": "톰은 헉이 아프다는 소식을 듣고 금요일에 보러 갔지만 침실에는 들어갈 수 없었다. 토요일에도 일요일에도 들어가지 못했다.",
+  "why": "세미콜론 뒤 \"neither could he\"는 부정어 neither 가 앞에 나오면서 조동사와 주어의 자리가 뒤바뀐 도치 문장이다 — '그도 (역시) 들어갈 수 없었다'. \"learn of ~\"는 '~에 대해 알게 되다', \"be admitted to ~\"는 '~에 들어가도록 허락받다'.",
+  "st": [3, 11]
+ },
+ {
+  "id": "32.7.1",
+  "en": "He was admitted daily after that, but was warned to keep still about his adventure and introduce no exciting topic.",
+  "s": "He",
+  "v": "was admitted",
+  "chunks": [
+   {"en": "He was admitted daily after that,", "ko": "그 뒤로는 매일 들어갈 수 있었지만", "r": "주어 + 동사(수동) + 시간"},
+   {"en": "but was warned to keep still about his adventure", "ko": "자기 모험 이야기는 입 밖에 내지 말라는 주의를 받았다", "r": "대등 동사 + to부정사"},
+   {"en": "and introduce no exciting topic.", "ko": "그리고 흥분시킬 만한 화제도 꺼내지 말라고", "r": "to부정사(나열)"}
+  ],
+  "ko": "그 뒤로는 매일 들어갈 수 있었지만, 자기 모험 이야기는 입 밖에 내지 말고 흥분시킬 만한 화제도 꺼내지 말라는 주의를 받았다.",
+  "why": "\"was warned to keep … and (to) introduce …\"처럼 to 뒤에 동사 둘이 걸린다(두 번째 to 는 생략). \"keep still about ~\"은 '~에 대해 입을 다물고 있다'는 뜻이지 '가만히 서 있다'가 아니다.",
+  "st": []
+ },
+ {
+  "id": "32.7.3",
+  "en": "At home Tom learned of the Cardiff Hill event; also that the “ragged man’s” body had eventually been found in the river near the ferry-landing; he had been drowned while trying to escape, perhaps.",
+  "s": "Tom",
+  "v": "learned",
+  "chunks": [
+   {"en": "At home Tom learned of the Cardiff Hill event;", "ko": "집에서 톰은 카디프 언덕 사건 이야기를 전해 들었다", "r": "장소 + 주어 + 동사 + 목적어"},
+   {"en": "also that the “ragged man’s” body", "ko": "그리고 '누더기 차림 사내'의 시체가", "r": "또 다른 목적어(that절)의 주어"},
+   {"en": "had eventually been found in the river near the ferry-landing;", "ko": "결국 나루터 근처 강에서 발견되었다는 것도", "r": "that절 동사(수동) + 장소"},
+   {"en": "he had been drowned while trying to escape, perhaps.", "ko": "아마 달아나려다 물에 빠져 죽은 모양이었다", "r": "대등절 + 부사절(때)"}
+  ],
+  "ko": "집에서 톰은 카디프 언덕에서 있었던 일도 전해 들었고, '누더기 차림 사내'의 시체가 결국 나루터 근처 강에서 발견되었다는 소식도 들었다. 아마 달아나려다 물에 빠져 죽은 모양이었다.",
+  "why": "세미콜론 뒤 \"also that …\"은 앞의 learned 에 이어지는 또 하나의 목적어다(~라는 것도 알게 되었다). 맨 뒤 perhaps 는 문장 전체를 '아마도'로 누그러뜨리는 말이니 앞으로 옮겨 읽으면 자연스럽다.",
+  "st": [3]
+ },
+ {
+  "id": "32.8.0",
+  "en": "About a fortnight after Tom’s rescue from the cave, he started off to visit Huck, who had grown plenty strong enough, now, to hear exciting talk, and Tom had some that would interest him, he thought.",
+  "s": "he",
+  "v": "started off",
+  "chunks": [
+   {"en": "About a fortnight after Tom’s rescue from the cave,", "ko": "톰이 동굴에서 구조된 지 두 주쯤 지났을 때", "r": "시간"},
+   {"en": "he started off to visit Huck,", "ko": "그는 헉을 보러 나섰다", "r": "주어 + 동사 + 목적(to부정사)"},
+   {"en": "who had grown plenty strong enough, now,", "ko": "헉은 이제 충분히 튼튼해져 있었다", "r": "관계절(Huck 설명)"},
+   {"en": "to hear exciting talk,", "ko": "신나는 이야기를 들을 만큼", "r": "정도(enough to ~)"},
+   {"en": "and Tom had some that would interest him,", "ko": "그리고 톰에게는 헉이 흥미로워할 만한 이야깃거리가 있었다", "r": "대등절 + 관계절"},
+   {"en": "he thought.", "ko": "톰 생각에는 그랬다", "r": "삽입(생각 전달)"}
+  ],
+  "ko": "톰이 동굴에서 구조된 지 두 주쯤 지났을 때, 그는 헉을 보러 나섰다. 헉은 이제 신나는 이야기를 들을 만큼은 충분히 튼튼해져 있었고, 톰에게는 헉이 흥미로워할 만한 이야깃거리가 있었다 — 톰 생각에는 그랬다.",
+  "why": "쉼표 뒤 who 는 Huck 을 설명하는 관계절이고, 그 안의 \"strong enough … to hear\"가 삽입된 now 때문에 떨어져 있다(신나는 얘기를 들을 만큼 튼튼한). some 은 \"some exciting talk\"에서 talk 가 생략된 것. 맨 끝 \"he thought\"는 '~라고 그는 생각했다'라는 덧붙임이다.",
+  "st": [9]
+ },
+ {
+  "id": "32.8.2",
+  "en": "The Judge and some friends set Tom to talking, and some one asked him ironically if he wouldn’t like to go to the cave again.",
+  "s": "The Judge and some friends",
+  "v": "set",
+  "chunks": [
+   {"en": "The Judge and some friends set Tom to talking,", "ko": "판사와 몇몇 친구들이 톰에게 이야기를 시켰고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and some one asked him ironically", "ko": "누군가는 비꼬듯이 그에게 물었다", "r": "대등절"},
+   {"en": "if he wouldn’t like to go to the cave again.", "ko": "동굴에 또 가고 싶지 않으냐고", "r": "목적어(if절 = ~인지)"}
+  ],
+  "ko": "판사와 몇몇 친구들이 톰에게 이야기를 시켰고, 누군가는 비꼬듯이 동굴에 또 가고 싶지 않으냐고 물었다.",
+  "why": "\"set + 사람 + to ~ing\"는 '~에게 …하게 만들다'라는 뜻이다(여기서는 이야기를 하게 시켰다). ask 뒤의 if 는 '만약'이 아니라 '~인지 아닌지'(whether)로, 물어본 내용이다.",
+  "st": []
+ },
+ {
+  "id": "32.11.0",
+  "en": "“Because I had its big door sheathed with boiler iron two weeks ago, and triple-locked—and I’ve got the keys.”",
+  "s": "I",
+  "v": "had",
+  "chunks": [
+   {"en": "“Because I had its big door sheathed", "ko": "\"왜냐하면 내가 그 큰 문을 감싸게 했거든", "r": "인용(대사) 주어 + 동사(사역) + 목적어 + 보어"},
+   {"en": "with boiler iron two weeks ago,", "ko": "두 주 전에 보일러 철판으로", "r": "전치사구 + 시간"},
+   {"en": "and triple-locked—and I’ve got the keys.”", "ko": "게다가 자물쇠도 세 겹으로 채우게 했지 — 그리고 열쇠는 내가 갖고 있고", "r": "대등 보어 + 곁말(대시) + 대등절"}
+  ],
+  "ko": "\"두 주 전에 그 큰 문을 보일러 철판으로 감싸고 자물쇠를 세 겹으로 채우게 해 놨거든 — 그리고 열쇠는 내가 갖고 있지.\"",
+  "why": "\"have + 목적어 + 과거분사\"는 '~을 …되게 시키다'라는 사역 표현이다 — 판사가 직접 한 게 아니라 남을 시켜 그렇게 해 놓았다는 뜻. triple-locked 도 sheathed 와 나란히 door 에 걸린다. 대시 뒤는 덧붙이는 말.",
+  "st": [4]
+ }
+]

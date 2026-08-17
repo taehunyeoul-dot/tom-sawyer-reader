@@ -1,0 +1,120 @@
+{
+ "22.0.0": [
+  {"t":"who","q":"<b>being attracted by the showy character</b> — 예복의 화려함에 마음을 빼앗긴 사람은 누구입니까?","a":"톰 — 분사구문의 주어는 앞 절의 주어인 Tom 입니다","tip":"바로 앞에 Cadets of Temperance 가 있어 단원들이 끌린 것으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>of Cadets of Temperance</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the new order — 새로 생긴 그 단체의 이름이 '금주 소년단'이라는 뜻","tip":"order 는 '명령·주문'이 아니라 '결사(단체)'입니다."},
+  {"t":"pron","q":"<b>their “regalia.”</b> 의 their 는 누구입니까?","a":"금주 소년단 단원들 — 단원들이 걸치는 그 예복","tip":"톰 한 사람으로 잡기 쉽지만 their 는 여럿을 받습니다. 톰은 아직 그 옷을 입어 보지도 못했습니다."}
+ ],
+ "22.0.1": [
+  {"t":"neg","q":"<b>He promised to abstain from smoking, chewing, and profanity</b> — 그는 담배를 피우겠다고 약속한 것입니까?","a":"아니요 — 담배도, 씹는담배도, 욕설도 하지 '않겠다'고 약속했습니다","tip":"abstain from ~ 은 '~을 삼가다'입니다. 이 한 단어를 놓치면 약속의 내용이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>chewing, and profanity</b> 는 무엇에 이어지는 말입니까?","a":"앞의 from — abstain from smoking / from chewing / from profanity 셋을 나란히 묶은 것입니다","tip":"smoking 에 붙여 '담배를 씹는다'로 읽기 쉽습니다. 셋 다 삼가겠다는 대상입니다."},
+  {"t":"time","q":"<b>as long as he remained a member</b> — 이 약속은 언제까지 지키기로 한 것입니까?","a":"단원으로 남아 있는 동안만 — 평생이 아닙니다","tip":"as long as 는 '~하는 한(동안)'입니다. '~만큼 오래'로 읽으면 기한이 사라집니다."}
+ ],
+ "22.0.2": [
+  {"t":"neg","q":"<b>to promise not to do a thing</b> — 약속의 내용은 무엇입니까?","a":"어떤 일을 하지 '않겠다'는 것","tip":"not 이 promise 앞이 아니라 to do 앞에 붙어 있습니다. '약속하지 않는 것'으로 읽으면 문장 전체가 무너집니다."},
+  {"t":"pron","q":"<b>a body</b> 는 무엇을 가리킵니까?","a":"사람(누구든지) — '몸'이나 '시체'가 아닙니다","tip":"옛 구어에서 a body 는 a person 과 같은 말입니다."},
+  {"t":"pron","q":"<b>that very thing</b> 은 무엇입니까?","a":"하지 않겠다고 약속한 바로 그 일","tip":"very 는 '아주'가 아니라 '바로 그'라는 강조입니다."},
+  {"t":"mod","q":"<b>to make a body want to go and do that very thing</b> 는 무엇을 꾸밉니까?","a":"앞의 the surest way — 사람이 기어이 그 일을 하고 싶게 만드는 '가장 확실한 방법'","tip":"문장 맨 끝이라 promise 에 붙이기 쉽습니다. is 의 보어인 way 에 걸립니다."}
+ ],
+ "22.0.3": [
+  {"t":"mod","q":"<b>to display himself in his red sash</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 a chance — 빨간 띠를 두르고 뽐낼 '기회'","tip":"hope 에 붙여도 비슷해 보이지만, 바로 앞 명사는 chance 입니다."},
+  {"t":"who","q":"<b>kept him from withdrawing from the order</b> — 톰이 탈퇴하지 못하게 붙든 것은 무엇입니까?","a":"빨간 띠를 두르고 뽐낼 기회를 얻으리라는 기대(the hope of a chance) 하나뿐 — 누가 말린 것이 아닙니다","tip":"nothing but ~ sash 까지가 통째로 주어입니다. 길어서 바로 앞의 sash 를 주어로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>nothing but the hope … kept him from withdrawing</b> — 톰은 결국 단체를 탈퇴했습니까?","a":"아니요 — 탈퇴하지 않고 남아 있었습니다","tip":"keep A from B 는 'A가 B하지 못하게 막다'입니다. nothing but 은 '오직 ~만'이고요."},
+  {"t":"pron","q":"<b>the order</b> 는 무엇을 가리킵니까?","a":"앞에서 톰이 가입한 금주 소년단(Cadets of Temperance)","tip":"'명령'이나 '순서'로 읽으면 문장이 어그러집니다."}
+ ],
+ "22.0.4": [
+  {"t":"pron","q":"<b>he soon gave that up</b> 의 that 은 무엇입니까?","a":"독립기념일 — 그날 예복을 입고 뽐내리라는 기대","tip":"바로 앞의 Fourth of July 를 받습니다. 금주 서약을 포기했다는 말이 아닙니다."},
+  {"t":"time","q":"<b>before he had worn his shackles over forty-eight hours</b> — 톰은 그 '족쇄'를 48시간 넘게 차고 있었습니까?","a":"아니요 — 48시간도 채우기 전에 포기했습니다","tip":"his shackles 는 진짜 쇠사슬이 아니라 담배·욕설을 끊기로 한 서약입니다."},
+  {"t":"mod","q":"<b>justice of the peace</b> 는 누구를 설명하는 말입니까?","a":"프레이저 판사(old Judge Frazer) — 그의 직책이 치안판사라는 뜻","tip":"새 인물이 등장한 것이 아니라 같은 사람을 다시 말한 동격입니다."},
+  {"t":"who","q":"<b>would have a big public funeral</b> — 이 장례식은 누구의 장례식입니까?","a":"프레이저 판사 자신의 장례식 — 그가 곧 죽을 것이기 때문입니다","tip":"have 를 '(행사를) 연다'로 읽어 판사가 남의 장례식을 치른다고 오해하기 쉽습니다."}
+ ],
+ "22.0.6": [
+  {"t":"pron","q":"<b>Sometimes his hopes ran high</b> — 여기서 톰이 품은 '기대'는 무엇입니까?","a":"프레이저 판사가 죽어 성대한 장례식이 열리고, 거기서 예복을 입고 나설 기회가 오리라는 기대","tip":"앞 문장의 fixed his hopes upon old Judge Frazer 를 그대로 받습니다."},
+  {"t":"time","q":"<b>he would venture to get out his regalia</b> 의 would 는 '~할 것이다'라는 미래입니까?","a":"아니요 — '(때때로) ~하곤 했다'는 되풀이된 과거입니다","tip":"맨 앞의 Sometimes 가 짝입니다. 미래로 읽으면 실제로 한 일이 아닌 게 되어 버립니다."},
+  {"t":"time","q":"<b>practise before the looking-glass</b> — before 는 '거울을 보기 전에'라는 뜻입니까?","a":"아니요 — '거울 앞에서'라는 장소입니다","tip":"before 는 시간뿐 아니라 '~앞에서'라는 위치로도 씁니다. looking-glass 는 거울입니다."}
+ ],
+ "22.5.0": [
+  {"t":"who","q":"<b>the greatest man in the world (as Tom supposed)</b> — 벤턴 씨를 세상에서 가장 위대한 인물로 여긴 사람은 누구입니까?","a":"톰 — 톰의 생각일 뿐입니다","tip":"괄호 안의 as Tom supposed 를 놓치면 작가가 인정한 사실처럼 읽힙니다. 톰을 비웃는 대목입니다."},
+  {"t":"mod","q":"<b>an actual United States Senator</b> 는 누구를 설명하는 말입니까?","a":"벤턴 씨(Mr. Benton)","tip":"또 다른 인물이 아니라 같은 사람을 다시 말한 동격입니다. 주어가 길어 사람이 여럿 등장한 것처럼 보입니다."},
+  {"t":"neg","q":"<b>he was not twenty-five feet high, nor even anywhere in the neighborhood of it</b> — 벤턴 씨의 키는 어땠습니까?","a":"25피트(약 7.6미터)는커녕 그 근처에도 못 미쳤습니다 — 그냥 보통 사람 키였다는 뜻","tip":"nor 는 앞의 not 을 이어받는 부정어입니다. '근처에는 갔다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>the neighborhood of it</b> 의 it 은 무엇입니까?","a":"25피트라는 키","tip":"neighborhood 는 여기서 '동네'가 아니라 '언저리·근처'입니다."}
+ ],
+ "22.6.1": [
+  {"t":"mod","q":"<b>made of rag carpeting</b> 는 무엇을 설명합니까?","a":"천막(tents) — 넝마 카펫으로 만든 천막","tip":"아이들이나 서커스를 꾸미는 말로 붙이기 쉽습니다. 바로 앞 명사가 tents 입니다."},
+  {"t":"time","q":"<b>for three days afterward</b> 는 '사흘 뒤에'입니까, '사흘 동안'입니까?","a":"사흘 동안 — 독립기념일이 지난 뒤 사흘 내리 했다는 뜻","tip":"for + 기간은 '~ 동안'입니다. afterward 가 '그 뒤에'를 따로 맡고 있습니다."},
+  {"t":"pron","q":"<b>two for girls</b> 에서 생략된 말은 무엇입니까?","a":"pins — 여자아이는 핀 두 개(two pins for girls)라는 뜻입니다","tip":"앞에 three pins for boys 가 있어 되풀이되는 pins 를 통째로 뺐습니다."}
+ ],
+ "22.7.0": [
+  {"t":"time","q":"<b>came—and went again</b> — 두 사람은 다시 왔습니까, 도로 떠났습니까?","a":"도로 떠났습니다","tip":"again 은 went 에 붙습니다. '또 왔다'로 읽으면 앞뒤 순서가 뒤집힙니다."},
+  {"t":"mod","q":"<b>duller and drearier than ever</b> 는 무엇의 상태를 말합니까?","a":"마을(the village) — 마을이 그 어느 때보다 더 따분하고 을씨년스러워졌다는 뜻","tip":"leave A B 는 'A를 B한 상태로 남겨 두다'입니다. left 를 '마을을 떠났다'로만 읽으면 뒤의 말이 붙을 곳이 없어집니다."},
+  {"t":"who","q":"<b>A phrenologist and a mesmerizer</b> — 마을에 온 사람은 몇 명입니까?","a":"두 명 — 골상학자 한 명과 최면술사 한 명","tip":"a 가 각각 붙어 있습니다. 한 사람이 두 가지를 겸한 것이 아닙니다."}
+ ],
+ "22.8.0": [
+  {"t":"neg","q":"<b>they were so few</b> — 그런 파티가 자주 있었습니까?","a":"아니요 — 몇 번밖에 없었습니다","tip":"few 는 '조금 있다'가 아니라 '거의 없다' 쪽입니다. a few 와 다릅니다."},
+  {"t":"pron","q":"<b>they only made the aching voids … ache the harder</b> 의 they 는 무엇입니까?","a":"그 파티들 — 아이들이 아닙니다","tip":"앞에 boys-and-girls' 가 있어 아이들로 잡기 쉽습니다. 앞 절의 they(파티들)와 같은 것을 받습니다."},
+  {"t":"mod","q":"<b>the aching voids between</b> 의 between 은 무엇과 무엇 사이입니까?","a":"파티와 파티 사이 — 그 사이사이의 텅 빈 시간","tip":"between 뒤에 말이 없어 붙일 곳을 잃기 쉽습니다. voids 를 뒤에서 꾸미는 말입니다."}
+ ],
+ "22.9.0": [
+  {"t":"time","q":"<b>Becky Thatcher was gone</b> — 베키는 지금 마을에 있습니까?","a":"없습니다 — 이미 떠나서 없는 상태입니다","tip":"was gone 은 '갔다'는 동작이 아니라 '가고 없다'는 상태를 말합니다."},
+  {"t":"mod","q":"<b>to stay with her parents during vacation</b> 는 무엇을 설명합니까?","a":"베키가 콘스탄티노플의 집으로 간 목적 — 방학 동안 부모님과 지내려고","tip":"바로 앞의 home 을 꾸미는 말이 아닙니다. 갔다는 동사에 걸리는 목적입니다."},
+  {"t":"neg","q":"<b>there was no bright side to life anywhere</b> — 인생에 밝은 구석이 조금이라도 있었습니까?","a":"없었습니다 — 어디를 봐도 하나도 없었습니다","tip":"no 와 anywhere 가 함께 쓰여 '어디에도 없다'가 됩니다. anywhere 를 '어딘가에는'으로 읽으면 정반대입니다."}
+ ],
+ "22.12.2": [
+  {"t":"who","q":"<b>a melancholy change had come over everything</b> — 주절에서 '내려앉은' 것은 무엇입니까?","a":"우울한 변화(a melancholy change)","tip":"When 절의 주어(he)와 주절의 주어가 다릅니다. 톰이 무엇을 한 것이 아닙니다."},
+  {"t":"time","q":"<b>had come over</b> — 이 변화는 톰이 시내로 나가 보기 전에 이미 일어나 있었습니까, 나가 보는 순간 일어났습니까?","a":"이미 일어나 있었습니다 — 톰이 앓아누워 있는 사이에 벌어진 일입니다","tip":"had + 과거분사는 그 시점보다 앞선 일입니다. '나가자 변화가 일어났다'로 읽으면 순서가 어긋납니다."},
+  {"t":"mod","q":"<b>everything and every creature</b> 는 무엇에 걸리는 말입니까?","a":"come over(~ 위에 내려앉다)의 대상 — 모든 것과 살아 있는 모든 것 위에 그 변화가 덮쳤다는 뜻","tip":"over 를 '넘어서'로 읽으면 이 말이 붙을 곳을 잃습니다."}
+ ],
+ "22.12.3": [
+  {"t":"neg","q":"<b>not only the adults, but even the boys and girls</b> — 신앙을 얻은 것은 어른들뿐입니까?","a":"아니요 — 어른은 물론 남자아이 여자아이까지 모두입니다","tip":"not only A but B 는 'A뿐 아니라 B도'입니다. not 만 보고 '어른들은 아니었다'로 읽으면 정반대가 됩니다."},
+  {"t":"time","q":"<b>There had been a “revival,” and everybody had “got religion,”</b> — 이 일은 톰이 시내로 나가 보기 전입니까, 그 뒤입니까?","a":"그 전 — 톰이 앓아누워 있는 사이에 이미 벌어져 있었습니다","tip":"had been / had got 은 앞선 일을 말합니다. 톰만 그 사이의 일을 모르고 있었습니다."},
+  {"t":"mod","q":"<b>not only the adults, but even the boys and girls</b> 는 무엇을 풀어 준 말입니까?","a":"앞의 everybody — 그 '모두'가 누구누구인지 나눠 말한 것입니다","tip":"새 주어·동사가 아니라 everybody 를 다시 말한 동격입니다. 새 문장으로 끊어 읽으면 걸릴 곳이 없어집니다."}
+ ],
+ "22.12.4": [
+  {"t":"neg","q":"<b>hoping against hope</b> — 톰은 그럴 가망이 있다고 보았습니까?","a":"아니요 — 가망 없는 줄 알면서도 바랐습니다","tip":"against hope 가 붙어 '희망에 부풀어'와는 정반대의 뜻이 됩니다."},
+  {"t":"mod","q":"<b>one blessed sinful face</b> — 톰이 보고 싶어 한 것은 어떤 얼굴입니까?","a":"죄에 물든 얼굴(신앙을 얻지 않은 얼굴) 하나 — 톰에게는 그런 얼굴이 반가웠다는 뜻으로 blessed 를 붙였습니다","tip":"blessed 와 sinful 이 같은 face 를 함께 꾸밉니다. '축복받은 얼굴'과 '죄지은 얼굴' 둘로 나누면 안 됩니다."},
+  {"t":"who","q":"<b>disappointment crossed him everywhere</b> — 이 절의 주어는 무엇입니까?","a":"실망(disappointment) — 가는 곳마다 실망이 그를 가로막았다는 뜻입니다","tip":"앞 절의 주어가 Tom 이라 이어서 톰을 주어로 잡기 쉽습니다. 톰이 남을 실망시킨 것이 아닙니다."}
+ ],
+ "22.12.7": [
+  {"t":"who","q":"<b>who called his attention to …</b> — 일깨워 준 쪽과 일깨움을 받은 쪽은 각각 누구입니까?","a":"일깨워 준 쪽은 짐 홀리스(who), 받은 쪽은 톰(his attention)","tip":"who 는 바로 앞의 Jim Hollis 를 받습니다. 톰이 말한 것으로 뒤집어 읽기 쉽습니다."},
+  {"t":"time","q":"<b>his late measles</b> 의 late 는 무슨 뜻입니까?","a":"'늦은'이 아니라 '얼마 전의' — 톰이 최근에 앓은 그 홍역입니다","tip":"'죽은(고인이 된)'이라는 late 와도 다릅니다. 여기서는 시점이 최근이라는 뜻뿐입니다."},
+  {"t":"mod","q":"<b>as a warning</b> 은 무엇을 두고 하는 말입니까?","a":"톰이 앓은 홍역 — 그 홍역이 하늘이 내린 경고였다는 뜻","tip":"짐이 톰에게 경고했다는 말이 아닙니다. 홍역의 '자격'을 말하는 부분입니다."}
+ ],
+ "22.12.8": [
+  {"t":"mod","q":"<b>Every boy he encountered</b> — he encountered 는 무엇을 꾸밉니까?","a":"앞의 Every boy — '그가 마주친 소년마다'라는 뜻","tip":"관계대명사(whom)가 빠져 boy 와 he 가 나란히 붙어 있습니다. 주어가 둘인 줄 알면 문장이 무너집니다."},
+  {"t":"who","q":"<b>was received with a Scriptural quotation</b> — 성경 구절로 맞이한 쪽과 맞이받은 쪽은 각각 누구입니까?","a":"성경 구절을 읊은 쪽은 허클베리 핀, 맞이받은 쪽은 톰","tip":"수동태라 행위자가 드러나지 않습니다. 마지막 희망이던 허크마저 신앙을 얻었다는 뜻입니다."},
+  {"t":"who","q":"<b>he alone of all the town was lost</b> — 버림받았다고 느낀 사람은 누구입니까?","a":"톰 혼자 — 온 마을에서 오직 자기 하나만","tip":"lost 는 길을 잃었다는 뜻이 아니라 (신앙을 얻지 못해) 구원에서 제외되었다는 뜻입니다."},
+  {"t":"time","q":"<b>his heart broke</b> — 가슴이 무너진 것은 허크에게 달려가기 전입니까, 뒤입니까?","a":"뒤 — 허크에게 갔다가 성경 구절로 맞이받은 바로 그때입니다","tip":"when 절이 길어서 주절(his heart broke)이 어디서 시작하는지 놓치기 쉽습니다."}
+ ],
+ "22.13.0": [
+  {"t":"who","q":"<b>there came on a terrific storm</b> — 실제로 몰아친 것은 무엇입니까?","a":"무시무시한 폭풍(a terrific storm)","tip":"There 는 주어가 아닙니다. 동사 뒤에 나오는 말이 진짜 주어입니다."},
+  {"t":"time","q":"<b>that night</b> 은 어느 날 밤입니까?","a":"톰이 허크에게까지 거절당하고 가슴이 무너져 잠자리에 든 바로 그날 밤","tip":"앞 문장과 곧바로 이어집니다. 막연한 '어느 밤'이 아닙니다."},
+  {"t":"mod","q":"<b>blinding sheets of lightning</b> — blinding 은 무엇을 설명합니까?","a":"번갯불 — 눈이 멀 듯 번쩍이는 번개","tip":"사람이 눈이 멀었다는 뜻이 아닙니다. 앞의 driving rain(퍼붓는 비)도 같은 짜임입니다."}
+ ],
+ "22.13.1": [
+  {"t":"neg","q":"<b>he had not the shadow of a doubt</b> — 톰은 의심하고 있었습니까?","a":"아니요 — 의심의 그림자조차 없었습니다. 즉 완전히 확신했습니다","tip":"had not = didn't have 입니다. '의심의 그림자가 있었다'로 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>for his doom</b> 는 무엇에 이어지는 말입니까?","a":"앞의 waited — '자기에게 내릴 벌을 기다렸다'는 뜻","tip":"사이에 in a horror of suspense 가 끼어 있어 붙을 곳을 잃기 쉽습니다. wait for ~ 가 한 짝입니다."},
+  {"t":"pron","q":"<b>all this hubbub</b> 은 무엇을 가리킵니까?","a":"그날 밤의 폭풍 — 천둥·번개·퍼붓는 비의 난리","tip":"사람들이 떠드는 소동으로 읽기 쉽습니다. 하늘이 자기 때문에 이 난리를 친다고 믿은 것입니다."}
+ ],
+ "22.13.2": [
+  {"t":"pron","q":"<b>the powers above</b> 는 무엇을 가리킵니까?","a":"하늘에 계신 분(하느님)","tip":"신을 에둘러 부른 말입니다. '윗선의 권력자'로 읽으면 장면이 사라집니다."},
+  {"t":"mod","q":"<b>and that this was the result</b> 는 어느 동사에 이어집니까?","a":"앞의 believed — 톰이 믿은 두 번째 내용입니다(believed (that) … and that …)","tip":"바로 앞의 endurance 나 taxed 에 붙이면 문장이 어긋납니다. 멀리 있는 believed 를 찾아야 합니다."},
+  {"t":"pron","q":"<b>this was the result</b> 의 this 는 무엇입니까?","a":"그날 밤의 폭풍 — 이 폭풍이 바로 그 결과라는 뜻","tip":"앞 문장의 폭풍을 받습니다. '이것'이라고만 옮기면 무엇인지 확정하지 않고 넘어가게 됩니다."}
+ ],
+ "22.13.3": [
+  {"t":"pron","q":"<b>It might have seemed to him a waste of pomp and ammunition</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to kill a bug with a battery of artillery 입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"time","q":"<b>It might have seemed</b> — 톰이 실제로 그렇게 느꼈다는 말입니까?","a":"아니요 — '그렇게 보였을지도 모른다'는 가정입니다","tip":"might have p.p. 는 실제로 있었던 일이 아니라 '~했을 수도 있다'는 짐작입니다."},
+  {"t":"neg","q":"<b>there seemed nothing incongruous about …</b> — 톰은 이 폭풍이 자기 하나 때문이라기엔 지나치다고 느꼈습니까?","a":"아니요 — 이상할 것이 하나도 없다고 느꼈습니다","tip":"nothing 을 놓치면 정반대가 됩니다. 앞의 but 이 '벌레에 대포는 낭비지만'과 대비를 만듭니다."},
+  {"t":"who","q":"<b>an insect like himself</b> — 벌레에 비유된 사람은 누구입니까?","a":"톰 자신","tip":"앞의 a bug 와 짝을 이룹니다. 하늘이 자기 같은 벌레 하나를 잡으려고 이 폭풍을 일으켰다고 여긴 것입니다."}
+ ],
+ "22.15.2": [
+  {"t":"neg","q":"<b>he was hardly grateful that he had been spared</b> — 그는 목숨을 건진 것을 고마워했습니까?","a":"아니요 — 거의 고마워하지 않았습니다","tip":"hardly 는 '거의 ~않다'라는 부정어입니다. '힘겹게 고마워했다'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"<b>he had been spared</b> — 목숨을 건진 쪽은 누구입니까?","a":"톰 — 하늘이 그를 벌하지 않고 살려 두었다는 뜻입니다","tip":"수동태라 살려 준 쪽은 문장에 드러나지 않습니다. spare 는 여기서 '(벌을) 면하게 해 주다'입니다."},
+  {"t":"mod","q":"<b>how lonely was his estate</b> 의 estate 는 무슨 뜻입니까?","a":"재산이나 저택이 아니라 '처지·신세' — 자기 신세가 얼마나 외로운지","tip":"how + 형용사 뒤에서 동사와 주어가 뒤집혀 있습니다(was his estate)."},
+  {"t":"time","q":"<b>When he got abroad at last</b> — 이 일은 폭풍이 지나가기 전입니까, 지나간 뒤입니까?","a":"지나간 뒤 — 폭풍이 끝나고 마침내 바깥에 나섰을 때입니다","tip":"abroad 는 '외국'이 아니라 '집 밖'입니다. get abroad 는 (앓거나 틀어박혀 있다가) 바깥에 나서다라는 뜻입니다."}
+ ],
+ "22.15.3": [
+  {"t":"who","q":"<b>found Jim Hollis acting as judge</b> — 판사 노릇을 한 사람은 누구입니까?","a":"짐 홀리스 — 톰은 그 모습을 본 쪽입니다","tip":"find + 목적어 + ~ing 는 '~가 …하고 있는 것을 보다'입니다. 톰이 판사가 된 것이 아닙니다."},
+  {"t":"mod","q":"<b>that was trying a cat for murder</b> 는 무엇을 꾸밉니까?","a":"앞의 a juvenile court(소년 법정)","tip":"judge 를 꾸미는 것으로 읽기 쉽습니다. 바로 앞 명사가 court 입니다."},
+  {"t":"who","q":"<b>trying a cat for murder</b> — 재판을 받는 쪽은 누구입니까?","a":"고양이 — 살인죄로 재판받는 피고입니다","tip":"try 는 '애쓰다'가 아니라 '재판하다'입니다. '고양이를 잡으려 애쓴다'로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>her victim, a bird</b> 의 her 는 누구를 가리킵니까?","a":"그 고양이 — 고양이에게 당한 희생물이 바로 그 새입니다","tip":"her 라서 여자 사람으로 잡기 쉽습니다. 여기서는 동물을 her 로 받았습니다."}
+ ]
+}

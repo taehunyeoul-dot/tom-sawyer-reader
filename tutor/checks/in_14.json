@@ -1,0 +1,925 @@
+[
+ {
+  "id": "14.1.3",
+  "en": "A little green worm came crawling over a dewy leaf, lifting two-thirds of his body into the air from time to time and “sniffing around,” then proceeding again—for he was measuring, Tom said; and when the worm approached him, of its own accord, he sat as still as a stone, with his hopes rising and falling, by turns, as the creature still came toward him or seemed inclined to go elsewhere; and when at last it considered a painful moment with its curved body in the air and then came decisively down upon Tom’s leg and began a journey over him, his whole heart was glad—for that meant that he was going to have a new suit of clothes—without the shadow of a doubt a gaudy piratical uniform.",
+  "s": "A little green worm",
+  "v": "came",
+  "ko": "작은 초록 자벌레 한 마리가 이슬 맺힌 잎사귀 위로 기어 왔다. 이따금 몸의 3분의 2를 공중으로 쳐들고 '냄새를 맡는 듯' 하다가 다시 나아가곤 했는데—톰의 말로는 길이를 재는 중이었다. 벌레가 제 발로 다가오자 톰은 돌처럼 꼼짝 않고 앉아, 벌레가 자기 쪽으로 오는가 싶다가 다른 데로 갈 듯이 굴 때마다 기대가 올랐다 내렸다 했다. 마침내 벌레가 굽은 몸을 공중에 든 채 애타는 한순간을 망설이더니 단호하게 톰의 다리로 내려와 그의 몸을 타고 여행을 시작하자, 톰은 온 마음이 기뻤다—그건 새 옷 한 벌이 생긴다는 뜻이었으니까. 의심할 여지 없이 화려한 해적 복장 말이다.",
+  "chunks": [
+   {
+    "en": "A little green worm came crawling over a dewy leaf,",
+    "ko": "작은 초록 자벌레 한 마리가 이슬 맺힌 잎사귀 위로 기어 왔다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "lifting two-thirds of his body into the air",
+    "ko": "몸의 3분의 2를 공중으로 쳐들면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "from time to time and “sniffing around,”",
+    "ko": "이따금, 그리고 '냄새를 맡는 듯' 하면서",
+    "r": "시간 + 분사구문"
+   },
+   {
+    "en": "then proceeding again—for he was measuring, Tom said;",
+    "ko": "그러고는 다시 나아가면서—톰의 말로는 길이를 재는 중이었다",
+    "r": "분사구문 + 곁말(대시, 이유)"
+   },
+   {
+    "en": "and when the worm approached him, of its own accord,",
+    "ko": "그리고 그 벌레가 제 발로 톰에게 다가오자",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he sat as still as a stone,",
+    "ko": "그는 돌처럼 꼼짝 않고 앉아 있었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "with his hopes rising and falling, by turns,",
+    "ko": "기대가 번갈아 올랐다 내렸다 하는 채로",
+    "r": "전치사구(부대상황: with + 명사 + ~ing)"
+   },
+   {
+    "en": "as the creature still came toward him",
+    "ko": "그 벌레가 여전히 자기 쪽으로 오는가 싶다가",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "or seemed inclined to go elsewhere;",
+    "ko": "아니면 다른 데로 갈 듯이 굴 때마다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and when at last it considered a painful moment",
+    "ko": "그리고 마침내 벌레가 애가 탈 만큼 한순간 망설이더니",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "with its curved body in the air",
+    "ko": "굽은 몸을 공중에 든 채",
+    "r": "전치사구(상태)"
+   },
+   {
+    "en": "and then came decisively down upon Tom’s leg",
+    "ko": "그러고는 단호하게 톰의 다리 위로 내려와",
+    "r": "대등 동사(부사절 안)"
+   },
+   {
+    "en": "and began a journey over him,",
+    "ko": "그의 몸을 타고 여행을 시작하자",
+    "r": "대등 동사(부사절 안)"
+   },
+   {
+    "en": "his whole heart was glad—for that meant",
+    "ko": "톰은 온 마음이 기뻤다—그것은 ~라는 뜻이었으니까",
+    "r": "주절 + 곁말(대시, 이유 for=because)"
+   },
+   {
+    "en": "that he was going to have a new suit of clothes—without the shadow of a doubt",
+    "ko": "새 옷 한 벌이 생긴다는—의심할 여지도 없이",
+    "r": "목적어(that절) + 곁말(대시)"
+   },
+   {
+    "en": "a gaudy piratical uniform.",
+    "ko": "화려한 해적 복장 말이다",
+    "r": "곁말(옷의 정체를 밝힘)"
+   }
+  ]
+ },
+ {
+  "id": "14.1.4",
+  "en": "Now a procession of ants appeared, from nowhere in particular, and went about their labors; one struggled manfully by with a dead spider five times as big as itself in its arms, and lugged it straight up a tree-trunk.",
+  "s": "a procession of ants",
+  "v": "appeared",
+  "ko": "이제 어디랄 것도 없이 개미 행렬이 나타나 저마다 제 일에 나섰다. 한 마리는 제 몸집의 다섯 배나 되는 죽은 거미를 두 팔에 안고 씩씩하게 낑낑대며 지나가더니, 나무줄기를 곧장 타고 끌어올렸다.",
+  "chunks": [
+   {
+    "en": "Now a procession of ants appeared,",
+    "ko": "이제 개미 행렬이 나타났다",
+    "r": "부사 + 주어 + 동사"
+   },
+   {
+    "en": "from nowhere in particular,",
+    "ko": "어디랄 것도 없이 불쑥",
+    "r": "삽입(전치사구)"
+   },
+   {
+    "en": "and went about their labors;",
+    "ko": "그러고는 저마다 제 일에 나섰다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "one struggled manfully by",
+    "ko": "한 마리는 씩씩하게 낑낑대며 지나갔다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "with a dead spider five times as big as itself",
+    "ko": "제 몸집의 다섯 배나 되는 죽은 거미를 안고",
+    "r": "전치사구(동반)"
+   },
+   {
+    "en": "in its arms,",
+    "ko": "두 팔에",
+    "r": "전치사구(위치)"
+   },
+   {
+    "en": "and lugged it straight up a tree-trunk.",
+    "ko": "그러고는 그것을 나무줄기 위로 곧장 끌어올렸다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "14.1.5",
+  "en": "A brown spotted lady-bug climbed the dizzy height of a grass blade, and Tom bent down close to it and said, “Lady-bug, lady-bug, fly away home, your house is on fire, your children’s alone,” and she took wing and went off to see about it—which did not surprise the boy, for he knew of old that this insect was credulous about conflagrations, and he had practised upon its simplicity more than once.",
+  "s": "A brown spotted lady-bug",
+  "v": "climbed",
+  "ko": "갈색 점무늬 무당벌레 한 마리가 아찔한 풀잎 꼭대기까지 기어올랐고, 톰은 가까이 몸을 숙이고 말했다. \"무당벌레야, 무당벌레야, 집으로 날아가렴, 너희 집에 불이 났고 아이들만 남아 있단다.\" 그러자 무당벌레는 날개를 펴고 그 일을 알아보러 날아가 버렸다—톰은 놀라지 않았다. 이 벌레가 불이 났다는 말을 잘 믿는다는 걸 예전부터 알고 있었고, 그 순진함을 가지고 장난친 적도 한두 번이 아니었으니까.",
+  "chunks": [
+   {
+    "en": "A brown spotted lady-bug climbed the dizzy height of a grass blade,",
+    "ko": "갈색 점무늬 무당벌레 한 마리가 아찔한 풀잎 꼭대기까지 기어올랐고",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and Tom bent down close to it and said,",
+    "ko": "톰은 가까이 몸을 숙이고 말했다",
+    "r": "대등절"
+   },
+   {
+    "en": "“Lady-bug, lady-bug, fly away home,",
+    "ko": "\"무당벌레야, 무당벌레야, 집으로 날아가렴",
+    "r": "인용(대사)"
+   },
+   {
+    "en": "your house is on fire, your children’s alone,”",
+    "ko": "너희 집에 불이 났고, 아이들만 남아 있단다\"",
+    "r": "인용(대사)"
+   },
+   {
+    "en": "and she took wing",
+    "ko": "그러자 무당벌레는 날개를 펴고 날아올라",
+    "r": "대등절"
+   },
+   {
+    "en": "and went off to see about it—which did not surprise the boy,",
+    "ko": "그 일을 알아보러 가 버렸다—그래도 톰은 놀라지 않았다",
+    "r": "대등 동사 + 관계절(앞 내용 전체를 받음)"
+   },
+   {
+    "en": "for he knew of old",
+    "ko": "그는 예전부터 알고 있었으니까",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "that this insect was credulous about conflagrations,",
+    "ko": "이 벌레가 불이 났다는 말을 잘 믿는다는 것을",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "and he had practised upon its simplicity more than once.",
+    "ko": "게다가 그 순진함을 가지고 장난친 적도 한두 번이 아니었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "14.1.8",
+  "en": "A catbird, the Northern mocker, lit in a tree over Tom’s head, and trilled out her imitations of her neighbors in a rapture of enjoyment; then a shrill jay swept down, a flash of blue flame, and stopped on a twig almost within the boy’s reach, cocked his head to one side and eyed the strangers with a consuming curiosity; a gray squirrel and a big fellow of the “fox” kind came skurrying along, sitting up at intervals to inspect and chatter at the boys, for the wild things had probably never seen a human being before and scarcely knew whether to be afraid or not.",
+  "s": "A catbird",
+  "v": "lit",
+  "ko": "북부의 흉내쟁이라 불리는 캣버드 한 마리가 톰의 머리 위 나무에 내려앉아, 황홀할 만큼 신이 나서 이웃 새들의 울음소리를 흉내 내 지저귀었다. 이어서 새된 소리를 내는 어치가 푸른 불꽃처럼 휙 내려와 소년의 손이 거의 닿을 만한 잔가지에 멈춰 서서, 고개를 한쪽으로 갸웃하고는 타는 듯한 호기심으로 낯선 이들을 뜯어보았다. 회색 다람쥐 한 마리와 '여우다람쥐' 종류의 큰 녀석이 후다닥 달려와 이따금 몸을 일으켜 아이들을 살펴보고 짹짹거렸다. 이 야생 동물들은 아마 사람을 한 번도 본 적이 없어서 무서워해야 할지 말지도 잘 몰랐던 것이다.",
+  "chunks": [
+   {
+    "en": "A catbird, the Northern mocker,",
+    "ko": "캣버드, 곧 북부의 흉내쟁이 새 한 마리가",
+    "r": "주어 + 동격"
+   },
+   {
+    "en": "lit in a tree over Tom’s head,",
+    "ko": "톰의 머리 위 나무에 내려앉아",
+    "r": "동사 + 전치사구(장소)"
+   },
+   {
+    "en": "and trilled out her imitations of her neighbors",
+    "ko": "이웃 새들의 울음소리를 흉내 내 지저귀었다",
+    "r": "대등 동사 + 목적어"
+   },
+   {
+    "en": "in a rapture of enjoyment;",
+    "ko": "황홀할 만큼 신이 나서",
+    "r": "전치사구(상태)"
+   },
+   {
+    "en": "then a shrill jay swept down, a flash of blue flame,",
+    "ko": "이어서 새된 소리를 내는 어치가 휙 내려왔다, 푸른 불꽃이 번쩍하듯",
+    "r": "대등절 + 동격"
+   },
+   {
+    "en": "and stopped on a twig almost within the boy’s reach,",
+    "ko": "그러고는 소년의 손이 거의 닿을 만한 잔가지에 멈춰 서서",
+    "r": "대등 동사"
+   },
+   {
+    "en": "cocked his head to one side",
+    "ko": "고개를 한쪽으로 갸웃하고",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and eyed the strangers with a consuming curiosity;",
+    "ko": "타는 듯한 호기심으로 낯선 이들을 뜯어보았다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "a gray squirrel and a big fellow of the “fox” kind",
+    "ko": "회색 다람쥐 한 마리와 '여우다람쥐' 종류의 큰 녀석이",
+    "r": "주어(나열)"
+   },
+   {
+    "en": "came skurrying along,",
+    "ko": "후다닥 달려왔다",
+    "r": "동사"
+   },
+   {
+    "en": "sitting up at intervals to inspect and chatter at the boys,",
+    "ko": "이따금 몸을 일으켜 아이들을 살펴보고 짹짹거리면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "for the wild things had probably never seen a human being before",
+    "ko": "이 야생 동물들은 아마 사람을 한 번도 본 적이 없어서",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "and scarcely knew whether to be afraid or not.",
+    "ko": "무서워해야 할지 말지도 잘 몰랐던 것이다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "14.1.9",
+  "en": "All Nature was wide awake and stirring, now; long lances of sunlight pierced down through the dense foliage far and near, and a few butterflies came fluttering upon the scene.",
+  "s": "All Nature",
+  "v": "was",
+  "ko": "이제 온 자연이 완전히 잠에서 깨어나 움직이고 있었다. 긴 창처럼 뻗은 햇살이 멀리 가까이 빽빽한 잎사귀 사이를 뚫고 내려왔고, 나비 몇 마리가 팔랑거리며 그 광경 속으로 날아들었다.",
+  "chunks": [
+   {
+    "en": "All Nature was wide awake and stirring, now;",
+    "ko": "이제 온 자연이 완전히 잠에서 깨어 움직이고 있었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "long lances of sunlight pierced down",
+    "ko": "긴 창처럼 뻗은 햇살이 뚫고 내려왔다",
+    "r": "대등절 주어 + 동사"
+   },
+   {
+    "en": "through the dense foliage far and near,",
+    "ko": "멀리 가까이 빽빽한 잎사귀 사이를",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "and a few butterflies came fluttering upon the scene.",
+    "ko": "그리고 나비 몇 마리가 팔랑거리며 그 광경 속으로 날아들었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "14.2.0",
+  "en": "Tom stirred up the other pirates and they all clattered away with a shout, and in a minute or two were stripped and chasing after and tumbling over each other in the shallow limpid water of the white sandbar.",
+  "s": "Tom",
+  "v": "stirred",
+  "ko": "톰이 다른 해적들을 흔들어 깨우자 다들 함성을 지르며 요란하게 달려 나갔고, 일이 분 만에 옷을 훌렁 벗어 던지고는 하얀 모래톱의 얕고 맑은 물에서 서로 쫓고 뒤엉켜 뒹굴고 있었다.",
+  "chunks": [
+   {
+    "en": "Tom stirred up the other pirates",
+    "ko": "톰이 다른 해적들을 흔들어 깨웠다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and they all clattered away with a shout,",
+    "ko": "그러자 다들 함성을 지르며 요란하게 달려 나갔다",
+    "r": "대등절"
+   },
+   {
+    "en": "and in a minute or two were stripped",
+    "ko": "그리고 일이 분 만에 옷을 훌렁 벗어 던지고",
+    "r": "시간 + 대등 동사(주어 they 생략)"
+   },
+   {
+    "en": "and chasing after and tumbling over each other",
+    "ko": "서로 쫓아다니고 뒤엉켜 뒹굴고 있었다",
+    "r": "대등(were + ~ing)"
+   },
+   {
+    "en": "in the shallow limpid water of the white sandbar.",
+    "ko": "하얀 모래톱의 얕고 맑은 물에서",
+    "r": "전치사구(장소)"
+   }
+  ]
+ },
+ {
+  "id": "14.3.1",
+  "en": "Huck found a spring of clear cold water close by, and the boys made cups of broad oak or hickory leaves, and felt that water, sweetened with such a wildwood charm as that, would be a good enough substitute for coffee.",
+  "s": "Huck",
+  "v": "found",
+  "ko": "헉이 근처에서 맑고 차가운 샘을 찾아냈고, 아이들은 널찍한 참나무나 히코리 잎으로 컵을 만들었다. 그러고는 그런 숲속의 정취로 맛이 든 물이라면 커피 대신으로 충분하겠다고 여겼다.",
+  "chunks": [
+   {
+    "en": "Huck found a spring of clear cold water close by,",
+    "ko": "헉이 근처에서 맑고 차가운 샘을 찾아냈고",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and the boys made cups of broad oak or hickory leaves,",
+    "ko": "아이들은 널찍한 참나무나 히코리 잎으로 컵을 만들었다",
+    "r": "대등절"
+   },
+   {
+    "en": "and felt that water,",
+    "ko": "그러고는 물이 ~라고 여겼다",
+    "r": "대등 동사 + 목적어(that절)의 주어"
+   },
+   {
+    "en": "sweetened with such a wildwood charm as that,",
+    "ko": "그런 숲속의 정취로 맛이 들었으니",
+    "r": "과거분사구(water 수식)"
+   },
+   {
+    "en": "would be a good enough substitute for coffee.",
+    "ko": "커피 대신으로 충분하겠다고",
+    "r": "that절 동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "14.3.2",
+  "en": "While Joe was slicing bacon for breakfast, Tom and Huck asked him to hold on a minute; they stepped to a promising nook in the river-bank and threw in their lines; almost immediately they had reward.",
+  "s": "Tom and Huck",
+  "v": "asked",
+  "ko": "조가 아침으로 먹을 베이컨을 썰고 있는 동안, 톰과 헉은 그에게 잠깐만 기다리라고 했다. 둘은 강둑의 그럴듯한 구석으로 가서 낚싯줄을 던졌고, 거의 곧바로 성과를 얻었다.",
+  "chunks": [
+   {
+    "en": "While Joe was slicing bacon for breakfast,",
+    "ko": "조가 아침으로 먹을 베이컨을 썰고 있는 동안",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "Tom and Huck asked him to hold on a minute;",
+    "ko": "톰과 헉은 그에게 잠깐만 기다리라고 했다",
+    "r": "주어 + 동사 + 목적어 + 목적보어"
+   },
+   {
+    "en": "they stepped to a promising nook in the river-bank",
+    "ko": "둘은 강둑의 그럴듯한 구석으로 걸어가",
+    "r": "대등절"
+   },
+   {
+    "en": "and threw in their lines;",
+    "ko": "낚싯줄을 물에 던졌다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "almost immediately they had reward.",
+    "ko": "거의 곧바로 성과가 있었다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "14.3.5",
+  "en": "They did not know that the quicker a fresh-water fish is on the fire after he is caught the better he is; and they reflected little upon what a sauce open-air sleeping, open-air exercise, bathing, and a large ingredient of hunger make, too.",
+  "s": "They",
+  "v": "did not know",
+  "ko": "그들은 민물고기는 잡자마자 빨리 불에 올릴수록 더 맛있다는 사실을 몰랐다. 그리고 야외에서 자고, 야외에서 몸을 움직이고, 물놀이를 하고, 거기에 배고픔이라는 재료가 듬뿍 들어가면 그것이 얼마나 훌륭한 양념이 되는지도 별로 생각해 보지 않았다.",
+  "chunks": [
+   {
+    "en": "They did not know",
+    "ko": "그들은 몰랐다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that the quicker a fresh-water fish is on the fire",
+    "ko": "민물고기는 빨리 불에 올릴수록",
+    "r": "목적어(that절) + the 비교급"
+   },
+   {
+    "en": "after he is caught",
+    "ko": "잡힌 뒤에",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "the better he is;",
+    "ko": "그만큼 더 맛있다는 것을",
+    "r": "the 비교급(결과)"
+   },
+   {
+    "en": "and they reflected little upon",
+    "ko": "그리고 ~에 대해서도 거의 생각해 보지 않았다",
+    "r": "대등절"
+   },
+   {
+    "en": "what a sauce open-air sleeping, open-air exercise, bathing,",
+    "ko": "야외에서 자기, 야외에서 몸 쓰기, 물놀이가",
+    "r": "목적어(감탄 어순) + 주어 나열"
+   },
+   {
+    "en": "and a large ingredient of hunger make, too.",
+    "ko": "거기에 배고픔이라는 재료가 듬뿍 더해지면 얼마나 훌륭한 양념이 되는지",
+    "r": "주어 나열 + 동사"
+   }
+  ]
+ },
+ {
+  "id": "14.4.1",
+  "en": "They tramped gayly along, over decaying logs, through tangled underbrush, among solemn monarchs of the forest, hung from their crowns to the ground with a drooping regalia of grape-vines.",
+  "s": "They",
+  "v": "tramped",
+  "ko": "그들은 썩어 가는 통나무를 넘고, 뒤엉킨 덤불을 헤치고, 꼭대기부터 땅까지 늘어진 포도 덩굴 예복을 걸친 숲의 엄숙한 왕들(거목들) 사이를 지나 신나게 걸어갔다.",
+  "chunks": [
+   {
+    "en": "They tramped gayly along,",
+    "ko": "그들은 신나게 터벅터벅 걸어갔다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "over decaying logs, through tangled underbrush,",
+    "ko": "썩어 가는 통나무를 넘고, 뒤엉킨 덤불을 헤치고",
+    "r": "전치사구(경로)"
+   },
+   {
+    "en": "among solemn monarchs of the forest,",
+    "ko": "숲의 엄숙한 왕들(거목들) 사이를 지나",
+    "r": "전치사구(경로)"
+   },
+   {
+    "en": "hung from their crowns to the ground",
+    "ko": "꼭대기부터 땅까지 늘어뜨린 채로",
+    "r": "과거분사구(monarchs 수식)"
+   },
+   {
+    "en": "with a drooping regalia of grape-vines.",
+    "ko": "축 처진 포도 덩굴이라는 예복을",
+    "r": "전치사구(수단)"
+   }
+  ]
+ },
+ {
+  "id": "14.5.1",
+  "en": "They discovered that the island was about three miles long and a quarter of a mile wide, and that the shore it lay closest to was only separated from it by a narrow channel hardly two hundred yards wide.",
+  "s": "They",
+  "v": "discovered",
+  "ko": "그들은 그 섬이 길이 약 3마일에 폭 4분의 1마일이고, 섬에서 가장 가까운 기슭이 폭 200야드도 안 되는 좁은 물길 하나로만 섬과 갈라져 있다는 것을 알아냈다.",
+  "chunks": [
+   {
+    "en": "They discovered that the island was about three miles long",
+    "ko": "그들은 그 섬이 길이 약 3마일이고",
+    "r": "주어 + 동사 + 목적어(that절)"
+   },
+   {
+    "en": "and a quarter of a mile wide,",
+    "ko": "폭은 4분의 1마일이라는 것을 알아냈다",
+    "r": "보어(나열)"
+   },
+   {
+    "en": "and that the shore it lay closest to",
+    "ko": "그리고 섬에서 가장 가까운 그 기슭은",
+    "r": "두 번째 that절의 주어(관계절 포함)"
+   },
+   {
+    "en": "was only separated from it",
+    "ko": "섬과 갈라져 있을 뿐이라는 것도",
+    "r": "동사(수동)"
+   },
+   {
+    "en": "by a narrow channel hardly two hundred yards wide.",
+    "ko": "폭이 200야드도 안 되는 좁은 물길 하나로",
+    "r": "전치사구(수단)"
+   }
+  ]
+ },
+ {
+  "id": "14.6.0",
+  "en": "For some time, now, the boys had been dully conscious of a peculiar sound in the distance, just as one sometimes is of the ticking of a clock which he takes no distinct note of.",
+  "s": "the boys",
+  "v": "had been",
+  "ko": "얼마 전부터 아이들은 저 멀리서 나는 이상한 소리를 어렴풋이 의식하고 있었다. 사람이 딱히 신경 쓰지 않는 시계의 똑딱 소리를 이따금 어렴풋이 느끼듯이 말이다.",
+  "chunks": [
+   {
+    "en": "For some time, now,",
+    "ko": "얼마 전부터",
+    "r": "시간"
+   },
+   {
+    "en": "the boys had been dully conscious of a peculiar sound",
+    "ko": "아이들은 이상한 소리를 어렴풋이 의식하고 있었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "in the distance,",
+    "ko": "저 멀리서 나는",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "just as one sometimes is",
+    "ko": "사람이 이따금 (그렇게) 의식하듯이",
+    "r": "부사절(비교, is 뒤 conscious 생략)"
+   },
+   {
+    "en": "of the ticking of a clock",
+    "ko": "시계가 똑딱거리는 소리를",
+    "r": "전치사구"
+   },
+   {
+    "en": "which he takes no distinct note of.",
+    "ko": "딱히 주의를 기울이지 않는 (시계)",
+    "r": "관계절(clock 설명)"
+   }
+  ]
+ },
+ {
+  "id": "14.13.4",
+  "en": "There were a great many skiffs rowing about or floating with the stream in the neighborhood of the ferryboat, but the boys could not determine what the men in them were doing.",
+  "s": "a great many skiffs",
+  "v": "were",
+  "ko": "나룻배 근처에는 작은 배들이 아주 많이 노를 저어 돌아다니거나 물살에 떠 있었지만, 아이들은 그 배에 탄 사람들이 무엇을 하고 있는지 알 수 없었다.",
+  "chunks": [
+   {
+    "en": "There were a great many skiffs",
+    "ko": "작은 배들이 아주 많이 있었다",
+    "r": "There + 동사 + 주어"
+   },
+   {
+    "en": "rowing about or floating with the stream",
+    "ko": "노를 저어 돌아다니거나 물살에 떠 있는 채로",
+    "r": "분사구문(skiffs 설명)"
+   },
+   {
+    "en": "in the neighborhood of the ferryboat,",
+    "ko": "나룻배 근처에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "but the boys could not determine",
+    "ko": "하지만 아이들은 알아낼 수 없었다",
+    "r": "대등절(반전)"
+   },
+   {
+    "en": "what the men in them were doing.",
+    "ko": "그 배에 탄 사람들이 무엇을 하고 있는지",
+    "r": "목적어(의문사절)"
+   }
+  ]
+ },
+ {
+  "id": "14.13.5",
+  "en": "Presently a great jet of white smoke burst from the ferryboat’s side, and as it expanded and rose in a lazy cloud, that same dull throb of sound was borne to the listeners again.",
+  "s": "a great jet of white smoke",
+  "v": "burst",
+  "ko": "이윽고 나룻배 옆구리에서 하얀 연기가 크게 뿜어져 나왔고, 그것이 퍼지며 느릿한 구름처럼 피어오를 때 그 똑같은 둔탁한 울림이 다시 아이들의 귀에 실려 왔다.",
+  "chunks": [
+   {
+    "en": "Presently a great jet of white smoke burst",
+    "ko": "이윽고 하얀 연기가 크게 뿜어져 나왔다",
+    "r": "부사 + 주어 + 동사"
+   },
+   {
+    "en": "from the ferryboat’s side,",
+    "ko": "나룻배 옆구리에서",
+    "r": "전치사구(출발점)"
+   },
+   {
+    "en": "and as it expanded and rose in a lazy cloud,",
+    "ko": "그리고 그것이 퍼지며 느릿한 구름처럼 피어오를 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "that same dull throb of sound was borne",
+    "ko": "그 똑같은 둔탁한 울림이 실려 왔다",
+    "r": "주어 + 동사(수동)"
+   },
+   {
+    "en": "to the listeners again.",
+    "ko": "듣고 있던 아이들에게 다시",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "14.15.0",
+  "en": "“That’s it!” said Huck; “they done that last summer, when Bill Turner got drownded; they shoot a cannon over the water, and that makes him come up to the top.",
+  "s": "Huck",
+  "v": "said",
+  "ko": "\"바로 그거야!\" 헉이 말했다. \"작년 여름 빌 터너가 물에 빠져 죽었을 때도 저렇게 했어. 물 위로 대포를 쏘면 그게 시체를 위로 떠오르게 만들거든.",
+  "chunks": [
+   {
+    "en": "“That’s it!” said Huck;",
+    "ko": "\"바로 그거야!\" 헉이 말했다",
+    "r": "인용(대사) + 전달동사 도치"
+   },
+   {
+    "en": "“they done that last summer,",
+    "ko": "\"작년 여름에도 저렇게 했어",
+    "r": "인용(대사)"
+   },
+   {
+    "en": "when Bill Turner got drownded;",
+    "ko": "빌 터너가 물에 빠져 죽었을 때 말이야",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "they shoot a cannon over the water,",
+    "ko": "물 위로 대포를 쏘는 거지",
+    "r": "대등절"
+   },
+   {
+    "en": "and that makes him come up to the top.",
+    "ko": "그러면 그게 시체를 물 위로 떠오르게 만들거든",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "14.15.1",
+  "en": "Yes, and they take loaves of bread and put quicksilver in ’em and set ’em afloat, and wherever there’s anybody that’s drownded, they’ll float right there and stop.”",
+  "s": "they",
+  "v": "take",
+  "ko": "\"그래, 그리고 빵 덩어리에 수은을 넣어서 물에 띄워 보내면, 물에 빠져 죽은 사람이 있는 자리마다 빵이 딱 그리로 떠가서 멈춘단 말이야.\"",
+  "chunks": [
+   {
+    "en": "Yes, and they take loaves of bread",
+    "ko": "그래, 그리고 빵 덩어리를 가져다가",
+    "r": "접속 + 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and put quicksilver in ’em",
+    "ko": "거기에 수은을 넣고",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and set ’em afloat,",
+    "ko": "물에 띄워 보내는 거야",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and wherever there’s anybody that’s drownded,",
+    "ko": "그러면 물에 빠져 죽은 사람이 있는 자리마다",
+    "r": "부사절(장소)"
+   },
+   {
+    "en": "they’ll float right there and stop.”",
+    "ko": "빵이 딱 그리로 떠가서 멈춘단 말이야",
+    "r": "주절"
+   }
+  ]
+ },
+ {
+  "id": "14.20.0",
+  "en": "The other boys agreed that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity.",
+  "s": "The other boys",
+  "v": "agreed",
+  "ko": "다른 아이들도 톰의 말에 일리가 있다고 인정했다. 주문도 듣지 못한 무지한 빵 덩어리가 그렇게 중대한 임무를 맡았을 때 아주 똑똑하게 굴 거라고 기대할 수는 없는 노릇이었으니까.",
+  "chunks": [
+   {
+    "en": "The other boys agreed",
+    "ko": "다른 아이들도 인정했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that there was reason in what Tom said,",
+    "ko": "톰의 말에 일리가 있다고",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "because an ignorant lump of bread,",
+    "ko": "왜냐하면 무지한 빵 덩어리가",
+    "r": "부사절(이유)의 주어"
+   },
+   {
+    "en": "uninstructed by an incantation,",
+    "ko": "주문도 듣지 못한 채로",
+    "r": "과거분사구(bread 수식, 삽입)"
+   },
+   {
+    "en": "could not be expected to act very intelligently",
+    "ko": "아주 똑똑하게 굴 거라고 기대할 수는 없었으니까",
+    "r": "동사(수동) + to부정사"
+   },
+   {
+    "en": "when set upon an errand of such gravity.",
+    "ko": "그렇게 중대한 심부름에 보내졌을 때",
+    "r": "부사절(때, it is 생략)"
+   }
+  ]
+ },
+ {
+  "id": "14.25.1",
+  "en": "Here was a gorgeous triumph; they were missed; they were mourned; hearts were breaking on their account; tears were being shed; accusing memories of unkindness to these poor lost lads were rising up, and unavailing regrets and remorse were being indulged; and best of all, the departed were the talk of the whole town, and the envy of all the boys, as far as this dazzling notoriety was concerned.",
+  "s": "a gorgeous triumph",
+  "v": "was",
+  "ko": "이거야말로 눈부신 승리였다. 사람들은 자기들을 그리워하고 애도하고 있었다. 자기들 때문에 가슴이 미어지고, 눈물이 흐르고, 이 불쌍한 아이들에게 모질게 굴었던 기억이 스스로를 탓하며 되살아나고, 이제 와 소용없는 후회와 자책에 빠져 있을 터였다. 무엇보다 좋은 것은, 이 눈부신 악명에 관한 한 죽은 그들이 온 마을의 화젯거리이자 모든 아이들의 부러움의 대상이라는 점이었다.",
+  "chunks": [
+   {
+    "en": "Here was a gorgeous triumph;",
+    "ko": "이거야말로 눈부신 승리였다",
+    "r": "도치(부사 Here 앞) + 동사 + 주어"
+   },
+   {
+    "en": "they were missed; they were mourned;",
+    "ko": "사람들이 자기들을 그리워하고, 애도하고 있었다",
+    "r": "대등절(수동)"
+   },
+   {
+    "en": "hearts were breaking on their account;",
+    "ko": "자기들 때문에 가슴이 미어지고 있었다",
+    "r": "대등절"
+   },
+   {
+    "en": "tears were being shed;",
+    "ko": "눈물이 흐르고 있었다",
+    "r": "대등절(수동 진행)"
+   },
+   {
+    "en": "accusing memories of unkindness to these poor lost lads",
+    "ko": "이 불쌍한 아이들에게 모질게 굴었던, 스스로를 탓하게 하는 기억들이",
+    "r": "긴 주어"
+   },
+   {
+    "en": "were rising up,",
+    "ko": "되살아나고 있었다",
+    "r": "동사"
+   },
+   {
+    "en": "and unavailing regrets and remorse were being indulged;",
+    "ko": "그리고 이제 와 소용없는 후회와 자책에 빠져들고 있었다",
+    "r": "대등절"
+   },
+   {
+    "en": "and best of all, the departed were the talk of the whole town,",
+    "ko": "무엇보다 좋은 것은, 죽은 그들이 온 마을의 화젯거리라는 점",
+    "r": "대등절"
+   },
+   {
+    "en": "and the envy of all the boys,",
+    "ko": "그리고 모든 아이들의 부러움의 대상이라는 점이었다",
+    "r": "보어(나열)"
+   },
+   {
+    "en": "as far as this dazzling notoriety was concerned.",
+    "ko": "이 눈부신 악명에 관한 한",
+    "r": "부사절(범위)"
+   }
+  ]
+ },
+ {
+  "id": "14.26.3",
+  "en": "They caught fish, cooked supper and ate it, and then fell to guessing at what the village was thinking and saying about them; and the pictures they drew of the public distress on their account were gratifying to look upon—from their point of view.",
+  "s": "They",
+  "v": "caught",
+  "ko": "그들은 물고기를 잡아 저녁을 지어 먹고는, 마을이 자기들에 대해 무슨 생각을 하고 무슨 말을 하고 있을지 짐작해 보기 시작했다. 그리고 자기들 때문에 온 마을이 괴로워하는 모습을 머릿속에 그려 보니 흐뭇하기 그지없었다—어디까지나 자기들 입장에서는.",
+  "chunks": [
+   {
+    "en": "They caught fish, cooked supper and ate it,",
+    "ko": "그들은 물고기를 잡고, 저녁을 지어 먹었다",
+    "r": "주어 + 동사 나열"
+   },
+   {
+    "en": "and then fell to guessing at",
+    "ko": "그러고는 ~을 짐작해 보기 시작했다",
+    "r": "대등 동사(fall to ~ing = ~하기 시작하다)"
+   },
+   {
+    "en": "what the village was thinking and saying about them;",
+    "ko": "마을이 자기들에 대해 무슨 생각을 하고 무슨 말을 하고 있을지",
+    "r": "목적어(의문사절)"
+   },
+   {
+    "en": "and the pictures they drew of the public distress on their account",
+    "ko": "그리고 자기들 때문에 온 마을이 괴로워하는 모습을 그려 본 그림들은",
+    "r": "대등절의 긴 주어(관계절 포함)"
+   },
+   {
+    "en": "were gratifying to look upon—from their point of view.",
+    "ko": "바라보기에 흐뭇했다—어디까지나 자기들 입장에서는",
+    "r": "동사 + 보어 + 곁말(대시)"
+   }
+  ]
+ },
+ {
+  "id": "14.27.1",
+  "en": "Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly “explained,” and was glad to get out of the scrape with as little taint of chicken-hearted home-sickness clinging to his garments as he could.",
+  "s": "Huck",
+  "v": "joined",
+  "ko": "헉은 아직 어느 편도 아니었으므로 톰 편에 붙었고, 마음이 흔들렸던 조는 얼른 \"해명\"을 하고는 겁쟁이 같은 향수병의 얼룩을 되도록 적게 묻힌 채 그 곤경에서 빠져나온 것을 다행으로 여겼다.",
+  "chunks": [
+   {
+    "en": "Huck, being uncommitted as yet,",
+    "ko": "헉은, 아직 어느 편도 아니었으므로",
+    "r": "주어 + 분사구문(이유, 삽입)"
+   },
+   {
+    "en": "joined in with Tom,",
+    "ko": "톰 편에 붙었다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "and the waverer quickly “explained,”",
+    "ko": "그러자 마음이 흔들렸던 그 아이는 얼른 \"해명\"을 했다",
+    "r": "대등절"
+   },
+   {
+    "en": "and was glad to get out of the scrape",
+    "ko": "그리고 그 곤경에서 빠져나온 것을 다행으로 여겼다",
+    "r": "대등 동사 + 보어"
+   },
+   {
+    "en": "with as little taint of chicken-hearted home-sickness",
+    "ko": "겁쟁이 같은 향수병의 얼룩을 되도록 적게 묻힌 채",
+    "r": "전치사구(as little … as)"
+   },
+   {
+    "en": "clinging to his garments as he could.",
+    "ko": "자기 옷에 달라붙게 하고서",
+    "r": "분사구문 + 비교절"
+   }
+  ]
+ },
+ {
+  "id": "14.28.5",
+  "en": "Then he knelt by the fire and painfully wrote something upon each of these with his “red keel”; one he rolled up and put in his jacket pocket, and the other he put in Joe’s hat and removed it to a little distance from the owner.",
+  "s": "he",
+  "v": "knelt",
+  "ko": "그런 다음 그는 불가에 무릎을 꿇고 그 두 장에 각각 \"붉은 초크\"로 힘겹게 무언가를 썼다. 한 장은 돌돌 말아 웃옷 주머니에 넣고, 다른 한 장은 조의 모자에 넣은 뒤 그 모자를 주인에게서 조금 떨어진 곳으로 옮겨 놓았다.",
+  "chunks": [
+   {
+    "en": "Then he knelt by the fire",
+    "ko": "그런 다음 그는 불가에 무릎을 꿇고",
+    "r": "부사 + 주어 + 동사"
+   },
+   {
+    "en": "and painfully wrote something upon each of these",
+    "ko": "그 두 장에 각각 힘겹게 무언가를 썼다",
+    "r": "대등 동사 + 목적어"
+   },
+   {
+    "en": "with his “red keel”;",
+    "ko": "자기 \"붉은 초크\"로",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "one he rolled up and put in his jacket pocket,",
+    "ko": "한 장은 돌돌 말아 웃옷 주머니에 넣었다",
+    "r": "목적어 도치 + 주어 + 동사"
+   },
+   {
+    "en": "and the other he put in Joe’s hat",
+    "ko": "다른 한 장은 조의 모자에 넣고",
+    "r": "목적어 도치 + 주어 + 동사"
+   },
+   {
+    "en": "and removed it to a little distance from the owner.",
+    "ko": "그 모자를 주인에게서 조금 떨어진 곳으로 옮겨 놓았다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "14.28.6",
+  "en": "And he also put into the hat certain schoolboy treasures of almost inestimable value—among them a lump of chalk, an India-rubber ball, three fishhooks, and one of that kind of marbles known as a “sure ’nough crystal.”",
+  "s": "he",
+  "v": "put",
+  "ko": "그리고 그는 학교 아이들에게는 값을 매길 수 없을 만큼 귀한 보물들도 모자 안에 넣어 두었다—분필 한 덩이, 고무공 하나, 낚싯바늘 세 개, 그리고 \"진짜배기 수정\"이라 불리는 종류의 구슬 하나가 그중에 있었다.",
+  "chunks": [
+   {
+    "en": "And he also put into the hat",
+    "ko": "그리고 그는 모자 안에 ~도 넣어 두었다",
+    "r": "접속 + 주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "certain schoolboy treasures of almost inestimable value—among them",
+    "ko": "값을 매길 수 없을 만큼 귀한 학교 아이들의 보물 몇 가지를—그중에는",
+    "r": "목적어(뒤로 밀림) + 곁말(대시)"
+   },
+   {
+    "en": "a lump of chalk, an India-rubber ball,",
+    "ko": "분필 한 덩이, 고무공 하나",
+    "r": "나열(예시)"
+   },
+   {
+    "en": "three fishhooks, and one of that kind of marbles",
+    "ko": "낚싯바늘 세 개, 그리고 그런 종류의 구슬 하나가 있었다",
+    "r": "나열(예시)"
+   },
+   {
+    "en": "known as a “sure ’nough crystal.”",
+    "ko": "\"진짜배기 수정\"이라고 불리는",
+    "r": "과거분사구(marbles 수식)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,860 @@
+[
+ {
+  "id": "16.1.0",
+  "en": "After breakfast they went whooping and prancing out on the bar, and chased each other round and round, shedding clothes as they went, until they were naked, and then continued the frolic far away up the shoal water of the bar, against the stiff current, which latter tripped their legs from under them from time to time and greatly increased the fun.",
+  "s": "they",
+  "v": "went",
+  "ko": "아침을 먹고 나서 그들은 함성을 지르고 껑충거리며 모래톱으로 나가 서로를 빙빙 쫓아다녔고, 달리면서 옷을 하나씩 벗어 던져 알몸이 되었다. 그러고는 모래톱의 얕은 물을 따라 저 멀리 위쪽까지, 거센 물살을 거슬러 그 장난을 이어 갔는데, 그 물살은 이따금 다리를 걷어차 넘어뜨려 오히려 재미를 한층 더해 주었다.",
+  "chunks": [
+   {
+    "en": "After breakfast they went whooping and prancing out on the bar,",
+    "ko": "아침을 먹고 나서 그들은 함성을 지르고 껑충거리며 모래톱으로 나갔다",
+    "r": "시간 + 주어 + 동사"
+   },
+   {
+    "en": "and chased each other round and round,",
+    "ko": "그리고 서로를 빙빙 쫓아다녔다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "shedding clothes as they went,",
+    "ko": "달리면서 옷을 하나씩 벗어 던지며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "until they were naked,",
+    "ko": "알몸이 될 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and then continued the frolic far away up the shoal water of the bar,",
+    "ko": "그러고는 모래톱의 얕은 물을 따라 저 멀리 위쪽까지 그 장난을 이어 갔다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "against the stiff current,",
+    "ko": "거센 물살을 거슬러",
+    "r": "전치사구"
+   },
+   {
+    "en": "which latter tripped their legs from under them from time to time",
+    "ko": "그런데 그 물살은 이따금 그들의 다리를 걷어차 넘어뜨렸고",
+    "r": "관계절(current 설명)"
+   },
+   {
+    "en": "and greatly increased the fun.",
+    "ko": "재미를 한층 더해 주었다",
+    "r": "관계절 안 대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "16.1.1",
+  "en": "And now and then they stooped in a group and splashed water in each other’s faces with their palms, gradually approaching each other, with averted faces to avoid the strangling sprays, and finally gripping and struggling till the best man ducked his neighbor, and then they all went under in a tangle of white legs and arms and came up blowing, sputtering, laughing, and gasping for breath at one and the same time.",
+  "s": "they",
+  "v": "stooped",
+  "ko": "그리고 이따금 그들은 한데 모여 몸을 숙이고는 손바닥으로 서로의 얼굴에 물을 끼얹었다. 숨 막히는 물보라를 피하려고 얼굴을 돌린 채 조금씩 서로에게 다가갔고, 마침내는 붙잡고 몸싸움을 벌이다가 가장 센 놈이 상대를 물속에 처박았다. 그러면 다들 하얀 팔다리가 뒤엉킨 채 물속으로 가라앉았다가, 물을 뿜고 푸푸거리고 웃고 숨을 헐떡이는 것을 한꺼번에 하면서 떠올랐다.",
+  "chunks": [
+   {
+    "en": "And now and then they stooped in a group",
+    "ko": "그리고 이따금 그들은 한데 모여 몸을 숙였다",
+    "r": "접속 + 주어 + 동사"
+   },
+   {
+    "en": "and splashed water in each other’s faces with their palms,",
+    "ko": "그리고 손바닥으로 서로의 얼굴에 물을 끼얹었다",
+    "r": "대등 동사 + 목적어"
+   },
+   {
+    "en": "gradually approaching each other,",
+    "ko": "조금씩 서로에게 다가가면서",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "with averted faces to avoid the strangling sprays,",
+    "ko": "숨 막히는 물보라를 피하려고 얼굴을 돌린 채",
+    "r": "전치사구(부대상황)"
+   },
+   {
+    "en": "and finally gripping and struggling",
+    "ko": "그러다 마침내 붙잡고 몸싸움을 벌이며",
+    "r": "분사구문(나열)"
+   },
+   {
+    "en": "till the best man ducked his neighbor,",
+    "ko": "가장 센 놈이 상대를 물속에 처박을 때까지",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and then they all went under in a tangle of white legs and arms",
+    "ko": "그러면 다들 하얀 팔다리가 뒤엉킨 채 물속으로 가라앉았다가",
+    "r": "대등절"
+   },
+   {
+    "en": "and came up blowing, sputtering, laughing,",
+    "ko": "물을 뿜고 푸푸거리고 웃으며 떠올랐다",
+    "r": "대등 동사 + 분사구문"
+   },
+   {
+    "en": "and gasping for breath at one and the same time.",
+    "ko": "그리고 그 모든 걸 한꺼번에 하면서 숨을 헐떡였다",
+    "r": "분사구문(나열)"
+   }
+  ]
+ },
+ {
+  "id": "16.2.0",
+  "en": "When they were well exhausted, they would run out and sprawl on the dry, hot sand, and lie there and cover themselves up with it, and by and by break for the water again and go through the original performance once more.",
+  "s": "they",
+  "v": "would run",
+  "ko": "완전히 지치면 그들은 물 밖으로 뛰어나와 마르고 뜨거운 모래 위에 큰대자로 드러누워 몸을 모래로 덮곤 했고, 이윽고 다시 물로 달려들어 처음의 그 놀이를 한 번 더 되풀이하곤 했다.",
+  "chunks": [
+   {
+    "en": "When they were well exhausted,",
+    "ko": "완전히 지치면",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "they would run out and sprawl on the dry, hot sand,",
+    "ko": "그들은 뛰어나와 마르고 뜨거운 모래 위에 큰대자로 드러눕곤 했다",
+    "r": "주어 + 동사(would = ~하곤 했다)"
+   },
+   {
+    "en": "and lie there and cover themselves up with it,",
+    "ko": "그리고 거기 누워 모래로 몸을 덮었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and by and by break for the water again",
+    "ko": "그러다 이윽고 다시 물로 냅다 달려가",
+    "r": "대등 동사"
+   },
+   {
+    "en": "and go through the original performance once more.",
+    "ko": "처음의 그 놀이를 한 번 더 되풀이했다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "16.2.1",
+  "en": "Finally it occurred to them that their naked skin represented flesh-colored “tights” very fairly; so they drew a ring in the sand and had a circus—with three clowns in it, for none would yield this proudest post to his neighbor.",
+  "s": "it",
+  "v": "occurred",
+  "ko": "마침내 그들은 자기들의 맨살이 살색 '타이츠'와 아주 그럴듯하게 닮았다는 데 생각이 미쳤다. 그래서 모래에 원을 그려 서커스를 벌였는데—광대가 셋이었다. 아무도 이 가장 자랑스러운 자리를 남에게 양보하려 들지 않았기 때문이다.",
+  "chunks": [
+   {
+    "en": "Finally it occurred to them",
+    "ko": "마침내 그들에게 이런 생각이 떠올랐다",
+    "r": "부사 + 가주어 + 동사"
+   },
+   {
+    "en": "that their naked skin represented flesh-colored “tights” very fairly;",
+    "ko": "자기들의 맨살이 살색 '타이츠'와 아주 그럴듯하게 닮았다는 생각이",
+    "r": "진주어(that절)"
+   },
+   {
+    "en": "so they drew a ring in the sand",
+    "ko": "그래서 그들은 모래에 원을 그리고",
+    "r": "대등절(결과)"
+   },
+   {
+    "en": "and had a circus—with three clowns in it,",
+    "ko": "서커스를 벌였다—광대가 셋인 서커스를",
+    "r": "대등 동사 + 곁말(대시 삽입)"
+   },
+   {
+    "en": "for none would yield this proudest post to his neighbor.",
+    "ko": "아무도 이 가장 자랑스러운 자리를 남에게 양보하려 들지 않았기 때문이다",
+    "r": "부사절(이유, for=because)"
+   }
+  ]
+ },
+ {
+  "id": "16.3.1",
+  "en": "Then Joe and Huck had another swim, but Tom would not venture, because he found that in kicking off his trousers he had kicked his string of rattlesnake rattles off his ankle, and he wondered how he had escaped cramp so long without the protection of this mysterious charm.",
+  "s": "Joe and Huck",
+  "v": "had",
+  "ko": "그다음 조와 헉은 한 번 더 헤엄을 쳤지만 톰은 감히 들어가지 못했다. 바지를 차서 벗다가 발목에 매어 둔 방울뱀 방울 꾸러미까지 차서 떨어뜨렸다는 걸 알아차렸기 때문이다. 그러면서 이 신비한 부적의 보호도 없이 어떻게 그토록 오래 쥐가 나지 않았는지 의아해했다.",
+  "chunks": [
+   {
+    "en": "Then Joe and Huck had another swim,",
+    "ko": "그다음 조와 헉은 한 번 더 헤엄을 쳤다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "but Tom would not venture,",
+    "ko": "하지만 톰은 감히 들어가려 하지 않았다",
+    "r": "대등절(반전)"
+   },
+   {
+    "en": "because he found that in kicking off his trousers",
+    "ko": "바지를 차서 벗다가",
+    "r": "부사절(이유) + 목적어(that절) 시작"
+   },
+   {
+    "en": "he had kicked his string of rattlesnake rattles off his ankle,",
+    "ko": "발목에 매어 둔 방울뱀 방울 꾸러미까지 차서 떨어뜨렸다는 걸 알았기 때문이다",
+    "r": "that절 주어 + 동사"
+   },
+   {
+    "en": "and he wondered how he had escaped cramp so long",
+    "ko": "그러면서 어떻게 그토록 오래 쥐가 나지 않았는지 의아해했다",
+    "r": "대등절 + 목적어(의문사절)"
+   },
+   {
+    "en": "without the protection of this mysterious charm.",
+    "ko": "이 신비한 부적의 보호도 없이",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "16.28.1",
+  "en": "When he got to where they were, he began unfolding his secret, and they listened moodily till at last they saw the “point” he was driving at, and then they set up a warwhoop of applause and said it was “splendid!” and said if he had told them at first, they wouldn’t have started away.",
+  "s": "he",
+  "v": "began",
+  "ko": "톰이 그들이 있는 곳까지 오자 그는 비밀을 털어놓기 시작했고, 그들은 시무룩하게 듣고 있다가 마침내 그가 겨누고 있던 '핵심'을 알아차렸다. 그러자 갈채의 함성을 질러 대며 '기막히다!'고 했고, 처음부터 말해 줬더라면 떠나지 않았을 거라고 했다.",
+  "chunks": [
+   {
+    "en": "When he got to where they were,",
+    "ko": "톰이 그들이 있는 곳까지 오자",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "he began unfolding his secret,",
+    "ko": "그는 비밀을 털어놓기 시작했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and they listened moodily",
+    "ko": "그리고 그들은 시무룩하게 듣고 있다가",
+    "r": "대등절"
+   },
+   {
+    "en": "till at last they saw the “point” he was driving at,",
+    "ko": "마침내 그가 겨누고 있던 '핵심'을 알아차렸다",
+    "r": "부사절(때) + 관계절"
+   },
+   {
+    "en": "and then they set up a warwhoop of applause",
+    "ko": "그러자 그들은 갈채의 함성을 질러 댔고",
+    "r": "대등절"
+   },
+   {
+    "en": "and said it was “splendid!”",
+    "ko": "'기막히다!'고 했다",
+    "r": "대등 동사 + 목적어(인용)"
+   },
+   {
+    "en": "and said if he had told them at first,",
+    "ko": "그리고 만약 처음부터 말해 줬더라면",
+    "r": "대등 동사 + 부사절(가정)"
+   },
+   {
+    "en": "they wouldn’t have started away.",
+    "ko": "떠나지 않았을 거라고 했다",
+    "r": "가정법 귀결절"
+   }
+  ]
+ },
+ {
+  "id": "16.28.2",
+  "en": "He made a plausible excuse; but his real reason had been the fear that not even the secret would keep them with him any very great length of time, and so he had meant to hold it in reserve as a last seduction.",
+  "s": "He",
+  "v": "made",
+  "ko": "그는 그럴듯한 핑계를 댔다. 하지만 진짜 이유는, 그 비밀조차도 아이들을 아주 오랫동안 자기 곁에 붙들어 두지는 못하리라는 두려움이었다. 그래서 그것을 마지막 유혹거리로 아껴 두려 했던 것이다.",
+  "chunks": [
+   {
+    "en": "He made a plausible excuse;",
+    "ko": "그는 그럴듯한 핑계를 댔다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "but his real reason had been the fear",
+    "ko": "하지만 진짜 이유는 이런 두려움이었다",
+    "r": "대등절 + 보어"
+   },
+   {
+    "en": "that not even the secret would keep them with him",
+    "ko": "그 비밀조차도 아이들을 자기 곁에 붙들어 두지는 못하리라는",
+    "r": "동격절(fear 설명)"
+   },
+   {
+    "en": "any very great length of time,",
+    "ko": "아주 오랫동안은",
+    "r": "부사구(기간)"
+   },
+   {
+    "en": "and so he had meant to hold it in reserve",
+    "ko": "그래서 그는 그것을 아껴 두려고 했던 것이다",
+    "r": "대등절"
+   },
+   {
+    "en": "as a last seduction.",
+    "ko": "마지막 유혹거리로",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "16.29.0",
+  "en": "The lads came gayly back and went at their sports again with a will, chattering all the time about Tom’s stupendous plan and admiring the genius of it.",
+  "s": "The lads",
+  "v": "came",
+  "ko": "아이들은 신이 나서 돌아와 다시 신나게 놀이에 몰두했다. 그러는 내내 톰의 굉장한 계획에 대해 재잘거리며 그 기발함에 감탄하면서.",
+  "chunks": [
+   {
+    "en": "The lads came gayly back",
+    "ko": "아이들은 신이 나서 돌아왔다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and went at their sports again with a will,",
+    "ko": "그리고 다시 열심히 놀이에 달려들었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "chattering all the time about Tom’s stupendous plan",
+    "ko": "그러는 내내 톰의 굉장한 계획에 대해 재잘거리며",
+    "r": "분사구문(~하면서)"
+   },
+   {
+    "en": "and admiring the genius of it.",
+    "ko": "그 기발함에 감탄하면서",
+    "r": "분사구문(나열)"
+   }
+  ]
+ },
+ {
+  "id": "16.50.3",
+  "en": "Every pore inside the boys’ cheeks became a spouting fountain; they could scarcely bail out the cellars under their tongues fast enough to prevent an inundation; little overflowings down their throats occurred in spite of all they could do, and sudden retchings followed every time.",
+  "s": "Every pore inside the boys’ cheeks",
+  "v": "became",
+  "ko": "아이들의 볼 안쪽 땀구멍마다 침이 솟는 샘이 되었다. 혀 밑에 고이는 침을 홍수가 나지 않을 만큼 빨리 퍼내기도 힘들었고, 아무리 애를 써도 조금씩 목구멍으로 넘어갔으며, 그때마다 갑자기 구역질이 났다.",
+  "chunks": [
+   {
+    "en": "Every pore inside the boys’ cheeks became a spouting fountain;",
+    "ko": "아이들의 볼 안쪽 땀구멍마다 물이 솟는 샘이 되었다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "they could scarcely bail out the cellars under their tongues",
+    "ko": "그들은 혀 밑 웅덩이의 물을 퍼내기도 힘들었다",
+    "r": "대등절"
+   },
+   {
+    "en": "fast enough to prevent an inundation;",
+    "ko": "홍수가 나지 않을 만큼 빠르게는",
+    "r": "부사(정도) + to부정사"
+   },
+   {
+    "en": "little overflowings down their throats occurred",
+    "ko": "목구멍으로 조금씩 넘어가는 일이 생겼다",
+    "r": "대등절 주어 + 동사"
+   },
+   {
+    "en": "in spite of all they could do,",
+    "ko": "아무리 애를 써도",
+    "r": "전치사구(양보)"
+   },
+   {
+    "en": "and sudden retchings followed every time.",
+    "ko": "그리고 그때마다 갑자기 구역질이 뒤따랐다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "16.55.1",
+  "en": "They had a humble look, and when Huck prepared his pipe after the meal and was going to prepare theirs, they said no, they were not feeling very well—something they ate at dinner had disagreed with them.",
+  "s": "They",
+  "v": "had",
+  "ko": "그들은 풀이 죽은 모습이었다. 식사 뒤 헉이 자기 파이프를 채우고 그들 것도 채워 주려 하자, 그들은 됐다고, 몸이 별로 좋지 않다고 했다—점심에 먹은 뭔가가 탈이 난 것 같다면서.",
+  "chunks": [
+   {
+    "en": "They had a humble look,",
+    "ko": "그들은 풀이 죽은 모습이었다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and when Huck prepared his pipe after the meal",
+    "ko": "그리고 식사 뒤 헉이 자기 파이프를 준비하고",
+    "r": "대등 + 부사절(때)"
+   },
+   {
+    "en": "and was going to prepare theirs,",
+    "ko": "그들 것도 준비해 주려고 하자",
+    "r": "부사절 안 대등 동사"
+   },
+   {
+    "en": "they said no,",
+    "ko": "그들은 됐다고 했다",
+    "r": "주절(주어 + 동사)"
+   },
+   {
+    "en": "they were not feeling very well—something they ate at dinner",
+    "ko": "몸이 별로 좋지 않다면서—점심에 먹은 뭔가가",
+    "r": "전달 내용 + 곁말(대시) 주어"
+   },
+   {
+    "en": "had disagreed with them.",
+    "ko": "탈이 난 모양이라고 했다",
+    "r": "곁말 절의 동사"
+   }
+  ]
+ },
+ {
+  "id": "16.56.9",
+  "en": "Then a faint moan came sighing through the branches of the forest and the boys felt a fleeting breath upon their cheeks, and shuddered with the fancy that the Spirit of the Night had gone by.",
+  "s": "a faint moan",
+  "v": "came",
+  "ko": "이윽고 희미한 신음 소리가 숲의 나뭇가지 사이로 한숨처럼 흘러왔고, 아이들은 뺨에 스치는 숨결을 느끼고는 밤의 정령이 지나갔다는 상상에 몸을 떨었다.",
+  "chunks": [
+   {
+    "en": "Then a faint moan came sighing",
+    "ko": "이윽고 희미한 신음 소리가 한숨처럼 흘러왔다",
+    "r": "부사 + 주어 + 동사 + 분사(모양)"
+   },
+   {
+    "en": "through the branches of the forest",
+    "ko": "숲의 나뭇가지 사이로",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "and the boys felt a fleeting breath upon their cheeks,",
+    "ko": "그리고 아이들은 뺨에 스치는 숨결을 느꼈다",
+    "r": "대등절"
+   },
+   {
+    "en": "and shuddered with the fancy",
+    "ko": "그리고 이런 상상에 몸을 떨었다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "that the Spirit of the Night had gone by.",
+    "ko": "밤의 정령이 지나갔다는",
+    "r": "동격절(fancy 설명)"
+   }
+  ]
+ },
+ {
+  "id": "16.58.5",
+  "en": "However, one by one they straggled in at last and took shelter under the tent, cold, scared, and streaming with water; but to have company in misery seemed something to be grateful for.",
+  "s": "they",
+  "v": "straggled",
+  "ko": "그래도 결국 하나씩 하나씩 비틀거리며 모여들어 천막 밑으로 몸을 피했다. 춥고 겁에 질린 채 물을 뚝뚝 흘리면서. 하지만 비참함을 함께 나눌 동무가 있다는 것은 그래도 고마운 일 같았다.",
+  "chunks": [
+   {
+    "en": "However, one by one they straggled in at last",
+    "ko": "그래도 결국 하나씩 하나씩 비틀거리며 모여들어",
+    "r": "접속부사 + 주어 + 동사"
+   },
+   {
+    "en": "and took shelter under the tent,",
+    "ko": "천막 밑으로 몸을 피했다",
+    "r": "대등 동사"
+   },
+   {
+    "en": "cold, scared, and streaming with water;",
+    "ko": "춥고 겁에 질린 채 물을 뚝뚝 흘리면서",
+    "r": "보어(주어의 상태)"
+   },
+   {
+    "en": "but to have company in misery",
+    "ko": "하지만 비참함을 함께 나눌 동무가 있다는 것은",
+    "r": "대등절 주어(to부정사)"
+   },
+   {
+    "en": "seemed something to be grateful for.",
+    "ko": "그래도 고마운 일 같았다",
+    "r": "동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "16.58.10",
+  "en": "Under the ceaseless conflagration of lightning that flamed in the skies, everything below stood out in cleancut and shadowless distinctness: the bending trees, the billowy river, white with foam, the driving spray of spumeflakes, the dim outlines of the high bluffs on the other side, glimpsed through the drifting cloudrack and the slanting veil of rain.",
+  "s": "everything below",
+  "v": "stood out",
+  "ko": "하늘에서 타오르는 끊임없는 번개의 불길 아래, 아래쪽 모든 것이 그림자 하나 없이 칼로 자른 듯 또렷하게 드러났다. 휘어지는 나무들, 하얗게 거품이 이는 넘실대는 강물, 휘몰아치는 물거품의 물보라, 그리고 떠도는 구름 조각과 비스듬히 드리운 빗줄기 사이로 언뜻언뜻 보이는 건너편 높은 절벽의 흐릿한 윤곽.",
+  "chunks": [
+   {
+    "en": "Under the ceaseless conflagration of lightning",
+    "ko": "끊임없이 타오르는 번개의 불길 아래",
+    "r": "전치사구(상황)"
+   },
+   {
+    "en": "that flamed in the skies,",
+    "ko": "하늘에서 활활 타오르던",
+    "r": "관계절(conflagration 설명)"
+   },
+   {
+    "en": "everything below stood out",
+    "ko": "아래쪽 모든 것이 또렷하게 드러났다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "in cleancut and shadowless distinctness:",
+    "ko": "그림자 하나 없이 칼로 자른 듯 선명하게",
+    "r": "전치사구(방식) + 콜론"
+   },
+   {
+    "en": "the bending trees, the billowy river, white with foam,",
+    "ko": "휘어지는 나무들, 하얗게 거품이 이는 넘실대는 강물",
+    "r": "나열(콜론 뒤 목록)"
+   },
+   {
+    "en": "the driving spray of spumeflakes,",
+    "ko": "휘몰아치는 물거품의 물보라",
+    "r": "나열"
+   },
+   {
+    "en": "the dim outlines of the high bluffs on the other side,",
+    "ko": "건너편 높은 절벽의 흐릿한 윤곽",
+    "r": "나열"
+   },
+   {
+    "en": "glimpsed through the drifting cloudrack and the slanting veil of rain.",
+    "ko": "떠도는 구름 조각과 비스듬히 드리운 빗줄기 사이로 언뜻 보이는",
+    "r": "과거분사구(outlines 수식)"
+   }
+  ]
+ },
+ {
+  "id": "16.58.11",
+  "en": "Every little while some giant tree yielded the fight and fell crashing through the younger growth; and the unflagging thunderpeals came now in ear-splitting explosive bursts, keen and sharp, and unspeakably appalling.",
+  "s": "some giant tree",
+  "v": "yielded",
+  "ko": "이따금 거대한 나무 하나가 싸움에 굴복해 어린 나무들을 부수며 쓰러졌다. 그리고 지칠 줄 모르는 천둥소리가 이제는 귀청이 찢어질 듯한 폭발음으로, 날카롭고 예리하게, 이루 말할 수 없이 무섭게 터져 나왔다.",
+  "chunks": [
+   {
+    "en": "Every little while some giant tree yielded the fight",
+    "ko": "이따금 거대한 나무 하나가 싸움에 굴복해",
+    "r": "시간 + 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and fell crashing through the younger growth;",
+    "ko": "어린 나무들을 부수며 요란하게 쓰러졌다",
+    "r": "대등 동사 + 분사(모양)"
+   },
+   {
+    "en": "and the unflagging thunderpeals came now",
+    "ko": "그리고 지칠 줄 모르는 천둥소리가 이제는 터져 나왔다",
+    "r": "대등절"
+   },
+   {
+    "en": "in ear-splitting explosive bursts, keen and sharp,",
+    "ko": "귀청이 찢어질 듯한 폭발음으로, 날카롭고 예리하게",
+    "r": "전치사구 + 형용사(bursts 설명)"
+   },
+   {
+    "en": "and unspeakably appalling.",
+    "ko": "그리고 이루 말할 수 없이 무섭게",
+    "r": "형용사(나열)"
+   }
+  ]
+ },
+ {
+  "id": "16.58.12",
+  "en": "The storm culminated in one matchless effort that seemed likely to tear the island to pieces, burn it up, drown it to the treetops, blow it away, and deafen every creature in it, all at one and the same moment.",
+  "s": "The storm",
+  "v": "culminated",
+  "ko": "폭풍은 마침내 비할 데 없는 한 방으로 절정에 이르렀는데, 그 한 방은 섬을 갈가리 찢고, 불태우고, 나무 꼭대기까지 물에 잠기게 하고, 날려 버리고, 섬 안의 모든 생물의 귀를 먹먹하게 만들 것만 같았다. 그것도 전부 같은 순간에 말이다.",
+  "chunks": [
+   {
+    "en": "The storm culminated in one matchless effort",
+    "ko": "폭풍은 비할 데 없는 한 방으로 절정에 이르렀다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "that seemed likely to tear the island to pieces,",
+    "ko": "그 한 방은 섬을 갈가리 찢어 놓을 것만 같았고",
+    "r": "관계절(effort 설명) + to부정사"
+   },
+   {
+    "en": "burn it up, drown it to the treetops,",
+    "ko": "불태워 버리고, 나무 꼭대기까지 물에 잠기게 하고",
+    "r": "to부정사 나열"
+   },
+   {
+    "en": "blow it away,",
+    "ko": "날려 버리고",
+    "r": "to부정사 나열"
+   },
+   {
+    "en": "and deafen every creature in it,",
+    "ko": "섬 안의 모든 생물의 귀를 먹먹하게 만들 것 같았다",
+    "r": "to부정사 나열"
+   },
+   {
+    "en": "all at one and the same moment.",
+    "ko": "그것도 전부 같은 순간에",
+    "r": "부사구(동시에)"
+   }
+  ]
+ },
+ {
+  "id": "16.59.1",
+  "en": "The boys went back to camp, a good deal awed; but they found there was still something to be thankful for, because the great sycamore, the shelter of their beds, was a ruin, now, blasted by the lightnings, and they were not under it when the catastrophe happened.",
+  "s": "The boys",
+  "v": "went",
+  "ko": "아이들은 잔뜩 겁을 먹은 채 야영지로 돌아왔다. 하지만 그래도 감사할 일이 하나 있다는 것을 알게 되었다. 잠자리를 덮어 주던 그 커다란 플라타너스가 벼락을 맞아 폐허가 되어 있었는데, 그 참사가 벌어졌을 때 그들은 마침 그 아래에 없었던 것이다.",
+  "chunks": [
+   {
+    "en": "The boys went back to camp, a good deal awed;",
+    "ko": "아이들은 잔뜩 겁을 먹은 채 야영지로 돌아왔다",
+    "r": "주어 + 동사 + 보어(상태)"
+   },
+   {
+    "en": "but they found there was still something to be thankful for,",
+    "ko": "하지만 그래도 감사할 일이 하나 있다는 것을 알게 되었다",
+    "r": "대등절 + 목적어(that 생략)"
+   },
+   {
+    "en": "because the great sycamore, the shelter of their beds,",
+    "ko": "잠자리를 덮어 주던 그 커다란 플라타너스가",
+    "r": "부사절(이유) 주어 + 동격"
+   },
+   {
+    "en": "was a ruin, now, blasted by the lightnings,",
+    "ko": "이제 벼락을 맞아 폐허가 되어 있었고",
+    "r": "동사 + 보어 + 과거분사구"
+   },
+   {
+    "en": "and they were not under it when the catastrophe happened.",
+    "ko": "그 참사가 벌어졌을 때 그들은 그 아래에 없었기 때문이다",
+    "r": "대등절 + 부사절(때)"
+   }
+  ]
+ },
+ {
+  "id": "16.60.2",
+  "en": "They were eloquent in their distress; but they presently discovered that the fire had eaten so far up under the great log it had been built against (where it curved upward and separated itself from the ground), that a handbreadth or so of it had escaped wetting; so they patiently wrought until, with shreds and bark gathered from the under sides of sheltered logs, they coaxed the fire to burn again.",
+  "s": "They",
+  "v": "were",
+  "ko": "그들은 비참한 처지를 두고 온갖 말을 쏟아냈다. 하지만 곧 알게 되었다. 불이 기대어 피워 놓았던 커다란 통나무 아래쪽까지 깊이 파고 들어가 있어서(통나무가 위로 휘어 땅에서 떨어진 부분이었다), 손바닥만 한 자리가 젖지 않고 남아 있었던 것이다. 그래서 그들은 끈기 있게 애를 썼고, 비를 피한 통나무 아랫면에서 긁어모은 나뭇조각과 껍질로 마침내 불을 되살렸다.",
+  "chunks": [
+   {
+    "en": "They were eloquent in their distress;",
+    "ko": "그들은 비참한 처지를 두고 온갖 말을 쏟아냈다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "but they presently discovered that the fire had eaten so far up",
+    "ko": "하지만 곧 알게 되었다, 불이 그토록 깊이 파고 들어가 있었다는 것을",
+    "r": "대등절 + 목적어(that절)"
+   },
+   {
+    "en": "under the great log it had been built against",
+    "ko": "불을 기대어 피워 놓았던 커다란 통나무 아래쪽으로",
+    "r": "전치사구 + 관계절(log 설명)"
+   },
+   {
+    "en": "(where it curved upward and separated itself from the ground),",
+    "ko": "(통나무가 위로 휘어 땅에서 떨어진 부분이었다)",
+    "r": "곁말(괄호 삽입)"
+   },
+   {
+    "en": "that a handbreadth or so of it had escaped wetting;",
+    "ko": "그 결과 손바닥만 한 자리가 젖지 않고 남아 있었다는 것을",
+    "r": "결과절(so … that)"
+   },
+   {
+    "en": "so they patiently wrought until,",
+    "ko": "그래서 그들은 끈기 있게 애를 썼고, 마침내",
+    "r": "대등절 + 부사절(때) 시작"
+   },
+   {
+    "en": "with shreds and bark gathered from the under sides of sheltered logs,",
+    "ko": "비를 피한 통나무 아랫면에서 긁어모은 나뭇조각과 껍질로",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "they coaxed the fire to burn again.",
+    "ko": "불을 어르고 달래 다시 타오르게 했다",
+    "r": "부사절 주어 + 동사"
+   }
+  ]
+ },
+ {
+  "id": "16.60.4",
+  "en": "They dried their boiled ham and had a feast, and after that they sat by the fire and expanded and glorified their midnight adventure until morning, for there was not a dry spot to sleep on, anywhere around.",
+  "s": "They",
+  "v": "dried",
+  "ko": "그들은 삶은 햄을 말려 잔치를 벌였고, 그러고 나서는 불가에 앉아 아침이 될 때까지 한밤중의 모험을 부풀리고 미화했다. 주위 어디에도 잠을 잘 만한 마른 자리가 없었기 때문이다.",
+  "chunks": [
+   {
+    "en": "They dried their boiled ham and had a feast,",
+    "ko": "그들은 삶은 햄을 말려 잔치를 벌였다",
+    "r": "주어 + 동사(나열) + 목적어"
+   },
+   {
+    "en": "and after that they sat by the fire",
+    "ko": "그러고 나서는 불가에 앉아",
+    "r": "대등절 + 시간"
+   },
+   {
+    "en": "and expanded and glorified their midnight adventure until morning,",
+    "ko": "아침이 될 때까지 한밤중의 모험을 부풀리고 미화했다",
+    "r": "대등 동사 + 목적어"
+   },
+   {
+    "en": "for there was not a dry spot to sleep on,",
+    "ko": "잠을 잘 만한 마른 자리가 없었기 때문이다",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "anywhere around.",
+    "ko": "주위 어디에도",
+    "r": "부사(장소)"
+   }
+  ]
+ },
+ {
+  "id": "16.61.8",
+  "en": "They were attracted by this idea; so it was not long before they were stripped, and striped from head to heel with black mud, like so many zebras—all of them chiefs, of course—and then they went tearing through the woods to attack an English settlement.",
+  "s": "They",
+  "v": "were attracted",
+  "ko": "그들은 이 생각에 끌렸다. 그래서 얼마 안 가 옷을 다 벗고 머리끝부터 발끝까지 검은 진흙으로 줄무늬를 그려 넣어 꼭 얼룩말 떼처럼 되었다—물론 전부 다 추장이었다—그러고는 영국인 정착촌을 습격하러 숲속을 내달렸다.",
+  "chunks": [
+   {
+    "en": "They were attracted by this idea;",
+    "ko": "그들은 이 생각에 끌렸다",
+    "r": "주어 + 동사(수동) + 전치사구"
+   },
+   {
+    "en": "so it was not long before they were stripped,",
+    "ko": "그래서 얼마 안 가 옷을 다 벗었고",
+    "r": "대등절(it was not long before = 얼마 안 가)"
+   },
+   {
+    "en": "and striped from head to heel with black mud,",
+    "ko": "머리끝부터 발끝까지 검은 진흙으로 줄무늬를 그려 넣었다",
+    "r": "대등 동사(수동)"
+   },
+   {
+    "en": "like so many zebras—all of them chiefs,",
+    "ko": "꼭 얼룩말 떼처럼—게다가 전부 다 추장이었다",
+    "r": "비유 + 곁말(대시 삽입)"
+   },
+   {
+    "en": "of course—and then they went tearing through the woods",
+    "ko": "물론 그렇고말고—그러고는 숲속을 내달렸다",
+    "r": "곁말 끝 + 대등절"
+   },
+   {
+    "en": "to attack an English settlement.",
+    "ko": "영국인 정착촌을 습격하러",
+    "r": "목적(to부정사)"
+   }
+  ]
+ },
+ {
+  "id": "16.63.0",
+  "en": "They assembled in camp toward suppertime, hungry and happy; but now a difficulty arose—hostile Indians could not break the bread of hospitality together without first making peace, and this was a simple impossibility without smoking a pipe of peace.",
+  "s": "They",
+  "v": "assembled",
+  "ko": "그들은 저녁 무렵 배고프고 신이 나서 야영지에 모였다. 그런데 이제 문제가 하나 생겼다—적대적인 인디언끼리는 먼저 화해하지 않고서는 함께 빵을 나눠 먹을 수 없는데, 그 화해란 평화의 담뱃대를 피우지 않고서는 도저히 불가능한 일이었던 것이다.",
+  "chunks": [
+   {
+    "en": "They assembled in camp toward suppertime, hungry and happy;",
+    "ko": "그들은 저녁 무렵 배고프고 신이 난 채 야영지에 모였다",
+    "r": "주어 + 동사 + 보어(상태)"
+   },
+   {
+    "en": "but now a difficulty arose—hostile Indians could not break",
+    "ko": "그런데 이제 문제가 하나 생겼다—적대적인 인디언끼리는 나눌 수 없다는 것",
+    "r": "대등절 + 곁말(대시 뒤 설명)"
+   },
+   {
+    "en": "the bread of hospitality together without first making peace,",
+    "ko": "먼저 화해하지 않고서는 함께 우정의 빵을",
+    "r": "목적어 + 전치사구(조건)"
+   },
+   {
+    "en": "and this was a simple impossibility",
+    "ko": "그런데 그 화해라는 것이 아예 불가능한 일이었다",
+    "r": "대등절"
+   },
+   {
+    "en": "without smoking a pipe of peace.",
+    "ko": "평화의 담뱃대를 피우지 않고서는",
+    "r": "전치사구(조건)"
+   }
+  ]
+ },
+ {
+  "id": "16.63.3",
+  "en": "However, there was no other way; so with such show of cheerfulness as they could muster they called for the pipe and took their whiff as it passed, in due form.",
+  "s": "there",
+  "v": "was",
+  "ko": "하지만 달리 방법이 없었다. 그래서 그들은 애써 짜낼 수 있는 만큼의 쾌활한 표정을 지으며 담뱃대를 청했고, 그것이 돌아올 때마다 격식에 맞게 한 모금씩 빨았다.",
+  "chunks": [
+   {
+    "en": "However, there was no other way;",
+    "ko": "하지만 달리 방법이 없었다",
+    "r": "접속부사 + There was 구문"
+   },
+   {
+    "en": "so with such show of cheerfulness as they could muster",
+    "ko": "그래서 그들이 애써 짜낼 수 있는 만큼의 쾌활한 표정을 지으며",
+    "r": "전치사구(방식) + 관계절"
+   },
+   {
+    "en": "they called for the pipe",
+    "ko": "그들은 담뱃대를 청했고",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and took their whiff as it passed,",
+    "ko": "그것이 돌아올 때마다 한 모금씩 빨았다",
+    "r": "대등 동사 + 부사절(때)"
+   },
+   {
+    "en": "in due form.",
+    "ko": "격식에 맞게",
+    "r": "전치사구(방식)"
+   }
+  ]
+ },
+ {
+  "id": "16.64.0",
+  "en": "And behold, they were glad they had gone into savagery, for they had gained something; they found that they could now smoke a little without having to go and hunt for a lost knife; they did not get sick enough to be seriously uncomfortable.",
+  "s": "they",
+  "v": "were",
+  "ko": "그런데 놀랍게도, 그들은 야만인 놀이를 하기로 한 것이 다행이라고 여겼다. 얻은 것이 있었기 때문이다. 이제는 잃어버린 칼을 찾으러 자리를 뜨지 않고도 담배를 조금은 피울 수 있다는 것을 알게 된 것이다. 심하게 불편할 만큼 속이 울렁거리지도 않았다.",
+  "chunks": [
+   {
+    "en": "And behold, they were glad",
+    "ko": "그런데 보라, 그들은 다행이라고 여겼다",
+    "r": "접속 + 감탄 + 주어 + 동사 + 보어"
+   },
+   {
+    "en": "they had gone into savagery,",
+    "ko": "야만인 놀이로 갈아탄 것을",
+    "r": "이유절(that 생략)"
+   },
+   {
+    "en": "for they had gained something;",
+    "ko": "얻은 것이 있었기 때문이다",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "they found that they could now smoke a little",
+    "ko": "이제는 담배를 조금 피울 수 있다는 것을 알게 된 것이다",
+    "r": "대등절 + 목적어(that절)"
+   },
+   {
+    "en": "without having to go and hunt for a lost knife;",
+    "ko": "잃어버린 칼을 찾으러 자리를 뜨지 않고도",
+    "r": "전치사구(~하지 않고도)"
+   },
+   {
+    "en": "they did not get sick enough to be seriously uncomfortable.",
+    "ko": "심하게 불편할 만큼 속이 울렁거리지는 않았다",
+    "r": "대등절"
+   }
+  ]
+ }
+]

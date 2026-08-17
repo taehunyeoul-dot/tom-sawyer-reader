@@ -1,0 +1,363 @@
+[
+ {
+  "id": "33.1.1",
+  "en": "Injun Joe lay stretched upon the ground, dead, with his face close to the crack of the door, as if his longing eyes had been fixed, to the latest moment, upon the light and the cheer of the free world outside.",
+  "s": "Injun Joe",
+  "v": "lay",
+  "chunks": [
+   {"en": "Injun Joe lay stretched upon the ground, dead,", "ko": "인전 조가 땅바닥에 죽어 뻗어 있었다", "r": "주어 + 동사 + 보어"},
+   {"en": "with his face close to the crack of the door,", "ko": "얼굴을 문틈에 바짝 댄 채로", "r": "전치사구(with + 명사 + 상태)"},
+   {"en": "as if his longing eyes had been fixed,", "ko": "마치 그 갈망하는 두 눈이 붙박여 있었던 것처럼", "r": "부사절(마치 ~인 듯)"},
+   {"en": "to the latest moment,", "ko": "마지막 순간까지", "r": "삽입(시간)"},
+   {"en": "upon the light and the cheer of the free world outside.", "ko": "바깥 자유로운 세상의 빛과 활기에", "r": "전치사구(fixed upon ~)"}
+  ],
+  "ko": "인전 조는 얼굴을 문틈에 바짝 댄 채 땅바닥에 죽어 뻗어 있었다. 마치 그 갈망하는 두 눈이 마지막 순간까지 바깥 자유로운 세상의 빛과 활기에 붙박여 있었던 것처럼.",
+  "why": "뼈대는 \"Injun Joe lay stretched … dead\"(인전 조가 죽어 뻗어 있었다) 하나뿐이고 나머지는 전부 그 모습을 덧붙이는 말이다. \"as if + had been fixed\"는 '마치 ~였던 것처럼'이라는 상상이고, 그 사이의 \"to the latest moment\"는 끼어든 삽입이니 괄호로 묶고 \"had been fixed upon ~(~에 붙박여 있었다)\"으로 이어 읽으면 된다.",
+  "st": [10, 12]
+ },
+ {
+  "id": "33.1.3",
+  "en": "His pity was moved, but nevertheless he felt an abounding sense of relief and security, now, which revealed to him in a degree which he had not fully appreciated before how vast a weight of dread had been lying upon him since the day he lifted his voice against this bloody-minded outcast.",
+  "s": "His pity",
+  "v": "was moved",
+  "chunks": [
+   {"en": "His pity was moved,", "ko": "그의 연민이 움직였다", "r": "주어 + 동사"},
+   {"en": "but nevertheless he felt an abounding sense of relief and security, now,", "ko": "하지만 그럼에도 그는 이제 넘쳐흐르는 안도감과 안전한 느낌을 느꼈다", "r": "대등절"},
+   {"en": "which revealed to him in a degree", "ko": "그리고 그 느낌은 그에게 ~한 정도로 알려 주었다", "r": "관계절(앞 명사 설명)"},
+   {"en": "which he had not fully appreciated before", "ko": "전에는 미처 깨닫지 못했던 (정도로)", "r": "관계절(degree 설명)"},
+   {"en": "how vast a weight of dread had been lying upon him", "ko": "얼마나 큰 두려움의 무게가 자기를 짓누르고 있었는지를", "r": "목적어(how절)"},
+   {"en": "since the day he lifted his voice against this bloody-minded outcast.", "ko": "이 피에 굶주린 무법자에게 맞서 목소리를 낸 그날 이후로", "r": "부사절(때)"}
+  ],
+  "ko": "그의 연민이 움직였지만, 그럼에도 그는 이제 넘쳐흐르는 안도감과 안전한 느낌을 느꼈다. 그리고 그 느낌은, 전에는 미처 깨닫지 못했던 정도로, 이 피에 굶주린 무법자에게 맞서 목소리를 낸 그날 이후로 얼마나 큰 두려움의 무게가 자기를 짓누르고 있었는지를 그에게 알려 주었다.",
+  "why": "which 뒤에 which가 또 나오고 그 뒤에 how절까지 붙어 설명이 세 겹이다. 뒤에서부터 거꾸로 붙이지 말고 앞에서부터 '그 안도감이 → 그에게 알려 주었다 → 전에는 미처 몰랐던 정도로 → 얼마나 큰 두려움이 자기를 누르고 있었는지를' 순서로 이어 갈 것. revealed의 진짜 목적어는 맨 뒤의 how절이다.",
+  "st": [9]
+ },
+ {
+  "id": "33.2.1",
+  "en": "The great foundation-beam of the door had been chipped and hacked through, with tedious labor; useless labor, too, it was, for the native rock formed a sill outside it, and upon that stubborn material the knife had wrought no effect; the only damage done was to the knife itself.",
+  "s": "The great foundation-beam",
+  "v": "had been chipped",
+  "chunks": [
+   {"en": "The great foundation-beam of the door", "ko": "문의 큰 받침 기둥은", "r": "주어"},
+   {"en": "had been chipped and hacked through, with tedious labor;", "ko": "지루한 노동 끝에 깎이고 찍혀 뚫려 있었다", "r": "동사(수동) + 방법"},
+   {"en": "useless labor, too, it was,", "ko": "그것도 헛수고였다", "r": "도치(보어가 앞으로)"},
+   {"en": "for the native rock formed a sill outside it,", "ko": "바깥에 자연 암반이 문턱을 이루고 있었기 때문이다", "r": "부사절(이유, for=because)"},
+   {"en": "and upon that stubborn material the knife had wrought no effect;", "ko": "그리고 그 완강한 돌에는 칼이 아무 효과도 내지 못했다", "r": "대등절(도치)"},
+   {"en": "the only damage done was to the knife itself.", "ko": "상한 것이라고는 칼 자신뿐이었다", "r": "주어 + 동사 + 보어"}
+  ],
+  "ko": "문의 큰 받침 기둥은 지루한 노동 끝에 깎이고 찍혀 뚫려 있었다. 하지만 그것도 헛수고였다. 바깥에 자연 암반이 문턱을 이루고 있어서 그 완강한 돌에는 칼이 아무 효과도 내지 못했기 때문이다. 상한 것이라고는 칼 자신뿐이었다.",
+  "why": "\"useless labor, too, it was\"는 보어를 문장 맨 앞으로 빼낸 도치(원래는 it was useless labor, too)이고, \"upon that stubborn material the knife had wrought\"도 전치사구를 앞으로 뺀 도치다. 어순이 뒤집힌 곳에서는 주어(it / the knife)를 먼저 찾을 것. 여기서 for는 '~을 위해'가 아니라 '왜냐하면'이다.",
+  "st": [3, 11, 13]
+ },
+ {
+  "id": "33.2.2",
+  "en": "But if there had been no stony obstruction there the labor would have been useless still, for if the beam had been wholly cut away Injun Joe could not have squeezed his body under the door, and he knew it.",
+  "s": "the labor",
+  "v": "would have been",
+  "chunks": [
+   {"en": "But if there had been no stony obstruction there", "ko": "하지만 거기에 돌로 된 장애물이 없었더라도", "r": "부사절(가정)"},
+   {"en": "the labor would have been useless still,", "ko": "그 노동은 여전히 헛수고였을 것이다", "r": "주절(가정법 결과)"},
+   {"en": "for if the beam had been wholly cut away", "ko": "왜냐하면 기둥을 완전히 잘라 냈다 해도", "r": "이유(for) + 가정절"},
+   {"en": "Injun Joe could not have squeezed his body under the door,", "ko": "인전 조는 몸을 문 밑으로 밀어 넣을 수 없었을 테니까", "r": "주절(가정법 결과)"},
+   {"en": "and he knew it.", "ko": "그리고 그도 그것을 알고 있었다", "r": "대등절"}
+  ],
+  "ko": "하지만 거기에 돌 장애물이 없었더라도 그 노동은 여전히 헛수고였을 것이다. 기둥을 완전히 잘라 냈다 해도 인전 조는 몸을 문 밑으로 밀어 넣을 수 없었을 테니까. 그리고 그도 그것을 알고 있었다.",
+  "why": "가정법 과거완료(if + had p.p. …, would/could have p.p. = 실제와 반대되는 상상)가 두 번 겹쳐 있어 '실제로는 그렇지 않았다'는 뜻이다. for는 '왜냐하면'인데 그 뒤에 또 if절이 먼저 나오므로, for 다음의 진짜 주절은 Injun Joe could not have squeezed …라는 것을 짚고 읽을 것.",
+  "st": [8, 12, 13]
+ },
+ {
+  "id": "33.2.9",
+  "en": "The captive had broken off the stalagmite, and upon the stump had placed a stone, wherein he had scooped a shallow hollow to catch the precious drop that fell once in every three minutes with the dreary regularity of a clock-tick—a dessertspoonful once in four and twenty hours.",
+  "s": "The captive",
+  "v": "had broken",
+  "chunks": [
+   {"en": "The captive had broken off the stalagmite,", "ko": "갇힌 그 사람은 석순을 부러뜨렸다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and upon the stump had placed a stone,", "ko": "그리고 그 그루터기 위에 돌 하나를 얹었다", "r": "대등절(도치: 전치사구가 앞)"},
+   {"en": "wherein he had scooped a shallow hollow", "ko": "그 돌에 그는 얕은 홈을 파 두었다", "r": "관계절(wherein = in which)"},
+   {"en": "to catch the precious drop", "ko": "그 귀한 물방울을 받으려고", "r": "목적(to부정사)"},
+   {"en": "that fell once in every three minutes", "ko": "3분에 한 방울씩 떨어지는", "r": "관계절(drop 설명)"},
+   {"en": "with the dreary regularity of a clock-tick—a dessertspoonful once in four and twenty hours.", "ko": "시계 초침처럼 음울하게 규칙적으로 — 스물네 시간에 디저트 스푼 하나 분량이었다", "r": "전치사구 + 곁말(대시 삽입)"}
+  ],
+  "ko": "갇힌 그 사람은 석순을 부러뜨리고 그 그루터기 위에 돌 하나를 얹은 다음, 거기에 얕은 홈을 파서 시계 초침처럼 음울하게 규칙적으로 3분에 한 방울씩 떨어지는 그 귀한 물방울을 받았다. 스물네 시간에 디저트 스푼 하나 분량이었다.",
+  "why": "\"upon the stump had placed a stone\"은 전치사구가 앞으로 나오면서 주어(he)까지 생략되어 어순이 뒤집힌 자리다. wherein은 in which(= 그 돌 안에)를 한 단어로 쓴 옛말이고, 대시 뒤의 \"a dessertspoonful …\"은 그 물방울이 하루에 얼마나 되는지 덧붙인 곁말이다.",
+  "st": [4, 11]
+ },
+ {
+  "id": "33.2.10",
+  "en": "That drop was falling when the Pyramids were new; when Troy fell; when the foundations of Rome were laid; when Christ was crucified; when the Conqueror created the British empire; when Columbus sailed; when the massacre at Lexington was “news.”",
+  "s": "That drop",
+  "v": "was falling",
+  "chunks": [
+   {"en": "That drop was falling when the Pyramids were new;", "ko": "그 물방울은 피라미드가 새것이었을 때에도 떨어지고 있었다", "r": "주어 + 동사 + 부사절(때)"},
+   {"en": "when Troy fell; when the foundations of Rome were laid;", "ko": "트로이가 무너졌을 때에도, 로마의 기초가 놓였을 때에도", "r": "부사절(때) 나열"},
+   {"en": "when Christ was crucified;", "ko": "그리스도가 십자가에 못 박혔을 때에도", "r": "부사절(때)"},
+   {"en": "when the Conqueror created the British empire;", "ko": "정복왕이 대영제국을 만들었을 때에도", "r": "부사절(때)"},
+   {"en": "when Columbus sailed;", "ko": "콜럼버스가 항해했을 때에도", "r": "부사절(때)"},
+   {"en": "when the massacre at Lexington was “news.”", "ko": "렉싱턴의 학살이 '새 소식'이었을 때에도", "r": "부사절(때)"}
+  ],
+  "ko": "그 물방울은 피라미드가 새것이었을 때에도 떨어지고 있었다. 트로이가 무너졌을 때에도, 로마의 기초가 놓였을 때에도, 그리스도가 십자가에 못 박혔을 때에도, 정복왕이 대영제국을 세웠을 때에도, 콜럼버스가 항해했을 때에도, 렉싱턴의 학살이 '새 소식'이었을 때에도.",
+  "why": "when으로 시작하는 짧은 절 일곱 개가 세미콜론으로 계속 이어지는데, 전부 맨 앞의 \"That drop was falling\" 하나에 걸린다. 즉 '~였을 때에도 그 물방울은 떨어지고 있었다'를 일곱 번 반복하는 것이니 장면을 하나씩 떠올리며 읽으면 된다. the Conqueror는 1066년 잉글랜드를 정복한 정복왕 윌리엄이다.",
+  "st": [3]
+ },
+ {
+  "id": "33.3.0",
+  "en": "It is falling now; it will still be falling when all these things shall have sunk down the afternoon of history, and the twilight of tradition, and been swallowed up in the thick night of oblivion.",
+  "s": "It",
+  "v": "is falling",
+  "chunks": [
+   {"en": "It is falling now;", "ko": "그것은 지금도 떨어지고 있다", "r": "주어 + 동사"},
+   {"en": "it will still be falling", "ko": "그리고 앞으로도 여전히 떨어지고 있을 것이다", "r": "대등절"},
+   {"en": "when all these things shall have sunk down the afternoon of history,", "ko": "이 모든 것들이 역사의 오후 속으로 가라앉아 버린 뒤에도", "r": "부사절(때, 미래완료)"},
+   {"en": "and the twilight of tradition,", "ko": "그리고 전설의 황혼 속으로도", "r": "나열(sunk down에 걸림)"},
+   {"en": "and been swallowed up in the thick night of oblivion.", "ko": "그리고 망각의 짙은 밤에 삼켜져 버린 뒤에도", "r": "나열(shall have been swallowed)"}
+  ],
+  "ko": "그것은 지금도 떨어지고 있다. 그리고 이 모든 것들이 역사의 오후 속으로, 전설의 황혼 속으로 가라앉고 망각의 짙은 밤에 삼켜져 버린 뒤에도 여전히 떨어지고 있을 것이다.",
+  "why": "\"shall have sunk … and (shall have) been swallowed up\"에서 두 번째 shall have가 생략되어 been이 갑자기 튀어나온 것처럼 보인다. and로 이어지는 세 덩어리(the afternoon of history / the twilight of tradition / been swallowed up …)의 짝을 맞춰 읽을 것. 시간 부사절이라 미래완료(shall have p.p.)를 썼다.",
+  "st": [3, 14]
+ },
+ {
+  "id": "33.3.4",
+  "en": "It is many and many a year since the hapless half-breed scooped out the stone to catch the priceless drops, but to this day the tourist stares longest at that pathetic stone and that slow-dropping water when he comes to see the wonders of McDougal’s cave.",
+  "s": "It",
+  "v": "is",
+  "chunks": [
+   {"en": "It is many and many a year", "ko": "아주 오랜 세월이 지났다", "r": "형식 주어 It + 동사"},
+   {"en": "since the hapless half-breed scooped out the stone", "ko": "그 불운한 혼혈인이 돌을 파낸 이후로", "r": "부사절(~한 이후로)"},
+   {"en": "to catch the priceless drops,", "ko": "그 값을 매길 수 없는 물방울을 받으려고", "r": "목적(to부정사)"},
+   {"en": "but to this day the tourist stares longest", "ko": "하지만 오늘날까지도 관광객은 가장 오래 바라본다", "r": "대등절"},
+   {"en": "at that pathetic stone and that slow-dropping water", "ko": "그 애처로운 돌과 느리게 떨어지는 물을", "r": "전치사구(stare at ~)"},
+   {"en": "when he comes to see the wonders of McDougal’s cave.", "ko": "맥두걸 동굴의 볼거리를 보러 올 때면", "r": "부사절(때)"}
+  ],
+  "ko": "그 불운한 혼혈인이 값을 매길 수 없는 그 물방울을 받으려고 돌을 파낸 지도 아주 오랜 세월이 지났다. 하지만 오늘날까지도 관광객은 맥두걸 동굴의 볼거리를 보러 오면 그 애처로운 돌과 느리게 떨어지는 물을 가장 오래 바라본다.",
+  "why": "\"It is … a year since + 과거\"는 '~한 지 …년이 지났다'는 시간 표현으로, 여기서 It은 뜻이 없는 형식상의 주어다(무언가를 가리키지 않는다). \"many and many a year\"는 '아주아주 오랜 세월'을 강조한 옛 표현. but 뒤가 진짜 하고 싶은 말이다.",
+  "st": [17]
+ },
+ {
+  "id": "33.4.0",
+  "en": "Injun Joe was buried near the mouth of the cave; and people flocked there in boats and wagons from the towns and from all the farms and hamlets for seven miles around; they brought their children, and all sorts of provisions, and confessed that they had had almost as satisfactory a time at the funeral as they could have had at the hanging.",
+  "s": "Injun Joe",
+  "v": "was buried",
+  "chunks": [
+   {"en": "Injun Joe was buried near the mouth of the cave;", "ko": "인전 조는 동굴 입구 근처에 묻혔다", "r": "주어 + 동사(수동) + 장소"},
+   {"en": "and people flocked there in boats and wagons", "ko": "그리고 사람들이 배와 마차를 타고 그리로 몰려들었다", "r": "대등절"},
+   {"en": "from the towns and from all the farms and hamlets for seven miles around;", "ko": "7마일 안쪽의 마을과 온갖 농장·촌락에서", "r": "전치사구(나열)"},
+   {"en": "they brought their children, and all sorts of provisions,", "ko": "사람들은 아이들과 온갖 먹을 것을 싸 들고 와서는", "r": "대등절"},
+   {"en": "and confessed that they had had almost as satisfactory a time at the funeral", "ko": "장례식에서 거의 그만큼이나 만족스러운 시간을 보냈다고 털어놓았다", "r": "대등 동사 + 목적어(that절)"},
+   {"en": "as they could have had at the hanging.", "ko": "교수형을 구경했더라도 누렸을 만큼", "r": "비교절(as … as)"}
+  ],
+  "ko": "인전 조는 동굴 입구 근처에 묻혔다. 사람들은 7마일 안쪽의 마을과 온갖 농장·촌락에서 배와 마차를 타고 그리로 몰려들었다. 아이들과 온갖 먹을 것을 싸 들고 와서는, 교수형을 구경했더라도 이 장례식만큼이나 만족스러웠을 것이라고 스스로 털어놓았다.",
+  "why": "세미콜론으로 절 세 개가 이어지므로 각 절의 주어(Injun Joe / people / they)를 짚으며 끊어 읽을 것. 마지막의 \"as satisfactory a time … as they could have had\"는 'A만큼 B하다'라는 비교로, 장례식이 교수형 구경만큼 재미있었다는 비꼬는 말이다.",
+  "st": [3, 14]
+ },
+ {
+  "id": "33.5.1",
+  "en": "The petition had been largely signed; many tearful and eloquent meetings had been held, and a committee of sappy women been appointed to go in deep mourning and wail around the governor, and implore him to be a merciful ass and trample his duty under foot.",
+  "s": "The petition",
+  "v": "had been largely signed",
+  "chunks": [
+   {"en": "The petition had been largely signed;", "ko": "그 탄원서에는 이미 서명이 많이 모여 있었다", "r": "주어 + 동사(수동)"},
+   {"en": "many tearful and eloquent meetings had been held,", "ko": "눈물 어린 웅변 집회가 여러 차례 열렸다", "r": "대등절"},
+   {"en": "and a committee of sappy women been appointed", "ko": "그리고 감상적인 여자들로 이루어진 위원회가 지명되었다", "r": "대등절(had 생략)"},
+   {"en": "to go in deep mourning and wail around the governor,", "ko": "짙은 상복을 입고 가서 주지사 주위를 돌며 곡을 하도록", "r": "목적(to부정사)"},
+   {"en": "and implore him to be a merciful ass", "ko": "그리고 자비로운 멍청이가 되어 달라고 그에게 애원하도록", "r": "나열(to부정사)"},
+   {"en": "and trample his duty under foot.", "ko": "자기 의무를 발로 짓밟아 달라고", "r": "나열(to부정사)"}
+  ],
+  "ko": "그 탄원서에는 이미 서명이 많이 모여 있었다. 눈물 어린 웅변 집회가 여러 차례 열렸고, 감상적인 여자들로 이루어진 위원회가 짙은 상복을 입고 주지사를 찾아가 곡을 하며, 자비로운 멍청이가 되어 자기 의무를 발로 짓밟아 달라고 애원하도록 지명되었다.",
+  "why": "\"a committee … been appointed\"에서 had가 생략되어 있다(앞의 had been held에서 이어받은 것). to go / and wail / and implore 세 개가 모두 그 위원회가 할 일로 나란히 붙는다는 것만 보면 풀린다. sappy(물러 터진), merciful ass(자비로운 멍청이)는 서술자의 노골적인 비꼼이다.",
+  "st": [3, 14]
+ },
+ {
+  "id": "33.5.3",
+  "en": "If he had been Satan himself there would have been plenty of weaklings ready to scribble their names to a pardon-petition, and drip a tear on it from their permanently impaired and leaky water-works.",
+  "s": "there",
+  "v": "would have been",
+  "chunks": [
+   {"en": "If he had been Satan himself", "ko": "그가 사탄 자신이었다 해도", "r": "부사절(가정)"},
+   {"en": "there would have been plenty of weaklings", "ko": "나약한 자들은 얼마든지 있었을 것이다", "r": "주절(There ~ 구문)"},
+   {"en": "ready to scribble their names to a pardon-petition,", "ko": "사면 탄원서에 자기 이름을 갈겨쓸 준비가 된", "r": "형용사구(weaklings 설명)"},
+   {"en": "and drip a tear on it", "ko": "그리고 그 위에 눈물 한 방울을 떨어뜨릴", "r": "나열(to부정사)"},
+   {"en": "from their permanently impaired and leaky water-works.", "ko": "영구히 망가져 물이 새는 자기네 수도 설비에서", "r": "전치사구"}
+  ],
+  "ko": "그가 사탄 자신이었다 해도, 사면 탄원서에 자기 이름을 갈겨쓰고 영구히 망가져 물이 새는 자기네 수도 설비에서 눈물 한 방울을 떨어뜨릴 나약한 자들은 얼마든지 있었을 것이다.",
+  "why": "가정법 과거완료(If he had been …, there would have been … = 실제와 반대되는 상상)와 There ~ 구문이 겹쳐 있다. 진짜 주어는 there가 아니라 plenty of weaklings이고, ready to scribble … and drip …이 그 뒤에서 어떤 자들인지 설명한다. leaky water-works(물 새는 수도 설비)는 눈물샘을 비꼰 말이다.",
+  "st": [8, 12, 17]
+ },
+ {
+  "id": "33.6.1",
+  "en": "Huck had learned all about Tom’s adventure from the Welshman and the Widow Douglas, by this time, but Tom said he reckoned there was one thing they had not told him; that thing was what he wanted to talk about now.",
+  "s": "Huck",
+  "v": "had learned",
+  "chunks": [
+   {"en": "Huck had learned all about Tom’s adventure", "ko": "헉은 톰의 모험에 대해 전부 알고 있었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from the Welshman and the Widow Douglas, by this time,", "ko": "웨일스인과 더글러스 미망인에게서, 이때쯤엔", "r": "전치사구 + 시간"},
+   {"en": "but Tom said he reckoned", "ko": "하지만 톰은 이렇게 생각한다고 말했다", "r": "대등절 + 전달동사"},
+   {"en": "there was one thing they had not told him;", "ko": "그들이 헉에게 말하지 않은 것이 하나 있다고", "r": "목적어절(There ~ 구문 + 관계절)"},
+   {"en": "that thing was what he wanted to talk about now.", "ko": "그리고 그것이 바로 톰이 지금 이야기하고 싶은 것이었다", "r": "주어 + 동사 + 보어(what절)"}
+  ],
+  "ko": "헉은 이때쯤엔 웨일스인과 더글러스 미망인에게서 톰의 모험에 대해 다 들어 알고 있었지만, 톰은 그들이 헉에게 말하지 않은 것이 하나 있을 거라고 했다. 그리고 그것이 바로 톰이 지금 이야기하고 싶은 것이었다.",
+  "why": "\"Tom said (that) he reckoned (that) there was one thing (that) they had not told him\"처럼 접속사 that이 세 번이나 생략된 채 절이 겹겹이 이어진다. 세미콜론 뒤의 that thing은 앞의 one thing을 가리키고, what he wanted to talk about은 '그가 이야기하고 싶었던 것'이라는 하나의 명사 덩어리다.",
+  "st": [3, 17]
+ },
+ {
+  "id": "33.7.2",
+  "en": "Nobody told me it was you; but I just knowed it must ’a’ ben you, soon as I heard ’bout that whiskey business; and I knowed you hadn’t got the money becuz you’d ’a’ got at me some way or other and told me even if you was mum to everybody else.",
+  "s": "Nobody",
+  "v": "told",
+  "chunks": [
+   {"en": "Nobody told me it was you;", "ko": "그게 너라고 아무도 나한테 말해 준 적 없어", "r": "주어 + 동사 + 목적어"},
+   {"en": "but I just knowed it must ’a’ ben you,", "ko": "하지만 난 그게 너였겠구나 하고 딱 알았지", "r": "대등절(knowed=knew, ’a’ ben=have been)"},
+   {"en": "soon as I heard ’bout that whiskey business;", "ko": "그 위스키 얘기를 듣자마자", "r": "부사절(때, soon as=as soon as)"},
+   {"en": "and I knowed you hadn’t got the money", "ko": "그리고 네가 그 돈을 못 찾았다는 것도 알았어", "r": "대등절 + 목적어절"},
+   {"en": "becuz you’d ’a’ got at me some way or other", "ko": "찾았으면 어떻게든 나한테 왔을 테니까", "r": "부사절(이유, becuz=because)"},
+   {"en": "and told me even if you was mum to everybody else.", "ko": "그리고 다른 사람 모두에게 입을 다물었더라도 나한테는 말했을 테니까", "r": "대등 동사 + 양보절"}
+  ],
+  "ko": "그게 너라고 아무도 말해 준 적 없어. 하지만 그 위스키 얘기를 듣자마자 너였겠구나 하고 딱 알았지. 그리고 네가 돈을 못 찾았다는 것도 알았어. 찾았으면 다른 사람 모두에게 입을 다물었더라도 어떻게든 나한테는 와서 말했을 테니까.",
+  "why": "사투리 철자를 표준어로 바꿔 읽는 것이 먼저다: knowed=knew, ’a’=have, ben=been, ’bout=about, becuz=because. 그러면 \"it must have been you\"(너였음에 틀림없다)와 \"you’d have got at me\"(너라면 나한테 왔을 것이다 — 실제와 반대되는 상상)가 보인다. soon as는 as soon as에서 앞의 as가 빠진 구어다.",
+  "st": [2, 3, 12]
+ },
+ {
+  "id": "33.13.0",
+  "en": "“Well,” said Huck, presently, coming back to the main question, “whoever nipped the whiskey in No. 2, nipped the money, too, I reckon—anyways it’s a goner for us, Tom.”",
+  "s": "Huck",
+  "v": "said",
+  "chunks": [
+   {"en": "“Well,” said Huck, presently,", "ko": "\"글쎄,\" 헉이 잠시 뒤 말했다", "r": "인용 + 도치 전달동사"},
+   {"en": "coming back to the main question,", "ko": "본래 이야기로 돌아오면서", "r": "분사구문(~하면서)"},
+   {"en": "“whoever nipped the whiskey in No. 2,", "ko": "\"2호실에서 위스키를 슬쩍한 사람이 누구든\"", "r": "인용(대사)의 주어(whoever절)"},
+   {"en": "nipped the money, too,", "ko": "돈도 슬쩍했을 거야", "r": "동사 + 목적어"},
+   {"en": "I reckon—anyways it’s a goner for us, Tom.”", "ko": "내 생각엔 말이야 — 어쨌든 우리한텐 이미 날아간 물건이지, 톰", "r": "삽입 + 곁말(대시)"}
+  ],
+  "ko": "\"글쎄,\" 헉이 잠시 뒤 본래 이야기로 돌아오며 말했다. \"2호실에서 위스키를 슬쩍한 놈이 돈도 슬쩍했을 거야. 어쨌든 우리한테는 이미 날아간 물건이지, 톰.\"",
+  "why": "대사 사이에 \"said Huck, presently, coming back to the main question,\"이 통째로 끼어들어 앞뒤 따옴표가 한 사람의 말이라는 것을 놓치기 쉽다. 인용문 안의 주어는 \"whoever nipped the whiskey in No. 2\"(2호실에서 위스키를 슬쩍한 사람이 누구든) 전체이고 동사는 그 뒤의 nipped다. a goner는 '이미 없어진 것'.",
+  "st": [1, 4, 6]
+ },
+ {
+  "id": "33.31.1",
+  "en": "We want some bread and meat, and our pipes, and a little bag or two, and two or three kite-strings, and some of these new-fangled things they call lucifer matches.",
+  "s": "We",
+  "v": "want",
+  "chunks": [
+   {"en": "We want some bread and meat, and our pipes,", "ko": "우리한텐 빵이랑 고기, 담뱃대가 필요해", "r": "주어 + 동사 + 목적어(나열)"},
+   {"en": "and a little bag or two,", "ko": "그리고 작은 자루 한두 개", "r": "나열"},
+   {"en": "and two or three kite-strings,", "ko": "연줄 두세 개", "r": "나열"},
+   {"en": "and some of these new-fangled things", "ko": "그리고 요즘 새로 나온 그 물건도 좀", "r": "나열"},
+   {"en": "they call lucifer matches.", "ko": "사람들이 루시퍼 성냥이라고 부르는", "r": "관계절(things 설명, 관계대명사 생략)"}
+  ],
+  "ko": "빵이랑 고기, 담뱃대, 작은 자루 한두 개, 연줄 두세 개, 그리고 사람들이 루시퍼 성냥이라고 부르는 그 신문물도 좀 필요해.",
+  "why": "and로 다섯 가지를 계속 이어 붙인 나열문이라 길어 보일 뿐 뼈대는 \"We want A, and B, and C …\"로 단순하다. 마지막 \"things they call lucifer matches\"는 things와 they 사이에 관계대명사(that)가 생략된 것으로 '사람들이 루시퍼 성냥이라 부르는 물건'이라는 뜻이다.",
+  "st": [14]
+ },
+ {
+  "id": "33.37.4",
+  "en": "We’ve got it now, and we’ll keep it quiet, only we’ll let Joe Harper and Ben Rogers in—because of course there’s got to be a Gang, or else there wouldn’t be any style about it.",
+  "s": "We",
+  "v": "’ve got",
+  "chunks": [
+   {"en": "We’ve got it now,", "ko": "이제 우리가 이걸 차지했으니", "r": "주어 + 동사 + 목적어"},
+   {"en": "and we’ll keep it quiet,", "ko": "조용히 묻어 두는 거야", "r": "대등절"},
+   {"en": "only we’ll let Joe Harper and Ben Rogers", "ko": "다만 조 하퍼랑 벤 로저스만은", "r": "대등절(only=단, 다만)"},
+   {"en": "in—because of course there’s got to be a Gang,", "ko": "끼워 주자 — 당연히 갱단이 있어야 하니까", "r": "let ~ in 마무리 + 이유(대시)"},
+   {"en": "or else there wouldn’t be any style about it.", "ko": "안 그러면 폼이 하나도 안 나잖아", "r": "대등절(안 그러면)"}
+  ],
+  "ko": "이제 우리가 이걸 차지했으니 조용히 묻어 두자. 다만 조 하퍼랑 벤 로저스만 끼워 주는 거야. 당연히 갱단이 있어야지, 안 그러면 폼이 하나도 안 나잖아.",
+  "why": "여기서 only는 '오직'이 아니라 앞말을 뒤집는 '다만, 단'이다. \"let … in\"은 '끼워 주다'인데 목적어(Joe Harper and Ben Rogers)가 길어서 in이 멀리 떨어졌다. 대시 뒤는 이유를 덧붙인 곁말이고, there’s got to be(= there has got to be)는 '~이 있어야 한다'는 구어다.",
+  "st": [4, 17]
+ },
+ {
+  "id": "33.63.4",
+  "en": "They found a small recess in the one nearest the base of the rock, with a pallet of blankets spread down in it; also an old suspender, some bacon rind, and the well-gnawed bones of two or three fowls.",
+  "s": "They",
+  "v": "found",
+  "chunks": [
+   {"en": "They found a small recess", "ko": "그들은 작은 후미진 공간을 하나 찾아냈다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in the one nearest the base of the rock,", "ko": "바위 밑동에 가장 가까운 그 길에서", "r": "전치사구(장소, the one=갈래길 하나)"},
+   {"en": "with a pallet of blankets spread down in it;", "ko": "그 안에는 담요를 깔아 만든 잠자리가 펴져 있었다", "r": "전치사구(with + 명사 + 과거분사)"},
+   {"en": "also an old suspender, some bacon rind,", "ko": "낡은 멜빵 하나, 베이컨 껍질 조금도 있었고", "r": "나열(찾아낸 것)"},
+   {"en": "and the well-gnawed bones of two or three fowls.", "ko": "잘 갉아 먹은 닭 두세 마리분의 뼈도 있었다", "r": "나열"}
+  ],
+  "ko": "그들은 바위 밑동에 가장 가까운 길에서 작은 후미진 공간을 하나 찾아냈는데, 안에는 담요를 깔아 만든 잠자리가 펴져 있었다. 낡은 멜빵 하나, 베이컨 껍질 조금, 그리고 잘 갉아 먹은 닭 두세 마리분의 뼈도 있었다.",
+  "why": "the one은 앞에 나온 avenue(갈래길) 하나를 대신 받는 말이다. \"with a pallet of blankets spread down in it\"은 'with + 명사 + 과거분사'로 '담요 잠자리가 깔린 채로'라는 상태 설명. 세미콜론 뒤 also 이하는 동사 없이 물건만 이어 붙인 나열이라 앞의 They found에 그대로 걸린다.",
+  "st": [3, 14]
+ },
+ {
+  "id": "33.72.0",
+  "en": "It was the treasure-box, sure enough, occupying a snug little cavern, along with an empty powder-keg, a couple of guns in leather cases, two or three pairs of old moccasins, a leather belt, and some other rubbish well soaked with the water-drip.",
+  "s": "It",
+  "v": "was",
+  "chunks": [
+   {"en": "It was the treasure-box, sure enough,", "ko": "정말로 그 보물 상자였다", "r": "주어 + 동사 + 보어"},
+   {"en": "occupying a snug little cavern,", "ko": "아늑한 작은 굴을 차지한 채로", "r": "분사구문(~한 채로)"},
+   {"en": "along with an empty powder-keg,", "ko": "빈 화약통과 함께", "r": "전치사구(~와 함께)"},
+   {"en": "a couple of guns in leather cases,", "ko": "가죽 케이스에 든 총 두 자루", "r": "나열"},
+   {"en": "two or three pairs of old moccasins, a leather belt,", "ko": "낡은 모카신 두세 켤레, 가죽 벨트", "r": "나열"},
+   {"en": "and some other rubbish well soaked with the water-drip.", "ko": "그리고 떨어지는 물에 흠뻑 젖은 잡동사니 몇 가지", "r": "나열 + 과거분사 수식"}
+  ],
+  "ko": "정말로 그 보물 상자였다. 빈 화약통, 가죽 케이스에 든 총 두 자루, 낡은 모카신 두세 켤레, 가죽 벨트, 그리고 떨어지는 물에 흠뻑 젖은 잡동사니와 함께 아늑한 작은 굴을 차지하고 있었다.",
+  "why": "뼈대는 \"It was the treasure-box\" 한 줄뿐이고 occupying 이하는 전부 '~한 채로'라고 덧붙이는 분사구문이다. \"along with A, B, C …\"는 상자 옆에 같이 있던 물건들의 나열이니, 나열이 시작되면 뼈대는 이미 끝났다고 보면 된다. sure enough는 '아니나 다를까, 정말로'.",
+  "st": [6, 14]
+ },
+ {
+  "id": "33.83.0",
+  "en": "“Now, Huck,” said Tom, “we’ll hide the money in the loft of the widow’s woodshed, and I’ll come up in the morning and we’ll count it and divide, and then we’ll hunt up a place out in the woods for it where it will be safe.",
+  "s": "Tom",
+  "v": "said",
+  "chunks": [
+   {"en": "“Now, Huck,” said Tom,", "ko": "\"이봐 헉,\" 톰이 말했다", "r": "인용 + 도치 전달동사"},
+   {"en": "“we’ll hide the money in the loft of the widow’s woodshed,", "ko": "\"돈은 미망인네 장작 창고 다락에 숨겨 두자", "r": "인용(대사) 주절"},
+   {"en": "and I’ll come up in the morning", "ko": "그리고 내가 아침에 올라올게", "r": "대등절"},
+   {"en": "and we’ll count it and divide,", "ko": "그러면 같이 세고 나누는 거야", "r": "대등절"},
+   {"en": "and then we’ll hunt up a place out in the woods for it", "ko": "그다음엔 숲속에 돈을 둘 자리를 찾아보자", "r": "대등절"},
+   {"en": "where it will be safe.", "ko": "안전할 만한 자리로", "r": "관계절(place 설명)"}
+  ],
+  "ko": "\"이봐 헉,\" 톰이 말했다. \"돈은 미망인네 장작 창고 다락에 숨겨 두자. 내가 아침에 올라와서 같이 세고 나누고, 그다음에 숲속에 안전할 만한 자리를 찾아보는 거야.",
+  "why": "\"said Tom\"이 대사 사이에 끼어드는 도치 전달문이고, 그 뒤로는 and로 절 네 개(we’ll hide / I’ll come up / we’ll count and divide / we’ll hunt up)가 계속 이어진다. 맨 끝 where it will be safe는 a place를 설명하는 관계절이고, hunt up은 '찾아내다'라는 뜻이다.",
+  "st": [1, 14]
+ },
+ {
+  "id": "33.84.0",
+  "en": "He disappeared, and presently returned with the wagon, put the two small sacks into it, threw some old rags on top of them, and started off, dragging his cargo behind him.",
+  "s": "He",
+  "v": "disappeared",
+  "chunks": [
+   {"en": "He disappeared, and presently returned with the wagon,", "ko": "그는 사라졌다가 이윽고 수레를 끌고 돌아왔다", "r": "주어 + 동사 + 대등 동사"},
+   {"en": "put the two small sacks into it,", "ko": "작은 자루 두 개를 거기에 실었다", "r": "대등 동사"},
+   {"en": "threw some old rags on top of them,", "ko": "그 위에 낡은 헝겊을 몇 장 덮었다", "r": "대등 동사"},
+   {"en": "and started off,", "ko": "그러고는 출발했다", "r": "대등 동사"},
+   {"en": "dragging his cargo behind him.", "ko": "짐을 뒤에 끌면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "그는 사라졌다가 이윽고 수레를 끌고 돌아와, 작은 자루 두 개를 실은 뒤 그 위에 낡은 헝겊을 덮고, 짐을 뒤에 끌면서 출발했다.",
+  "why": "주어 He 하나에 동사 다섯 개(disappeared, returned, put, threw, started off)가 쉼표와 and로 줄줄이 이어진다. 중간 동사 앞에 주어가 다시 나오지 않으므로 앞의 He가 계속 이어진다고 보면 된다. 맨 끝 dragging은 '~하면서'라는 분사구문.",
+  "st": [6, 14]
+ },
+ {
+  "id": "33.89.0",
+  "en": "“I judged so; the boys in this town will take more trouble and fool away more time hunting up six bits’ worth of old iron to sell to the foundry than they would to make twice the money at regular work.",
+  "s": "I",
+  "v": "judged",
+  "chunks": [
+   {"en": "“I judged so;", "ko": "\"그럴 줄 알았지", "r": "주어 + 동사"},
+   {"en": "the boys in this town will take more trouble", "ko": "이 동네 애들은 더 많은 수고를 한다", "r": "대등절 주어 + 동사"},
+   {"en": "and fool away more time", "ko": "그리고 더 많은 시간을 허비한다", "r": "대등 동사"},
+   {"en": "hunting up six bits’ worth of old iron to sell to the foundry", "ko": "주물 공장에 팔 75센트어치 고철을 찾아내느라", "r": "분사구문(~하느라)"},
+   {"en": "than they would to make twice the money at regular work.", "ko": "제대로 일해서 그 두 배를 벌 때보다", "r": "비교절(than)"}
+  ],
+  "ko": "\"그럴 줄 알았지. 이 동네 애들은 주물 공장에 팔 75센트어치 고철을 찾아내겠다고, 제대로 일해서 그 두 배를 벌 때보다 더 수고를 하고 더 많은 시간을 허비한다니까.",
+  "why": "\"take more trouble and fool away more time … than they would …\"에서 more와 짝을 이루는 than이 한참 뒤에 나오므로 비교 구문이라는 것을 놓치기 쉽다. than 뒤의 would 다음에는 take trouble and fool away time이 생략되어 있다. hunting up은 '~을 찾아내느라', six bits는 75센트다.",
+  "st": [3, 6]
+ },
+ {
+  "id": "33.100.0",
+  "en": "“Tom wasn’t at home, yet, so I gave him up; but I stumbled on him and Huck right at my door, and so I just brought them along in a hurry.”",
+  "s": "Tom",
+  "v": "wasn’t",
+  "chunks": [
+   {"en": "“Tom wasn’t at home, yet,", "ko": "\"톰이 아직 집에 없길래", "r": "주어 + 동사"},
+   {"en": "so I gave him up;", "ko": "그래서 포기했지요", "r": "결과절"},
+   {"en": "but I stumbled on him and Huck right at my door,", "ko": "그런데 우리 집 문간에서 톰이랑 헉을 딱 마주쳤지 뭡니까", "r": "대등절"},
+   {"en": "and so I just brought them along in a hurry.”", "ko": "그래서 그냥 서둘러 데리고 왔습니다", "r": "대등절"}
+  ],
+  "ko": "\"톰이 아직 집에 없길래 포기했지요. 그런데 우리 집 문간에서 톰이랑 헉을 딱 마주쳐서, 그냥 서둘러 데리고 왔습니다.\"",
+  "why": "세미콜론과 but, and so로 짧은 절이 이어지는 단순한 구조라 절마다 주어만 짚으면 된다. \"gave him up\"은 '그를 포기했다(찾기를 단념했다)', \"stumbled on\"은 '우연히 마주쳤다', \"brought them along\"은 '데리고 왔다'는 뜻이다.",
+  "st": [3]
+ }
+]

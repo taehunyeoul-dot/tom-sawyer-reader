@@ -1,0 +1,59 @@
+{
+ "19.0.0": [
+  {"t":"who","q":"<b>showed him that he had brought his sorrows</b> — 톰에게 그것을 알려 준 것은 누구(무엇)입니까?","a":"이모가 톰에게 건넨 첫마디(the first thing his aunt said to him) — 이모 자신이 아니라 그 '첫마디'가 주어입니다","tip":"the first thing 뒤에 관계대명사가 빠져 있어 바로 앞의 his aunt 를 주어로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>an unpromising market</b> — 톰의 슬픔은 여기서 동정을 얻을 가망이 있었습니까?","a":"아니요 — 가망이 전혀 없었습니다(promising 에 un- 이 붙어 뜻이 뒤집힙니다)","tip":"un- 하나로 정반대가 됩니다. '유망한 시장'으로 읽으면 이어지는 이모의 호통과 앞뒤가 맞지 않습니다."},
+  {"t":"mod","q":"<b>in a dreary mood</b> 는 무엇을 설명하는 말입니까?","a":"집에 돌아온 톰의 기분 — 우울한 기분으로 돌아왔다는 뜻입니다","tip":"바로 앞이 at home 이라 '음침한 집'으로 붙여 읽기 쉽습니다. 우울한 것은 집이 아니라 톰입니다."}
+ ],
+ "19.3.1": [
+  {"t":"time","q":"<b>she’d found out from Joe</b> — 하퍼 부인이 사실을 알아낸 것은 이모가 찾아가기 전입니까, 후입니까?","a":"찾아가기 전 — 이모가 도착했을 때 그 사람은 이미 다 알고 있었습니다","tip":"she’d 는 she had, 과거완료입니다. '가 보니 그제야 알아냈다'로 읽으면 이모가 헛수고했다는 이 대목의 핵심이 사라집니다."},
+  {"t":"pron","q":"<b>make her believe</b> 와 <b>she’d found out</b> 의 her·she 는 누구입니까?","a":"둘 다 세레니 하퍼(하퍼 부인) — 말하고 있는 폴리 이모가 아닙니다","tip":"말하는 사람이 I(이모)라서 she 를 이모로 잡기 쉽습니다."},
+  {"t":"who","q":"<b>heard all the talk we had that night</b> — 그날 밤 이야기를 다 들은 사람은 누구입니까?","a":"톰(you) — that you was over here and (you) heard ... 로 이어집니다","tip":"바로 앞의 she(하퍼 부인)를 주어로 잡기 쉽습니다. 엿들은 쪽은 톰입니다."},
+  {"t":"mod","q":"<b>like an old softy</b> 는 누구를 두고 하는 말입니까?","a":"말하고 있는 폴리 이모 자신 — 물러터진 늙은이처럼 건너갔다는 뜻입니다","tip":"바로 앞에 Sereny Harper 가 있어 하퍼 부인을 두고 하는 말로 붙이기 쉽습니다."}
+ ],
+ "19.3.3": [
+  {"t":"pron","q":"<b>It makes me feel so bad</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to think ... 이하입니다","tip":"'그것은'으로 옮기면 앞 문장에서 그것을 찾다가 길을 잃습니다."},
+  {"t":"who","q":"<b>make such a fool of myself</b> — 바보 꼴이 된 사람은 누구입니까?","a":"말하고 있는 폴리 이모(myself) — 톰이 아닙니다","tip":"앞에 you(톰)가 나와서 톰이 바보가 된 것으로 읽기 쉽습니다. let me go ... and make such a fool of myself 는 모두 me(이모)에게 일어난 일입니다."},
+  {"t":"neg","q":"<b>and never say a word</b> — 톰은 이모에게 사실을 알려 주었습니까?","a":"아니요 — 한마디도 하지 않았습니다","tip":"never 를 놓치면 정반대가 됩니다. 말하지 않은 쪽은 톰(you)입니다."}
+ ],
+ "19.6.2": [
+  {"t":"time","q":"<b>You could think to come all the way over here</b> — 톰은 실제로 여기까지 왔습니까?","a":"네 — 한밤중에 잭슨 섬에서 실제로 건너왔습니다","tip":"could 를 '올 수도 있었다(하지만 안 왔다)'로 읽으면 안 됩니다. '그런 생각은 잘도 났구나' 하고 비꼬는 말입니다."},
+  {"t":"mod","q":"<b>to laugh at our troubles</b> 는 무엇의 목적입니까?","a":"여기까지 건너온(come) 목적 — 우리 걱정거리를 비웃으려고 왔다는 뜻입니다","tip":"바로 앞의 in the night 에 붙이지 마세요. come all the way over here ... to laugh 로 이어집니다."},
+  {"t":"neg","q":"<b>but you couldn’t ever think to pity us</b> — 톰은 우리를 가엾게 여길 생각을 했습니까?","a":"아니요 — 그 생각만은 끝내 나지 않았습니다","tip":"couldn’t ever 는 '한 번도 ~하지 못했다'입니다. 앞의 두 could 와 정반대로 뒤집히는 것이 이 문장의 핵심입니다."},
+  {"t":"pron","q":"<b>our troubles</b> 와 <b>pity us</b> 의 our·us 는 누구입니까?","a":"집에 남아 슬퍼하던 이모와 식구들 — 톰은 여기에 들어가지 않습니다","tip":"톰까지 넣어 '우리'로 읽으면 이모가 톰을 나무라는 이 대목이 흐려집니다."}
+ ],
+ "19.10.0": [
+  {"t":"time","q":"<b>I would be the thankfullest soul in this world if I could believe ...</b> — 이모는 지금 그렇게 믿고 있습니까?","a":"아니요 — '믿을 수만 있다면 그럴 텐데'라는 가정입니다. 실제로는 믿지 못합니다","tip":"would 와 could 가 짝을 이루면 사실이 아닌 일을 말합니다."},
+  {"t":"neg","q":"<b>but you know you never did</b> — did 는 무엇을 대신하는 말이며, 무슨 뜻입니까?","a":"had as good a thought as that 를 대신합니다 — '너는 그런 기특한 생각을 한 적이 한 번도 없다'는 뜻입니다","tip":"never 를 놓치면 '너도 알다시피 너는 그랬다'가 되어 정반대가 됩니다."},
+  {"t":"pron","q":"<b>and I know it</b> 의 it 은 무엇입니까?","a":"톰이 그런 기특한 생각을 한 적이 없다는 사실","tip":"바로 앞의 '그 기특한 생각' 자체로 잡기 쉽습니다. 이모가 안다는 것은 '없었다'는 쪽입니다."}
+ ],
+ "19.15.0": [
+  {"t":"who","q":"<b>when you got to talking about the funeral</b> — 장례식 얘기를 꺼낸 사람은 누구입니까?","a":"폴리 이모(you) — 이 대사를 하는 사람이 톰입니다","tip":"문장의 주어가 I(톰)라서 톰이 꺼낸 것으로 읽기 쉽습니다. got to talking 은 '얘기를 꺼내기 시작했다'입니다."},
+  {"t":"pron","q":"<b>of our coming and hiding in the church</b> 의 our 는 누구입니까?","a":"가출한 해적 셋 — 톰과 조와 허크입니다","tip":"톰과 이모로 잡기 쉽습니다. 교회에 숨어 있다가 나타난 것은 세 아이입니다."},
+  {"t":"neg","q":"<b>I couldn’t somehow bear to spoil it</b> — 톰은 그 계획을 망쳤습니까?","a":"아니요 — 차마 망칠 수가 없어서 입을 다물었습니다(it = 교회에 나타나 놀래 주려던 그 계획)","tip":"couldn’t bear to ~ 는 '차마 ~할 수 없었다'입니다. 부정을 놓치면 '망쳐 버렸다'가 되어 정반대입니다."}
+ ],
+ "19.27.0": [
+  {"t":"time","q":"<b>The moment he was gone</b> — 이모가 벽장으로 달려간 것은 톰이 나가기 전입니까, 후입니까?","a":"나간 뒤 — 나가자마자 곧바로입니다","tip":"the moment 는 여기서 '~하자마자'라는 접속사입니다. was gone 은 '죽었다'가 아니라 '가 버렸다'입니다."},
+  {"t":"who","q":"<b>she ran to a closet and got out the ruin of a jacket</b> — 이모가 한 일은 무엇입니까?","a":"벽장으로 달려가 다 해진 웃옷을 꺼낸 것입니다","tip":"got out 을 '나갔다'로 읽으면 뒤의 목적어가 붕 뜹니다. the ruin of a jacket 은 '걸레짝이 된 웃옷'입니다."},
+  {"t":"mod","q":"<b>which Tom had gone pirating in</b> 은 무엇을 설명합니까?","a":"그 다 해진 웃옷(jacket) — 톰이 그 옷을 입고 해적질하러 갔던 것입니다","tip":"앞의 closet(벽장)을 설명하는 말로 붙이기 쉽습니다. 맨 끝의 in 은 jacket 과 짝입니다(in the jacket)."}
+ ],
+ "19.28.1": [
+  {"t":"time","q":"<b>I reckon he’s lied about it</b> 의 he’s 는 he is 입니까, he has 입니까?","a":"he has — '저 애가 거짓말을 한 것 같다'는 뜻입니다","tip":"he is lied 로 읽으면 수동태처럼 보여 문장이 무너집니다. 거짓말을 한 쪽은 톰입니다."},
+  {"t":"pron","q":"<b>there’s such a comfort come from it</b> 의 it 은 무엇입니까?","a":"톰이 한 그 거짓말 — 그 거짓말에서 이렇게 큰 위안이 나왔다는 뜻입니다","tip":"이모가 손에 든 웃옷으로 잡기 쉽습니다. 바로 앞의 a blessed, blessed lie 를 받습니다."},
+  {"t":"mod","q":"<b>come from it</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 such a comfort — '그것에서 나온 그런 큰 위안'입니다","tip":"옛말 투라 that has 가 빠져 있습니다. come 을 따로 떨어진 동사로 읽으면 문장이 끊깁니다."}
+ ],
+ "19.28.2": [
+  {"t":"pron","q":"<b>because it was such good-heartedness in him to tell it</b> — 앞쪽의 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to tell it 입니다","tip":"'그것은 착한 마음씨였다'로 옮기면 그 '그것'을 앞에서 찾다가 길을 잃습니다."},
+  {"t":"who","q":"<b>to tell it</b> — 그 말을 한 사람은 누구입니까?","a":"톰 — 톰이 그 말을 한 것이 그토록 착한 마음에서 나왔다는 뜻입니다","tip":"in him 이 그 행동을 한 사람을 알려 줍니다. 주님(the Lord)이 말한 것이 아닙니다."},
+  {"t":"pron","q":"<b>to tell it</b> 의 it 은 무엇입니까?","a":"톰이 한 그 거짓말 — 꿈에서 다 보았다고 한 그 이야기입니다","tip":"용서를 구하는 것도, 착한 마음씨라고 하는 것도 모두 이 거짓말 하나를 두고 하는 말입니다."}
+ ],
+ "19.29.2": [
+  {"t":"time","q":"<b>Once more she ventured</b> — 이모가 손을 뻗은 것은 이번이 처음입니까?","a":"아니요 — 앞서 한 번 손을 댔다가 물러섰고, 이번이 다시 한 번입니다","tip":"once more 는 '한 번 더'입니다. '처음으로 큰맘 먹고'로 읽으면 앞 장면이 지워집니다."},
+  {"t":"neg","q":"<b>I won’t let it grieve me</b> — 이모는 그 거짓말 때문에 슬퍼하겠다는 것입니까?","a":"아니요 — 그것 때문에는 슬퍼하지 않겠다고 다짐한 것입니다","tip":"won’t(= will not)를 놓치면 정반대가 됩니다. grieve me 는 '나를 슬프게 하다'입니다."},
+  {"t":"mod","q":"콜론 뒤의 <b>“It’s a good lie—it’s a good lie—I won’t let it grieve me.”</b> 는 무엇을 풀어 준 말입니까?","a":"바로 앞의 the thought — 이모가 마음을 다잡은 그 '생각'의 내용입니다","tip":"따옴표가 붙어 있어도 소리 내어 한 말이 아니라 속으로 되뇐 생각입니다."}
+ ],
+ "19.29.4": [
+  {"t":"who","q":"<b>and saying:</b> 뒤의 따옴표 속 말을 한 사람은 누구입니까?","a":"폴리 이모(she) — was reading 과 saying 이 모두 she 에 걸립니다","tip":"바로 앞에 Tom’s piece of bark 가 있어 톰이 한 말로 읽기 쉽습니다. 말 속의 the boy 가 곧 톰입니다."},
+  {"t":"mod","q":"<b>through flowing tears</b> 는 무엇을 설명합니까?","a":"이모가 그것을 읽던 모습 — 눈물이 줄줄 흐르는 눈으로 읽었다는 뜻입니다","tip":"나무껍질 쪽지(bark)를 꾸미는 말로 붙이면 뜻이 이상해집니다. 우는 사람은 이모입니다."},
+  {"t":"time","q":"<b>if he’d committed a million sins</b> — 톰이 실제로 그런 죄를 지었습니까?","a":"아니요 — '설령 그랬더라도 용서하겠다'는 가정입니다","tip":"he’d 는 he had 입니다(he would 가 아닙니다). 실제로 있었던 일을 말하는 것이 아닙니다."}
+ ]
+}

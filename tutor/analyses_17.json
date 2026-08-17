@@ -1,0 +1,365 @@
+[
+ {
+  "id": "17.0.1",
+  "en": "The Harpers, and Aunt Polly’s family, were being put into mourning, with great grief and many tears.",
+  "s": "The Harpers, and Aunt Polly’s family",
+  "v": "were being put",
+  "chunks": [
+   {"en": "The Harpers, and Aunt Polly’s family,", "ko": "하퍼네 식구들과 폴리 이모네 식구들은", "r": "주어(둘을 쉼표로 묶음)"},
+   {"en": "were being put into mourning,", "ko": "상(喪)에 들어가고 있었다 (상복을 입고 있었다)", "r": "동사(수동+진행)"},
+   {"en": "with great grief and many tears.", "ko": "큰 슬픔과 많은 눈물 속에서", "r": "전치사구(상태)"}
+  ],
+  "ko": "하퍼네 식구들과 폴리 이모네 식구들은 큰 슬픔과 많은 눈물 속에서 상복을 입고 있었다.",
+  "why": "동사가 \"were being put\" 세 단어짜리 수동 진행형(~되고 있었다)이라 눈에 잘 안 들어온다. 주어가 \"The Harpers\"와 \"Aunt Polly’s family\" 둘이고 쉼표로 묶여 있으니, 두 번째 쉼표까지가 주어라고 보면 된다. put into mourning은 '초상을 치르는 상태가 되다, 상복을 입다'.",
+  "st": []
+ },
+ {
+  "id": "17.1.0",
+  "en": "In the afternoon Becky Thatcher found herself moping about the deserted schoolhouse yard, and feeling very melancholy.",
+  "s": "Becky Thatcher",
+  "v": "found",
+  "chunks": [
+   {"en": "In the afternoon Becky Thatcher found herself", "ko": "오후에 베키 대처는 자기 자신이 ~하고 있는 것을 알아차렸다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "moping about the deserted schoolhouse yard,", "ko": "인적 없는 학교 운동장을 힘없이 서성이고 있는 (것을)", "r": "목적보어(~하고 있는)"},
+   {"en": "and feeling very melancholy.", "ko": "그리고 몹시 우울해하고 있는 (것을)", "r": "목적보어(나열)"}
+  ],
+  "ko": "오후가 되자 베키 대처는 어느새 자기도 모르게 인적 없는 학교 운동장을 힘없이 서성이며 몹시 우울해하고 있었다.",
+  "why": "\"find oneself ~ing\"는 '어느새 ~하고 있는 자신을 발견하다', 곧 '자기도 모르게 ~하고 있다'는 뜻이다. moping과 feeling 두 개의 ~ing가 모두 herself를 설명한다. mope about은 '기운 없이 어슬렁거리다'.",
+  "st": [6]
+ },
+ {
+  "id": "17.5.1",
+  "en": "Then quite a group of boys and girls—playmates of Tom’s and Joe’s—came by, and stood looking over the paling fence and talking in reverent tones of how Tom did so-and-so the last time they saw him, and how Joe said this and that small trifle (pregnant with awful prophecy, as they could easily see now!)—and each speaker pointed out the exact spot where the lost lads stood at the time, and then added something like “and I was a-standing just so—just as I am now, and as if you was him—I was as close as that—and he smiled, just this way—and then something seemed to go all over me, like—awful, you know—and I never thought what it meant, of course, but I can see now!”",
+  "s": "quite a group of boys and girls",
+  "v": "came by",
+  "chunks": [
+   {"en": "Then quite a group of boys and girls—playmates of Tom’s and Joe’s—came by,", "ko": "그때 꽤 많은 남자아이 여자아이 무리가—톰과 조의 놀이 친구들이—지나가다가", "r": "주어 + 곁말(대시 삽입) + 동사"},
+   {"en": "and stood looking over the paling fence", "ko": "말뚝 울타리 너머를 들여다보며 서 있었다", "r": "대등 동사 + 분사(~하면서)"},
+   {"en": "and talking in reverent tones", "ko": "그리고 경건한 목소리로 이야기하면서", "r": "분사(나열)"},
+   {"en": "of how Tom did so-and-so the last time they saw him,", "ko": "마지막으로 톰을 봤을 때 톰이 이러이러한 짓을 했다는 이야기며", "r": "전치사 of + 의문사절"},
+   {"en": "and how Joe said this and that small trifle", "ko": "조가 이런저런 사소한 말을 했다는 이야기를", "r": "나열(of에 걸림)"},
+   {"en": "(pregnant with awful prophecy,", "ko": "(무시무시한 예언이 잔뜩 담긴 말이었다,", "r": "삽입(괄호, trifle 설명)"},
+   {"en": "as they could easily see now!)—and each speaker pointed out", "ko": "이제는 누가 봐도 알 수 있듯이!)—그리고 말하는 아이마다 콕 집어 가리켰다", "r": "삽입 마무리 + 대등절 주어 + 동사"},
+   {"en": "the exact spot where the lost lads stood at the time,", "ko": "그때 잃어버린 아이들이 서 있던 바로 그 자리를", "r": "목적어 + 관계절(장소)"},
+   {"en": "and then added something like", "ko": "그러고는 이런 식의 말을 덧붙였다", "r": "대등 동사"},
+   {"en": "“and I was a-standing just so—just as I am now,", "ko": "\"그리고 난 딱 이렇게 서 있었어—지금 이 자세 그대로,", "r": "인용(대사) 시작"},
+   {"en": "and as if you was him—I was as close as that—and he smiled,", "ko": "네가 걔라고 치고 말이야—난 딱 이만큼 가까이 있었지—그리고 걔가 웃었어,", "r": "인용(대사) 이어짐"},
+   {"en": "just this way—and then something seemed to go all over me,", "ko": "꼭 이렇게—그러더니 뭔가가 온몸을 훑고 지나가는 것 같았어,", "r": "인용(대사) 이어짐"},
+   {"en": "like—awful, you know—and I never thought what it meant, of course,", "ko": "뭐랄까—섬뜩했지, 알잖아—물론 그땐 그게 무슨 뜻인지 생각도 못 했지만,", "r": "인용 + 곁말(대시 삽입)"},
+   {"en": "but I can see now!”", "ko": "지금은 알겠어!\"", "r": "인용(대사) 마무리"}
+  ],
+  "ko": "그때 남자아이 여자아이 한 무리가—톰과 조의 놀이 친구들이—지나가다가 말뚝 울타리 너머를 들여다보며 경건한 목소리로 이야기를 나누었다. 마지막으로 톰을 봤을 때 톰이 이러이러한 짓을 했다느니, 조가 이런저런 사소한 말을 했다느니(지금 와서 보니 무시무시한 예언이 담긴 말이었다!) 하는 이야기였다. 그러고는 말하는 아이마다 죽은 소년들이 그때 서 있던 바로 그 자리를 가리키며 이런 말을 덧붙였다. \"그리고 난 딱 이렇게 서 있었어—지금 이 자세 그대로, 네가 걔라고 치고—난 딱 이만큼 가까이 있었지—그리고 걔가 웃었어, 꼭 이렇게—그러더니 뭔가가 온몸을 훑고 지나가는 것 같았어, 뭐랄까—섬뜩했지, 알잖아—물론 그땐 그게 무슨 뜻인지 생각도 못 했지만, 지금은 알겠어!\"",
+  "why": "주어 \"quite a group of boys and girls\" 뒤에 대시로 낀 설명(playmates of Tom’s and Joe’s)을 건너뛰면 동사 came by가 보인다. stood 뒤의 looking과 talking은 '~하면서'이고, talking of 뒤에 how절 두 개가 나란히 걸린다. 뒤쪽 대사는 아이들의 시골 말투라 a-standing은 standing, you was는 you were, like는 '뭐랄까' 정도의 말버릇이다.",
+  "st": [2, 4, 6, 14]
+ },
+ {
+  "id": "17.6.0",
+  "en": "Then there was a dispute about who saw the dead boys last in life, and many claimed that dismal distinction, and offered evidences, more or less tampered with by the witness; and when it was ultimately decided who did see the departed last, and exchanged the last words with them, the lucky parties took upon themselves a sort of sacred importance, and were gaped at and envied by all the rest.",
+  "s": "a dispute",
+  "v": "was",
+  "chunks": [
+   {"en": "Then there was a dispute", "ko": "그러고는 논쟁이 벌어졌다", "r": "There was + 진짜 주어"},
+   {"en": "about who saw the dead boys last in life,", "ko": "죽은 아이들이 살아 있을 때 누가 마지막으로 봤느냐를 두고", "r": "전치사구 + 의문사절"},
+   {"en": "and many claimed that dismal distinction,", "ko": "그리고 많은 아이들이 그 음침한 영예를 자기 것이라 우겼다", "r": "대등절"},
+   {"en": "and offered evidences,", "ko": "그리고 증거를 내놓았는데", "r": "대등 동사"},
+   {"en": "more or less tampered with by the witness;", "ko": "증인 자신이 어느 정도 손을 본 증거였다", "r": "과거분사구(evidences 설명)"},
+   {"en": "and when it was ultimately decided", "ko": "그리고 마침내 판가름이 났을 때", "r": "부사절(때, it = 가주어)"},
+   {"en": "who did see the departed last,", "ko": "누가 정말로 죽은 아이들을 마지막으로 보았는지", "r": "진주어(의문사절)"},
+   {"en": "and exchanged the last words with them,", "ko": "그리고 마지막 말을 나누었는지가", "r": "의문사절 안 대등 동사"},
+   {"en": "the lucky parties took upon themselves a sort of sacred importance,", "ko": "그 운 좋은 당사자들은 일종의 신성한 중요 인물 행세를 하게 되었다", "r": "주절 주어 + 동사 + 목적어"},
+   {"en": "and were gaped at and envied by all the rest.", "ko": "그리고 나머지 아이들 모두가 입을 벌리고 쳐다보며 부러워했다", "r": "대등 동사(수동)"}
+  ],
+  "ko": "그러고는 살아 있는 아이들을 누가 마지막으로 보았느냐를 두고 논쟁이 벌어졌고, 많은 아이들이 그 음침한 영예를 자기 것이라 주장하며 증거를 내놓았는데, 그 증거란 증인 자신이 어느 정도 손을 본 것이었다. 그리고 누가 정말로 죽은 아이들을 마지막으로 보고 마지막 말을 나누었는지 마침내 판가름이 나자, 그 운 좋은 당사자들은 일종의 신성한 중요 인물 행세를 하게 되었고, 나머지 아이들 모두에게 부러움 섞인 시선을 받았다.",
+  "why": "\"there was ~\"에서 there는 자리만 채우는 말이고 진짜 주어는 뒤의 a dispute다. 세미콜론 앞뒤로 크게 두 덩어리이고, 세미콜론 뒤는 When절이 먼저 나온 다음 주절(the lucky parties took …)이 온다. \"more or less tampered with by the witness\"는 앞의 evidences를 뒤에서 꾸미는 과거분사구(증인이 슬쩍 손본 증거). \"did see\"의 did는 '정말로'라는 강조다.",
+  "st": [3, 8, 14, 17]
+ },
+ {
+  "id": "17.9.0",
+  "en": "When the Sunday-school hour was finished, the next morning, the bell began to toll, instead of ringing in the usual way.",
+  "s": "the bell",
+  "v": "began",
+  "chunks": [
+   {"en": "When the Sunday-school hour was finished,", "ko": "주일학교 시간이 끝나자", "r": "부사절(때)"},
+   {"en": "the next morning,", "ko": "이튿날 아침", "r": "시간(삽입)"},
+   {"en": "the bell began to toll,", "ko": "종이 조종(弔鐘)을 치기 시작했다", "r": "주어 + 동사"},
+   {"en": "instead of ringing in the usual way.", "ko": "평소처럼 울리는 대신에", "r": "전치사구(대조)"}
+  ],
+  "ko": "이튿날 아침 주일학교 시간이 끝나자, 종은 평소처럼 울리는 대신 천천히 조종을 치기 시작했다.",
+  "why": "부사절(When …)과 시간 삽입구(the next morning)가 먼저 나오는 바람에 주어 the bell이 한참 뒤에 나온다. toll은 사람이 죽었을 때 느리게 한 번씩 치는 '조종'이고 ring은 평소의 종소리라, 이 둘을 대비시켜 초상이 났음을 알린다.",
+  "st": [8]
+ },
+ {
+  "id": "17.9.1",
+  "en": "It was a very still Sabbath, and the mournful sound seemed in keeping with the musing hush that lay upon nature.",
+  "s": "It",
+  "v": "was",
+  "chunks": [
+   {"en": "It was a very still Sabbath,", "ko": "아주 고요한 안식일이었다", "r": "주어 + 동사 + 보어"},
+   {"en": "and the mournful sound seemed", "ko": "그리고 그 구슬픈 소리는 ~인 듯했다", "r": "대등절 주어 + 동사"},
+   {"en": "in keeping with the musing hush", "ko": "사색에 잠긴 듯한 정적과 잘 어울리는", "r": "보어(전치사구)"},
+   {"en": "that lay upon nature.", "ko": "자연 위에 내려앉아 있던", "r": "관계절(hush 설명)"}
+  ],
+  "ko": "아주 고요한 안식일이었고, 그 구슬픈 종소리는 자연 위에 내려앉은 사색에 잠긴 듯한 정적과 잘 어울리는 듯했다.",
+  "why": "\"be(seem) in keeping with ~\"는 '~와 어울리다'라는 숙어이므로, seemed 뒤에 형용사가 없다고 당황하지 말 것. that lay upon nature는 앞의 hush(정적)를 꾸미는 관계절이고, lay는 lie(놓여 있다)의 과거형이다(눕히다 lay가 아니다).",
+  "st": []
+ },
+ {
+  "id": "17.9.2",
+  "en": "The villagers began to gather, loitering a moment in the vestibule to converse in whispers about the sad event.",
+  "s": "The villagers",
+  "v": "began",
+  "chunks": [
+   {"en": "The villagers began to gather,", "ko": "마을 사람들이 모여들기 시작했다", "r": "주어 + 동사"},
+   {"en": "loitering a moment in the vestibule", "ko": "현관 홀에서 잠시 서성이면서", "r": "분사구문(~하면서)"},
+   {"en": "to converse in whispers about the sad event.", "ko": "그 슬픈 일에 대해 소곤소곤 이야기를 나누려고", "r": "목적(to부정사)"}
+  ],
+  "ko": "마을 사람들이 모여들기 시작했다. 현관 홀에서 잠시 서성이며 그 슬픈 일에 대해 소곤소곤 이야기를 나누었다.",
+  "why": "주절은 \"The villagers began to gather\"뿐이고, 뒤의 loitering …은 '~하면서'로 덧붙는 분사구문이다. 그 안의 to converse는 '이야기를 나누려고'라는 목적. vestibule은 교회 입구의 현관 홀.",
+  "st": [6]
+ },
+ {
+  "id": "17.9.3",
+  "en": "But there was no whispering in the house; only the funereal rustling of dresses as the women gathered to their seats disturbed the silence there.",
+  "s": "no whispering",
+  "v": "was",
+  "chunks": [
+   {"en": "But there was no whispering in the house;", "ko": "하지만 예배당 안에서는 속삭이는 소리가 없었다", "r": "There was + 진짜 주어"},
+   {"en": "only the funereal rustling of dresses", "ko": "장례식장 같은 옷자락 스치는 소리만이", "r": "주어(긴 주어)"},
+   {"en": "as the women gathered to their seats", "ko": "여자들이 자기 자리로 모여들 때 나는", "r": "부사절(때, 주어와 동사 사이에 낌)"},
+   {"en": "disturbed the silence there.", "ko": "그곳의 정적을 흔들어 놓았다", "r": "동사 + 목적어"}
+  ],
+  "ko": "하지만 예배당 안에서는 아무도 속삭이지 않았다. 여자들이 자기 자리로 모여들 때 나는, 장례식장 같은 옷자락 스치는 소리만이 그곳의 정적을 흔들어 놓았다.",
+  "why": "세미콜론 뒤가 함정이다. 주어는 \"only the funereal rustling of dresses\"이고 동사는 맨 끝의 disturbed인데, 그 사이에 시간 부사절(as the women gathered …)이 통째로 끼어 있어 동사가 아주 멀다. as절을 괄호로 묶어 치우면 \"소리만이 정적을 깨뜨렸다\"라는 뼈대가 보인다.",
+  "st": [3, 17, 18]
+ },
+ {
+  "id": "17.9.5",
+  "en": "There was finally a waiting pause, an expectant dumbness, and then Aunt Polly entered, followed by Sid and Mary, and they by the Harper family, all in deep black, and the whole congregation, the old minister as well, rose reverently and stood until the mourners were seated in the front pew.",
+  "s": "a waiting pause",
+  "v": "was",
+  "chunks": [
+   {"en": "There was finally a waiting pause, an expectant dumbness,", "ko": "마침내 기다림의 정적이, 무언가를 기대하는 침묵이 흘렀다", "r": "There was + 주어 + 동격"},
+   {"en": "and then Aunt Polly entered,", "ko": "그리고 이윽고 폴리 이모가 들어왔다", "r": "대등절"},
+   {"en": "followed by Sid and Mary,", "ko": "그 뒤를 시드와 메리가 따랐고", "r": "과거분사구(~에게 뒤따라져)"},
+   {"en": "and they by the Harper family, all in deep black,", "ko": "그들 뒤를 다시 하퍼 가족이 따랐는데, 모두 짙은 검은 상복 차림이었다", "r": "대등(followed 생략) + 삽입"},
+   {"en": "and the whole congregation, the old minister as well,", "ko": "그리고 회중 전체가, 늙은 목사까지도", "r": "대등절 주어 + 동격 삽입"},
+   {"en": "rose reverently and stood", "ko": "경건하게 일어서서 서 있었다", "r": "동사 둘"},
+   {"en": "until the mourners were seated in the front pew.", "ko": "유족들이 맨 앞자리에 앉을 때까지", "r": "부사절(때)"}
+  ],
+  "ko": "마침내 기다림의 정적이, 무언가를 기대하는 침묵이 흘렀고, 이윽고 폴리 이모가 들어왔다. 그 뒤를 시드와 메리가, 다시 그 뒤를 하퍼 가족이 따랐는데 모두 짙은 검은 상복 차림이었다. 그러자 회중 전체가, 늙은 목사까지도, 경건하게 일어서서 유족들이 맨 앞자리에 앉을 때까지 서 있었다.",
+  "why": "\"and they by the Harper family\"에는 followed가 생략되어 있다(그들 뒤를 하퍼 가족이 따랐다). 마지막 부분은 주어 \"the whole congregation\"과 동사 rose 사이에 동격 삽입(the old minister as well)이 끼어 있으니, 쉼표 사이를 건너뛰고 \"회중 전체가 일어섰다\"로 이어 읽을 것.",
+  "st": [14, 17, 18]
+ },
+ {
+  "id": "17.9.6",
+  "en": "There was another communing silence, broken at intervals by muffled sobs, and then the minister spread his hands abroad and prayed.",
+  "s": "another communing silence",
+  "v": "was",
+  "chunks": [
+   {"en": "There was another communing silence,", "ko": "또 한 번, 함께 마음을 나누는 듯한 침묵이 흘렀다", "r": "There was + 진짜 주어"},
+   {"en": "broken at intervals by muffled sobs,", "ko": "이따금 낮게 새어 나오는 흐느낌에 끊기는", "r": "과거분사구(silence 설명)"},
+   {"en": "and then the minister spread his hands abroad and prayed.", "ko": "그리고 이윽고 목사가 두 손을 활짝 펼치고 기도했다", "r": "대등절(동사 둘)"}
+  ],
+  "ko": "또 한 번 함께 마음을 나누는 듯한 침묵이 흘렀고, 그 침묵은 이따금 낮게 새어 나오는 흐느낌에 끊기곤 했다. 이윽고 목사가 두 손을 활짝 펼치고 기도를 올렸다.",
+  "why": "\"broken at intervals by muffled sobs\"는 앞의 silence를 뒤에서 꾸미는 과거분사구다. broken을 동사로 착각해 새 문장으로 끊어 읽지 말 것. at intervals는 '이따금, 간간이', spread his hands abroad는 '두 팔을 활짝 벌리다'.",
+  "st": [17]
+ },
+ {
+  "id": "17.9.7",
+  "en": "A moving hymn was sung, and the text followed: “I am the Resurrection and the Life.”",
+  "s": "A moving hymn",
+  "v": "was sung",
+  "chunks": [
+   {"en": "A moving hymn was sung,", "ko": "가슴을 울리는 찬송가가 불렸다", "r": "주어 + 동사(수동)"},
+   {"en": "and the text followed:", "ko": "그리고 성경 구절이 뒤따랐다", "r": "대등절 + 콜론"},
+   {"en": "“I am the Resurrection and the Life.”", "ko": "\"나는 부활이요 생명이니.\"", "r": "인용(성경 구절)"}
+  ],
+  "ko": "가슴을 울리는 찬송가가 울려 퍼졌고, 이어서 성경 구절이 낭독되었다. \"나는 부활이요 생명이니.\"",
+  "why": "moving은 '움직이는'이 아니라 '감동적인'. the text는 설교의 바탕이 되는 성경 구절을 가리키고, 콜론(:) 뒤가 바로 그 구절이다(요한복음 11장, 장례 예배에서 흔히 읽는 대목).",
+  "st": [5]
+ },
+ {
+  "id": "17.10.0",
+  "en": "As the service proceeded, the clergyman drew such pictures of the graces, the winning ways, and the rare promise of the lost lads that every soul there, thinking he recognized these pictures, felt a pang in remembering that he had persistently blinded himself to them always before, and had as persistently seen only faults and flaws in the poor boys.",
+  "s": "the clergyman",
+  "v": "drew",
+  "chunks": [
+   {"en": "As the service proceeded,", "ko": "예배가 진행되면서", "r": "부사절(때)"},
+   {"en": "the clergyman drew such pictures of the graces,", "ko": "목사는 그 아름다운 품성을 어찌나 생생하게 그려 냈던지", "r": "주어 + 동사 + 목적어(such … that)"},
+   {"en": "the winning ways, and the rare promise of the lost lads", "ko": "사람을 끄는 태도, 그리고 잃어버린 아이들의 보기 드문 장래성을", "r": "목적어(나열)"},
+   {"en": "that every soul there,", "ko": "그래서 그곳에 있던 사람은 누구나", "r": "결과절(that) 주어"},
+   {"en": "thinking he recognized these pictures,", "ko": "그 모습이 낯익다고 여기면서", "r": "분사구문(~하면서)"},
+   {"en": "felt a pang in remembering", "ko": "떠올리고는 가슴이 아려 왔다", "r": "결과절 동사"},
+   {"en": "that he had persistently blinded himself to them always before,", "ko": "그전까지 자기가 그런 점에 한사코 눈을 감아 왔다는 것을", "r": "목적어(that절)"},
+   {"en": "and had as persistently seen only faults and flaws in the poor boys.", "ko": "그리고 그 불쌍한 아이들에게서 결점과 흠만 그만큼이나 집요하게 보아 왔다는 것을", "r": "that절 안 대등 동사"}
+  ],
+  "ko": "예배가 진행되는 동안 목사는 잃어버린 소년들의 아름다운 품성과 사람을 끄는 태도, 그리고 보기 드문 장래성을 어찌나 생생하게 그려 냈던지, 거기 있던 사람들은 저마다 그 모습이 낯익다고 여기면서, 그전까지 자기가 그런 점에는 한사코 눈을 감고 그 불쌍한 아이들에게서 결점과 흠만 그토록 집요하게 보아 왔다는 사실을 떠올리고 가슴이 아려 왔다.",
+  "why": "핵심은 \"such … that …\"(너무나 ~해서 그 결과 …하다)의 짝을 찾는 것이다. such pictures와 that 사이에 목적어 나열이 길게 끼어 있어 짝이 끊겨 보인다. that절 안에서도 주어 every soul there와 동사 felt 사이에 분사구문(thinking …)이 들어가 동사가 멀다. \"had as persistently seen\"은 앞의 had blinded와 짝을 이루는 과거완료.",
+  "st": [6, 8, 18]
+ },
+ {
+  "id": "17.10.1",
+  "en": "The minister related many a touching incident in the lives of the departed, too, which illustrated their sweet, generous natures, and the people could easily see, now, how noble and beautiful those episodes were, and remembered with grief that at the time they occurred they had seemed rank rascalities, well deserving of the cowhide.",
+  "s": "The minister",
+  "v": "related",
+  "chunks": [
+   {"en": "The minister related many a touching incident", "ko": "목사는 가슴 뭉클한 일화도 여러 가지 들려주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in the lives of the departed, too,", "ko": "죽은 아이들의 삶에서 있었던", "r": "전치사구"},
+   {"en": "which illustrated their sweet, generous natures,", "ko": "그 일화들은 아이들의 다정하고 너그러운 천성을 잘 보여 주었다", "r": "관계절(앞 문장 설명)"},
+   {"en": "and the people could easily see, now,", "ko": "그리고 사람들은 이제야 쉽게 알아볼 수 있었다", "r": "대등절 + 삽입(now)"},
+   {"en": "how noble and beautiful those episodes were,", "ko": "그 일들이 얼마나 고귀하고 아름다웠는지를", "r": "목적어(감탄 의문사절)"},
+   {"en": "and remembered with grief", "ko": "그리고 슬픔 속에 떠올렸다", "r": "대등 동사"},
+   {"en": "that at the time they occurred", "ko": "그 일이 벌어졌던 그때는", "r": "목적어(that절) 안 시간 부사절"},
+   {"en": "they had seemed rank rascalities,", "ko": "그것이 지독한 못된 짓으로만 보였다는 것을", "r": "that절 주어 + 동사 + 보어"},
+   {"en": "well deserving of the cowhide.", "ko": "매를 맞아도 싼", "r": "분사구(rascalities 설명)"}
+  ],
+  "ko": "목사는 죽은 아이들의 삶에서 있었던 가슴 뭉클한 일화도 여러 가지 들려주었는데, 그 일화들은 아이들의 다정하고 너그러운 천성을 잘 보여 주는 것이었다. 사람들은 이제야 그 일들이 얼마나 고귀하고 아름다웠는지 쉽게 알아볼 수 있었고, 정작 그 일이 벌어졌던 그때는 그것이 매를 맞아도 싼 지독한 못된 짓으로만 보였다는 사실을 슬픔 속에 떠올렸다.",
+  "why": "\"many a + 단수명사\"는 '많은 ~'이라는 옛 표현(= many touching incidents)이니 단수라고 헷갈리지 말 것. 쉼표 뒤 which는 앞의 일화들을 설명하는 관계절이다. 마지막 that절에서는 시간 부사절(at the time they occurred)이 주어 they보다 먼저 나와 순서가 꼬여 보인다. cowhide는 소가죽 채찍, 곧 매질을 뜻한다.",
+  "st": [6, 9]
+ },
+ {
+  "id": "17.10.2",
+  "en": "The congregation became more and more moved, as the pathetic tale went on, till at last the whole company broke down and joined the weeping mourners in a chorus of anguished sobs, the preacher himself giving way to his feelings, and crying in the pulpit.",
+  "s": "The congregation",
+  "v": "became",
+  "chunks": [
+   {"en": "The congregation became more and more moved,", "ko": "회중은 점점 더 감정이 북받쳤다", "r": "주어 + 동사 + 보어"},
+   {"en": "as the pathetic tale went on,", "ko": "그 애처로운 이야기가 이어질수록", "r": "부사절(비례)"},
+   {"en": "till at last the whole company broke down", "ko": "마침내 온 교회가 무너지듯 울음을 터뜨릴 때까지", "r": "부사절(때)"},
+   {"en": "and joined the weeping mourners in a chorus of anguished sobs,", "ko": "그리고 울고 있는 유족들과 함께 고통스러운 흐느낌의 합창에 동참했다", "r": "부사절 안 대등 동사"},
+   {"en": "the preacher himself giving way to his feelings,", "ko": "목사 자신도 감정에 무너져", "r": "분사구문(주어가 따로 있음)"},
+   {"en": "and crying in the pulpit.", "ko": "설교단에서 울면서", "r": "분사구문(나열)"}
+  ],
+  "ko": "그 애처로운 이야기가 이어질수록 회중은 점점 더 감정이 북받쳤고, 마침내 온 교회가 무너지듯 울음을 터뜨려 유족들과 함께 고통스러운 흐느낌의 합창에 동참하고 말았다. 목사 자신도 감정을 억누르지 못하고 설교단에서 울었다.",
+  "why": "moved는 '움직인'이 아니라 '감동한, 마음이 북받친'. 맨 뒤 \"the preacher himself giving way …\"는 앞 절과 주어가 다른 분사구문으로, 자기 주어(the preacher himself)를 앞에 달고 '목사 자신도 ~하면서'라고 딴 사람의 동작을 덧붙인 것이다. give way to ~는 '~에 굴복하다, 감정을 터뜨리다'.",
+  "st": [6]
+ },
+ {
+  "id": "17.11.0",
+  "en": "There was a rustle in the gallery, which nobody noticed; a moment later the church door creaked; the minister raised his streaming eyes above his handkerchief, and stood transfixed!",
+  "s": "a rustle",
+  "v": "was",
+  "chunks": [
+   {"en": "There was a rustle in the gallery,", "ko": "이층 좌석에서 부스럭거리는 소리가 났다", "r": "There was + 진짜 주어"},
+   {"en": "which nobody noticed;", "ko": "그런데 아무도 그 소리를 알아채지 못했다", "r": "관계절(쉼표 + which, 앞 명사 설명)"},
+   {"en": "a moment later the church door creaked;", "ko": "잠시 뒤 교회 문이 삐걱거렸다", "r": "대등절(세미콜론)"},
+   {"en": "the minister raised his streaming eyes above his handkerchief,", "ko": "목사가 손수건 위로 눈물이 줄줄 흐르는 눈을 들었다", "r": "대등절"},
+   {"en": "and stood transfixed!", "ko": "그리고 못 박힌 듯 굳어 버렸다", "r": "대등 동사 + 보어"}
+  ],
+  "ko": "이층 좌석에서 부스럭거리는 소리가 났지만 아무도 알아채지 못했다. 잠시 뒤 교회 문이 삐걱거렸다. 목사는 손수건 위로 눈물에 젖은 눈을 들었다가 그 자리에 못 박힌 듯 굳어 버렸다!",
+  "why": "세미콜론으로 짧은 장면 셋이 잇달아 이어진다. 절마다 주어를 하나씩 짚으면 된다(a rustle / the church door / the minister). 쉼표 뒤 which는 앞의 a rustle을 가리키는 관계절이고, streaming eyes는 '눈물이 줄줄 흐르는 눈', transfixed는 '못 박힌 듯 굳은'이다.",
+  "st": [3, 9, 17]
+ },
+ {
+  "id": "17.11.1",
+  "en": "First one and then another pair of eyes followed the minister’s, and then almost with one impulse the congregation rose and stared while the three dead boys came marching up the aisle, Tom in the lead, Joe next, and Huck, a ruin of drooping rags, sneaking sheepishly in the rear!",
+  "s": "First one and then another pair of eyes",
+  "v": "followed",
+  "chunks": [
+   {"en": "First one and then another pair of eyes followed the minister’s,", "ko": "처음엔 한 쌍, 그다음엔 또 한 쌍의 눈이 목사의 시선을 따라갔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and then almost with one impulse the congregation rose and stared", "ko": "그리고 거의 한 몸처럼 회중이 일어나 뚫어지게 바라보았다", "r": "대등절(부사구 앞) + 동사 둘"},
+   {"en": "while the three dead boys came marching up the aisle,", "ko": "죽었다던 세 소년이 통로를 따라 행진하듯 걸어오는 동안", "r": "부사절(때)"},
+   {"en": "Tom in the lead, Joe next,", "ko": "톰이 맨 앞, 그다음이 조", "r": "나열(동사 없는 배치 설명)"},
+   {"en": "and Huck, a ruin of drooping rags,", "ko": "그리고 허크는, 축 늘어진 누더기 덩어리 같은 몰골로", "r": "나열 + 동격(허크 설명)"},
+   {"en": "sneaking sheepishly in the rear!", "ko": "맨 뒤에서 겸연쩍게 슬금슬금 따라오면서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "처음엔 한 쌍, 그다음엔 또 한 쌍의 눈이 목사의 시선을 따라갔고, 이윽고 거의 한 몸처럼 회중 전체가 일어나 뚫어지게 바라보았다. 죽었다던 세 소년이 통로를 따라 행진하듯 걸어오고 있었던 것이다. 톰이 맨 앞, 그다음이 조, 그리고 맨 뒤에는 축 늘어진 누더기 덩어리 같은 허크가 겸연쩍게 슬금슬금 따라오고 있었다!",
+  "why": "the minister’s는 the minister’s eyes(목사의 시선)에서 eyes가 생략된 소유격이다. while절 뒤로는 \"Tom in the lead, Joe next, and Huck … sneaking\"처럼 동사 없이 위치만 나열되니 '~가 …에'라고 읽으면 된다. \"a ruin of drooping rags\"는 허크를 가리키는 동격 표현.",
+  "st": [6, 14]
+ },
+ {
+  "id": "17.12.0",
+  "en": "Aunt Polly, Mary, and the Harpers threw themselves upon their restored ones, smothered them with kisses and poured out thanksgivings, while poor Huck stood abashed and uncomfortable, not knowing exactly what to do or where to hide from so many unwelcoming eyes.",
+  "s": "Aunt Polly, Mary, and the Harpers",
+  "v": "threw",
+  "chunks": [
+   {"en": "Aunt Polly, Mary, and the Harpers", "ko": "폴리 이모와 메리, 그리고 하퍼 가족은", "r": "주어(셋)"},
+   {"en": "threw themselves upon their restored ones,", "ko": "되돌아온 자기 아이들에게 와락 달려들었다", "r": "동사 + 목적어"},
+   {"en": "smothered them with kisses and poured out thanksgivings,", "ko": "입맞춤을 퍼붓고 감사의 말을 쏟아 냈다", "r": "대등 동사 둘"},
+   {"en": "while poor Huck stood abashed and uncomfortable,", "ko": "그동안 가엾은 허크는 멋쩍고 불편한 채로 서 있었다", "r": "부사절(대조)"},
+   {"en": "not knowing exactly what to do", "ko": "무엇을 해야 할지 도무지 몰라서", "r": "분사구문(~하지 못해서)"},
+   {"en": "or where to hide from so many unwelcoming eyes.", "ko": "반기지 않는 그 많은 눈길을 피해 어디로 숨어야 할지도", "r": "나열(what to do와 짝)"}
+  ],
+  "ko": "폴리 이모와 메리, 그리고 하퍼 가족은 되돌아온 자기 아이들에게 와락 달려들어 입맞춤을 퍼붓고 감사의 말을 쏟아 냈다. 그동안 가엾은 허크는 멋쩍고 불편한 얼굴로 서 있었다. 반기지 않는 그 많은 눈길을 피해 무엇을 해야 할지, 어디로 숨어야 할지 도무지 알 수 없었던 것이다.",
+  "why": "주어 셋에 동사 셋(threw … smothered … poured out)이 이어진다. their restored ones는 '되돌아온 자기 아이들'. 맨 뒤 \"not knowing …\"은 '~을 몰라서'라는 분사구문이고, 그 안에 what to do와 where to hide 두 개가 or로 나란히 걸린다.",
+  "st": [6, 14]
+ },
+ {
+  "id": "17.14.2",
+  "en": "And the loving attentions Aunt Polly lavished upon him were the one thing capable of making him more uncomfortable than he was before.",
+  "s": "the loving attentions",
+  "v": "were",
+  "chunks": [
+   {"en": "And the loving attentions Aunt Polly lavished upon him", "ko": "그리고 폴리 이모가 그에게 퍼부은 애정 어린 관심은", "r": "주어 + 관계절(that 생략)"},
+   {"en": "were the one thing", "ko": "유일한 것이었다", "r": "동사 + 보어"},
+   {"en": "capable of making him more uncomfortable", "ko": "그를 더 불편하게 만들 수 있는", "r": "형용사구(thing 수식)"},
+   {"en": "than he was before.", "ko": "그전보다도", "r": "비교(than절)"}
+  ],
+  "ko": "그리고 폴리 이모가 그에게 퍼부은 애정 어린 관심은, 그를 그전보다 더 불편하게 만들 수 있는 유일한 것이었다.",
+  "why": "주어는 \"the loving attentions (that) Aunt Polly lavished upon him\"으로, 관계대명사 that이 생략된 절이 attentions를 꾸민다. 그래서 진짜 동사 were가 한참 뒤에 나온다. 바로 앞에 있는 Aunt Polly를 주어로 착각하지 말 것. capable of ~ing는 '~할 수 있는'.",
+  "st": [18]
+ },
+ {
+  "id": "17.15.0",
+  "en": "Suddenly the minister shouted at the top of his voice: “Praise God from whom all blessings flow—sing!—and put your hearts in it!”",
+  "s": "the minister",
+  "v": "shouted",
+  "chunks": [
+   {"en": "Suddenly the minister shouted at the top of his voice:", "ko": "갑자기 목사가 목청껏 외쳤다", "r": "주어 + 동사 + 콜론"},
+   {"en": "“Praise God from whom all blessings flow—sing!—and", "ko": "\"모든 복이 흘러나오는 하나님을 찬양하라—노래하시오!—그리고", "r": "인용(대사) + 곁말(대시 삽입)"},
+   {"en": "put your hearts in it!”", "ko": "거기에 마음을 담으시오!\"", "r": "인용(명령문)"}
+  ],
+  "ko": "갑자기 목사가 목청껏 외쳤다. \"모든 복이 흘러나오는 하나님을 찬양하라—자, 노래합시다!—온 마음을 담아서!\"",
+  "why": "콜론(:) 뒤가 목사가 외친 말이다. \"Praise God from whom all blessings flow\"는 찬송가 'Old Hundred'(만복의 근원 하나님)의 첫 구절이라 교인이면 다 아는 문구이고, 대시 사이의 sing!은 그 자리에서 끼워 넣은 지시다. put your hearts in it은 '마음을 담아 부르라'.",
+  "st": [4, 5]
+ },
+ {
+  "id": "17.16.1",
+  "en": "Old Hundred swelled up with a triumphant burst, and while it shook the rafters Tom Sawyer the Pirate looked around upon the envying juveniles about him and confessed in his heart that this was the proudest moment of his life.",
+  "s": "Old Hundred",
+  "v": "swelled up",
+  "chunks": [
+   {"en": "Old Hundred swelled up with a triumphant burst,", "ko": "'만복의 근원' 찬송가가 승리에 찬 함성처럼 우렁차게 울려 퍼졌다", "r": "주어(노래 이름) + 동사"},
+   {"en": "and while it shook the rafters", "ko": "그리고 그 소리가 서까래를 흔드는 동안", "r": "부사절(때, 주어 앞에 옴)"},
+   {"en": "Tom Sawyer the Pirate looked around", "ko": "해적 톰 소여는 주위를 둘러보았다", "r": "주어 + 동사"},
+   {"en": "upon the envying juveniles about him", "ko": "자기 주위의 부러워하는 아이들을", "r": "전치사구"},
+   {"en": "and confessed in his heart", "ko": "그리고 마음속으로 인정했다", "r": "대등 동사"},
+   {"en": "that this was the proudest moment of his life.", "ko": "이것이 자기 인생에서 가장 자랑스러운 순간이라고", "r": "목적어(that절)"}
+  ],
+  "ko": "'만복의 근원' 찬송가가 승리에 찬 함성처럼 우렁차게 울려 퍼졌고, 그 소리가 서까래를 흔드는 동안 해적 톰 소여는 주위에 있는 부러움에 찬 아이들을 둘러보며 이것이 자기 인생에서 가장 자랑스러운 순간이라고 마음속으로 인정했다.",
+  "why": "Old Hundred는 찬송가 이름이므로 사람이 아니라 노래가 주어다. 대등절 안에서 부사절(while it shook the rafters)이 주어 Tom Sawyer보다 먼저 나와 주어를 놓치기 쉬우니, while절이 끝나는 곳부터 주어를 찾을 것. \"Tom Sawyer the Pirate\"는 '해적 톰 소여'라는 동격 별명이다.",
+  "st": [8]
+ },
+ {
+  "id": "17.17.0",
+  "en": "As the “sold” congregation trooped out they said they would almost be willing to be made ridiculous again to hear Old Hundred sung like that once more.",
+  "s": "they",
+  "v": "said",
+  "chunks": [
+   {"en": "As the “sold” congregation trooped out", "ko": "속아 넘어간 회중이 우르르 몰려 나가면서", "r": "부사절(때)"},
+   {"en": "they said they would almost be willing", "ko": "그들은 거의 기꺼이 ~해도 좋겠다고 말했다", "r": "주어 + 동사 + 목적어(that 생략)"},
+   {"en": "to be made ridiculous again", "ko": "다시 한번 웃음거리가 되어도", "r": "to부정사(수동)"},
+   {"en": "to hear Old Hundred sung like that once more.", "ko": "저렇게 부르는 '만복의 근원'을 한 번 더 들을 수만 있다면", "r": "목적(to부정사)"}
+  ],
+  "ko": "속아 넘어간 회중은 우르르 밖으로 몰려 나가면서, 저렇게 부르는 '만복의 근원'을 한 번만 더 들을 수 있다면 또 한 번 웃음거리가 되어도 좋겠다고 말했다.",
+  "why": "\"sold\"는 '팔린'이 아니라 '속아 넘어간'이라는 구어(sell = 속이다)라서 따옴표를 붙였다. \"be willing to be made ridiculous\"는 '웃음거리가 되어도 괜찮다', \"hear Old Hundred sung\"은 '찬송가가 불리는 것을 듣다'라는 지각동사 + 과거분사 구조다.",
+  "st": [8]
+ },
+ {
+  "id": "17.18.0",
+  "en": "Tom got more cuffs and kisses that day—according to Aunt Polly’s varying moods—than he had earned before in a year; and he hardly knew which expressed the most gratefulness to God and affection for himself.",
+  "s": "Tom",
+  "v": "got",
+  "chunks": [
+   {"en": "Tom got more cuffs and kisses", "ko": "톰은 더 많은 꿀밤과 입맞춤을 받았다", "r": "주어 + 동사 + 목적어(more)"},
+   {"en": "that day—according to Aunt Polly’s varying moods—than", "ko": "그날—폴리 이모의 오락가락하는 기분에 따라—(~보다)", "r": "시간 + 곁말(대시 삽입) + 비교"},
+   {"en": "he had earned before in a year;", "ko": "그전 일 년 동안 받았던 것보다", "r": "비교절(than절)"},
+   {"en": "and he hardly knew", "ko": "그리고 그는 도무지 알 수 없었다", "r": "대등절"},
+   {"en": "which expressed the most gratefulness to God", "ko": "어느 쪽이 하나님을 향한 감사를 가장 많이 드러낸 것인지", "r": "목적어(의문사절)"},
+   {"en": "and affection for himself.", "ko": "그리고 자기를 향한 애정을 (가장 많이 드러낸 것인지)", "r": "나열(목적어)"}
+  ],
+  "ko": "그날 톰은—폴리 이모의 오락가락하는 기분에 따라—꿀밤과 입맞춤을 그전 일 년 동안 받았던 것보다 더 많이 받았다. 그리고 그는 둘 중 어느 쪽이 하나님을 향한 감사와 자기를 향한 애정을 더 많이 드러낸 것인지 도무지 알 수 없었다.",
+  "why": "more … than …의 짝 사이에 대시로 묶인 곁말이 끼어 있어 연결이 끊겨 보인다. 대시 안을 건너뛰고 \"more cuffs and kisses … than he had earned\"로 이어 읽을 것. cuff는 손바닥으로 툭 때리기(꿀밤)이고, 마지막 which는 '꿀밤과 입맞춤 둘 중 어느 쪽이'라는 뜻이다.",
+  "st": [3, 4]
+ }
+]

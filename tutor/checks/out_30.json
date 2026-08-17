@@ -1,0 +1,126 @@
+{
+ "30.8.2": [
+  {"t":"pron","q":"이 문장의 <b>them</b> 은 누구를 가리킵니까?","a":"쫓고 있던 그 두 사내(스페인 사람과 누더기 걸친 놈)","tip":"put our hands on them 은 '손을 얹다'가 아니라 '덮쳐 붙잡다'입니다. 뒤의 within fifteen feet of them 도 같은 두 사람입니다."},
+  {"t":"pron","q":"<b>by your description</b> 의 your 는 누구입니까?","a":"헉 — 지금 이 이야기를 듣고 있는 상대입니다","tip":"말하고 있는 사람은 웨일스 노인이고, '자네가 알려 준 것 덕분에'라고 하는 것입니다. 악당들의 말로 잡으면 뜻이 뒤집힙니다."},
+  {"t":"who","q":"<b>dark as a cellar that sumach path was</b> — 지하실처럼 캄캄했던 것은 무엇입니까?","a":"그 옻나무 오솔길(that sumach path)","tip":"보어가 앞으로 나가고 주어·동사가 뒤로 간 도치입니다. that 을 관계사로 읽으면 문장이 무너집니다."},
+  {"t":"who","q":"<b>I found I was going to sneeze</b> — 재채기가 나오려 한 사람은 누구입니까?","a":"말하고 있는 웨일스 노인 자신(I)","tip":"바로 앞이 them 이라 악당들이 재채기하려 했다고 읽기 쉽습니다. 들킬 뻔한 쪽이 노인이라서 다음 장면이 이어집니다."}
+ ],
+ "30.8.5": [
+  {"t":"who","q":"<b>when the sneeze started those scoundrels a-rustling</b> — 부스럭거린 것은 누구입니까?","a":"그 악당들 — 재채기 소리에 놀라 길 밖으로 빠져나가려고 부스럭거렸습니다","tip":"start + 목적어 + ~ing 구조입니다. 주어인 the sneeze 는 사람이 아니고, 재채기를 한 사람은 노인입니다."},
+  {"t":"who","q":"<b>‘Fire boys!’</b> — 누구에게 무엇을 하라고 외친 것입니까?","a":"자기 아들들(boys)에게 '쏴라'라고 외친 것입니다","tip":"fire 는 '불'이 아니라 '쏘다'라는 명령이고 boys 는 부르는 말입니다. '불타는 소년들'로 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>at the place where the rustling was</b> — 총을 갈긴 곳은 어디입니까?","a":"바스락 소리가 나던 그 자리","tip":"악당들이 보여서 쏜 것이 아니라 소리만 듣고 그쪽으로 쐈다는 뜻입니다. 그래서 아무도 맞히지 못합니다."}
+ ],
+ "30.19.0": [
+  {"t":"neg","q":"<b>Huck would not explain, further than to say ...</b> — 헉은 아무 말도 하지 않았습니까?","a":"아니요 — 뒤에 나오는 그 내용만 말했고, 그 이상은 설명하려 하지 않았습니다","tip":"further than to say ~ 는 '~라고 말한 것 말고는'입니다. 입을 아예 닫았다고 읽으면 뒤 내용이 갈 곳을 잃습니다."},
+  {"t":"who","q":"<b>would not have the man know</b> — 알게 되면 안 되는 사람은 누구입니까?","a":"그 남자(헉이 너무 많이 알고 있다는 그 사람들 중 한 명)","tip":"have + 목적어 + 동사원형에서 그 동작을 하는 쪽은 목적어입니다. for the whole world 는 '세상을 다 준대도 절대'라는 강한 부정입니다."},
+  {"t":"pron","q":"<b>that he knew anything against him</b> — he 와 him 은 각각 누구입니까?","a":"he = 헉 자신, him = 그 남자","tip":"한 절 안에서 두 사람이 갈립니다. against him 은 '그에게 불리한 것'입니다."},
+  {"t":"who","q":"<b>he would be killed for knowing it</b> — 죽임을 당하게 되는 사람은 누구입니까?","a":"헉 자신","tip":"바로 앞에 the man 이 있어 그 남자가 죽는다고 읽기 쉽습니다. 수동태라 죽이는 쪽이 아니라 당하는 쪽입니다."}
+ ],
+ "30.23.0": [
+  {"t":"neg","q":"<b>I don’t see nothing agin it</b> — 헉은 그 말에 반대합니까?","a":"아니요 — 반대할 말이 없다, 곧 그 말이 맞다고 인정한다는 뜻입니다","tip":"헉의 말투에서 이중부정은 부정 하나로 읽습니다(don’t see nothing = 아무것도 안 보인다). agin = against."},
+  {"t":"pron","q":"<b>least everybody says so</b> 의 so 는 무엇을 받습니까?","a":"자기가 몹쓸 놈(a hard lot)이라는 말","tip":"least 는 at least(적어도)의 줄임입니다. 그렇게 말하는 쪽은 헉이 아니라 '다들'입니다."},
+  {"t":"mod","q":"<b>and sort of trying to strike out a new way of doing</b> 은 무엇의 이유로 이어집니까?","a":"잠을 잘 못 자는 이유 — 앞의 on account of 에 thinking 과 나란히 걸립니다","tip":"on account of 뒤에 ~ing 두 개가 나열됩니다. 새 길을 이미 찾았다는 말이 아니라 찾아보려 애쓴다는 말입니다."}
+ ],
+ "30.23.2": [
+  {"t":"time","q":"<b>I come along upstreet ’bout midnight</b> — 지금 하고 있는 일입니까, 그날 밤에 있었던 일입니까?","a":"그날 밤에 있었던 일 — come 이 came 자리에 쓰였습니다","tip":"헉의 말투에서는 과거형 대신 현재형이 그대로 나옵니다. 앞뒤가 모두 지난밤 이야기입니다."},
+  {"t":"pron","q":"<b>a-turning it all over</b> 의 it 은 무엇입니까?","a":"앞에서 말한 그 고민(자기가 몹쓸 놈이라는 것, 새로 살 길)","tip":"turn ~ over 는 물건을 뒤집는 게 아니라 머릿속에서 이리저리 굴려 본다는 뜻입니다."},
+  {"t":"mod","q":"<b>by the Temperance Tavern</b> 는 무엇을 설명합니까?","a":"그 낡고 삐걱대는 벽돌 가게의 위치 — 금주 여관 옆에 있는 가게","tip":"여기서 by 는 '~에 의해'가 아니라 '~옆에'입니다. 걸어간 방법을 말하는 것이 아닙니다."},
+  {"t":"mod","q":"<b>to have another think</b> — 벽에 등을 기댄 이유는 무엇입니까?","a":"한 번 더 생각해 보려고","tip":"think 가 명사로 쓰였습니다. '또 다른 생각을 가지다'가 아니라 '한 번 더 생각하기'입니다."}
+ ],
+ "30.23.4": [
+  {"t":"pron","q":"<b>t’other one</b> 은 누구입니까?","a":"두 사람 중 나머지 한 명 — 꾀죄죄하고 누더기를 걸친 쪽","tip":"t’other = the other 입니다. 세 번째 사람이 아니라 앞서 나온 둘 중 나머지입니다."},
+  {"t":"who","q":"<b>and t’other one wanted a light</b> — 여기서 a light 는 무엇이고, 그것을 원한 사람은 누구입니까?","a":"담뱃불이고, 원한 쪽은 담배를 피우고 있지 않던 나머지 한 명입니다","tip":"a light 를 '가벼운 것'이나 '등불'로 읽으면 두 사람이 왜 멈춰 섰는지가 사라집니다."},
+  {"t":"pron","q":"<b>the cigars lit up their faces</b> 의 their 는 누구입니까?","a":"그 두 사내 — 헉의 얼굴이 아닙니다","tip":"바로 앞에 me(헉)가 나와서 헉의 얼굴로 읽기 쉽습니다. 그들 얼굴이 드러났기 때문에 헉이 알아본 것입니다."},
+  {"t":"mod","q":"<b>by his white whiskers and the patch on his eye</b> 는 무엇을 설명합니까?","a":"덩치 큰 쪽이 그 스페인 사람이라고 알아본 근거","tip":"by 는 '~에 의해'가 아니라 '~을 보고(근거)'입니다. 흰 구레나룻과 안대는 그 스페인 사람의 것입니다."}
+ ],
+ "30.28.3": [
+  {"t":"pron","q":"<b>I dogged ’em</b> 의 ’em 은 누구입니까?","a":"그 두 사내(스페인 사람과 누더기 걸친 놈)","tip":"dog 이 동사로 쓰여 '개처럼 바짝 뒤쫓다'라는 뜻입니다. 개를 풀었다는 말이 아닙니다."},
+  {"t":"who","q":"<b>heard the ragged one beg for the widder</b> — 과부를 봐 달라고 빈 사람은 누구입니까?","a":"누더기 걸친 쪽","tip":"hear + 목적어 + 동사원형입니다. beg for the widder 는 '과부를 위해 사정하다'이지 과부에게 빈 것이 아닙니다."},
+  {"t":"mod","q":"<b>and the Spaniard swear he’d spile her looks</b> 는 무엇에 이어지는 부분입니까?","a":"앞의 heard 에 이어지는 두 번째 목적어 — 스페인 사람이 그렇게 말하는 것도 들었다는 뜻입니다","tip":"heard 가 되풀이되지 않고 생략되어 새 문장처럼 보입니다. spile = spoil(망치다)."},
+  {"t":"pron","q":"<b>her looks</b> 의 her 는 누구입니까?","a":"그 과부(더글러스 과부)","tip":"앞의 the widder 를 받습니다. looks 는 '보기'가 아니라 '얼굴 생김새'입니다."}
+ ],
+ "30.30.1": [
+  {"t":"neg","q":"<b>keep the old man from getting the faintest hint</b> — 헉이 하려던 것은 낌새를 알려 주는 것입니까, 못 채게 막는 것입니까?","a":"못 채게 막는 것 — 아주 희미한 낌새조차 못 잡게 하려 했습니다","tip":"keep A from ~ing 의 from 이 부정의 뜻을 담습니다. the faintest 는 '조금도 ~않게'라는 강조입니다."},
+  {"t":"who","q":"<b>his tongue seemed determined to get him into trouble</b> — 작정한 듯 보인 것은 무엇입니까?","a":"헉 자신이 아니라 그의 혀","tip":"제 뜻과 반대로 입이 자꾸 놀아난다는 표현입니다. 사람을 주어로 바꿔 읽으면 이 대목의 우스움이 사라집니다."},
+  {"t":"pron","q":"<b>to get him into trouble</b> 의 him 은 누구입니까?","a":"헉 자신","tip":"앞에 the old man 과 the Spaniard 가 있어 헷갈립니다. 자기 혀가 자기를 곤경에 빠뜨린다는 뜻입니다."},
+  {"t":"mod","q":"<b>in spite of all he could do</b> 는 무슨 뜻입니까?","a":"그가 할 수 있는 짓을 다 해 보아도 소용없이","tip":"all (that) he could do 가 통째로 in spite of 뒤에 붙습니다. '그가 할 수 있는 모든 것에도 불구하고' → 아무리 애써도."}
+ ],
+ "30.36.0": [
+  {"t":"mod","q":"<b>before going to bed</b> 는 무엇에 걸리는 말입니까?","a":"노인과 아들들이 한 '마지막 일'의 시점 — 잠자리에 들기 전에 한 마지막 일이라는 뜻입니다","tip":"said 에 붙이면 '잠들기 전에 말했다'가 되어 장면이 어긋납니다. 지금은 아침을 먹는 중입니다."},
+  {"t":"time","q":"<b>was to get a lantern and examine ...</b> — 이 일은 이미 한 일입니까, 앞으로 할 예정인 일입니까?","a":"이미 한 일 — 잠자리에 들기 전에 마친 그 마지막 일이 무엇이었는지 설명하는 부분입니다","tip":"여기서 was to 는 '~할 예정이었다'가 아니라 'the last thing 은 ~하는 것이었다'라는 설명입니다."},
+  {"t":"who","q":"등불을 들고 디딤대와 그 주변을 살펴본 사람은 누구입니까?","a":"웨일스 노인과 그의 아들들(he and his sons)","tip":"이야기를 듣는 자리에 헉이 있지만, 이 일을 한 것은 노인과 아들들입니다."},
+  {"t":"mod","q":"<b>for marks of blood</b> 는 무엇을 나타냅니까?","a":"살펴본 목적 — 핏자국이 있는지 찾으려고","tip":"for 는 '~을 위해'보다 '~을 찾아서'에 가깝습니다. 핏자국을 이미 봤다는 말이 아닙니다."}
+ ],
+ "30.42.0": [
+  {"t":"time","q":"<b>he would have given anything for material for a plausible answer</b> — 헉이 실제로 무언가를 내주었습니까?","a":"아니요 — '그럴듯한 대답거리만 생긴다면 무엇이든 내놓았을 텐데'라는 가정입니다","tip":"would have given 은 실제로 일어난 일이 아닙니다. 바로 뒤에 아무것도 떠오르지 않았다고 나옵니다."},
+  {"t":"neg","q":"<b>nothing suggested itself</b> — 대답거리가 떠올랐습니까?","a":"아니요 — 아무것도 떠오르지 않았습니다","tip":"주어가 nothing 이라 동사는 긍정형이지만 뜻은 부정입니다. suggest itself 는 '(생각이) 저절로 떠오르다'입니다."},
+  {"t":"who","q":"<b>a senseless reply offered</b> — 누가 무엇을 제안했다는 뜻입니까?","a":"사람이 제안한 것이 아니라, 말도 안 되는 대답 하나가 저절로 떠올랐다는 뜻입니다","tip":"offered 뒤에 목적어가 없습니다. 누가 대답을 일러 주었다고 읽으면 헉이 궁지에 몰린 상황이 무너집니다."},
+  {"t":"pron","q":"<b>there was no time to weigh it, so at a venture he uttered it</b> — 이 it 은 무엇입니까?","a":"방금 떠오른 그 말도 안 되는 대답","tip":"weigh it 은 '무게를 달다'가 아니라 '따져 보다'이고, at a venture 는 '무턱대고'입니다."}
+ ],
+ "30.44.0": [
+  {"t":"neg","q":"<b>too distressed to smile</b> — 헉은 웃었습니까?","a":"아니요 — 너무 괴로워서 웃지도 못했습니다","tip":"too ~ to ... 는 '너무 ~해서 ...하지 못하다'입니다. 웃은 사람은 뒤에 나오는 노인입니다."},
+  {"t":"who","q":"<b>shook up the details of his anatomy from head to foot</b> — 온몸을 들썩인 사람은 누구입니까?","a":"노인(the old man) — 앞의 laughed 와 같은 주어입니다","tip":"his 도 노인 자신입니다. 헉을 흔들었다는 말이 아니라 웃느라 제 몸이 들썩였다는 뜻입니다."},
+  {"t":"pron","q":"<b>because it cut down the doctor’s bill</b> 의 it 은 무엇입니까?","a":"그런 웃음(such a laugh)","tip":"바로 앞의 money 나 pocket 으로 잡기 쉽습니다. 웃음이 병원비를 줄여 준다는 말입니다."},
+  {"t":"mod","q":"<b>like everything</b> 은 무슨 뜻입니까?","a":"'엄청나게, 굉장히'라는 강조","tip":"'모든 것처럼'이 아닙니다. cut down the doctor’s bill like everything = 병원비를 엄청나게 깎아 준다."}
+ ],
+ "30.46.0": [
+  {"t":"mod","q":"<b>Huck was irritated to think ...</b> — 헉이 짜증이 난 이유는 무엇입니까?","a":"자기가 그런 멍청이 짓을 했고 의심 살 만한 흥분을 드러냈다는 생각 때문","tip":"여기서 to think 는 '생각하기 위해'가 아니라 감정의 원인입니다."},
+  {"t":"mod","q":"<b>the parcel brought from the tavern</b> — brought 는 무엇을 설명합니까?","a":"그 꾸러미 — 여관에서 들고 나온 꾸러미라는 뜻입니다","tip":"brought 는 과거형 동사가 아니라 과거분사입니다. '그 꾸러미가 무언가를 가져왔다'로 읽으면 문장이 무너집니다."},
+  {"t":"neg","q":"<b>he had dropped the idea that the parcel ... was the treasure</b> — 헉은 그 꾸러미가 보물이라고 여전히 믿고 있었습니까?","a":"아니요 — 그 생각은 이미 버린 뒤였습니다","tip":"drop the idea 는 '생각을 떨어뜨리다'가 아니라 '그 생각을 접다'입니다."},
+  {"t":"time","q":"<b>as soon as he had heard the talk at the widow’s stile</b> — 그 생각을 버린 것은 대화를 듣기 전입니까, 들은 뒤입니까?","a":"들은 직후 — 듣자마자 버렸습니다","tip":"had dropped, had heard 는 둘 다 지금 이야기보다 앞선 일입니다."}
+ ],
+ "30.46.2": [
+  {"t":"neg","q":"<b>he felt glad the little episode had happened</b> — 헉은 그 소동이 벌어진 것을 후회했습니까?","a":"아니요 — 오히려 다행이라고 느꼈습니다","tip":"felt glad 뒤에 that 이 생략됐습니다. But 과 on the whole(전체로 보면)이 앞 내용을 뒤집는 대목입니다."},
+  {"t":"neg","q":"<b>that that bundle was not the bundle</b> 은 무슨 뜻입니까?","a":"그 꾸러미는 (그들이 노리던) 바로 그 보물 꾸러미가 아니라는 뜻","tip":"같은 낱말이 되풀이되지만 뒤의 the 에 힘이 실려 '바로 그것'이라는 뜻이 됩니다. not 을 놓치면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>beyond all question</b> 은 무슨 뜻입니까?","a":"의심할 여지 없이(확실히)","tip":"'모든 질문을 넘어서'가 아닙니다. knew 를 꾸며 '확실히 알게 되었다'가 됩니다."}
+ ],
+ "30.46.3": [
+  {"t":"time","q":"<b>the treasure must be still in No. 2</b> — 여기서 must 는 '~해야 한다'입니까, '~임에 틀림없다'입니까?","a":"'틀림없이 아직 2호실에 있을 것'이라는 추측입니다","tip":"must be 는 대개 강한 추측입니다. 의무로 읽으면 누가 누구에게 시키는 말이 되어 버립니다."},
+  {"t":"who","q":"<b>the men would be captured and jailed that day</b> — 붙잡혀 갇히게 되는 쪽은 누구입니까?","a":"그 두 사내(악당들) — 헉과 톰이 아닙니다","tip":"수동태라 잡는 쪽이 아니라 잡히는 쪽입니다. 헉이 그렇게 되리라 기대하는 내용입니다."},
+  {"t":"neg","q":"<b>without any trouble or any fear of interruption</b> — 방해받을 걱정이 있습니까?","a":"없습니다 — 아무 문제도, 방해받을 걱정도 없이라는 뜻입니다","tip":"without 하나가 뒤의 any ~ or any ~ 둘 다에 걸립니다."}
+ ],
+ "30.49.0": [
+  {"t":"pron","q":"<b>it almost belittled the main matter</b> 의 it 은 무엇입니까?","a":"그 어마어마한 호기심(a curiosity so vast)","tip":"so ~ that 구문입니다. 앞의 this(노인이 한 말)로 잡기 쉽지만, 본론을 시시해 보이게 만든 것은 호기심입니다."},
+  {"t":"pron","q":"<b>through them</b> 의 them 은 누구입니까?","a":"노인의 집에 와 있던 손님들(his visitors)","tip":"바로 앞의 the vitals 로 잡기 쉽습니다. 손님들을 거쳐 마을 전체로 번졌다는 흐름입니다."},
+  {"t":"mod","q":"<b>and through them be transmitted to the whole town</b> 는 무엇에 이어집니까?","a":"앞의 allowed it to ... 에 이어지는 두 번째 부분 — 그 호기심이 온 마을로 퍼져 나가도록 두었다는 뜻입니다","tip":"되풀이되는 to 가 생략돼 새 문장처럼 보입니다. 노인이 퍼뜨린 것이 아니라 퍼지도록 내버려 둔 것입니다."},
+  {"t":"neg","q":"<b>he refused to part with his secret</b> — 노인은 비밀을 털어놓았습니까?","a":"아니요 — 끝내 털어놓기를 거부했습니다","tip":"part with ~ 는 '~와 헤어지다'에서 나와 '~을 내놓다'가 됩니다. 여기서 for 는 '왜냐하면'입니다."}
+ ],
+ "30.65.4": [
+  {"t":"neg","q":"<b>they had not noticed whether Tom and Becky were on board</b> — 톰과 베키가 배에 없었다는 뜻입니까?","a":"아니요 — 탔는지 안 탔는지 눈여겨보지 않았다는 뜻입니다(탔는지 아닌지는 아무도 모릅니다)","tip":"not 이 걸리는 것은 noticed 이지 were on board 가 아닙니다. 여기를 잘못 읽으면 뒤의 소동이 이해되지 않습니다."},
+  {"t":"time","q":"<b>on the homeward trip</b> 는 언제입니까?","a":"소풍에서 집으로 돌아오는 길","tip":"homeward 는 '집 쪽으로'입니다. 소풍 가는 길로 읽으면 시간 순서가 거꾸로 됩니다."},
+  {"t":"neg","q":"<b>no one thought of inquiring if any one was missing</b> — 누가 빠졌는지 물어본 사람이 있었습니까?","a":"없습니다 — 아무도 물어볼 생각조차 하지 않았습니다","tip":"no one 이 주어라 동사는 긍정형이지만 문장 전체는 부정입니다."},
+  {"t":"mod","q":"<b>if any one was missing</b> 의 if 는 '만약'입니까?","a":"아니요 — '누가 빠졌는지'라는 뜻입니다(whether 와 같음)","tip":"inquire 의 목적어 자리에 온 if 절입니다. '만약'으로 읽으면 조건절을 붙일 곳이 없습니다."}
+ ],
+ "30.66.1": [
+  {"t":"neg","q":"<b>The Cardiff Hill episode sank into instant insignificance</b> — 카디프 언덕 사건은 더 큰 일이 되었습니까?","a":"아니요 — 순식간에 하찮은 일이 되어 버렸습니다","tip":"insignificance 는 '중요하지 않음'입니다. 아이들이 없어졌다는 소식에 밀렸다는 뜻입니다."},
+  {"t":"who","q":"<b>the ferryboat ordered out</b> — 나룻배가 명령을 내렸다는 뜻입니까?","a":"아니요 — 나룻배가 불려 나왔다는 뜻입니다(was 가 생략된 수동태)","tip":"앞의 horses were saddled, skiffs were manned 와 같은 수동태 나열인데 be동사만 빠졌습니다. skiffs were manned 도 '작은 배마다 사람이 올라탔다'는 뜻입니다."},
+  {"t":"time","q":"<b>before the horror was half an hour old</b> 는 무슨 뜻입니까?","a":"그 끔찍한 소식이 알려진 지 반 시간도 지나기 전에","tip":"'공포가 30분 나이가 되기 전에' → 그 일이 알려진 지 30분도 안 되어. 얼마나 순식간이었는지를 말하는 대목입니다."}
+ ],
+ "30.68.3": [
+  {"t":"pron","q":"<b>She</b> 와 <b>him</b> 은 각각 누구입니까?","a":"She = 더글러스 과부, him = 열이 나 앓아누운 헉","tip":"의사들이 모두 동굴에 가 있어서 과부가 환자를 맡은 대목입니다. 톰이 아니라 헉입니다."},
+  {"t":"mod","q":"<b>do her best by him</b> 은 무슨 뜻입니까?","a":"그 아이에게 최선을 다해 잘해 주겠다는 뜻","tip":"여기서 by 는 '~에 의해'가 아니라 '~에게 (대하여)'입니다."},
+  {"t":"mod","q":"<b>whether he was good, bad, or indifferent</b> 는 무엇에 걸립니까?","a":"뒤의 he was the Lord’s — 착하든 나쁘든 그저 그렇든 상관없이 그는 주님의 것이라는 뜻입니다","tip":"because 와 he was 사이에 끼어든 삽입입니다. indifferent 는 '무관심한'이 아니라 '이렇다 할 것 없는(그저 그런)'입니다."},
+  {"t":"neg","q":"<b>nothing that was the Lord’s was a thing to be neglected</b> — 주님의 것은 소홀히 해도 됩니까?","a":"아니요 — 주님의 것이라면 무엇 하나 소홀히 해도 되는 것이 없습니다","tip":"주어가 nothing 이라 동사는 긍정형이지만 뜻은 부정입니다."}
+ ],
+ "30.70.1": [
+  {"t":"mod","q":"<b>that had never been visited before</b> 는 무엇을 설명합니까?","a":"동굴의 외진 구석들(remotenesses of the cavern) — 전에는 아무도 가 본 적 없던 곳","tip":"관계절이 동사(were being ransacked) 뒤로 밀려나 있어 앞의 that절과 헷갈립니다. 이 that 은 '~라는 것'이 아니라 관계사입니다."},
+  {"t":"pron","q":"<b>wherever one wandered through the maze of passages</b> 의 one 은 누구입니까?","a":"특정 인물이 아니라 '누구든' — 그 통로를 헤매는 사람이면 누구나","tip":"one 을 숫자나 앞에 나온 한 사람으로 잡으면 안 됩니다."},
+  {"t":"time","q":"<b>lights were to be seen flitting hither and thither</b> — 불빛이 보일 예정이었다는 뜻입니까?","a":"아니요 — 불빛들이 이리저리 어른거리는 것이 보였다는 뜻입니다","tip":"be to be seen 은 '눈에 띄다, 보이다'로 굳어진 표현입니다. hither and thither 는 '이리저리'입니다."},
+  {"t":"who","q":"<b>shoutings and pistol-shots sent their hollow reverberations to the ear</b> — 텅 빈 울림을 보내온 것은 무엇입니까?","a":"고함 소리와 총소리","tip":"사람이 주어가 아닙니다. their 는 그 소리들의 울림이고, to the ear 는 '(듣는 사람) 귀에까지'입니다."}
+ ],
+ "30.70.4": [
+  {"t":"pron","q":"<b>no other memorial of her</b> 의 her 는 누구입니까?","a":"그 어머니의 아이, 곧 베키","tip":"바로 앞의 She(대처 부인)로 이어 읽기 쉽습니다. memorial of her 는 '그 아이를 떠올리게 해 주는 물건'입니다."},
+  {"t":"neg","q":"<b>no other memorial of her could ever be so precious</b> — 이보다 더 소중한 유물이 있을 수 있습니까?","a":"없습니다 — 그 어떤 것도 이만큼 소중할 수는 없다는 뜻입니다","tip":"no other ~ could ever ... 는 '다른 어떤 것도 결코 ~할 수 없다'입니다."},
+  {"t":"time","q":"<b>this one parted latest from the living body before the awful death came</b> — 이것이 몸에서 떨어진 것은 죽음이 닥치기 전입니까, 후입니까?","a":"죽음이 닥치기 전 — 살아 있는 몸에 가장 나중까지 붙어 있다가 떨어졌다는 뜻입니다","tip":"this one 은 그 리본입니다. part from ~ 은 '~에서 떨어져 나오다'입니다."}
+ ],
+ "30.70.5": [
+  {"t":"time","q":"<b>a far-away speck of light would glimmer</b> 의 would 는 앞으로 일어날 일입니까, 되풀이되던 과거입니까?","a":"되풀이되던 과거 — 이따금 그런 일이 있곤 했다는 뜻입니다","tip":"앞의 now and then(이따금)과 짝을 이룹니다. would burst forth 도 마찬가지입니다."},
+  {"t":"who","q":"<b>and a score of men go trooping down the echoing aisle</b> — 우르르 몰려 내려간 것은 누구입니까?","a":"스무 명쯤 되는 사람들(동굴을 뒤지던 사람들)","tip":"a score 는 20입니다. go 앞에 would 가 되풀이되지 않고 생략돼 있습니다."},
+  {"t":"pron","q":"<b>it was only a searcher’s light</b> 의 it 은 무엇입니까?","a":"저 멀리 반짝이던 그 한 점 불빛","tip":"아이들이 켠 불빛이 아니라 같이 찾으러 다니던 사람의 불빛이었다는 뜻입니다. 그래서 실망이 뒤따릅니다."}
+ ],
+ "30.71.3": [
+  {"t":"mod","q":"<b>led up to the subject of taverns</b> 는 무슨 뜻입니까?","a":"여관 이야기 쪽으로 슬슬 말머리를 돌렸다는 뜻","tip":"헉이 여관까지 걸어갔다는 말이 아닙니다. 그는 열이 나 누워 있습니다."},
+  {"t":"mod","q":"<b>dimly dreading the worst</b> 는 누구를 설명합니까?","a":"헉 — 어렴풋이 최악을 두려워하면서 물었다는 뜻입니다","tip":"대시 사이에 끼어든 분사구문의 주인공은 문장의 주어인 헉입니다."},
+  {"t":"time","q":"<b>since he had been ill</b> 은 무슨 뜻입니까?","a":"자기가 앓아누운 뒤로(그때부터 지금까지)","tip":"since 를 '~때문에'로 읽으면 안 됩니다. 여기서는 시점을 나타냅니다."}
+ ]
+}

@@ -1,8 +1,8 @@
 upon	prep.	~위에(on보다 격식체)	L2	이장8회/전체146회
 witness	n., v.	목격자, 증인, 목격하다	L2	이장8회/전체10회
-em	pron.	그들을(them의 구어체 축약형, 영국 구어)	L3	이장6회/전체48회
+em	pron.	그들을, 그것들을(them의 구어 축약. 본문에는 'em 으로 나옴)	L2	이장6회/전체48회
 counsel	n., v.	조언, 변호사	L2	이장6회/전체6회
-reckon	v.	생각하다, 추측하다(영국 구어)	L2	이장3회/전체76회
+reckon	v.	~라고 생각하다, ~일 것 같다(미국 남부 구어. 이 소설에서 아주 자주 나옴)	L2	이장3회/전체76회
 swear	v.	맹세하다, 욕하다	L2	이장3회/전체21회
 graveyard	n.	묘지	L2	이장3회/전체7회
 courtroom	n.	법정	L2	이장3회/전체3회
@@ -29,7 +29,7 @@ mighty	adj., adv.	강력한, 대단한, 몹시(미국 구어)	L2	이장1회/전�
 glance	v., n.	흘낏 보다, 흘낏 봄	L2	이장1회/전체21회
 stare	v., n.	응시하다, 응시	L2	이장1회/전체20회
 shall	v.	~할 것이다(격식체 조동사)	L2	이장1회/전체20회
-bout	n.	(질병·활동의) 한바탕, (권투) 시합	L2	이장1회/전체19회
+bout	prep., adv., n.	(’bout) ~에 대해, 약 ~쯤(about의 사투리) / 한바탕, 시합	L3	이장1회/전체19회
 roun	adv., prep.	둘레에, 주위에(round/around의 사투리)	L3	이장1회/전체19회
 warn't	v.	~이 아니었다(wasn't/weren't의 사투리)	L3	이장1회/전체16회
 fetch	v.	가서 가져오다	L2	이장1회/전체16회
@@ -39,6 +39,7 @@ trifle	n., v.	사소한 것, 조금, 가지고 놀다	L3	이장1회/전체15회
 shudder	v., n.	몸서리치다, 전율하다	L2	이장1회/전체12회
 shortly	adv.	곧, 얼마 안 있어	L2	이장1회/전체12회
 forth	adv.	앞으로, 밖으로	L2	이장1회/전체11회
+mum	adj., n.	말없는, 잠자코(keep mum = 입 다물다)	L3	이장1회/전체11회
 gratitude	n.	감사	L2	이장1회/전체11회
 ceased	v.	멈추다, 중단하다	L2	이장1회/전체11회
 dismal	adj.	음침한, 우울한	L3	이장1회/전체10회
@@ -52,7 +53,7 @@ afterward	adv.	나중에, 그 후	L2	이장1회/전체8회
 pale	adj.	창백한	L2	이장1회/전체8회
 sheriff	n.	보안관	L2	이장1회/전체8회
 murmur	v., n.	중얼거리다; 속삭임	L2	이장1회/전체8회
-deed	n.	행위; 증서	L2	이장1회/전체8회
+deed	n., adv.	행위, 짓 / (’deed) 정말로(indeed)	L2	이장1회/전체8회
 relief	n.	안도, 안심	L2	이장1회/전체7회
 hain't	v.	~하지 않았다, ~이 아니다(haven't/hasn't/ain't의 사투리)	L3	이장1회/전체7회
 twilight	n.	황혼, 땅거미	L2	이장1회/전체7회
@@ -74,7 +75,6 @@ evidence	n.	증거	L2	이장1회/전체5회
 conspicuous	adj.	눈에 띄는	L3	이장1회/전체5회
 possession	n.	소유(물)	L2	이장1회/전체5회
 elm	n.	느릅나무	L3	이장1회/전체5회
+skip	v.	깡충깡충 뛰다, 건너뛰다, 빼먹다	L2	이장1회/전체5회
 ghastly	adj.	소름끼치는, 섬뜩한	L3	이장1회/전체5회
 sufferer	n.	고통받는 사람, 환자	L2	이장1회/전체4회
-villain	n.	악당, 악한	L2	이장1회/전체4회
-isolated	adj.	고립된, 외딴	L2	이장1회/전체4회

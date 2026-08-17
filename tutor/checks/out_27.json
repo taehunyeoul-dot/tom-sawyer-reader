@@ -1,0 +1,96 @@
+{
+ "27.0.1": [
+  {"t":"pron","q":"<b>four times it wasted to nothingness</b> 의 it 은 무엇입니까?","a":"그 값진 보물(that rich treasure)","tip":"바로 앞의 his hands 나 뒤의 sleep 으로 잡기 쉽습니다. 손에 쥔 보물이 스러진 것입니다."},
+  {"t":"time","q":"<b>as sleep forsook him</b> — 보물이 손가락 사이에서 스러진 것은 잠들어 있는 동안입니까, 잠이 깨는 순간입니까?","a":"잠이 깨는 순간 — 네 번 다 깨어나면서 사라졌습니다(즉 꿈이었습니다)","tip":"forsake 는 '버리다'이고 주어가 sleep 입니다. '잠이 그를 떠났다', 곧 잠에서 깼다는 뜻입니다. '그가 잠을 포기했다'로 읽으면 주어가 뒤집힙니다."},
+  {"t":"who","q":"<b>wakefulness brought back the hard reality</b> — 냉혹한 현실을 도로 데려온 것은 무엇입니까?","a":"깨어남(wakefulness) — 사람이 아니라 '잠에서 깬 것' 자체가 주어입니다","tip":"사람 주어를 찾으면 문장이 풀리지 않습니다. 추상명사가 주어로 나온 자리입니다."}
+ ],
+ "27.0.2": [
+  {"t":"pron","q":"<b>they seemed curiously subdued and far away</b> 의 they 는 무엇입니까?","a":"그가 떠올린 그 대단한 모험의 장면들(the incidents) — 사람들이 아닙니다","tip":"바로 앞의 recalling the incidents 를 받습니다. 사람으로 잡으면 문장이 무너집니다."},
+  {"t":"who","q":"<b>recalling the incidents of his great adventure</b> — 떠올리고 있는 사람은 누구입니까?","a":"톰(he) — 이른 아침 누워 있던 바로 그 사람입니다","tip":"앞의 As he lay 와 주어가 같습니다. 분사구문이라 주어가 안 보이지만 새 인물이 등장한 것이 아닙니다."},
+  {"t":"time","q":"<b>as if they had happened in another world, or in a time long gone by</b> — 그 일들은 실제로 다른 세상에서, 오래전에 일어난 일입니까?","a":"아니요 — 바로 어제 일인데 그렇게 '느껴졌다'는 비유입니다","tip":"as if + 과거완료는 사실과 반대인 비유입니다. 실제 시점은 하루 전입니다."}
+ ],
+ "27.0.4": [
+  {"t":"pron","q":"<b>in favor of this idea</b> 의 this idea 는 어떤 생각입니까?","a":"그 대단한 모험 자체가 꿈이었을 것이라는 생각","tip":"바로 앞 문장에서 톰에게 문득 떠오른 그 생각입니다. argument in favor of ~ 는 '~을 뒷받침하는 근거'입니다."},
+  {"t":"neg","q":"<b>was too vast to be real</b> — 그가 본 동전의 양이 진짜였다는 뜻입니까?","a":"아니요 — 너무 어마어마해서 진짜일 리가 없다는 뜻입니다","tip":"too ~ to … 는 '너무 ~해서 …할 수 없다'는 부정입니다. '아주 많아서 진짜 같았다'로 읽으면 근거가 정반대가 됩니다."},
+  {"t":"mod","q":"<b>he had seen</b> 은 무엇을 설명하는 말입니까?","a":"앞의 coin — 그가 본 그 동전이라는 뜻입니다","tip":"관계대명사가 생략돼 명사 뒤에 주어+동사가 곧바로 붙었습니다. argument 를 꾸미는 것으로 붙이면 안 됩니다."}
+ ],
+ "27.0.5": [
+  {"t":"neg","q":"<b>He had never seen as much as fifty dollars in one mass before</b> — 톰은 50달러가 한 뭉치로 있는 것을 본 적이 있습니까?","a":"아니요 — 그전까지 한 번도 본 적이 없습니다","tip":"never 를 놓치면 정반대가 됩니다. as much as fifty dollars 는 '50달러씩이나'로, 그 정도도 큰돈이라는 뜻입니다."},
+  {"t":"mod","q":"<b>in that he imagined …</b> 의 in that 은 무슨 뜻입니까?","a":"'~라는 점에서' — 그가 …라고 여긴다는 점에서 여느 아이들과 똑같았다는 말입니다","tip":"'그 안에서'로 읽으면 앞 절과 이어지지 않습니다. 앞의 he was like all boys 를 설명하는 부분입니다."},
+  {"t":"pron","q":"<b>no such sums</b> 의 such sums 는 어떤 액수를 말합니까?","a":"'수백', '수천' 달러처럼 큰 액수","tip":"such 가 앞의 “hundreds” 와 “thousands” 를 받습니다."},
+  {"t":"neg","q":"<b>that no such sums really existed in the world</b> — 톰은 그런 큰 액수가 세상에 실제로 있다고 여겼습니까?","a":"아니요 — 그런 돈은 세상에 실제로 있지 않다고 여겼습니다","tip":"no 를 놓치면 정반대가 됩니다. 이 that절도 앞의 imagined 에 걸립니다."}
+ ],
+ "27.0.6": [
+  {"t":"neg","q":"<b>He never had supposed for a moment</b> — 그는 잠시나마 그렇게 생각해 본 적이 있습니까?","a":"아니요 — 단 한 순간도 그렇게 생각해 본 적이 없습니다","tip":"for a moment 가 never 와 짝을 이뤄 '단 한 순간도 ~않다'가 됩니다. '잠깐 그렇게 생각했다'로 읽으면 정반대입니다."},
+  {"t":"mod","q":"<b>so large a sum as a hundred dollars</b> 는 무슨 뜻입니까?","a":"100달러나 되는 큰 액수(= such a large sum as a hundred dollars)","tip":"so + 형용사 + a + 명사 어순입니다. 100달러 말고 다른 무엇을 100달러와 비교하는 말이 아닙니다."},
+  {"t":"who","q":"<b>in any one’s possession</b> — 누가 가지고 있는 돈을 말합니까?","a":"세상 그 누구의 손이든 — 특정한 어떤 사람이 아닙니다","tip":"부정문 안의 any one 은 '누군가 한 사람'이 아니라 '아무라도'입니다. 결국 '아무도 그만한 현금을 갖고 있을 리 없다'는 뜻이 됩니다."}
+ ],
+ "27.0.7": [
+  {"t":"time","q":"<b>If his notions … had been analyzed, they would have been found …</b> — 실제로 그의 생각을 분석해 본 적이 있습니까?","a":"아니요 — 없었던 일을 '분석해 봤더라면'이라고 가정한 것입니다","tip":"had p.p. / would have p.p. 는 사실이 아닌 가정입니다. 누가 실제로 분석했다고 읽으면 안 됩니다."},
+  {"t":"pron","q":"<b>they would have been found</b> 의 they 는 무엇입니까?","a":"숨겨진 보물에 대한 그의 생각(his notions) — 보물이나 동전이 아닙니다","tip":"바로 앞에 treasure 가 있어 보물로 잡기 쉽습니다. notions 가 복수라 they 로 받았습니다."},
+  {"t":"mod","q":"<b>vague, splendid, ungraspable</b> 은 무엇을 꾸밉니까?","a":"뒤의 dollars — 모호하고 휘황찬란하지만 붙잡을 수 없는 '달러'","tip":"앞의 real dimes(진짜 10센트 동전)와 일부러 대비시킨 자리입니다. dimes 까지 꾸미는 것으로 붙이면 대비가 사라집니다."}
+ ],
+ "27.1.0": [
+  {"t":"pron","q":"<b>thinking them over</b> 의 them 은 무엇입니까?","a":"그 모험의 장면들(the incidents of his adventure)","tip":"사람으로 잡기 쉽습니다. think ~ over 는 '~을 곰곰이 되새기다'입니다."},
+  {"t":"mod","q":"<b>under the attrition of thinking them over</b> 는 무엇을 설명합니까?","a":"장면들이 더 또렷해진 그 상황·원인 — 자꾸 곱씹어 생각한 것","tip":"attrition(닳아 없어짐)이라는 말 때문에 기억이 흐려졌다고 읽기 쉽지만, 결과는 정반대로 sharper and clearer 입니다."},
+  {"t":"time","q":"<b>he presently found himself</b> 의 presently 는 '현재, 지금'이라는 뜻입니까?","a":"아니요 — '이윽고, 얼마 안 있어'라는 뜻입니다","tip":"present(현재)와 모양이 같아 '지금'으로 읽기 쉽지만, 이 시대의 presently 는 '곧, 이윽고'입니다."},
+  {"t":"neg","q":"<b>the thing might not have been a dream, after all</b> — 톰의 마음은 어느 쪽으로 기울었습니까?","a":"결국 그 일이 꿈이 '아니었을' 수도 있다는 쪽","tip":"not 을 놓치면 '역시 꿈이었나 보다'로 정반대가 됩니다. 앞 대목에서 꿈이라고 의심하던 마음이 여기서 뒤집힙니다."}
+ ],
+ "27.2.0": [
+  {"t":"mod","q":"<b>on the gunwale of a flatboat</b> — 헉이 앉아 있던 자리는 어디입니까?","a":"너벅선(바닥이 평평한 배)의 뱃전, 곧 배 옆면 맨 윗전 — 배 안이 아니라 가장자리에 걸터앉아 있었습니다","tip":"발을 물에 담글 수 있는 자리입니다. 배 안에 앉은 것으로 그리면 뒤의 dangling his feet in the water 와 어긋납니다."},
+  {"t":"mod","q":"<b>looking very melancholy</b> — 헉이 무언가를 우울한 눈으로 '바라보고' 있었다는 뜻입니까?","a":"아니요 — 헉 자신이 몹시 우울해 '보였다'는 뜻입니다","tip":"look + 형용사는 '~해 보이다'입니다. 뒤에 목적어가 없으니 무엇을 바라본 것이 아닙니다."}
+ ],
+ "27.2.2": [
+  {"t":"pron","q":"<b>If he did not do it</b> — 여기서 he 는 톰입니까, 헉입니까?","a":"헉","tip":"바로 앞 문장에서 톰은 '헉이 먼저 그 이야기를 꺼내게 두자'고 마음먹었습니다. 판단하는 쪽은 톰이지만 할 사람은 헉입니다."},
+  {"t":"neg","q":"<b>If he did not do it</b> — 헉이 그 이야기를 먼저 꺼낸 경우입니까, 꺼내지 않은 경우입니까?","a":"꺼내지 않은 경우","tip":"did not 을 놓치면 조건이 정반대가 되어 결론까지 뒤집힙니다."},
+  {"t":"time","q":"<b>to have been only a dream</b> — 꿈이라는 것은 앞으로 일어날 일입니까, 이미 지나간 일에 대한 판정입니까?","a":"이미 지나간 일에 대한 판정 — 그 모험이 '꿈이었던 것'으로 판명된다는 뜻입니다","tip":"to be 가 아니라 to have been 입니다. 판명되는 시점보다 그 일이 앞섭니다."}
+ ],
+ "27.10.2": [
+  {"t":"pron","q":"<b>all through ’em</b> 의 ’em 은 무엇을 가리킵니까?","a":"그가 밤새 꾼 꿈들(dreams) — 사람들이 아닙니다","tip":"’em 은 them 입니다. 바로 앞에 devil 이 있어 사람으로 잡기 쉽지만 '꿈 내내'라는 뜻입니다."},
+  {"t":"who","q":"<b>going for me</b> — 덤벼든 쪽과 당한 쪽은 각각 누구입니까?","a":"덤벼든 쪽은 그 안대 낀 스페인 악마(변장한 인전 조), 당한 쪽은 말하고 있는 헉(me)","tip":"go for ~ 는 '~에게 덤벼들다'입니다. '나를 위해 간다'로 읽으면 장면이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>with that patch-eyed Spanish devil going for me</b> 는 무엇을 설명합니까?","a":"그가 밤새 꾼 꿈이 어떤 꿈이었는지 — 그놈이 덤벼드는 통에 시달렸다는 곁상황입니다","tip":"with + 명사 + ~ing 는 '~가 …하는 통에'입니다. 별개의 사건으로 떼어 읽으면 안 됩니다."}
+ ],
+ "27.13.0": [
+  {"t":"pron","q":"<b>Well, so’d I</b> 는 무엇에 대한 맞장구입니까?","a":"'그놈을 보면 오싹할 것 같다'는 바로 앞 헉의 말 — '나도 그럴 거야(so would I)'라는 뜻입니다","tip":"so’d I = so would I. 반복되는 말(feel mighty shaky)이 통째로 생략됐습니다. '그래서 나는'으로 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>but I’d like to see him</b> — 그놈을 보고 싶어 하는 쪽과 그 대상은 각각 누구입니까?","a":"보고 싶어 하는 쪽은 말하고 있는 톰(I), 대상은 인전 조(him)","tip":"바로 앞에서 겁을 낸 쪽은 헉입니다. 겁이 나긴 해도 그래도 보고 싶다고 하는 쪽이 톰입니다."},
+  {"t":"mod","q":"<b>to his Number Two</b> 는 앞의 어느 말에 이어집니까?","a":"track him out — 뒤를 밟아 '그놈의 2호'까지 찾아낸다는 뜻입니다","tip":"대시로 끊겨 있어 붙일 곳을 잃기 쉽습니다. see him 에 붙이면 '2호에서 본다'가 되어 뜻이 달라집니다."}
+ ],
+ "27.20.3": [
+  {"t":"who","q":"<b>No. 2 had long been occupied by a young lawyer</b> — 그 2호실을 쓰고 있는 사람은 누구입니까?","a":"젊은 변호사 — 인전 조가 아닙니다","tip":"by 뒤가 실제로 그 방을 쓰는 사람입니다. 톰이 찾던 수상한 방이 아니라는 뜻이라, 여기서 실마리가 끊깁니다."},
+  {"t":"time","q":"<b>had long been occupied … and was still so occupied</b> — 그 방은 지금은 비어 있습니까?","a":"아니요 — 오래전부터 쓰였고 지금도 여전히 쓰이고 있습니다","tip":"still 을 놓치면 '예전에는 그랬다'로 읽혀 결론이 흐려집니다."},
+  {"t":"pron","q":"<b>was still so occupied</b> 의 so 는 무엇을 받습니까?","a":"앞의 occupied by a young lawyer — 여전히 그 변호사가 쓰고 있다는 뜻입니다","tip":"so 를 '그래서'로 읽으면 문장이 끊깁니다. 반복을 피하려고 앞말을 통째로 받은 것입니다."}
+ ],
+ "27.20.5": [
+  {"t":"who","q":"<b>had had some little curiosity … had made … had noticed …</b> — 세미콜론 뒤로 주어 없이 이어지는 이 동사들의 주어는 누구입니까?","a":"여관 주인의 어린 아들 — 톰이 아닙니다","tip":"문장 맨 앞의 The tavern-keeper’s young son said 가 끝까지 이어집니다. 주어가 안 보여 톰으로 바꿔 읽기 쉽습니다."},
+  {"t":"neg","q":"<b>he never saw anybody go into it or come out of it except at night</b> — 그 아들은 밤에 드나드는 사람을 봤습니까?","a":"예 — 밤을 빼고는 못 봤다는 말이므로, 밤에는 드나드는 것을 봤다는 뜻입니다","tip":"never … except 는 '~을 빼고는 전혀 없다'입니다. except 를 놓치면 '아무도 드나드는 걸 못 봤다'가 되어 결정적인 단서가 사라집니다."},
+  {"t":"pron","q":"<b>but it was rather feeble</b> 의 it 은 무엇입니까?","a":"그 아들이 느낀 호기심(some little curiosity)","tip":"앞에 나온 방이나 수수께끼로 잡기 쉽습니다. 호기심이 '그리 강하지 않았다'는 뜻입니다."},
+  {"t":"time","q":"<b>there was a light in there the night before</b> — 그 안에 불이 켜져 있던 것은 언제입니까?","a":"이 말을 하고 있는 날의 전날 밤(어젯밤)","tip":"the night before 는 '밤이 되기 전'이 아니라 '그 전날 밤'입니다."}
+ ],
+ "27.25.1": [
+  {"t":"mod","q":"<b>that comes out into that little close alley</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the door — 그 골목으로 나 있는 '문'이라는 뜻입니다","tip":"No. 2(방)를 꾸미는 것으로 붙이면 방이 골목으로 나온다는 말이 됩니다."},
+  {"t":"mod","q":"<b>the old rattle trap of a brick store</b> 는 무엇을 가리킵니까?","a":"다 쓰러져 가는 낡은 벽돌 가게 한 채","tip":"A of a B 는 'B인 A', 곧 '고물덩이 같은 벽돌 가게'입니다. '벽돌 가게의 낡은 덫'으로 읽으면 없는 물건이 하나 생깁니다."},
+  {"t":"mod","q":"<b>between the tavern and the old rattle trap of a brick store</b> 는 무엇의 위치를 말합니까?","a":"그 좁은 골목(that little close alley)의 위치","tip":"문이 여관과 가게 사이에 있다는 말이 아니라, 골목이 그 둘 사이에 나 있다는 말입니다."}
+ ],
+ "27.25.2": [
+  {"t":"who","q":"<b>you get hold of all the doorkeys … and I’ll nip all of auntie’s</b> — 문 열쇠를 그러모으는 쪽과 이모 열쇠를 슬쩍하는 쪽은 각각 누구입니까?","a":"그러모으는 쪽은 헉(you), 이모 열쇠를 슬쩍하는 쪽은 말하고 있는 톰(I)","tip":"auntie 는 톰의 폴리 이모입니다. 두 사람이 맡을 일이 서로 다릅니다."},
+  {"t":"mod","q":"<b>you can find</b> 는 무엇을 꾸밉니까?","a":"앞의 all the doorkeys — 네가 찾아낼 수 있는 문 열쇠 전부","tip":"관계대명사가 생략돼 명사 뒤에 주어+동사가 곧바로 붙습니다. 동사가 연달아 나온 것처럼 보여 문장이 끊겨 보입니다."},
+  {"t":"pron","q":"<b>all of auntie’s</b> 는 무엇을 말합니까?","a":"이모가 가진 열쇠 전부","tip":"반복되는 doorkeys 가 생략된 자리입니다. '이모 것 전부(재산)'가 아닙니다."},
+  {"t":"time","q":"<b>the first dark night</b> 는 언제입니까?","a":"앞으로 처음 맞는 깜깜한 밤 — 이미 지나간 밤이 아닙니다","tip":"뒤의 we’ll go 에서 보듯 앞일에 대한 약속입니다."}
+ ],
+ "27.25.3": [
+  {"t":"who","q":"<b>keep a lookout for Injun Joe</b> — 인전 조를 지켜보고 있어야 할 사람은 누구입니까?","a":"이 말을 듣고 있는 헉","tip":"명령문이라 주어(you)가 아예 빠져 있습니다. 말하는 톰이 할 일로 읽으면 뒤의 If you see him 과 어긋납니다."},
+  {"t":"who","q":"<b>because he said he was going to drop into town</b> — 그렇게 말한 사람과 마을에 들를 사람은 각각 누구입니까?","a":"둘 다 인전 조 — 톰이 한 말이 아닙니다","tip":"앞의 Injun Joe 를 받습니다. 두 he 가 같은 사람입니다."},
+  {"t":"mod","q":"<b>and spy around once more</b> 는 누가 할 일입니까?","a":"인전 조 — 마을에 들러서 한 번 더 염탐하겠다고 그가 말한 것입니다(was going to drop … and spy …)","tip":"앞의 keep a lookout(명령)에 이어 붙이면 헉이 염탐하러 다니는 것이 되어 버립니다."}
+ ],
+ "27.25.4": [
+  {"t":"pron","q":"이 문장의 <b>him</b> 과 <b>he</b> 는 모두 누구를 가리킵니까?","a":"인전 조","tip":"앞 문장에서 지켜보라고 한 그 사람입니다. 헉이나 톰으로 잡으면 지시가 뒤엉킵니다."},
+  {"t":"neg","q":"<b>if he don’t go to that No. 2, that ain’t the place</b> — 그 2호실이 찾던 곳으로 확인되는 것은 인전 조가 그리로 갈 때입니까, 가지 않을 때입니까?","a":"갈 때 — 가지 '않으면' 그곳은 찾던 데가 아니라는 뜻입니다","tip":"don’t(=doesn’t)와 ain’t, 부정이 둘입니다. 하나만 놓쳐도 결론이 뒤집힙니다."},
+  {"t":"pron","q":"<b>that ain’t the place</b> 의 that 은 무엇을 가리킵니까?","a":"그 2호실(that No. 2)","tip":"앞 절 전체를 받는 것이 아니라 그 방 하나를 가리킵니다."}
+ ],
+ "27.29.1": [
+  {"t":"time","q":"<b>he might ’a’ found out</b> — 이것은 앞으로 알게 될 거라는 말입니까, 이미 알아차렸을지도 모른다는 말입니까?","a":"이미 알아차렸을지도 모른다는 말입니다","tip":"’a’ 는 have 를 줄인 사투리 표기입니다. might have p.p. 는 지나간 일에 대한 추측입니다."},
+  {"t":"neg","q":"<b>he couldn’t get his revenge</b> — 그놈이 복수를 할 수 있게 되었다는 뜻입니까?","a":"아니요 — 복수는 할 수 없겠다는 것을 알아차렸다는 뜻입니다","tip":"couldn’t 를 놓치면 정반대가 됩니다. 복수를 접었기 때문에 돈부터 챙기러 갈 거라는 추리입니다."},
+  {"t":"mod","q":"<b>and be going right after that money</b> 의 be 는 앞의 어느 말에 이어집니까?","a":"맨 앞의 might — might be going, 곧 '곧장 그 돈을 노리러 가고 있을지도 모른다'는 뜻입니다","tip":"바로 앞의 found out 이나 couldn’t 에 이으면 시제가 어긋납니다. and 는 might 다음 자리로 건너뛰어 이어집니다."},
+  {"t":"time","q":"<b>right after that money</b> 는 '그 돈 직후에'라는 뜻입니까?","a":"아니요 — go right after ~ 는 '곧장 ~을 노리고 덤벼들다'이고, right 는 '곧장'이라는 강조입니다","tip":"after 를 시간의 '~ 뒤에'로 읽으면 문장이 이어지지 않습니다."}
+ ]
+}

@@ -30,6 +30,7 @@ pronounced	adj., v.	뚜렷한, 현저한, 발음하다	L2	이장1회/전체5회
 feebly	adv.	힘없이	L2	이장1회/전체5회
 doom	n., v.	파멸, 운명, 운명 짓다	L2	이장1회/전체5회
 juvenile	adj., n.	소년의, 청소년의, 아이	L2	이장1회/전체5회
+practise	v.	연습하다(practice의 옛 철자)	L2	이장1회/전체4회
 negro	n.	흑인(옛말, 현대에는 쓰지 않는 표현)	L3	이장1회/전체4회
 consequence	n.	결과	L2	이장1회/전체4회
 depression	n.	우울, 침울, 움푹 꺼진 곳	L2	이장1회/전체4회
@@ -77,4 +78,3 @@ carpeting	n.	카펫(감), 융단	L2	이장1회/전체1회
 admission	n.	인정, 시인; 입장	L2	이장1회/전체1회
 phrenologist	n.	골상학자	L3	이장1회/전체1회
 mesmerizer	n.	최면술사	L3	이장1회/전체1회
-duller	adj.	더 따분한, 더 흐릿한(dull의 비교급)	L2	이장1회/전체1회

@@ -1,0 +1,129 @@
+{
+ "16.1.0": [
+  {"t":"pron","q":"<b>which latter</b> 는 무엇을 받습니까?","a":"바로 앞의 the stiff current(거센 물살)","tip":"latter 는 '뒤에 말한 쪽'입니다. 앞에 명사가 줄줄이 나와 shoal water 나 the bar 로 잡기 쉽습니다."},
+  {"t":"who","q":"<b>tripped their legs from under them</b> — 다리를 걸어 넘어뜨린 것은 무엇입니까?","a":"거센 물살(the stiff current) — 아이들이 서로 다리를 건 것이 아닙니다","tip":"trip 은 '여행'이 아니라 '발을 걸어 넘어뜨리다'입니다. 그 바람에 오히려 재미가 더해졌다(increased the fun)는 흐름입니다."},
+  {"t":"time","q":"<b>shedding clothes as they went, until they were naked</b> — 옷을 벗은 것은 멈춰 서서입니까, 뛰어다니는 도중입니까?","a":"쫓아다니며 뛰는 도중 — 달리면서 하나씩 벗어 던져 알몸이 되었습니다","tip":"as they went 는 '가면서'입니다. 물에 들어가기 전에 이미 알몸이었습니다."},
+  {"t":"mod","q":"<b>against the stiff current</b> — 그들은 물살을 따라 떠내려갔습니까, 거슬러 올라갔습니까?","a":"거슬러 올라갔습니다","tip":"against 는 '~을 거슬러'입니다. 앞의 far away up(저 멀리 위쪽으로)과도 맞아떨어집니다."}
+ ],
+ "16.1.1": [
+  {"t":"who","q":"<b>till the best man ducked his neighbor</b> — 물속에 처박은 쪽과 처박힌 쪽은 각각 누구입니까?","a":"힘이 제일 센 아이가, 맞붙어 있던 상대 아이를 물속에 밀어 넣었습니다","tip":"duck 은 '오리'가 아니라 '물속에 처박다'라는 동사입니다. the best man 도 '신랑 들러리'가 아니라 '제일 센 놈'입니다."},
+  {"t":"mod","q":"<b>with averted faces to avoid the strangling sprays</b> — 돌린 얼굴은 누구의 얼굴입니까?","a":"서로에게 다가가던 아이들 자신의 얼굴 — 튀는 물을 뒤집어쓰지 않으려고 고개를 돌린 것입니다","tip":"strangling 은 sprays(물보라)를 꾸밉니다. 목을 조르는 누군가가 따로 있는 것이 아닙니다."},
+  {"t":"time","q":"<b>went under</b> 와 <b>came up</b> — 어느 쪽이 먼저입니까?","a":"먼저 다 같이 물속으로 가라앉았다가, 그다음 물 위로 떠올랐습니다","tip":"go under 는 '물밑으로 들어가다'입니다. '아래로 갔다' 정도로 넘기면 순서가 엉킵니다."},
+  {"t":"mod","q":"<b>at one and the same time</b> 는 무엇을 설명합니까?","a":"물을 뿜고, 푸푸거리고, 웃고, 숨을 헐떡이는 네 가지를 한꺼번에 했다는 뜻","tip":"'한 번, 그리고 같은 시간에'가 아니라 '동시에'로 굳어진 표현입니다."}
+ ],
+ "16.2.0": [
+  {"t":"time","q":"<b>they would run out and sprawl</b> — 이 would 는 앞으로 그러겠다는 뜻입니까, 그러곤 했다는 뜻입니까?","a":"되풀이해서 그러곤 했다는 뜻입니다","tip":"과거의 습관을 말하는 would 입니다. '~할 것이다'로 읽으면 시제가 통째로 어긋납니다."},
+  {"t":"pron","q":"<b>cover themselves up with it</b> 의 it 은 무엇입니까?","a":"마르고 뜨거운 모래(the dry, hot sand)","tip":"바로 앞이 물놀이 이야기라 물로 잡기 쉽습니다. 모래를 덮고 누운 것입니다."},
+  {"t":"time","q":"<b>by and by break for the water again</b> — 다시 물로 달려간 것은 언제입니까?","a":"모래 위에 누워 몸을 덮고 한동안 쉰 다음, 얼마 뒤","tip":"by and by 는 '나란히'가 아니라 '이윽고, 얼마 뒤'입니다. break for ~ 는 '~쪽으로 냅다 달리다'입니다."}
+ ],
+ "16.2.1": [
+  {"t":"pron","q":"<b>it occurred to them that ...</b> — 이 it 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 내용은 뒤의 that절(맨살이 살색 타이츠 같다는 생각)입니다","tip":"'그것이 그들에게 일어났다'로 옮기면 앞에서 '그것'을 찾다가 길을 잃습니다."},
+  {"t":"neg","q":"<b>none would yield this proudest post to his neighbor</b> — 자리를 양보한 아이가 있었습니까?","a":"아니요 — 아무도 양보하려 들지 않았습니다","tip":"none 이 부정어입니다. 여기서 would 는 '~하려 들지 않았다'는 고집을 나타냅니다."},
+  {"t":"who","q":"<b>with three clowns in it</b> — 광대를 맡은 사람은 누구입니까?","a":"세 아이 전부(톰·조·헉) — 아무도 광대 자리를 넘기지 않아 광대만 셋인 서커스가 되었습니다","tip":"this proudest post 는 '가장 자랑스러운 자리', 곧 광대 역입니다. post 는 '기둥'이나 '우편'이 아닙니다."},
+  {"t":"mod","q":"<b>represented flesh-colored “tights” very fairly</b> 의 very fairly 는 무슨 뜻입니까?","a":"'아주 그럴듯하게' — 맨살이 살색 타이츠와 꽤 비슷해 보였다는 뜻입니다","tip":"fairly 는 여기서 '공정하게'가 아니라 '꽤, 그럴듯하게'입니다."}
+ ],
+ "16.3.1": [
+  {"t":"neg","q":"<b>but Tom would not venture</b> — 톰도 함께 헤엄쳤습니까?","a":"아니요 — 톰은 물에 들어가려 하지 않았습니다","tip":"헤엄친 것은 조와 헉뿐입니다. would not 은 '~하려 하지 않았다'입니다."},
+  {"t":"time","q":"<b>in kicking off his trousers he had kicked his string of rattlesnake rattles off his ankle</b> — 방울 꾸러미가 떨어져 나간 것은 언제입니까?","a":"바지를 발로 차서 벗던 바로 그때 — 바지와 함께 차 버린 것입니다","tip":"in ~ing 는 '~하는 중에'입니다. 두 번 나오는 kick 이 같은 동작이라는 점이 핵심입니다."},
+  {"t":"neg","q":"<b>how he had escaped cramp so long</b> — 톰은 그동안 쥐가 났습니까?","a":"아니요 — 그토록 오래 쥐가 나지 않고 무사했습니다","tip":"escape 는 '도망치다'가 아니라 '(안 좋은 일을) 면하다'입니다. 부적 없이도 무사했던 게 이상하다는 말입니다."},
+  {"t":"pron","q":"<b>this mysterious charm</b> 은 무엇을 가리킵니까?","a":"발목에 매어 두었던 방울뱀 방울 꾸러미","tip":"charm 은 '매력'이 아니라 '부적'입니다. 톰은 그것이 쥐를 막아 준다고 믿고 있었습니다."}
+ ],
+ "16.28.1": [
+  {"t":"pron","q":"이 문장의 <b>he</b> 와 <b>they</b> 는 각각 누구입니까?","a":"he = 톰, they = 떠나려던 조와 헉","tip":"톰이 먼저 떠나려는 두 아이를 뒤쫓아 가 붙잡은 장면입니다. he 를 조로 잡으면 전체가 뒤집힙니다."},
+  {"t":"who","q":"<b>set up a warwhoop of applause and said it was “splendid!”</b> — 환호하며 '기막히다!'고 한 사람은 누구입니까?","a":"조와 헉 — 비밀을 털어놓은 쪽이 톰입니다","tip":"and 로 죽 이어지지만 도중에 주어가 톰에서 they 로 바뀌어 있습니다."},
+  {"t":"neg","q":"<b>if he had told them at first, they wouldn’t have started away</b> — 톰은 실제로 처음부터 말해 주었습니까?","a":"아니요 — 말해 주지 않았고, 그래서 두 아이는 실제로 떠나려 했습니다","tip":"사실과 반대되는 가정(가정법 과거완료)입니다. '처음에 말해 줘서 안 떠났다'로 읽으면 정반대입니다."},
+  {"t":"time","q":"<b>they listened moodily till at last they saw the “point”</b> — 환호가 터진 것은 요점을 알아차리기 전입니까, 뒤입니까?","a":"알아차린 뒤 — 그전까지는 시무룩하게 듣고만 있었습니다","tip":"drive at 은 '차를 몰다'가 아니라 '(말로) 겨누다, 말하려 하다'입니다."}
+ ],
+ "16.28.2": [
+  {"t":"neg","q":"<b>not even the secret would keep them with him any very great length of time</b> — 톰은 그 비밀이면 아이들을 오래 붙들어 둘 수 있다고 보았습니까?","a":"아니요 — 그 비밀조차도 오래는 붙들어 두지 못하리라고 두려워했습니다","tip":"not even ~ 은 '~조차도 아니다'입니다. 이 부정을 놓치면 톰의 속셈이 정반대로 읽힙니다."},
+  {"t":"mod","q":"<b>the fear that not even the secret would keep them ...</b> — that 이하는 무엇을 설명합니까?","a":"바로 앞 the fear(두려움)의 내용 — 어떤 두려움이었는지를 풀어 준 말입니다","tip":"'~하는 두려움'이라는 동격절입니다. 관계대명사 that 으로 보고 꾸밀 명사를 찾으면 꼬입니다."},
+  {"t":"pron","q":"<b>he had meant to hold it in reserve</b> 의 it 은 무엇입니까?","a":"그 비밀(the secret)","tip":"바로 앞의 fear 나 excuse 로 잡기 쉽습니다. 아껴 두었다가 마지막에 꺼낼 카드가 바로 비밀이었습니다."},
+  {"t":"time","q":"<b>his real reason had been</b>, <b>he had meant</b> — 이 일들은 핑계를 댄 시점보다 앞입니까, 뒤입니까?","a":"앞 — 핑계를 대기 전부터 마음속에 있던 진짜 이유이자 계산입니다","tip":"과거완료(had + p.p.)는 과거의 어느 시점보다 더 앞선 일을 말합니다."}
+ ],
+ "16.29.0": [
+  {"t":"pron","q":"<b>admiring the genius of it</b> 의 it 은 무엇입니까?","a":"톰의 굉장한 계획(Tom’s stupendous plan)","tip":"genius 도 '천재인 사람'이 아니라 '기발함'입니다. 톰이라는 사람이 아니라 계획의 기발함에 감탄한 것입니다."},
+  {"t":"mod","q":"<b>went at their sports again with a will</b> 의 with a will 은 무엇을 설명합니까?","a":"놀이에 달려든 태도 — '힘껏, 신나게'","tip":"will 은 여기서 '유언장'도 '~할 것이다'도 아니라 '의욕'입니다. go at ~ 은 '~에 달려들다'입니다."},
+  {"t":"time","q":"<b>chattering all the time</b> 의 all the time 은 언제를 말합니까?","a":"돌아와 다시 놀이를 하던 그 내내","tip":"'항상, 늘'로 읽으면 시간 범위가 엉뚱하게 넓어집니다. 여기서는 '그러는 동안 줄곧'입니다."}
+ ],
+ "16.50.3": [
+  {"t":"neg","q":"<b>they could scarcely bail out the cellars under their tongues</b> — 고인 침을 제때 퍼낼 수 있었습니까?","a":"아니요 — 도저히 감당하지 못할 지경이었습니다","tip":"scarcely 자체가 '거의 ~않다'라는 부정어입니다. '겨우 해냈다'로 읽으면 반대쪽으로 기웁니다."},
+  {"t":"pron","q":"<b>the cellars under their tongues</b> 는 무엇을 가리킵니까?","a":"혀 밑에 침이 고이는 곳 — 물이 차오르는 지하실에 빗댄 말입니다","tip":"앞에서 볼 안쪽 땀구멍이 '샘(fountain)'이 되었다고 한 비유가 그대로 이어집니다. 진짜 지하실이 아닙니다."},
+  {"t":"neg","q":"<b>in spite of all they could do</b> — 목구멍으로 넘어가는 것을 막아 냈습니까?","a":"아니요 — 할 수 있는 건 다 했는데도 조금씩 넘어갔습니다","tip":"in spite of ~ 는 '~에도 불구하고'입니다. all they could do 를 '그들이 할 수 있는 전부'라는 한 덩어리로 잡아야 합니다."},
+  {"t":"time","q":"<b>and sudden retchings followed every time</b> — 구역질은 침이 넘어가기 전입니까, 뒤입니까?","a":"넘어간 직후 — 넘어갈 때마다 그 뒤에 따라왔습니다","tip":"follow 는 '따라가다'가 아니라 '뒤이어 일어나다'입니다."}
+ ],
+ "16.55.1": [
+  {"t":"pron","q":"이 문장의 <b>They</b> 와 <b>theirs</b> 는 각각 누구/무엇입니까?","a":"They = 톰과 조 두 명, theirs = 그 둘의 파이프","tip":"헉은 They 에 들어가지 않습니다. 헉은 파이프를 채워 주려던 쪽으로 따로 나옵니다."},
+  {"t":"who","q":"<b>Huck prepared his pipe ... and was going to prepare theirs</b> — 파이프를 준비한 사람은 누구입니까?","a":"헉 — 자기 것을 채우고 두 아이 것까지 채워 주려 했습니다","tip":"was going to 는 '가고 있었다'가 아니라 '~하려던 참이었다'입니다."},
+  {"t":"neg","q":"<b>they said no</b> — 두 아이는 파이프를 받았습니까?","a":"아니요 — 됐다며 거절했습니다","tip":"낮에 담배를 피우고 지독하게 앓았기 때문입니다. no 한 글자를 놓치면 장면이 정반대가 됩니다."},
+  {"t":"time","q":"<b>something they ate at dinner</b> 의 dinner 는 방금 먹은 그 식사입니까?","a":"아니요 — 방금 먹은 것은 supper(저녁)이고, dinner 는 그날 낮에 먹은 식사입니다","tip":"이 소설에서 dinner 는 한낮의 주된 식사를 가리킵니다. 게다가 진짜 원인은 음식이 아니라 담배였습니다."}
+ ],
+ "16.56.9": [
+  {"t":"who","q":"<b>and shuddered with the fancy</b> — 몸을 떤 것은 누구입니까?","a":"아이들(the boys)","tip":"felt 와 shuddered 는 같은 주어입니다. and 로 길게 이어져 주어가 바뀐 것처럼 보입니다."},
+  {"t":"mod","q":"<b>the fancy that the Spirit of the Night had gone by</b> — that 이하는 무엇을 설명합니까?","a":"바로 앞 the fancy(상상)의 내용 — '밤의 정령이 지나갔다'는 그 상상입니다","tip":"fancy 는 '멋진'이 아니라 '공상, 상상'입니다. 관계대명사가 아니라 동격절입니다."},
+  {"t":"time","q":"<b>had gone by</b> — 아이들의 상상 속에서 정령은 지나가는 중입니까, 이미 지나갔습니까?","a":"이미 지나가 버렸다는 상상입니다","tip":"과거완료라 몸을 떤 시점보다 앞선 일입니다. 뺨을 스친 숨결이 그 흔적이라는 것이죠."},
+  {"t":"mod","q":"<b>came sighing through the branches</b> 의 sighing 은 무엇을 설명합니까?","a":"희미한 신음 소리가 흘러온 모양 — 한숨을 내쉬듯 스며 왔다는 뜻","tip":"누군가가 한숨을 쉰 것이 아닙니다. 주어는 사람이 아니라 a faint moan(희미한 신음 소리)입니다."}
+ ],
+ "16.58.5": [
+  {"t":"mod","q":"<b>cold, scared, and streaming with water</b> 는 무엇을 설명합니까?","a":"천막 밑으로 기어든 아이들의 상태 — 춥고 겁에 질리고 온몸에서 물이 줄줄 흐르는","tip":"바로 앞의 the tent 를 꾸미는 말로 붙이기 쉽습니다. 천막이 겁에 질릴 수는 없습니다."},
+  {"t":"time","q":"<b>one by one they straggled in at last</b> — 아이들은 다 함께 도착했습니까?","a":"아니요 — 하나씩 따로따로 겨우 도착했습니다","tip":"앞에서 어둠 속을 제각기 다른 방향으로 뛰었기 때문입니다. straggle 은 '뒤처져 흩어져 오다'입니다."},
+  {"t":"who","q":"<b>but to have company in misery seemed something to be grateful for</b> — seemed 의 주어는 무엇입니까?","a":"to have company in misery — '이 비참한 처지를 함께할 동무가 있다는 것'","tip":"company 는 '회사'가 아니라 '함께 있어 주는 사람'입니다. 사람을 주어로 찾으면 문장이 풀리지 않습니다."}
+ ],
+ "16.58.10": [
+  {"t":"neg","q":"<b>in cleancut and shadowless distinctness</b> — 그림자가 짙게 드리웠다는 뜻입니까?","a":"아니요 — 그림자 하나 없이 칼로 자른 듯 또렷했다는 뜻입니다","tip":"-less 는 '~이 없는'입니다. 번개가 쉴 새 없이 사방에서 번쩍여 그림자가 생기지 않았던 것입니다."},
+  {"t":"mod","q":"<b>white with foam</b> 은 무엇을 설명합니까?","a":"넘실대는 강물(the billowy river)","tip":"바로 뒤의 물보라를 꾸미는 말로 붙이기 쉽습니다. 콤마 사이에 끼워 앞 명사를 설명한 것입니다."},
+  {"t":"mod","q":"<b>glimpsed through the drifting cloudrack and the slanting veil of rain</b> 은 무엇을 설명합니까?","a":"건너편 높은 절벽의 흐릿한 윤곽(the dim outlines of the high bluffs)","tip":"'아이들이 언뜻 보았다'는 문장으로 읽기 쉽지만, 과거분사구로서 바로 앞 명사를 꾸밉니다."},
+  {"t":"pron","q":"<b>the high bluffs on the other side</b> — the other side 는 어디입니까?","a":"강 건너편 — 아이들이 있는 섬의 반대쪽 기슭입니다","tip":"bluff 는 '허세'가 아니라 '깎아지른 절벽'입니다."}
+ ],
+ "16.58.11": [
+  {"t":"time","q":"<b>Every little while</b> 는 무슨 뜻입니까?","a":"이따금, 얼마 지나지 않아 또 한 번씩","tip":"'아주 짧은 동안'이라는 기간이 아니라 '되풀이되는 간격'을 말합니다."},
+  {"t":"neg","q":"<b>some giant tree yielded the fight</b> — 그 거대한 나무는 버텨 냈습니까?","a":"아니요 — 버티다 끝내 굴복해 쓰러졌습니다","tip":"yield the fight 는 '싸움을 낳다'가 아니라 '싸움을 포기하다, 지고 물러나다'입니다. the younger growth 는 그 밑에서 자라던 어린 나무들입니다."},
+  {"t":"neg","q":"<b>the unflagging thunderpeals</b> — 천둥소리는 점점 잦아들었습니까?","a":"아니요 — 조금도 수그러들지 않았습니다","tip":"flag 는 '깃발'이 아니라 동사로 '기세가 꺾이다'입니다. un- 이 붙어 '수그러들 줄 모르는'이 됩니다."},
+  {"t":"mod","q":"<b>keen and sharp, and unspeakably appalling</b> 은 무엇을 설명합니까?","a":"귀청이 찢어질 듯한 그 폭발음(ear-splitting explosive bursts)","tip":"아이들의 기분을 설명하는 말로 붙이기 쉽습니다. 소리 자체가 어떠했는지를 덧붙인 것입니다."}
+ ],
+ "16.58.12": [
+  {"t":"pron","q":"<b>burn it up, drown it to the treetops, blow it away</b> — 여기 나오는 it 들은 무엇입니까?","a":"모두 그 섬(the island)","tip":"바로 앞의 the storm 이나 one matchless effort 로 잡기 쉽습니다. 폭풍이 자기 자신을 태울 수는 없습니다."},
+  {"t":"mod","q":"<b>that seemed likely to tear the island to pieces</b> — 이 관계절은 무엇을 꾸밉니까?","a":"one matchless effort — 폭풍이 마지막으로 쏟아부은 그 '한 방'","tip":"바로 앞 명사가 effort 입니다. 멀리 있는 The storm 을 꾸민다고 보면 that 절이 왜 여기 붙었는지 설명되지 않습니다."},
+  {"t":"neg","q":"<b>seemed likely to</b> — 섬이 실제로 갈가리 찢기고 물에 잠겼습니까?","a":"아니요 — 그렇게 될 것만 '같았다'는 말이고, 실제로 그런 일은 일어나지 않았습니다","tip":"seem likely to 는 '~할 것 같아 보이다'입니다. 실제 사건으로 읽으면 이야기가 통째로 달라집니다."},
+  {"t":"time","q":"<b>all at one and the same moment</b> — 다섯 가지 일이 차례차례 벌어질 것 같았다는 뜻입니까?","a":"아니요 — 전부 같은 한순간에 한꺼번에 벌어질 것 같았다는 뜻입니다","tip":"and 로 이어진 to부정사 다섯 개를 한꺼번에 받는 말입니다."}
+ ],
+ "16.59.1": [
+  {"t":"mod","q":"<b>the great sycamore, the shelter of their beds,</b> — the shelter of their beds 는 무엇을 설명합니까?","a":"그 커다란 플라타너스 — 아이들의 잠자리를 덮어 주던 나무라는 뜻입니다","tip":"천막 같은 물건을 하나 더 세면 안 됩니다. 콤마 사이에 끼워 넣은 동격입니다."},
+  {"t":"neg","q":"<b>they were not under it when the catastrophe happened</b> — 아이들은 그 나무 아래에 있었습니까?","a":"아니요 — 마침 그 아래에 없었습니다. 그래서 감사할 일이라고 한 것입니다","tip":"not 을 놓치면 '깔릴 뻔했다'가 아니라 '깔렸다'가 되어 버립니다."},
+  {"t":"pron","q":"<b>the catastrophe</b> 는 무엇을 가리킵니까?","a":"그 커다란 플라타너스가 벼락을 맞아 폐허가 된 일","tip":"폭풍 전체를 가리킨다고 보면 '그때 그 아래에 없었다'는 말이 붕 뜹니다."},
+  {"t":"mod","q":"<b>The boys went back to camp, a good deal awed;</b> — a good deal awed 는 무엇을 설명합니까?","a":"야영지로 돌아오던 아이들의 상태 — 잔뜩 겁을 먹고 압도된 채","tip":"a good deal 은 '좋은 거래'가 아니라 '상당히, 꽤나'입니다."}
+ ],
+ "16.60.2": [
+  {"t":"pron","q":"<b>the great log it had been built against</b> 의 it 과 <b>(where it curved upward ...)</b> 의 it 은 각각 무엇입니까?","a":"앞의 it = 불(the fire), 뒤의 it = 그 커다란 통나무","tip":"한 문장 안에서 it 이 가리키는 것이 바뀝니다. 앞은 '불을 그 통나무에 기대어 피워 놓았다'는 뜻입니다."},
+  {"t":"neg","q":"<b>a handbreadth or so of it had escaped wetting</b> — 그 자리는 비에 젖었습니까?","a":"아니요 — 손바닥만 한 그 자리만은 젖지 않고 남았습니다","tip":"escape 는 '(젖는 일을) 면하다'입니다. 이 부분을 놓치면 불을 되살릴 실마리가 사라집니다."},
+  {"t":"mod","q":"<b>the fire had eaten so far up ... that a handbreadth or so of it had escaped wetting</b> — 뒤쪽 that절은 어디에 걸립니까?","a":"앞의 so far up 과 짝을 이루는 결과절입니다 — '그토록 깊이 파고들어서, 그 결과 ~했다'","tip":"discovered that ... 의 that 이 또 나온 것으로 보면 문장이 두 동강 납니다. so ~ that 구문입니다."},
+  {"t":"time","q":"<b>they presently discovered</b> 의 presently 는 언제입니까?","a":"곧, 얼마 지나지 않아 — 한탄을 쏟아낸 그 직후입니다","tip":"present 에서 왔지만 '현재'라는 뜻이 아닙니다. 이 소설에서 presently 는 늘 '이윽고, 곧'입니다."}
+ ],
+ "16.60.4": [
+  {"t":"time","q":"<b>They dried their boiled ham</b> — 이때 아이들이 한 일은 햄을 삶은 것입니까, 말린 것입니까?","a":"말린 것입니다 — boiled ham 은 '이미 삶아 둔 햄'이고, 비에 젖은 그것을 불에 말린 것입니다","tip":"boiled 는 ham 을 꾸미는 말이지 이때 한 동작이 아닙니다."},
+  {"t":"mod","q":"<b>until morning</b> 은 어디에 걸리는 말입니까?","a":"불가에 앉아 모험담을 부풀리고 미화한 그 행동 — 아침까지 그러고 있었다는 뜻입니다","tip":"앞쪽의 잔치(had a feast)에 붙이면 아침까지 먹은 이야기가 되어 버립니다."},
+  {"t":"neg","q":"<b>for there was not a dry spot to sleep on, anywhere around</b> — 아이들은 잠을 잤습니까?","a":"아니요 — 주위 어디에도 마른 자리가 없어 아침까지 못 잤습니다","tip":"여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다. 밤새 떠든 이유를 밝히는 부분입니다."}
+ ],
+ "16.61.8": [
+  {"t":"time","q":"<b>it was not long before they were stripped</b> — 옷을 벗기까지 오래 걸렸습니까?","a":"아니요 — 얼마 지나지 않아 곧 다 벗었습니다","tip":"it was not long before ~ 는 '오래지 않아 ~했다'입니다. not 에 걸려 '한참 뒤에야'로 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>striped from head to heel with black mud</b> 는 무엇을 설명합니까?","a":"아이들의 벗은 몸 — 머리끝부터 발끝까지 검은 진흙으로 줄무늬가 그어진 상태","tip":"바로 앞의 stripped(옷을 벗기다)와 철자가 한 글자 차이입니다. striped 는 '줄무늬를 넣다'입니다."},
+  {"t":"mod","q":"<b>like so many zebras</b> 는 얼룩말이 아주 많다는 뜻입니까?","a":"아니요 — '그 수만큼의 얼룩말들처럼', 곧 세 아이가 꼭 얼룩말 세 마리 같았다는 뜻입니다","tip":"so many 가 명사 앞에 오면 '앞에 말한 그 수만큼의'라는 뜻이 됩니다."},
+  {"t":"who","q":"<b>all of them chiefs, of course</b> — 추장을 맡은 사람은 누구입니까?","a":"세 아이 전부 — 아무도 부하 노릇을 하지 않았습니다","tip":"앞서 광대가 셋이었던 것과 똑같은 농담입니다. of course 가 그 비꼼을 실어 줍니다."}
+ ],
+ "16.63.0": [
+  {"t":"who","q":"<b>hostile Indians</b> 는 누구를 말합니까?","a":"인디언 놀이를 하던 세 아이 자신(톰·조·헉)","tip":"진짜 인디언 부족이 나타난 것이 아닙니다. 셋이 서로 다른 부족으로 갈라져 싸우던 놀이가 그대로 이어집니다."},
+  {"t":"neg","q":"<b>could not break the bread of hospitality together without first making peace</b> — 화해하지 않고도 함께 밥을 먹을 수 있었습니까?","a":"아니요 — 먼저 화해해야만 함께 먹을 수 있었습니다","tip":"not ~ without ... 은 부정이 겹쳐 '…해야만 ~한다'가 됩니다. break bread 는 '빵을 부수다'가 아니라 '함께 식사하다'입니다."},
+  {"t":"pron","q":"<b>and this was a simple impossibility</b> 의 this 는 무엇을 가리킵니까?","a":"먼저 화해하는 것(making peace)","tip":"'함께 빵을 먹는 것'으로 잡기 쉽습니다. 그렇게 잡으면 담뱃대 이야기가 왜 나오는지 앞뒤가 안 맞습니다."},
+  {"t":"neg","q":"<b>a simple impossibility</b> 는 '간단히 할 수 있는 일'이라는 뜻입니까?","a":"아니요 — '아예 불가능한 일'이라는 뜻입니다","tip":"simple 이 impossibility(불가능)를 강조합니다. 그래서 내키지 않아도 담뱃대를 피울 수밖에 없었습니다."}
+ ],
+ "16.63.3": [
+  {"t":"neg","q":"<b>there was no other way</b> — 담뱃대를 피우지 않고 넘어갈 길이 있었습니까?","a":"아니요 — 달리 방법이 없었습니다","tip":"no other 를 놓치면 '마지못해 피웠다'는 이 장면의 우스움이 통째로 사라집니다."},
+  {"t":"mod","q":"<b>such show of cheerfulness as they could muster</b> — 아이들은 정말로 신이 나 있었습니까?","a":"아니요 — 억지로 짜낼 수 있는 만큼 쾌활한 '표정'을 지어 보인 것입니다","tip":"show 는 여기서 '겉으로 지어 보이는 모습'입니다. as they could muster 가 그 show 의 범위를 한정합니다."},
+  {"t":"pron","q":"<b>took their whiff as it passed</b> 의 it 은 무엇입니까?","a":"담뱃대(the pipe)","tip":"돌려 가며 피우던 담뱃대가 자기 차례로 넘어왔다는 뜻입니다. 시간이나 순서로 잡으면 장면이 사라집니다."},
+  {"t":"mod","q":"<b>in due form</b> 은 무엇을 설명합니까?","a":"한 모금씩 빨아들인 방식 — 정해진 격식과 절차에 맞게","tip":"form 은 '서류 양식'이 아니라 '격식'입니다. 인디언 의식을 흉내 낸 것입니다."}
+ ],
+ "16.64.0": [
+  {"t":"who","q":"<b>they had gone into savagery</b> — 야만인이 된 것은 누구입니까?","a":"세 아이 자신 — 해적 놀이를 그만두고 인디언 놀이로 갈아탄 것을 말합니다","tip":"어떤 야만인 무리를 만났다는 말이 아닙니다. go into ~ 는 '~로 들어가다, ~를 시작하다'입니다."},
+  {"t":"pron","q":"<b>without having to go and hunt for a lost knife</b> — '잃어버린 칼을 찾으러 간다'는 것은 무엇을 가리킵니까?","a":"앞서 담배에 취해 속이 뒤집혔을 때 '칼을 잃어버렸다'며 자리를 뜬 그 핑계","tip":"실제로 칼을 찾으러 간 것이 아니라 몰래 토하러 간 것이었습니다. 작가가 그 일을 슬쩍 되짚는 대목입니다."},
+  {"t":"neg","q":"<b>they did not get sick enough to be seriously uncomfortable</b> — 이번에는 속이 전혀 안 좋지 않았습니까?","a":"아니요 — 좀 울렁거리기는 했지만 심하게 불편할 정도까지는 아니었습니다","tip":"not ~ enough to ... 는 '…할 만큼은 아니다'입니다. '전혀 아프지 않았다'도 '너무 아팠다'도 아닙니다."}
+ ]
+}

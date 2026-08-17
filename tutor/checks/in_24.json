@@ -1,0 +1,307 @@
+[
+ {
+  "id": "24.0.1",
+  "en": "His name even went into immortal print, for the village paper magnified him.",
+  "s": "His name",
+  "v": "went",
+  "ko": "그의 이름은 심지어 불멸의 활자로까지 실렸다. 마을 신문이 그를 크게 띄워 줬기 때문이다.",
+  "chunks": [
+   {
+    "en": "His name even went into immortal print,",
+    "ko": "그의 이름은 심지어 불멸의 활자로까지 실렸다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "for the village paper magnified him.",
+    "ko": "마을 신문이 그를 크게 띄워 줬기 때문이다",
+    "r": "부사절(이유, for=because)"
+   }
+  ]
+ },
+ {
+  "id": "24.1.0",
+  "en": "As usual, the fickle, unreasoning world took Muff Potter to its bosom and fondled him as lavishly as it had abused him before.",
+  "s": "the fickle, unreasoning world",
+  "v": "took",
+  "ko": "늘 그렇듯이, 변덕스럽고 분별없는 세상은 머프 포터를 품에 끌어안고서, 전에 그를 학대했던 만큼이나 아낌없이 어루만져 주었다.",
+  "chunks": [
+   {
+    "en": "As usual,",
+    "ko": "늘 그렇듯이",
+    "r": "부사(문장 앞 꾸밈말)"
+   },
+   {
+    "en": "the fickle, unreasoning world",
+    "ko": "변덕스럽고 분별없는 세상은",
+    "r": "주어"
+   },
+   {
+    "en": "took Muff Potter to its bosom",
+    "ko": "머프 포터를 제 품에 끌어안았다",
+    "r": "동사 + 목적어 + 전치사구"
+   },
+   {
+    "en": "and fondled him as lavishly",
+    "ko": "그리고 그만큼이나 아낌없이 그를 어루만졌다",
+    "r": "대등 동사 + 부사(as ~ as의 앞짝)"
+   },
+   {
+    "en": "as it had abused him before.",
+    "ko": "전에 그를 학대했던 만큼",
+    "r": "부사절(비교, as ~ as의 뒷짝)"
+   }
+  ]
+ },
+ {
+  "id": "24.1.1",
+  "en": "But that sort of conduct is to the world’s credit; therefore it is not well to find fault with it.",
+  "s": "that sort of conduct",
+  "v": "is",
+  "ko": "하지만 그런 행실은 오히려 세상의 갸륵한 점이다. 그러니 그것을 트집 잡는 것은 옳지 않다.",
+  "chunks": [
+   {
+    "en": "But that sort of conduct is to the world’s credit;",
+    "ko": "하지만 그런 행실은 세상의 갸륵한 점이다",
+    "r": "접속 + 주어 + 동사 + 보어"
+   },
+   {
+    "en": "therefore it is not well to find fault with it.",
+    "ko": "그러므로 그것을 흠잡는 것은 옳지 않다",
+    "r": "대등절(결론, it=가주어)"
+   }
+  ]
+ },
+ {
+  "id": "24.2.3",
+  "en": "Poor Huck was in the same state of wretchedness and terror, for Tom had told the whole story to the lawyer the night before the great day of the trial, and Huck was sore afraid that his share in the business might leak out, yet, notwithstanding Injun Joe’s flight had saved him the suffering of testifying in court.",
+  "s": "Poor Huck",
+  "v": "was",
+  "ko": "가엾은 헉도 똑같이 비참하고 겁에 질려 있었다. 재판이 열리는 그 중대한 날의 전날 밤에 톰이 변호사에게 모든 이야기를 털어놓았기 때문이다. 헉은 자기가 그 일에 끼어 있었다는 사실이 새어 나갈까 봐 몹시 두려웠다 — 인전 조가 달아난 덕분에 법정에서 증언하는 괴로움은 면했는데도 말이다.",
+  "chunks": [
+   {
+    "en": "Poor Huck was in the same state of wretchedness and terror,",
+    "ko": "가엾은 헉도 똑같이 비참하고 겁에 질린 상태였다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "for Tom had told the whole story to the lawyer",
+    "ko": "톰이 변호사에게 모든 이야기를 털어놓았기 때문이다",
+    "r": "부사절(이유, for=because)"
+   },
+   {
+    "en": "the night before the great day of the trial,",
+    "ko": "재판이 열리는 그 중대한 날의 전날 밤에",
+    "r": "시간"
+   },
+   {
+    "en": "and Huck was sore afraid",
+    "ko": "그래서 헉은 몹시 두려웠다",
+    "r": "대등절"
+   },
+   {
+    "en": "that his share in the business might leak out,",
+    "ko": "자기가 그 일에 끼어 있었다는 사실이 새어 나갈까 봐",
+    "r": "보어(that절, afraid에 걸림)"
+   },
+   {
+    "en": "yet, notwithstanding Injun Joe’s flight had saved him",
+    "ko": "그런데도 — 인전 조가 달아난 덕분에 그가 면하게 되었는데도",
+    "r": "접속(그런데도) + 부사절(양보, notwithstanding=~에도 불구하고)"
+   },
+   {
+    "en": "the suffering of testifying in court.",
+    "ko": "법정에서 증언해야 하는 괴로움을",
+    "r": "목적어(save A B = A에게 B를 면하게 해 주다)"
+   }
+  ]
+ },
+ {
+  "id": "24.2.5",
+  "en": "Since Tom’s harassed conscience had managed to drive him to the lawyer’s house by night and wring a dread tale from lips that had been sealed with the dismalest and most formidable of oaths, Huck’s confidence in the human race was wellnigh obliterated.",
+  "s": "Huck’s confidence",
+  "v": "was",
+  "ko": "톰의 시달린 양심이 기어이 그를 한밤중에 변호사 집으로 몰고 가서, 가장 음침하고 무시무시한 맹세로 봉해져 있던 입에서 그 무서운 이야기를 쥐어짜 내고 말았으니, 인간이라는 종족에 대한 헉의 믿음은 거의 산산조각이 나 버렸다.",
+  "chunks": [
+   {
+    "en": "Since Tom’s harassed conscience had managed",
+    "ko": "톰의 시달린 양심이 끝내 ~해 내고 말았으니",
+    "r": "부사절(이유) 주어 + 동사"
+   },
+   {
+    "en": "to drive him to the lawyer’s house by night",
+    "ko": "그를 한밤중에 변호사 집으로 몰고 가고",
+    "r": "to부정사(managed의 목적어)"
+   },
+   {
+    "en": "and wring a dread tale from lips",
+    "ko": "그리고 그 입에서 무서운 이야기를 쥐어짜 내는 것을",
+    "r": "to부정사(나열, to가 생략된 채 이어짐)"
+   },
+   {
+    "en": "that had been sealed with the dismalest and most formidable of oaths,",
+    "ko": "가장 음침하고 무시무시한 맹세로 봉해져 있던 (그 입)",
+    "r": "관계절(lips 설명)"
+   },
+   {
+    "en": "Huck’s confidence in the human race",
+    "ko": "인간이라는 종족에 대한 헉의 믿음은",
+    "r": "주어(주절)"
+   },
+   {
+    "en": "was wellnigh obliterated.",
+    "ko": "거의 남김없이 무너져 버렸다",
+    "r": "동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "24.3.0",
+  "en": "Daily Muff Potter’s gratitude made Tom glad he had spoken; but nightly he wished he had sealed up his tongue.",
+  "s": "Muff Potter’s gratitude",
+  "v": "made",
+  "ko": "낮이면 머프 포터의 감사에 톰은 말하길 잘했다고 기뻐했지만, 밤이면 차라리 입을 다물었더라면 하고 후회했다.",
+  "chunks": [
+   {
+    "en": "Daily Muff Potter’s gratitude made Tom glad",
+    "ko": "낮마다 머프 포터의 감사는 톰을 기쁘게 했다",
+    "r": "부사(때) + 주어 + 동사 + 목적어 + 보어"
+   },
+   {
+    "en": "he had spoken;",
+    "ko": "자기가 (사실을) 말한 것이",
+    "r": "이유(glad 뒤 that 생략)"
+   },
+   {
+    "en": "but nightly he wished",
+    "ko": "하지만 밤마다 그는 바랐다",
+    "r": "대등절"
+   },
+   {
+    "en": "he had sealed up his tongue.",
+    "ko": "차라리 입을 꾹 다물었더라면 하고",
+    "r": "목적어(that 생략, 가정법)"
+   }
+  ]
+ },
+ {
+  "id": "24.4.0",
+  "en": "Half the time Tom was afraid Injun Joe would never be captured; the other half he was afraid he would be.",
+  "s": "Tom",
+  "v": "was",
+  "ko": "톰은 절반의 시간은 인전 조가 영영 잡히지 않을까 봐 두려웠고, 나머지 절반은 그가 잡힐까 봐 두려웠다.",
+  "chunks": [
+   {
+    "en": "Half the time Tom was afraid",
+    "ko": "절반의 시간 동안 톰은 두려워했다",
+    "r": "시간 + 주어 + 동사 + 보어"
+   },
+   {
+    "en": "Injun Joe would never be captured;",
+    "ko": "인전 조가 영영 잡히지 않을까 봐",
+    "r": "보어(that 생략된 절)"
+   },
+   {
+    "en": "the other half he was afraid he would be.",
+    "ko": "나머지 절반은 그가 잡힐까 봐 두려워했다",
+    "r": "대등절(he would be = he would be captured)"
+   }
+  ]
+ },
+ {
+  "id": "24.4.1",
+  "en": "He felt sure he never could draw a safe breath again until that man was dead and he had seen the corpse.",
+  "s": "He",
+  "v": "felt",
+  "ko": "그는 그자가 죽고 자기 눈으로 시체를 확인하기 전까지는 결코 마음 놓고 숨 한 번 쉴 수 없으리라고 확신했다.",
+  "chunks": [
+   {
+    "en": "He felt sure",
+    "ko": "그는 확신했다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "he never could draw a safe breath again",
+    "ko": "다시는 마음 놓고 숨 한 번 쉴 수 없으리라고",
+    "r": "목적어(that 생략된 절)"
+   },
+   {
+    "en": "until that man was dead",
+    "ko": "그자가 죽고",
+    "r": "부사절(때, ~할 때까지)"
+   },
+   {
+    "en": "and he had seen the corpse.",
+    "ko": "자기 눈으로 그 시체를 확인하기 전까지는",
+    "r": "부사절(until에 이어지는 나열)"
+   }
+  ]
+ },
+ {
+  "id": "24.5.1",
+  "en": "One of those omniscient and awe-inspiring marvels, a detective, came up from St. Louis, moused around, shook his head, looked wise, and made that sort of astounding success which members of that craft usually achieve.",
+  "s": "One of those omniscient and awe-inspiring marvels",
+  "v": "came up",
+  "ko": "모르는 것이 없고 경외심마저 자아내는 그 놀라운 존재들 중 하나, 즉 탐정 한 사람이 세인트루이스에서 올라와 여기저기 쥐 잡듯 뒤지고 다니고, 고개를 절레절레 젓고, 다 안다는 표정을 짓더니, 그 업계 사람들이 으레 거두곤 하는 그런 놀라운 성과를 거두었다.",
+  "chunks": [
+   {
+    "en": "One of those omniscient and awe-inspiring marvels,",
+    "ko": "모르는 것이 없고 경외심을 자아내는 그 놀라운 존재들 중 하나가",
+    "r": "주어(긴 주어)"
+   },
+   {
+    "en": "a detective,",
+    "ko": "다름 아닌 탐정 한 사람이",
+    "r": "동격(주어를 다시 설명)"
+   },
+   {
+    "en": "came up from St. Louis, moused around,",
+    "ko": "세인트루이스에서 올라와, 여기저기 쥐 잡듯 뒤지고 다니고",
+    "r": "동사 + 전치사구 + 대등 동사"
+   },
+   {
+    "en": "shook his head, looked wise,",
+    "ko": "고개를 절레절레 젓고, 다 안다는 표정을 짓더니",
+    "r": "대등 동사(나열)"
+   },
+   {
+    "en": "and made that sort of astounding success",
+    "ko": "그러고는 그런 종류의 놀라운 성과를 거두었다",
+    "r": "대등 동사 + 목적어"
+   },
+   {
+    "en": "which members of that craft usually achieve.",
+    "ko": "그 업계 사람들이 으레 거두곤 하는 (그런 성과를)",
+    "r": "관계절(success 설명)"
+   }
+  ]
+ },
+ {
+  "id": "24.5.3",
+  "en": "But you can’t hang a “clew” for murder, and so after that detective had got through and gone home, Tom felt just as insecure as he was before.",
+  "s": "you",
+  "v": "can’t hang",
+  "ko": "하지만 '단서'를 살인죄로 교수형에 처할 수는 없는 노릇이어서, 그 탐정이 일을 마치고 집으로 돌아간 뒤에도 톰은 전과 똑같이 불안하기만 했다.",
+  "chunks": [
+   {
+    "en": "But you can’t hang a “clew” for murder,",
+    "ko": "하지만 '단서'를 살인죄로 교수형에 처할 수는 없는 노릇이라",
+    "r": "접속 + 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and so after that detective had got through and gone home,",
+    "ko": "그래서 그 탐정이 일을 마치고 집으로 돌아간 뒤에도",
+    "r": "접속 + 부사절(때)"
+   },
+   {
+    "en": "Tom felt just as insecure",
+    "ko": "톰은 여전히 똑같이 불안했다",
+    "r": "주절 주어 + 동사 + 보어"
+   },
+   {
+    "en": "as he was before.",
+    "ko": "전에 그랬던 것만큼",
+    "r": "부사절(비교, as ~ as)"
+   }
+  ]
+ }
+]

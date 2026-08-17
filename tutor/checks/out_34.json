@@ -1,0 +1,92 @@
+{
+ "34.0.0": [
+  {"t":"who","q":"<b>“Tom, we can slope</b> — 여기서 <b>Tom</b> 은 이 문장의 주어입니까?","a":"아니요 — 부르는 말입니다. 몰래 튀려는 사람은 we(헉과 톰 둘)입니다","tip":"인용문 맨 앞의 이름 + 쉼표는 대개 부르는 말입니다. slope 는 '경사'가 아니라 '몰래 달아나다'입니다."},
+  {"t":"time","q":"<b>if we can find a rope</b> — 두 사람은 밧줄을 이미 구했습니까?","a":"아니요 — 아직 못 구했습니다. 구하면 그때 튈 수 있다는 조건입니다","tip":"'밧줄 구하기 → 도망'의 순서입니다. can find 를 '있다'로 뭉개면 이미 손에 든 줄로 읽게 됩니다."}
+ ],
+ "34.7.1": [
+  {"t":"pron","q":"<b>they helped her out of</b> 의 <b>her</b> 는 누구입니까?","a":"과부 아주머니(더글러스 부인) — 오늘 파티를 여는 그 과부댁입니다","tip":"웨일스 노인의 아내로 잡기 쉽습니다. 앞 문장의 the widow 를 받습니다."},
+  {"t":"who","q":"요전 날 밤 곤경에서 구해 준 쪽과 구함을 받은 쪽은 각각 누구입니까?","a":"구해 준 쪽은 웨일스 노인과 그 아들들(they), 구함을 받은 쪽은 과부댁(her)","tip":"그래서 이번 파티가 '그들을 위한' 자리입니다. 웨일스 노인이 곧 존스 영감(Mr. Jones)입니다."},
+  {"t":"mod","q":"문장 끝의 <b>out of</b> 는 어느 말과 짝입니까?","a":"앞의 that scrape — '그들이 과부댁을 그 곤경에서 구해 준'이라는 뜻입니다","tip":"관계사가 빠져 있어 they helped her 가 따로 노는 문장처럼 보입니다."},
+  {"t":"time","q":"<b>the other night</b> 은 오늘 밤을 말합니까?","a":"아니요 — 이미 지나간 요전 날 밤입니다","tip":"This time(이번엔)은 오늘 파티, the other night 은 그 전에 있었던 일입니다. '다른 밤'으로 옮기면 시점이 흐려집니다."}
+ ],
+ "34.9.0": [
+  {"t":"who","q":"<b>I overheard him tell auntie</b> — 이모에게 그 얘기를 한 사람과 그것을 엿들은 사람은 각각 누구입니까?","a":"이모에게 말한 사람은 존스 영감(him), 엿들은 사람은 시드(I)","tip":"overhear + 목적어 + 동사원형입니다. 말한 사람을 시드로 잡으면 장면이 뒤집힙니다."},
+  {"t":"time","q":"존스 영감이 뭔가를 터뜨리는 일과 시드가 그것을 엿들은 일 중 이미 일어난 것은 어느 쪽입니까?","a":"엿들은 일(today) — 이미 일어났습니다. 터뜨리는 일은 오늘 밤(tonight)으로 아직 남아 있습니다","tip":"is going to try 는 아직 하지 않은 일입니다. 과거인 것은 overheard 뿐입니다."},
+  {"t":"neg","q":"<b>it’s not much of a secret now</b> — 그것은 지금도 비밀입니까?","a":"아니요 — 이제는 별로 비밀도 아닙니다(다들 알고 있습니다)","tip":"not much of a ~ 는 '별로 대단한 ~가 아니다'입니다. not 을 놓치면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>tell auntie today about it</b> 의 <b>it</b> 은 무엇입니까?","a":"존스 영감이 오늘 밤 터뜨리려는 그 일(something)","tip":"뒤의 it’s not much of a secret 의 it 도 같은 것입니다. 문장 첫머리의 Why 는 '왜'가 아니라 '아 글쎄'라는 감탄사이니 의문문으로 읽지 마세요."}
+ ],
+ "34.9.2": [
+  {"t":"who","q":"대시 뒤 <b>couldn’t get along with his grand secret</b> — 그럴 수 없었던 사람은 누구입니까?","a":"존스 영감(Mr. Jones) — 헉이 아닙니다","tip":"대시 뒤에 주어 he 가 생략됐습니다. 바로 앞의 Huck 을 주어로 이어 읽기 쉽습니다."},
+  {"t":"neg","q":"<b>couldn’t get along ... without Huck</b> — 헉이 없어도 그 비밀 이야기를 풀 수 있었습니까?","a":"아니요 — 헉 없이는 진행할 수 없었습니다","tip":"couldn’t 와 without 이 겹칩니다. 둘 중 하나만 보면 뜻이 뒤집힙니다."},
+  {"t":"pron","q":"<b>his grand secret</b> 의 <b>his</b> 는 누구입니까?","a":"존스 영감 — 그가 쥐고 있다가 터뜨리려는 비밀입니다","tip":"비밀의 '내용'이 헉에 관한 것이라 헉의 비밀로 잡기 쉽습니다. was bound 는 '묶였다'가 아니라 '기어이 ~하려 들었다'입니다."}
+ ],
+ "34.11.1": [
+  {"t":"time","q":"<b>was going to make a grand time</b> — 존스 영감은 실제로 한바탕 크게 벌였습니까?","a":"아니요 — 그럴 셈이었던 것 같다는 시드의 짐작이고, 아직 벌어지지 않았습니다","tip":"was going to 는 '~하려던 참이었다'입니다. 실제로 했다는 말이 아닙니다."},
+  {"t":"pron","q":"<b>it will drop pretty flat</b> 의 <b>it</b> 은 무엇입니까?","a":"존스 영감의 그 깜짝 발표(his surprise)","tip":"drop flat 은 '맥없이 끝나다'입니다. it 을 파티 전체로 잡으면 초점이 흐려집니다."},
+  {"t":"who","q":"<b>I reckon</b> 과 <b>I bet you</b> 의 <b>I</b>, 그리고 <b>you</b> 는 각각 누구입니까?","a":"I 는 둘 다 시드, you 는 톰입니다","tip":"앞뒤로 존스 영감 이야기가 이어져 I 를 존스 영감으로 잡기 쉽습니다. 이 문장은 전부 시드의 대사입니다."}
+ ],
+ "34.15.1": [
+  {"t":"time","q":"<b>If you had been in Huck’s place</b> — 시드가 실제로 헉의 처지였던 적이 있습니까?","a":"아니요 — 사실과 반대인 가정입니다(만약 그랬더라면)","tip":"had been + ’d ’a’(would have) p.p. 는 실제로 일어나지 않은 일을 말합니다."},
+  {"t":"neg","q":"<b>never told anybody on the robbers</b> — 그 경우 강도 얘기를 알렸겠습니까?","a":"아니요 — 아무한테도 일러바치지 않았을 것이라는 뜻입니다","tip":"never 를 놓치면 정반대가 됩니다. tell on ~ 은 '~에 대해 고자질하다'입니다."},
+  {"t":"who","q":"<b>sneaked down the hill</b> 과 <b>never told</b> 를 했을 사람은 누구입니까?","a":"시드(you) — 헉이 아닙니다. 헉은 실제로 언덕을 내려가 알린 사람입니다","tip":"and 로 이어진 두 동사의 주어는 모두 you 입니다. 문장 안에 Huck 이 나와 주어를 헉으로 바꿔 잡기 쉽습니다."}
+ ],
+ "34.15.2": [
+  {"t":"neg","q":"<b>You can’t do any but mean things</b> — 이 말은 시드가 못된 짓조차 못 한다는 뜻입니까?","a":"아니요 — 못된 짓 말고는 할 줄 아는 게 없다, 즉 하는 짓이 죄다 못됐다는 뜻입니다","tip":"여기서 but 은 '그러나'가 아니라 '~ 말고는(except)'입니다. can’t 를 문장 전체에 걸면 정반대가 됩니다."},
+  {"t":"who","q":"<b>see anybody praised</b> — 칭찬을 받는 쪽은 누구입니까?","a":"시드가 아닌 다른 누군가(anybody) — 착한 일을 해서 칭찬받는 사람입니다","tip":"praised 는 과거형이 아니라 과거분사(받는 쪽)입니다. 시드가 남을 칭찬한다는 뜻이 아닙니다. bear 는 '견디다'입니다."},
+  {"t":"pron","q":"<b>for doing good ones</b> 의 <b>ones</b> 는 무엇을 받습니까?","a":"앞의 things — good things, 즉 착한 '일'입니다","tip":"ones 를 사람으로 잡으면 '착한 사람들'이 되어 버립니다. mean things ↔ good ones 의 대비입니다."}
+ ],
+ "34.15.3": [
+  {"t":"who","q":"<b>and Tom cuffed Sid’s ears</b> 부터도 톰이 소리 내어 하는 말입니까?","a":"아니요 — 톰의 말은 <b>as the widow says”</b> 에서 끝나고, 그 뒤 대시부터는 작가의 서술입니다","tip":"대사와 서술이 대시 하나로 붙어 있어 끝까지 대사로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>as the widow says</b> — 이 말을 입버릇처럼 하는 사람은 누구입니까?","a":"과부 아주머니 — 톰이 그 말투를 흉내 내며 비꼬는 것입니다","tip":"과부댁이 지금 그 자리에서 그렇게 말했다는 뜻이 아닙니다. as ~ says 는 '~가 늘 말하듯이'입니다."},
+  {"t":"mod","q":"<b>with several kicks</b> 는 무엇을 설명하는 말입니까?","a":"톰이 시드를 문까지 '배웅해' 준 방법 — 발길질을 몇 번 해서 몰아냈다는 뜻입니다","tip":"helped him to the door 를 친절로 읽으면 안 됩니다. 발길질이 곧 그 '도움'입니다."}
+ ],
+ "34.16.0": [
+  {"t":"who","q":"<b>a dozen children were propped up</b> — 아이들이 무언가를 받쳐 세운 것입니까, 아이들이 앉혀진 것입니까?","a":"아이들이 (작은 보조 탁자 앞에) 앉혀진 쪽입니다","tip":"were propped up 은 수동태입니다. 주어가 사람이라 아이들이 한 행동으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>at little side-tables in the same room</b> — 아이들은 어른들과 다른 방에 있었습니까?","a":"아니요 — 같은 방 안의 작은 보조 탁자에 앉아 있었습니다","tip":"in the same room 은 그 보조 탁자가 놓인 곳입니다. 아이들을 딴 방으로 보냈다고 짐작하기 쉽습니다."},
+  {"t":"time","q":"<b>after the fashion of that country and that day</b> 는 '그 고장과 그날이 지난 뒤에'라는 뜻입니까?","a":"아니요 — '그 고장 그 시절의 관례대로'라는 뜻입니다. 시간과는 상관없습니다","tip":"여기서 after 는 '~ 뒤에'가 아니라 '~을 본떠, ~ 방식대로'입니다. that day 도 '그날'이 아니라 '그 시절'입니다."}
+ ],
+ "34.16.1": [
+  {"t":"pron","q":"<b>in which he thanked the widow</b> 의 <b>which</b> 는 무엇을 받습니까?","a":"존스 씨의 그 짤막한 연설(his little speech) — 그 연설 안에서 감사를 표했다는 뜻입니다","tip":"바로 앞의 the proper time(때)으로 잡기 쉽습니다."},
+  {"t":"who","q":"<b>the honor she was doing himself and his sons</b> — 영광을 베푼 쪽과 받은 쪽은 각각 누구입니까?","a":"베푼 쪽은 과부댁(she), 받은 쪽은 존스 씨 자신과 그 아들들(himself and his sons)","tip":"himself 는 '직접'이라는 강조가 아니라 him(존스 씨)을 가리키는 목적어입니다. 주어 she 를 존스 씨로 잡으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>whose modesty—</b> 는 누구의 겸손함을 말하려던 것입니까?","a":"바로 앞의 another person(또 한 사람)의 겸손함입니다","tip":"존스 씨나 과부댁의 겸손함으로 붙이기 쉽습니다. 말이 대시에서 끊겼을 뿐, whose 는 앞 명사에 붙습니다."}
+ ],
+ "34.17.1": [
+  {"t":"pron","q":"이 문장 첫머리의 <b>He</b> 는 누구입니까?","a":"존스 씨(웨일스 노인) — 비밀을 터뜨린 쪽입니다","tip":"바로 뒤에 Huck 이 나와 헉으로 잡기 쉽습니다. 헉은 비밀의 '내용'에 해당하는 사람입니다."},
+  {"t":"mod","q":"<b>he was master of</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 the finest dramatic manner — 그가 부릴 줄 아는 가장 극적인 '방식'","tip":"관계사가 생략돼 있습니다. the adventure 나 his secret 에 붙이면 뜻이 달라집니다."},
+  {"t":"neg","q":"<b>the surprise ... was largely counterfeit</b> — 사람들은 정말로 놀랐습니까?","a":"아니요 — 그 놀라움은 대체로 꾸며 낸 것이었습니다","tip":"the surprise it occasioned 의 it 은 그가 터뜨린 비밀입니다. counterfeit(가짜)을 놓치면 장면이 정반대가 됩니다."},
+  {"t":"time","q":"<b>as it might have been under happier circumstances</b> — 그런 좋은 상황이 실제로 있었습니까?","a":"아니요 — '사정이 더 좋았더라면 그랬을 텐데'라는 가정입니다. 실제로는 김이 새 버린 자리였습니다","tip":"might have been 은 일어나지 않은 일을 말합니다. not as ~ as ... 비교의 뒷부분입니다."}
+ ],
+ "34.17.2": [
+  {"t":"neg","q":"<b>made a pretty fair show of astonishment</b> — 과부댁은 진짜로 놀랐습니까?","a":"아니요 — 제법 그럴듯하게 놀란 '척'을 해 보였습니다","tip":"a show of ~ 는 '~하는 시늉'입니다. fair 를 '공정한'으로 읽으면 문장이 흐려집니다."},
+  {"t":"neg","q":"<b>he almost forgot</b> — 헉은 새 옷의 불편함을 잊었습니까?","a":"아니요 — 잊을 뻔했을 뿐, 실제로 잊지는 않았습니다","tip":"almost 는 '거의 ~할 뻔했다(하지는 않았다)'입니다. '거의 잊었다'로 옮기면 반대쪽으로 기웁니다."},
+  {"t":"pron","q":"<b>that he almost forgot</b> 의 <b>he</b> 는 누구입니까?","a":"헉 — 칭찬 세례를 받은 쪽입니다","tip":"문장의 주어가 the widow 라 과부댁으로 잡기 쉽습니다. so ~ that 의 that절에서 주어가 바뀝니다."},
+  {"t":"mod","q":"<b>nearly intolerable</b> 과 <b>entirely intolerable</b> 은 각각 무엇의 불편함입니까?","a":"nearly intolerable 은 새 옷의 불편함, entirely intolerable 은 모두의 시선과 찬사의 표적으로 세워지는 불편함입니다(이쪽이 더 지독합니다)","tip":"비슷한 말이 두 번 나와 뒤바꿔 읽기 쉽습니다. 더 큰 괴로움이 작은 괴로움을 덮어 버렸다는 뜻입니다."}
+ ],
+ "34.18.0": [
+  {"t":"pron","q":"<b>under her roof</b> 의 <b>her</b> 는 누구이며, 무슨 뜻입니까?","a":"과부댁 — 자기 집에 헉을 들여 함께 살게 하겠다는 뜻입니다","tip":"바로 앞에 Huck 이 있어 헉의 집으로 잡기 쉽습니다. under one’s roof 는 '한집에서'라는 굳어진 표현입니다."},
+  {"t":"who","q":"<b>have him educated</b> — 과부댁이 직접 헉을 가르치겠다는 뜻입니까?","a":"아니요 — 헉이 교육을 받게 해 주겠다(공부시키겠다)는 뜻입니다","tip":"have + 목적어 + 과거분사는 '(남을 시켜) ~되게 하다'입니다. 배우는 쪽은 헉입니다."},
+  {"t":"time","q":"<b>when she could spare the money</b> — 과부댁은 이미 헉에게 장사를 차려 주었습니까?","a":"아니요 — 돈에 여유가 생기면 그때 차려 주겠다는 앞으로의 계획입니다","tip":"could/would 는 과거가 아니라 said 에 맞춰 형태만 바뀐 것입니다. 이미 한 일로 읽지 마세요."},
+  {"t":"mod","q":"<b>in a modest way</b> 는 무엇을 설명하는 말입니까?","a":"장사를 차려 주는 규모 — 크게가 아니라 작게나마 시작하게 해 주겠다는 뜻입니다","tip":"modest 를 '겸손한'으로 읽어 헉의 성격에 붙이면 안 됩니다."}
+ ],
+ "34.20.0": [
+  {"t":"neg","q":"이 문장에서 사람들은 결국 웃었습니까?","a":"아니요 — 웃음이 터지지 않았습니다(간신히 참았습니다)","tip":"Nothing but A kept back B 는 '오직 A 덕분에 B가 막혔다'입니다. Nothing 만 보고 '막지 못했다'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"그 웃음을 막아 낸 것은 무엇입니까?","a":"그 자리 사람들이 예의를 지키느라 쓴 심한 안간힘(a heavy strain upon the good manners of the company)","tip":"주어가 길어서 가까이 있는 the company 나 the good manners 를 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>at this pleasant joke</b> 는 어느 말에 붙습니까?","a":"the due and proper complimentary laugh — 이 농담에 (당연히) 터져 나왔어야 할 예의상의 웃음","tip":"kept back ... at ~ 으로 이어 읽으면 문장이 무너집니다. 어디서 나올 웃음인지를 설명하는 말입니다."},
+  {"t":"pron","q":"<b>this pleasant joke</b> 는 무엇을 가리킵니까?","a":"바로 앞에서 톰이 한 말 — '헉은 그게 필요 없다, 헉은 부자다'","tip":"사람들은 그 말을 진담이 아니라 유쾌한 농담으로 받아들였습니다. 실제로는 사실이었습니다."}
+ ],
+ "34.24.0": [
+  {"t":"who","q":"<b>struggling with the weight of his sacks</b> — 자루 무게에 낑낑댄 사람은 누구입니까?","a":"톰 — 폴리 이모가 아닙니다","tip":"분사구문의 주어는 앞 절의 주어(Tom)입니다. 뒤에 Aunt Polly 가 나와 이모에게 붙이기 쉽습니다."},
+  {"t":"neg","q":"<b>Aunt Polly did not finish her sentence</b> — 이모는 하던 말을 끝맺었습니까?","a":"아니요 — 끝맺지 못했습니다","tip":"her sentence 는 바로 앞에서 이모가 하다 만 말(I never—)입니다. sentence 는 '형벌'이 아니라 '하던 말'입니다."},
+  {"t":"time","q":"이모가 말을 멈춘 것은 톰이 들어오기 전입니까, 들어온 뒤입니까?","a":"들어온 뒤 — 톰이 자루를 들고 들어오는 바람에 말이 끊겼습니다","tip":"and 로만 이어져 있지만 앞이 원인, 뒤가 결과입니다."}
+ ],
+ "34.27.0": [
+  {"t":"time","q":"<b>I thought I had fixed up a little surprise</b> — 존스 씨는 지금도 그렇게 생각합니까?","a":"아니요 — 그렇게 생각했었는데 이제는 아니라는 뜻입니다","tip":"thought(과거)보다 had fixed up 이 더 앞선 일입니다. '준비했다고 생각한다'로 읽으면 뒤의 but 과 어긋납니다."},
+  {"t":"pron","q":"<b>it don’t amount to anything now</b> 의 <b>it</b> 은 무엇입니까?","a":"존스 씨가 준비해 둔 그 깜짝 발표(a little surprise)","tip":"바로 앞에 나온 톰의 금화로 잡기 쉽습니다. 김이 새 버린 쪽은 존스 씨의 발표입니다."},
+  {"t":"neg","q":"<b>it don’t amount to anything now</b> — 그 깜짝 발표는 이제 대단한 것입니까?","a":"아니요 — 이제 아무것도 아닌 게 돼 버렸습니다","tip":"don’t 는 doesn’t 를 뜻하는 옛 입말입니다. amount to anything 이 '대단한 것이 되다'라서 don’t 를 놓치면 정반대가 됩니다."}
+ ],
+ "34.28.2": [
+  {"t":"pron","q":"이 문장 첫머리의 <b>It</b> 은 무엇을 가리킵니까?","a":"방금 센 그 돈 — 1만 2천 달러가 조금 넘는 금액입니다","tip":"앞 문장의 The sum 을 받습니다. 막연한 it 으로 흘려 읽으면 비교 대상이 사라집니다."},
+  {"t":"mod","q":"<b>any one present</b> 의 <b>present</b> 는 무슨 뜻이며 무엇을 꾸밉니까?","a":"'그 자리에 있던'이라는 뜻이고, 앞의 any one 을 뒤에서 꾸밉니다 — '그 자리에 있던 사람 누구도'","tip":"present 를 '선물'이나 '현재'로 읽으면 문장이 무너집니다. 형용사가 명사 뒤에서 꾸미는 자리입니다."},
+  {"t":"mod","q":"<b>who were worth considerably more than that in property</b> 는 누구를 꾸밉니까?","a":"그 자리에 있던 몇 사람(several persons) — 재산으로 따지면 그 돈보다 훨씬 값어치가 나가는 사람들","tip":"여기서 that 은 그 돈(1만 2천 달러)입니다. 돈뭉치를 한꺼번에 눈으로 본 적이 없다는 것과 재산이 많다는 것은 다른 얘기입니다."}
+ ]
+}

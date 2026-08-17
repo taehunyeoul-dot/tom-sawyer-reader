@@ -1,0 +1,124 @@
+{
+ "13.0.2": [
+  {"t":"pron","q":"이 문장에 되풀이되는 <b>they</b>·<b>them</b> 은 누구입니까?","a":"톰이 원망하는 집 쪽 사람들(폴리 이모를 비롯한 어른들) — 톰과 조 같은 아이들이 아닙니다","tip":"이 문장은 톰이 속으로 한 신세 한탄을 그대로 옮긴 것입니다. he 는 톰, they 는 자기를 몰아냈다고 톰이 여기는 쪽입니다."},
+  {"t":"who","q":"<b>what they had driven him to</b> — 몰아붙인 쪽과 몰린 쪽은 각각 누구입니까?","a":"몰아붙인 쪽은 그들(집 사람들), 몰린 쪽은 톰(him)","tip":"drive A to B 는 'A를 B까지 몰고 가다'입니다. to 뒤에 올 말이 앞으로 빠져 what 이 된 형태라 to 가 홀로 남았습니다."},
+  {"t":"neg","q":"<b>since nothing would do them but to be rid of him</b> — 그들이 원하는 것은 무엇이라는 뜻입니까?","a":"톰을 떼어 버리는 것 하나뿐 — 그것 말고는 아무것도 그들 성에 차지 않는다는 뜻입니다","tip":"nothing ... but ~ 은 '~ 말고는 아무것도 아니다', 즉 '오직 ~뿐'입니다. nothing 만 보고 '그들은 아무것도 하지 않을 것이다'로 읽으면 어긋납니다."},
+  {"t":"neg","q":"<b>why shouldn’t they?</b> — 톰은 그들이 자기를 탓하는 것을 막고 싶어 합니까?","a":"아니요 — '탓하면 안 될 게 뭐냐'며 얼마든지 탓하라는 뜻입니다","tip":"부정 의문문 모양의 되묻기입니다. 글자대로 '왜 그러면 안 되지?'로만 읽으면 뜻이 반대로 잡힙니다."}
+ ],
+ "13.1.1": [
+  {"t":"neg","q":"<b>he should never, never hear that old familiar sound any more</b> — 그는 앞으로 그 소리를 듣게 됩니까?","a":"아니요 — 두 번 다시 못 듣는다고 여기고 있습니다","tip":"never 와 any more 가 겹친 강한 부정입니다. should 를 '~해야 한다'로 읽으면 문장이 어긋납니다."},
+  {"t":"pron","q":"<b>it was very hard, but it was forced on him</b> 의 it 은 무엇입니까?","a":"톰이 떠맡게 된 그 처지(집을 떠나 그 소리를 다시는 못 듣게 된 일)","tip":"바로 앞의 sound 로 잡으면 '그 소리가 힘들었다'가 되어 버립니다."},
+  {"t":"time","q":"<b>since he was driven out into the cold world</b> 의 since 는 '~한 뒤로'입니까, '~이니까'입니까?","a":"'~이니까(쫓겨난 이상)' — 이유입니다","tip":"시간으로 읽으면 '쫓겨난 뒤로 계속 순종해야 했다'가 되어 초점이 달라집니다. 뒤에 must submit 이라는 결론이 오는 것이 단서입니다."},
+  {"t":"who","q":"<b>but he forgave them</b> — 용서한 쪽과 용서받은 쪽은 각각 누구입니까?","a":"용서한 쪽은 톰(he), 용서받은 쪽은 자기를 내몰았다는 집 사람들(them)","tip":"톰이 용서를 비는 것이 아닙니다. 자기가 너그럽게 봐준다는, 톰다운 자기 연민입니다."}
+ ],
+ "13.2.2": [
+  {"t":"mod","q":"<b>hard usage and lack of sympathy at home</b> 은 무엇에 걸립니까?","a":"escape from — 모진 대접'에서', 그리고 집에서의 몰이해'에서' 벗어나겠다는 뜻입니다","tip":"and 를 앞의 resolution 과 이어 붙이면 '결심과 몰이해'가 되어 문장이 무너집니다. usage 는 '사용법'이 아니라 '대우'입니다."},
+  {"t":"mod","q":"<b>by roaming abroad into the great world</b> 는 무엇을 설명합니까?","a":"벗어나는 방법 — 넓은 세상으로 떠돌러 나감으로써 벗어나겠다는 뜻입니다","tip":"escape ... by ~ing 가 짝입니다. 바로 앞의 at home 에 붙이면 '집에서 떠돈다'가 됩니다."},
+  {"t":"neg","q":"<b>never to return</b> — 톰은 돌아올 생각이 있습니까?","a":"아니요 — 다시는 돌아오지 않겠다는 뜻입니다","tip":"never to ~ 는 '결코 ~하지 않을'입니다. to 만 보고 '돌아오기 위해'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"<b>ended by hoping that Joe would not forget him</b> — 잊지 말아 달라고 한 사람은 누구입니까?","a":"톰 — 톰이 조에게 '나를 잊지 말아 달라'고 한 것입니다(him = 톰)","tip":"began ... and ended 의 주어는 둘 다 앞의 Tom 입니다. 조가 부탁한 것으로 읽기 쉽습니다."}
+ ],
+ "13.3.1": [
+  {"t":"who","q":"<b>His mother had whipped him</b> — 여기서 매를 맞은 him 은 누구입니까?","a":"조 하퍼 — 앞 문장에서 시작된 조의 신세 한탄이 이어지는 대목입니다(톰이 아닙니다)","tip":"앞 문단의 주인공이 톰이라 톰으로 잡기 쉽습니다. 이 문장부터는 조가 속으로 한 말입니다."},
+  {"t":"neg","q":"<b>which he had never tasted and knew nothing about</b> — 조는 그 크림을 마셨습니까?","a":"아니요 — 맛본 적도 없고 있는 줄도 몰랐던 크림입니다(억울하게 맞았다는 주장)","tip":"never 가 뒤의 knew nothing about 까지 이어집니다. 이 부분을 놓치면 '크림을 마셔서 맞았다'는 평범한 이야기가 됩니다."},
+  {"t":"neg","q":"<b>there was nothing for him to do but succumb</b> — 조가 할 수 있는 일은 무엇입니까?","a":"순순히 받아들이는 것 하나뿐입니다","tip":"nothing ... but ~ 은 '~ 말고는 없다', 즉 '오직 ~뿐'입니다. succumb 은 '굴복하다, 순순히 따르다'입니다."},
+  {"t":"who","q":"<b>having driven her poor boy out into the unfeeling world</b> — 불쌍한 아들을 내몬 사람은 누구입니까?","a":"어머니(she) — 조가 스스로 나가는 것이 아니라 어머니가 내몬 것이라는 주장입니다","tip":"regret 의 주어가 she 이므로 driven 의 주체도 어머니입니다. never regret 이 붙어 '후회하지 마시라'는 비꼬는 말이 됩니다."}
+ ],
+ "13.4.0": [
+  {"t":"who","q":"<b>the two boys</b> 는 누구누구입니까?","a":"톰과 조 하퍼 — 허크는 아직 합류하기 전입니다","tip":"이 장 뒷부분에 허크가 나오므로 셋으로 잡기 쉽습니다. 이 시점에는 둘뿐입니다."},
+  {"t":"mod","q":"<b>to stand by each other and be brothers and never separate</b> 는 무엇을 설명합니까?","a":"그들이 맺은 새 약속(a new compact)의 내용입니다","tip":"made 의 목적('~하려고 약속했다')으로 읽기 쉽지만, 약속의 알맹이를 풀어 준 부분입니다. stand by 는 '곁을 지키다'입니다."},
+  {"t":"time","q":"<b>never separate till death relieved them of their troubles</b> — 헤어지지 않겠다는 것은 언제까지입니까?","a":"죽음이 그들의 고생을 덜어 줄 때까지, 즉 죽을 때까지입니다","tip":"relieve A of B 는 'A에게서 B를 덜어 주다'입니다. 주어가 death 라는 점을 놓치면 시점이 흐려집니다."}
+ ],
+ "13.4.2": [
+  {"t":"mod","q":"<b>and living on crusts ... and dying, some time, of cold and want and grief</b> 는 무엇에 걸립니까?","a":"앞의 was for — 조가 '~하자는 쪽'이라고 한 내용들입니다(은둔자가 되자, 빵 부스러기로 연명하자, 언젠가 그렇게 죽자)","tip":"be for ~ing 는 '~하자는 쪽이다'입니다. living, dying 을 진행형 동사로 읽으면 '조가 죽어 가고 있었다'가 되어 버립니다."},
+  {"t":"who","q":"<b>after listening to Tom, he conceded</b> — 말한 쪽과 듣고 나서 인정한 쪽은 각각 누구입니까?","a":"말한 쪽은 톰, 인정한 쪽은 조(he)입니다","tip":"he 를 톰으로 잡으면 설득한 사람과 설득당한 사람이 뒤바뀝니다."},
+  {"t":"time","q":"조가 결국 되기로 한 것은 은둔자입니까, 해적입니까?","a":"해적 — 처음에는 은둔자 쪽이었지만 톰의 말을 듣고 마음을 바꿨습니다","tip":"but 앞뒤로 마음이 바뀝니다. 앞부분만 읽고 은둔자로 잡기 쉽습니다."}
+ ],
+ "13.5.0": [
+  {"t":"mod","q":"<b>Three miles below St. Petersburg</b> 는 마을에서 어느 쪽으로 3마일입니까?","a":"강 아래쪽(하류)으로 3마일","tip":"강을 두고 말할 때 below 는 '하류 쪽'입니다. 높이가 아니라 물길의 방향입니다."},
+  {"t":"mod","q":"<b>a trifle over a mile wide</b> 는 무엇의 폭입니까?","a":"미시시피 강의 폭 — 1마일을 조금 넘었습니다","tip":"섬의 폭으로 잡기 쉽습니다. a trifle 은 여기서 '조금'이라는 뜻입니다."},
+  {"t":"pron","q":"<b>with a shallow bar at the head of it</b> — bar 는 무엇이고, it 은 무엇입니까?","a":"bar 는 얕은 모래톱, it 은 그 섬 — 섬의 위쪽 끝에 모래톱이 있었다는 뜻입니다","tip":"bar 를 '술집'이나 '막대기'로, it 을 강으로 잡기 쉽습니다."}
+ ],
+ "13.14.6": [
+  {"t":"pron","q":"<b>They made an imposing adventure of it</b> 의 it 은 무엇입니까?","a":"남의 뗏목에서 불씨 한 덩이를 슬쩍해 온 일","tip":"별것 아닌 그 일을 거창한 모험처럼 꾸몄다는 뜻입니다. it 을 불 자체로 잡으면 문장의 농담이 사라집니다."},
+  {"t":"mod","q":"<b>with hands on imaginary dagger-hilts</b> 는 무엇을 설명합니까?","a":"그들이 움직이던 모습 — 있지도 않은 단검 자루에 손을 얹은 시늉을 하며 걸었다는 뜻입니다","tip":"imaginary 는 '상상 속의'입니다. 실제로 단검을 쥐고 있었던 것이 아닙니다."},
+  {"t":"pron","q":"<b>let him have it to the hilt</b> 의 him 과 it 은 각각 무엇입니까?","a":"him 은 '적'(the foe), it 은 칼 — '칼자루까지 푹 찔러 넣어라'라는 뜻입니다","tip":"let him have it 은 '한 방 먹여라'라는 관용구입니다. '그가 그것을 갖게 해 주라'로 읽으면 장면이 사라집니다."},
+  {"t":"neg","q":"<b>dead men tell no tales</b> — 죽은 사람이 이야기를 한다는 뜻입니까?","a":"아니요 — 죽은 자는 말이 없다(비밀이 새지 않는다)는 뜻입니다","tip":"no tales 를 놓치면 정반대가 됩니다. 그래서 확실히 찔러 두라는 무시무시한 농담입니다."}
+ ],
+ "13.14.7": [
+  {"t":"neg","q":"<b>that was no excuse for their conducting this thing in an unpiratical way</b> — 해적답지 않게 처리해도 된다는 핑계가 됩니까?","a":"아니요 — 핑곗거리가 되지 못했습니다","tip":"no excuse 를 놓치면 '그러니 대충 해도 된다'로 정반대가 됩니다."},
+  {"t":"pron","q":"<b>their conducting this thing</b> 의 their 는 누구입니까?","a":"소년들 자신(톰·조·허크) — 뗏목 사공들이 아닙니다","tip":"바로 앞에 raftsmen 이 나와서 사공들로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>laying in stores or having a spree</b> 는 누구의 모습입니까?","a":"마을에 내려가 있던 뗏목 사공들 — 물건을 사 쟁이거나 흥청망청 놀고 있었습니다","tip":"lay in stores 는 '물건을 사서 쟁여 두다'입니다. '가게에 누워 있다'가 아닙니다."}
+ ],
+ "13.31.5": [
+  {"t":"who","q":"<b>The Black Avenger</b> 는 누구입니까?","a":"톰 — 톰이 스스로 붙인 해적 이름('스페인 본토의 검은 복수자')입니다","tip":"새 인물이 등장한 것이 아닙니다. 이 장에서 세 아이는 서로를 해적 이름으로 부릅니다."},
+  {"t":"pron","q":"<b>wishing “she” could see him now</b> 의 she 는 누구입니까?","a":"베키 대처 — 앞 장에서 톰을 본체만체한 그 여자아이입니다","tip":"폴리 이모로 잡기 쉽습니다. 이름을 밝히지 않고 따옴표만 붙여 놓은 것이 단서입니다."},
+  {"t":"time","q":"<b>his former joys and his later sufferings</b> — 어느 쪽이 먼저 있었던 일입니까?","a":"기쁨(former)이 먼저이고, 괴로움(later)이 그 뒤입니다","tip":"later 를 '늦게'로 흘려 읽으면 두 일의 순서가 뒤섞입니다."},
+  {"t":"mod","q":"<b>abroad on the wild sea, facing peril and death ..., going to his doom ...</b> 는 누구를 설명합니까?","a":"톰 자신(him) — 그 애가 봐 주었으면 하고 톰이 머릿속에 그리는 자기 모습입니다","tip":"실제로는 미시시피 강 위 뗏목에 서 있을 뿐입니다. she 를 꾸미는 말로 붙이면 장면이 뒤집힙니다."}
+ ],
+ "13.31.7": [
+  {"t":"who","q":"<b>The other pirates</b> 는 누구입니까?","a":"조와 허크 — 앞 문장의 검은 복수자(톰)를 뺀 나머지 두 명입니다","tip":"해적이 따로 더 있는 것이 아닙니다. 배에 탄 사람은 세 소년뿐입니다."},
+  {"t":"neg","q":"<b>they came near letting the current drift them out of the range of the island</b> — 실제로 섬 밖으로 떠내려갔습니까?","a":"아니요 — 하마터면 그럴 뻔했을 뿐입니다","tip":"come near ~ing 는 '하마터면 ~할 뻔하다'입니다. 실제로 일어난 일로 읽으면 뒤 문장(위험을 제때 알아챘다)과 어긋납니다."},
+  {"t":"who","q":"<b>drift them out of the range of the island</b> — 떠내려 보내는 쪽과 떠내려가는 쪽은 각각 무엇입니까?","a":"떠내려 보내는 쪽은 물살(the current), 떠내려가는 쪽은 소년들(them)입니다","tip":"let + 목적어 + 동사원형 구조입니다. drift 를 명사로 잡으면 문장이 풀리지 않습니다."}
+ ],
+ "13.31.10": [
+  {"t":"who","q":"<b>and this they spread over a nook in the bushes</b> — 펼친 쪽과 펼쳐진 것은 각각 무엇입니까?","a":"펼친 쪽은 소년들(they), 펼쳐진 것은 낡은 돛(this)입니다","tip":"목적어 this 가 문장 맨 앞으로 나온 어순입니다. '이것이 그들을 펼쳤다'로 읽으면 무너집니다."},
+  {"t":"mod","q":"<b>for a tent to shelter their provisions</b> — 그 천막이 덮어 주려는 것은 무엇입니까?","a":"그들의 식량 — 사람이 아니라 먹을 것을 덮어 두려고 친 천막입니다","tip":"바로 뒤에 자기들은 한데서 잔다는 말이 나오는 것이 단서입니다."},
+  {"t":"neg","q":"<b>they themselves would sleep in the open air in good weather</b> — 소년들은 천막 안에서 잘 작정이었습니까?","a":"아니요 — 날씨가 좋으면 바깥(한데)에서 잘 작정이었습니다","tip":"in the open air 는 '노천에서'입니다. themselves 는 식량과 대비시키는 강조입니다."},
+  {"t":"mod","q":"<b>as became outlaws</b> 는 무슨 뜻입니까?","a":"무법자에게 어울리게끔 — 한데서 자는 것이 무법자다운 일이라는 뜻입니다","tip":"become 의 옛 용법으로 '어울리다'입니다. '무법자가 되었다'로 읽으면 앞뒤가 맞지 않습니다."}
+ ],
+ "13.32.0": [
+  {"t":"mod","q":"<b>twenty or thirty steps within the sombre depths of the forest</b> 는 무엇을 설명합니까?","a":"불을 피운 자리 — 음침한 숲속으로 스무 걸음 서른 걸음쯤 들어간 곳입니다","tip":"바로 앞의 통나무 크기로 읽기 쉽습니다. within 은 '~ 안쪽으로'입니다."},
+  {"t":"time","q":"<b>the corn “pone” stock they had brought</b> — 옥수수빵을 가져온 것은 언제입니까?","a":"이 저녁 자리보다 먼저 — 섬에 올 때 이미 챙겨 온 것입니다","tip":"had brought(대과거)가 단서입니다. 그 자리에서 가져왔다고 읽으면 시간이 어긋납니다."},
+  {"t":"mod","q":"<b>used up half of the corn “pone” stock</b> — 옥수수빵을 얼마나 먹었습니까?","a":"가져온 비축분의 절반 — 전부가 아닙니다","tip":"used up 만 보고 '다 써 버렸다'로 읽으면 half 를 놓칩니다."}
+ ],
+ "13.32.1": [
+  {"t":"pron","q":"<b>It seemed glorious sport</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to be feasting ... 이하입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾다가 길을 잃습니다. sport 는 운동경기가 아니라 '신나는 놀이'입니다."},
+  {"t":"neg","q":"<b>an unexplored and uninhabited island</b> — 그 섬에는 사람이 살고 있었습니까?","a":"아니요 — 탐험된 적도 없고 사람도 살지 않는 섬입니다","tip":"un- 이 두 낱말 모두에 붙어 있습니다. 하나만 보고 넘기면 '사람이 사는 섬'이 됩니다."},
+  {"t":"mod","q":"<b>far from the haunts of men</b> 은 무엇을 설명합니까?","a":"그들이 잔치를 벌인 그곳(그 섬의 원시림) — 사람들이 드나드는 데서 멀리 떨어져 있다는 뜻입니다","tip":"haunt 는 여기서 '유령'이 아니라 '사람들이 자주 드나드는 곳'입니다."}
+ ],
+ "13.33.0": [
+  {"t":"who","q":"<b>the last allowance of corn pone devoured</b> — 먹어 치운 쪽과 먹힌 쪽은 각각 무엇입니까?","a":"먹어 치운 쪽은 소년들, 먹힌 쪽은 마지막 몫의 옥수수빵입니다(was 가 생략된 수동태)","tip":"devoured 를 능동으로 읽으면 '옥수수빵이 무언가를 삼켰다'가 됩니다. 앞의 was gone 과 나란한 자리입니다."},
+  {"t":"mod","q":"<b>filled with contentment</b> 는 무엇을 설명합니까?","a":"소년들 — 만족감에 가득 찬 채로 드러누웠다는 뜻입니다","tip":"바로 앞의 grass(풀밭)를 꾸미는 말로 붙이기 쉽습니다."},
+  {"t":"time","q":"소년들이 풀밭에 드러누운 것은 저녁을 다 먹기 전입니까, 다 먹은 뒤입니까?","a":"다 먹은 뒤입니다","tip":"When 절이 끝난 다음에 주절이 옵니다. 베이컨도 옥수수빵도 다 없어진 다음의 일입니다."}
+ ],
+ "13.38.2": [
+  {"t":"who","q":"이 말을 하는 사람과 듣는 사람은 각각 누구입니까?","a":"말하는 사람은 톰, 듣는 사람은 조입니다(Joe 는 부르는 말)","tip":"문장 한가운데 있는 Joe 를 주어로 잡기 쉽습니다. 해적의 삶을 편들고 있는 쪽이 톰입니다."},
+  {"t":"pron","q":"<b>when he’s ashore</b> 의 he 와 <b>he has to be praying</b> 의 he 는 각각 누구입니까?","a":"앞의 he 는 해적(a pirate), 뒤의 he 는 은둔자(a hermit)입니다 — 특정 인물이 아니라 그 부류를 가리킵니다","tip":"둘 다 톰이나 조로 잡으면 문장이 뒤죽박죽이 됩니다. but 앞뒤로 이야깃거리가 바뀝니다."},
+  {"t":"neg","q":"<b>a pirate don’t have to do anything</b> — 해적은 아무것도 하면 안 된다는 뜻입니까?","a":"아니요 — 아무것도 안 해도 된다(할 필요가 없다)는 뜻입니다","tip":"don’t have to 는 '할 필요 없다'로, must not(하면 안 된다)과 다릅니다. don’t 는 doesn’t 자리에 쓰인 입말입니다."},
+  {"t":"mod","q":"<b>all by himself that way</b> 는 무엇을 설명합니까?","a":"은둔자에게 아무 재미가 없는 까닭 — 그렇게 늘 혼자 지내기 때문입니다","tip":"all by himself 는 '아주 혼자서'입니다. fun 을 꾸미는 말이 아닙니다."}
+ ],
+ "13.40.1": [
+  {"t":"mod","q":"<b>and put sackcloth and ashes on his head</b>, <b>and stand out in the rain</b> 은 무엇에 이어집니까?","a":"앞의 got to — 은둔자가 '해야 하는' 일의 나열입니다(딱딱한 데서 자야 하고, 뒤집어써야 하고, 빗속에 서 있어야 하고)","tip":"a hermit’s 의 ’s 는 is 가 아니라 has 입니다(has got to = ~해야 한다). is 로 읽으면 뒤의 나열이 붙을 곳을 잃습니다."},
+  {"t":"mod","q":"<b>he can find</b> 는 무엇을 설명합니까?","a":"바로 앞의 the hardest place — 자기가 찾아낼 수 있는 가장 딱딱한 자리","tip":"관계사(that)가 생략된 형태입니다. 새 문장이 시작된 것으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>his head</b> 의 his 는 누구입니까?","a":"은둔자(a hermit) — 특정 인물이 아니라 '은둔자라면 누구나'라는 뜻입니다","tip":"말하는 사람은 톰이지만 톰의 머리가 아닙니다."}
+ ],
+ "13.49.1": [
+  {"t":"who","q":"<b>He had finished gouging out a cob</b> — 옥수수 속대를 파내고 담배를 피운 사람은 누구입니까?","a":"허크(피 묻은 손 핀) — 셋 중 담배를 피울 줄 아는 유일한 아이입니다","tip":"바로 앞이 톰과 헉의 말다툼이라 톰으로 잡기 쉽습니다. 앞 문장의 The Red-Handed 를 받는 He 입니다."},
+  {"t":"time","q":"속대를 파내는 일과 거기에 줄기를 끼우는 일 중 먼저 있었던 일은 무엇입니까?","a":"속대를 파내는 일 — had finished(이미 끝냈다)로 앞선 일임을 표시했습니다","tip":"and now 가 그다음 단계임을 알려 줍니다."},
+  {"t":"pron","q":"<b>he fitted a weed stem to it</b> 와 <b>loaded it with tobacco</b> 의 it 은 무엇입니까?","a":"둘 다 파낸 옥수수 속대(담뱃대가 될 그것)입니다","tip":"바로 앞의 weed stem 으로 잡기 쉽습니다. 속대가 담배통, 줄기가 물부리입니다."},
+  {"t":"mod","q":"<b>pressing a coal to the charge</b> 의 charge 는 무엇입니까?","a":"방금 채워 넣은 담배 — 거기에 불씨를 눌러 붙였다는 뜻입니다","tip":"charge 를 '요금'이나 '돌격'으로 잡기 쉽습니다. 앞의 loaded it with tobacco 를 받는 말입니다."}
+ ],
+ "13.52.0": [
+  {"t":"pron","q":"<b>they have just a bully time</b> 의 they 와 <b>their island</b> 의 their 는 누구입니까?","a":"해적들 — '해적은 뭘 하느냐'는 헉의 물음에 톰이 답하는 대목입니다(톰 일행이 지금 있는 섬 이야기가 아닙니다)","tip":"their island 를 잭슨 섬으로 잡으면 장면이 완전히 달라집니다."},
+  {"t":"mod","q":"<b>a bully time</b> 은 어떤 시간을 말합니까?","a":"아주 신나고 근사한 시간입니다","tip":"bully 가 여기서는 '괴롭히다'가 아니라 옛 구어로 '멋진'이라는 뜻입니다. '괴롭힘당하는 시간'으로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>burn them</b> 의 them, <b>bury it</b> 과 <b>to watch it</b> 의 it 은 각각 무엇입니까?","a":"them 은 빼앗은 배들, it 은 둘 다 챙긴 돈입니다(유령 따위가 그 돈을 지킨다는 뜻)","tip":"대명사가 잇달아 나와 뒤섞기 쉽습니다. 섬이나 배로 잡으면 장면이 어긋납니다."},
+  {"t":"who","q":"<b>make ’em walk a plank</b> — 널빤지 위를 걷는 사람은 누구입니까?","a":"배에 타고 있던 사람들(’em = them) — 해적이 걷는 것이 아닙니다","tip":"make + 목적어 + 동사원형에서 그 동작을 하는 쪽은 목적어입니다. 바다에 빠뜨려 죽이는 방법을 말합니다."}
+ ],
+ "13.61.3": [
+  {"t":"who","q":"<b>They said their prayers</b> — 기도를 한 사람은 세 명 모두입니까?","a":"아니요 — 톰과 조 둘뿐입니다(허크는 이미 잠들어 있었습니다)","tip":"앞 문장에서 파이프를 떨어뜨리고 잠든 쪽이 허크입니다. They 를 셋 다로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>they had a mind not to say them at all</b> 의 them 은 무엇입니까?","a":"기도(their prayers) — 사람이 아닙니다","tip":"바로 앞 절에 them(아이들)이 나와서 헷갈리기 쉽습니다."},
+  {"t":"neg","q":"<b>they had a mind not to say them at all</b> — 두 아이는 기도를 하고 싶어 했습니까?","a":"아니요 — 사실은 아예 하지 않을 마음이었습니다","tip":"have a mind to ~ 는 '~할 마음이 있다'입니다. 여기 붙은 not 을 놓치면 정반대가 됩니다."},
+  {"t":"neg","q":"<b>they were afraid to proceed to such lengths as that</b> — 결국 기도를 걸렀습니까?","a":"아니요 — 그렇게까지 할 엄두가 나지 않아 결국 기도를 했습니다","tip":"be afraid to ~ 는 '무서워서 ~하지 못하다'입니다. lest 이하(벼락이 떨어질까 봐)가 그 이유입니다."}
+ ],
+ "13.61.6": [
+  {"t":"mod","q":"<b>that they had been doing wrong to run away</b> 는 무엇을 설명합니까?","a":"앞의 a vague fear 의 내용 — 도망쳐 나온 것이 잘못이었다는 그 두려움입니다","tip":"that 을 관계대명사로 잡으면 문장이 풀리지 않습니다. fear 의 알맹이를 풀어 준 동격절입니다."},
+  {"t":"who","q":"<b>the stolen meat</b> — 고기를 훔친 사람은 누구입니까?","a":"소년들 자신 — 자기들이 집에서 훔쳐 온 고기입니다","tip":"누군가 그들의 고기를 훔쳐 갔다는 뜻이 아닙니다. 그래서 양심이 찔린 것입니다."},
+  {"t":"time","q":"<b>and next ... and then ...</b> — 세 가지 일의 순서는 어떻게 됩니까?","a":"① 도망친 것이 잘못이라는 막연한 두려움 → ② 훔친 고기 생각 → ③ 진짜 고통","tip":"next, then 이 순서를 알려 줍니다. 한꺼번에 일어난 일로 뭉뚱그리면 이 문장의 짜임이 사라집니다."}
+ ],
+ "13.61.7": [
+  {"t":"who","q":"<b>by reminding conscience that they had purloined sweetmeats and apples</b> — 누가 누구에게 상기시킵니까?","a":"소년들이 자기 양심에게 — '우리도 전에 수십 번 슬쩍했잖아'라며 달래려 한 것입니다","tip":"conscience 가 주어처럼 읽히기 쉽습니다. 여기서는 remind 의 목적어, 곧 말을 듣는 쪽입니다."},
+  {"t":"neg","q":"<b>conscience was not to be appeased by such thin plausibilities</b> — 양심이 달래졌습니까?","a":"아니요 — 그런 얄팍한 변명으로는 달래지지 않았습니다","tip":"was not to be p.p. 는 '~될 수 없었다'입니다. not 을 놓치면 이야기가 여기서 끝나 버립니다."},
+  {"t":"neg","q":"<b>there was no getting around the stubborn fact</b> — 그 완고한 사실을 피해 갈 수 있었습니까?","a":"아니요 — 피해 갈 도리가 없었습니다","tip":"there is no ~ing 는 '~할 수 없다'입니다. get around 는 '요리조리 빠져나가다'입니다."},
+  {"t":"mod","q":"<b>that taking sweetmeats was only “hooking,” while taking bacon and hams ... was plain simple stealing</b> 는 무엇을 설명합니까?","a":"앞의 the stubborn fact 의 내용 — 피해 갈 수 없다던 그 완고한 사실입니다","tip":"단것을 집어 오는 건 '슬쩍하기'지만 베이컨·햄은 진짜 도둑질이라는 대조입니다. while 은 '~하는 동안'이 아니라 '반면에'입니다."}
+ ]
+}

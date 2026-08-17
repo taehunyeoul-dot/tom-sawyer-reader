@@ -1,0 +1,171 @@
+[
+ {
+  "id": "19.0.0",
+  "en": "Tom arrived at home in a dreary mood, and the first thing his aunt said to him showed him that he had brought his sorrows to an unpromising market:",
+  "s": "Tom",
+  "v": "arrived",
+  "chunks": [
+   {"en": "Tom arrived at home in a dreary mood,", "ko": "톰은 우울한 기분으로 집에 도착했다", "r": "주어 + 동사 + 장소 + 상태"},
+   {"en": "and the first thing his aunt said to him", "ko": "그리고 이모가 그에게 한 첫마디는", "r": "대등절 주어(관계절 포함)"},
+   {"en": "showed him that he had brought his sorrows", "ko": "그가 자기 슬픔을 들고 왔다는 것을 알려 주었다", "r": "동사 + 목적어 + 목적어(that절)"},
+   {"en": "to an unpromising market:", "ko": "잘 팔릴 것 같지 않은 시장에", "r": "전치사구(도착지)"}
+  ],
+  "ko": "톰은 우울한 기분으로 집에 돌아왔는데, 이모가 그에게 건넨 첫마디부터 그가 슬픔을 팔아 봐야 살 사람이 없는 시장에 들고 왔다는 것을 알려 주었다.",
+  "why": "뒤 절의 주어가 \"the first thing his aunt said to him\"(이모가 그에게 한 첫마디)으로 길고 그 안에 관계대명사가 빠진 절(his aunt said to him)이 들어 있어, 진짜 동사 showed를 놓치기 쉽다. \"brought his sorrows to an unpromising market\"는 '슬픔을 사 줄 사람이 없는 시장에 내놓았다', 곧 동정을 받기는 글렀다는 비유. 끝의 콜론은 뒤에 이모의 말이 이어진다는 신호.",
+  "st": [5, 18]
+ },
+ {
+  "id": "19.3.1",
+  "en": "Here I go over to Sereny Harper, like an old softy, expecting I’m going to make her believe all that rubbage about that dream, when lo and behold you she’d found out from Joe that you was over here and heard all the talk we had that night.",
+  "s": "I",
+  "v": "go",
+  "chunks": [
+   {"en": "Here I go over to Sereny Harper,", "ko": "내가 이렇게 세레니 하퍼네로 건너가서는", "r": "부사 + 주어 + 동사"},
+   {"en": "like an old softy,", "ko": "물러터진 늙은이처럼", "r": "비유(~처럼)"},
+   {"en": "expecting I’m going to make her believe", "ko": "그 사람에게 믿게 만들 수 있겠거니 하면서", "r": "분사구문(~하면서)"},
+   {"en": "all that rubbage about that dream,", "ko": "그 꿈에 대한 그 헛소리를 죄다", "r": "목적어"},
+   {"en": "when lo and behold you", "ko": "그런데 이게 웬걸", "r": "접속(그런데) + 감탄 삽입"},
+   {"en": "she’d found out from Joe", "ko": "그 사람은 조한테서 이미 알아냈더구나", "r": "주어 + 동사"},
+   {"en": "that you was over here", "ko": "네가 여기 와 있었다는 것을", "r": "목적어(that절)"},
+   {"en": "and heard all the talk we had that night.", "ko": "그리고 그날 밤 우리가 나눈 얘기를 다 들었다는 것을", "r": "대등 동사 + 목적어(관계절)"}
+  ],
+  "ko": "내가 물러터진 늙은이처럼 세레니 하퍼네 집으로 건너가서는, 그 꿈 얘기라는 헛소리를 죄다 믿게 만들 수 있겠거니 했지 뭐냐. 그런데 이게 웬걸, 그 사람은 조한테서 벌써 알아냈더구나. 네가 그날 밤 여기 와서 우리가 나눈 얘기를 죄다 들었다는 걸 말이다.",
+  "why": "\"Here I go …\"는 '(어이없게도) 내가 이렇게 갔지 뭐냐'라는 구어체 도입이고, 뒤의 expecting …은 '~하리라 기대하면서'라는 분사구문(동사가 아님). \"lo and behold you\"는 '아니 글쎄'라는 감탄 삽입어라 문법으로 따지지 말고 넘길 것. rubbage=rubbish, \"you was\"=you were 는 사투리 철자다.",
+  "st": [2, 6]
+ },
+ {
+  "id": "19.3.3",
+  "en": "It makes me feel so bad to think you could let me go to Sereny Harper and make such a fool of myself and never say a word.”",
+  "s": "It",
+  "v": "makes",
+  "chunks": [
+   {"en": "It makes me feel so bad", "ko": "그것은 나를 아주 속상하게 만든다", "r": "가주어 + 동사 + 목적어 + 목적보어"},
+   {"en": "to think you could let me go to Sereny Harper", "ko": "네가 나를 세레니 하퍼네까지 가게 놔두었다니 생각하면", "r": "진주어(to부정사) + 목적어절"},
+   {"en": "and make such a fool of myself", "ko": "그리고 그렇게 바보 꼴이 되게 하고", "r": "대등(let me ~ 에 이어짐)"},
+   {"en": "and never say a word.”", "ko": "그러고도 한마디도 하지 않다니", "r": "대등(you never say)"}
+  ],
+  "ko": "네가 나를 세레니 하퍼네 집까지 가게 놔두고, 그렇게 바보 꼴을 만들어 놓고도 한마디 하지 않았다니, 생각만 해도 너무 속상하구나.",
+  "why": "맨 앞 It은 가짜 주어이고 진짜 내용은 뒤의 to think …(~라고 생각하는 것)이다. 'It makes me feel bad to ~' = '~하니 속상하다'로 통째로 외워 두면 편하다. \"make a fool of myself\"는 '내가 바보 꼴이 되다'라는 숙어. and 로 이어진 세 부분이 모두 '네가 한 짓'이라는 것만 잡으면 된다.",
+  "st": [17]
+ },
+ {
+  "id": "19.6.2",
+  "en": "You could think to come all the way over here from Jackson’s Island in the night to laugh at our troubles, and you could think to fool me with a lie about a dream; but you couldn’t ever think to pity us and save us from sorrow.”",
+  "s": "You",
+  "v": "could think",
+  "chunks": [
+   {"en": "You could think to come all the way over here", "ko": "너는 여기까지 건너올 생각은 났고", "r": "주어 + 동사 + 목적어(to부정사)"},
+   {"en": "from Jackson’s Island in the night", "ko": "한밤중에 잭슨 섬에서", "r": "전치사구(출발지 + 때)"},
+   {"en": "to laugh at our troubles,", "ko": "우리 걱정거리를 비웃으려고", "r": "목적(to부정사)"},
+   {"en": "and you could think to fool me with a lie about a dream;", "ko": "꿈 얘기라는 거짓말로 나를 속일 생각도 났으면서", "r": "대등절"},
+   {"en": "but you couldn’t ever think to pity us", "ko": "그런데 우리를 가엾게 여길 생각은 끝내 나지 않았구나", "r": "대등절(반전)"},
+   {"en": "and save us from sorrow.”", "ko": "그리고 슬픔에서 건져 줄 생각도", "r": "대등(to save)"}
+  ],
+  "ko": "우리 걱정거리를 비웃겠다고 한밤중에 잭슨 섬에서 여기까지 건너올 생각은 났고, 꿈 얘기라는 거짓말로 나를 속일 생각도 났으면서, 우리를 가엾게 여겨 슬픔에서 건져 줄 생각은 끝내 나지 않았구나.",
+  "why": "\"could think to ~\"는 여기서 '~할 생각은 났다'는 뜻이고, 세미콜론 뒤의 \"couldn’t ever think to ~\"(~할 생각은 전혀 못 했다)와 짝을 이루어 대비된다. 같은 틀이 세 번 반복되므로 to 뒤의 동사(come / fool / pity·save)만 갈아 끼우며 읽으면 된다.",
+  "st": [3]
+ },
+ {
+  "id": "19.10.0",
+  "en": "“Tom, Tom, I would be the thankfullest soul in this world if I could believe you ever had as good a thought as that, but you know you never did—and I know it, Tom.”",
+  "s": "I",
+  "v": "would be",
+  "chunks": [
+   {"en": "“Tom, Tom, I would be the thankfullest soul in this world", "ko": "톰아, 톰아, 나는 이 세상에서 가장 감사한 사람이 될 텐데", "r": "부름말 + 주어 + 동사 + 보어"},
+   {"en": "if I could believe", "ko": "내가 믿을 수만 있다면", "r": "부사절(가정)"},
+   {"en": "you ever had as good a thought as that,", "ko": "네가 그만큼 기특한 생각을 한 적이 있다고", "r": "목적어(that 생략된 절)"},
+   {"en": "but you know you never did—and I know it, Tom.”", "ko": "하지만 그런 적 없다는 걸 너도 알고—나도 안다, 톰아", "r": "대등절(반전) + 곁말(대시)"}
+  ],
+  "ko": "\"톰아, 톰아, 네가 정말로 그런 기특한 생각을 한 적이 있다고 믿을 수만 있다면 나는 이 세상에서 가장 감사한 사람이 될 게다. 하지만 넌 그런 적이 없다는 걸 너도 알고—나도 안다, 톰아.\"",
+  "why": "\"would be … if I could believe …\"는 가정법(실제로는 그렇지 않다는 아쉬움), 곧 '믿고 싶지만 못 믿겠다'는 뜻이다. \"as good a thought as that\"은 as+형용사+a+명사 어순으로 '그만큼 기특한 생각'. 맨 뒤 did는 앞의 had를 대신하는 대동사(=you never had such a thought). thankfullest는 most thankful의 구어 표현.",
+  "st": [2, 4, 12]
+ },
+ {
+  "id": "19.15.0",
+  "en": "“Why, you see, when you got to talking about the funeral, I just got all full of the idea of our coming and hiding in the church, and I couldn’t somehow bear to spoil it.",
+  "s": "I",
+  "v": "got",
+  "chunks": [
+   {"en": "“Why, you see,", "ko": "저, 있잖아요", "r": "감탄사 + 삽입(말 꺼내기)"},
+   {"en": "when you got to talking about the funeral,", "ko": "이모가 장례식 얘기를 꺼내니까", "r": "부사절(때)"},
+   {"en": "I just got all full of the idea", "ko": "저는 그냥 그 생각으로 온통 마음이 부풀어서", "r": "주어 + 동사 + 보어"},
+   {"en": "of our coming and hiding in the church,", "ko": "우리가 교회에 와서 숨어 있는다는 (생각)", "r": "전치사구(idea의 내용)"},
+   {"en": "and I couldn’t somehow bear to spoil it.", "ko": "그걸 망쳐 버리는 걸 어쩐지 견딜 수가 없었어요", "r": "대등절"}
+  ],
+  "ko": "\"저, 있잖아요, 이모가 장례식 얘기를 꺼내니까 저는 우리가 교회에 와서 숨어 있는다는 생각에 온통 마음이 부풀어서, 그걸 망쳐 버리는 게 어쩐지 견딜 수가 없었어요.\"",
+  "why": "맨 앞 \"Why, you see,\"는 뜻이 있는 말이 아니라 '저, 있잖아요' 정도로 말을 꺼내는 소리다. \"got to talking\"은 '이야기를 하기 시작했다'(구어), \"got all full of the idea of ~\"는 '~라는 생각으로 잔뜩 부풀었다'. of 뒤의 our coming and hiding은 '우리가 와서 숨는 것'으로, our가 그 행동의 주인이다.",
+  "st": [2, 8]
+ },
+ {
+  "id": "19.27.0",
+  "en": "The moment he was gone, she ran to a closet and got out the ruin of a jacket which Tom had gone pirating in.",
+  "s": "she",
+  "v": "ran",
+  "chunks": [
+   {"en": "The moment he was gone,", "ko": "그가 나가자마자", "r": "부사절(때, the moment=~하자마자)"},
+   {"en": "she ran to a closet", "ko": "그녀는 벽장으로 달려가", "r": "주어 + 동사 + 전치사구(방향)"},
+   {"en": "and got out the ruin of a jacket", "ko": "다 해진 웃옷을 꺼냈다", "r": "대등 동사 + 목적어"},
+   {"en": "which Tom had gone pirating in.", "ko": "톰이 그것을 입고 해적질하러 갔던", "r": "관계절(jacket 설명)"}
+  ],
+  "ko": "톰이 나가자마자 그녀는 벽장으로 달려가, 톰이 입고 해적질하러 갔던 다 해진 웃옷을 꺼냈다.",
+  "why": "\"The moment …\"은 명사가 아니라 '~하자마자'라는 접속사 노릇을 한다. \"the ruin of a jacket\"은 '누더기가 된 웃옷'이라는 표현. 관계절 \"which Tom had gone pirating in\"은 끝의 in이 which와 짝이므로 '그 옷을 입고(그 옷 차림으로) 해적질하러 갔던'으로 풀면 된다.",
+  "st": [8]
+ },
+ {
+  "id": "19.28.1",
+  "en": "Poor boy, I reckon he’s lied about it—but it’s a blessed, blessed lie, there’s such a comfort come from it.",
+  "s": "I",
+  "v": "reckon",
+  "chunks": [
+   {"en": "Poor boy, I reckon he’s lied about it—but it’s a blessed, blessed lie,", "ko": "가엾은 것, 저 애가 그 일을 거짓말한 것 같구나—하지만 그건 복된, 복된 거짓말이야", "r": "부름말 + 주어 + 동사 + 목적어절 + 대등절(대시 뒤 반전)"},
+   {"en": "there’s such a comfort come from it.", "ko": "그 말에서 이렇게 큰 위안이 오는걸", "r": "There is 구문(이유)"}
+  ],
+  "ko": "가엾은 것, 저 애가 그 일을 거짓말한 것 같구나. 하지만 그건 복된, 복된 거짓말이야. 그 말에서 이렇게 큰 위안이 오는걸.",
+  "why": "reckon은 미국 남부 구어로 '~인 것 같다'는 뜻. 대시는 '거짓말이지만 그래도'라는 반전을 넣는 자리다. 마지막 \"there’s such a comfort come from it\"은 관계대명사(that)가 빠진 사투리 어법으로, come은 동사가 아니라 과거분사이며 '그 말에서 나오는 위안이 그만큼 크다'는 뜻.",
+  "st": [2, 4, 17]
+ },
+ {
+  "id": "19.28.2",
+  "en": "I hope the Lord—I know the Lord will forgive him, because it was such good-heartedness in him to tell it.",
+  "s": "I",
+  "v": "hope",
+  "chunks": [
+   {"en": "I hope the Lord—I know the Lord will forgive him,", "ko": "주님께서 저 애를—아니, 주님께서 저 애를 용서하시리라는 걸 나는 안다", "r": "주어 + 동사(말 끊고 고쳐 말함)"},
+   {"en": "because it was such good-heartedness in him", "ko": "그건 저 애의 마음씨가 그토록 착해서 그런 거니까", "r": "부사절(이유, it=가주어)"},
+   {"en": "to tell it.", "ko": "그 말을 한 것은", "r": "진주어(to부정사)"}
+  ],
+  "ko": "주님께서 저 애를—아니, 주님께서 저 애를 용서해 주시리라는 걸 나는 안다. 그 말을 한 건 저 애 마음씨가 그토록 착해서 그런 거니까.",
+  "why": "대시는 말하다 말고 스스로 고쳐 말하는 자리다(hope '바란다'라고 하려다 know '안다'로 바꿔 말함). because절의 it은 가짜 주어이고 진짜 내용은 뒤의 to tell it(그 말을 한 것)이다. \"such good-heartedness in him\"은 '그 애 안에 있는 그만한 착한 마음씨'.",
+  "st": [4, 17]
+ },
+ {
+  "id": "19.29.2",
+  "en": "Once more she ventured, and this time she fortified herself with the thought: “It’s a good lie—it’s a good lie—I won’t let it grieve me.”",
+  "s": "she",
+  "v": "ventured",
+  "chunks": [
+   {"en": "Once more she ventured,", "ko": "다시 한번 그녀는 용기를 내어 손을 뻗었다", "r": "부사 + 주어 + 동사"},
+   {"en": "and this time she fortified herself with the thought:", "ko": "그리고 이번에는 이런 생각으로 마음을 다잡았다", "r": "대등절 + 콜론"},
+   {"en": "“It’s a good lie—it’s a good lie—I won’t let it grieve me.”", "ko": "이건 좋은 거짓말이야—좋은 거짓말이야—이것 때문에 슬퍼하지는 않을 테야", "r": "인용(속말, 되풀이) + 주절"}
+  ],
+  "ko": "다시 한번 그녀는 용기를 내어 손을 뻗었고, 이번에는 이런 생각으로 마음을 다잡았다. \"이건 좋은 거짓말이야—좋은 거짓말이야—이것 때문에 슬퍼하지는 않을 테야.\"",
+  "why": "ventured는 '(마음을 다잡고) 감히 해 보았다', \"fortify herself with ~\"는 '~으로 마음을 단단히 먹다'. 콜론 뒤는 그 '생각(the thought)'의 내용을 그대로 옮긴 것이며, 대시로 같은 말을 되풀이한 것은 스스로를 다독이는 말투다. \"let it grieve me\"는 '그것이 나를 슬프게 하도록 놔두다'.",
+  "st": [4, 5]
+ },
+ {
+  "id": "19.29.4",
+  "en": "A moment later she was reading Tom’s piece of bark through flowing tears and saying: “I could forgive the boy, now, if he’d committed a million sins!”",
+  "s": "she",
+  "v": "was reading",
+  "chunks": [
+   {"en": "A moment later she was reading Tom’s piece of bark", "ko": "잠시 후 그녀는 톰의 나무껍질 쪽지를 읽고 있었다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "through flowing tears", "ko": "하염없이 흐르는 눈물 너머로", "r": "전치사구(상태)"},
+   {"en": "and saying:", "ko": "그리고 이렇게 말하고 있었다", "r": "대등 동사 + 콜론"},
+   {"en": "“I could forgive the boy, now,", "ko": "이제는 저 애를 용서할 수 있겠구나", "r": "인용(대사) 주절"},
+   {"en": "if he’d committed a million sins!”", "ko": "설령 저 애가 백만 가지 죄를 지었더라도", "r": "부사절(가정)"}
+  ],
+  "ko": "잠시 후 그녀는 하염없이 흐르는 눈물 너머로 톰의 나무껍질 쪽지를 읽으며 이렇게 말하고 있었다. \"이제는 저 애가 백만 가지 죄를 지었더라도 용서할 수 있겠구나!\"",
+  "why": "동사가 was reading … and (was) saying 둘로 이어진다(읽으면서 말하고 있었다). 콜론 뒤 대사는 가정법(if he’d committed = if he had committed, 실제로 그런 것은 아님)이라 '설령 ~했더라도 용서하겠다'는 뜻이다. bark는 여기서 '짖다'가 아니라 '나무껍질'(톰이 쪽지로 쓴 것).",
+  "st": [5, 12]
+ }
+]

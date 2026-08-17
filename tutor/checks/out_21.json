@@ -1,0 +1,123 @@
+{
+ "21.0.4": [
+  {"t":"pron","q":"<b>were very vigorous ones</b> 의 ones 는 무엇을 가리킵니까?","a":"매질(lashings) — '아주 힘찬 매질이었다'는 뜻입니다","tip":"ones 는 앞에 나온 명사를 되받는 말입니다. '사람들'로 읽으면 문장이 통째로 어긋납니다."},
+  {"t":"mod","q":"<b>he carried, under his wig, a perfectly bald and shiny head</b> — carried 의 목적어는 무엇입니까?","a":"완전히 벗어져 번들거리는 머리(a perfectly bald and shiny head)","tip":"삽입된 under his wig 때문에 목적어가 멀어졌습니다. 가발을 들고 다녔다는 말이 아니라, 가발 밑이 대머리였다는 뜻입니다."},
+  {"t":"time","q":"<b>he had only reached middle age</b> — 도빈스 선생은 노인이었습니까?","a":"아니요 — 이제 겨우 중년에 이르렀을 뿐입니다","tip":"대머리라는 말 때문에 늙은이로 짐작하기 쉽지만, although 가 바로 그 짐작을 막고 있습니다."},
+  {"t":"neg","q":"<b>there was no sign of feebleness in his muscle</b> — 그의 근육은 쇠약했습니까?","a":"아니요 — 쇠약한 기미가 전혀 없었습니다(그래서 매질이 힘찼습니다)","tip":"no 를 놓치면 '쇠약한 기미가 있었다'가 되어 앞의 vigorous 와 앞뒤가 맞지 않게 됩니다."}
+ ],
+ "21.0.5": [
+  {"t":"who","q":"<b>came to the surface</b> — 겉으로 드러난 것은 무엇입니까?","a":"그의 안에 들어 있던 온갖 폭군 기질(all the tyranny that was in him)","tip":"앞에 부사절이 길게 붙어 있어 the great day 를 주어로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>in him</b> 과 <b>he seemed</b> 의 him·he 는 누구입니까?","a":"도빈스 선생(학교 선생)","tip":"이 문장 안에 이름이 나오지 않습니다. 앞 문장에서 매질하던 그 선생입니다."},
+  {"t":"mod","q":"<b>the least shortcomings</b> 는 무슨 뜻입니까?","a":"아무리 하찮은 잘못이라도 — 아주 사소한 잘못까지","tip":"'가장 적은 수의 결점'으로 읽으면 초점이 흐려집니다. 그런 것마저 벌하는 데서 쾌감을 느꼈다는 말입니다."},
+  {"t":"time","q":"<b>As the great day approached</b> — 여기서 As 는 '~처럼'입니까, '~이 다가오자'입니까?","a":"'그 대단한 날이 다가오자(다가옴에 따라)' — 때를 나타냅니다","tip":"as 를 '~처럼'으로 읽으면 문장이 성립하지 않습니다. 날이 가까워질수록 심해졌다는 흐름입니다."}
+ ],
+ "21.0.13": [
+  {"t":"time","q":"<b>The master’s wife would go on a visit to the country in a few days</b> — 아내는 이미 시골에 다녀왔습니까?","a":"아니요 — 며칠 뒤에 갈 예정이었습니다(아직 가지 않았습니다)","tip":"would 를 '~하곤 했다'로 읽으면 과거의 습관이 되어 계획 이야기가 사라집니다. 여기서는 앞으로의 예정입니다."},
+  {"t":"mod","q":"<b>by getting pretty well fuddled</b> — 선생이 큰 행사에 대비한 방법은 무엇입니까?","a":"술에 꽤 거나하게 취해 두는 것","tip":"prepared himself 만 보면 '준비를 잘 해 두었다'로 읽기 쉽지만, by 뒤에 그 방법이 나옵니다."},
+  {"t":"pron","q":"<b>he would “manage the thing” while he napped in his chair</b> — 앞의 he 와 뒤의 he 는 같은 사람입니까?","a":"아니요 — 앞의 he 는 간판장이네 아들(자기가 하겠다는 뜻), 뒤의 he 는 선생(the dominie)입니다","tip":"한 절 안에서 he 가 두 사람을 가리킵니다. 조는 쪽은 선생, 일을 벌이는 쪽은 소년입니다."},
+  {"t":"who","q":"<b>he would have him awakened at the right time and hurried away to school</b> — 깨워져서 학교로 서둘러 보내지는 사람은 누구입니까?","a":"선생(him)","tip":"hurried 는 awakened 와 나란히 have him 에 걸리는 과거분사입니다. 소년이 학교로 달려간다는 말이 아닙니다."}
+ ],
+ "21.1.5": [
+  {"t":"who","q":"<b>upon which were seated the scholars</b> — 그 무대 위에 앉아 있던 사람들은 누구입니까?","a":"그날 저녁 순서에 나설 학생들","tip":"관계절 안이 도치되어 동사(were seated)가 주어(the scholars)보다 앞에 나왔습니다."},
+  {"t":"time","q":"<b>who were to take part in the exercises of the evening</b> — 이 학생들은 순서를 이미 마쳤습니까?","a":"아니요 — 앞으로 그날 저녁 순서에 나설 예정이었습니다","tip":"be to 부정사는 '~할 예정이다'입니다. 아직 아무 순서도 시작되지 않았습니다."},
+  {"t":"mod","q":"<b>washed and dressed to an intolerable state of discomfort</b> 는 무엇을 설명하며, 아이들이 스스로 한 일입니까?","a":"줄줄이 앉은 어린 남자아이들을 설명합니다. 스스로 한 것이 아니라 참을 수 없이 불편할 만큼 씻기고 입혀진 것입니다","tip":"과거분사라 '당한' 쪽입니다. to an intolerable state of ~ 는 '~한 상태가 될 만큼'입니다."},
+  {"t":"mod","q":"<b>snowbanks of girls and young ladies</b> — 무대에 눈더미가 쌓여 있었습니까?","a":"아니요 — 흰 옷을 입은 여자아이들과 아가씨들이 눈더미처럼 몰려 앉아 있었다는 비유입니다","tip":"앞의 rows of ~ 와 나란히 이어지는 나열입니다. 사람 무리를 눈더미에 빗댄 것입니다."}
+ ],
+ "21.2.1": [
+  {"t":"neg","q":"<b>You’d scarce expect one of my age to speak in public on the stage</b> — 이 낭송 구절은 기대한다는 뜻입니까, 기대하지 않으리라는 뜻입니까?","a":"거의 기대하지 않으실 것이다 — 부정의 뜻입니다","tip":"scarce 는 scarcely(거의 ~않다)와 같습니다. '충분히 기대하시겠지요'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>one of my age</b> 의 one 은 무엇을 가리킵니까?","a":"내 나이 또래의 아이 — 곧 낭송하고 있는 그 작은 아이 자신","tip":"숫자 '하나'로 읽으면 뜻이 사라집니다. one 은 '사람'을 뜻하는 대명사입니다."},
+  {"t":"mod","q":"<b>which a machine might have used</b> 는 무엇을 꾸밉니까?","a":"그 아이가 곁들인 동작(the painfully exact and spasmodic gestures)","tip":"기계가 실제로 그런 동작을 했다는 말이 아니라 '기계나 썼을 법한' 동작이라는 비유입니다."},
+  {"t":"mod","q":"<b>supposing the machine to be a trifle out of order</b> — 살짝 고장 났다고 치는 대상은 무엇입니까?","a":"바로 앞에 비유로 나온 그 기계","tip":"아이가 고장 났다는 말이 아닙니다. '기계 같다'는 비유를 한 번 더 비트는 농담입니다."}
+ ],
+ "21.4.0": [
+  {"t":"mod","q":"<b>the unquenchable and indestructible</b> 는 무엇을 꾸밉니까?","a":"그 “Give me liberty or give me death” 연설","tip":"앞의 conceited confidence(우쭐한 자신감)를 꾸미는 말로 붙이기 쉽습니다. 학생들이 하도 되풀이해서 없어지지도 않는 연설이라는 비꼼입니다."},
+  {"t":"pron","q":"<b>in the middle of it</b> 의 it 은 무엇입니까?","a":"그 “Give me liberty or give me death” 연설","tip":"무대나 강당으로 잡기 쉽습니다. 연설 도중이라는 뜻입니다."},
+  {"t":"time","q":"<b>and broke down in the middle of it</b> — 톰은 연설을 끝까지 해냈습니까?","a":"아니요 — 한복판에서 막혀 버렸습니다","tip":"and 로 이어져 앞의 기세가 계속되는 줄 알기 쉽지만, 바로 여기서 뒤집힙니다."}
+ ],
+ "21.5.6": [
+  {"t":"pron","q":"<b>“Friendship” was one</b> 의 one 은 무엇 중 하나라는 말입니까?","a":"그날 낭독된 작문들의 제목 가운데 하나","tip":"'우정이 하나였다'만으로는 뜻이 잡히지 않습니다. one 은 앞에서 말한 '작문 제목들' 중 하나를 받습니다."},
+  {"t":"mod","q":"세미콜론으로 이어지는 <b>“Memories of Other Days”; “Religion in History”</b> 이하는 무엇입니까?","a":"모두 서로 다른 작문의 제목을 나열한 것입니다","tip":"반복되는 was one 이 생략된 나열입니다. 한 편의 작문에 붙은 여러 소제목이 아닙니다."}
+ ],
+ "21.6.0": [
+  {"t":"pron","q":"두 번 나오는 <b>another was ...</b> 의 another 는 무엇을 가리킵니까?","a":"이 작문들에 널리 퍼진 또 다른 특징(feature)","tip":"'또 다른 작문'으로 읽으면 특징을 열거하는 목록이 무너집니다."},
+  {"t":"mod","q":"<b>a tendency to lug in by the ears</b> — 억지로 끌어다 붙인 대상은 무엇입니까?","a":"특별히 아끼는 낱말과 표현들(particularly prized words and phrases)","tip":"by the ears 가 끼어들어 목적어가 뒤로 밀렸습니다. '귀를 잡아끌 듯' 억지로 쑤셔 넣었다는 뜻입니다."},
+  {"t":"pron","q":"<b>until they were worn entirely out</b> 의 they 는 무엇입니까?","a":"그 아끼는 낱말과 표현들","tip":"작문이나 여학생으로 잡기 쉽습니다. 표현을 완전히 닳을 때까지 우려먹었다는 뜻입니다."},
+  {"t":"mod","q":"<b>that wagged its crippled tail</b> — 절름발이 꼬리를 흔들어 댄 것은 무엇입니까?","a":"그 고질적이고 참을 수 없는 설교(the sermon)","tip":"바로 앞 명사가 sermon 입니다. 글 끝마다 붙는 설교를 꼬리 흔드는 짐승에 빗댄 비유입니다."}
+ ],
+ "21.6.1": [
+  {"t":"pron","q":"<b>to squirm it into some aspect</b> 의 it 은 무엇입니까?","a":"그 작문의 주제(the subject)","tip":"바로 앞의 effort 로 잡기 쉽습니다. 주제가 무엇이든 그것을 비틀어 넣었다는 뜻입니다."},
+  {"t":"who","q":"<b>a brainracking effort was made</b> — 머리를 쥐어짠 사람은 누구입니까?","a":"그 작문을 쓴 여학생들","tip":"수동태라 주어 자리에 '노력'이 와 있어 누가 한 일인지 흐려집니다. 노력 자체가 무언가를 한 것이 아닙니다."},
+  {"t":"mod","q":"<b>that the moral and religious mind could contemplate with edification</b> 은 무엇을 꾸밉니까?","a":"바로 앞의 some aspect or other(어떻게든 찾아낸 어떤 측면)","tip":"곱씹는 쪽이 the moral and religious mind 이고, 곱씹히는 것은 그 '측면'입니다."}
+ ],
+ "21.6.2": [
+  {"t":"neg","q":"<b>was not sufficient to compass the banishment of the fashion from the schools</b> — 그 유행은 학교에서 사라졌습니까?","a":"아니요 — 몰아내기에는 충분하지 못했습니다(그대로 남았습니다)","tip":"not 을 놓치면 '거짓됨이 유행을 몰아냈다'가 되어 정반대가 됩니다."},
+  {"t":"pron","q":"<b>it is not sufficient today</b> 의 it 은 무엇입니까?","a":"앞에 나온 '이 설교들의 뻔히 들여다보이는 거짓됨'(The glaring insincerity)","tip":"the fashion(그 유행)으로 잡으면 뜻이 뒤집힙니다."},
+  {"t":"time","q":"이 문장은 언제 이야기입니까?","a":"톰의 시절(was)만이 아니라 오늘날(is today)과 앞으로(never will be)까지 세 때를 잇달아 말합니다","tip":"시제가 과거→현재→미래로 바뀝니다. 작가가 이야기를 멈추고 직접 하는 말입니다."}
+ ],
+ "21.6.3": [
+  {"t":"neg","q":"<b>There is no school ... where the young ladies do not feel obliged ...</b> — 결국 무슨 뜻입니까?","a":"우리 땅의 모든 학교에서 여학생들이 작문을 설교로 끝맺어야 한다고 느낀다는 뜻입니다","tip":"no 와 do not 이 겹쳐 강한 긍정이 됩니다. 하나만 세면 정반대로 읽힙니다."},
+  {"t":"mod","q":"<b>the most frivolous and the least religious girl</b> 은 어떤 아이입니까?","a":"학교에서 가장 경박하고 신앙심이 가장 없는 아이","tip":"the least religious 를 '가장 경건한'으로 뒤집어 읽으면 이 문장의 비꼼이 통째로 사라집니다."},
+  {"t":"mod","q":"<b>of the most frivolous and the least religious girl in the school</b> 은 무엇을 꾸밉니까?","a":"앞의 the sermon — 그래서 가장 길고 가차 없이 경건한 것은 '그 아이가 쓴 설교'입니다","tip":"수식어가 길어 girl 을 주어로 잡기 쉽습니다. 아이가 경건하다는 말이 아닙니다."}
+ ],
+ "21.8.3": [
+  {"t":"mod","q":"<b>arrayed in snowy robes</b> 는 무엇을 설명합니까?","a":"그녀의 우아한 자태(Her graceful form)","tip":"바로 뒤의 춤이나 무도회를 꾸미는 말이 아닙니다. 주어와 동사 사이에 끼어든 설명입니다."},
+  {"t":"mod","q":"<b>in the gay assembly</b> — 눈이 가장 빛나고 발걸음이 가장 가볍다는 것은 무엇과 견준 말입니까?","a":"그 화려한 모임에 모인 사람들 전부와 견주어 가장 그렇다는 뜻입니다","tip":"문장 끝의 이 전치사구가 앞의 her eye is brightest 에도 함께 걸립니다."},
+  {"t":"time","q":"<b>is whirling</b> — 이미 끝난 일을 회상하는 것입니까?","a":"아니요 — 지금 눈앞에서 벌어지는 일처럼 현재형으로 그린 장면입니다","tip":"소설 본문이 과거형이라 과거로 옮기기 쉽습니다. 여기는 여학생의 작문 속 대목입니다."}
+ ],
+ "21.9.3": [
+  {"t":"time","q":"<b>the flattery which once charmed her soul, now grates harshly upon her ear</b> — 아첨이 그녀를 홀린 것과 귀에 거슬리는 것은 각각 언제입니까?","a":"홀린 것은 예전(once), 거슬리는 것은 지금(now)입니다","tip":"once 는 '한 번'이 아니라 '한때'입니다. 두 때를 겹쳐 읽으면 대비가 사라집니다."},
+  {"t":"mod","q":"<b>that earthly pleasures cannot satisfy the longings of the soul</b> 이 that절은 무엇을 설명합니까?","a":"바로 앞의 the conviction — 그녀가 품게 된 확신의 내용입니다","tip":"'~라는 확신'으로 붙는 동격 that절입니다. 확신을 만족시킨다는 말이 아닙니다."},
+  {"t":"neg","q":"<b>earthly pleasures cannot satisfy the longings of the soul</b> — 이 땅의 즐거움으로 영혼의 갈망이 채워집니까?","a":"아니요 — 채울 수 없다는 것이 그녀가 얻은 결론입니다","tip":"cannot 을 놓치면 작문 전체의 교훈이 정반대가 됩니다."}
+ ],
+ "21.14.0": [
+  {"t":"neg","q":"<b>Yet shame I not to bear an o’erfull heart, Nor blush ...</b> — 화자는 벅찬 가슴과 눈물을 부끄러워합니까?","a":"아니요 — 부끄러워하지도, 얼굴을 붉히지도 않습니다","tip":"shame I not 은 I shame not 의 도치이고, Nor 로 부정이 한 번 더 이어집니다."},
+  {"t":"neg","q":"<b>’Tis from no stranger land I now must part</b> — 그녀가 떠나는 곳은 낯선 땅입니까?","a":"아니요 — 낯선 땅이 아닙니다(정든 고향이라는 뜻)","tip":"no 를 놓치면 정반대가 됩니다. ’Tis ~ I ... 는 It is ~ that ... 강조 구문입니다."},
+  {"t":"mod","q":"<b>no strangers left</b> 에서 left 는 무엇을 설명합니까?","a":"strangers — '뒤에 남겨진 사람들'이라는 뜻입니다(그것도 낯선 사람이 아닌)","tip":"left 를 '떠났다'는 동사로 읽으면 문장이 엉킵니다. 떠나는 쪽은 화자이고 남는 쪽이 그들입니다."}
+ ],
+ "21.14.1": [
+  {"t":"pron","q":"<b>were mine</b> 의 mine 과 <b>mine eyes</b> 의 mine 은 뜻이 같습니까?","a":"다릅니다 — 앞은 '내 것', 뒤의 mine eyes 는 my eyes(내 눈)를 뜻하는 옛 형태입니다","tip":"같은 낱말이 한 문장 안에서 다르게 쓰였습니다. 옛 영어에서는 모음 앞에 my 대신 mine 을 씁니다."},
+  {"t":"pron","q":"<b>Whose vales I leave</b> 의 whose 는 무엇의 것입니까?","a":"바로 앞의 this State(앨라배마 주)의 골짜기","tip":"whose 라서 사람으로 잡기 쉽습니다. 여기서는 주(州)를 받습니다."},
+  {"t":"pron","q":"<b>they turn cold on thee</b> 의 they 와 thee 는 각각 무엇입니까?","a":"they = 내 눈과 마음과 머리(mine eyes, and heart, and tête), thee = 앨라배마","tip":"중간에 dear Alabama! 라는 부름말이 끼어들어 they 를 놓치기 쉽습니다."},
+  {"t":"time","q":"<b>When ... they turn cold on thee</b> — 이미 차가워졌다는 말입니까?","a":"아니요 — 언젠가 그런 날이 온다면 그때는, 이라는 앞으로의 이야기입니다","tip":"내가 그대를 잊는 날이 온다면 그때야 내 눈도 마음도 식을 것이라는 뜻입니다."}
+ ],
+ "21.18.1": [
+  {"t":"neg","q":"<b>Around the throne on high not a single star quivered</b> — 별이 반짝였습니까?","a":"아니요 — 별 하나 반짝이지 않았습니다","tip":"not a single ~ 은 '단 하나도 ~않다'입니다. 주어 자리에 부정이 들어 있어 놓치기 쉽습니다."},
+  {"t":"mod","q":"<b>seeming to scorn the power</b> — 비웃는 듯한 것은 무엇입니까?","a":"그 무시무시한 번개(the terrific lightning)","tip":"바로 앞의 heaven 이나 chambers 에 붙이기 쉽습니다. 분사구문의 주인은 그 절의 주어입니다."},
+  {"t":"who","q":"<b>the power exerted over its terror by the illustrious Franklin</b> — 그 힘을 휘두른 사람은 누구입니까?","a":"저 유명한 프랭클린","tip":"by ~ 가 행위자입니다. 번개가 프랭클린에게 힘을 휘두른 것이 아닙니다."},
+  {"t":"pron","q":"<b>its terror</b> 의 its 는 무엇을 가리킵니까?","a":"번개(the terrific lightning)","tip":"프랭클린이나 하늘로 잡기 쉽습니다. 프랭클린이 피뢰침으로 번개의 공포를 눌렀다는 이야기입니다."}
+ ],
+ "21.21.1": [
+  {"t":"pron","q":"<b>it failed to make even a sound</b> 의 it 은 무엇입니까?","a":"그녀의 발걸음(her step)","tip":"앞이 So soft was her step 이라는 도치라서 주어를 찾기 어렵습니다."},
+  {"t":"neg","q":"<b>it failed to make even a sound</b> — 소리가 났습니까?","a":"아니요 — 소리 하나 나지 않았습니다","tip":"fail to ~ 는 '~하지 못하다'라는 부정입니다. '소리 내는 데 실패할 만큼'이 아니라 아예 나지 않았다는 뜻입니다."},
+  {"t":"time","q":"<b>she would have glided away unperceived—unsought</b> — 그녀는 실제로 아무에게도 들키지 않고 사라졌습니까?","a":"아니요 — 그 신비로운 전율이 없었더라면 그랬을 것이라는 가정이고, 실제로는 사람들이 알아보았습니다","tip":"but for(~이 없었더라면) + would have p.p. 는 실제와 반대되는 가정입니다."},
+  {"t":"mod","q":"<b>imparted by her genial touch</b> 는 무엇을 설명합니까?","a":"그 신비로운 전율(the magical thrill)","tip":"전율을 전해 준 쪽이 그녀의 다정한 손길입니다. 손길이 전해졌다는 말이 아닙니다."}
+ ],
+ "21.22.2": [
+  {"t":"pron","q":"<b>the author of it</b> 의 it 은 무엇입니까?","a":"상을 받은 그 작문","tip":"바로 앞의 the prize(상)로 잡기 쉽습니다. '그 글을 쓴 사람'에게 상을 건넸다는 뜻입니다."},
+  {"t":"mod","q":"<b>in which he said that ...</b> — in which 는 무엇을 받습니까?","a":"시장이 한 그 따뜻한 연설(a warm speech)","tip":"그 연설 안에서 이런 말을 했다는 뜻입니다. 상이나 작문을 받는 것이 아닙니다."},
+  {"t":"who","q":"<b>the most “eloquent” thing he had ever listened to</b> — 여태 들어 본 사람은 누구입니까?","a":"시장 자신","tip":"thing (that) he had ever listened to 에서 관계사가 빠졌습니다. 글쓴이가 들었다는 말이 아닙니다."}
+ ],
+ "21.23.0": [
+  {"t":"pron","q":"맨 앞의 <b>It may be remarked</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 that절 전체입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾다가 길을 잃습니다."},
+  {"t":"mod","q":"<b>in which the word “beauteous” was over-fondled</b> 는 무엇을 꾸밉니까?","a":"작문들(compositions)","tip":"바로 앞의 the number 를 꾸미는 것으로 읽기 쉽습니다. '그런 작문이 몇 편이었나'라는 이야기입니다."},
+  {"t":"who","q":"<b>human experience referred to as “life’s page,”</b> — 인간의 경험이 그렇게 불린 것입니까, 인간의 경험이 무언가를 그렇게 부른 것입니까?","a":"인간의 경험이 '인생의 한 페이지'라고 불린 것입니다","tip":"앞 관계절의 was 가 되풀이를 피해 생략된 수동태입니다(human experience [was] referred to as ~)."},
+  {"t":"mod","q":"문장 끝의 <b>was up to the usual average</b> — 이 was 의 주어는 무엇입니까?","a":"the number of compositions(그런 작문의 개수)","tip":"관계절이 길어서 바로 앞의 human experience 나 “life’s page” 를 주어로 잡기 쉽습니다."}
+ ],
+ "21.24.0": [
+  {"t":"mod","q":"<b>mellow almost to the verge of geniality</b> 는 누구를 설명하는 말입니까?","a":"선생(the master) — 술기운에 거의 상냥해질 지경까지 누그러진 상태","tip":"원래 성품이 온화하다는 말이 아닙니다. 큰 행사를 앞두고 취해 두는 그 버릇의 결과입니다."},
+  {"t":"mod","q":"문장 끝의 <b>to exercise the geography class upon</b> — 이 upon 은 무엇과 짝을 이룹니까?","a":"그가 칠판에 그린 미국 지도 — 그 지도를 놓고 지리반에게 문제를 내려던 것입니다","tip":"끝에 홀로 남은 전치사는 앞의 명사와 짝입니다(a map ... to exercise the class upon)."},
+  {"t":"time","q":"<b>began to draw a map of America</b> — 이 시점에 지도는 다 그려졌습니까?","a":"아니요 — 이제 막 그리기 시작했습니다","tip":"began to ~ 는 시작을 말합니다. 뒤에 벌어지는 소동은 그가 그리는 도중에 일어납니다."}
+ ],
+ "21.24.7": [
+  {"t":"pron","q":"<b>she had a rag tied about her head</b> 의 she·her 는 누구입니까?","a":"그 고양이","tip":"영어에서는 동물을 she 로 받기도 합니다. 여자아이로 잡으면 장면이 통째로 달라집니다."},
+  {"t":"mod","q":"<b>pierced with a scuttle over his head</b> 는 무엇을 설명합니까?","a":"위층의 다락방(a garret) — 선생의 머리 바로 위에 뚜껑 구멍이 뚫려 있었다는 뜻","tip":"선생의 머리가 뚫렸다는 말이 아닙니다. pierced 는 바로 앞의 garret 을 설명합니다."},
+  {"t":"who","q":"<b>she had a rag tied about her head and jaws</b> — 헝겊을 동여맨 것은 고양이 자신입니까?","a":"아니요 — 누군가가 묶어 놓아 고양이가 그런 상태였다는 뜻입니다","tip":"have + 목적어 + 과거분사는 '~된 상태다/~을 당하다'입니다. 고양이가 스스로 묶을 수는 없습니다."},
+  {"t":"neg","q":"<b>to keep her from mewing</b> — 헝겊을 묶은 까닭은 무엇입니까?","a":"고양이가 울지 못하게 하려고","tip":"keep A from B 는 'A가 B하지 못하게 막다'입니다. 부정의 뜻이 from 에 들어 있습니다."}
+ ],
+ "21.24.8": [
+  {"t":"pron","q":"<b>she grabbed his wig</b> 의 she 와 his 는 각각 누구입니까?","a":"she = 고양이, his = 지도 그리기에 몰두한 선생","tip":"한 절 안에서 두 존재를 가리킵니다. 가발을 빼앗긴 쪽이 선생입니다."},
+  {"t":"pron","q":"<b>with her trophy still in her possession</b> 의 her trophy 는 무엇입니까?","a":"방금 낚아챈 선생의 가발","tip":"진짜 상패가 아니라 전리품에 빗댄 말입니다. 앞의 his wig 를 받습니다."},
+  {"t":"who","q":"<b>was snatched up into the garret in an instant</b> — 고양이가 스스로 다락으로 올라갔습니까?","a":"아니요 — 끈에 묶여 있었으므로 위에서 순식간에 끌어올려진 것입니다","tip":"was snatched 는 당한 쪽입니다. 앞의 grabbed, clung 이 능동이라 이어서 능동으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>within six inches of the absorbed teacher’s head</b> — 6인치는 무엇과 무엇 사이의 거리입니까?","a":"내려오는 고양이와 선생의 머리 사이","tip":"absorbed 는 '흡수된'이 아니라 (지도 그리기에) '정신이 팔린'이라는 뜻입니다."}
+ ]
+}

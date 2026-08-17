@@ -1,0 +1,277 @@
+[
+ {
+  "id": "27.0.1",
+  "en": "Four times he had his hands on that rich treasure and four times it wasted to nothingness in his fingers as sleep forsook him and wakefulness brought back the hard reality of his misfortune.",
+  "s": "he",
+  "v": "had",
+  "chunks": [
+   {"en": "Four times he had his hands", "ko": "네 번이나 그는 손을 얹었다", "r": "횟수 + 주어 + 동사 + 목적어"},
+   {"en": "on that rich treasure", "ko": "그 값진 보물에", "r": "전치사구"},
+   {"en": "and four times it wasted to nothingness", "ko": "그리고 네 번 다 그것은 스러져 무(無)가 되어 버렸다", "r": "대등절"},
+   {"en": "in his fingers", "ko": "그의 손가락 사이에서", "r": "전치사구(장소)"},
+   {"en": "as sleep forsook him", "ko": "잠이 그를 떠나고", "r": "부사절(때)"},
+   {"en": "and wakefulness brought back the hard reality of his misfortune.", "ko": "깨어남이 그의 불운이라는 냉혹한 현실을 도로 데려오면서", "r": "대등절(부사절 안)"}
+  ],
+  "ko": "네 번이나 그는 그 값진 보물에 손을 얹었고, 네 번 다 보물은 손가락 사이에서 스러져 아무것도 아닌 것이 되어 버렸다. 잠이 그를 떠나고 깨어남이 그의 불운이라는 냉혹한 현실을 도로 데려왔기 때문이다.",
+  "why": "\"Four times … and four times …\"의 반복이 뼈대다. 여기서 wasted는 '낭비했다'가 아니라 '스러져 없어졌다'는 뜻의 자동사. as는 '~하자/~하면서'라는 때를 나타내고, 그 안에 다시 절이 두 개(sleep forsook … and wakefulness brought …) 들어 있다.",
+  "st": [14]
+ },
+ {
+  "id": "27.0.2",
+  "en": "As he lay in the early morning recalling the incidents of his great adventure, he noticed that they seemed curiously subdued and far away—somewhat as if they had happened in another world, or in a time long gone by.",
+  "s": "he",
+  "v": "noticed",
+  "chunks": [
+   {"en": "As he lay in the early morning", "ko": "이른 아침 누워 있으면서", "r": "부사절(때)"},
+   {"en": "recalling the incidents of his great adventure,", "ko": "그 대단한 모험의 일들을 떠올리다가", "r": "분사구문(~하면서)"},
+   {"en": "he noticed that they seemed curiously subdued", "ko": "그는 그 일들이 이상하게 가라앉아 보인다는 것을 알아차렸다", "r": "주어 + 동사 + 목적어(that절)"},
+   {"en": "and far away—somewhat", "ko": "그리고 아득하게 느껴진다고—어쩐지", "r": "보어(나열) + 곁말(대시)"},
+   {"en": "as if they had happened in another world,", "ko": "마치 다른 세상에서 일어난 일인 것처럼", "r": "비유(as if, 실제와 반대)"},
+   {"en": "or in a time long gone by.", "ko": "아니면 오래전에 지나가 버린 시절에", "r": "나열(or)"}
+  ],
+  "ko": "이른 아침 누운 채 그 대단한 모험의 일들을 떠올리면서, 그는 그 일들이 이상하게 가라앉고 아득하게 느껴진다는 것을 알아차렸다—마치 다른 세상에서, 아니면 아주 오래전에 지나간 시절에 일어난 일인 것처럼.",
+  "why": "맨 앞의 As는 '~하면서'라는 때 부사절이고, 그 안에 다시 recalling(~을 떠올리면서)이라는 분사구문이 들어 있다. 주절은 쉼표 뒤 \"he noticed that …\"이다. 대시 뒤 \"as if they had happened\"는 가정법(실제로는 그렇지 않은데 그런 것처럼)이라 '마치 ~였던 것처럼'으로 읽는다.",
+  "st": [4, 8, 10, 12]
+ },
+ {
+  "id": "27.0.4",
+  "en": "There was one very strong argument in favor of this idea—namely, that the quantity of coin he had seen was too vast to be real.",
+  "s": "one very strong argument",
+  "v": "was",
+  "chunks": [
+   {"en": "There was one very strong argument", "ko": "아주 강력한 근거가 하나 있었다", "r": "There was ~ (~가 있었다)"},
+   {"en": "in favor of this idea—namely,", "ko": "이 생각을 뒷받침하는—다름 아니라", "r": "전치사구 + 곁말(namely=즉)"},
+   {"en": "that the quantity of coin he had seen", "ko": "그가 본 동전의 양이", "r": "동격 that절의 주어(관계절 포함)"},
+   {"en": "was too vast to be real.", "ko": "너무 어마어마해서 진짜일 리가 없다는 것", "r": "동사 + 보어(too ~ to …)"}
+  ],
+  "ko": "이 생각을 뒷받침하는 아주 강력한 근거가 하나 있었다. 다름 아니라, 그가 본 동전의 양이 너무나 어마어마해서 진짜일 리가 없다는 것이었다.",
+  "why": "\"There was …\"는 '~가 있었다'로, 진짜 주어는 was 뒤의 one very strong argument다. 대시 뒤 namely(즉)가 이끄는 that절이 그 argument가 무슨 내용인지 풀어 준다(동격). \"the quantity of coin (that) he had seen\"에서 관계대명사가 생략돼 있어 그 뒤의 동사 was를 놓치기 쉽다. \"too vast to be real\"은 '너무 ~해서 …할 수 없다'.",
+  "st": [4, 17, 18]
+ },
+ {
+  "id": "27.0.5",
+  "en": "He had never seen as much as fifty dollars in one mass before, and he was like all boys of his age and station in life, in that he imagined that all references to “hundreds” and “thousands” were mere fanciful forms of speech, and that no such sums really existed in the world.",
+  "s": "He",
+  "v": "had never seen",
+  "chunks": [
+   {"en": "He had never seen as much as fifty dollars", "ko": "그는 50달러나 되는 돈을 본 적이 없었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in one mass before,", "ko": "그전까지 한 덩어리로 있는 것을", "r": "전치사구 + 시간"},
+   {"en": "and he was like all boys of his age and station in life,", "ko": "그리고 그는 그 나이, 그 처지의 여느 아이들과 똑같았다", "r": "대등절"},
+   {"en": "in that he imagined that all references to “hundreds” and “thousands”", "ko": "'수백', '수천' 같은 말은 전부 ~라고 여긴다는 점에서", "r": "부사절(in that = ~라는 점에서) + 목적어 that절의 주어"},
+   {"en": "were mere fanciful forms of speech,", "ko": "그저 그럴싸하게 지어낸 말투에 불과하고", "r": "that절 동사 + 보어"},
+   {"en": "and that no such sums really existed in the world.", "ko": "그런 액수는 세상에 실제로 존재하지 않는다고", "r": "나열(두 번째 that절)"}
+  ],
+  "ko": "그는 그전까지 50달러나 되는 돈이 한 덩어리로 있는 것을 본 적이 없었다. 그리고 그는 그 나이, 그 처지의 여느 아이들과 똑같아서, '수백', '수천' 같은 말은 죄다 그럴싸하게 지어낸 말투일 뿐이고 그런 액수가 세상에 실제로 있지는 않다고 여겼다.",
+  "why": "\"in that ~\"은 '~라는 점에서'라는 뜻으로, 앞의 \"he was like all boys\"가 어떤 점에서 그렇다는 것인지 설명한다. imagined 뒤에 that절이 두 개(that all references … / and that no such sums …) 나란히 목적어로 걸린다는 것만 보면 길이가 무섭지 않다. \"as much as fifty dollars\"는 '50달러나 되는'.",
+  "st": [14]
+ },
+ {
+  "id": "27.0.6",
+  "en": "He never had supposed for a moment that so large a sum as a hundred dollars was to be found in actual money in any one’s possession.",
+  "s": "He",
+  "v": "had supposed",
+  "chunks": [
+   {"en": "He never had supposed for a moment", "ko": "그는 단 한 순간도 생각해 본 적이 없었다", "r": "주어 + 동사 + 부사구"},
+   {"en": "that so large a sum as a hundred dollars", "ko": "100달러나 되는 큰 액수가", "r": "목적어(that절)의 주어"},
+   {"en": "was to be found in actual money", "ko": "실제 현금으로 발견되리라고는", "r": "that절 동사(be to = ~하게 되어 있다)"},
+   {"en": "in any one’s possession.", "ko": "누군가가 가진 것 중에", "r": "전치사구"}
+  ],
+  "ko": "100달러나 되는 큰돈이 실제 현금으로 누군가의 손에 있으리라고는 단 한 순간도 생각해 본 적이 없었다.",
+  "why": "\"so large a sum as a hundred dollars\"는 어순이 뒤집힌 형태(so + 형용사 + a + 명사)로 '100달러나 되는 큰 액수'라는 뜻이다. \"was to be found\"의 be to는 '~하게 되어 있다/~할 수 있다'는 뜻이며, 여기서는 수동태와 겹쳐 '(현금으로) 발견될 수 있다'로 읽으면 된다.",
+  "st": []
+ },
+ {
+  "id": "27.0.7",
+  "en": "If his notions of hidden treasure had been analyzed, they would have been found to consist of a handful of real dimes and a bushel of vague, splendid, ungraspable dollars.",
+  "s": "they",
+  "v": "would have been found",
+  "chunks": [
+   {"en": "If his notions of hidden treasure had been analyzed,", "ko": "숨겨진 보물에 대한 그의 생각을 분석해 봤다면", "r": "부사절(가정)"},
+   {"en": "they would have been found to consist of", "ko": "그 생각은 ~로 이루어져 있음이 드러났을 것이다", "r": "주어 + 동사(가정법 귀결)"},
+   {"en": "a handful of real dimes", "ko": "진짜 10센트 동전 한 줌", "r": "목적어(of의 목적어)"},
+   {"en": "and a bushel of vague, splendid, ungraspable dollars.", "ko": "그리고 모호하고 휘황찬란하지만 붙잡을 수 없는 달러 한 가마니", "r": "나열"}
+  ],
+  "ko": "숨겨진 보물에 대한 그의 생각을 분석해 봤다면, 진짜 10센트 동전 한 줌과 모호하고 휘황찬란하지만 붙잡을 수 없는 달러 한 가마니로 이루어져 있음이 드러났을 것이다.",
+  "why": "가정법 과거완료(If … had been analyzed, … would have been found = 실제로는 분석해 본 적이 없다)다. 수동태가 겹쳐서(had been analyzed / would have been found) 무거워 보이지만 뼈대는 '분석했다면 ~로 밝혀졌을 것'이다. 진짜 동전 한 줌(dimes)과 상상 속의 달러 한 가마니(dollars)를 나란히 놓은 것이 이 문장의 농담.",
+  "st": [8, 12]
+ },
+ {
+  "id": "27.1.0",
+  "en": "But the incidents of his adventure grew sensibly sharper and clearer under the attrition of thinking them over, and so he presently found himself leaning to the impression that the thing might not have been a dream, after all.",
+  "s": "the incidents",
+  "v": "grew",
+  "chunks": [
+   {"en": "But the incidents of his adventure grew sensibly sharper and clearer", "ko": "하지만 그 모험의 장면들은 눈에 띄게 더 또렷하고 선명해졌다", "r": "주어 + 동사 + 보어(비교급)"},
+   {"en": "under the attrition of thinking them over,", "ko": "자꾸 곱씹어 생각하는 마찰 속에서", "r": "전치사구(상황)"},
+   {"en": "and so he presently found himself leaning to the impression", "ko": "그래서 그는 이윽고 ~라는 느낌 쪽으로 기울고 있는 자신을 발견했다", "r": "대등절"},
+   {"en": "that the thing might not have been a dream, after all.", "ko": "그 일이 결국 꿈이 아니었을지도 모른다는", "r": "동격 that절(impression 설명)"}
+  ],
+  "ko": "하지만 그 모험의 장면들은 자꾸 되새길수록 눈에 띄게 더 날카롭고 또렷해졌고, 그래서 그는 이윽고 그 일이 결국 꿈이 아니었을지도 모른다는 쪽으로 마음이 기울고 있는 자신을 발견했다.",
+  "why": "주어 the incidents와 동사 grew를 먼저 잡을 것(grew + 비교급 = 점점 ~해졌다). \"find oneself ~ing\"은 '어느새 ~하고 있는 자신을 발견하다'라는 표현이다. 맨 뒤 that절은 impression이 무슨 내용인지 설명하는 동격절이고, after all은 '결국에는'이라는 뜻.",
+  "st": []
+ },
+ {
+  "id": "27.2.0",
+  "en": "Huck was sitting on the gunwale of a flatboat, listlessly dangling his feet in the water and looking very melancholy.",
+  "s": "Huck",
+  "v": "was sitting",
+  "chunks": [
+   {"en": "Huck was sitting on the gunwale of a flatboat,", "ko": "헉은 너벅선 뱃전에 앉아 있었다", "r": "주어 + 동사 + 전치사구(장소)"},
+   {"en": "listlessly dangling his feet in the water", "ko": "힘없이 물에 발을 담근 채 흔들거리며", "r": "분사구문(~하면서)"},
+   {"en": "and looking very melancholy.", "ko": "몹시 우울한 얼굴을 하고서", "r": "분사구문(~하면서)"}
+  ],
+  "ko": "헉은 너벅선 뱃전에 앉아 힘없이 물에 발을 담근 채 흔들거리며 몹시 우울한 얼굴을 하고 있었다.",
+  "why": "주절은 \"Huck was sitting …\"뿐이고, 쉼표 뒤의 dangling과 looking은 둘 다 '~하면서'로 덧붙는 분사구문이다. 앞의 was와 짝지어 'was dangling / was looking'으로 읽어도 뜻은 같다. gunwale은 배의 윗가장자리(뱃전).",
+  "st": [6]
+ },
+ {
+  "id": "27.2.2",
+  "en": "If he did not do it, then the adventure would be proved to have been only a dream.",
+  "s": "the adventure",
+  "v": "would be proved",
+  "chunks": [
+   {"en": "If he did not do it,", "ko": "헉이 그렇게 하지 않는다면", "r": "부사절(조건)"},
+   {"en": "then the adventure would be proved", "ko": "그렇다면 그 모험은 ~로 판명되는 셈이다", "r": "주어 + 동사(수동)"},
+   {"en": "to have been only a dream.", "ko": "그저 꿈에 지나지 않았던 것으로", "r": "보어(완료 to부정사)"}
+  ],
+  "ko": "헉이 그렇게 하지 않는다면, 그 모험은 그저 꿈이었던 것으로 판명되는 셈이었다.",
+  "why": "톰의 속셈을 그대로 옮긴 문장이라 If절이 앞에 온다. \"be proved to have been ~\"은 '~였던 것으로 밝혀지다'이고, to have been(완료부정사)은 밝혀지는 시점보다 앞선 일을 가리킨다. would는 '~인 셈이 된다'는 추정.",
+  "st": [8]
+ },
+ {
+  "id": "27.10.2",
+  "en": "I’ve had dreams enough all night—with that patch-eyed Spanish devil going for me all through ’em—rot him!”",
+  "s": "I",
+  "v": "’ve had",
+  "chunks": [
+   {"en": "I’ve had dreams enough", "ko": "꿈이라면 지긋지긋하게 꿨어", "r": "주어 + 동사 + 목적어"},
+   {"en": "all night—with that patch-eyed Spanish devil", "ko": "밤새도록—그 안대 낀 스페인 악마 놈이", "r": "시간 + 곁말(대시) 시작"},
+   {"en": "going for me all through ’em—rot him!”", "ko": "꿈 내내 나한테 덤벼드는 통에—빌어먹을 놈!", "r": "with + 명사 + ~ing(상황) + 욕설"}
+  ],
+  "ko": "밤새도록 꿈이라면 지긋지긋하게 꿨어—그 안대 낀 스페인 악마 놈이 꿈속 내내 나한테 덤벼드는 통에 말이야—빌어먹을 놈!",
+  "why": "대시 두 개 사이가 곁말이다. \"with + 명사 + ~ing\"는 '~가 …하는 가운데'라는 상황 설명(부대상황)이다. \"go for me\"는 '나에게 덤벼들다', \"rot him\"은 '저놈 썩어 버려라' 정도의 욕이고, ’em은 them(=그 꿈들)의 구어 축약.",
+  "st": [2, 4]
+ },
+ {
+  "id": "27.13.0",
+  "en": "“Well, so’d I; but I’d like to see him, anyway—and track him out—to his Number Two.”",
+  "s": "I",
+  "v": "’d",
+  "chunks": [
+   {"en": "“Well, so’d I;", "ko": "뭐, 나도 그렇긴 해", "r": "인용(대사) + 도치 맞장구"},
+   {"en": "but I’d like to see him, anyway—and track him", "ko": "그래도 난 어쨌든 그놈을 한번 보고 싶어—그리고 뒤를 밟아", "r": "대등절 + 곁말(대시)"},
+   {"en": "out—to his Number Two.”", "ko": "찾아내는 거지—그놈의 '2호'까지", "r": "동사구 마무리 + 전치사구(목적지)"}
+  ],
+  "ko": "\"뭐, 나도 그렇긴 해. 그래도 어쨌든 그놈을 한번 보고 싶어—뒤를 밟아서 그놈의 '2호'까지 찾아내는 거야.\"",
+  "why": "\"so’d I\"는 \"so would I\"의 축약으로 '나도 그래'라는 맞장구인데, 주어와 동사가 뒤집혀 있다(도치). 세미콜론 뒤가 진짜 하고 싶은 말이고, 대시를 두 번 써서 말을 툭툭 이어 붙이는 것은 구어투다. \"track him out\"은 '추적해서 찾아내다'.",
+  "st": [2, 3, 4, 11]
+ },
+ {
+  "id": "27.20.3",
+  "en": "He found that in the best tavern, No. 2 had long been occupied by a young lawyer, and was still so occupied.",
+  "s": "He",
+  "v": "found",
+  "chunks": [
+   {"en": "He found that in the best tavern,", "ko": "그가 알아낸 바로는, 제일 좋은 여관에서는", "r": "주어 + 동사 + 목적어(that절) 시작"},
+   {"en": "No. 2 had long been occupied by a young lawyer,", "ko": "2호실은 오래전부터 젊은 변호사가 쓰고 있었고", "r": "that절 주어 + 동사(수동)"},
+   {"en": "and was still so occupied.", "ko": "지금도 여전히 그렇게 쓰이고 있다는 것이었다", "r": "대등 동사"}
+  ],
+  "ko": "그가 알아낸 바로는, 제일 좋은 여관의 2호실은 오래전부터 젊은 변호사가 쓰고 있었고 지금도 여전히 그렇게 쓰이고 있었다.",
+  "why": "that 바로 뒤에 주어가 나오지 않고 전치사구(in the best tavern)가 먼저 끼어들어 헷갈린다. that절의 진짜 주어는 No. 2다. \"was still so occupied\"의 so는 '그렇게(=변호사가 쓰는 상태로)'를 가리키는 대용어.",
+  "st": []
+ },
+ {
+  "id": "27.20.5",
+  "en": "The tavern-keeper’s young son said it was kept locked all the time, and he never saw anybody go into it or come out of it except at night; he did not know any particular reason for this state of things; had had some little curiosity, but it was rather feeble; had made the most of the mystery by entertaining himself with the idea that that room was “ha’nted”; had noticed that there was a light in there the night before.",
+  "s": "The tavern-keeper’s young son",
+  "v": "said",
+  "chunks": [
+   {"en": "The tavern-keeper’s young son said", "ko": "여관 주인의 어린 아들이 말하기를", "r": "주어 + 동사"},
+   {"en": "it was kept locked all the time,", "ko": "그 방은 늘 잠겨 있고", "r": "목적어(that이 생략된 절)"},
+   {"en": "and he never saw anybody go into it", "ko": "누가 그 안으로 들어가는 것을 한 번도 못 봤고", "r": "대등절(see + 목적어 + 원형동사)"},
+   {"en": "or come out of it except at night;", "ko": "나오는 것도 못 봤다고, 밤을 빼고는", "r": "나열(원형동사) + 전치사구"},
+   {"en": "he did not know any particular reason for this state of things;", "ko": "왜 그런지 특별한 이유는 모르고", "r": "대등절(세미콜론)"},
+   {"en": "had had some little curiosity, but it was rather feeble;", "ko": "조금 궁금하긴 했지만 그리 대단한 호기심은 아니었고", "r": "대등 동사(주어 he 생략) + 반전"},
+   {"en": "had made the most of the mystery", "ko": "그 수수께끼를 최대한 써먹었으며", "r": "대등 동사"},
+   {"en": "by entertaining himself with the idea", "ko": "~라는 생각으로 혼자 재미를 붙이는 식으로", "r": "전치사구(수단)"},
+   {"en": "that that room was “ha’nted”;", "ko": "그 방이 '귀신 들렸다'는", "r": "동격 that절(idea 설명)"},
+   {"en": "had noticed that there was a light in there the night before.", "ko": "그리고 어젯밤엔 그 안에 불이 켜져 있는 것을 봤다고 했다", "r": "대등 동사 + 목적어(that절)"}
+  ],
+  "ko": "여관 주인의 어린 아들 말로는, 그 방은 늘 잠겨 있고 밤 말고는 누가 들어가거나 나오는 것을 한 번도 본 적이 없다고 했다. 왜 그런지 특별한 이유는 모르고, 조금 궁금하긴 했지만 그리 강한 호기심은 아니었다고 했다. 그 방이 '귀신 들린' 방이라고 혼자 상상하며 즐기는 데 그 수수께끼를 실컷 써먹었고, 어젯밤에는 그 안에 불이 켜져 있는 것을 봤다고 했다.",
+  "why": "세미콜론 뒤부터는 주어 he가 생략된 채 동사만 줄줄이 이어진다(had had … / had made … / had noticed …). 전부 맨 앞 said에 걸리는 '~라고 말했다'의 내용이므로, 세미콜론을 만날 때마다 \"(그 애 말로는) 그가 …했다\"를 머릿속에서 다시 넣어 주면 된다. \"make the most of ~\"는 '~을 최대한 활용하다', ha’nted는 haunted(귀신 들린)의 사투리 철자.",
+  "st": [2, 3]
+ },
+ {
+  "id": "27.25.1",
+  "en": "The back door of that No. 2 is the door that comes out into that little close alley between the tavern and the old rattle trap of a brick store.",
+  "s": "The back door",
+  "v": "is",
+  "chunks": [
+   {"en": "The back door of that No. 2 is the door", "ko": "그 2호실 뒷문이 바로 그 문이야", "r": "긴 주어 + 동사 + 보어"},
+   {"en": "that comes out into that little close alley", "ko": "그 좁고 답답한 골목으로 나오는", "r": "관계절(door 설명)"},
+   {"en": "between the tavern and the old rattle trap of a brick store.", "ko": "여관과 그 다 쓰러져 가는 벽돌 가게 사이의", "r": "전치사구(장소)"}
+  ],
+  "ko": "그 2호실 뒷문이 바로 여관하고 그 다 쓰러져 가는 고물 벽돌 가게 사이의 좁다란 골목으로 나오는 문이야.",
+  "why": "주어가 \"The back door of that No. 2\"로 길어 동사 is가 멀리 떨어져 있다. 그 뒤의 that은 '저것'이 아니라 door를 꾸미는 관계대명사(앞 명사를 설명하는 절의 머리말)다. \"the old rattle trap of a brick store\"는 'A of a B' 형태로 '다 쓰러져 가는 고물 같은 벽돌 가게'라는 뜻.",
+  "st": [18]
+ },
+ {
+  "id": "27.25.2",
+  "en": "Now you get hold of all the doorkeys you can find, and I’ll nip all of auntie’s, and the first dark night we’ll go there and try ’em.",
+  "s": "you",
+  "v": "get",
+  "chunks": [
+   {"en": "Now you get hold of all the doorkeys", "ko": "자, 너는 문 열쇠를 죄다 손에 넣어", "r": "주어 + 동사 + 목적어"},
+   {"en": "you can find,", "ko": "네가 찾을 수 있는", "r": "관계절(doorkeys 설명, 관계대명사 생략)"},
+   {"en": "and I’ll nip all of auntie’s,", "ko": "그리고 나는 이모 것을 전부 슬쩍할게", "r": "대등절"},
+   {"en": "and the first dark night we’ll go there and try ’em.", "ko": "그리고 첫 깜깜한 밤에 우린 거기 가서 그걸 하나씩 꽂아 보는 거야", "r": "대등절(시간 + 주어 + 동사)"}
+  ],
+  "ko": "자, 너는 찾을 수 있는 문 열쇠를 몽땅 구해 와. 나는 이모 열쇠를 전부 슬쩍할게. 그리고 첫 깜깜한 밤에 거기 가서 하나씩 다 꽂아 보는 거야.",
+  "why": "and로 세 절이 이어지는 계획 설명이다. \"all the doorkeys (that) you can find\"는 관계대명사가 생략된 형태로 '네가 찾을 수 있는 모든 열쇠'. auntie’s는 auntie’s keys에서 keys가 생략된 소유격이고, nip은 여기서 '슬쩍 훔치다', ’em은 them의 구어.",
+  "st": [2, 14]
+ },
+ {
+  "id": "27.25.3",
+  "en": "And mind you, keep a lookout for Injun Joe, because he said he was going to drop into town and spy around once more for a chance to get his revenge.",
+  "s": "",
+  "v": "keep",
+  "chunks": [
+   {"en": "And mind you, keep a lookout for Injun Joe,", "ko": "그리고 명심해, 인전 조를 잘 지켜보고 있어", "r": "명령문(주어 없음)"},
+   {"en": "because he said he was going to drop into town", "ko": "그놈이 마을에 들를 거라고 했으니까", "r": "부사절(이유) + 목적어절"},
+   {"en": "and spy around once more", "ko": "그리고 한 번 더 여기저기 염탐할 거라고", "r": "대등 동사(was going to에 걸림)"},
+   {"en": "for a chance to get his revenge.", "ko": "복수할 기회를 노리려고", "r": "전치사구(목적)"}
+  ],
+  "ko": "그리고 명심해, 인전 조를 잘 지켜보고 있어. 그놈이 복수할 기회를 노리려고 한 번 더 마을에 들러 여기저기 염탐하고 다닐 거라고 했으니까.",
+  "why": "\"mind you\"는 '명심해, 잊지 마'라는 구어 명령이고, 진짜 명령은 \"keep a lookout for ~\"(~을 잘 지켜보다)이다. because 뒤는 \"he said (that) he was going to drop … and spy …\"로, 동사 두 개가 was going to 하나에 함께 걸린다.",
+  "st": []
+ },
+ {
+  "id": "27.25.4",
+  "en": "If you see him, you just follow him; and if he don’t go to that No. 2, that ain’t the place.”",
+  "s": "you",
+  "v": "follow",
+  "chunks": [
+   {"en": "If you see him,", "ko": "그놈이 보이면", "r": "부사절(조건)"},
+   {"en": "you just follow him;", "ko": "너는 그냥 따라가", "r": "주어 + 동사 + 목적어"},
+   {"en": "and if he don’t go to that No. 2,", "ko": "그리고 그놈이 그 2호실로 안 가면", "r": "부사절(조건)"},
+   {"en": "that ain’t the place.”", "ko": "거긴 그 장소가 아닌 거지", "r": "주절"}
+  ],
+  "ko": "\"그놈이 보이면 그냥 따라가. 그리고 그놈이 그 2호실로 안 가면, 거긴 우리가 찾는 데가 아닌 거야.\"",
+  "why": "\"If …, …; and if …, …\"로 조건문 두 개가 세미콜론을 사이에 두고 나란히 놓였다. 조건절(If ~)이 앞에 올 때는 쉼표 다음부터가 주절이라고 표시 삼아 읽으면 된다. don’t는 doesn’t 대신 쓴 사투리, ain’t는 isn’t의 사투리다.",
+  "st": [2, 3, 8]
+ },
+ {
+  "id": "27.29.1",
+  "en": "Why, he might ’a’ found out he couldn’t get his revenge, and be going right after that money.”",
+  "s": "he",
+  "v": "might ’a’ found",
+  "chunks": [
+   {"en": "Why, he might ’a’ found out", "ko": "아니, 그놈이 알아차렸을 수도 있잖아", "r": "감탄사 + 주어 + 동사(might have)"},
+   {"en": "he couldn’t get his revenge,", "ko": "복수는 못 하겠다는 걸", "r": "목적어(that이 생략된 절)"},
+   {"en": "and be going right after that money.”", "ko": "그러고는 곧장 그 돈을 노리러 가고 있을지도 모르고", "r": "대등(might be going)"}
+  ],
+  "ko": "\"아니, 그놈이 복수는 못 하겠다는 걸 알아차리고 곧장 그 돈을 노리러 가고 있을 수도 있잖아.\"",
+  "why": "’a’는 have의 사투리 철자라 \"might ’a’ found out\"은 \"might have found out\"(알아냈을지도 모른다)이다. 맨 뒤 \"and be going\"은 앞의 might에 다시 걸려 \"might be going\"(가고 있을지도 모른다)이 되는 것이 함정. 맨 앞 Why는 '왜'가 아니라 '아니, 이봐' 정도의 감탄사다.",
+  "st": [2]
+ }
+]

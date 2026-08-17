@@ -1,0 +1,348 @@
+[
+ {
+  "id": "25.0.0",
+  "en": "There comes a time in every rightly-constructed boy’s life when he has a raging desire to go somewhere and dig for hidden treasure.",
+  "s": "a time",
+  "v": "comes",
+  "chunks": [
+   {"en": "There comes a time", "ko": "그런 때가 온다", "r": "유도부사 There + 동사 + 진짜 주어(도치)"},
+   {"en": "in every rightly-constructed boy’s life", "ko": "제대로 생겨먹은 사내아이라면 누구나 그 삶에서", "r": "전치사구(장소·범위)"},
+   {"en": "when he has a raging desire", "ko": "미칠 듯한 욕망에 사로잡히는", "r": "관계절(a time 설명)"},
+   {"en": "to go somewhere and dig for hidden treasure.", "ko": "어딘가로 가서 숨겨진 보물을 파내고 싶다는", "r": "형용사구(desire 수식)"}
+  ],
+  "ko": "제대로 생겨먹은 사내아이라면 누구나 살면서 한 번쯤, 어딘가로 가서 숨겨진 보물을 파내고 싶다는 미칠 듯한 욕망에 사로잡히는 때가 온다.",
+  "why": "\"There comes ~\"는 '~가 온다'는 도치 문장이라 진짜 주어는 동사 뒤의 a time이다. 뒤의 when은 '언제'를 묻는 말이 아니라 a time을 설명하는 관계절(그런 때)이니, '~하게 되는 때가 온다'로 뒤에서 앞으로 붙여 읽으면 된다.",
+  "st": [11, 17]
+ },
+ {
+  "id": "25.0.8",
+  "en": "Huck was always willing to take a hand in any enterprise that offered entertainment and required no capital, for he had a troublesome superabundance of that sort of time which is not money.",
+  "s": "Huck",
+  "v": "was",
+  "chunks": [
+   {"en": "Huck was always willing to take a hand", "ko": "헉은 언제나 기꺼이 한몫 거들 마음이 있었다", "r": "주어 + 동사 + 보어"},
+   {"en": "in any enterprise that offered entertainment", "ko": "재미를 주는 일이라면 어떤 일에든", "r": "전치사구 + 관계절(enterprise 설명)"},
+   {"en": "and required no capital,", "ko": "그리고 밑천이 전혀 들지 않는", "r": "관계절(나열)"},
+   {"en": "for he had a troublesome superabundance", "ko": "왜냐하면 그에게는 골칫거리일 만큼 넘쳐나는 게 있었으니까", "r": "부사절(이유, for=because)"},
+   {"en": "of that sort of time which is not money.", "ko": "돈이 되지 않는 그런 종류의 시간이", "r": "전치사구 + 관계절(time 설명)"}
+  ],
+  "ko": "헉은 재미만 있고 밑천이 들지 않는 일이라면 언제든 기꺼이 한몫 거들었다. 돈이 되지 않는 그런 시간이라면 골치가 아플 만큼 넘치도록 가지고 있었기 때문이다.",
+  "why": "쉼표 뒤의 for는 '~을 위해'가 아니라 '왜냐하면'(이유)이다. that offered … and required … 는 둘 다 enterprise를 꾸미는 관계절이고, 맨 뒤 which is not money는 time을 꾸민다. \"Time is money(시간은 돈이다)\"라는 속담을 뒤집은 농담으로, 헉에게는 돈 안 되는 시간만 남아돈다는 뜻.",
+  "st": [13]
+ },
+ {
+  "id": "25.3.1",
+  "en": "It’s hid in mighty particular places, Huck—sometimes on islands, sometimes in rotten chests under the end of a limb of an old dead tree, just where the shadow falls at midnight; but mostly under the floor in ha’nted houses.”",
+  "s": "It",
+  "v": "’s hid",
+  "chunks": [
+   {"en": "It’s hid in mighty particular places,", "ko": "그건 아주 특별한 곳에만 숨겨져 있어", "r": "주어 + 동사(수동) + 전치사구(장소)"},
+   {"en": "Huck—sometimes on islands,", "ko": "헉, 어떤 때는 섬에", "r": "부름말 + 곁말(대시 뒤 예시)"},
+   {"en": "sometimes in rotten chests", "ko": "어떤 때는 썩은 궤짝 속에", "r": "예시(나열)"},
+   {"en": "under the end of a limb of an old dead tree,", "ko": "늙어 죽은 나무의 가지 끝 아래", "r": "전치사구(장소)"},
+   {"en": "just where the shadow falls at midnight;", "ko": "바로 자정에 그림자가 떨어지는 자리에", "r": "관계부사절(장소)"},
+   {"en": "but mostly under the floor in ha’nted houses.”", "ko": "하지만 대개는 유령 나오는 집 마룻바닥 밑이지", "r": "대등(반전) + 전치사구"}
+  ],
+  "ko": "그건 아주 특별한 곳에만 숨겨져 있어, 헉. 어떤 때는 섬에, 어떤 때는 늙어 죽은 나무의 가지 끝 아래 썩은 궤짝 속에—바로 자정에 그림자가 떨어지는 그 자리에 말이야. 하지만 대개는 유령 나오는 집 마룻바닥 밑이야.",
+  "why": "\"It’s hid\"는 It is hidden(숨겨져 있다)의 구어 형태다. 대시 뒤의 sometimes … sometimes … but mostly … 는 전부 '어디에' 숨겨져 있는지를 나열하는 예시일 뿐이니 하나로 묶어 읽을 것. just where the shadow falls는 '그림자가 떨어지는 바로 그 자리'라는 장소 표현이고, ha’nted는 haunted(유령이 나오는)의 사투리 철자다.",
+  "st": [2, 3, 4]
+ },
+ {
+  "id": "25.9.1",
+  "en": "Anyway, it lays there a long time and gets rusty; and by and by somebody finds an old yellow paper that tells how to find the marks—a paper that’s got to be ciphered over about a week because it’s mostly signs and hy’roglyphics.”",
+  "s": "it",
+  "v": "lays",
+  "chunks": [
+   {"en": "Anyway, it lays there a long time", "ko": "아무튼 그건 거기 오랫동안 놓여 있다가", "r": "부사 + 주어 + 동사 + 시간"},
+   {"en": "and gets rusty;", "ko": "녹슬어 버려", "r": "대등 동사"},
+   {"en": "and by and by somebody finds an old yellow paper", "ko": "그러다 이윽고 누군가가 누렇게 바랜 낡은 종이를 발견하지", "r": "대등절"},
+   {"en": "that tells how to find the marks—a paper", "ko": "표식 찾는 법이 적힌—그런데 그 종이란 게", "r": "관계절(paper 설명) + 곁말(대시로 되짚기)"},
+   {"en": "that’s got to be ciphered over about a week", "ko": "일주일쯤 붙들고 해독해야 하는 물건이야", "r": "관계절(a paper 설명)"},
+   {"en": "because it’s mostly signs and hy’roglyphics.”", "ko": "온통 기호랑 상형문자투성이라서", "r": "부사절(이유)"}
+  ],
+  "ko": "아무튼 그건 거기 오랫동안 놓여 있다가 녹슬어 버리고, 이윽고 누군가가 표식 찾는 법이 적힌 누렇게 바랜 낡은 종이를 발견하는 거야—온통 기호랑 상형문자라서 일주일쯤 붙들고 해독해야 하는 그런 종이 말이지.",
+  "why": "세미콜론으로 두 덩어리가 이어진다. 대시 뒤의 a paper는 새 문장이 아니라 앞의 an old yellow paper를 다시 집어 설명을 덧붙인 것(동격)이다. lays는 lies(놓여 있다)의 구어, cipher over는 '(암호를) 풀어 읽다'라는 뜻.",
+  "st": [2, 3, 4]
+ },
+ {
+  "id": "25.15.1",
+  "en": "They always bury it under a ha’nted house or on an island, or under a dead tree that’s got one limb sticking out.",
+  "s": "They",
+  "v": "bury",
+  "chunks": [
+   {"en": "They always bury it under a ha’nted house", "ko": "걔들은 늘 유령 나오는 집 밑에 그걸 묻어", "r": "주어 + 동사 + 목적어 + 전치사구(장소)"},
+   {"en": "or on an island,", "ko": "아니면 섬에", "r": "나열(장소)"},
+   {"en": "or under a dead tree", "ko": "아니면 죽은 나무 밑에", "r": "나열(장소)"},
+   {"en": "that’s got one limb sticking out.", "ko": "가지 하나가 삐죽 뻗어 나온 (그런 나무)", "r": "관계절(tree 설명)"}
+  ],
+  "ko": "걔들은 늘 유령 나오는 집 밑이나 섬에, 아니면 가지 하나가 삐죽 뻗어 나온 죽은 나무 밑에 그걸 묻어 둬.",
+  "why": "under … or on … or under … 로 장소를 세 군데 나열한 문장이다. that’s got은 that has got(가지고 있다)의 구어이고, one limb sticking out은 '가지 하나가 삐죽 나와 있는'이라는 뜻으로 앞의 tree를 꾸민다.",
+  "st": [2]
+ },
+ {
+  "id": "25.15.2",
+  "en": "Well, we’ve tried Jackson’s Island a little, and we can try it again some time; and there’s the old ha’nted house up the Still-House branch, and there’s lots of dead-limb trees—dead loads of ’em.”",
+  "s": "we",
+  "v": "’ve tried",
+  "chunks": [
+   {"en": "Well, we’ve tried Jackson’s Island a little,", "ko": "음, 잭슨 섬은 좀 파 봤고", "r": "주어 + 동사 + 목적어"},
+   {"en": "and we can try it again some time;", "ko": "언젠가 다시 해 볼 수도 있지", "r": "대등절"},
+   {"en": "and there’s the old ha’nted house", "ko": "그리고 그 낡은 유령의 집이 있잖아", "r": "대등절(there is 구문)"},
+   {"en": "up the Still-House branch,", "ko": "증류소 개울 위쪽에", "r": "전치사구(장소)"},
+   {"en": "and there’s lots of dead-limb trees—dead loads of ’em.”", "ko": "죽은 가지 달린 나무도 많고—그런 건 지천으로 널렸어", "r": "대등절 + 곁말(대시로 강조)"}
+  ],
+  "ko": "음, 잭슨 섬은 좀 파 봤고 언젠가 다시 해 볼 수도 있지. 그리고 증류소 개울 위쪽에 그 낡은 유령의 집이 있고, 죽은 가지 달린 나무도 많잖아—그런 건 지천으로 널렸다고.",
+  "why": "세미콜론 뒤로 \"there’s … and there’s …\"(~가 있다)가 이어진다. there’s lots of는 문법적으로는 there are가 맞지만 구어에서는 흔한 형태다. 맨 뒤 dead loads of ’em은 '그런 게 엄청 많다'는 구어 과장으로, 앞의 dead-limb(죽은 가지)과 dead가 겹쳐 말장난처럼 들린다.",
+  "st": [2, 3, 4, 17]
+ },
+ {
+  "id": "25.34.0",
+  "en": "“Shucks, I only meant you’d see ’em—not hopping, of course—what do they want to hop for?—but I mean you’d just see ’em—scattered around, you know, in a kind of a general way.",
+  "s": "I",
+  "v": "meant",
+  "chunks": [
+   {"en": "“Shucks, I only meant you’d see ’em—not hopping,", "ko": "에이, 난 그냥 네가 걔들을 보게 될 거라는 뜻이었어—깡충깡충 뛴다는 게 아니라", "r": "인용(대사) 주어 + 동사 + 목적어절 + 곁말(대시)"},
+   {"en": "of course—what do they want to hop for?—but", "ko": "당연하지—대체 왜 뛰겠냐?—아무튼", "r": "곁말(대시 삽입 반문) + 접속"},
+   {"en": "I mean you’d just see ’em—scattered around,", "ko": "내 말은 그냥 걔들이 보인다는 거야—여기저기 흩어져서", "r": "주어 + 동사 + 목적어절 + 곁말(대시)"},
+   {"en": "you know, in a kind of a general way.", "ko": "그러니까, 뭐랄까 그냥 두루두루 말이야", "r": "삽입 + 전치사구(방식)"}
+  ],
+  "ko": "\"에이, 난 그냥 네가 걔들을 보게 될 거라는 뜻이었어—물론 깡충깡충 뛰는 건 아니고—대체 왜 뛰겠냐?—아무튼 그냥 여기저기 흩어져 있는 걸 보게 될 거라는 얘기야, 뭐랄까 그냥 두루두루 말이지.\"",
+  "why": "대시(—)로 말이 계속 끊기며 변명이 덧붙는 구어체 문장이다. 뼈대는 \"I only meant you’d see ’em … but I mean you’d just see ’em\" 하나뿐이고, 대시 사이의 not hopping, of course와 what do they want to hop for?는 톰이 스스로 끼워 넣은 곁말이다. \"What … for?\"는 '왜 ~해?'라는 구어 의문문.",
+  "st": [2, 4]
+ },
+ {
+  "id": "25.39.0",
+  "en": "“Well, if they like it, Tom, all right; but I don’t want to be a king and have only just a given name, like a nigger.",
+  "s": "I",
+  "v": "don’t want",
+  "chunks": [
+   {"en": "“Well, if they like it, Tom, all right;", "ko": "뭐, 걔들이 그게 좋다면야, 톰, 상관없어", "r": "부사절(조건) + 주절(it’s 생략)"},
+   {"en": "but I don’t want to be a king", "ko": "하지만 난 왕이 되고 싶진 않아", "r": "대등절(반전) 주어 + 동사"},
+   {"en": "and have only just a given name,", "ko": "그래서 이름 하나만 달랑 갖고 사는 것도", "r": "대등(want to에 이어지는 두 번째 행동)"},
+   {"en": "like a nigger.", "ko": "흑인 노예처럼 말이야", "r": "전치사구(비유)"}
+  ],
+  "ko": "\"뭐, 걔들이 그게 좋다면야 상관없어, 톰. 하지만 난 왕이 돼서 흑인처럼 이름 하나만 달랑 갖고 사는 건 싫어.",
+  "why": "\"want to be … and have …\"에서 have는 want to에 이어지는 두 번째 행동이다(and 뒤에 to가 생략된 것). 즉 '왕이 되어 이름 하나만 갖는 것'을 싫다고 하는 것이다. 앞의 all right은 It’s all right에서 주어·동사가 빠진 구어. 마지막 단어는 19세기 미국의 흑인 비하어로, 오늘날에는 절대 쓰지 않는 말이다.",
+  "st": [2, 3]
+ },
+ {
+  "id": "25.42.1",
+  "en": "They arrived hot and panting, and threw themselves down in the shade of a neighboring elm to rest and have a smoke.",
+  "s": "They",
+  "v": "arrived",
+  "chunks": [
+   {"en": "They arrived hot and panting,", "ko": "둘은 더위에 헐떡이며 도착했고", "r": "주어 + 동사 + 보어(상태)"},
+   {"en": "and threw themselves down", "ko": "몸을 털썩 던지듯 드러누웠다", "r": "대등 동사"},
+   {"en": "in the shade of a neighboring elm", "ko": "옆에 있는 느릅나무 그늘에", "r": "전치사구(장소)"},
+   {"en": "to rest and have a smoke.", "ko": "쉬면서 담배 한 대 피우려고", "r": "목적(to부정사)"}
+  ],
+  "ko": "둘은 더위에 헐떡이며 도착해서는, 옆에 있는 느릅나무 그늘에 몸을 털썩 던지고 드러누워 쉬면서 담배를 한 대 피웠다.",
+  "why": "hot and panting은 arrived를 꾸미는 상태 표현이라 '뜨거운'이 아니라 '더워서 헐떡이는 채로 도착했다'는 뜻이다. threw themselves down은 '몸을 던지듯 드러눕다'라는 관용 표현이고, 맨 뒤 to rest and have a smoke는 '~하려고'라는 목적을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "25.50.1",
+  "en": "Pap would come back to thish-yer town some day and get his claws on it if I didn’t hurry up, and I tell you he’d clean it out pretty quick.",
+  "s": "Pap",
+  "v": "would come",
+  "chunks": [
+   {"en": "Pap would come back to thish-yer town some day", "ko": "아빠가 언젠가 이 동네로 돌아와서", "r": "주어 + 동사 + 전치사구(장소) + 시간"},
+   {"en": "and get his claws on it", "ko": "그 돈에 발톱을 들이댈걸", "r": "대등 동사"},
+   {"en": "if I didn’t hurry up,", "ko": "내가 서둘러 써 버리지 않으면", "r": "부사절(조건, 가정법)"},
+   {"en": "and I tell you he’d clean it out pretty quick.", "ko": "그리고 정말이지 아빠는 순식간에 몽땅 털어 갈 거야", "r": "대등절 + 목적어절"}
+  ],
+  "ko": "내가 서둘러 다 써 버리지 않으면 아빠가 언젠가 이 동네로 돌아와서 그 돈에 발톱을 들이댈 거야. 정말이지 눈 깜짝할 새에 몽땅 털어 가고 말걸.",
+  "why": "\"would … if I didn’t …\"는 '내가 ~하지 않는다면 …할 것이다'라는 가정법(실제와 다른 상황을 상상하는 말)이다. thish-yer는 this here(바로 이)의 사투리 철자, get his claws on it은 '발톱을 들이대다', 곧 '가로채다'라는 뜻이며 I tell you는 '정말이지'라는 강조 표현이다.",
+  "st": [2, 12]
+ },
+ {
+  "id": "25.51.0",
+  "en": "“I’m going to buy a new drum, and a sure’nough sword, and a red necktie and a bull pup, and get married.”",
+  "s": "I",
+  "v": "’m going to buy",
+  "chunks": [
+   {"en": "“I’m going to buy a new drum,", "ko": "난 새 북을 살 거야", "r": "주어 + 동사 + 목적어"},
+   {"en": "and a sure’nough sword,", "ko": "그리고 진짜배기 칼도", "r": "목적어(나열)"},
+   {"en": "and a red necktie and a bull pup,", "ko": "빨간 넥타이랑 불독 강아지도", "r": "목적어(나열)"},
+   {"en": "and get married.”", "ko": "그리고 결혼도 할 거야", "r": "대등 동사(going to에 이어짐)"}
+  ],
+  "ko": "\"난 새 북이랑 진짜배기 칼, 빨간 넥타이랑 불독 강아지를 살 거야. 그리고 결혼도 하고.\"",
+  "why": "and로 사고 싶은 것을 계속 이어 붙이는 어린아이 말투다. 다만 마지막 and get married는 목적어가 아니라 I’m going to에 이어지는 두 번째 동사(결혼도 할 거야)라서 앞의 나열과 층이 다르다. sure’nough는 sure enough(진짜배기)의 구어 철자.",
+  "st": [2, 14]
+ },
+ {
+  "id": "25.78.1",
+  "en": "We’ve got to do it tonight, too, because if somebody sees these holes they’ll know in a minute what’s here and they’ll go for it.”",
+  "s": "We",
+  "v": "’ve got to do",
+  "chunks": [
+   {"en": "We’ve got to do it tonight, too,", "ko": "게다가 우린 오늘 밤에 해치워야 해", "r": "주어 + 동사 + 목적어 + 시간"},
+   {"en": "because if somebody sees these holes", "ko": "왜냐하면 누가 이 구덩이들을 보면", "r": "부사절(이유) 안의 조건절"},
+   {"en": "they’ll know in a minute what’s here", "ko": "여기 뭐가 있는지 금방 알아챌 거고", "r": "주어 + 동사 + 목적어절"},
+   {"en": "and they’ll go for it.”", "ko": "달려들어 차지해 버릴 테니까", "r": "대등절"}
+  ],
+  "ko": "게다가 우린 오늘 밤에 해치워야 해. 누가 이 구덩이들을 보면 여기 뭐가 있는지 금방 눈치채고 달려들어 차지해 버릴 테니까.",
+  "why": "because 바로 뒤에 if절이 또 나와 조건이 이중으로 겹친다(왜냐하면 → 만약 ~하면 → ~할 것이므로). what’s here는 '여기 뭐가 있는지'라는 의문사절로 know의 목적어이고, go for it은 '달려들어 차지하다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "25.81.3",
+  "en": "Spirits whispered in the rustling leaves, ghosts lurked in the murky nooks, the deep baying of a hound floated up out of the distance, an owl answered with his sepulchral note.",
+  "s": "Spirits",
+  "v": "whispered",
+  "chunks": [
+   {"en": "Spirits whispered in the rustling leaves,", "ko": "정령들이 바스락거리는 나뭇잎 속에서 속삭였고", "r": "주어 + 동사 + 전치사구(장소)"},
+   {"en": "ghosts lurked in the murky nooks,", "ko": "유령들은 어두컴컴한 구석에 도사리고 있었으며", "r": "대등절(주어 + 동사)"},
+   {"en": "the deep baying of a hound floated up out of the distance,", "ko": "사냥개의 낮고 깊은 울부짖음이 저 멀리서 떠올라 왔고", "r": "대등절(긴 주어 + 동사)"},
+   {"en": "an owl answered with his sepulchral note.", "ko": "올빼미가 무덤 속 같은 울음소리로 화답했다", "r": "대등절(주어 + 동사)"}
+  ],
+  "ko": "정령들이 바스락거리는 나뭇잎 속에서 속삭였고, 유령들은 어두컴컴한 구석에 도사리고 있었다. 사냥개의 낮고 깊은 울부짖음이 저 멀리서 떠올라 오자 올빼미가 무덤 속 같은 울음소리로 화답했다.",
+  "why": "and 같은 접속사 없이 쉼표만으로 짧은 절 네 개를 나란히 늘어놓아 으스스한 분위기를 쌓는 문장이다. 절마다 '주어 + 동사'만 짚으면 된다(Spirits whispered / ghosts lurked / baying floated / owl answered). 세 번째 절은 주어가 the deep baying of a hound로 길어 동사 floated가 멀리 떨어져 있다.",
+  "st": [18]
+ },
+ {
+  "id": "25.81.5",
+  "en": "By and by they judged that twelve had come; they marked where the shadow fell, and began to dig.",
+  "s": "they",
+  "v": "judged",
+  "chunks": [
+   {"en": "By and by they judged", "ko": "이윽고 둘은 판단했다", "r": "부사 + 주어 + 동사"},
+   {"en": "that twelve had come;", "ko": "열두 시가 되었다고", "r": "목적어(that절)"},
+   {"en": "they marked where the shadow fell,", "ko": "둘은 그림자가 떨어진 자리에 표시를 하고", "r": "대등절 + 목적어절"},
+   {"en": "and began to dig.", "ko": "파기 시작했다", "r": "대등 동사"}
+  ],
+  "ko": "이윽고 둘은 열두 시가 되었다고 판단했다. 그림자가 떨어진 자리에 표시를 하고 파기 시작했다.",
+  "why": "세미콜론이 마침표 노릇을 하며 두 문장을 잇는다. twelve는 '열둘'이 아니라 '열두 시(자정)'이고, had come은 judged보다 먼저 일어난 일을 나타내는 과거완료다. where the shadow fell은 '어디에'를 묻는 말이 아니라 marked의 목적어(그림자가 떨어진 자리)이다.",
+  "st": [3]
+ },
+ {
+  "id": "25.81.8",
+  "en": "The hole deepened and still deepened, but every time their hearts jumped to hear the pick strike upon something, they only suffered a new disappointment.",
+  "s": "The hole",
+  "v": "deepened",
+  "chunks": [
+   {"en": "The hole deepened and still deepened,", "ko": "구덩이는 깊어지고 또 깊어졌다", "r": "주어 + 동사(반복 강조)"},
+   {"en": "but every time their hearts jumped", "ko": "하지만 가슴이 철렁 뛸 때마다", "r": "대등절(반전) + 부사절(때)"},
+   {"en": "to hear the pick strike upon something,", "ko": "곡괭이가 뭔가에 부딪히는 소리를 듣고서", "r": "원인(to부정사: ~해서)"},
+   {"en": "they only suffered a new disappointment.", "ko": "돌아오는 건 새로운 실망뿐이었다", "r": "주절 주어 + 동사 + 목적어"}
+  ],
+  "ko": "구덩이는 깊어지고 또 깊어졌다. 하지만 곡괭이가 뭔가에 부딪히는 소리에 가슴이 철렁 뛸 때마다, 돌아오는 것은 새로운 실망뿐이었다.",
+  "why": "every time … 은 '~할 때마다'라는 부사절이고, 진짜 주절은 그 뒤의 they only suffered … 다. 여기서 to hear는 '듣기 위해'가 아니라 '듣고서(그래서)'라는 원인·계기의 to부정사이며, hear the pick strike는 '곡괭이가 부딪히는 것을 듣다'(지각동사 뒤 원형동사)이다.",
+  "st": [8]
+ },
+ {
+  "id": "25.88.3",
+  "en": "We can’t ever tell the right time, and besides this kind of thing’s too awful, here this time of night with witches and ghosts a-fluttering around so.",
+  "s": "We",
+  "v": "can’t ever tell",
+  "chunks": [
+   {"en": "We can’t ever tell the right time,", "ko": "우린 정확한 시각을 도저히 알 수가 없어", "r": "주어 + 동사 + 목적어"},
+   {"en": "and besides this kind of thing’s too awful,", "ko": "게다가 이런 짓은 너무 무섭다고", "r": "대등절(주어 + 동사 + 보어)"},
+   {"en": "here this time of night", "ko": "이 한밤중에 이런 데서", "r": "장소 + 시간"},
+   {"en": "with witches and ghosts a-fluttering around so.", "ko": "마녀랑 유령이 이렇게 주위를 팔랑거리며 돌아다니는데", "r": "전치사구(with + 명사 + ~ing, 상황)"}
+  ],
+  "ko": "우린 정확한 시각을 도저히 알 수가 없어. 게다가 마녀랑 유령이 이렇게 주위를 팔랑거리며 돌아다니는 이 한밤중에, 이런 데서 이런 짓을 하는 건 너무 무섭다고.",
+  "why": "thing’s는 소유격이 아니라 thing is의 줄임이다(이런 종류의 일은 ~하다). a-fluttering의 a-는 옛 시골 말투에서 ~ing 앞에 붙는 접두사일 뿐이라 뜻은 fluttering과 같다. \"with + 명사 + ~ing\"는 '~가 …하고 있는 가운데'라는 상황 설명이다.",
+  "st": [2]
+ },
+ {
+  "id": "25.88.4",
+  "en": "I feel as if something’s behind me all the time; and I’m afeard to turn around, becuz maybe there’s others in front a-waiting for a chance.",
+  "s": "I",
+  "v": "feel",
+  "chunks": [
+   {"en": "I feel as if something’s behind me all the time;", "ko": "난 내내 뒤에 뭔가 있는 것 같은 느낌이 들어", "r": "주어 + 동사 + as if절(마치 ~인 것처럼)"},
+   {"en": "and I’m afeard to turn around,", "ko": "그리고 돌아보기가 무서워", "r": "대등절 + 보어 + to부정사"},
+   {"en": "becuz maybe there’s others in front", "ko": "왜냐하면 어쩌면 앞쪽에도 다른 것들이 있을지 모르니까", "r": "부사절(이유) + there is 구문"},
+   {"en": "a-waiting for a chance.", "ko": "기회를 노리며 기다리고 있는", "r": "분사(others 수식)"}
+  ],
+  "ko": "난 내내 뒤에 뭔가 있는 것만 같아. 그래서 돌아보기가 무서워. 어쩌면 앞쪽에도 기회를 노리고 기다리는 놈들이 있을지 모르잖아.",
+  "why": "as if 뒤에는 '마치 ~인 것 같다'는 내용이 온다. afeard는 afraid, becuz는 because의 사투리 철자이고, a-waiting은 waiting과 같다(옛 시골 말투의 a-). there’s others는 원래 there are others가 맞지만 구어에서는 흔히 이렇게 쓴다.",
+  "st": [2, 3, 10]
+ },
+ {
+  "id": "25.101.2",
+  "en": "Dead people might talk, maybe, but they don’t come sliding around in a shroud, when you ain’t noticing, and peep over your shoulder all of a sudden and grit their teeth, the way a ghost does.",
+  "s": "Dead people",
+  "v": "might talk",
+  "chunks": [
+   {"en": "Dead people might talk, maybe,", "ko": "죽은 사람이야 말을 할지도 모르지, 어쩌면", "r": "주어 + 동사 + 삽입(부사)"},
+   {"en": "but they don’t come sliding around in a shroud,", "ko": "하지만 수의를 걸치고 스르르 다가오지는 않잖아", "r": "대등절(반전) 주어 + 동사"},
+   {"en": "when you ain’t noticing,", "ko": "네가 눈치채지 못하고 있을 때", "r": "부사절(때, 삽입)"},
+   {"en": "and peep over your shoulder all of a sudden", "ko": "그러고는 느닷없이 어깨 너머로 들여다보고", "r": "대등 동사(don’t에 이어짐)"},
+   {"en": "and grit their teeth,", "ko": "이를 빠득빠득 갈지도 (않잖아)", "r": "대등 동사"},
+   {"en": "the way a ghost does.", "ko": "유령이 그러는 식으로 말이야", "r": "부사절(방식, the way = ~처럼)"}
+  ],
+  "ko": "죽은 사람이야 말을 할지도 모르지. 하지만 유령처럼, 네가 눈치도 못 채고 있을 때 수의를 걸치고 스르르 다가와서는 느닷없이 어깨 너머로 들여다보며 이를 빠득빠득 갈지는 않잖아.",
+  "why": "동사 세 개(come sliding, peep, grit)가 모두 앞의 don’t에 걸린다는 것이 핵심이다(~하지도, ~하지도, ~하지도 않는다). 중간에 when you ain’t noticing이 끼어들어 흐름이 끊기니 괄호로 묶어 두고 읽을 것. 맨 뒤 the way a ghost does는 '유령이 그러는 것처럼'이라는 방식 표현이다.",
+  "st": [2, 14]
+ },
+ {
+  "id": "25.104.0",
+  "en": "“Well, that’s mostly because they don’t like to go where a man’s been murdered, anyway—but nothing’s ever been seen around that house except in the night—just some blue lights slipping by the windows—no regular ghosts.”",
+  "s": "that",
+  "v": "’s",
+  "chunks": [
+   {"en": "“Well, that’s mostly because", "ko": "뭐, 그건 대개 ~때문이야", "r": "주어 + 동사 + 보어절 시작"},
+   {"en": "they don’t like to go where a man’s been murdered,", "ko": "사람이 살해당한 곳엔 가기 싫어하니까", "r": "이유 내용 + 부사절(장소)"},
+   {"en": "anyway—but nothing’s ever been seen around that house", "ko": "어쨌든—하지만 그 집 주변에서 뭔가가 목격된 적은 없어", "r": "곁말(대시) + 대등절(현재완료 수동)"},
+   {"en": "except in the night—just some blue lights", "ko": "밤을 빼면 말이야—그저 푸른 불빛 몇 개가", "r": "전치사구 + 곁말(대시로 바꿔 말하기)"},
+   {"en": "slipping by the windows—no regular ghosts.”", "ko": "창문가를 스쳐 지나갈 뿐, 제대로 된 유령은 아니야", "r": "분사(lights 수식) + 곁말"}
+  ],
+  "ko": "\"뭐, 그건 대개 사람이 살해당한 곳엔 다들 가기 싫어해서 그런 거지. 어쨌든 그 집 근처에서 뭔가가 목격된 적은 밤 말고는 없어—창문가를 스쳐 지나가는 푸른 불빛 몇 개뿐이지, 제대로 된 유령은 아니라고.\"",
+  "why": "대시(—)로 말을 계속 고쳐 붙여 나가는 구어 문장이다. nothing’s ever been seen은 '아무것도 목격된 적이 없다'는 현재완료 수동이고, 뒤이어 나오는 대시들은 그 말을 조금씩 수정·보충한다(밤만 빼고 → 푸른 불빛뿐 → 진짜 유령은 아님). a man’s been murdered의 ’s는 is가 아니라 has다.",
+  "st": [4]
+ },
+ {
+  "id": "25.105.0",
+  "en": "“Well, where you see one of them blue lights flickering around, Tom, you can bet there’s a ghost mighty close behind it.",
+  "s": "you",
+  "v": "can bet",
+  "chunks": [
+   {"en": "“Well, where you see one of them blue lights", "ko": "음, 그 푸른 불빛 중 하나가 보이는 곳이라면", "r": "부사절(장소)이 앞에 옴"},
+   {"en": "flickering around, Tom,", "ko": "주위에서 깜빡이는 게 (보이면), 톰", "r": "분사(lights 수식) + 부름말"},
+   {"en": "you can bet there’s a ghost", "ko": "장담하는데 유령이 있는 거야", "r": "주절 주어 + 동사 + 목적어절(there is)"},
+   {"en": "mighty close behind it.", "ko": "그 바로 뒤에 아주 가까이", "r": "부사 + 전치사구(장소)"}
+  ],
+  "ko": "\"음, 그 푸른 불빛 중 하나가 주위에서 깜빡이는 게 보이면 말이야, 톰, 장담하는데 그 바로 뒤에 유령이 아주 가까이 붙어 있는 거야.",
+  "why": "where로 시작하는 부사절(~하는 곳에서는)이 문장 앞에 나오는 바람에 주절인 you can bet이 한참 뒤로 밀렸다. them blue lights는 those blue lights의 사투리이고, \"see … flickering\"은 '~가 깜빡이는 것을 보다'(지각동사 뒤 ~ing)이다. mighty는 '아주'라는 구어 부사.",
+  "st": [2, 8, 17]
+ },
+ {
+  "id": "25.108.1",
+  "en": "There in the middle of the moonlit valley below them stood the “ha’nted” house, utterly isolated, its fences gone long ago, rank weeds smothering the very doorsteps, the chimney crumbled to ruin, the window-sashes vacant, a corner of the roof caved in.",
+  "s": "the “ha’nted” house",
+  "v": "stood",
+  "chunks": [
+   {"en": "There in the middle of the moonlit valley below them", "ko": "저 아래 달빛 어린 골짜기 한복판에", "r": "장소(문장 앞으로 나옴)"},
+   {"en": "stood the “ha’nted” house, utterly isolated,", "ko": "그 '유령 나오는' 집이 완전히 외따로 서 있었다", "r": "동사 + 주어(도치) + 보어"},
+   {"en": "its fences gone long ago,", "ko": "울타리는 오래전에 사라졌고", "r": "독립분사구문(명사 + 분사)"},
+   {"en": "rank weeds smothering the very doorsteps,", "ko": "무성한 잡초가 현관 계단까지 뒤덮었으며", "r": "독립분사구문"},
+   {"en": "the chimney crumbled to ruin,", "ko": "굴뚝은 폭삭 무너졌고", "r": "독립분사구문"},
+   {"en": "the window-sashes vacant,", "ko": "창틀은 텅 비었으며", "r": "독립분사구문(분사 생략)"},
+   {"en": "a corner of the roof caved in.", "ko": "지붕 한 귀퉁이는 내려앉아 있었다", "r": "독립분사구문"}
+  ],
+  "ko": "저 아래 달빛 어린 골짜기 한복판에 그 '유령 나오는' 집이 완전히 외따로 서 있었다. 울타리는 오래전에 사라졌고, 무성한 잡초가 현관 계단까지 뒤덮었으며, 굴뚝은 폭삭 무너지고, 창틀은 텅 비었고, 지붕 한 귀퉁이는 내려앉아 있었다.",
+  "why": "장소를 나타내는 말이 문장 앞으로 나오면서 동사 stood가 주어 the “ha’nted” house 앞으로 튀어나온 도치 문장이다. 쉼표 뒤에 이어지는 its fences gone, rank weeds smothering … 은 모두 '~은 …한 채로'라는 독립분사구문으로, 집의 상태를 하나씩 덧붙인 묘사일 뿐 새로운 문장이 아니다.",
+  "st": [11, 18]
+ },
+ {
+  "id": "25.108.2",
+  "en": "The boys gazed awhile, half expecting to see a blue light flit past a window; then talking in a low tone, as befitted the time and the circumstances, they struck far off to the right, to give the haunted house a wide berth, and took their way homeward through the woods that adorned the rearward side of Cardiff Hill.",
+  "s": "The boys",
+  "v": "gazed",
+  "chunks": [
+   {"en": "The boys gazed awhile,", "ko": "소년들은 잠시 바라보았다", "r": "주어 + 동사 + 시간"},
+   {"en": "half expecting to see a blue light flit past a window;", "ko": "푸른 불빛이 창문을 스쳐 가는 걸 반쯤은 기대하면서", "r": "분사구문(~하면서)"},
+   {"en": "then talking in a low tone,", "ko": "그러고는 낮은 목소리로 이야기하며", "r": "분사구문(~하면서)"},
+   {"en": "as befitted the time and the circumstances,", "ko": "시간과 상황에 걸맞게", "r": "부사절(방식)"},
+   {"en": "they struck far off to the right,", "ko": "둘은 오른쪽으로 멀찍이 방향을 틀었다", "r": "주어 + 동사"},
+   {"en": "to give the haunted house a wide berth,", "ko": "유령의 집을 크게 피해 가려고", "r": "목적(to부정사)"},
+   {"en": "and took their way homeward", "ko": "그리고 집 쪽으로 발길을 옮겼다", "r": "대등 동사"},
+   {"en": "through the woods that adorned the rearward side of Cardiff Hill.", "ko": "카디프 힐 뒤편을 수놓은 숲을 지나", "r": "전치사구 + 관계절(woods 설명)"}
+  ],
+  "ko": "소년들은 푸른 불빛이 창문을 스쳐 가는 것을 반쯤은 기대하며 잠시 바라보았다. 그러고는 시간과 상황에 걸맞게 낮은 목소리로 이야기하면서, 유령의 집을 멀찍이 피해 가려고 오른쪽으로 크게 돌아, 카디프 힐 뒤편을 수놓은 숲을 지나 집으로 향했다.",
+  "why": "세미콜론 뒤의 then talking … 은 아직 주어가 나오지 않은 분사구문이고, 진짜 주어·동사는 그 뒤의 they struck … 이다. 분사구문이 주어보다 앞에 올 수 있다는 것만 알면 헷갈리지 않는다. \"give … a wide berth\"는 '멀찍이 피해 가다'라는 관용구로, 원래는 배가 다른 배를 넉넉히 비켜 가는 항해 표현이다.",
+  "st": [3, 6]
+ }
+]

@@ -1,0 +1,845 @@
+[
+ {
+  "id": "35.0.3",
+  "en": "Every “haunted” house in St. Petersburg and the neighboring villages was dissected, plank by plank, and its foundations dug up and ransacked for hidden treasure—and not by boys, but men—pretty grave, unromantic men, too, some of them.",
+  "s": "Every “haunted” house",
+  "v": "was dissected",
+  "ko": "세인트피터즈버그와 이웃 마을들의 '유령 나오는' 집이란 집은 죄다 널빤지 한 장 한 장 뜯겨 해부되었고, 숨겨진 보물을 찾느라 주춧돌까지 파헤쳐지고 샅샅이 뒤져졌다—그것도 아이들이 아니라 어른들 손에 말이다. 그중에는 꽤 점잖고 낭만이라곤 없는 어른들도 있었다.",
+  "chunks": [
+   {
+    "en": "Every “haunted” house in St. Petersburg",
+    "ko": "세인트피터즈버그에 있는 '유령 나오는' 집이란 집은 전부",
+    "r": "주어(긴 주어)"
+   },
+   {
+    "en": "and the neighboring villages",
+    "ko": "그리고 이웃 마을들의 (집들까지)",
+    "r": "주어(나열)"
+   },
+   {
+    "en": "was dissected, plank by plank,",
+    "ko": "널빤지 한 장 한 장 뜯겨 해부되었다",
+    "r": "동사(수동) + 부사"
+   },
+   {
+    "en": "and its foundations dug up and ransacked",
+    "ko": "그리고 그 주춧돌까지 파헤쳐지고 샅샅이 뒤져졌다",
+    "r": "대등절(was 생략된 수동)"
+   },
+   {
+    "en": "for hidden treasure—and not by boys,",
+    "ko": "숨겨진 보물을 찾느라—그것도 아이들 손이 아니라",
+    "r": "전치사구(목적) + 곁말(대시)"
+   },
+   {
+    "en": "but men—pretty grave, unromantic men, too, some of them.",
+    "ko": "어른들 손에—그중에는 꽤 점잖고 낭만이라곤 없는 어른들도 있었다",
+    "r": "곁말(대시, 앞말 보충)"
+   }
+  ]
+ },
+ {
+  "id": "35.0.5",
+  "en": "The boys were not able to remember that their remarks had possessed weight before; but now their sayings were treasured and repeated; everything they did seemed somehow to be regarded as remarkable; they had evidently lost the power of doing and saying commonplace things; moreover, their past history was raked up and discovered to bear marks of conspicuous originality.",
+  "s": "The boys",
+  "v": "were not able to remember",
+  "ko": "두 아이는 예전에 자기들 말에 무게가 실렸던 기억이 없었다. 그런데 이제는 그들이 하는 말이 소중히 간직되고 되풀이되었다. 그들이 하는 일은 무엇이든 어쩐지 대단한 것으로 여겨졌고, 평범한 말과 행동을 할 능력은 아예 잃어버린 듯했다. 게다가 지난 행적까지 죄다 들춰져 남다른 독창성의 흔적이 있다는 것이 밝혀졌다.",
+  "chunks": [
+   {
+    "en": "The boys were not able to remember",
+    "ko": "두 아이는 기억해 낼 수가 없었다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that their remarks had possessed weight before;",
+    "ko": "예전에 자기들 말에 무게가 실린 적이 있었다는 것을",
+    "r": "목적어(that절)"
+   },
+   {
+    "en": "but now their sayings were treasured and repeated;",
+    "ko": "그러나 이제는 그들이 하는 말이 소중히 간직되고 되풀이되었다",
+    "r": "대등절"
+   },
+   {
+    "en": "everything they did seemed somehow",
+    "ko": "그들이 하는 일은 무엇이든 어쩐지 ~해 보였다",
+    "r": "주어(관계절 포함) + 동사"
+   },
+   {
+    "en": "to be regarded as remarkable;",
+    "ko": "대단한 것으로 여겨지는 듯했다",
+    "r": "보어(to부정사)"
+   },
+   {
+    "en": "they had evidently lost the power",
+    "ko": "그들은 분명 능력을 잃어버린 모양이었다",
+    "r": "대등절"
+   },
+   {
+    "en": "of doing and saying commonplace things;",
+    "ko": "평범한 일을 하고 평범한 말을 하는 (능력을)",
+    "r": "전치사구(power 수식)"
+   },
+   {
+    "en": "moreover, their past history was raked up",
+    "ko": "게다가 그들의 지난 행적까지 들춰져",
+    "r": "접속부사 + 대등절"
+   },
+   {
+    "en": "and discovered to bear marks of conspicuous originality.",
+    "ko": "남다른 독창성의 흔적을 지녔다는 것이 밝혀졌다",
+    "r": "대등 동사(수동)"
+   }
+  ]
+ },
+ {
+  "id": "35.1.3",
+  "en": "A dollar and a quarter a week would board, lodge, and school a boy in those old simple days—and clothe him and wash him, too, for that matter.",
+  "s": "A dollar and a quarter a week",
+  "v": "would board",
+  "ko": "그 옛날 소박한 시절에는 일주일에 1달러 25센트면 아이 하나를 먹이고 재우고 학교까지 보낼 수 있었다—덧붙이자면 옷 입히고 씻기는 것까지도 되었다.",
+  "chunks": [
+   {
+    "en": "A dollar and a quarter a week",
+    "ko": "일주일에 1달러 25센트면",
+    "r": "주어(금액)"
+   },
+   {
+    "en": "would board, lodge, and school a boy",
+    "ko": "아이 하나를 먹이고 재우고 학교에 보낼 수 있었다",
+    "r": "동사(나열) + 목적어"
+   },
+   {
+    "en": "in those old simple days—and clothe him",
+    "ko": "그 옛날 소박한 시절에는—게다가 옷까지 입히고",
+    "r": "시간 + 곁말(대시)"
+   },
+   {
+    "en": "and wash him, too, for that matter.",
+    "ko": "씻기기까지 했다, 말이 나온 김에 덧붙이자면",
+    "r": "대등 동사 + 덧붙임"
+   }
+  ]
+ },
+ {
+  "id": "35.2.2",
+  "en": "When Becky told her father, in strict confidence, how Tom had taken her whipping at school, the Judge was visibly moved; and when she pleaded grace for the mighty lie which Tom had told in order to shift that whipping from her shoulders to his own, the Judge said with a fine outburst that it was a noble, a generous, a magnanimous lie—a lie that was worthy to hold up its head and march down through history breast to breast with George Washington’s lauded Truth about the hatchet!",
+  "s": "the Judge",
+  "v": "was visibly moved",
+  "ko": "베키가 아버지에게 아무에게도 말하지 말라며 톰이 학교에서 자기 대신 매를 맞았다는 이야기를 하자 판사는 눈에 띄게 감동했다. 그리고 그 매를 자기 어깨에서 톰의 어깨로 옮기려고 톰이 했던 엄청난 거짓말을 용서해 달라고 베키가 간청하자, 판사는 멋지게 목청을 높여 말했다. 그것은 고귀하고 너그럽고 도량 넓은 거짓말이며, 고개를 당당히 들고 조지 워싱턴의 그 유명한 도끼 이야기 속 '정직'과 어깨를 나란히 하며 역사 속을 행진할 자격이 있는 거짓말이라고!",
+  "chunks": [
+   {
+    "en": "When Becky told her father, in strict confidence,",
+    "ko": "베키가 아버지에게, 아무에게도 말하지 말라며",
+    "r": "부사절(때) + 삽입"
+   },
+   {
+    "en": "how Tom had taken her whipping at school,",
+    "ko": "톰이 학교에서 자기 대신 매를 맞았다는 이야기를 하자",
+    "r": "목적어(how절)"
+   },
+   {
+    "en": "the Judge was visibly moved;",
+    "ko": "판사는 눈에 띄게 감동했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and when she pleaded grace for the mighty lie",
+    "ko": "그리고 그 엄청난 거짓말을 용서해 달라고 그녀가 간청하자",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "which Tom had told in order to shift that whipping",
+    "ko": "그 매질을 옮기려고 톰이 했던 (거짓말)",
+    "r": "관계절(lie 설명)"
+   },
+   {
+    "en": "from her shoulders to his own,",
+    "ko": "그녀의 어깨에서 자기 어깨로",
+    "r": "전치사구"
+   },
+   {
+    "en": "the Judge said with a fine outburst",
+    "ko": "판사는 멋지게 목청을 높여 말했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that it was a noble, a generous, a magnanimous lie—a lie",
+    "ko": "그것은 고귀하고 너그럽고 도량 넓은 거짓말이라고—그런 거짓말",
+    "r": "목적어(that절) + 곁말(대시)"
+   },
+   {
+    "en": "that was worthy to hold up its head",
+    "ko": "고개를 당당히 들 자격이 있는 (거짓말)",
+    "r": "관계절(lie 설명)"
+   },
+   {
+    "en": "and march down through history breast to breast",
+    "ko": "그리고 어깨를 나란히 하고 역사 속을 행진할 (자격이 있는)",
+    "r": "대등 동사"
+   },
+   {
+    "en": "with George Washington’s lauded Truth about the hatchet!",
+    "ko": "그 유명한 조지 워싱턴의 도끼 이야기 '정직'과 함께",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "35.3.1",
+  "en": "He said he meant to look to it that Tom should be admitted to the National Military Academy and afterward trained in the best law school in the country, in order that he might be ready for either career or both.",
+  "s": "He",
+  "v": "said",
+  "ko": "그는 톰이 육군사관학교에 들어가고 그 뒤에는 나라에서 가장 좋은 법학교에서 교육받도록 자기가 직접 챙기겠다고 말했다. 톰이 두 길 중 어느 쪽이든, 아니면 둘 다 갈 준비가 되어 있게 하려는 것이었다.",
+  "chunks": [
+   {
+    "en": "He said he meant to look to it",
+    "ko": "그는 자기가 반드시 챙기겠다고 말했다",
+    "r": "주어 + 동사 + 목적어(that 생략)"
+   },
+   {
+    "en": "that Tom should be admitted to the National Military Academy",
+    "ko": "톰이 육군사관학교에 들어가도록",
+    "r": "내용(that절)"
+   },
+   {
+    "en": "and afterward trained in the best law school in the country,",
+    "ko": "그리고 그 뒤에는 나라에서 가장 좋은 법학교에서 교육받도록",
+    "r": "대등(should be 생략된 수동)"
+   },
+   {
+    "en": "in order that he might be ready",
+    "ko": "톰이 준비가 되어 있게 하려고",
+    "r": "부사절(목적)"
+   },
+   {
+    "en": "for either career or both.",
+    "ko": "둘 중 어느 길이든, 아니면 두 길 모두를 위해",
+    "r": "전치사구"
+   }
+  ]
+ },
+ {
+  "id": "35.4.0",
+  "en": "Huck Finn’s wealth and the fact that he was now under the Widow Douglas’ protection introduced him into society—no, dragged him into it, hurled him into it—and his sufferings were almost more than he could bear.",
+  "s": "Huck Finn’s wealth and the fact",
+  "v": "introduced",
+  "ko": "허크 핀의 재산, 그리고 이제 더글러스 과부댁의 보호를 받게 되었다는 사실이 그를 사교계로 들여보냈다—아니, 사교계 안으로 질질 끌고 들어갔고 아예 내동댕이쳤다. 그리고 그가 겪은 고통은 거의 견딜 수 없을 지경이었다.",
+  "chunks": [
+   {
+    "en": "Huck Finn’s wealth and the fact",
+    "ko": "허크 핀의 재산, 그리고 ~라는 사실이",
+    "r": "주어(긴 주어)"
+   },
+   {
+    "en": "that he was now under the Widow Douglas’ protection",
+    "ko": "그가 이제 더글러스 과부댁의 보호를 받게 되었다는",
+    "r": "동격절(fact 설명)"
+   },
+   {
+    "en": "introduced him into society—no, dragged him into it,",
+    "ko": "그를 사교계로 들여보냈다—아니, 그 안으로 질질 끌고 들어갔고",
+    "r": "동사 + 목적어 + 곁말(고쳐 말하기)"
+   },
+   {
+    "en": "hurled him into it—and his sufferings",
+    "ko": "그 안으로 내동댕이쳤다—그리고 그가 겪은 고통은",
+    "r": "대등 동사 + 대시 뒤 새 절의 주어"
+   },
+   {
+    "en": "were almost more than he could bear.",
+    "ko": "거의 견딜 수 있는 정도를 넘어섰다",
+    "r": "동사 + 보어"
+   }
+  ]
+ },
+ {
+  "id": "35.4.1",
+  "en": "The widow’s servants kept him clean and neat, combed and brushed, and they bedded him nightly in unsympathetic sheets that had not one little spot or stain which he could press to his heart and know for a friend.",
+  "s": "The widow’s servants",
+  "v": "kept",
+  "ko": "과부댁의 하인들은 그를 깨끗하고 단정하게, 머리를 빗기고 솔질까지 해서 관리했다. 그리고 밤마다 그를 정이라곤 없는 시트에 눕혀 재웠는데, 그 시트에는 가슴에 꼭 끌어안고 친구로 삼을 만한 작은 얼룩 하나, 자국 하나 없었다.",
+  "chunks": [
+   {
+    "en": "The widow’s servants kept him clean and neat,",
+    "ko": "과부댁의 하인들은 그를 깨끗하고 단정하게 해 두었다",
+    "r": "주어 + 동사 + 목적어 + 보어"
+   },
+   {
+    "en": "combed and brushed,",
+    "ko": "머리를 빗기고 솔질까지 해서",
+    "r": "보어(과거분사 나열)"
+   },
+   {
+    "en": "and they bedded him nightly",
+    "ko": "그리고 밤마다 그를 눕혀 재웠다",
+    "r": "대등절"
+   },
+   {
+    "en": "in unsympathetic sheets",
+    "ko": "정이라곤 없는 새하얀 시트에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "that had not one little spot or stain",
+    "ko": "작은 얼룩 하나 자국 하나 없는 (시트)",
+    "r": "관계절(sheets 설명)"
+   },
+   {
+    "en": "which he could press to his heart",
+    "ko": "그가 가슴에 꼭 끌어안고",
+    "r": "관계절(spot or stain 설명)"
+   },
+   {
+    "en": "and know for a friend.",
+    "ko": "친구로 여길 만한 (얼룩)",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "35.4.2",
+  "en": "He had to eat with a knife and fork; he had to use napkin, cup, and plate; he had to learn his book, he had to go to church; he had to talk so properly that speech was become insipid in his mouth; whithersoever he turned, the bars and shackles of civilization shut him in and bound him hand and foot.",
+  "s": "He",
+  "v": "had to eat",
+  "ko": "그는 나이프와 포크로 밥을 먹어야 했고, 냅킨과 컵과 접시를 써야 했다. 책으로 공부해야 했고 교회에도 가야 했다. 말을 어찌나 점잖게 해야 했던지 입에서 나오는 말이 죄다 맛이 없어질 지경이었다. 어느 쪽으로 몸을 돌리든 문명의 창살과 족쇄가 그를 가두고 손발을 꽁꽁 묶어 놓았다.",
+  "chunks": [
+   {
+    "en": "He had to eat with a knife and fork;",
+    "ko": "그는 나이프와 포크로 먹어야 했다",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "he had to use napkin, cup, and plate;",
+    "ko": "냅킨과 컵과 접시를 써야 했다",
+    "r": "대등절"
+   },
+   {
+    "en": "he had to learn his book, he had to go to church;",
+    "ko": "책으로 공부해야 했고, 교회에 가야 했다",
+    "r": "대등절(나열)"
+   },
+   {
+    "en": "he had to talk so properly",
+    "ko": "말을 어찌나 점잖게 해야 했던지",
+    "r": "대등절(so … that)"
+   },
+   {
+    "en": "that speech was become insipid in his mouth;",
+    "ko": "입에서 나오는 말이 죄다 맛이 없어져 버렸다",
+    "r": "결과절(that)"
+   },
+   {
+    "en": "whithersoever he turned,",
+    "ko": "어느 쪽으로 몸을 돌리든",
+    "r": "부사절(장소·양보)"
+   },
+   {
+    "en": "the bars and shackles of civilization shut him in",
+    "ko": "문명의 창살과 족쇄가 그를 가두고",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and bound him hand and foot.",
+    "ko": "손발을 꽁꽁 묶어 놓았다",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "35.5.3",
+  "en": "Early the third morning Tom Sawyer wisely went poking among some old empty hogsheads down behind the abandoned slaughter-house, and in one of them he found the refugee.",
+  "s": "Tom Sawyer",
+  "v": "went poking",
+  "ko": "사흘째 되는 날 이른 아침, 톰 소여는 눈치 빠르게도 버려진 도살장 뒤편에 있는 낡고 텅 빈 큰 나무통들 사이를 뒤지고 다녔고, 그중 하나에서 그 도망자를 찾아냈다.",
+  "chunks": [
+   {
+    "en": "Early the third morning",
+    "ko": "사흘째 되는 날 이른 아침",
+    "r": "시간"
+   },
+   {
+    "en": "Tom Sawyer wisely went poking",
+    "ko": "톰 소여는 눈치 빠르게도 여기저기 뒤지고 다녔다",
+    "r": "주어 + 부사 + 동사"
+   },
+   {
+    "en": "among some old empty hogsheads",
+    "ko": "낡고 텅 빈 큰 나무통들 사이를",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "down behind the abandoned slaughter-house,",
+    "ko": "버려진 도살장 뒤편 아래쪽에 있는",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "and in one of them he found the refugee.",
+    "ko": "그리고 그중 하나에서 그 도망자를 찾아냈다",
+    "r": "대등절"
+   }
+  ]
+ },
+ {
+  "id": "35.5.4",
+  "en": "Huck had slept there; he had just breakfasted upon some stolen odds and ends of food, and was lying off, now, in comfort, with his pipe.",
+  "s": "Huck",
+  "v": "had slept",
+  "ko": "허크는 거기서 잤다. 훔쳐 온 자잘한 음식 부스러기로 막 아침을 때우고는, 지금은 파이프를 문 채 편안하게 늘어져 있었다.",
+  "chunks": [
+   {
+    "en": "Huck had slept there;",
+    "ko": "허크는 거기서 잤었다",
+    "r": "주어 + 동사 + 장소"
+   },
+   {
+    "en": "he had just breakfasted",
+    "ko": "그는 방금 아침을 때웠고",
+    "r": "대등절"
+   },
+   {
+    "en": "upon some stolen odds and ends of food,",
+    "ko": "훔쳐 온 자잘한 음식 부스러기로",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "and was lying off, now, in comfort,",
+    "ko": "그리고 지금은 편안하게 늘어져 있었다",
+    "r": "대등 동사 + 삽입"
+   },
+   {
+    "en": "with his pipe.",
+    "ko": "파이프를 문 채",
+    "r": "전치사구(부대상황)"
+   }
+  ]
+ },
+ {
+  "id": "35.5.5",
+  "en": "He was unkempt, uncombed, and clad in the same old ruin of rags that had made him picturesque in the days when he was free and happy.",
+  "s": "He",
+  "v": "was",
+  "ko": "그는 부스스하고 빗질도 안 한 몰골에, 자유롭고 행복하던 시절 그를 그림처럼 보이게 해 주던 바로 그 낡아빠진 누더기를 걸치고 있었다.",
+  "chunks": [
+   {
+    "en": "He was unkempt, uncombed,",
+    "ko": "그는 부스스하고 빗질도 안 한 몰골이었고",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "and clad in the same old ruin of rags",
+    "ko": "예전 그대로 다 해진 누더기를 걸치고 있었다",
+    "r": "보어(과거분사)"
+   },
+   {
+    "en": "that had made him picturesque",
+    "ko": "그를 그림처럼 보이게 해 주던 (누더기)",
+    "r": "관계절(rags 설명)"
+   },
+   {
+    "en": "in the days when he was free and happy.",
+    "ko": "그가 자유롭고 행복하던 그 시절에",
+    "r": "시간 + 관계절"
+   }
+  ]
+ },
+ {
+  "id": "35.6.4",
+  "en": "She makes me get up just at the same time every morning; she makes me wash, they comb me all to thunder; she won’t let me sleep in the woodshed; I got to wear them blamed clothes that just smothers me, Tom; they don’t seem to any air git through ’em, somehow; and they’re so rotten nice that I can’t set down, nor lay down, nor roll around anywher’s; I hain’t slid on a cellar-door for—well, it ’pears to be years; I got to go to church and sweat and sweat—I hate them ornery sermons!",
+  "s": "She",
+  "v": "makes",
+  "ko": "아주머니는 매일 아침 딱 같은 시간에 나를 일으켜 세워. 씻기고, 하인들은 머리를 죽어라 빗겨 대지. 장작 헛간에서 자게 놔두지도 않아. 숨 막히는 그 빌어먹을 옷을 입어야 하는데, 톰, 어쩐지 그 옷은 바람 한 점 안 통하는 것 같아. 게다가 너무 근사하게 좋아서 앉을 수도, 누울 수도, 아무 데서나 뒹굴 수도 없어. 지하실 문짝을 타고 미끄러져 본 지가—글쎄, 몇 년은 된 것 같아. 교회에 가서 땀을 뻘뻘 흘려야 하고—난 그 지긋지긋한 설교가 정말 싫어!",
+  "chunks": [
+   {
+    "en": "She makes me get up just at the same time every morning;",
+    "ko": "아주머니는 매일 아침 딱 같은 시간에 나를 일어나게 해",
+    "r": "주어 + 동사 + 목적어 + 원형동사"
+   },
+   {
+    "en": "she makes me wash, they comb me all to thunder;",
+    "ko": "나를 씻게 하고, 하인들은 머리를 죽어라 빗겨 대",
+    "r": "대등절"
+   },
+   {
+    "en": "she won’t let me sleep in the woodshed;",
+    "ko": "장작 헛간에서 자게 놔두지도 않아",
+    "r": "대등절"
+   },
+   {
+    "en": "I got to wear them blamed clothes",
+    "ko": "나는 그 빌어먹을 옷을 입어야 해",
+    "r": "대등절"
+   },
+   {
+    "en": "that just smothers me, Tom;",
+    "ko": "숨이 턱턱 막히는 그 옷 말이야, 톰",
+    "r": "관계절(clothes 설명)"
+   },
+   {
+    "en": "they don’t seem to any air git through ’em, somehow;",
+    "ko": "어쩐지 그 옷은 공기가 도무지 통하지 않는 것 같아",
+    "r": "대등절(구어 어순)"
+   },
+   {
+    "en": "and they’re so rotten nice",
+    "ko": "게다가 어찌나 지긋지긋하게 근사한지",
+    "r": "대등절(so … that)"
+   },
+   {
+    "en": "that I can’t set down, nor lay down, nor roll around anywher’s;",
+    "ko": "앉을 수도, 누울 수도, 아무 데서나 뒹굴 수도 없어",
+    "r": "결과절(that)"
+   },
+   {
+    "en": "I hain’t slid on a cellar-door for—well,",
+    "ko": "지하실 문짝을 타고 미끄러져 본 지가—글쎄",
+    "r": "대등절 + 말 끊김(대시)"
+   },
+   {
+    "en": "it ’pears to be years;",
+    "ko": "몇 년은 된 것 같아",
+    "r": "고쳐 말하기"
+   },
+   {
+    "en": "I got to go to church",
+    "ko": "교회에도 가야 하고",
+    "r": "대등절"
+   },
+   {
+    "en": "and sweat and sweat—I hate them ornery sermons!",
+    "ko": "땀을 뻘뻘 흘려야 해—난 그 지긋지긋한 설교가 정말 싫어!",
+    "r": "대등 동사 + 곁말(대시)"
+   }
+  ]
+ },
+ {
+  "id": "35.6.7",
+  "en": "The widder eats by a bell; she goes to bed by a bell; she gits up by a bell—everything’s so awful reg’lar a body can’t stand it.”",
+  "s": "The widder",
+  "v": "eats",
+  "ko": "\"과부댁은 종이 울리면 밥을 먹어. 종이 울리면 자러 가고, 종이 울리면 일어나. 뭐든지 어찌나 지독하게 규칙적인지 사람이 도무지 견딜 수가 없다니까.\"",
+  "chunks": [
+   {
+    "en": "The widder eats by a bell;",
+    "ko": "과부댁은 종에 맞춰 밥을 먹어",
+    "r": "주어 + 동사 + 전치사구"
+   },
+   {
+    "en": "she goes to bed by a bell;",
+    "ko": "종에 맞춰 자러 가고",
+    "r": "대등절"
+   },
+   {
+    "en": "she gits up by a bell—everything’s so awful reg’lar",
+    "ko": "종에 맞춰 일어나—뭐든지 어찌나 지독하게 규칙적인지",
+    "r": "대등절 + 대시 뒤 새 절(so … that)"
+   },
+   {
+    "en": "a body can’t stand it.”",
+    "ko": "사람이 견딜 수가 없다니까",
+    "r": "결과절(that 생략)"
+   }
+  ]
+ },
+ {
+  "id": "35.8.5",
+  "en": "Well, I’d got to talk so nice it wasn’t no comfort—I’d got to go up in the attic and rip out awhile, every day, to git a taste in my mouth, or I’d a died, Tom.",
+  "s": "I",
+  "v": "’d got to talk",
+  "ko": "그게 말이야, 말을 어찌나 점잖게 해야 하는지 도무지 편할 새가 없었어. 날마다 다락에 올라가 한참 욕을 퍼부어서 입맛을 좀 되찾아야 했지. 안 그랬으면 죽어 버렸을 거야, 톰.",
+  "chunks": [
+   {
+    "en": "Well, I’d got to talk so nice",
+    "ko": "그게, 말을 어찌나 점잖게 해야 했는지",
+    "r": "주어 + 동사(so … that)"
+   },
+   {
+    "en": "it wasn’t no comfort—I’d got to go up in the attic",
+    "ko": "도무지 편할 새가 없었어—다락에 올라가야 했지",
+    "r": "결과절(that 생략) + 대시 뒤 새 절"
+   },
+   {
+    "en": "and rip out awhile, every day,",
+    "ko": "그리고 날마다 한참 욕을 퍼부어야 했어",
+    "r": "대등 동사 + 시간"
+   },
+   {
+    "en": "to git a taste in my mouth,",
+    "ko": "입맛을 좀 되찾으려고",
+    "r": "목적(to부정사)"
+   },
+   {
+    "en": "or I’d a died, Tom.",
+    "ko": "안 그랬으면 죽어 버렸을 거야, 톰",
+    "r": "대등절(그러지 않으면)"
+   }
+  ]
+ },
+ {
+  "id": "35.8.6",
+  "en": "The widder wouldn’t let me smoke; she wouldn’t let me yell, she wouldn’t let me gape, nor stretch, nor scratch, before folks—” [Then with a spasm of special irritation and injury]—“And dad fetch it, she prayed all the time!",
+  "s": "The widder",
+  "v": "wouldn’t let",
+  "ko": "\"과부댁은 담배도 못 피우게 했어. 소리도 못 지르게 하고, 사람들 앞에서 하품하거나 기지개 켜거나 긁지도 못하게 했어—\" [그러다 유난히 짜증 나고 억울하다는 듯 발작하듯이]—\"그리고 젠장, 그 아주머니는 하루 종일 기도를 해 대는 거야!\"",
+  "chunks": [
+   {
+    "en": "The widder wouldn’t let me smoke;",
+    "ko": "과부댁은 담배도 못 피우게 했어",
+    "r": "주어 + 동사 + 목적어 + 원형동사"
+   },
+   {
+    "en": "she wouldn’t let me yell, she wouldn’t let me gape,",
+    "ko": "소리도 못 지르게 하고, 하품도 못 하게 하고",
+    "r": "대등절(나열)"
+   },
+   {
+    "en": "nor stretch, nor scratch, before folks—”",
+    "ko": "사람들 앞에서 기지개도, 긁지도 못하게 했어—",
+    "r": "나열 + 말 끊김(대시)"
+   },
+   {
+    "en": "[Then with a spasm of special irritation and injury]—“And dad fetch it,",
+    "ko": "[그러다 유난히 짜증 나고 억울하다는 듯 발작하듯이]—\"그리고 젠장",
+    "r": "지문(작가 설명) + 대사 재개"
+   },
+   {
+    "en": "she prayed all the time!",
+    "ko": "그 아주머니는 하루 종일 기도를 하는 거야!",
+    "r": "주어 + 동사"
+   }
+  ]
+ },
+ {
+  "id": "35.8.13",
+  "en": "Tom, I wouldn’t ever got into all this trouble if it hadn’t ’a’ been for that money; now you just take my sheer of it along with your’n, and gimme a ten-center sometimes—not many times, becuz I don’t give a dern for a thing ’thout it’s tollable hard to git—and you go and beg off for me with the widder.”",
+  "s": "I",
+  "v": "wouldn’t ever got",
+  "ko": "\"톰, 그 돈만 아니었으면 난 이런 곤경에 빠지지도 않았을 거야. 이제 내 몫도 네 몫이랑 같이 그냥 네가 가져. 그리고 가끔 10센트짜리나 하나씩 줘—자주는 말고. 난 어지간히 어렵게 얻는 게 아니면 아무것도 탐나지 않거든. 그리고 네가 가서 과부댁한테 나 좀 봐 달라고 빌어 줘.\"",
+  "chunks": [
+   {
+    "en": "Tom, I wouldn’t ever got into all this trouble",
+    "ko": "톰, 난 이런 곤경에 빠지지도 않았을 거야",
+    "r": "호칭 + 주어 + 동사(가정법)"
+   },
+   {
+    "en": "if it hadn’t ’a’ been for that money;",
+    "ko": "그 돈만 아니었더라면",
+    "r": "부사절(가정)"
+   },
+   {
+    "en": "now you just take my sheer of it along with your’n,",
+    "ko": "이제 내 몫도 네 몫이랑 같이 그냥 네가 가져",
+    "r": "대등절(명령)"
+   },
+   {
+    "en": "and gimme a ten-center sometimes—not many times,",
+    "ko": "그리고 가끔 10센트짜리나 하나씩 줘—자주는 말고",
+    "r": "대등 동사 + 곁말(대시)"
+   },
+   {
+    "en": "becuz I don’t give a dern for a thing",
+    "ko": "난 뭐든 관심이 하나도 없거든",
+    "r": "부사절(이유)"
+   },
+   {
+    "en": "’thout it’s tollable hard to git—and you go",
+    "ko": "어지간히 어렵게 얻는 게 아니면—그리고 넌 가서",
+    "r": "부사절(조건) + 대시 뒤 새 절"
+   },
+   {
+    "en": "and beg off for me with the widder.”",
+    "ko": "과부댁한테 나 좀 빼 달라고 빌어 줘",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "35.9.0",
+  "en": "“Oh, Huck, you know I can’t do that. ’Tain’t fair; and besides if you’ll try this thing just a while longer you’ll come to like it.”",
+  "s": "you",
+  "v": "know",
+  "ko": "\"아이 참, 허크, 나도 그럴 수 없다는 거 알잖아. 그건 공평하지 않아. 게다가 이걸 조금만 더 참고 해 보면 너도 차차 좋아하게 될걸.\"",
+  "chunks": [
+   {
+    "en": "“Oh, Huck, you know I can’t do that.",
+    "ko": "아이 참, 허크, 나도 그럴 수 없다는 거 알잖아",
+    "r": "호칭 + 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "’Tain’t fair;",
+    "ko": "그건 공평하지 않아",
+    "r": "대등절"
+   },
+   {
+    "en": "and besides if you’ll try this thing just a while longer",
+    "ko": "게다가 이걸 조금만 더 참고 해 보면",
+    "r": "부사절(조건)"
+   },
+   {
+    "en": "you’ll come to like it.”",
+    "ko": "너도 차차 좋아하게 될 거야",
+    "r": "주절"
+   }
+  ]
+ },
+ {
+  "id": "35.10.4",
+  "en": "Blame it all! just as we’d got guns, and a cave, and all just fixed to rob, here this dern foolishness has got to come up and spile it all!”",
+  "s": "this dern foolishness",
+  "v": "has got to come up",
+  "ko": "\"에라 빌어먹을! 총도 구하고 동굴도 찾고 강도질할 준비를 죄다 막 갖춰 놨는데, 하필 이 망할 놈의 헛소동이 튀어나와서 전부 망쳐 놓다니!\"",
+  "chunks": [
+   {
+    "en": "Blame it all!",
+    "ko": "에라 빌어먹을!",
+    "r": "감탄(욕)"
+   },
+   {
+    "en": "just as we’d got guns, and a cave,",
+    "ko": "총도 구하고 동굴도 마련한 바로 그 참에",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and all just fixed to rob,",
+    "ko": "강도질할 준비를 죄다 갖춰 놓은 참에",
+    "r": "나열"
+   },
+   {
+    "en": "here this dern foolishness has got to come up",
+    "ko": "하필 이 망할 놈의 헛소동이 튀어나와서",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "and spile it all!”",
+    "ko": "전부 망쳐 놓다니!",
+    "r": "대등 동사"
+   }
+  ]
+ },
+ {
+  "id": "35.21.0",
+  "en": "“Well, I’ll go back to the widder for a month and tackle it and see if I can come to stand it, if you’ll let me b’long to the gang, Tom.”",
+  "s": "I",
+  "v": "’ll go",
+  "ko": "\"그럼, 한 달만 과부댁으로 돌아가서 한번 부딪쳐 보고 견딜 수 있게 되는지 알아볼게. 네가 나를 그 패거리에 끼워 준다면 말이야, 톰.\"",
+  "chunks": [
+   {
+    "en": "“Well, I’ll go back to the widder for a month",
+    "ko": "그럼, 한 달만 과부댁으로 돌아가서",
+    "r": "주어 + 동사 + 기간"
+   },
+   {
+    "en": "and tackle it and see",
+    "ko": "한번 부딪쳐 보고 알아볼게",
+    "r": "대등 동사(나열)"
+   },
+   {
+    "en": "if I can come to stand it,",
+    "ko": "내가 견딜 수 있게 되는지 아닌지",
+    "r": "목적어(if절 = ~인지)"
+   },
+   {
+    "en": "if you’ll let me b’long to the gang, Tom.”",
+    "ko": "네가 나를 그 패거리에 끼워 준다면 말이야, 톰",
+    "r": "부사절(조건)"
+   }
+  ]
+ },
+ {
+  "id": "35.28.0",
+  "en": "“It’s to swear to stand by one another, and never tell the gang’s secrets, even if you’re chopped all to flinders, and kill anybody and all his family that hurts one of the gang.”",
+  "s": "It",
+  "v": "’s",
+  "ko": "\"서로 편이 되어 주고, 몸이 산산조각이 나도 절대 패거리의 비밀은 말하지 않고, 패거리 중 한 명이라도 건드리는 놈은 그 가족까지 몽땅 죽이겠다고 맹세하는 거야.\"",
+  "chunks": [
+   {
+    "en": "“It’s to swear to stand by one another,",
+    "ko": "그건 서로 편이 되어 주겠다고 맹세하는 거야",
+    "r": "주어 + 동사 + 보어(to부정사)"
+   },
+   {
+    "en": "and never tell the gang’s secrets,",
+    "ko": "그리고 패거리의 비밀은 절대 말하지 않겠다고",
+    "r": "대등(to 생략)"
+   },
+   {
+    "en": "even if you’re chopped all to flinders,",
+    "ko": "몸이 산산조각으로 잘려도",
+    "r": "부사절(양보)"
+   },
+   {
+    "en": "and kill anybody and all his family",
+    "ko": "그리고 누구든, 그 가족까지 몽땅 죽이겠다고",
+    "r": "대등(to 생략)"
+   },
+   {
+    "en": "that hurts one of the gang.”",
+    "ko": "패거리 중 한 명이라도 건드리는 (놈은)",
+    "r": "관계절(anybody 설명)"
+   }
+  ]
+ },
+ {
+  "id": "35.30.1",
+  "en": "And all that swearing’s got to be done at midnight, in the lonesomest, awfulest place you can find—a ha’nted house is the best, but they’re all ripped up now.”",
+  "s": "all that swearing",
+  "v": "’s got to be done",
+  "ko": "\"그리고 그 맹세는 전부 한밤중에, 네가 찾을 수 있는 가장 외지고 가장 으스스한 곳에서 해야 해—유령 나오는 집이 제일 좋은데, 지금은 죄다 뜯겨 나갔잖아.\"",
+  "chunks": [
+   {
+    "en": "And all that swearing’s got to be done at midnight,",
+    "ko": "그리고 그 맹세는 전부 한밤중에 해야 해",
+    "r": "주어 + 동사(수동) + 시간"
+   },
+   {
+    "en": "in the lonesomest, awfulest place",
+    "ko": "가장 외지고 가장 으스스한 곳에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "you can find—a ha’nted house is the best,",
+    "ko": "네가 찾을 수 있는—유령 나오는 집이 제일 좋은데",
+    "r": "관계절(place 설명) + 대시 뒤 새 절"
+   },
+   {
+    "en": "but they’re all ripped up now.”",
+    "ko": "지금은 죄다 뜯겨 나갔잖아",
+    "r": "대등절(반전)"
+   }
+  ]
+ },
+ {
+  "id": "35.33.2",
+  "en": "I’ll stick to the widder till I rot, Tom; and if I git to be a reg’lar ripper of a robber, and everybody talking ’bout it, I reckon she’ll be proud she snaked me in out of the wet.”",
+  "s": "I",
+  "v": "’ll stick",
+  "ko": "\"난 썩어 문드러질 때까지 과부댁 곁에 붙어 있을게, 톰. 그리고 내가 진짜 끝내주는 강도가 되고 다들 그 얘기를 하게 되면, 아주머니도 나를 빗속에서 건져 들여놓은 걸 자랑스러워하겠지.\"",
+  "chunks": [
+   {
+    "en": "I’ll stick to the widder till I rot, Tom;",
+    "ko": "난 썩어 문드러질 때까지 과부댁 곁에 붙어 있을게, 톰",
+    "r": "주어 + 동사 + 부사절(때)"
+   },
+   {
+    "en": "and if I git to be a reg’lar ripper of a robber,",
+    "ko": "그리고 내가 진짜 끝내주는 강도가 되고",
+    "r": "부사절(조건)"
+   },
+   {
+    "en": "and everybody talking ’bout it,",
+    "ko": "다들 그 얘기를 하게 되면",
+    "r": "나열(분사구문)"
+   },
+   {
+    "en": "I reckon she’ll be proud",
+    "ko": "아주머니도 자랑스러워할 것 같아",
+    "r": "주어 + 동사 + 목적어절"
+   },
+   {
+    "en": "she snaked me in out of the wet.”",
+    "ko": "나를 빗속에서 끌어들여 거둬 준 것을",
+    "r": "이유(that 생략)"
+   }
+  ]
+ }
+]

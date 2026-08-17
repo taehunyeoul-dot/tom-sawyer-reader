@@ -1,0 +1,126 @@
+{
+ "35.0.3": [
+  {"t":"pron","q":"<b>and its foundations dug up</b> 의 its 는 무엇입니까?","a":"그 '유령 나오는' 집","tip":"바로 앞의 St. Petersburg(마을)로 잡기 쉽습니다. 문장의 주어인 house 를 받는 말입니다."},
+  {"t":"who","q":"<b>its foundations dug up and ransacked</b> — 주춧돌이 무언가를 파낸 것입니까, 주춧돌이 파헤쳐진 것입니까?","a":"주춧돌이 파헤쳐지고 샅샅이 뒤져진 쪽입니다","tip":"앞 절의 was 가 생략된 수동입니다(its foundations were dug up). dug 가 능동처럼 보여 주춧돌이 무언가를 팠다고 읽기 쉽습니다."},
+  {"t":"neg","q":"<b>and not by boys, but men</b> — 집을 뜯어 파헤친 것은 아이들입니까?","a":"아니요 — 어른들입니다","tip":"not A but B 는 'A가 아니라 B'입니다. 보물찾기라 아이들 짓으로 넘겨짚기 쉽습니다."},
+  {"t":"mod","q":"<b>pretty grave, unromantic men, too, some of them</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 men — 그 어른들 중에는 꽤 점잖고 낭만이라곤 없는 사람들도 있었다는 뜻","tip":"grave 는 '무덤'이 아니라 '점잖은·진지한'입니다. some of them 의 them 도 그 어른들입니다."}
+ ],
+ "35.0.5": [
+  {"t":"neg","q":"<b>The boys were not able to remember that their remarks had possessed weight before</b> — 예전에 두 아이의 말에 무게가 실린 적이 있었습니까?","a":"없었습니다 — 그런 적이 있었는지 떠올릴 수조차 없었다는 뜻입니다","tip":"not 이 remember 에 붙습니다. '기억했다'로 읽으면 예전에도 대접받은 것이 되어 뒤와 어긋납니다."},
+  {"t":"time","q":"<b>but now their sayings were treasured and repeated</b> — 두 아이의 말이 소중히 간직된 것은 언제입니까?","a":"보물을 찾은 지금(그 소동이 있고 난 뒤)입니다 — 예전에는 아니었습니다","tip":"앞의 before 와 여기의 now 가 짝을 이룹니다. 이 대비를 놓치면 문장의 핵심이 사라집니다."},
+  {"t":"neg","q":"<b>they had evidently lost the power of doing and saying commonplace things</b> — 두 아이는 평범한 말과 행동을 할 수 있게 되었습니까?","a":"아니요 — 그럴 능력을 잃어버린 듯 보였습니다(무엇을 해도 사람들이 대단하게 봤다는 비꼬는 말)","tip":"lost 를 놓치면 정반대가 됩니다. 실제로 능력이 사라진 게 아니라 마을 사람들 눈에 그렇게 비쳤다는 뜻입니다."},
+  {"t":"who","q":"<b>their past history was raked up and discovered to bear marks of conspicuous originality</b> — 지난 행적이 무언가를 발견한 것입니까?","a":"아니요 — 지난 행적이 들춰졌고, 거기에 남다른 독창성의 흔적이 있다는 것이 밝혀진 것입니다","tip":"was raked up and (was) discovered 로 둘 다 수동입니다. discovered 를 능동으로 읽으면 주어가 뒤집힙니다."}
+ ],
+ "35.1.3": [
+  {"t":"who","q":"<b>would board, lodge, and school a boy</b> — 아이를 먹이고 재우고 학교에 보내는 주어는 누구입니까?","a":"사람이 아닙니다 — 일주일에 1달러 25센트라는 그 돈이 주어입니다","tip":"school 은 여기서 명사 '학교'가 아니라 '학교에 보내다'라는 동사입니다. 그 돈이면 그게 다 됐다는 뜻입니다."},
+  {"t":"time","q":"<b>would ... in those old simple days</b> — 이것은 지금 이야기입니까, 옛날 이야기입니까?","a":"옛날 이야기입니다 — 그 소박하던 시절에는 그랬다는 뜻","tip":"would 는 '~할 것이다'가 아니라 과거에 늘 그랬다는 뜻입니다."},
+  {"t":"pron","q":"<b>and clothe him and wash him</b> 의 him 은 누구입니까?","a":"앞에 나온 a boy — 아이 하나","tip":"톰이나 허크를 콕 집은 말이 아니라 '아이 하나'를 뜻하는 일반적인 표현입니다."}
+ ],
+ "35.2.2": [
+  {"t":"mod","q":"<b>in strict confidence</b> 는 무엇을 설명하는 말입니까?","a":"베키가 아버지에게 말한 방식 — 아무에게도 말하지 말라며 비밀로 털어놓았다는 뜻","tip":"confidence 는 '자신감'이 아니라 '비밀'입니다. '자신 있게 말했다'로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>how Tom had taken her whipping at school</b> — 매를 맞은 사람과 원래 맞았어야 할 사람은 각각 누구입니까?","a":"맞은 사람은 톰, 원래 맞을 사람은 베키","tip":"take a whipping 은 '매를 대신 맞다'입니다. her whipping 을 '베키가 때린 매'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>from her shoulders to his own</b> — her 와 his 는 각각 누구입니까?","a":"her = 베키, his = 톰 — 베키가 질 매를 톰이 자기 어깨로 옮겨 진 것입니다","tip":"한 구절 안에 두 사람이 들어 있습니다. from → to 방향을 뒤집으면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that was worthy to hold up its head and march down through history</b> 는 무엇을 설명합니까?","a":"바로 앞의 a lie — 그 거짓말이 고개를 당당히 들고 역사 속을 행진할 자격이 있다는 뜻입니다","tip":"고개를 드는 것도 행진하는 것도 톰이 아니라 그 '거짓말'입니다. 나란히 서는 상대도 조지 워싱턴이 아니라 도끼 일화의 '정직(Truth)'입니다."}
+ ],
+ "35.3.1": [
+  {"t":"time","q":"<b>and afterward trained in the best law school</b> — 톰이 법학교에 가는 것은 사관학교보다 먼저입니까, 나중입니까?","a":"나중입니다 — 먼저 육군사관학교, 그다음 법학교","tip":"and 로 이어져 있지만 afterward 가 순서를 못 박고 있습니다."},
+  {"t":"who","q":"<b>trained in the best law school in the country</b> — 법학교에서 교육받는 사람은 누구입니까?","a":"톰 — 앞의 should be 가 이어지는 수동입니다(Tom should be ... trained)","tip":"trained 를 능동으로 읽으면 판사가 직접 가르치는 것이 되어 버립니다."},
+  {"t":"pron","q":"<b>in order that he might be ready</b> 의 he 는 누구입니까?","a":"톰","tip":"앞의 He said, he meant 는 대처 판사입니다. 한 문장 안에서 he 가 두 사람을 가리키고 있습니다."},
+  {"t":"pron","q":"<b>for either career or both</b> — 여기서 말하는 두 길은 무엇입니까?","a":"군인의 길과 법률가의 길 — 그중 어느 쪽이든, 아니면 둘 다","tip":"either A or B(둘 중 하나)가 아니라, either(둘 중 어느 쪽)와 both(둘 다)를 나란히 놓은 말입니다."}
+ ],
+ "35.4.0": [
+  {"t":"who","q":"<b>introduced him into society</b> — 허크를 사교계로 들여보낸 것은 누구입니까?","a":"사람이 아닙니다 — 허크의 재산과 '이제 더글러스 과부댁의 보호를 받는다'는 사실, 이 둘이 주어입니다","tip":"동사 앞이 길어서 가까이 있는 protection 이나 the fact 를 주어로 잡기 쉽습니다."},
+  {"t":"neg","q":"<b>—no, dragged him into it, hurled him into it—</b> 허크는 사교계에 점잖게 '소개'된 것입니까?","a":"아니요 — 작가가 introduced 라는 말을 스스로 물리고, 질질 끌려 들어가 내동댕이쳐졌다고 고쳐 말한 것입니다","tip":"no 는 등장인물의 대사가 아니라 작가가 앞말을 취소하는 표시입니다."},
+  {"t":"pron","q":"<b>dragged him into it</b> 의 it 은 무엇입니까?","a":"사교계(society)","tip":"앞의 wealth(재산)로 잡기 쉽습니다. into society 를 그대로 되받는 말입니다."},
+  {"t":"mod","q":"<b>almost more than he could bear</b> — 허크는 그 고통을 견딜 만했습니까?","a":"아니요 — 견딜 수 있는 한계를 거의 넘어설 지경이었습니다","tip":"almost 는 more than he could bear 전체에 붙습니다. '거의 견딜 만했다'로 붙여 읽으면 정반대가 됩니다."}
+ ],
+ "35.4.1": [
+  {"t":"who","q":"<b>The widow’s servants kept him clean and neat</b> — 씻기고 빗기고 솔질한 사람은 누구입니까?","a":"과부댁의 하인들 — 허크가 스스로 한 것이 아닙니다","tip":"허크는 당하는 쪽(him)입니다. 뒤의 bedded him 도 하인들이 한 일입니다."},
+  {"t":"mod","q":"<b>combed and brushed</b> 는 무엇을 설명합니까?","a":"허크(him)의 상태 — 머리를 빗기고 솔질까지 해 놓은 꼴","tip":"servants 를 설명하는 말로 붙이면 '머리를 빗은 하인들'이 되어 버립니다."},
+  {"t":"neg","q":"<b>sheets that had not one little spot or stain</b> — 그 시트에 얼룩이 있었습니까?","a":"아니요 — 작은 얼룩 하나, 자국 하나 없었습니다","tip":"not one 은 '하나도 없다'는 강한 부정입니다. 이 부정을 놓치면 뒤의 관계절 전체가 뒤집힙니다."},
+  {"t":"pron","q":"<b>which he could press to his heart and know for a friend</b> — which 가 받는 말은 무엇입니까?","a":"앞의 spot or stain(얼룩·자국)입니다 — 시트가 아닙니다","tip":"가슴에 끌어안고 친구로 삼을 만한 것은 그 '얼룩'입니다. 그런 얼룩조차 없다는 것이 이 문장의 쓸쓸함입니다."}
+ ],
+ "35.4.2": [
+  {"t":"pron","q":"이 문장이 죽 이야기하는 <b>he</b> 는 톰입니까, 허크입니까?","a":"허크 — 과부댁에 들어가 살게 된 쪽입니다","tip":"앞 문단 전체가 허크 이야기입니다. 이 책의 주인공이 톰이라 톰으로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>he had to talk so properly that speech was become insipid in his mouth</b> — 말이 맛없어진 까닭은 무엇입니까?","a":"말을 너무 점잖게 해야 했기 때문입니다(so ~ that 의 결과)","tip":"so properly 와 that 절이 원인·결과로 묶여 있습니다. was become 은 had become 의 옛 표현입니다."},
+  {"t":"mod","q":"<b>whithersoever he turned</b> 는 무슨 뜻입니까?","a":"어느 쪽으로 몸을 돌리든(어디를 가든)","tip":"whether(~인지)와 생김새가 비슷해 헷갈립니다. wherever 의 옛말입니다."},
+  {"t":"who","q":"<b>the bars and shackles of civilization shut him in and bound him hand and foot</b> — 그를 가두고 묶은 것은 무엇입니까?","a":"'문명의 창살과 족쇄' — 진짜 감옥이나 쇠사슬이 아니라 예절과 규칙을 빗댄 말입니다","tip":"him 은 허크입니다. hand and foot 은 묶인 부위(손발)이지 새로운 주어가 아닙니다."}
+ ],
+ "35.5.3": [
+  {"t":"time","q":"<b>Early the third morning</b> 은 언제입니까?","a":"허크가 사라진 지 사흘째 되는 날 이른 아침","tip":"'새벽 세 시'가 아닙니다. 앞에서 마흔여덟 시간을 찾아 헤맸다고 한 그다음 아침입니다."},
+  {"t":"who","q":"<b>went poking among some old empty hogsheads</b> — 나무통 사이를 뒤지고 다닌 사람은 누구입니까?","a":"톰 소여","tip":"숨어 있던 쪽이 허크라 주어를 허크로 바꿔 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>in one of them</b> 의 them 은 무엇입니까?","a":"낡고 텅 빈 큰 나무통들(hogsheads)","tip":"바로 앞의 slaughter-house(도살장)로 잡기 쉽습니다. 도살장은 하나뿐이라 one of 와 맞지 않습니다."},
+  {"t":"pron","q":"<b>the refugee</b> 는 누구입니까?","a":"허크 — 과부댁에서 달아나 숨어 있던 쪽","tip":"'난민'이 아니라 '도망쳐 나온 사람'입니다. 이름 대신 이렇게 부른 것입니다."}
+ ],
+ "35.5.4": [
+  {"t":"pron","q":"<b>Huck had slept there</b> 의 there 는 어디입니까?","a":"톰이 그를 찾아낸 바로 그 나무통 안(버려진 도살장 뒤편)","tip":"앞 문장의 in one of them 을 되받는 말입니다."},
+  {"t":"time","q":"<b>had just breakfasted ... and was lying off, now</b> — 아침을 때운 것은 톰이 그를 찾아낸 시점보다 앞입니까, 뒤입니까?","a":"앞입니다 — 막 아침을 때우고 늘어져 있는 참에 톰이 찾아냈습니다","tip":"had p.p. 는 그 시점보다 먼저 끝난 일입니다. now 는 톰이 발견한 그 순간을 가리킵니다."},
+  {"t":"mod","q":"<b>some stolen odds and ends of food</b> 는 무엇입니까?","a":"훔쳐 온 자잘한 음식 부스러기","tip":"odds and ends 는 '이상한 것과 끝'이 아니라 '자질구레한 나머지들'입니다."}
+ ],
+ "35.5.5": [
+  {"t":"neg","q":"<b>He was unkempt, uncombed</b> — 허크는 말끔히 손질된 모습이었습니까?","a":"아니요 — 부스스하고 빗질도 안 한 몰골이었습니다","tip":"un- 이 붙어 뜻이 뒤집힙니다. 과부댁 하인들이 해 주던 모습과 정반대입니다."},
+  {"t":"mod","q":"<b>that had made him picturesque</b> 는 무엇을 설명합니까?","a":"그 낡아빠진 누더기(rags)","tip":"him(허크)을 꾸미는 말로 붙이면 주어가 사라집니다. 그를 그림처럼 보이게 만든 것은 그 옷입니다."},
+  {"t":"time","q":"<b>in the days when he was free and happy</b> 는 언제입니까?","a":"과부댁에 들어가기 전, 허크가 자유롭고 행복하던 예전","tip":"지금 이야기가 아닙니다. 지금은 그 시절의 옷을 도로 입고 있을 뿐입니다."}
+ ],
+ "35.6.4": [
+  {"t":"pron","q":"<b>she makes me wash, they comb me all to thunder</b> — she 와 they 는 각각 누구입니까?","a":"she = 더글러스 과부댁, they = 그 집 하인들","tip":"한 문장 안에서 주어가 바뀝니다. they 를 과부댁 한 사람으로 잡으면 안 됩니다."},
+  {"t":"pron","q":"<b>them blamed clothes</b> 와 <b>them ornery sermons</b> 의 them 은 무엇입니까?","a":"'그것들을'이 아니라 those(그 ~들)입니다 — '그 빌어먹을 옷', '그 지긋지긋한 설교'","tip":"허크의 사투리에서는 those 자리에 them 을 씁니다. 목적어로 읽으면 문장이 무너집니다."},
+  {"t":"neg","q":"<b>they don’t seem to any air git through ’em, somehow</b> — 그 옷은 바람이 잘 통했습니까?","a":"아니요 — 공기가 도무지 통하지 않는 것 같았습니다","tip":"don’t 를 놓치면 정반대가 됩니다. ’em 은 그 옷을 가리키고 git 은 get 입니다."},
+  {"t":"neg","q":"<b>I hain’t slid on a cellar-door for—well, it ’pears to be years</b> — 허크는 요즘 지하실 문짝을 타고 미끄러져 놀았습니까?","a":"아니요 — 몇 년은 못 해 본 것 같다고 말하고 있습니다","tip":"hain’t 는 haven’t 입니다. 사투리 축약형이라 부정을 통째로 놓치기 쉽습니다."}
+ ],
+ "35.6.7": [
+  {"t":"mod","q":"<b>The widder eats by a bell</b> 의 by a bell 은 무슨 뜻입니까?","a":"종이 울리면 그에 맞춰서 — 정해진 종소리에 따라 밥을 먹는다는 뜻","tip":"'종 옆에서' 먹는다는 말이 아닙니다. 뒤의 goes to bed, gits up 에도 똑같이 걸립니다."},
+  {"t":"pron","q":"<b>a body can’t stand it</b> 의 a body 는 무엇을 가리킵니까?","a":"사람이라면 누구든지(= a person) — 허크 자신을 포함한 일반적인 사람","tip":"'몸뚱이'가 아닙니다. 허크의 사투리에서 a body 는 '사람'을 뜻합니다."},
+  {"t":"neg","q":"<b>everything’s so awful reg’lar a body can’t stand it</b> — 사람이 그 생활을 견딜 수 있다는 말입니까?","a":"아니요 — 견딜 수 없다는 말입니다","tip":"can’t 를 놓치면 정반대입니다. awful 은 '무섭다'가 아니라 '지독하게'라는 강조이고, so 뒤의 that 이 생략됐습니다."}
+ ],
+ "35.8.5": [
+  {"t":"mod","q":"<b>so nice</b> 와 뒤의 <b>it wasn’t no comfort</b> 는 어떤 관계입니까?","a":"원인과 결과입니다 — 말을 너무 점잖게 해야 해서 그 결과 편할 새가 없었다는 뜻(so ~ that 에서 that 이 빠졌습니다)","tip":"두 절을 따로 읽으면 '말은 점잖았다, 그리고 편하지 않았다'는 두 사실의 나열이 되어 연결이 끊깁니다."},
+  {"t":"neg","q":"<b>it wasn’t no comfort</b> — 허크는 편했습니까?","a":"아니요 — 조금도 편하지 않았습니다","tip":"wasn’t 와 no 로 부정이 겹쳤지만 사투리에서는 더 강한 부정입니다. '불편하지 않았다'로 뒤집으면 안 됩니다."},
+  {"t":"mod","q":"<b>to git a taste in my mouth</b> 는 무엇을 위한 것입니까?","a":"다락에 올라가 한바탕 욕을 퍼붓는 목적입니다 — 밍밍해진 입맛을 되찾으려고","tip":"rip out 은 '찢어내다'가 아니라 욕을 마구 쏟아낸다는 뜻입니다. 음식 맛 이야기가 아닙니다."},
+  {"t":"time","q":"<b>or I’d a died, Tom</b> — 허크는 실제로 죽었습니까?","a":"아니요 — '안 그랬으면 죽었을 거야'라는 가정입니다(I’d a died = I would have died)","tip":"여기서 or 는 '또는'이 아니라 '안 그러면'입니다."}
+ ],
+ "35.8.6": [
+  {"t":"neg","q":"<b>she wouldn’t let me gape, nor stretch, nor scratch</b> — 허크는 하품하고 기지개 켜고 긁을 수 있었습니까?","a":"아니요 — 셋 다 못 하게 했습니다","tip":"nor 가 앞의 wouldn’t let 을 그대로 이어받습니다. nor 를 '그리고'로 읽으면 허용한 것이 되어 버립니다."},
+  {"t":"mod","q":"<b>before folks</b> 는 무슨 뜻입니까?","a":"사람들 앞에서","tip":"'사람들보다 먼저'가 아닙니다. 남들이 보는 데서 그런 짓을 못 하게 했다는 뜻입니다."},
+  {"t":"who","q":"<b>[Then with a spasm of special irritation and injury]</b> — 이 대괄호 부분은 누구의 말입니까?","a":"작가가 끼워 넣은 설명(지문)입니다 — 허크가 한 말이 아닙니다","tip":"따옴표가 여기서 한 번 닫혔다가 다시 열립니다. 대사에 섞어 읽으면 뜻이 엉킵니다."},
+  {"t":"who","q":"<b>she prayed all the time</b> — 하루 종일 기도를 한 사람은 누구입니까?","a":"더글러스 과부댁 — 허크가 기도해야 했다는 말이 아닙니다","tip":"허크가 당한 일들이 줄줄이 이어져서 주어를 허크로 바꿔 읽기 쉽습니다."}
+ ],
+ "35.8.13": [
+  {"t":"time","q":"<b>I wouldn’t ever got into all this trouble if it hadn’t ’a’ been for that money</b> — 허크는 실제로 곤경에 빠졌습니까?","a":"네 — 실제로 빠졌습니다. 이것은 '그 돈만 없었더라면 안 그랬을 텐데'라는, 사실과 반대되는 가정입니다","tip":"가정법은 실제와 반대입니다. 그대로 읽으면 '곤경에 빠지지 않았다'는 정반대 결론이 나옵니다."},
+  {"t":"pron","q":"<b>take my sheer of it along with your’n</b> — it 과 your’n 은 각각 무엇입니까?","a":"it = 그 돈, your’n = yours(톰의 몫)","tip":"sheer 는 share(몫), your’n 은 yours 의 사투리입니다. 허크 몫까지 톰이 다 가지라는 말입니다."},
+  {"t":"neg","q":"<b>I don’t give a dern for a thing ’thout it’s tollable hard to git</b> — 허크는 어떤 것에 마음이 끌립니까?","a":"어지간히 어렵게 손에 넣는 것이 아니면 아무것도 탐나지 않습니다","tip":"’thout 은 without, 즉 unless(~가 아니면)입니다. don’t give a dern 은 '눈곱만큼도 관심 없다'입니다."},
+  {"t":"who","q":"<b>and you go and beg off for me with the widder</b> — 과부댁에게 가서 봐 달라고 빌 사람은 누구입니까?","a":"톰(you)입니다 — 허크가 직접 가는 것이 아닙니다","tip":"for me 는 '나 대신, 나를 위해'입니다. 말하는 사람이 허크라는 점을 놓치면 뒤집힙니다."}
+ ],
+ "35.9.0": [
+  {"t":"who","q":"이 대사를 하는 사람은 누구입니까?","a":"톰 — 허크를 부르며 달래고 있습니다","tip":"앞이 허크의 긴 하소연이라 그대로 이어지는 것으로 읽기 쉽습니다. Huck 을 부르는 쪽이 톰입니다."},
+  {"t":"neg","q":"<b>’Tain’t fair</b> 는 무슨 뜻입니까?","a":"It ain’t fair — '그건 공평하지 않아'라는 부정입니다","tip":"’T 는 It, ain’t 는 isn’t 입니다. 축약이 겹쳐 부정을 통째로 놓치기 쉽습니다."},
+  {"t":"time","q":"<b>if you’ll try this thing just a while longer you’ll come to like it</b> — 허크가 그 생활을 좋아하게 되는 것은 언제입니까?","a":"조금만 더 참고 해 본 뒤입니다 — 지금 좋아한다는 말이 아닙니다","tip":"come to like 는 '좋아하러 오다'가 아니라 '차차 좋아하게 되다'입니다."}
+ ],
+ "35.10.4": [
+  {"t":"who","q":"이 대사를 하는 사람은 누구입니까?","a":"허크","tip":"spile(spoil), dern 같은 사투리가 허크의 말투입니다. 강도단 이야기라 톰으로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>just as we’d got guns, and a cave, and all just fixed to rob</b> — 이 소동이 터진 것은 강도질 준비가 끝나기 전입니까, 끝난 뒤입니까?","a":"준비를 죄다 끝낸 바로 그 참입니다","tip":"just as 는 '~하자마자, 바로 그때'입니다. '~인 것처럼'으로 읽으면 시간이 사라집니다."},
+  {"t":"pron","q":"<b>this dern foolishness</b> 는 무엇을 가리킵니까?","a":"허크가 갑자기 부자가 되어 과부댁에서 점잖게 살아야 하게 된 이 소동","tip":"누가 어리석은 짓을 했다는 말이 아니라, 이 상황 자체를 두고 하는 말입니다."}
+ ],
+ "35.21.0": [
+  {"t":"who","q":"이 대사를 하는 사람은 누구이고, 과부댁으로 돌아가는 사람은 누구입니까?","a":"둘 다 허크입니다","tip":"b’long(belong), widder(widow) 같은 사투리가 허크의 말투입니다."},
+  {"t":"pron","q":"<b>tackle it</b> 과 <b>stand it</b> 의 it 은 무엇입니까?","a":"과부댁에서 점잖게 사는 그 생활","tip":"바로 뒤에 나오는 the gang(패거리)으로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>see if I can come to stand it</b> 의 if 와 <b>if you’ll let me b’long to the gang</b> 의 if 는 뜻이 같습니까?","a":"다릅니다 — 앞의 if 는 '~인지 아닌지'(알아볼 내용), 뒤의 if 는 '만약 ~라면'(조건)입니다","tip":"see 뒤의 if 는 whether 와 같습니다. 둘 다 '만약'으로 읽으면 문장이 엉킵니다."}
+ ],
+ "35.28.0": [
+  {"t":"neg","q":"<b>and never tell the gang’s secrets</b> — 이것은 비밀을 말하겠다는 맹세입니까?","a":"아니요 — 절대 말하지 않겠다는 맹세입니다","tip":"It’s to swear to ... and never tell ... 로 이어집니다. never 를 놓치면 맹세 내용이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>even if you’re chopped all to flinders</b> 는 어느 대목에 붙는 말입니까?","a":"비밀을 말하지 않겠다는 대목입니다 — 몸이 산산조각으로 잘려도 입을 열지 않는다는 뜻","tip":"실제로 잘렸다는 말이 아니라 '그렇게 되더라도'라는 양보입니다."},
+  {"t":"who","q":"<b>and kill anybody and all his family</b> — 누가 누구를 죽이겠다는 맹세입니까?","a":"맹세를 하는 패거리 쪽이, 패거리 중 한 명이라도 해친 자와 그 가족을 죽이겠다는 것입니다","tip":"앞의 It’s to swear to ... 에 계속 이어지는 맹세 내용입니다. to 가 생략돼 있어 새 문장으로 끊어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>that hurts one of the gang</b> 은 누구를 설명합니까?","a":"anybody — 패거리 중 한 명이라도 해친 바로 그 사람","tip":"바로 앞의 all his family 를 꾸미는 말로 붙이면 '가족이 해친 경우'가 되어 버립니다. 해친 자와 그 가족까지 함께 죽이겠다는 말입니다."}
+ ],
+ "35.30.1": [
+  {"t":"who","q":"<b>all that swearing’s got to be done at midnight</b> — 그 맹세를 해야 하는 쪽은 누구입니까?","a":"패거리에 들어오는 사람들(톰과 허크 쪽)입니다","tip":"수동이라 하는 사람이 문장에 드러나지 않습니다. ’s 는 is 가 아니라 has 입니다(has got to = ~해야 한다)."},
+  {"t":"mod","q":"<b>you can find</b> 는 무엇을 설명합니까?","a":"바로 앞의 the lonesomest, awfulest place — 네가 찾아낼 수 있는 가장 외지고 가장 으스스한 곳","tip":"관계사가 생략된 관계절입니다. 새 문장으로 끊어 읽으면 장소가 붕 뜹니다."},
+  {"t":"pron","q":"<b>but they’re all ripped up now</b> 의 they 는 무엇입니까?","a":"유령 나오는 집들(ha’nted houses)","tip":"사람으로 잡기 쉽습니다. 이 장 첫머리에서 마을 사람들이 보물을 찾느라 널빤지째 뜯어낸 그 집들입니다."}
+ ],
+ "35.33.2": [
+  {"t":"time","q":"<b>I’ll stick to the widder till I rot</b> — 언제까지 과부댁 곁에 붙어 있겠다는 것입니까?","a":"자기가 썩어 문드러질 때까지, 즉 죽을 때까지 쭉","tip":"조금 전에는 한 달만 해 보겠다고 했는데 여기서 마음이 바뀐 대목입니다."},
+  {"t":"mod","q":"<b>a reg’lar ripper of a robber</b> 는 무슨 뜻입니까?","a":"진짜 끝내주는 강도","tip":"'강도를 찢는 사람'이 아닙니다. X of a Y 는 뒤의 Y(강도)를 X 로 치켜세우는 표현이고, reg’lar 는 regular(진짜배기)입니다."},
+  {"t":"pron","q":"<b>and everybody talking ’bout it</b> 의 it 은 무엇입니까?","a":"허크가 끝내주는 강도가 되었다는 것","tip":"앞의 if 절에 이어지는 조건입니다. 과부댁 이야기로 잡기 쉽습니다."},
+  {"t":"who","q":"<b>she’ll be proud she snaked me in out of the wet</b> — 자랑스러워하는 사람과 거둬들여진 사람은 각각 누구입니까?","a":"자랑스러워하는 쪽은 과부댁(she), 거둬들여진 쪽은 허크(me)","tip":"snake ... in out of the wet 은 '비 맞는 데서 끌어들여 거둬 주다'입니다. 뱀과는 상관없습니다."}
+ ]
+}

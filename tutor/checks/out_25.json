@@ -1,0 +1,123 @@
+{
+ "25.0.0": [
+  {"t":"who","q":"<b>There comes a time</b> — 이 문장에서 실제로 '오는' 것(주어)은 무엇입니까?","a":"그런 '때'(a time) — There 는 자리만 채우는 말입니다","tip":"There 를 '거기'로 옮기면 어디를 말하는지 찾다가 길을 잃습니다. 동사 comes 뒤에 진짜 주어가 나옵니다."},
+  {"t":"mod","q":"<b>when he has a raging desire</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a time — 그 '때'가 어떤 때인지 풀어 줍니다","tip":"바로 앞에 boy’s life 가 있어 '인생을 살 때'로 붙이기 쉽습니다."},
+  {"t":"pron","q":"<b>he has a raging desire</b> 의 he 는 누구입니까?","a":"제대로 생겨먹은 사내아이라면 누구나(every rightly-constructed boy) — 톰 한 사람이 아닙니다","tip":"이 문장은 아직 톰 이야기가 아니라 사내아이 전체에 대한 일반론입니다. 톰이 등장하는 것은 다음 문장부터입니다."},
+  {"t":"time","q":"<b>There comes</b>(현재형)는 지금 벌어지고 있는 일입니까, 사내아이라면 누구에게나 오는 일이라는 일반론입니까?","a":"일반론 — 언제나 그렇다는 뜻입니다","tip":"'지금 그런 때가 왔다'로 읽으면 아직 나오지도 않은 장면을 상상하게 됩니다."}
+ ],
+ "25.0.8": [
+  {"t":"neg","q":"<b>any enterprise that offered entertainment and required no capital</b> — 헉이 끼어드는 일에는 밑천이 필요했습니까?","a":"아니요 — 밑천이 전혀 들지 않는 일이어야 했습니다","tip":"no capital 을 놓치면 '밑천이 드는 일'이 되어 조건이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that offered entertainment and required no capital</b> 는 무엇을 설명합니까?","a":"앞의 any enterprise(그 일) — 헉을 설명하는 말이 아닙니다","tip":"offered 와 required 둘 다 주어가 enterprise 입니다. '헉이 재미를 주고 밑천을 요구했다'로 읽지 않도록 주의하세요."},
+  {"t":"neg","q":"<b>a troublesome superabundance of that sort of time which is not money</b> — 헉에게 그런 시간은 모자랐습니까, 넘쳤습니까?","a":"골치가 아플 만큼 넘쳤습니다(superabundance = 넘쳐남)","tip":"troublesome 이 붙어 '시간이 없어 곤란했다'로 읽기 쉽지만 정반대입니다. '시간은 돈이다'를 뒤집어 '돈이 되지 않는 시간'이라고 비꼰 것입니다."}
+ ],
+ "25.3.1": [
+  {"t":"pron","q":"<b>It’s hid in mighty particular places</b> 의 It 은 무엇입니까?","a":"숨겨진 보물(강도들이 숨긴 돈)","tip":"It’s hid = It is hidden 입니다. '그것이 숨었다'가 아니라 '숨겨져 있다'는 수동입니다."},
+  {"t":"mod","q":"<b>mighty particular places</b> 에서 mighty 는 무엇을 꾸밉니까?","a":"뒤의 particular — '아주 특별한(까다롭게 정해진) 곳'이라는 뜻입니다","tip":"places 에 붙이면 '거대한 장소'가 되어 버립니다. 사투리에서 mighty 는 very 입니다."},
+  {"t":"mod","q":"<b>just where the shadow falls at midnight</b> 는 어디를 가리킵니까?","a":"바로 앞에서 말한 그 자리 — 늙어 죽은 나무의 가지 끝 아래, 자정에 그림자가 떨어지는 지점","tip":"섬이나 유령 나오는 집이 아니라 나무 밑 위치를 한 번 더 짚어 주는 말입니다."},
+  {"t":"who","q":"이 말을 하는 사람은 누구이고, <b>Huck</b> 은 문장에서 어떤 역할입니까?","a":"말하는 사람은 톰, Huck 은 상대를 부르는 말(부름말)입니다","tip":"places, Huck 을 이어 '헉의 장소'로 읽으면 안 됩니다. 앞 문장에서 헉이 물어보고 톰이 답하는 중입니다."}
+ ],
+ "25.9.1": [
+  {"t":"pron","q":"<b>it lays there</b> 의 it 과 <b>it’s mostly signs</b> 의 it 은 각각 무엇입니까?","a":"앞의 it 은 묻혀 있는 보물, 뒤의 it 은 그 누렇게 바랜 종이","tip":"한 문장 안에서 같은 it 이 서로 다른 것을 가리킵니다. 뒤의 it 을 보물로 잡으면 '보물이 온통 기호투성이'가 되어 버립니다."},
+  {"t":"time","q":"<b>by and by</b> 는 무슨 뜻입니까?","a":"이윽고, 한참 지난 뒤에","tip":"'옆에 나란히'가 아닙니다. 보물이 오래 놓여 녹슨 다음의 일이라는 순서를 알려 줍니다."},
+  {"t":"who","q":"<b>somebody finds an old yellow paper</b> — 그 종이를 찾아내는 사람은 누구입니까?","a":"누군지 모를 아무개(somebody) — 보물을 숨긴 강도들도, 톰도 아닙니다","tip":"앞 문장들에서 they(강도들)가 계속 주어였기 때문에 여기서도 강도로 이어 읽기 쉽습니다."},
+  {"t":"time","q":"<b>a paper that’s got to be ciphered over about a week</b> — 일주일 뒤에 해독한다는 뜻입니까, 해독하는 데 일주일쯤 걸린다는 뜻입니까?","a":"붙들고 일주일쯤 해독해야 한다는 뜻입니다","tip":"has got to = ~해야 한다, be ciphered 는 수동입니다. 종이가 스스로 무엇을 하는 것이 아닙니다."}
+ ],
+ "25.15.1": [
+  {"t":"pron","q":"<b>They always bury it</b> 의 They 는 누구입니까?","a":"보물을 숨기는 강도들(robbers) — 톰과 헉이 아닙니다","tip":"앞뒤가 톰과 헉의 대화라 '우리'로 읽기 쉽습니다. 앞에서 '누가 숨기느냐'는 물음에 톰이 '강도들이지'라고 답했습니다."},
+  {"t":"pron","q":"<b>bury it</b> 의 it 은 무엇입니까?","a":"보물(숨겨 둔 돈)","tip":"바로 앞 문장에 marks(표식)가 나와서 '표식을 묻는다'로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>that’s got one limb sticking out</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 a dead tree(죽은 나무)","tip":"유령 나오는 집이나 섬을 꾸미는 말이 아닙니다. 가지 하나가 삐죽 뻗어 나온 나무여야 한다는 조건입니다."}
+ ],
+ "25.15.2": [
+  {"t":"time","q":"<b>we’ve tried Jackson’s Island a little</b> — 잭슨 섬은 아직 안 해 본 곳입니까, 이미 해 본 곳입니까?","a":"이미 조금 해 본 곳입니다","tip":"현재완료(have tried)는 이미 끝난 경험입니다. 뒤의 can try it again(다시 해 볼 수도 있다)과 짝을 이룹니다."},
+  {"t":"pron","q":"<b>we can try it again some time</b> 의 it 은 무엇입니까?","a":"잭슨 섬(거기서 파 보는 일)","tip":"보물로 잡기 쉽지만, 방금 말한 장소를 받습니다."},
+  {"t":"mod","q":"<b>up the Still-House branch</b> 는 무엇이 있는 곳입니까?","a":"그 낡은 유령의 집이 있는 곳입니다","tip":"여기서 branch 는 나뭇가지가 아니라 개울 줄기(지류)입니다. 앞뒤로 나무 이야기가 이어져 나뭇가지로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>dead loads of ’em</b> 의 dead 는 무슨 뜻입니까?","a":"'죽은'이 아니라 '엄청나게'라는 강조 — 그런 나무가 지천으로 널렸다는 뜻입니다","tip":"바로 앞 dead-limb trees 의 dead(죽은 가지)와 뜻이 다릅니다. ’em 은 그 나무들입니다."}
+ ],
+ "25.34.0": [
+  {"t":"pron","q":"<b>you’d see ’em</b> 과 <b>what do they want to hop for?</b> 의 ’em·they 는 무엇을 가리킵니까?","a":"왕들(kings) — 다이아몬드가 아닙니다","tip":"앞에서 톰이 '유럽에 가면 왕들이 깡충깡충 널려 있는 걸 볼 거야'라고 했고 헉이 '왕이 뛰냐'고 되물은 대목입니다. 다이아몬드 이야기가 앞에 나와서 헷갈리기 쉽습니다."},
+  {"t":"neg","q":"<b>not hopping, of course</b> — 톰은 그들이 깡충깡충 뛴다고 말하고 있습니까?","a":"아니요 — 뛰는 게 아니라는 것을 못 박고 있습니다","tip":"hopping 이라는 낱말만 눈에 들어와 '뛰는 걸 본다'로 읽으면 대화가 거꾸로 됩니다."},
+  {"t":"neg","q":"<b>what do they want to hop for?</b> 는 정말로 이유를 묻는 질문입니까?","a":"아니요 — '뛸 이유가 어디 있냐(뛸 리가 없다)'는 반문입니다","tip":"물음표가 붙어 있지만 답을 바라는 질문이 아닙니다. 대시 사이에 끼어든 혼잣말입니다."},
+  {"t":"mod","q":"<b>scattered around, you know, in a kind of a general way</b> 는 무엇을 설명합니까?","a":"그 왕들이 눈에 띄는 모습 — 여기저기 두루 흩어져 있는 상태","tip":"you’d just see ’em 의 ’em 이 어떤 모습인지 덧붙인 말입니다. 앞의 hopping(뛰는 모습)과 짝을 이루어 대비됩니다."}
+ ],
+ "25.39.0": [
+  {"t":"pron","q":"<b>if they like it</b> 의 they 와 it 은 각각 무엇입니까?","a":"they = 왕들, it = 성 없이 이름 하나만 갖고 사는 것","tip":"바로 앞에서 톰이 '왕들은 이름 하나밖에 없어'라고 한 말을 그대로 받습니다."},
+  {"t":"neg","q":"<b>I don’t want to be a king and have only just a given name</b> — 말하는 사람이 싫다고 한 것은 무엇입니까?","a":"왕이 되어 이름 하나만 달랑 갖고 사는 것 — don’t want 가 뒤의 have 까지 걸립니다","tip":"and 뒤의 have 를 별개의 긍정문으로 읽으면 '이름 하나만 갖고 싶다'가 되어 정반대가 됩니다."},
+  {"t":"mod","q":"<b>like a nigger</b> 는 무엇에 붙는 말입니까?","a":"앞의 have only just a given name(이름 하나만 달랑 갖는다)에 붙습니다","tip":"king 에 붙이면 뜻이 완전히 달라집니다. 성 없이 이름만 불리는 처지를 견주는, 당시의 차별적 표현입니다."},
+  {"t":"who","q":"이 말을 하는 사람은 누구입니까?","a":"헉 — Tom 은 상대를 부르는 말입니다","tip":"문장 안에 Tom 이 있어 톰이 말하는 것으로 읽기 쉽습니다. 왕 이야기를 꺼낸 쪽이 톰, 싫다고 받는 쪽이 헉입니다."}
+ ],
+ "25.42.1": [
+  {"t":"who","q":"<b>threw themselves down</b> — 무엇을 던졌습니까?","a":"자기들 몸을 던졌습니다 — 그늘에 털썩 드러누웠다는 뜻입니다","tip":"목적어가 themselves 입니다. 들고 온 곡괭이와 삽을 던졌다고 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>hot and panting</b> 는 무엇을 설명하는 말입니까?","a":"도착했을 때 두 아이의 상태 — 더워서 헐떡이는 모습","tip":"날씨나 도착한 장소를 설명하는 말이 아닙니다. arrived 한 주어(They)의 모습입니다."},
+  {"t":"mod","q":"<b>to rest and have a smoke</b> 는 무엇을 말합니까?","a":"그늘에 드러누운 목적 — 쉬면서 담배 한 대 피우려고","tip":"앞의 arrived 에 붙이면 '쉬려고 도착했다'가 되어 순서가 흐트러집니다."}
+ ],
+ "25.50.1": [
+  {"t":"pron","q":"<b>get his claws on it</b> 과 <b>he’d clean it out</b> 의 he 와 it 은 각각 무엇입니까?","a":"he = 헉의 아빠(Pap), it = 헉이 갖게 될 그 돈","tip":"he 를 헉 자신으로 잡으면 걱정할 이유가 사라집니다. 앞에서 톰이 '좀 모아 두지 그러냐'고 한 그 돈입니다."},
+  {"t":"neg","q":"<b>if I didn’t hurry up</b> — 헉이 서둘러야 한다는 것은 무엇을 하는 일입니까?","a":"그 돈을 서둘러 다 써 버리는 일입니다 — 서두르지 않으면 아빠가 와서 몽땅 털어 갑니다","tip":"'서둘러 모아 둔다'로 읽기 쉽지만, 헉은 지금 저축이 소용없다고 말하는 중입니다."},
+  {"t":"time","q":"<b>Pap would come back ... if I didn’t hurry up</b> — 이미 벌어진 일입니까, 앞으로 벌어질 수 있다는 가정입니까?","a":"앞으로 벌어질 수 있다는 가정입니다","tip":"would, didn’t 로 과거형이 쓰였지만 과거 이야기가 아닙니다. 가정을 나타내는 과거형입니다."}
+ ],
+ "25.51.0": [
+  {"t":"mod","q":"맨 끝의 <b>and get married</b> 는 무엇에 이어지는 말입니까?","a":"I’m going to 에 이어지는 두 번째 계획입니다 — '결혼도 할 거야'","tip":"buy 의 목적어 목록에 이어 붙이면 '결혼을 산다'가 되어 버립니다. 사는 물건은 앞의 네 가지까지입니다."},
+  {"t":"who","q":"이 말을 하는 사람은 누구입니까?","a":"톰 — 헉이 '네 몫으로는 뭘 할 거냐'고 물은 데 대한 대답입니다","tip":"바로 앞 문장이 헉의 말이라 헉의 계획으로 읽기 쉽습니다. 다음 대사에서 헉이 '결혼?!' 하고 놀랍니다."},
+  {"t":"mod","q":"<b>a sure’nough sword</b> 에서 sure’nough 는 무엇을 꾸밉니까?","a":"뒤의 sword — sure enough 가 줄어든 말로 '진짜배기 칼(장난감이 아닌)'이라는 뜻입니다","tip":"'확실히'라는 부사로 읽으면 칼을 꾸미는 말이라는 게 보이지 않습니다."}
+ ],
+ "25.78.1": [
+  {"t":"pron","q":"<b>they’ll know</b> 와 <b>they’ll go for it</b> 의 they 는 누구입니까?","a":"그 구덩이를 보게 될 사람(somebody) — 톰과 헉이 아닙니다","tip":"앞의 We 에 이어 읽으면 '우리가 알아채고 달려든다'가 되어 서둘러야 할 이유가 사라집니다."},
+  {"t":"pron","q":"<b>they’ll go for it</b> 의 it 은 무엇입니까?","a":"여기 묻혀 있는 보물","tip":"go for it 은 '차지하려고 달려들다'입니다. 앞의 holes(구덩이)로 잡으면 뜻이 통하지 않습니다."},
+  {"t":"time","q":"<b>they’ll know in a minute</b> 의 in a minute 은 무슨 뜻입니까?","a":"금방, 순식간에","tip":"'1분 뒤에'라는 정확한 시각이 아니라 '눈 깜짝할 새'라는 뜻입니다."}
+ ],
+ "25.81.3": [
+  {"t":"who","q":"<b>the deep baying of a hound floated up out of the distance</b> — 저 멀리서 떠올라 온 것은 무엇입니까?","a":"사냥개가 아니라 그 개의 낮고 깊은 울부짖음(소리)입니다","tip":"주어의 중심은 baying 이고 of a hound 는 그것을 꾸밉니다. 동사에 가까운 hound 를 주어로 잡으면 개가 떠오르는 장면이 됩니다."},
+  {"t":"pron","q":"<b>an owl answered with his sepulchral note</b> 의 his 는 누구의 것입니까?","a":"그 올빼미 자신의 울음소리","tip":"바로 앞에 hound 가 있어 개의 소리로 잡기 쉽습니다. 화답한 쪽이 올빼미입니다."},
+  {"t":"mod","q":"<b>in the rustling leaves</b> 와 <b>in the murky nooks</b> 는 각각 무엇이 있던 자리입니까?","a":"앞은 정령들이 속삭인 자리, 뒤는 유령들이 도사린 자리","tip":"네 개의 절이 쉼표로만 이어져 있어 장소를 서로 바꿔 붙이기 쉽습니다."}
+ ],
+ "25.81.5": [
+  {"t":"time","q":"<b>they judged that twelve had come</b> 의 twelve 는 무엇입니까?","a":"열두 시(자정) — 자정이 되었다고 판단했다는 뜻입니다","tip":"'열두 명이 왔다'로 읽기 쉽습니다. 자정에 지는 그림자를 기다리던 장면입니다."},
+  {"t":"who","q":"시각을 판단하고 표시를 하고 파기 시작한 것은 누구입니까?","a":"톰과 헉 두 소년(they)","tip":"바로 앞 문장에 정령·유령·사냥개·올빼미가 줄줄이 나와 they 를 그쪽으로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>they marked where the shadow fell</b> — 표시를 한 곳은 어디입니까?","a":"그림자가 떨어진 그 땅바닥 자리","tip":"그림자 자체에 표시했다는 뜻이 아닙니다. where 절 전체가 marked 의 대상인 '자리'입니다."}
+ ],
+ "25.81.8": [
+  {"t":"mod","q":"<b>to hear the pick strike upon something</b> 는 무엇을 말합니까?","a":"가슴이 철렁 뛴 '이유' — 곡괭이가 뭔가에 부딪히는 소리를 듣고서","tip":"'~을 듣기 위해'라는 목적으로 읽으면 일부러 소리를 들으려 했다는 엉뚱한 뜻이 됩니다."},
+  {"t":"neg","q":"<b>they only suffered a new disappointment</b> — 그 소리가 났을 때 보물이 나왔습니까?","a":"아니요 — 매번 새로운 실망만 돌아왔습니다","tip":"only 를 놓치면 뭔가 찾아냈다는 뜻으로 읽힙니다. 다음 문장에서 돌이나 나무토막이었다고 밝힙니다."},
+  {"t":"time","q":"<b>every time their hearts jumped</b> — 이 일은 한 번 있었습니까, 되풀이됐습니까?","a":"되풀이됐습니다 — 그런 소리가 날 때마다입니다","tip":"every time 은 '~할 때마다'로 접속사처럼 쓰입니다. '매 시간'이 아닙니다."}
+ ],
+ "25.88.3": [
+  {"t":"neg","q":"<b>We can’t ever tell the right time</b> — 정확한 시각을 알 수 있다는 말입니까, 없다는 말입니까?","a":"도저히 알 수 없다는 말입니다","tip":"can’t ever 는 '절대 ~못 한다'입니다. 그리고 tell 은 '말하다'가 아니라 '알아내다, 분간하다'입니다."},
+  {"t":"mod","q":"<b>with witches and ghosts a-fluttering around so</b> 는 무엇을 설명합니까?","a":"지금 이 자리의 상황 — 마녀와 유령이 이렇게 주위를 팔랑거리며 돌아다니는 가운데라는 뜻","tip":"with 를 '~와 함께'로 읽으면 '마녀와 유령을 데리고'가 되어 버립니다. with + 명사 + ~ing 는 '~한 상태에서'입니다."},
+  {"t":"mod","q":"<b>this kind of thing’s too awful</b> — 너무 무섭다는 것은 무엇입니까?","a":"이런 짓, 즉 한밤중에 이런 데서 보물을 파는 일","tip":"앞의 '시각을 알 수 없다'는 내용을 받는 말이 아닙니다. besides 로 무섭다는 이유를 하나 더 대는 중입니다."}
+ ],
+ "25.88.4": [
+  {"t":"neg","q":"<b>I’m afeard to turn around</b> — 그는 뒤를 돌아봅니까?","a":"아니요 — 무서워서 돌아보지 못합니다","tip":"afeard 는 afraid 의 사투리입니다. '돌아서기가 무섭다'는 곧 돌아보지 못한다는 뜻입니다."},
+  {"t":"pron","q":"<b>maybe there’s others in front</b> 의 others 는 무엇을 가리킵니까?","a":"또 다른 귀신(유령)들","tip":"'다른 사람들'이 아닙니다. 앞 절의 something(뒤에 있는 그 무언가)과 같은 종류입니다."},
+  {"t":"mod","q":"<b>a-waiting for a chance</b> 는 무엇을 꾸밉니까?","a":"앞쪽에 있을지 모르는 그 others","tip":"in front 에서 끊으면 무엇이 기다리는지 사라집니다. a-waiting 은 waiting 의 옛 사투리 꼴입니다."}
+ ],
+ "25.101.2": [
+  {"t":"pron","q":"<b>but they don’t come sliding around in a shroud</b> 의 they 는 누구입니까?","a":"죽은 사람들(Dead people) — 유령이 아닙니다","tip":"이 문장은 '죽은 사람'과 '유령'을 갈라놓는 대목입니다. they 를 유령으로 잡으면 대비가 통째로 무너집니다."},
+  {"t":"neg","q":"<b>they don’t come sliding around ... and peep ... and grit their teeth</b> — don’t 은 어디까지 걸립니까?","a":"뒤에 이어지는 세 동작(다가오기·들여다보기·이 갈기) 모두에 걸립니다","tip":"죽은 사람은 그 셋 중 어느 것도 하지 않는다는 뜻입니다. 두 번째 and 부터 긍정으로 읽으면 정반대가 됩니다."},
+  {"t":"neg","q":"<b>when you ain’t noticing</b> 은 언제입니까?","a":"네가 눈치채지 못하고 있을 때","tip":"ain’t = are not 입니다. 부정을 놓치면 '알아채고 있을 때'가 되어 오싹함이 사라집니다."},
+  {"t":"mod","q":"<b>the way a ghost does</b> 는 무엇을 설명합니까?","a":"앞에 늘어놓은 그 동작들의 방식 — 유령이나 그렇게 한다는 뜻입니다","tip":"the way 는 '~하는 식으로'라는 접속사입니다. '유령의 길'이라는 명사로 읽으면 문장이 끊깁니다."}
+ ],
+ "25.104.0": [
+  {"t":"pron","q":"<b>they don’t like to go where a man’s been murdered</b> 의 they 는 누구입니까?","a":"동네 사람들 — 유령이 아닙니다","tip":"바로 앞에서 헉이 '사람들은 그 집에 낮에도 밤에도 얼씬 안 한다'고 한 말을 받습니다."},
+  {"t":"neg","q":"<b>nothing’s ever been seen around that house except in the night</b> — 그 집 근처에서는 아무것도 목격된 적이 없다는 말입니까?","a":"아니요 — 밤을 빼면 목격된 적이 없다, 즉 밤에는 목격된 적이 있다는 말입니다","tip":"except 를 놓치면 정반대가 됩니다. 바로 뒤에 밤에 본 것이 무엇인지 나옵니다."},
+  {"t":"mod","q":"<b>slipping by the windows</b> 는 무엇을 꾸밉니까?","a":"푸른 불빛 몇 개(some blue lights)","tip":"사람이나 유령이 창가를 지나간다는 뜻이 아닙니다. 목격된 것은 불빛뿐입니다."},
+  {"t":"neg","q":"<b>no regular ghosts</b> 는 무슨 뜻입니까?","a":"제대로 된 유령이 보인 적은 없다는 뜻 — 그저 푸른 불빛뿐이었습니다","tip":"regular 는 '정기적인'이 아니라 '제대로 된, 진짜'입니다. 톰이 유령의 집을 별것 아니라고 깎아내리는 마무리입니다."}
+ ],
+ "25.105.0": [
+  {"t":"pron","q":"<b>one of them blue lights</b> 의 them 은 무슨 뜻입니까?","a":"those — '그 푸른 불빛들 중 하나'라는 뜻입니다","tip":"목적격 them('그들에게')이 아닙니다. 사투리에서 them 은 those 대신 쓰입니다."},
+  {"t":"mod","q":"<b>flickering around</b> 는 무엇을 꾸밉니까?","a":"그 푸른 불빛","tip":"바로 뒤에 Tom 이 있어 톰이 어른거린다고 읽기 쉽습니다. Tom 은 부름말입니다."},
+  {"t":"pron","q":"<b>there’s a ghost mighty close behind it</b> 의 it 은 무엇입니까?","a":"그 푸른 불빛 — 불빛 바로 뒤에 유령이 붙어 있다는 뜻입니다","tip":"mighty 는 '아주'라는 강조입니다. '강력하게 가까이'가 아니라 '아주 가까이'입니다."},
+  {"t":"who","q":"이 말을 하는 사람은 누구입니까?","a":"헉 — Tom 은 상대를 부르는 말입니다","tip":"앞 문장에서 유령의 집을 별것 아니라고 한 쪽이 톰, 그래도 무섭다고 받는 쪽이 헉입니다."}
+ ],
+ "25.108.1": [
+  {"t":"who","q":"<b>stood the “ha’nted” house</b> — 이 문장에서 서 있던 것(주어)은 무엇입니까?","a":"그 '유령 나오는' 집(the “ha’nted” house)","tip":"동사 stood 가 주어보다 먼저 나온 도치입니다. There 나 valley 를 주어로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>the moonlit valley below them</b> 의 them 은 누구입니까?","a":"언덕을 내려가고 있던 톰과 헉","tip":"골짜기가 두 아이보다 아래에 있다는 뜻입니다. 집이나 울타리로 잡으면 위치 관계가 무너집니다."},
+  {"t":"mod","q":"<b>rank weeds smothering the very doorsteps</b> 에서 rank 는 무엇이고 무엇을 꾸밉니까?","a":"'무성하게 우거진'이라는 형용사로 weeds(잡초)를 꾸밉니다","tip":"'계급·등급'이라는 명사로 읽으면 말이 되지 않습니다."},
+  {"t":"mod","q":"<b>the very doorsteps</b> 의 very 는 무슨 뜻입니까?","a":"'바로 그' — 현관 계단까지도 잡초가 뒤덮었다는 강조입니다","tip":"very 를 '매우'로 읽으면 붙일 곳이 없습니다. 명사 앞의 the very ~ 는 '바로 그 ~'입니다."}
+ ],
+ "25.108.2": [
+  {"t":"neg","q":"<b>half expecting to see a blue light flit past a window</b> — 소년들이 실제로 푸른 불빛을 보았습니까?","a":"아니요 — 볼지도 모른다고 반쯤 기대하며 바라보았을 뿐입니다","tip":"expecting to see 는 아직 보지 못한 것을 기다리는 상태입니다. '반쯤 보였다'로 읽지 않도록 주의하세요."},
+  {"t":"mod","q":"<b>to give the haunted house a wide berth</b> 는 무슨 뜻입니까?","a":"유령의 집을 멀찍이 돌아 피하려고","tip":"give ~ a wide berth 는 '~을 크게 피하다'로 굳어진 표현입니다. 집에 무엇을 준다는 뜻이 아닙니다."},
+  {"t":"who","q":"<b>as befitted the time and the circumstances</b> — 시간과 상황에 걸맞았던 것은 무엇입니까?","a":"낮은 목소리로 이야기한 것(talking in a low tone)","tip":"뒤에 나오는 '오른쪽으로 방향을 튼 일'에 붙이면 초점이 어긋납니다."},
+  {"t":"mod","q":"<b>that adorned the rearward side of Cardiff Hill</b> 는 무엇을 꾸밉니까?","a":"그 숲(the woods)","tip":"바로 앞에 homeward 가 있어 집이나 가는 길을 꾸미는 것으로 읽기 쉽습니다."}
+ ]
+}

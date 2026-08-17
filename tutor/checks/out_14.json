@@ -1,0 +1,122 @@
+{
+ "14.1.3": [
+  {"t":"pron","q":"<b>lifting two-thirds of his body into the air</b> — 여기서 his 는 누구입니까?","a":"그 작은 초록 자벌레","tip":"사람에게 쓰는 his 라서 톰으로 잡기 쉽습니다. 이 대목에서는 벌레를 he/his 로 받고 있습니다."},
+  {"t":"who","q":"<b>for he was measuring, Tom said</b> — 길이를 재고 있던 쪽과, 그렇게 말한 쪽은 각각 누구입니까?","a":"재고 있던 것은 자벌레(he), 그렇게 말한 사람은 톰","tip":"Tom said 는 중간에 끼워 넣은 말입니다. he 를 톰으로 잡으면 톰이 자를 대고 재는 장면이 되어 버립니다."},
+  {"t":"who","q":"<b>came decisively down upon Tom’s leg and began a journey over him</b> — 내려와서 여행을 시작한 쪽은 누구입니까?","a":"자벌레 — him(몸을 타고 간 대상)이 톰입니다","tip":"바로 앞에 Tom’s leg 가 있어 톰이 움직였다고 읽기 쉽지만, 주어는 계속 it(벌레)입니다."},
+  {"t":"neg","q":"<b>without the shadow of a doubt a gaudy piratical uniform</b> — 톰은 그 옷이 해적 복장일지 반신반의했습니까?","a":"아니요 — 의심의 그림자조차 없이 확신했습니다","tip":"without 이 붙어 있어 부정으로 읽기 쉽지만 '의심이 전혀 없다', 곧 강한 확신입니다."}
+ ],
+ "14.1.4": [
+  {"t":"mod","q":"<b>a dead spider five times as big as itself</b> — 다섯 배 큰 쪽은 무엇입니까?","a":"죽은 거미가 그 개미보다 다섯 배 큽니다","tip":"as big as itself 의 itself 가 개미입니다. 거꾸로 읽으면 개미가 거미보다 큰 장면이 되어 우스워집니다."},
+  {"t":"pron","q":"<b>in its arms</b> 의 its 와 <b>lugged it straight up a tree-trunk</b> 의 it 은 각각 무엇입니까?","a":"its = 개미(그 팔), it = 죽은 거미","tip":"같은 문장 안에서 its 와 it 이 서로 다른 것을 가리킵니다. 안고 있는 쪽이 개미, 안긴 쪽이 거미입니다."},
+  {"t":"neg","q":"<b>from nowhere in particular</b> — 개미들이 어디서 나왔는지 밝혀져 있습니까?","a":"아니요 — 딱히 어디랄 곳도 없이 불쑥 나타났습니다","tip":"nowhere 가 부정어입니다. '특별한 곳에서 왔다'로 뒤집어 읽지 않도록 주의하세요."}
+ ],
+ "14.1.5": [
+  {"t":"pron","q":"<b>she took wing and went off to see about it</b> — she 와 it 은 각각 무엇입니까?","a":"she = 무당벌레, it = '집에 불이 났다'는 그 일","tip":"she 라고 해서 사람이 아닙니다. 톰이 노래로 일러 준 그 소식을 확인하러 날아간 것입니다."},
+  {"t":"pron","q":"<b>which did not surprise the boy</b> — which 는 무엇을 받습니까?","a":"무당벌레가 그 말을 곧이듣고 날아가 버린 일 전체","tip":"which 가 앞 문장의 내용 전체를 받는 경우입니다. 사물 하나를 찾으려 하면 길을 잃습니다."},
+  {"t":"neg","q":"<b>did not surprise the boy</b> — 톰은 무당벌레가 날아가자 놀랐습니까?","a":"아니요 — 전혀 놀라지 않았습니다(그럴 줄 알고 있었습니다)","tip":"did not 을 놓치면 '깜짝 놀랐다'가 되어 뒤에 붙은 이유 설명과 앞뒤가 맞지 않게 됩니다."},
+  {"t":"time","q":"<b>he had practised upon its simplicity more than once</b> — 톰이 이 장난을 한 것은 이번이 처음입니까?","a":"아니요 — 전에도 한두 번이 아니게 해 본 장난입니다","tip":"had practised(대과거)는 이번 일보다 더 앞선 때를 말합니다. more than once = 한 번 이상."}
+ ],
+ "14.1.8": [
+  {"t":"mod","q":"<b>a flash of blue flame</b> 은 무엇을 설명하는 말입니까?","a":"휙 내려온 그 어치(jay) — 푸른 불꽃이 번쩍하는 것 같았다는 뜻","tip":"불꽃이라는 물건이 따로 나타난 것이 아닙니다. 바로 앞 명사를 다시 말하는 동격입니다."},
+  {"t":"who","q":"<b>trilled out her imitations of her neighbors</b> — 흉내 낸 쪽과 흉내를 당한 쪽은 각각 누구입니까?","a":"흉내 낸 쪽은 캣버드, 흉내를 당한 쪽은 이웃 새들","tip":"her imitations of her neighbors 는 '이웃 새들을 흉내 낸 소리'입니다. 이웃이 캣버드를 흉내 낸 것이 아닙니다."},
+  {"t":"pron","q":"<b>eyed the strangers with a consuming curiosity</b> — the strangers 는 누구입니까?","a":"톰 일행 세 아이 — 새의 눈에 낯선 존재입니다","tip":"제3의 낯선 사람이 등장한 것이 아닙니다. 뒤에 나오는 chatter at the boys 가 같은 대상입니다."},
+  {"t":"neg","q":"<b>had probably never seen a human being before</b> — 이 야생 동물들은 전에 사람을 본 적이 있습니까?","a":"아니요 — 아마 한 번도 본 적이 없습니다","tip":"never 를 놓치면 '전에 사람을 본 적이 있어서'가 되어 겁 없이 다가온 이유가 사라집니다."}
+ ],
+ "14.1.9": [
+  {"t":"mod","q":"<b>All Nature was wide awake</b> — wide 는 무엇을 꾸미는 말입니까?","a":"바로 뒤의 awake — '완전히 잠에서 깬'이라는 뜻","tip":"'넓게'라는 뜻이 아닙니다. wide awake 는 통째로 '말똥말똥 깨어 있는'입니다."},
+  {"t":"who","q":"<b>long lances of sunlight pierced down through the dense foliage</b> — 빽빽한 잎사귀를 뚫고 내려온 것은 무엇입니까?","a":"긴 창처럼 뻗어 든 햇살","tip":"진짜 창(무기)이 떨어진 것이 아닙니다. lances of sunlight 는 '창처럼 뻗은 햇살 줄기'라는 비유입니다."},
+  {"t":"mod","q":"<b>far and near</b> 는 무엇을 설명합니까?","a":"햇살이 내리꽂힌 범위 — 멀리서도 가까이서도 뚫고 들어왔다는 뜻","tip":"나비나 자연 전체가 아니라 바로 앞의 pierced down 에 붙는 말입니다."}
+ ],
+ "14.2.0": [
+  {"t":"pron","q":"<b>the other pirates</b> 는 구체적으로 누구입니까?","a":"조와 헉 — 톰을 뺀 나머지 두 아이","tip":"새로운 해적 무리가 나타난 것이 아닙니다. 세 아이가 스스로를 해적이라 부르고 있습니다."},
+  {"t":"who","q":"<b>in a minute or two were stripped</b> — 아이들의 옷을 벗긴 사람이 따로 있었습니까?","a":"아니요 — 아이들이 스스로 옷을 훌렁 벗어 던진 것입니다","tip":"were stripped 가 수동태 꼴이라 누가 벗겼다고 읽기 쉽습니다. 여기서는 '옷을 벗은 상태가 되었다'는 뜻입니다."},
+  {"t":"time","q":"<b>in a minute or two</b> — 아이들이 물속에서 뛰놀기까지 얼마나 걸렸습니까?","a":"소리를 지르며 달려 나간 지 일이 분 만에","tip":"in + 시간은 '~ 안에, ~ 만에'입니다. '일이 분 동안'이라는 뜻이 아닙니다."}
+ ],
+ "14.3.1": [
+  {"t":"mod","q":"<b>sweetened with such a wildwood charm as that</b> 는 무엇을 설명합니까?","a":"바로 앞의 water — 그런 숲속의 정취로 맛이 든 그 물","tip":"felt that water 에서 문장이 끊긴 것처럼 보이지만 water 는 that절의 주어이고, 이 분사구가 그 water 를 꾸밉니다."},
+  {"t":"mod","q":"<b>made cups of broad oak or hickory leaves</b> — of 이하는 무엇을 말합니까?","a":"컵의 재료 — 널찍한 참나무나 히코리 잎으로 컵을 만들었다는 뜻","tip":"'잎사귀에 담긴 컵'이나 '컵과 잎'이 아닙니다. make A of B = B로 A를 만들다."},
+  {"t":"who","q":"<b>would be a good enough substitute for coffee</b> — 무엇이 무엇을 대신한다는 말입니까?","a":"그 샘물이 커피를 대신한다는 뜻입니다","tip":"substitute for X 는 'X 대신 쓰는 것'입니다. 커피가 물을 대신하는 것으로 뒤집어 읽기 쉽습니다."}
+ ],
+ "14.3.2": [
+  {"t":"pron","q":"<b>they stepped to a promising nook in the river-bank</b> — 여기서 they 는 세 명 전부입니까?","a":"아니요 — 톰과 헉 둘입니다. 조는 베이컨을 썰다 말고 기다리는 중이었습니다","tip":"앞에 Joe 가 먼저 나와서 셋 다로 잡기 쉽습니다. 바로 앞 절의 주어가 Tom and Huck 입니다."},
+  {"t":"who","q":"<b>asked him to hold on a minute</b> — 잠깐 기다리게 된 쪽은 누구입니까?","a":"조(him) — 톰과 헉이 조에게 부탁한 것입니다","tip":"hold on 은 '붙잡다'가 아니라 '잠깐 기다리다'입니다. 베이컨 굽기를 잠시 미루라는 말입니다."},
+  {"t":"time","q":"<b>almost immediately they had reward</b> — 성과가 난 것은 언제입니까?","a":"낚싯줄을 던지고 거의 곧바로","tip":"immediately 앞의 almost 때문에 '거의 성과가 없었다'로 읽으면 안 됩니다. almost 는 immediately 를 꾸밉니다."}
+ ],
+ "14.3.5": [
+  {"t":"pron","q":"<b>after he is caught the better he is</b> — 여기서 he 는 누구입니까?","a":"민물고기(a fresh-water fish)","tip":"사람으로 잡으면 '잡힌 사람이 더 낫다'는 이상한 말이 됩니다. 물고기를 he 로 받고 있습니다."},
+  {"t":"time","q":"<b>the quicker a fresh-water fish is on the fire after he is caught the better he is</b> — 이 말은 무슨 뜻입니까?","a":"잡은 뒤 불에 빨리 올릴수록 그만큼 더 맛있다는 뜻입니다","tip":"the 비교급 ~, the 비교급 ~ 구조입니다. after he is caught 가 중간에 끼어 있어 두 덩어리가 안 보이기 쉽습니다."},
+  {"t":"neg","q":"<b>they reflected little upon ...</b> — 아이들은 그 점을 곰곰이 생각해 봤습니까?","a":"아니요 — 거의 생각해 보지 않았습니다","tip":"little 은 '조금 (했다)'이 아니라 '거의 ~않다'는 부정어입니다. a little 과 뜻이 정반대입니다."},
+  {"t":"who","q":"<b>what a sauce open-air sleeping, open-air exercise, bathing, and a large ingredient of hunger make</b> — 훌륭한 양념 노릇을 하는 것들은 무엇입니까?","a":"야외에서 자기, 야외에서 몸 쓰기, 물놀이, 그리고 듬뿍 든 배고픔 — 이 넷입니다","tip":"동사 make 의 주어가 넷이나 나열되어 뒤로 밀려 있습니다. 감탄문 어순이라 what a sauce 가 먼저 나옵니다."}
+ ],
+ "14.4.1": [
+  {"t":"pron","q":"<b>solemn monarchs of the forest</b> 는 무엇을 가리킵니까?","a":"숲의 거대한 나무들","tip":"진짜 왕이 나온 것이 아닙니다. 큰 나무를 왕에 빗댄 말이고, 뒤의 crowns·regalia 도 그 비유를 이어 갑니다."},
+  {"t":"mod","q":"<b>hung from their crowns to the ground with a drooping regalia of grape-vines</b> 는 무엇을 설명합니까?","a":"바로 앞의 monarchs, 곧 그 거목들","tip":"hung 은 '그들이 매달았다'는 과거 동사가 아니라 앞 명사를 꾸미는 과거분사입니다. 아이들이 매달린 것이 아닙니다."},
+  {"t":"mod","q":"<b>from their crowns to the ground</b> — 어디서 어디까지라는 말입니까?","a":"나무 꼭대기(우듬지)부터 땅바닥까지","tip":"crown 이 '왕관'이 아니라 '나무 꼭대기'로 쓰였습니다. 왕 비유 때문에 일부러 고른 단어입니다."}
+ ],
+ "14.5.1": [
+  {"t":"pron","q":"<b>the shore it lay closest to</b> 의 it 은 무엇입니까?","a":"그 섬","tip":"섬이 가장 가까이 붙어 있던 그 기슭이라는 뜻입니다. it 을 기슭으로 잡으면 말이 꼬입니다. shore 뒤에 관계사 that 이 빠져 있습니다."},
+  {"t":"mod","q":"<b>about three miles long and a quarter of a mile wide</b> — 4분의 1마일은 섬의 무엇입니까?","a":"폭(너비) — 길이가 약 3마일입니다","tip":"long 과 wide 를 뒤집어 읽으면 가늘고 긴 섬이 넓적한 섬으로 바뀝니다."},
+  {"t":"neg","q":"<b>a narrow channel hardly two hundred yards wide</b> — 그 물길의 폭은 200야드보다 넓습니까?","a":"아니요 — 200야드도 채 안 됩니다","tip":"hardly 는 '거의 ~않다'는 부정어입니다. '힘겹게 200야드'로 읽으면 폭이 있는 물길이 되어 버립니다."}
+ ],
+ "14.6.0": [
+  {"t":"time","q":"<b>For some time, now, the boys had been dully conscious of a peculiar sound</b> — 아이들이 그 소리를 느끼기 시작한 것은 방금입니까?","a":"아니요 — 얼마 전부터 죽 어렴풋이 느껴 오던 중이었습니다","tip":"had been ~ 은 그 전부터 이어져 온 상태를 말합니다. now 가 붙어 있어 '지금 막'으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>just as one sometimes is</b> 의 one 과 <b>he takes no distinct note of</b> 의 he 는 각각 누구입니까?","a":"둘 다 같은 사람 — '사람이면 누구나'를 가리키는 일반적인 사람입니다","tip":"숫자 '하나'도, 아이들 중 한 명도 아닙니다. is 뒤에는 conscious 가 생략되어 있습니다."},
+  {"t":"neg","q":"<b>a clock which he takes no distinct note of</b> — 그 사람은 시계 소리에 또렷이 주의를 기울입니까?","a":"아니요 — 딱히 신경 쓰지 않습니다","tip":"take note of ~ 사이에 no 가 들어가 부정이 됩니다. no 를 놓치면 비유 전체가 반대가 됩니다."}
+ ],
+ "14.13.4": [
+  {"t":"pron","q":"<b>what the men in them were doing</b> 의 them 은 무엇입니까?","a":"주변을 오가던 그 작은 배들(skiffs)","tip":"바로 앞에 ferryboat 가 있어 나룻배로 잡기 쉽습니다. 나룻배는 한 척이라 them 이 될 수 없습니다."},
+  {"t":"neg","q":"<b>the boys could not determine what the men in them were doing</b> — 아이들은 그 사람들이 무엇을 하는지 알아냈습니까?","a":"아니요 — 알아내지 못했습니다","tip":"could not 을 놓치면 이어지는 '무슨 일일까' 하는 궁금증 장면이 통째로 사라집니다."},
+  {"t":"mod","q":"<b>in the neighborhood of the ferryboat</b> 는 무엇을 설명합니까?","a":"작은 배들이 떠 있던 자리 — 나룻배 근처","tip":"neighborhood 는 여기서 '동네'가 아니라 '근처, 언저리'입니다."}
+ ],
+ "14.13.5": [
+  {"t":"time","q":"<b>Presently</b> 는 무슨 뜻입니까?","a":"'이윽고, 곧' — 얼마쯤 지난 뒤라는 뜻입니다","tip":"present(현재) 때문에 '지금'으로 읽기 쉽지만, 옛 영어에서 presently 는 '곧'입니다."},
+  {"t":"pron","q":"<b>as it expanded and rose in a lazy cloud</b> 의 it 은 무엇입니까?","a":"뿜어져 나온 그 하얀 연기 덩어리","tip":"바로 앞에 ferryboat 가 있어 나룻배로 잡기 쉽습니다. 퍼지며 피어오른 것은 연기입니다."},
+  {"t":"time","q":"소리가 아이들 귀에 닿은 것은 연기가 보이기 전입니까, 본 뒤입니까?","a":"본 뒤 — 연기가 먼저 보이고, 그것이 퍼져 오를 때 소리가 뒤늦게 도착했습니다","tip":"as ~ 절이 그 시점입니다. 멀어서 소리가 늦게 오는 장면이라 순서가 중요합니다."},
+  {"t":"pron","q":"<b>was borne to the listeners</b> 의 the listeners 는 누구입니까?","a":"소리를 듣고 있던 톰·조·헉 세 아이","tip":"나룻배 위의 사람들이 아닙니다. borne 은 bear(나르다)의 과거분사로 '실려 왔다'는 뜻입니다."}
+ ],
+ "14.15.0": [
+  {"t":"pron","q":"<b>they done that last summer</b> 의 they 는 누구입니까?","a":"마을 사람들(물에 빠진 사람을 찾는 어른들)","tip":"톰 일행이 아닙니다. done 은 사투리로 did 를 쓴 것입니다."},
+  {"t":"pron","q":"<b>that makes him come up to the top</b> — that 과 him 은 각각 무엇입니까?","a":"that = 물 위로 대포를 쏘는 일, him = 물에 빠져 죽은 사람(의 시체)","tip":"him 을 대포 쏘는 사람으로 잡으면 장면이 뒤집힙니다. 떠오르는 쪽은 익사자입니다."},
+  {"t":"time","q":"<b>when Bill Turner got drownded</b> — 빌 터너가 물에 빠져 죽은 것은 언제입니까?","a":"작년 여름 — 지금 벌어지는 일이 아닙니다","tip":"they shoot 처럼 현재형이 섞여 나와 헷갈리지만, 그 현재형은 '보통 그렇게 한다'는 설명입니다."}
+ ],
+ "14.15.1": [
+  {"t":"pron","q":"<b>put quicksilver in ’em and set ’em afloat</b> 의 ’em 은 무엇입니까?","a":"빵 덩어리들(loaves of bread)","tip":"’em 은 them 의 줄임말입니다. 사람에게 수은을 넣는 것이 아닙니다."},
+  {"t":"pron","q":"<b>they’ll float right there and stop</b> 의 they 는 무엇입니까?","a":"그 빵 덩어리들","tip":"바로 앞에 anybody that’s drownded 가 있어 사람으로 잡기 쉽습니다. 떠가서 멈추는 것은 빵입니다."},
+  {"t":"mod","q":"<b>wherever there’s anybody that’s drownded</b> 는 무엇을 정해 주는 말입니까?","a":"빵이 멈춰 서는 자리 — 물에 빠져 죽은 사람이 있는 바로 그 지점","tip":"wherever 는 '어디든 그곳에서'라는 장소를 정하는 말입니다. 시간이나 조건이 아닙니다."}
+ ],
+ "14.20.0": [
+  {"t":"pron","q":"<b>The other boys</b> 는 누구입니까?","a":"조와 헉 — 톰을 뺀 나머지 두 아이","tip":"톰의 말에 고개를 끄덕인 쪽입니다. 마을 아이들이 아닙니다."},
+  {"t":"mod","q":"<b>uninstructed by an incantation</b> 는 무엇을 설명합니까?","a":"바로 앞의 an ignorant lump of bread — 주문을 받지 못한 그 빵 덩어리","tip":"아이들이 주문을 못 배웠다는 뜻이 아닙니다. 콤마 사이에 끼워 넣어 빵을 꾸미는 말입니다."},
+  {"t":"neg","q":"<b>could not be expected to act very intelligently</b> — 빵이 똑똑하게 움직일 거라고 기대할 수 있습니까?","a":"아니요 — 기대할 수 없다는 뜻입니다","tip":"not 이 expect 에 붙습니다. '똑똑하게 굴지 않기를 기대했다'가 아닙니다."},
+  {"t":"who","q":"<b>when set upon an errand of such gravity</b> — 그 중대한 심부름에 보내진 것은 누구/무엇입니까?","a":"빵 덩어리","tip":"when it was set 에서 it was 가 생략된 형태입니다. 아이들이 심부름을 간 것이 아닙니다. gravity 는 '중력'이 아니라 '중대함'입니다."}
+ ],
+ "14.25.1": [
+  {"t":"who","q":"<b>they were missed; they were mourned</b> — 그리워하고 애도하는 쪽과, 그 대상이 되는 쪽은 각각 누구입니까?","a":"그리워·애도하는 쪽은 마을 사람들, 그 대상은 톰·조·헉 세 아이","tip":"수동태라서 주어 they 가 하는 일로 읽기 쉽습니다. 세 아이는 '당하는' 쪽입니다."},
+  {"t":"who","q":"<b>accusing memories of unkindness to these poor lost lads</b> — 모질게 군 쪽과 그 대상은 각각 누구입니까?","a":"모질게 군 쪽은 마을 사람들, 당한 쪽은 이 불쌍한 아이들","tip":"accusing 은 그 기억이 마을 사람들 스스로를 탓하게 만든다는 뜻입니다. 아이들이 모질게 굴었다는 말이 아닙니다."},
+  {"t":"pron","q":"<b>the departed</b> 는 누구입니까?","a":"죽었다고 여겨지는 톰·조·헉 세 아이","tip":"'떠난 사람'이 아니라 '죽은 사람'이라는 뜻으로 쓰였습니다. 실제로 죽지는 않았고 마을이 그렇게 믿고 있을 뿐입니다."},
+  {"t":"who","q":"<b>the envy of all the boys</b> — 부러워하는 쪽은 누구입니까?","a":"마을의 다른 아이들 — 부러움을 받는 쪽이 톰 일행입니다","tip":"envy of X 가 여기서는 'X가 품는 부러움의 대상'입니다. 톰 일행이 부러워한 것이 아닙니다."}
+ ],
+ "14.26.3": [
+  {"t":"time","q":"<b>then fell to guessing at ...</b> — 짐작을 시작한 것은 저녁을 먹기 전입니까, 먹은 뒤입니까?","a":"먹은 뒤 — 물고기를 잡고 저녁을 지어 먹은 다음입니다","tip":"fall to ~ing 는 '~하기 시작하다'입니다. '넘어졌다'가 아닙니다."},
+  {"t":"who","q":"<b>the pictures they drew</b> — 그 '그림'을 그린 쪽은 누구이고, 실제 그림입니까?","a":"톰 일행 세 아이가 머릿속으로 그려 본 장면입니다(실제 그림이 아닙니다)","tip":"pictures 뒤에 관계사 that 이 빠져 있습니다. 마을 사람들이 그린 것이 아닙니다."},
+  {"t":"who","q":"<b>the public distress on their account</b> — 괴로워한 쪽과 그 괴로움의 원인은 각각 누구입니까?","a":"괴로워한 쪽은 마을 사람들, 원인은 아이들 자신(their)","tip":"on one’s account 는 '~ 때문에'입니다. 아이들이 괴로웠다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>—from their point of view</b> 는 무엇에 붙인 단서입니까?","a":"'흐뭇했다(gratifying)'는 그 판단 — 어디까지나 아이들 눈에만 흐뭇했다는 뜻입니다","tip":"대시 뒤에서 작가가 슬쩍 비꼬는 대목입니다. 이 단서를 놓치면 마을 사람들도 흐뭇했다는 말처럼 읽힙니다."}
+ ],
+ "14.27.1": [
+  {"t":"pron","q":"<b>the waverer</b> 는 누구입니까?","a":"조 하퍼 — 집에 돌아가자고 슬쩍 떠보다가 마음이 흔들린 그 아이","tip":"이름 대신 '흔들린 자'라고 불렀습니다. 헉이 아닙니다. 헉은 톰 편에 붙은 쪽입니다."},
+  {"t":"neg","q":"<b>Huck, being uncommitted as yet</b> — 헉은 그때까지 어느 편을 들고 있었습니까?","a":"아니요 — 아직 어느 편도 정하지 않은 상태였습니다","tip":"un- 이 붙은 부정입니다. as yet = 아직. '이미 마음을 정했다'로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"<b>was glad to get out of the scrape</b> — 곤경에서 빠져나와 다행이라 여긴 쪽은 누구입니까?","a":"조(the waverer)","tip":"앞 절의 주어인 the waverer 가 그대로 이어집니다. 문장 첫 주어인 헉으로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>with as little taint of chicken-hearted home-sickness ... as he could</b> 는 무슨 뜻입니까?","a":"겁쟁이 같은 향수병의 얼룩을 자기가 할 수 있는 한 적게 묻힌 채, 라는 뜻입니다","tip":"as little A as he could 는 '되도록 적게'입니다. '그가 할 수 있는 만큼 적은'으로 헷갈려 반대로 읽지 않도록 하세요."}
+ ],
+ "14.28.5": [
+  {"t":"pron","q":"<b>wrote something upon each of these</b> 의 these 는 무엇입니까?","a":"톰이 앞에서 골라 둔 얇은 흰 플라타너스 나무껍질 두 장","tip":"불이나 풀이 아닙니다. 바로 앞 문장에서 고른 그 두 장을 받습니다."},
+  {"t":"who","q":"<b>one he rolled up and put in his jacket pocket</b> — 말아서 주머니에 넣은 사람은 누구입니까?","a":"톰(he) — one 은 목적어입니다","tip":"one 이 문장 맨 앞에 나와 주어처럼 보이지만, 목적어를 앞으로 뺀 어순입니다. 진짜 주어는 he 입니다."},
+  {"t":"pron","q":"<b>removed it to a little distance from the owner</b> — it 과 the owner 는 각각 무엇/누구입니까?","a":"it = 조의 모자, the owner = 조","tip":"바로 앞의 the other(나무껍질 조각)로 잡기 쉽습니다. 옮긴 것은 모자입니다. removed 는 '없앴다'가 아니라 '옮겨 놓았다'입니다."},
+  {"t":"mod","q":"<b>painfully wrote something</b> — painfully 는 무엇을 설명합니까?","a":"글씨를 쓴 그 동작 — 끙끙대며 힘겹게 썼다는 뜻입니다","tip":"톰이 아파서 쓴 것이 아닙니다. 어두운 데서 서툰 글씨를 쓰느라 애를 먹은 것입니다."}
+ ],
+ "14.28.6": [
+  {"t":"neg","q":"<b>certain schoolboy treasures of almost inestimable value</b> — 이 물건들은 값어치가 없다는 뜻입니까?","a":"아니요 — 값을 매길 수 없을 만큼 귀하다는 뜻입니다(학교 아이들 눈에는)","tip":"in- 이 붙어 부정처럼 보이지만 '값을 헤아릴 수 없을 만큼 크다'입니다. 반대로 읽으면 뜻이 뒤집힙니다."},
+  {"t":"pron","q":"<b>among them</b> 의 them 은 무엇입니까?","a":"모자에 넣은 그 보물들","tip":"사람이 아닙니다. 뒤에 나오는 분필·고무공·낚싯바늘·구슬이 바로 그 보물의 목록입니다."},
+  {"t":"mod","q":"<b>known as a “sure ’nough crystal.”</b> 는 무엇을 설명합니까?","a":"바로 앞의 구슬(that kind of marbles) — '진짜배기 수정'이라 불리는 종류","tip":"낚싯바늘이나 고무공을 꾸미는 말이 아닙니다. 나열의 맨 마지막 항목에만 붙습니다."}
+ ]
+}

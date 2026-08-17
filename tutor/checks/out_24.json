@@ -1,0 +1,58 @@
+{
+ "24.0.1": [
+  {"t":"pron","q":"<b>His name</b> 과 <b>him</b> 은 누구를 가리킵니까?","a":"톰 — 바로 앞에서 다시 마을의 영웅이 된 그 아이입니다","tip":"바로 다음 문단에 머프 포터가 나와서 포터로 잡기 쉽습니다. 신문이 크게 띄워 준 쪽은 톰입니다."},
+  {"t":"who","q":"<b>the village paper magnified him</b> — 크게 띄워 준 쪽과 띄워진 쪽은 각각 누구입니까?","a":"띄워 준 쪽은 마을 신문(the village paper), 띄워진 쪽은 톰(him)","tip":"여기서 for 는 '~을 위하여'가 아니라 '왜냐하면'입니다. 톰이 신문에 무엇을 실었다는 말이 아닙니다."},
+  {"t":"mod","q":"<b>immortal print</b> 는 무엇을 두고 하는 말입니까?","a":"신문에 찍힌 활자 — 한번 인쇄되면 사라지지 않는다는 뜻입니다(톰이 불멸의 인물이 되었다는 말이 아닙니다)","tip":"immortal 을 톰에게 붙여 읽기 쉽습니다. 꾸밈을 받는 말은 print(활자·인쇄물)입니다."}
+ ],
+ "24.1.0": [
+  {"t":"mod","q":"<b>fickle, unreasoning</b> 은 누구를 설명하는 말입니까?","a":"세상(the world) — 머프 포터가 아닙니다","tip":"바로 뒤에 Muff Potter 가 나와서 사람 쪽에 붙이기 쉽습니다. 변덕스럽고 분별없는 쪽은 세상입니다."},
+  {"t":"pron","q":"<b>its bosom</b> 의 its 와 <b>as it had abused him</b> 의 it 은 각각 무엇입니까?","a":"둘 다 세상(the world)입니다","tip":"him(머프 포터)과 뒤집어 잡으면 '포터가 세상을 학대했다'가 되어 정반대가 됩니다."},
+  {"t":"time","q":"<b>had abused him</b> 과 <b>fondled him</b> 중 먼저 있었던 일은 무엇입니까?","a":"학대(abused)가 먼저입니다 — 전에 실컷 학대해 놓고 이제 와서 끌어안는 것입니다","tip":"had abused(과거완료)와 before 가 순서를 못박습니다. 순서를 놓치면 이 문장의 비꼬는 맛이 사라집니다."},
+  {"t":"mod","q":"<b>as lavishly as it had abused him before</b> 는 무엇과 무엇을 견주는 말입니까?","a":"지금 어루만지는 정도와 전에 학대하던 정도 — 그때 학대했던 만큼이나 지금 아낌없이 어루만진다는 뜻","tip":"as ~ as 의 뒷짝을 '~하듯이'로만 읽으면 '학대하듯 어루만졌다'가 되어 뜻이 어긋납니다."}
+ ],
+ "24.1.1": [
+  {"t":"pron","q":"<b>it is not well to find fault with it</b> — 앞의 it 과 뒤의 it 은 각각 무엇입니까?","a":"앞의 it 은 가리키는 것이 없는 가주어(진짜 주어는 뒤의 to find fault ~), 뒤의 it 은 그런 행실(that sort of conduct)","tip":"한 절 안에 it 이 두 번 나오지만 하는 일이 다릅니다. 앞의 it 을 '그것'으로 옮기면 가리킬 것을 찾다가 길을 잃습니다."},
+  {"t":"neg","q":"<b>it is not well to find fault with it</b> — 그 행실을 트집 잡는 것은 옳은 일입니까?","a":"아니요 — 트집 잡지 않는 편이 옳다는 뜻입니다","tip":"not 을 놓치면 '흠잡는 것이 마땅하다'가 되어 정반대가 됩니다."},
+  {"t":"mod","q":"<b>is to the world’s credit</b> 는 세상을 나무라는 말입니까, 칭찬하는 말입니까?","a":"칭찬하는 말 — 오히려 세상의 갸륵한 점, 명예가 되는 점이라는 뜻입니다","tip":"to one’s credit 은 '~의 명예가 되는'으로 굳어진 표현입니다. credit 을 '신용·외상'으로 읽으면 문장이 무너집니다."}
+ ],
+ "24.2.3": [
+  {"t":"who","q":"<b>Tom had told the whole story to the lawyer</b> — 변호사에게 모든 이야기를 털어놓은 사람은 누구입니까?","a":"톰 — 헉이 아닙니다","tip":"문장이 Poor Huck 으로 시작해서 주어를 헉으로 이어 잡기 쉽습니다. 헉이 겁에 질린 이유가 바로 톰이 말해 버린 것입니다."},
+  {"t":"time","q":"<b>the night before the great day of the trial</b> — 톰이 말한 것은 언제입니까?","a":"재판이 열린 그 중대한 날의 '전날 밤'입니다","tip":"before 를 놓치면 '재판이 열린 그 큰 날 밤'이 되어 하루가 어긋납니다. had told(과거완료)도 재판보다 앞선 일임을 알려 줍니다."},
+  {"t":"pron","q":"<b>Injun Joe’s flight had saved him</b> 의 him 은 누구입니까?","a":"헉 — 인전 조가 달아난 덕분에 면하게 된 쪽은 헉입니다","tip":"앞에 톰과 인전 조가 나와 헷갈리기 쉽습니다. save A B 는 'A에게 B를 면하게 해 주다'입니다."},
+  {"t":"neg","q":"<b>had saved him the suffering of testifying in court</b> — 헉은 결국 법정에서 증언을 했습니까?","a":"아니요 — 인전 조가 달아난 덕분에 법정에 서는 괴로움은 면했습니다","tip":"saved him the suffering of testifying 는 '증언하는 괴로움을 면하게 해 주었다'입니다. '증언하도록 구해 주었다'로 읽으면 정반대가 됩니다."}
+ ],
+ "24.2.5": [
+  {"t":"who","q":"<b>had managed to drive him to the lawyer’s house by night</b> — 톰을 한밤중에 변호사 집으로 몰고 간 것은 무엇입니까?","a":"톰 자신의 시달린 양심(Tom’s harassed conscience)입니다. him 은 톰입니다","tip":"사람이 아니라 '양심'이 주어입니다. 누가 톰을 끌고 갔다고 읽으면 아무도 시키지 않았다는 이 문장의 핵심이 사라집니다."},
+  {"t":"mod","q":"<b>that had been sealed with the dismalest and most formidable of oaths</b> 는 무엇을 설명합니까?","a":"그 입(lips) — 무서운 이야기(a dread tale)가 아닙니다","tip":"바로 앞 명사가 lips 입니다. tale 에 붙이면 '맹세로 봉해진 이야기'가 되어 버립니다."},
+  {"t":"pron","q":"맹세로 봉해져 있던 그 <b>lips</b> 는 누구의 입입니까?","a":"톰의 입 — 톰의 양심이 톰 자신의 입에서 이야기를 쥐어짜 낸 것입니다","tip":"톰과 헉이 함께 맺은 그 맹세입니다. 그래서 톰이 입을 연 순간 헉의 믿음이 무너진 것입니다."},
+  {"t":"time","q":"맨 앞의 <b>Since</b> 는 '~한 뒤로'라는 시간의 뜻입니까, '~했으니'라는 이유의 뜻입니까?","a":"이유 — 톰이 그렇게 해 버렸기 '때문에' 헉의 믿음이 무너졌다는 뜻입니다","tip":"시간으로 읽으면 '그 뒤로 믿음이 무너져 갔다'가 되어 두 사건의 인과 관계가 사라집니다."}
+ ],
+ "24.3.0": [
+  {"t":"who","q":"<b>Muff Potter’s gratitude made Tom glad</b> — 고마워한 사람과 기뻐한 사람은 각각 누구입니까?","a":"고마워한 쪽은 머프 포터, 기뻐한 쪽은 톰","tip":"make + 목적어 + 형용사에서 그 기분이 되는 사람은 목적어(Tom)입니다."},
+  {"t":"time","q":"<b>Daily</b> 와 <b>nightly</b> 는 무엇을 대비하는 말입니까?","a":"낮과 밤 — 낮에는 말하길 잘했다고 기뻐하고, 밤에는 말한 것을 후회했다는 뜻입니다","tip":"Daily 를 그냥 '매일'로 옮기면 밤과의 대비가 사라져 앞뒤가 맞지 않게 됩니다."},
+  {"t":"pron","q":"<b>but nightly he wished</b> 의 he 는 누구입니까?","a":"톰","tip":"앞 절의 주어가 Muff Potter’s gratitude 라서 포터로 잡기 쉽습니다. 낮과 밤에 마음이 뒤집히는 사람은 톰입니다."},
+  {"t":"time","q":"<b>he wished he had sealed up his tongue</b> — 톰은 실제로 입을 다물었습니까?","a":"아니요 — 이미 말해 버린 뒤라 '차라리 다물었더라면' 하고 후회한 것입니다","tip":"wish + had p.p. 는 사실과 반대되는 바람입니다. '입을 다물기를 바랐다'로 읽으면 실제로 다문 것이 되어 버립니다."}
+ ],
+ "24.4.0": [
+  {"t":"neg","q":"<b>Injun Joe would never be captured</b> — 절반의 시간 동안 톰이 두려워한 것은 무엇입니까?","a":"인전 조가 영영 잡히지 '않는' 것","tip":"never 를 놓치면 뒤 절과 똑같은 말이 되어 이 문장의 대비가 통째로 사라집니다."},
+  {"t":"pron","q":"<b>he was afraid he would be</b> — 두 he 는 각각 누구이고, be 뒤에는 무엇이 생략되었습니까?","a":"앞의 he 는 톰, 뒤의 he 는 인전 조. 생략된 말은 captured 입니다(he would be captured)","tip":"반복되는 말이 통째로 빠져 있습니다. 뒤의 he 를 톰으로 잡으면 '톰이 잡힐까 봐'가 되어 버립니다."},
+  {"t":"time","q":"<b>Half the time ... the other half ...</b> 는 무슨 뜻입니까?","a":"어떤 때는 이랬다가 또 어떤 때는 저랬다 — 톰의 마음이 정반대의 두 걱정으로 반반씩 갈려 있었다는 뜻","tip":"시계로 잰 시간이 아닙니다. 서로 반대되는 두 두려움이 번갈아 들었다는 말입니다."}
+ ],
+ "24.4.1": [
+  {"t":"neg","q":"<b>he never could draw a safe breath again</b> — 톰은 마음 놓고 숨 쉴 수 있다고 느꼈습니까?","a":"아니요 — 다시는 마음 놓고 숨 한 번 쉴 수 없으리라고 느꼈습니다","tip":"felt sure(확신했다)만 보고 긍정으로 읽기 쉽습니다. 확신한 내용 자체가 부정입니다."},
+  {"t":"pron","q":"<b>until that man was dead and he had seen the corpse</b> — that man 과 he 는 각각 누구입니까?","a":"that man 은 인전 조, he 는 톰","tip":"두 사람이 한 줄에 붙어 있어 he 를 인전 조로 이어 잡기 쉽습니다. 시체를 눈으로 확인할 사람은 톰입니다."},
+  {"t":"time","q":"톰이 마음을 놓을 수 있는 때는 언제입니까?","a":"인전 조가 죽고, 그 시체를 톰이 자기 눈으로 본 뒤 — 두 가지가 다 이루어져야 합니다","tip":"until 은 '~하기 전까지는 안 된다'입니다. and 로 이어진 두 조건이 모두 until 에 걸립니다."}
+ ],
+ "24.5.1": [
+  {"t":"mod","q":"<b>a detective</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 주어 One of those omniscient and awe-inspiring marvels — 그 '놀라운 존재'가 다름 아닌 탐정이라는 뜻입니다(동격)","tip":"쉼표 사이에 끼어 있어 별개의 인물로 세기 쉽습니다. 이 문장에 나오는 사람은 한 명뿐입니다."},
+  {"t":"who","q":"<b>moused around, shook his head, looked wise, and made ...</b> — 이 동작들을 한 사람은 누구입니까?","a":"모두 그 탐정 한 사람입니다","tip":"동사가 다섯 개나 이어져 중간에 주어가 바뀐 것으로 착각하기 쉽습니다. 주어는 맨 앞의 One of those ~ marvels 하나뿐입니다."},
+  {"t":"mod","q":"<b>which members of that craft usually achieve</b> 는 무엇을 꾸밉니까?","a":"that sort of astounding success(그런 놀라운 성과)","tip":"바로 앞의 detective 나 St. Louis 에 붙이기 쉽습니다. 그 업계 사람들이 '으레' 거두는 정도의 성과라는 것이 이 말의 초점입니다."},
+  {"t":"pron","q":"<b>that craft</b> 는 무엇을 가리킵니까?","a":"탐정이라는 직업(그 바닥)","tip":"craft 를 '배'나 '수공예'로 읽으면 문장이 엉킵니다. members of that craft 는 '그 업계 사람들', 즉 탐정들입니다."}
+ ],
+ "24.5.3": [
+  {"t":"neg","q":"<b>you can’t hang a “clew” for murder</b> — 이 말은 무슨 뜻입니까?","a":"'단서'를 살인죄로 교수형에 처할 수는 '없다' — 탐정이 찾아낸 것이 단서뿐이라 아무 소용이 없었다는 뜻입니다","tip":"can’t 를 놓치면 '단서를 목매달 수 있다'가 되어 앞뒤가 맞지 않습니다."},
+  {"t":"pron","q":"여기서 <b>you</b> 는 누구를 가리킵니까?","a":"특정한 사람이 아니라 '누구든' — 일반적인 사람을 뜻하는 you 입니다","tip":"'당신은 ~할 수 없다'로 옮기면 갑자기 독자에게 말을 거는 문장이 되어 버립니다."},
+  {"t":"time","q":"<b>after that detective had got through and gone home</b> — 톰이 불안했던 것은 탐정이 집으로 돌아가기 전입니까, 후입니까?","a":"돌아간 뒤입니다 — 탐정이 할 일을 다 하고 떠난 다음에도 여전히 불안했습니다","tip":"got through 는 '통과했다'가 아니라 '(일을) 끝냈다'입니다. after 를 놓치면 순서가 뒤집힙니다."},
+  {"t":"mod","q":"<b>just as insecure as he was before</b> — 톰의 불안은 전보다 줄었습니까?","a":"아니요 — 전과 똑같이 불안했습니다","tip":"as ~ as 는 '똑같은 정도'입니다. just 가 붙어 '조금도 나아지지 않았다'는 뜻이 됩니다."}
+ ]
+}

@@ -1,0 +1,155 @@
+[
+ {
+  "id": "24.0.1",
+  "en": "His name even went into immortal print, for the village paper magnified him.",
+  "s": "His name",
+  "v": "went",
+  "chunks": [
+   {"en": "His name even went into immortal print,", "ko": "그의 이름은 심지어 불멸의 활자로까지 실렸다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "for the village paper magnified him.", "ko": "마을 신문이 그를 크게 띄워 줬기 때문이다", "r": "부사절(이유, for=because)"}
+  ],
+  "ko": "그의 이름은 심지어 불멸의 활자로까지 실렸다. 마을 신문이 그를 크게 띄워 줬기 때문이다.",
+  "why": "쉼표 뒤의 for는 '~을 위해'라는 전치사가 아니라 '왜냐하면'이라는 접속사(이유를 덧붙이는 말)다. immortal print(불멸의 활자)는 시골 신문에 이름 한 번 난 것을 거창하게 부풀린 풍자이고, magnified는 '확대했다', 곧 '실물보다 크게 부풀려 실었다'는 뜻.",
+  "st": [13]
+ },
+ {
+  "id": "24.1.0",
+  "en": "As usual, the fickle, unreasoning world took Muff Potter to its bosom and fondled him as lavishly as it had abused him before.",
+  "s": "the fickle, unreasoning world",
+  "v": "took",
+  "chunks": [
+   {"en": "As usual,", "ko": "늘 그렇듯이", "r": "부사(문장 앞 꾸밈말)"},
+   {"en": "the fickle, unreasoning world", "ko": "변덕스럽고 분별없는 세상은", "r": "주어"},
+   {"en": "took Muff Potter to its bosom", "ko": "머프 포터를 제 품에 끌어안았다", "r": "동사 + 목적어 + 전치사구"},
+   {"en": "and fondled him as lavishly", "ko": "그리고 그만큼이나 아낌없이 그를 어루만졌다", "r": "대등 동사 + 부사(as ~ as의 앞짝)"},
+   {"en": "as it had abused him before.", "ko": "전에 그를 학대했던 만큼", "r": "부사절(비교, as ~ as의 뒷짝)"}
+  ],
+  "ko": "늘 그렇듯이, 변덕스럽고 분별없는 세상은 머프 포터를 품에 끌어안고서, 전에 그를 학대했던 만큼이나 아낌없이 어루만져 주었다.",
+  "why": "핵심은 \"as lavishly as it had abused him before\"의 as ~ as 짝(전에 학대했던 그만큼 아낌없이)이다. 앞의 as만 보고 '~할 때'로 읽으면 안 된다. take ~ to its bosom은 '품에 끌어안다', 곧 영웅 대접하다라는 비유. 주어 the fickle, unreasoning world에 형용사가 둘 붙어 있어 동사 took이 늦게 나온다.",
+  "st": [8]
+ },
+ {
+  "id": "24.1.1",
+  "en": "But that sort of conduct is to the world’s credit; therefore it is not well to find fault with it.",
+  "s": "that sort of conduct",
+  "v": "is",
+  "chunks": [
+   {"en": "But that sort of conduct is to the world’s credit;", "ko": "하지만 그런 행실은 세상의 갸륵한 점이다", "r": "접속 + 주어 + 동사 + 보어"},
+   {"en": "therefore it is not well to find fault with it.", "ko": "그러므로 그것을 흠잡는 것은 옳지 않다", "r": "대등절(결론, it=가주어)"}
+  ],
+  "ko": "하지만 그런 행실은 오히려 세상의 갸륵한 점이다. 그러니 그것을 트집 잡는 것은 옳지 않다.",
+  "why": "\"to one’s credit\"은 '~의 칭찬받을 만한 점이다'라는 숙어. 세미콜론 뒤의 it은 가짜 주어이고 진짜 내용은 뒤의 to find fault with it(그것을 흠잡는 것)이다. find fault with ~ 는 '~를 트집 잡다'.",
+  "st": [3, 17]
+ },
+ {
+  "id": "24.2.3",
+  "en": "Poor Huck was in the same state of wretchedness and terror, for Tom had told the whole story to the lawyer the night before the great day of the trial, and Huck was sore afraid that his share in the business might leak out, yet, notwithstanding Injun Joe’s flight had saved him the suffering of testifying in court.",
+  "s": "Poor Huck",
+  "v": "was",
+  "chunks": [
+   {"en": "Poor Huck was in the same state of wretchedness and terror,", "ko": "가엾은 헉도 똑같이 비참하고 겁에 질린 상태였다", "r": "주어 + 동사 + 보어"},
+   {"en": "for Tom had told the whole story to the lawyer", "ko": "톰이 변호사에게 모든 이야기를 털어놓았기 때문이다", "r": "부사절(이유, for=because)"},
+   {"en": "the night before the great day of the trial,", "ko": "재판이 열리는 그 중대한 날의 전날 밤에", "r": "시간"},
+   {"en": "and Huck was sore afraid", "ko": "그래서 헉은 몹시 두려웠다", "r": "대등절"},
+   {"en": "that his share in the business might leak out,", "ko": "자기가 그 일에 끼어 있었다는 사실이 새어 나갈까 봐", "r": "보어(that절, afraid에 걸림)"},
+   {"en": "yet, notwithstanding Injun Joe’s flight had saved him", "ko": "그런데도 — 인전 조가 달아난 덕분에 그가 면하게 되었는데도", "r": "접속(그런데도) + 부사절(양보, notwithstanding=~에도 불구하고)"},
+   {"en": "the suffering of testifying in court.", "ko": "법정에서 증언해야 하는 괴로움을", "r": "목적어(save A B = A에게 B를 면하게 해 주다)"}
+  ],
+  "ko": "가엾은 헉도 똑같이 비참하고 겁에 질려 있었다. 재판이 열리는 그 중대한 날의 전날 밤에 톰이 변호사에게 모든 이야기를 털어놓았기 때문이다. 헉은 자기가 그 일에 끼어 있었다는 사실이 새어 나갈까 봐 몹시 두려웠다 — 인전 조가 달아난 덕분에 법정에서 증언하는 괴로움은 면했는데도 말이다.",
+  "why": "뼈대는 맨 앞의 Poor Huck was ~ 하나뿐이고, 뒤는 for(왜냐하면) → and(그래서) → yet(그런데도)로 계속 덧붙는 아주 긴 문장이다. 접속사 자리를 표시하며 끊어 읽을 것. sore는 '아픈'이 아니라 sorely(몹시)의 옛 용법이고, notwithstanding은 '~에도 불구하고'라는 뜻이다.",
+  "st": [13]
+ },
+ {
+  "id": "24.2.5",
+  "en": "Since Tom’s harassed conscience had managed to drive him to the lawyer’s house by night and wring a dread tale from lips that had been sealed with the dismalest and most formidable of oaths, Huck’s confidence in the human race was wellnigh obliterated.",
+  "s": "Huck’s confidence",
+  "v": "was",
+  "chunks": [
+   {"en": "Since Tom’s harassed conscience had managed", "ko": "톰의 시달린 양심이 끝내 ~해 내고 말았으니", "r": "부사절(이유) 주어 + 동사"},
+   {"en": "to drive him to the lawyer’s house by night", "ko": "그를 한밤중에 변호사 집으로 몰고 가고", "r": "to부정사(managed의 목적어)"},
+   {"en": "and wring a dread tale from lips", "ko": "그리고 그 입에서 무서운 이야기를 쥐어짜 내는 것을", "r": "to부정사(나열, to가 생략된 채 이어짐)"},
+   {"en": "that had been sealed with the dismalest and most formidable of oaths,", "ko": "가장 음침하고 무시무시한 맹세로 봉해져 있던 (그 입)", "r": "관계절(lips 설명)"},
+   {"en": "Huck’s confidence in the human race", "ko": "인간이라는 종족에 대한 헉의 믿음은", "r": "주어(주절)"},
+   {"en": "was wellnigh obliterated.", "ko": "거의 남김없이 무너져 버렸다", "r": "동사 + 보어"}
+  ],
+  "ko": "톰의 시달린 양심이 기어이 그를 한밤중에 변호사 집으로 몰고 가서, 가장 음침하고 무시무시한 맹세로 봉해져 있던 입에서 그 무서운 이야기를 쥐어짜 내고 말았으니, 인간이라는 종족에 대한 헉의 믿음은 거의 산산조각이 나 버렸다.",
+  "why": "Since로 시작하는 긴 이유 부사절이 문장의 3분의 2를 차지해서 진짜 주어·동사가 맨 끝에 나온다. 쉼표 뒤 \"Huck’s confidence … was\"가 뼈대다. managed to A and B(끝내 A하고 B해 냈다)에서 wring은 drive와 나란히 to에 걸리는 동사. \"맹세로 봉해진 입술\"은 톰이 절대 말하지 않겠다고 했던 그 맹세를 가리킨다.",
+  "st": [8]
+ },
+ {
+  "id": "24.3.0",
+  "en": "Daily Muff Potter’s gratitude made Tom glad he had spoken; but nightly he wished he had sealed up his tongue.",
+  "s": "Muff Potter’s gratitude",
+  "v": "made",
+  "chunks": [
+   {"en": "Daily Muff Potter’s gratitude made Tom glad", "ko": "낮마다 머프 포터의 감사는 톰을 기쁘게 했다", "r": "부사(때) + 주어 + 동사 + 목적어 + 보어"},
+   {"en": "he had spoken;", "ko": "자기가 (사실을) 말한 것이", "r": "이유(glad 뒤 that 생략)"},
+   {"en": "but nightly he wished", "ko": "하지만 밤마다 그는 바랐다", "r": "대등절"},
+   {"en": "he had sealed up his tongue.", "ko": "차라리 입을 꾹 다물었더라면 하고", "r": "목적어(that 생략, 가정법)"}
+  ],
+  "ko": "낮이면 머프 포터의 감사에 톰은 말하길 잘했다고 기뻐했지만, 밤이면 차라리 입을 다물었더라면 하고 후회했다.",
+  "why": "Daily(낮마다)와 nightly(밤마다)의 대비가 뼈대다. glad 뒤에는 that이 생략되어 기쁜 '이유'가 붙었고, wished 뒤에도 that이 생략됐다. \"wished he had sealed up his tongue\"은 가정법(실제와 반대되는 일을 바라는 말)이라 '실제로는 말해 버렸다'는 후회를 뜻한다. seal up one’s tongue = 입을 봉하다.",
+  "st": [3, 12]
+ },
+ {
+  "id": "24.4.0",
+  "en": "Half the time Tom was afraid Injun Joe would never be captured; the other half he was afraid he would be.",
+  "s": "Tom",
+  "v": "was",
+  "chunks": [
+   {"en": "Half the time Tom was afraid", "ko": "절반의 시간 동안 톰은 두려워했다", "r": "시간 + 주어 + 동사 + 보어"},
+   {"en": "Injun Joe would never be captured;", "ko": "인전 조가 영영 잡히지 않을까 봐", "r": "보어(that 생략된 절)"},
+   {"en": "the other half he was afraid he would be.", "ko": "나머지 절반은 그가 잡힐까 봐 두려워했다", "r": "대등절(he would be = he would be captured)"}
+  ],
+  "ko": "톰은 절반의 시간은 인전 조가 영영 잡히지 않을까 봐 두려웠고, 나머지 절반은 그가 잡힐까 봐 두려웠다.",
+  "why": "\"Half the time … the other half …\"(어떤 때는 … 또 어떤 때는 …)의 대비 구조. afraid 뒤에는 that이 생략되어 있다. 맨 끝 he would be는 뒤에 captured가 반복되어 생략된 것이라 '잡힐 것이다'라는 뜻 — 잡히지 않아도 무섭고 잡혀도 무서운 모순된 심정을 나타낸다.",
+  "st": [3]
+ },
+ {
+  "id": "24.4.1",
+  "en": "He felt sure he never could draw a safe breath again until that man was dead and he had seen the corpse.",
+  "s": "He",
+  "v": "felt",
+  "chunks": [
+   {"en": "He felt sure", "ko": "그는 확신했다", "r": "주어 + 동사 + 보어"},
+   {"en": "he never could draw a safe breath again", "ko": "다시는 마음 놓고 숨 한 번 쉴 수 없으리라고", "r": "목적어(that 생략된 절)"},
+   {"en": "until that man was dead", "ko": "그자가 죽고", "r": "부사절(때, ~할 때까지)"},
+   {"en": "and he had seen the corpse.", "ko": "자기 눈으로 그 시체를 확인하기 전까지는", "r": "부사절(until에 이어지는 나열)"}
+  ],
+  "ko": "그는 그자가 죽고 자기 눈으로 시체를 확인하기 전까지는 결코 마음 놓고 숨 한 번 쉴 수 없으리라고 확신했다.",
+  "why": "felt sure 뒤에 that이 생략된 절이 통째로 붙는다. until 뒤에도 절이 둘(that man was dead / he had seen the corpse) 이어지므로 '~하고 …할 때까지는'으로 묶어 읽을 것. draw a breath는 '숨을 쉬다'라는 숙어라서 a safe breath는 '마음 놓고 쉬는 숨'이라는 뜻이 된다.",
+  "st": []
+ },
+ {
+  "id": "24.5.1",
+  "en": "One of those omniscient and awe-inspiring marvels, a detective, came up from St. Louis, moused around, shook his head, looked wise, and made that sort of astounding success which members of that craft usually achieve.",
+  "s": "One of those omniscient and awe-inspiring marvels",
+  "v": "came up",
+  "chunks": [
+   {"en": "One of those omniscient and awe-inspiring marvels,", "ko": "모르는 것이 없고 경외심을 자아내는 그 놀라운 존재들 중 하나가", "r": "주어(긴 주어)"},
+   {"en": "a detective,", "ko": "다름 아닌 탐정 한 사람이", "r": "동격(주어를 다시 설명)"},
+   {"en": "came up from St. Louis, moused around,", "ko": "세인트루이스에서 올라와, 여기저기 쥐 잡듯 뒤지고 다니고", "r": "동사 + 전치사구 + 대등 동사"},
+   {"en": "shook his head, looked wise,", "ko": "고개를 절레절레 젓고, 다 안다는 표정을 짓더니", "r": "대등 동사(나열)"},
+   {"en": "and made that sort of astounding success", "ko": "그러고는 그런 종류의 놀라운 성과를 거두었다", "r": "대등 동사 + 목적어"},
+   {"en": "which members of that craft usually achieve.", "ko": "그 업계 사람들이 으레 거두곤 하는 (그런 성과를)", "r": "관계절(success 설명)"}
+  ],
+  "ko": "모르는 것이 없고 경외심마저 자아내는 그 놀라운 존재들 중 하나, 즉 탐정 한 사람이 세인트루이스에서 올라와 여기저기 쥐 잡듯 뒤지고 다니고, 고개를 절레절레 젓고, 다 안다는 표정을 짓더니, 그 업계 사람들이 으레 거두곤 하는 그런 놀라운 성과를 거두었다.",
+  "why": "긴 주어 뒤에 쉼표로 a detective(동격: 그 정체가 곧 탐정이라는 설명)가 끼어들어 동사 came up이 멀리 있다. 그 뒤로 동사 다섯 개(came up, moused, shook, looked, made)가 줄줄이 나열된다. omniscient(전지한), awe-inspiring(경외심을 주는), astounding success(놀라운 성과) 같은 거창한 말은 사실 아무것도 못 한 탐정을 비꼬는 반어다. craft는 여기서 '배'가 아니라 '업종·직종'.",
+  "st": [14, 18]
+ },
+ {
+  "id": "24.5.3",
+  "en": "But you can’t hang a “clew” for murder, and so after that detective had got through and gone home, Tom felt just as insecure as he was before.",
+  "s": "you",
+  "v": "can’t hang",
+  "chunks": [
+   {"en": "But you can’t hang a “clew” for murder,", "ko": "하지만 '단서'를 살인죄로 교수형에 처할 수는 없는 노릇이라", "r": "접속 + 주어 + 동사 + 목적어"},
+   {"en": "and so after that detective had got through and gone home,", "ko": "그래서 그 탐정이 일을 마치고 집으로 돌아간 뒤에도", "r": "접속 + 부사절(때)"},
+   {"en": "Tom felt just as insecure", "ko": "톰은 여전히 똑같이 불안했다", "r": "주절 주어 + 동사 + 보어"},
+   {"en": "as he was before.", "ko": "전에 그랬던 것만큼", "r": "부사절(비교, as ~ as)"}
+  ],
+  "ko": "하지만 '단서'를 살인죄로 교수형에 처할 수는 없는 노릇이어서, 그 탐정이 일을 마치고 집으로 돌아간 뒤에도 톰은 전과 똑같이 불안하기만 했다.",
+  "why": "hang은 '(사람을) 목매달다'인데 목적어가 사람이 아니라 “clew”(단서)여서 우스개가 된다 — 단서를 잡아 봐야 그걸 교수형에 처할 수는 없다는 뜻. 여기서 you는 특정한 '너'가 아니라 '누구든'을 가리키는 일반적인 표현이다. and so 뒤에 after로 시작하는 때 부사절이 먼저 나오고, 쉼표 뒤 Tom felt가 진짜 주절이다.",
+  "st": [8]
+ }
+]

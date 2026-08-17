@@ -1,0 +1,126 @@
+{
+ "23.0.3": [
+  {"t":"who","q":"<b>his troubled conscience and fears almost persuaded him</b> — 톰을 그렇게 믿게 만든 것은 누구입니까?","a":"사람이 아니라 톰 자신의 괴로운 양심과 두려움입니다","tip":"persuade 의 주어가 사람이 아닙니다. 여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."},
+  {"t":"who","q":"<b>these remarks were put forth in his hearing</b> — 그런 말을 던진 쪽은 누구입니까?","a":"주변 마을 사람들 — 톰은 그 말을 듣는 쪽입니다","tip":"수동태라 던진 사람이 문장에 드러나 있지 않습니다. in his hearing 은 '그가 듣는 데서'입니다."},
+  {"t":"neg","q":"<b>he did not see how he could be suspected of knowing anything about the murder</b> — 톰은 자기가 의심받을 만하다고 보았습니까?","a":"아니요 — 자기가 어떻게 의심받을 수 있는지 알 수 없었습니다","tip":"did not see 는 '눈으로 못 봤다'가 아니라 '이해가 되지 않았다'입니다. 부정을 놓치면 정반대가 됩니다."},
+  {"t":"neg","q":"<b>he could not be comfortable in the midst of this gossip</b> — 소문 한가운데서 톰은 마음이 놓였습니까?","a":"아니요 — 편할 수가 없었습니다","tip":"but still 이 앞의 '의심받을 리 없다'를 뒤집습니다. 이 부정을 놓치면 문장의 긴장이 사라집니다."}
+ ],
+ "23.0.6": [
+  {"t":"pron","q":"<b>It would be some relief</b> 의 It 은 무엇을 가리킵니까?","a":"아무것도 가리키지 않습니다 — 진짜 주어는 뒤의 to unseal ... 과 to divide ... 입니다","tip":"'그것'으로 옮기면 앞 문장에서 그것을 찾게 되어 길을 잃습니다."},
+  {"t":"who","q":"<b>another sufferer</b> 는 누구입니까?","a":"톰과 똑같이 그 비밀 때문에 괴로워하는 사람, 곧 허크입니다","tip":"another 는 '이미 하나(톰)가 있고 그와 같은 처지인 또 한 사람'입니다. 감옥에 있는 포터가 아닙니다."},
+  {"t":"time","q":"<b>It would be some relief</b> — 톰이 실제로 입을 열었다는 뜻입니까?","a":"아니요 — 아직 하지 않은 일이고, '그러면 얼마간 위안이 될 텐데' 하는 생각입니다","tip":"would 는 아직 일어나지 않은 일을 그려 보는 말입니다."}
+ ],
+ "23.18.2": [
+  {"t":"who","q":"<b>Just fishes a little ... and loafs around considerable</b> — 낚시를 좀 하고 빈둥거리는 사람은 누구입니까?","a":"머프 포터 — 말하고 있는 허크 자신이 아닙니다","tip":"주어 He 가 빠진 구어체입니다. fishes, loafs 의 -s 가 '그 사람'이라는 표시입니다."},
+  {"t":"mod","q":"<b>to get money to get drunk on</b> — 여기서 to get drunk on 은 무엇을 꾸밉니까?","a":"바로 앞의 money — '그 돈으로 취하도록 마실' 돈이라는 뜻입니다","tip":"문장의 끝 on 이 money 와 짝입니다. fishes 에 붙이면 '취하려고 낚시한다'가 되어 순서가 어긋납니다."},
+  {"t":"who","q":"<b>but lord, we all do that—leastways most of us—preachers and such like</b> — 이 we 에는 누가 들어갑니까?","a":"말하는 허크를 포함한 우리 모두, 목사 같은 사람들까지 들어갑니다","tip":"대시 안의 말은 앞말을 정정하거나 덧붙이는 곁말입니다. leastways(=at least)는 '다'라고 했다가 '적어도 대부분'으로 한발 물러선 것입니다."}
+ ],
+ "23.18.3": [
+  {"t":"pron","q":"<b>he give me half a fish</b> — he 와 me 는 각각 누구입니까?","a":"he = 머프 포터, me = 말하고 있는 허크","tip":"이름이 나오지 않는 대사입니다. 둘을 뒤집으면 포터를 감싸 주는 말이 아니라 자기 자랑이 되어 버립니다."},
+  {"t":"neg","q":"<b>when there warn’t enough for two</b> — 물고기가 둘이 먹기에 넉넉했습니까?","a":"아니요 — 모자랐습니다. 그런데도 반을 나눠 줬다는 뜻입니다","tip":"warn’t = wasn’t. 부정을 놓치면 '넉넉해서 나눠 줬다'가 되어 착하다는 근거가 사라집니다."},
+  {"t":"mod","q":"<b>he’s kind of good</b> 의 kind of 는 '착한 종류'라는 뜻입니까?","a":"아니요 — '좀, 어느 정도'라는 뜻으로 good 을 누그러뜨리는 말입니다","tip":"kind of + 형용사는 '좀 ~한'입니다. 뒤의 kind of stood by me 도 같은 쓰임입니다."},
+  {"t":"who","q":"<b>he’s kind of stood by me</b> — 편이 되어 준 쪽과 도움을 받은 쪽은 각각 누구입니까?","a":"편이 되어 준 쪽은 포터, 도움을 받은 쪽은 허크","tip":"stand by ~ 는 '옆에 서 있다'가 아니라 '~의 편을 들어 주다'입니다."}
+ ],
+ "23.25.1": [
+  {"t":"time","q":"<b>As the twilight drew on</b> — 이 장면은 아침입니까, 해 질 무렵입니까?","a":"해 질 무렵(땅거미가 내려앉을 때)","tip":"draw on 은 '(때가) 다가오다'입니다. draw 를 '그리다·끌다'로 읽으면 시간이 사라집니다."},
+  {"t":"who","q":"<b>they found themselves hanging about</b> — 유치장 근처를 서성거린 사람은 누구입니까?","a":"그들 자신(톰과 허크) — 남이 서성거리는 것을 본 것이 아닙니다","tip":"find oneself ~ing 는 '어느새 자기가 ~하고 있음을 깨닫다'입니다."},
+  {"t":"mod","q":"<b>that might clear away their difficulties</b> 는 무엇을 설명합니까?","a":"바로 앞의 something — 곤경을 걷어내 줄지도 모를 '어떤 일'","tip":"that 이 두 번 나옵니다. 앞의 that 은 hope 의 내용이고, 뒤의 that 은 something 을 꾸미는 관계사입니다."},
+  {"t":"pron","q":"<b>their difficulties</b> 의 their 는 누구입니까?","a":"톰과 허크 — 자기들의 곤경입니다","tip":"유치장·포터 이야기가 이어져서 포터의 곤경으로 잡기 쉽습니다."}
+ ],
+ "23.28.2": [
+  {"t":"who","q":"<b>they’ve all forgot old Muff when he’s in trouble</b> — old Muff 와 he 는 누구입니까?","a":"말하고 있는 머프 포터 자신 — 자기를 남처럼 3인칭으로 부른 것입니다","tip":"바로 앞이 I 라서 다른 사람으로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>I used to mend all the boys’ kites and things</b> — 지금도 고쳐 줍니까?","a":"아니요 — 예전에 늘 하던 일입니다","tip":"used to ~ 는 지금은 그렇지 않은 과거의 습관입니다."},
+  {"t":"neg","q":"<b>but Tom don’t, and Huck don’t</b> — 톰과 허크도 포터를 잊었습니까?","a":"아니요 — 두 아이만은 잊지 않았습니다","tip":"don’t 뒤에 forget old Muff 가 생략돼 있습니다. 앞의 '다들 잊었다'에 이어 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>and I don’t forget them</b> 의 them 은 누구입니까?","a":"톰과 허크","tip":"바로 앞 they don’t forget him 과 방향이 뒤집힙니다. 이번에는 잊지 않는 쪽이 포터입니다."}
+ ],
+ "23.28.3": [
+  {"t":"mod","q":"<b>—drunk and crazy at the time—</b> 는 누구를 설명하는 말입니까?","a":"말하고 있는 '나'(포터) — 그 짓을 저지를 당시 취해 있고 정신이 나가 있었다는 뜻입니다","tip":"바로 앞의 an awful thing 에 붙이면 '취한 짓'이 되어 버립니다. 대시 안은 자기 상태를 덧붙인 곁말입니다."},
+  {"t":"time","q":"<b>at the time</b> 은 언제입니까?","a":"그 끔찍한 짓을 저지르던 그때 — 말하고 있는 지금이 아닙니다","tip":"지금의 상태로 읽으면 '취한 채로 지금 말하고 있다'가 되어 장면이 무너집니다."},
+  {"t":"mod","q":"<b>that’s the only way I account for it</b> 는 무슨 뜻입니까?","a":"그 일을 자기가 설명할 수 있는 길은 그것(취해서 정신이 나갔었다는 것)뿐이라는 뜻입니다","tip":"way 뒤에 관계사가 빠져 있습니다. '유일한 방법으로 해명하겠다'는 다짐으로 읽으면 뜻이 달라집니다."},
+  {"t":"pron","q":"<b>now I got to swing for it</b> 의 it 은 무엇입니까?","a":"자기가 저질렀다고 말한 그 끔찍한 짓","tip":"swing 은 '흔들리다'가 아니라 '교수대에 매달리다'입니다. for it 은 '그 대가로'입니다."}
+ ],
+ "23.28.8": [
+  {"t":"who","q":"<b>Stand a litter furder west</b> — 서쪽으로 조금 더 서라는 말을 듣는 사람은 누구입니까?","a":"창살 밖의 톰과 허크","tip":"명령문이라 주어가 없습니다. 포터가 자기가 움직이겠다는 말이 아닙니다."},
+  {"t":"pron","q":"<b>when a body’s in such a muck of trouble</b> 의 a body 는 무엇을 가리킵니까?","a":"'사람이라면 누구나' — 실은 자기 자신을 에둘러 말한 것입니다","tip":"'몸'이 아닙니다. 옛말·사투리에서 a body 는 one(사람)입니다."},
+  {"t":"mod","q":"<b>faces that’s friendly</b> — that’s friendly 는 무엇을 꾸밉니까?","a":"faces(얼굴들) — '다정한 얼굴'이라는 뜻입니다","tip":"사투리라 복수 faces 인데도 that is 로 받았습니다. 문법이 어긋나 보여도 꾸미는 대상은 faces 입니다."},
+  {"t":"neg","q":"<b>there don’t none come here but yourn</b> — 이곳에 찾아오는 사람이 있습니까?","a":"너희(톰과 허크) 말고는 아무도 오지 않습니다","tip":"don’t 와 none 이 겹친 사투리 이중부정으로, 뜻은 그냥 '아무도 안 온다'입니다. 여기서 but 은 '~말고는'입니다."}
+ ],
+ "23.29.1": [
+  {"t":"time","q":"<b>The next day and the day after</b> — 며칠 동안의 일입니까?","a":"이틀 — 다음 날과 그다음 날입니다","tip":"the day after 는 '그 뒤 어느 날'이 아니라 '그다음 날'입니다."},
+  {"t":"who","q":"<b>drawn by an almost irresistible impulse</b> — 이끌린 쪽은 누구입니까?","a":"톰 — 충동에 이끌린 쪽입니다","tip":"drawn 은 '~에 이끌린 채로'라는 과거분사라 주어가 당하는 쪽입니다. 톰이 무언가를 끌어당긴 것이 아닙니다."},
+  {"t":"mod","q":"<b>an almost irresistible impulse to go in</b> — to go in 은 무엇을 설명합니까?","a":"바로 앞의 impulse — 안으로 들어가고 싶은 충동","tip":"hung about 에 붙이면 '들어가려고 서성거렸다'가 되어 충동과 자제의 대립이 사라집니다."},
+  {"t":"neg","q":"<b>but forcing himself to stay out</b> — 톰은 결국 법정 안으로 들어갔습니까?","a":"아니요 — 억지로 자신을 눌러 밖에 머물렀습니다","tip":"stay out 은 '밖에 머물다'입니다. but 이 앞의 '들어가고 싶은 충동'을 꺾습니다. 여기를 뒤집으면 장면이 정반대가 됩니다."}
+ ],
+ "23.29.5": [
+  {"t":"who","q":"<b>but invariably heard distressing news</b> — 들은 사람은 누구입니까?","a":"톰 — 앞 절의 주어 Tom 이 그대로 이어집니다","tip":"but 바로 앞에 idlers 가 있어 한량들이 들었다고 잡기 쉽습니다. invariably 는 '예외 없이 언제나'입니다."},
+  {"t":"time","q":"<b>when idlers sauntered out of the courtroom</b> — 톰이 귀를 세운 때는 언제입니까?","a":"한량들이 법정에서 어슬렁어슬렁 걸어 나올 때마다","tip":"out of 는 '~에서 나오는' 것입니다. 들어갈 때로 읽으면 톰이 소식을 들을 방법이 없습니다."},
+  {"t":"who","q":"<b>the toils were closing more and more relentlessly around poor Potter</b> — 조여 오는 쪽과 조임을 당하는 쪽은 각각 누구입니까?","a":"조여 오는 것은 올가미(the toils), 당하는 쪽은 가엾은 포터입니다","tip":"toils 는 '수고·노동'이 아니라 사냥에 쓰는 그물·올가미입니다. 포터가 애쓰고 있다는 뜻이 아닙니다."}
+ ],
+ "23.29.6": [
+  {"t":"time","q":"<b>At the end of the second day</b> 는 언제입니까?","a":"재판 둘째 날이 저물 무렵","tip":"이틀째의 '시작'이 아니라 '끝'입니다."},
+  {"t":"who","q":"<b>Injun Joe’s evidence stood firm and unshaken</b> — 확고해서 흔들림이 없던 것은 무엇입니까?","a":"인전 조의 증언(evidence) — 인전 조라는 사람의 태도가 아닙니다","tip":"stood 는 '서 있었다'가 아니라 '그 상태를 유지했다'입니다."},
+  {"t":"neg","q":"<b>there was not the slightest question as to what the jury’s verdict would be</b> — 평결이 어떻게 나올지 마을 사람들은 반신반의했습니까?","a":"아니요 — 조금의 의문도 없었습니다(유죄가 뻔하다고 봤습니다)","tip":"not the slightest ~ 는 '조금도 ~없다'입니다. question 을 '질문'으로 읽으면 뜻이 흐려집니다."},
+  {"t":"mod","q":"<b>as to what the jury’s verdict would be</b> 는 무엇에 붙는 말입니까?","a":"바로 앞의 question — '평결이 어떻게 될지에 관한' 의문","tip":"as to ~ 는 '~에 관해서는'입니다. 앞쪽의 evidence 에 붙이면 두 갈래 내용이 뒤엉킵니다."}
+ ],
+ "23.30.3": [
+  {"t":"who","q":"<b>All the village flocked to the courthouse</b> — 몰려든 것은 무엇입니까?","a":"마을 사람 전부 — 마을이라는 장소가 아니라 그 안의 사람들입니다","tip":"village 가 '마을 사람들'을 가리키는 경우입니다."},
+  {"t":"pron","q":"<b>for this was to be the great day</b> 의 this 는 무엇을 가리킵니까?","a":"사람들이 몰려든 그날, 곧 다음 날 아침의 그날입니다","tip":"여기서 for 는 '~을 위해'가 아니라 '왜냐하면'입니다."},
+  {"t":"time","q":"<b>was to be the great day</b> — 그 대단한 날은 이미 지나간 날입니까?","a":"아니요 — 이제부터 그런 날이 될 참이었습니다","tip":"be to ~ 는 '~할 예정이다'입니다. 과거형이라 지나간 일로 읽기 쉽지만 그 시점에서는 아직 오지 않은 일입니다."}
+ ],
+ "23.30.5": [
+  {"t":"time","q":"포터가 법정에 들어온 것은 배심원단이 자리에 앉기 전입니까, 뒤입니까?","a":"뒤 — 배심원단이 줄지어 들어와 앉고 나서 곧이어 들어왔습니다","tip":"shortly afterward 가 순서를 못 박습니다."},
+  {"t":"who","q":"<b>was brought in ... and seated</b> — 포터는 스스로 걸어 들어와 앉았습니까?","a":"아니요 — 끌려 들어와 자리에 앉혀졌습니다","tip":"was brought in 과 (was) seated 둘 다 수동입니다. seated 를 '앉았다'로 읽으면 쇠사슬을 찬 죄수라는 그림이 사라집니다."},
+  {"t":"mod","q":"<b>pale and haggard, timid and hopeless</b> 는 누구를 설명합니까?","a":"포터","tip":"주어 Potter 와 동사 was brought in 사이에 끼어든 삽입입니다. 뒤의 all the curious eyes 를 꾸미는 말이 아닙니다."},
+  {"t":"neg","q":"<b>no less conspicuous was Injun Joe</b> — 인전 조는 포터보다 눈에 덜 띄었습니까?","a":"아니요 — 그에 못지않게 눈에 띄었습니다","tip":"no less ~ 는 '조금도 덜 ~하지 않다'입니다. 보어가 앞으로 나간 도치라 주어는 Injun Joe 입니다."}
+ ],
+ "23.31.0": [
+  {"t":"pron","q":"<b>he found Muff Potter washing</b> 의 he 와 <b>he immediately sneaked away</b> 의 he 는 각각 누구입니까?","a":"앞의 he 는 증인, 뒤의 he 는 머프 포터입니다","tip":"한 문장 안에서 he 가 두 사람을 가리킵니다. 달아난 쪽은 포터입니다."},
+  {"t":"who","q":"<b>and that he immediately sneaked away</b> — 이 말은 누가 한 말입니까?","a":"그 증인 — testified 에 이어지는 두 번째 증언 내용입니다","tip":"멀리 떨어져 있어 서술자의 설명으로 읽기 쉽습니다. that 이 두 번 나온 것이 표시입니다."},
+  {"t":"mod","q":"<b>that the murder was discovered</b> 는 무엇을 설명합니까?","a":"바로 앞의 the morning — 살인이 발견된 그날 아침","tip":"앞의 that절과 모양이 같지만 이것은 morning 을 꾸미는 관계사입니다. 증언 내용으로 잡으면 시점이 사라집니다."},
+  {"t":"time","q":"증인이 포터를 본 것은 언제입니까?","a":"살인이 발견된 그날 아침 이른 시각","tip":"살인이 벌어진 밤이 아니라 그것이 발견된 아침입니다."}
+ ],
+ "23.42.0": [
+  {"t":"who","q":"<b>was brought out by credible witnesses</b> — 이 동사의 주어, 곧 낱낱이 드러난 것은 무엇입니까?","a":"Every detail of the damaging circumstances(그 불리한 정황의 세세한 부분 하나하나)","tip":"관계절이 두 개나 끼어들어 있어 바로 앞의 that morning 을 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>which all present remembered so well</b> 는 무엇을 설명합니까?","a":"바로 앞의 that morning(그날 아침)","tip":"all present 는 '그 자리에 있던 사람 모두'입니다. circumstances 를 꾸미는 말로 붙이면 초점이 달라집니다."},
+  {"t":"pron","q":"<b>none of them were cross-examined</b> 의 them 은 무엇입니까?","a":"그 믿을 만한 증인들(credible witnesses)","tip":"바로 앞의 정황·세부 사항으로 잡기 쉽지만, 반대신문은 사람에게 하는 것입니다."},
+  {"t":"neg","q":"<b>none of them were cross-examined by Potter’s lawyer</b> — 포터의 변호사는 증인들을 반대신문했습니까?","a":"아니요 — 한 사람도 반대신문하지 않았습니다","tip":"none 을 놓치면 정반대가 됩니다. 변호사가 아무것도 하지 않았다는 이 점이 뒤에 올 반전의 발판입니다."}
+ ],
+ "23.43.0": [
+  {"t":"mod","q":"<b>whose simple word is above suspicion</b> 는 누구를 설명합니까?","a":"바로 앞의 citizens(시민들) — 그들의 말 한마디는 의심할 여지가 없다는 뜻입니다","tip":"뒤에 나오는 죄수를 꾸미는 말이 아닙니다. whose 는 앞 명사의 소유입니다."},
+  {"t":"neg","q":"<b>above suspicion</b> 은 의심스럽다는 뜻입니까?","a":"아니요 — 의심의 위에 있다, 곧 의심할 여지가 전혀 없다는 뜻입니다","tip":"above 가 '~을 넘어서 있어 그럴 수 없다'는 부정 의미로 쓰였습니다. 뜻이 정반대가 되기 쉬운 자리입니다."},
+  {"t":"mod","q":"<b>beyond all possibility of question</b> 는 무엇을 설명하는 말입니까?","a":"못 박았다(we have fastened)는 그 행위 — 한 점 의문의 여지도 없이 못 박았다는 뜻입니다","tip":"바로 앞의 this awful crime 에 붙이면 '의문의 여지 없는 범죄'가 되어 초점이 달라집니다. 콤마로 끼워 넣은 삽입입니다."},
+  {"t":"who","q":"<b>the unhappy prisoner at the bar</b> 는 누구입니까?","a":"피고석에 앉아 있는 머프 포터","tip":"at the bar 는 '술집에서'가 아니라 '법정의 피고석에'입니다."}
+ ],
+ "23.44.0": [
+  {"t":"who","q":"<b>A groan escaped from poor Potter</b> — 신음을 낸 사람은 누구입니까?","a":"포터 — 포터에게서 신음이 새어 나온 것입니다","tip":"주어가 A groan 이라서 사람이 도망친 것처럼 읽기 쉽습니다. escape from ~ 은 여기서 '~에게서 새어 나오다'입니다."},
+  {"t":"pron","q":"<b>he put his face in his hands</b> — he 와 두 개의 his 는 각각 누구입니까?","a":"모두 포터 자신 — 자기 두 손에 자기 얼굴을 파묻었다는 뜻입니다","tip":"남의 손이 아닙니다. 영어는 자기 신체에도 his 를 꼬박꼬박 붙입니다."},
+  {"t":"time","q":"<b>while a painful silence reigned in the courtroom</b> — 법정의 침묵은 포터가 몸을 흔든 뒤의 일입니까?","a":"아니요 — 같은 시간에 함께 벌어진 일입니다","tip":"while 은 '~하는 동안'입니다. 앞뒤 순서가 있는 일로 읽으면 장면이 둘로 쪼개집니다."}
+ ],
+ "23.45.0": [
+  {"t":"who","q":"<b>our client</b> 는 누구입니까?","a":"머프 포터 — 말하고 있는 사람은 포터의 변호인입니다","tip":"검사 쪽 말로 읽으면 '증명하겠다'는 내용이 정반대로 뒤집힙니다."},
+  {"t":"time","q":"<b>in our remarks at the opening of this trial, we foreshadowed our purpose</b> — 그 뜻을 밝힌 것은 언제입니까?","a":"이 재판을 시작할 때 한 말에서 — 지금 처음 꺼내는 말이 아닙니다","tip":"foreshadow 는 '미리 내비치다'입니다. 지금 하는 선언으로 읽으면 '이미 예고해 두었다'는 무게가 사라집니다."},
+  {"t":"mod","q":"<b>while under the influence of a blind and irresponsible delirium</b> — 그 상태에 있던 사람은 누구입니까?","a":"의뢰인(포터) — 그 짓을 저지를 당시의 상태입니다","tip":"while 뒤에 he was 가 생략돼 있습니다. 말하고 있는 변호사의 상태가 아닙니다."},
+  {"t":"mod","q":"<b>produced by drink</b> 는 무엇을 설명합니까?","a":"바로 앞의 delirium(착란) — 술이 불러온 착란","tip":"deed(짓)에 붙이면 '술이 만들어 낸 짓'이 되어, 착란 탓이라는 변론의 핵심이 흐려집니다."}
+ ],
+ "23.48.2": [
+  {"t":"pron","q":"<b>managed to put enough of it into his voice</b> 의 it 은 무엇입니까?","a":"방금 되찾은 기운(his strength)","tip":"바로 뒤의 his voice 로 잡기 쉽습니다. '기운을 목소리에 실었다'는 그림입니다."},
+  {"t":"who","q":"<b>to make part of the house hear</b> — 알아들은 쪽은 누구이며, 전부입니까?","a":"법정에 모여 있던 사람들 중 일부만 알아들었습니다","tip":"house 는 건물이 아니라 '그 안에 모인 사람들(방청석)'입니다. part of 라서 전부가 아닙니다."},
+  {"t":"time","q":"소년이 목소리에 힘을 실은 것은 기운을 되찾기 전입니까, 뒤입니까?","a":"뒤 — 되찾은 그 기운을 목소리에 실은 것입니다","tip":"and 로 이어져 있지만 두 일 사이에는 분명한 순서가 있습니다."}
+ ],
+ "23.69.1": [
+  {"t":"who","q":"<b>tell us everything that occurred</b> — 말할 쪽과 들을 쪽은 각각 누구입니까?","a":"말할 쪽은 my boy(톰), 들을 쪽은 us(말을 시키는 변호사 쪽)","tip":"명령문이라 주어가 없습니다. us 를 톰 쪽으로 잡으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>that occurred</b> 는 무엇을 꾸밉니까?","a":"바로 앞의 everything — 실제로 일어난 일 전부","tip":"us 를 꾸미는 말로는 붙을 수 없습니다. '일어난 일'로 범위를 좁혀 주는 관계절입니다."},
+  {"t":"neg","q":"<b>don’t skip anything</b> 은 무엇을 하라는 말입니까?","a":"하나도 빼먹지 말고 다 말하라는 뜻입니다","tip":"don’t 와 anything 이 합쳐져 '아무것도 빠뜨리지 마라'가 됩니다. '아무거나 건너뛰어도 된다'로 읽으면 정반대입니다."}
+ ],
+ "23.70.0": [
+  {"t":"time","q":"<b>hesitatingly at first, but as he warmed to his subject</b> — 톰의 말이 술술 나오기 시작한 것은 언제부터입니까?","a":"이야기에 열이 오르면서부터 — 처음에는 머뭇거렸습니다","tip":"warm to one’s subject 는 몸이 따뜻해진 것이 아니라 '이야기에 신이 나다'입니다."},
+  {"t":"neg","q":"<b>every sound ceased but his own voice</b> — 톰의 목소리도 멎었습니까?","a":"아니요 — 그의 목소리만 남고 나머지 소리가 모두 멎었습니다","tip":"여기서 but 은 '그러나'가 아니라 '~을 제외하고'입니다. 뜻이 정반대가 되는 자리입니다."},
+  {"t":"who","q":"<b>the audience hung upon his words</b> — 매달린 쪽은 누구입니까?","a":"청중 — 톰의 말 한마디 한마디에 청중이 빨려들었다는 뜻입니다","tip":"hang upon ~ 은 '~에 매달리다, 귀를 곤두세우다'입니다. 톰이 매달린 것이 아닙니다."},
+  {"t":"mod","q":"<b>taking no note of time, rapt in the ghastly fascinations of the tale</b> 는 누구를 설명합니까?","a":"청중(the audience) — 톰이 아닙니다","tip":"분사구문의 주인은 바로 앞 절의 주어입니다. 톰에게 붙이면 홀린 쪽과 홀리게 한 쪽이 뒤바뀝니다."}
+ ],
+ "23.71.0": [
+  {"t":"who","q":"널빤지를 휘두른 사람과 칼을 들고 덤벼든 사람은 각각 누구입니까?","a":"널빤지를 휘두른 쪽은 의사(the doctor), 칼을 들고 덤벼든 쪽은 인전 조","tip":"한 문장에 세 사람이 잇달아 나옵니다. 주어를 한 사람으로 몰아 읽으면 사건이 통째로 뒤바뀝니다."},
+  {"t":"time","q":"인전 조가 덤벼든 것은 포터가 쓰러지기 전입니까, 뒤입니까?","a":"뒤 — 의사가 널빤지를 휘둘러 포터가 쓰러진 다음입니다","tip":"as 절(~할 때)이 먼저 일어난 일이고, 주절이 그다음입니다."},
+  {"t":"mod","q":"<b>and Muff Potter fell</b> 은 as 절 안에 들어 있습니까, 주절입니까?","a":"as 절 안 — 여기까지가 배경이고, 주절은 Injun Joe jumped 입니다","tip":"and 로 이어져 있어 주절로 잡기 쉽습니다. 주절을 잘못 잡으면 초점이 포터에게 가 버립니다."}
+ ]
+}
