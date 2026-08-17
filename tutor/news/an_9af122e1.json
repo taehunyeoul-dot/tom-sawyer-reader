@@ -246,5 +246,32 @@
   "ko": "연구·기술 임무 본부(Research and Technology Mission Directorate) 산하 '상금·공모·크라우드소싱 프로그램'에 속한 NASA 협업 혁신 우수센터(Center of Excellence for Collaborative Innovation)가 이 공모전 계약을 관리한다.",
   "why": "긴 주어 뒤에 쉼표로 묶인 동격(part of … Directorate)이 통째로 끼어들어 동사 manages 가 문장 맨 끝에서야 나온다. 쉼표 두 개 사이를 괄호로 묶어 건너뛰면 '센터가 계약을 관리한다'는 뼈대가 바로 보인다.",
   "st": []
+ },
+ {
+  "id": "9af122e1|6.0",
+  "en": "Challenge proposals and accompanying video submissions are due Feb. 24, 2027.",
+  "s": "Challenge proposals and accompanying video submissions",
+  "v": "are",
+  "chunks": [
+   {"en": "Challenge proposals and accompanying video submissions", "ko": "공모전 제안서와 거기에 딸려 나가는 제출 영상은", "r": "주어(두 가지를 나열)"},
+   {"en": "are due Feb. 24, 2027.", "ko": "2027년 2월 24일이 마감이다", "r": "동사 + 보어(기한) + 날짜"}
+  ],
+  "ko": "공모전 제안서와 거기에 딸려 나가는 제출 영상은 2027년 2월 24일까지 내야 한다.",
+  "why": "be due + 날짜 는 '~때문에'가 아니라 '기한이 ~이다(그날까지 내야 한다)'는 뜻이다. due to(~때문에)와 헷갈리기 쉽다. 주어가 제안서와 영상 두 가지라서 동사가 are(복수)이고, accompanying 은 동사가 아니라 '함께 딸려 나가는'이라는 뜻으로 뒤의 video submissions 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "9af122e1|7.1",
+  "en": "Each finalist team will receive a $7,500 award to facilitate its full participation.",
+  "s": "Each finalist team",
+  "v": "will receive",
+  "chunks": [
+   {"en": "Each finalist team will receive", "ko": "결선에 오른 각 팀은 받게 된다", "r": "주어 + 동사"},
+   {"en": "a $7,500 award", "ko": "7,500달러의 상금을", "r": "목적어"},
+   {"en": "to facilitate its full participation.", "ko": "그 팀이 대회에 온전히 참가할 수 있도록", "r": "목적(to부정사)"}
+  ],
+  "ko": "결선에 오른 각 팀은 대회에 온전히 참가할 수 있도록 7,500달러의 상금을 받게 된다.",
+  "why": "Each + 단수 명사(team)라서 '결선 팀들이 다 합쳐 7,500달러'가 아니라 '한 팀마다 7,500달러씩'이다. 뒤의 to facilitate ~ 는 그 돈을 주는 목적이고, its 는 NASA나 공모전이 아니라 그 팀 자신을 가리킨다.",
+  "st": []
  }
 ]

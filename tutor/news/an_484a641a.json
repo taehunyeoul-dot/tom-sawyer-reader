@@ -152,5 +152,126 @@
   "ko": "당신이 보고 있던 것이 야광운(noctilucent cloud)인지 확신이 서지 않아 Space Cloud Watch 에 사진 보내기를 망설여 왔다면, 이제는 올리기 전에 직접 확인해 볼 방법이 생겼다. Namai 덕분이다.",
   "why": "If … 안에 because 절이, 그 안에 다시 if 절이 겹겹이 들어 있어 주절이 한참 뒤에 나온다. 쉼표 뒤의 you now have 가 문장의 뼈대다. 두 번째 if 는 '만약'이 아니라 '~인지 아닌지'라는 뜻으로 not certain 에 걸린다.",
   "st": []
+ },
+ {
+  "id": "484a641a|1.0",
+  "en": "The misbehaving clouds are “noctilucent” or “night-shining” clouds (NLCs).",
+  "s": "The misbehaving clouds",
+  "v": "are",
+  "chunks": [
+   {"en": "The misbehaving clouds are", "ko": "그 이상하게 굴고 있는 구름들은", "r": "주어 + 동사"},
+   {"en": "“noctilucent” or “night-shining” clouds (NLCs).", "ko": "'야광운(noctilucent)', 다른 말로 '밤에 빛나는 구름(night-shining clouds)', 줄여서 NLC 다", "r": "보어"}
+  ],
+  "ko": "그 이상하게 굴고 있는 구름들은 '야광운(noctilucent)', 다른 말로 '밤에 빛나는(night-shining) 구름', 줄여서 NLC 라고 부르는 것이다.",
+  "why": "앞 문단에서 말한 그 구름의 정체를 밝히는 문장으로, 뼈대는 A are B(A 는 B 이다)뿐이다. 가운데의 or 는 '둘 중 하나'가 아니라 '즉, 다시 말해'로 같은 것을 다른 이름으로 바꿔 부르는 말이고, 괄호 안의 NLCs 는 앞으로 이 기사에서 계속 쓸 줄임말이다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|1.2",
+  "en": "But despite this glow, it can be hard to differentiate NLCs from lower-altitude look-alikes.",
+  "s": "it",
+  "v": "can be",
+  "chunks": [
+   {"en": "But despite this glow,", "ko": "하지만 이런 광채가 있는데도", "r": "전치사구(양보)"},
+   {"en": "it can be hard to differentiate NLCs", "ko": "NLC 를 가려내기는 어려울 수 있다", "r": "가주어 + 동사 + 보어 + 진주어(to부정사)"},
+   {"en": "from lower-altitude look-alikes.", "ko": "더 낮은 고도의 닮은꼴 구름들과", "r": "전치사구(구별 대상)"}
+  ],
+  "ko": "하지만 이런 광채가 나는데도, NLC 를 더 낮은 고도에 뜨는 닮은꼴 구름들과 구별해 내기란 어려울 수 있다.",
+  "why": "여기서 it 은 '그것'이 아니라 뒤의 to differentiate … 를 대신 앞에 세워 둔 가주어(형식상의 주어)다. 실제 내용은 'NLC 를 닮은꼴 구름과 구별하는 일'이고, despite 는 '~덕분에'가 아니라 '~인데도'라 앞 문장의 은빛 광채가 구별에 별 도움이 안 된다는 뜻이다. differentiate A from B 는 'A 를 B 와 구별하다'라는 짝이다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|1.3",
+  "en": "That confusion has meant extra work for project leaders.",
+  "s": "That confusion",
+  "v": "has meant",
+  "chunks": [
+   {"en": "That confusion has meant extra work", "ko": "그 혼란은 일거리가 더 생긴다는 뜻이었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for project leaders.", "ko": "프로젝트 책임자들에게는", "r": "전치사구(대상)"}
+  ],
+  "ko": "그렇게 헷갈리는 탓에 프로젝트 책임자들에게는 일거리가 더 늘어 왔다.",
+  "why": "짧지만 mean 의 뜻이 함정이다. 여기서 mean 은 '뜻하다'가 아니라 '~라는 결과를 낳다'이고, has meant 는 현재완료라 그 부담이 지금까지 이어져 왔다는 말이다. 주어인 That confusion 은 앞 문장의 '구별이 어려운 상황'을 받는다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.0",
+  "en": "Namai reached out to the Space Cloud Watch scientists Drs.",
+  "s": "Namai",
+  "v": "reached out",
+  "chunks": [
+   {"en": "Namai reached out", "ko": "Namai 는 먼저 연락을 취했다", "r": "주어 + 동사"},
+   {"en": "to the Space Cloud Watch scientists Drs.", "ko": "Space Cloud Watch 의 과학자인 박사들에게", "r": "전치사구(대상)"}
+  ],
+  "ko": "Namai 는 Space Cloud Watch 의 과학자인 박사들에게 먼저 연락을 했다.",
+  "why": "reach out to ~ 는 '~에게 손을 뻗다'가 아니라 '~에게 먼저 연락을 취하다'라는 짝이다. 맨 끝의 Drs. 는 문장이 끝난 마침표가 아니라 Doctor(박사)의 복수 줄임말이고, 그 뒤에 올 두 사람 이름은 다음 줄로 이어진다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.1",
+  "en": "Chihoko Cullens and Brentha Thurairajah, who were delighted with his idea.",
+  "s": "who",
+  "v": "were delighted",
+  "chunks": [
+   {"en": "Chihoko Cullens and Brentha Thurairajah,", "ko": "Chihoko Cullens 와 Brentha Thurairajah 인데", "r": "앞 문장에서 이어지는 두 사람 이름"},
+   {"en": "who were delighted with his idea.", "ko": "이 두 사람은 그의 생각을 아주 반겼다", "r": "관계절(두 사람 설명)"}
+  ],
+  "ko": "(앞 문장에 이어) 그 두 사람은 Chihoko Cullens 와 Brentha Thurairajah 인데, 두 사람은 그의 생각을 아주 반겼다.",
+  "why": "이 줄은 그 자체로 완결된 문장이 아니라 앞 줄 Namai reached out to … Drs. 에 이어지는 두 사람의 이름이다(문장 나누기가 Drs. 의 점에서 끊긴 것). 쉼표 뒤의 who 는 '누가?'라고 묻는 말이 아니라 앞의 두 사람을 받아 설명하는 관계대명사이고, be delighted with ~ 는 '~를 아주 마음에 들어 하다'라는 짝이다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.3",
+  "en": "The pipeline combines image pre-screening, cloud classification, and confidence-based review routing.",
+  "s": "The pipeline",
+  "v": "combines",
+  "chunks": [
+   {"en": "The pipeline combines", "ko": "그 파이프라인은 ~를 한데 묶은 것이다", "r": "주어 + 동사"},
+   {"en": "image pre-screening, cloud classification,", "ko": "사진 미리 걸러 내기, 구름 종류 분류,", "r": "목적어(나열 1·2)"},
+   {"en": "and confidence-based review routing.", "ko": "그리고 확신 정도에 따라 검토를 어디로 넘길지 정하는 일을", "r": "목적어(나열 3)"}
+  ],
+  "ko": "그 파이프라인은 사진을 미리 걸러 내는 일, 구름을 분류하는 일, 그리고 확신 정도에 따라 어떤 사진을 사람 검토로 넘길지 정하는 일, 이 세 가지를 하나로 묶은 것이다.",
+  "why": "동사 combines 하나에 목적어 세 개가 A, B, and C 로 나란히 걸려 있는 문장이다. 세 목적어가 모두 명사를 여러 개 이어 붙인 긴 덩어리(image pre-screening = 사진 사전 선별)라 어디서 끊을지 헷갈리는데, 쉼표와 and 가 그 경계다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|3.4",
+  "en": "After several rounds of development, testing, and refinement, he released his NLC identification tool to the project.",
+  "s": "he",
+  "v": "released",
+  "chunks": [
+   {"en": "After several rounds of development, testing, and refinement,", "ko": "개발하고 시험하고 다듬기를 여러 차례 되풀이한 뒤에", "r": "시간(부사구)"},
+   {"en": "he released his NLC identification tool", "ko": "그는 자신의 NLC 식별 도구를 내놓았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to the project.", "ko": "그 프로젝트에", "r": "전치사구(대상)"}
+  ],
+  "ko": "여러 차례에 걸쳐 개발하고, 시험하고, 다듬은 끝에 그는 자신이 만든 NLC 식별 도구를 그 프로젝트에 내놓았다.",
+  "why": "문장 앞의 After … 는 '~을 마친 뒤에'라는 시간 표시이고, of 뒤에 development, testing, refinement 세 명사가 나란히 걸려 있다. 진짜 뼈대는 쉼표 뒤의 he released … 다. release 는 여기서 '풀어 주다'가 아니라 '(만든 것을) 공개해 내놓다'라는 뜻.",
+  "st": []
+ },
+ {
+  "id": "484a641a|4.0",
+  "en": "Grab a camera and join the Space Cloud Watch project today!",
+  "s": "",
+  "v": "Grab",
+  "chunks": [
+   {"en": "Grab a camera", "ko": "카메라를 하나 챙기세요", "r": "동사 + 목적어(명령)"},
+   {"en": "and join the Space Cloud Watch project today!", "ko": "그리고 오늘 바로 Space Cloud Watch 사업에 함께하세요", "r": "대등절(명령)"}
+  ],
+  "ko": "카메라를 하나 챙겨 들고 오늘 바로 Space Cloud Watch 사업에 참여해 보세요!",
+  "why": "주어 없이 동사 원형 Grab 으로 시작하는 명령문(권유)이라, 숨은 주어는 이 글을 읽는 '당신'이다. and 로 Grab … 과 join … 두 개의 명령이 나란히 이어져 있다. grab 은 '움켜쥐다'에서 온 말이지만 여기서는 '하나 챙기다'라는 가벼운 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "484a641a|5.0",
+  "en": "Photograph clouds just after sunset or before dawn to investigate our changing atmosphere.",
+  "s": "",
+  "v": "Photograph",
+  "chunks": [
+   {"en": "Photograph clouds", "ko": "구름을 사진으로 찍으세요", "r": "동사 + 목적어(명령)"},
+   {"en": "just after sunset or before dawn", "ko": "해가 진 직후나 동이 트기 전에", "r": "시간"},
+   {"en": "to investigate our changing atmosphere.", "ko": "변해 가는 우리 대기를 알아보기 위해", "r": "목적(to부정사)"}
+  ],
+  "ko": "변해 가는 우리 대기를 알아보기 위해, 해가 진 직후나 동이 트기 전에 구름을 사진으로 찍어 보세요.",
+  "why": "맨 앞의 Photograph 는 명사 '사진'이 아니라 '사진을 찍다'라는 동사이고, 주어 없이 시작하는 명령문이다. 뒤의 to investigate … 는 '~를 알아보기 위해'라는 목적이며, changing 은 atmosphere 를 꾸며 '변해 가고 있는 대기'라는 뜻이다.",
+  "st": []
  }
 ]

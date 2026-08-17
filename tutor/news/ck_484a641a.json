@@ -53,5 +53,50 @@
   {"t":"mod","q":"<b>if what you were seeing was a noctilucent cloud</b> 는 무엇에 걸리는 말입니까?","a":"바로 앞의 not certain — 무엇을 확신하지 못했는지를 밝히는 부분입니다('~인지 아닌지')","tip":"문장 맨 앞의 If 와 같은 '만약'으로 읽으면 조건이 두 개가 되어 문장이 엉킵니다."},
   {"t":"time","q":"<b>you now have a way to check before you share</b> — 확인하는 것은 사진을 올리기 전입니까, 올린 뒤입니까?","a":"올리기 전입니다","tip":"share 는 여기서 '사진을 올려 보내는 것'입니다. 순서를 뒤집으면 이 도구의 쓸모가 사라집니다."},
   {"t":"who","q":"<b>thanks to Namai</b> — 이 확인 방법을 만들어 준 사람은 누구입니까?","a":"Namai(Namai Chandra) — 그 도구를 만든 자원봉사자입니다","tip":"thanks to ~ 는 '~에게 감사한다'가 아니라 '~ 덕분에'입니다."}
+ ],
+ "484a641a|1.0": [
+  {"t":"mod","q":"<b>misbehaving</b> 는 무엇을 설명하는 말입니까?","a":"바로 뒤의 clouds — '이상하게 굴고 있는 그 구름들'이라는 뜻입니다","tip":"-ing 형이라 문장의 동사로 착각하기 쉽지만, 이 문장의 동사는 are 입니다."},
+  {"t":"mod","q":"<b>“noctilucent” or “night-shining” clouds</b> 는 서로 다른 두 종류의 구름을 말합니까?","a":"아닙니다 — 같은 구름을 부르는 두 가지 이름입니다(or 가 '즉, 다시 말해'의 뜻)","tip":"or 를 '둘 중 하나'로 읽으면 구름 종류가 두 가지로 늘어나 버립니다."},
+  {"t":"pron","q":"괄호 안의 <b>(NLCs)</b> 는 무엇을 줄인 것입니까?","a":"noctilucent clouds — 앞으로 이 기사에서 이 구름을 가리킬 줄임말입니다","tip":"새로 등장한 장치나 기관 이름이 아니라, 바로 앞에 나온 이름의 약자입니다."}
+ ],
+ "484a641a|1.2": [
+  {"t":"pron","q":"<b>it can be hard</b> 의 it 은 무엇을 가리킵니까?","a":"특정한 사물이 아니라 뒤에 오는 to differentiate NLCs from lower-altitude look-alikes 를 대신 받은 가주어입니다","tip":"앞 문장의 glow 나 구름을 가리킨다고 보면 '그 빛이 어렵다'가 되어 말이 되지 않습니다."},
+  {"t":"pron","q":"<b>despite this glow</b> 의 this glow 는 무엇을 말합니까?","a":"앞 문장에 나온, 이 구름들이 띠는 은빛 광채(a silvery glow)입니다","tip":"despite 는 '~덕분에'가 아니라 '~인데도'입니다. 빛이 나는데도 구별이 어렵다는 뜻이라 앞뒤가 뒤집히면 안 됩니다."},
+  {"t":"mod","q":"<b>lower-altitude look-alikes</b> 는 무엇을 가리킵니까?","a":"더 낮은 고도에 생기는, NLC 와 닮아 보이는 다른 구름들입니다","tip":"look-alikes 는 '닮은꼴'이라는 명사입니다. NLC 를 다시 말한 것이 아니라 NLC 와 헷갈리는 별개의 구름입니다."}
+ ],
+ "484a641a|1.3": [
+  {"t":"pron","q":"<b>That confusion</b> 은 무엇을 가리킵니까?","a":"앞 문장에서 말한, NLC 와 더 낮은 고도의 닮은꼴 구름을 구별하기 어려운 일입니다","tip":"That 을 '저것'으로 흘려보내면 무엇 때문에 일이 늘었는지가 사라집니다."},
+  {"t":"who","q":"<b>extra work for project leaders</b> — 일이 더 늘어난 쪽은 누구입니까?","a":"프로젝트 책임자들(project leaders)입니다","tip":"for 는 여기서 '~를 위한'이 아니라 '~에게 돌아가는'이라는 뜻입니다. 사진을 보내는 자원봉사자가 아니라 책임자 쪽 부담이 늘었다는 말입니다."},
+  {"t":"time","q":"<b>has meant</b> — 한때 그랬다가 끝난 일입니까, 지금까지 이어져 온 일입니까?","a":"지금까지 이어져 온 일입니다(현재완료)","tip":"meant 만 보고 과거로 읽기 쉽지만 앞에 has 가 붙어 현재완료입니다. 또 mean 은 여기서 '뜻하다'가 아니라 '~라는 결과를 낳다'입니다."}
+ ],
+ "484a641a|3.0": [
+  {"t":"who","q":"<b>Namai reached out</b> — 먼저 연락을 건 쪽은 누구입니까?","a":"Namai(자원봉사자 Namai Chandra)입니다 — 과학자들이 그를 먼저 부른 것이 아닙니다","tip":"reach out to ~ 는 '~에게 먼저 연락하다'입니다. 주어가 연락을 건 쪽입니다."},
+  {"t":"mod","q":"<b>the Space Cloud Watch scientists Drs.</b> 에서 맨 끝의 Drs. 는 무엇입니까?","a":"Doctor(박사)의 복수 줄임말로, 다음 줄에 나오는 두 사람 이름 앞에 붙는 호칭입니다","tip":"마침표가 찍혀 있어 문장이 끝난 것처럼 보이지만 줄임말의 점입니다. 사람 이름은 다음 줄로 이어집니다."},
+  {"t":"time","q":"<b>reached out</b> — 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다(과거)","tip":"reached 의 -ed 하나가 시점을 정합니다. 기사 앞부분의 현재형 설명과 달리 여기서부터는 지나간 이야기입니다."}
+ ],
+ "484a641a|3.1": [
+  {"t":"pron","q":"<b>who were delighted with his idea</b> 의 who 는 누구를 가리킵니까?","a":"바로 앞의 두 사람, Chihoko Cullens 와 Brentha Thurairajah 입니다","tip":"문장 맨 앞에 오는 who 와 달리, 쉼표 뒤의 who 는 '누가?'라고 묻는 말이 아니라 앞 사람을 설명하는 말입니다."},
+  {"t":"pron","q":"<b>his idea</b> 의 his 는 누구를 가리킵니까?","a":"Namai(Namai Chandra) — 앞 줄에서 먼저 연락을 한 그 자원봉사자입니다","tip":"바로 앞에 두 사람 이름이 있어 헷갈리지만, 아이디어를 낸 쪽은 연락을 건 Namai 입니다."},
+  {"t":"who","q":"<b>were delighted</b> — 기뻐한 쪽은 두 사람입니까, 두 사람이 남을 기쁘게 한 것입니까?","a":"두 사람이 기뻐한(아주 마음에 들어 한) 것입니다","tip":"be delighted 는 형태가 수동태처럼 보여도 '기쁘게 하다'가 아니라 '기뻐하다'라는 상태를 말합니다."}
+ ],
+ "484a641a|3.3": [
+  {"t":"pron","q":"<b>The pipeline</b> 은 무엇을 가리킵니까?","a":"앞 문장에서 Namai 가 만든 그 기계학습 파이프라인입니다","tip":"The 가 붙어 있으니 새로 나온 것이 아니라 앞에서 말한 바로 그것입니다."},
+  {"t":"mod","q":"<b>combines</b> 에 걸리는 목적어는 몇 개이고 무엇입니까?","a":"세 개입니다 — image pre-screening, cloud classification, confidence-based review routing","tip":"쉼표와 and 가 경계입니다. 한 덩어리로 뭉쳐 읽으면 파이프라인이 하는 일이 몇 가지인지 사라집니다."},
+  {"t":"mod","q":"<b>confidence-based review routing</b> 에서 confidence-based 는 무엇을 꾸미는 말입니까?","a":"뒤의 review routing — 확신 정도에 따라 검토를 어디로 넘길지 정하는 일이라는 뜻입니다","tip":"세 단어가 앞이 뒤를 꾸미는 한 덩어리 명사입니다. confidence 를 따로 떼어 읽으면 뜻이 흩어집니다."}
+ ],
+ "484a641a|3.4": [
+  {"t":"pron","q":"<b>he released his NLC identification tool</b> 의 he 와 his 는 누구입니까?","a":"둘 다 Namai(Namai Chandra)입니다","tip":"바로 앞 줄에 과학자 두 사람이 나왔지만, 도구를 만들어 내놓은 쪽은 Namai 입니다."},
+  {"t":"time","q":"<b>After several rounds of development, testing, and refinement</b> — 도구를 내놓은 것은 이 과정 전입니까, 후입니까?","a":"후입니다 — 개발·시험·보완을 여러 차례 거친 다음에 내놓았습니다","tip":"After 를 '앞으로 ~할 것이다'로 읽지 않도록 주의하세요. 이미 다 거친 뒤의 일입니다."},
+  {"t":"mod","q":"<b>several rounds of development, testing, and refinement</b> 에서 several rounds 는 무엇이 여러 번이라는 말입니까?","a":"개발·시험·보완, 이 세 가지를 한 묶음으로 여러 차례 되풀이했다는 뜻입니다","tip":"rounds 는 '회차'입니다. development 만 여러 번 했다는 뜻이 아니고, 한 번에 끝난 일도 아닙니다."}
+ ],
+ "484a641a|4.0": [
+  {"t":"who","q":"<b>Grab a camera and join</b> — 카메라를 챙기고 참여할 사람은 누구입니까?","a":"이 글을 읽는 당신(독자)입니다 — 주어 없이 동사로 시작하는 명령문이기 때문입니다","tip":"주어가 안 보인다고 앞 문단의 Namai 를 주어로 넣으면 안 됩니다."},
+  {"t":"time","q":"<b>Grab</b> 으로 시작하는 이 문장은 이미 일어난 일을 전합니까, 읽는 사람에게 하라고 권합니까?","a":"권하는 것입니다(명령문) — 아직 일어나지 않은 일입니다","tip":"동사에 시제 표시(-s, -ed)가 없이 원형 그대로 문장이 시작하면 명령문입니다."},
+  {"t":"mod","q":"<b>today</b> 는 무엇에 걸리는 말입니까?","a":"join the Space Cloud Watch project — 오늘 바로 참여하라는 뜻입니다","tip":"'오늘의 프로젝트'라는 이름이 아니라, 미루지 말라고 재촉하는 시점 표시입니다."}
+ ],
+ "484a641a|5.0": [
+  {"t":"who","q":"<b>Photograph clouds just after sunset</b> — 사진을 찍을 사람은 누구입니까?","a":"이 글을 읽는 당신입니다 — 주어 없이 동사로 시작하는 명령문입니다","tip":"Photograph 를 명사 '사진'으로 읽으면 문장에 동사가 없어집니다. 여기서는 '사진을 찍다'라는 동사입니다."},
+  {"t":"time","q":"<b>just after sunset or before dawn</b> 은 언제를 말합니까?","a":"해가 진 직후, 또는 동이 트기 전 — 둘 다 하늘이 아직 어두운 때입니다","tip":"before dawn 을 '동이 튼 뒤'로 뒤집지 않도록 주의하세요. or 는 둘 중 어느 때든 좋다는 뜻입니다."},
+  {"t":"mod","q":"<b>to investigate our changing atmosphere</b> 는 이 문장에서 무엇을 말하는 부분입니까?","a":"사진을 찍는 목적입니다 — 변해 가는 우리 대기를 알아보기 위해서라는 뜻입니다","tip":"to 를 '~에게'로 읽으면 목적이 사라집니다. changing 은 atmosphere 를 꾸며 '변해 가고 있는 대기'가 됩니다."}
  ]
 }

@@ -25,8 +25,24 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = lambda *p: os.path.join(ROOT, *p)
 WORK = D('tutor', 'news', 'work')
 TYPES = {'neg', 'who', 'pron', 'mod', 'time'}
-MIN_LONG = 18     # 이 단어 수 이상이면 다룬다
-MIN_CLAUSE = 12   # 절이 둘 이상이면 이 길이부터 다룬다
+
+# 기사는 짧고 완결된 글이라 **모든 문장**을 다룬다(소설처럼 어려운 것만 고르지 않는다).
+# 다만 해석할 것이 없는 부속물은 뺀다 — 기자·사진 크레딧, 연락처 블록, 링크 안내 토막.
+# 명령문("Grab a camera and join…")은 어엿한 문장이므로 반드시 포함할 것.
+BOILER = re.compile(
+    r'[\w.+-]+@[\w.-]+'                      # 이메일이 든 줄 = 연락처 블록
+    r'|\b\d{3}[-.\s]\d{3}[-.\s]\d{4}\b'      # 전화번호
+    r'|^\s*(Story|Text|Photos?|Video|Images?|NASA photos?|Caption)\s+by\s',  # 크레딧 줄
+    re.I)
+
+
+def worth(s):
+    """해석해 볼 값어치가 있는 문장인가."""
+    if BOILER.search(s):
+        return False
+    if s.rstrip().endswith(':'):             # "…, visit:" 처럼 링크를 여는 토막
+        return False
+    return True
 
 norm = lambda t: re.sub(r'\s+', ' ', t).strip()
 loose = lambda t: re.sub(r'\s', '', t)
@@ -49,22 +65,21 @@ def articles():
 
 
 def picks(a):
-    """이 기사에서 다룰 문장 — 짧고 단순한 문장은 확인할 것이 없으므로 뺀다."""
+    """이 기사에서 다룰 문장 — 부속물만 빼고 전부."""
     out = []
     for pi, para in enumerate(a['paras']):
         for si, s in enumerate(para):
+            if not worth(s):
+                continue
             sy = (a['syn'][pi] or [])[si] if pi < len(a['syn']) else None
-            L = len(s.split())
-            fin = sy[3] if sy else 0
-            if L >= MIN_LONG or (fin >= 2 and L >= MIN_CLAUSE):
-                sv = ['', '']
-                if sy:
-                    for k in (0, 1):
-                        r = sy[k]
-                        if isinstance(r, (list, tuple)) and len(r) == 2:
-                            sv[k] = s[r[0]:r[1]]
-                out.append({'id': f"{a['id']}|{pi}.{si}", 'en': s,
-                            'auto_s': sv[0], 'auto_v': sv[1]})
+            sv = ['', '']
+            if sy:
+                for k in (0, 1):
+                    r = sy[k]
+                    if isinstance(r, (list, tuple)) and len(r) == 2:
+                        sv[k] = s[r[0]:r[1]]
+            out.append({'id': f"{a['id']}|{pi}.{si}", 'en': s,
+                        'auto_s': sv[0], 'auto_v': sv[1]})
     return out
 
 
@@ -74,15 +89,25 @@ def do_out(only):
     for a in articles():
         if only and a['id'] not in only:
             continue
-        if not only and os.path.exists(D('tutor', 'news', f"an_{a['id']}.json")):
+        done = set()
+        p = D('tutor', 'news', f"an_{a['id']}.json")
+        if os.path.exists(p):
+            try:
+                done = {x['id'] for x in load(p)}
+            except Exception:
+                done = set()
+        need = [r for r in picks(a) if r['id'] not in done]
+        if not only and not need:
             continue
-        todo.append(a)
+        todo.append((a, done, need))
     if not todo:
-        print('새로 분석할 기사가 없다. 특정 기사를 다시 하려면 기사 id 를 인자로 줄 것.')
+        print('빠진 문장이 없다. 특정 기사를 다시 하려면 기사 id 를 인자로 줄 것.')
         return
-    for a in todo:
+    for a, done, need in todo:
         rows = picks(a)
         save(D(WORK, f"in_{a['id']}.json"), rows)
+        if done:
+            save(D(WORK, f"todo_{a['id']}.json"), need)
         with open(D(WORK, f"art_{a['id']}.txt"), 'w', encoding='utf-8') as f:
             f.write(f"{a['title']}\n{a['source']} · {a['date']}\n{a['url']}\n\n")
             for pi, para in enumerate(a['paras']):
@@ -90,8 +115,12 @@ def do_out(only):
                     f.write(f"[{pi}.{si}] {s}\n")
                 f.write('\n')
         n = sum(len(p) for p in a['paras'])
-        print(f"{a['id']}  {a['title'][:44]:<44} 문장 {n:>3}개 중 {len(rows):>3}개 → work/in_{a['id']}.json")
+        tail = f"이미 끝낸 {len(done)}개 + **더 할 {len(need)}개**" if done else f"{len(rows)}개 전부 새로"
+        print(f"{a['id']}  {a['title'][:40]:<40} 문장 {n:>3}개 중 다룰 것 {len(rows):>3}개 — {tail}")
     print(f"\n기사 {len(todo)}건. tutor/news/TUTOR_PROMPT.md 를 읽혀 하나씩 맡길 것.")
+    if any(d for _, d, _ in todo):
+        print("이미 한 문장은 todo_*.json 에 빠진 것만 따로 담아 두었다. "
+              "기존 an_*/ck_* 항목은 그대로 두고 빠진 것만 더할 것.")
 
 
 def do_merge():

@@ -84,5 +84,17 @@
   {"t":"who","q":"<b>manages the challenge contract</b> — 계약을 관리하는 곳은 어디입니까?","a":"NASA의 협업 혁신 우수센터(NASA’s Center of Excellence for Collaborative Innovation)입니다","tip":"쉼표 사이의 긴 동격 때문에 바로 앞의 Directorate 를 주어로 잡기 쉽습니다. 동사가 manages(단수)인 것도 Center 를 받기 때문입니다."},
   {"t":"mod","q":"<b>part of the Prizes, Challenges, and Crowdsourcing Program</b> 는 무엇을 설명하는 말입니까?","a":"NASA의 협업 혁신 우수센터입니다 — 그 센터가 이 프로그램의 일부라는 뜻","tip":"쉼표 뒤에 나와 새로운 주어처럼 보이지만, 앞 이름을 다시 말하는 동격입니다."},
   {"t":"mod","q":"<b>within the Research and Technology Mission Directorate</b> 는 무엇이 그 본부 안에 있다는 말입니까?","a":"바로 앞의 the Prizes, Challenges, and Crowdsourcing Program(그 프로그램)입니다","tip":"the challenge contract 나 센터 자체에 붙이기 쉽습니다. 조직은 본부 > 프로그램 > 센터 순으로 겹쳐 있습니다."}
+ ],
+ "9af122e1|6.0": [
+  {"t":"time","q":"<b>are due</b> — 2027년 2월 24일은 무슨 날입니까?","a":"제안서와 영상을 내야 하는 마감일입니다","tip":"be due 는 '~때문에'가 아니라 '기한이 ~이다'입니다. due to(~때문에)로 읽어 '2027년 2월 24일 때문에'라고 옮기면 문장이 통째로 달라집니다."},
+  {"t":"mod","q":"<b>accompanying</b> 은 무엇을 설명하는 말입니까?","a":"바로 뒤의 video submissions(제출 영상)입니다 — 제안서에 함께 딸려 나가는 영상이라는 뜻","tip":"-ing 라서 동사로 읽기 쉽지만, 이 문장의 동사는 are 하나뿐입니다."},
+  {"t":"mod","q":"<b>Challenge proposals and accompanying video submissions</b> — 이 날짜까지 내야 하는 것은 몇 가지입니까?","a":"두 가지입니다 — 공모전 제안서와 거기에 딸린 제출 영상","tip":"동사가 are(복수)인 것이 단서입니다. 하나로 뭉뚱그리면 영상도 같은 날 마감이라는 점을 놓칩니다."},
+  {"t":"time","q":"<b>Feb. 24, 2027</b> 은 이미 지난 날짜입니까, 앞으로 올 날짜입니까?","a":"앞으로 올 날짜입니다 — 아직 남아 있는 마감입니다","tip":"동사가 현재형 are 라서 이미 벌어진 일로 읽기 쉽지만, 정해진 일정·마감은 이렇게 현재형으로 씁니다."}
+ ],
+ "9af122e1|7.1": [
+  {"t":"mod","q":"<b>Each finalist team</b> — 7,500달러는 결선 팀 전체에 주는 돈입니까, 한 팀마다 주는 돈입니까?","a":"한 팀마다 7,500달러씩입니다","tip":"each 는 '각각'이고, 뒤의 team 이 단수인 것도 단서입니다. 전체 총액으로 읽으면 금액이 크게 달라집니다."},
+  {"t":"pron","q":"<b>its full participation</b> 의 its 는 누구를 가리킵니까?","a":"그 결선 진출 팀 자신입니다 — NASA나 공모전이 아닙니다","tip":"its 가 단수라 앞 문장의 The competition 이나 NASA로 잡기 쉽지만, each … team(단수)을 받기 때문에 its 입니다."},
+  {"t":"who","q":"<b>will receive a $7,500 award</b> — 돈을 주는 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다 — 받는 쪽(결선에 오른 각 팀)만 나옵니다","tip":"receive 는 '주다'가 아니라 '받다'입니다. 주어를 주는 쪽으로 읽으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>to facilitate its full participation</b> — 이 부분은 무엇을 밝히는 말입니까?","a":"그 상금을 주는 목적입니다 — 그 팀이 대회에 끝까지 온전히 참가할 수 있게 하려는 것","tip":"facilitate 는 '(일이 되도록) 쉽게 해 주다·뒷받침하다'입니다. 시설(facility)과 엮어 엉뚱하게 옮기지 않도록 주의하세요."}
  ]
 }

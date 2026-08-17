@@ -1,0 +1,32 @@
+[
+ {
+  "id": "5952c09b|2.0",
+  "en": "The Sun is constantly churning.",
+  "auto_s": "The Sun",
+  "auto_v": "churning"
+ },
+ {
+  "id": "5952c09b|2.1",
+  "en": "Intense concentrations of localized magnetic fields can suddenly break through the solar surface, forming sunspots.",
+  "auto_s": "Intense concentrations of localized magnetic fields",
+  "auto_v": "break"
+ },
+ {
+  "id": "5952c09b|7.0",
+  "en": "The COFFIES team aims to revolutionize this process.",
+  "auto_s": "The COFFIES team",
+  "auto_v": "aims"
+ },
+ {
+  "id": "5952c09b|12.1",
+  "en": "“With this heads up, we can provide additional support to NASA missions.”",
+  "auto_s": "we",
+  "auto_v": "can provide"
+ },
+ {
+  "id": "5952c09b|14.0",
+  "en": "The COFFIES team focuses on the interconnected processes behind the Sun’s activity.",
+  "auto_s": "The COFFIES team",
+  "auto_v": "focuses"
+ }
+]

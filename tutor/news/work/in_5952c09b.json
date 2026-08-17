@@ -12,6 +12,18 @@
   "auto_v": "has developed"
  },
  {
+  "id": "5952c09b|2.0",
+  "en": "The Sun is constantly churning.",
+  "auto_s": "The Sun",
+  "auto_v": "churning"
+ },
+ {
+  "id": "5952c09b|2.1",
+  "en": "Intense concentrations of localized magnetic fields can suddenly break through the solar surface, forming sunspots.",
+  "auto_s": "Intense concentrations of localized magnetic fields",
+  "auto_v": "break"
+ },
+ {
   "id": "5952c09b|2.2",
   "en": "Space weather forecasters then collectively number and track sunspots since they are visible manifestations of active regions, which serve as the main engines behind severe space weather events such as solar flares and coronal mass ejections.",
   "auto_s": "",
@@ -70,6 +82,12 @@
   "en": "To develop current operational forecasts, the National Oceanic and Atmospheric Administration’s Space Weather Prediction Center and the United States Air Force monitor active regions that are already visible on the Sun to analyze the regions’ characteristics and estimate the probability of solar flares.",
   "auto_s": "the National Oceanic",
   "auto_v": "monitor"
+ },
+ {
+  "id": "5952c09b|7.0",
+  "en": "The COFFIES team aims to revolutionize this process.",
+  "auto_s": "The COFFIES team",
+  "auto_v": "aims"
  },
  {
   "id": "5952c09b|7.1",
@@ -144,6 +162,12 @@
   "auto_v": "is"
  },
  {
+  "id": "5952c09b|12.1",
+  "en": "“With this heads up, we can provide additional support to NASA missions.”",
+  "auto_s": "we",
+  "auto_v": "can provide"
+ },
+ {
   "id": "5952c09b|13.0",
   "en": "NASA’s COFFIES is one of three DRIVE Science Centers created to encourage collaborative science by establishing centers that are made of multidisciplinary teams from several institutions across the U.S.",
   "auto_s": "NASA’s COFFIES",
@@ -154,6 +178,12 @@
   "en": "These pioneering facilities employ modelers, theoreticians, computer scientists, and observers to study important mysteries of our star and its influence, a branch of science known as heliophysics.",
   "auto_s": "These pioneering facilities employ modelers",
   "auto_v": "to study"
+ },
+ {
+  "id": "5952c09b|14.0",
+  "en": "The COFFIES team focuses on the interconnected processes behind the Sun’s activity.",
+  "auto_s": "The COFFIES team",
+  "auto_v": "focuses"
  },
  {
   "id": "5952c09b|14.1",

@@ -139,5 +139,31 @@
   {"t":"who","q":"<b>Understanding the Sun’s interior and magnetic variability is key</b> — 열쇠가 된다고 한 것은 무엇입니까?","a":"태양의 내부와 자기장 변화를 이해하는 일입니다","tip":"Understanding 을 진행형 동사로 읽으면 주어를 잃습니다. 여기서는 '~하는 것'이라는 동명사 주어입니다."},
   {"t":"mod","q":"<b>and fine-tuning space weather forecasting tools</b> 는 무엇에 이어지는 말입니까?","a":"앞의 key to 입니다 — advancing 과 나란히 걸립니다","tip":"our understanding of ~ 안에 넣어 읽으면 '도구를 이해한다'가 되어 초점이 흐려집니다."},
   {"t":"mod","q":"<b>the Sun’s 11-year activity cycle</b> — 11년은 무엇을 가리키는 숫자입니까?","a":"태양 활동이 한 바퀴 도는 주기의 길이입니다","tip":"11-year 는 cycle 을 꾸밉니다. '11년 동안의 활동'이 아니라 '11년마다 되풀이되는 주기'입니다."}
+ ],
+ "5952c09b|2.0": [
+  {"t":"time","q":"<b>is constantly churning</b> — 태양이 가끔씩만 이렇게 된다는 뜻입니까?","a":"아니요 — 지금 이 순간에도 쉬지 않고 계속되는 일입니다","tip":"진행형(is ~ing)에 constantly(끊임없이)가 붙었습니다. 특별한 때에만 일어나는 일로 읽으면 뒤 문장들의 흐름과 어긋납니다."},
+  {"t":"who","q":"<b>The Sun is constantly churning.</b> — 태양이 무언가를 휘젓는다는 뜻입니까, 태양 자체가 들끓는다는 뜻입니까?","a":"태양 자체가 안에서 쉬지 않고 뒤섞이며 들끓는다는 뜻입니다 — 목적어가 없습니다","tip":"churn 은 목적어 없이 '들끓다·요동치다'로 쓸 수 있습니다. 휘저어지는 대상을 찾으려 하면 문장이 막힙니다."},
+  {"t":"mod","q":"<b>constantly</b> 는 무엇을 꾸미는 말입니까?","a":"churning(들끓으며 뒤섞이는 일)입니다","tip":"부사가 be동사와 -ing 사이에 끼면 뒤의 -ing 를 꾸밉니다."}
+ ],
+ "5952c09b|2.1": [
+  {"t":"mod","q":"<b>Intense concentrations of localized magnetic fields</b> — 아주 강하게 몰려 있는 것은 무엇입니까?","a":"국지적인(한곳에 치우친) 자기장입니다","tip":"명사가 줄줄이 붙은 덩어리는 뒤에서 앞으로 풀어 읽습니다. '자기장이 좁은 곳에 아주 강하게 뭉친 것'입니다."},
+  {"t":"who","q":"<b>forming sunspots</b> — 흑점을 만들어 내는 쪽은 무엇입니까?","a":"앞 절의 주어인 강하게 뭉친 자기장(Intense concentrations of localized magnetic fields)입니다","tip":"~ing 분사구문의 주체는 앞 절의 주어입니다. 바로 앞에 있는 the solar surface(태양 표면)로 잡기 쉽습니다."},
+  {"t":"time","q":"<b>can suddenly break through the solar surface</b> — 이것은 늘 일어나는 일입니까, 일어날 수 있는 일입니까?","a":"일어날 수 있는 일입니다 — can 은 가능성을 말합니다","tip":"can 을 빼고 읽으면 '언제나 뚫고 나온다'가 되어 사실이 달라집니다."}
+ ],
+ "5952c09b|7.0": [
+  {"t":"pron","q":"<b>this process</b> 는 무엇을 가리킵니까?","a":"앞 문단에서 말한 지금의 예보 방식 — 이미 눈에 보이는 활동 영역을 감시해 플레어 확률을 가늠하는 일입니다","tip":"this 는 앞 문단 전체를 받습니다. COFFIES가 새로 만든 방식을 가리키는 것이 아닙니다."},
+  {"t":"who","q":"이 과정을 뒤바꾸겠다고 나선 쪽은 누구입니까?","a":"COFFIES 팀입니다","tip":"앞 문단의 주어였던 NOAA 우주기상예측센터와 미 공군이 그대로 이어진다고 생각하기 쉽습니다. 여기서 주어가 바뀝니다."},
+  {"t":"time","q":"<b>aims to revolutionize</b> — 이 팀은 이미 이 과정을 바꿔 놓았습니까?","a":"아니요 — 그렇게 하겠다는 목표입니다","tip":"aim to ~ 는 '~을 목표로 하다'입니다. 이미 이룬 일로 읽으면 뒤에 나오는 '아직 실시간 예보에 쓸 단계는 아니다'와 어긋납니다."}
+ ],
+ "5952c09b|12.1": [
+  {"t":"pron","q":"<b>this heads up</b> 는 무엇을 가리킵니까?","a":"앞 문장에서 말한 것 — AI 모델이 플레어가 일어날 만한 위치를 미리 알려 주는 것입니다","tip":"heads up 은 '고개를 들다'가 아니라 '미리 주는 귀띔'이라는 명사입니다. 동사로 읽으면 문장이 풀리지 않습니다."},
+  {"t":"pron","q":"<b>we</b> 는 누구입니까?","a":"이 말을 한 미켈란젤로 로마노가 속한 M2M SWAO 팀입니다","tip":"COFFIES 연구팀으로 잡기 쉽습니다. 앞 문장의 our team 과 같은 쪽입니다."},
+  {"t":"who","q":"<b>we can provide additional support to NASA missions</b> — 지원하는 쪽과 지원을 받는 쪽은 각각 무엇입니까?","a":"지원하는 쪽은 말하는 사람의 팀(we), 지원을 받는 쪽은 NASA의 여러 임무입니다","tip":"provide A to B 는 'B에게 A를 준다'입니다. NASA가 지원해 준다는 말로 뒤집기 쉽습니다."},
+  {"t":"time","q":"<b>With this heads up, we can provide additional support</b> — 지금 이미 그 지원을 하고 있다는 뜻입니까?","a":"아니요 — 그런 귀띔을 받을 수 있게 되면 그때 할 수 있다는 뜻입니다","tip":"With ~ 가 조건이고 can 이 가능성입니다. 앞 문장의 could provide 와 마찬가지로 아직 앞으로의 이야기입니다."}
+ ],
+ "5952c09b|14.0": [
+  {"t":"mod","q":"<b>behind the Sun’s activity</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the interconnected processes(서로 얽혀 돌아가는 여러 과정)입니다 — 태양 활동 뒤에서 일어나는 과정이라는 뜻입니다","tip":"동사 focuses 에 붙여 '태양 활동 뒤에서 집중한다'로 읽으면 말이 되지 않습니다. 바로 앞 명사를 꾸밉니다."},
+  {"t":"mod","q":"<b>interconnected</b> 는 무엇이 서로 이어져 있다는 말입니까?","a":"여러 과정(processes)입니다 — 그 과정들이 서로 영향을 주고받는다는 뜻입니다","tip":"COFFIES에 모인 여러 기관이 이어져 있다는 말이 아닙니다. 꾸미는 대상은 바로 뒤의 processes 입니다."},
+  {"t":"time","q":"<b>The COFFIES team focuses on</b> — 이것은 이미 끝난 연구입니까, 지금 하고 있는 일입니까?","a":"지금 하고 있는 일입니다 — 현재형은 그 팀이 계속 해 오는 일을 말합니다","tip":"앞에서 모델을 '개발했다(has developed)'고 한 것과 달리 여기는 현재형이라, 지금도 이어지는 연구 방향을 말합니다."}
  ]
 }

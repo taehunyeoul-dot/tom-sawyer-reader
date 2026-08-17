@@ -650,7 +650,9 @@ function load(){
   try{const j=JSON.parse(localStorage.getItem(KEY)||'{}');return Object.assign(def(),j);}catch(e){return def();}
 }
 function def(){return {known:{},cards:{},lookups:{},reads:{},answers:{},summary:{},predict:{},bm:{},
-  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},newsDone:{},verify:{}};}
+  set:{fs:19,lh:1.9,chunk:false,tags:true,rate:0.95,voice:'',l2known:false,calib:0,roles:true,hard:false,layout:'book'},cur:{ch:1,phase:'pre',src:'book'},log:{},done:{},quiz:{},gram:{done:{},quiz:{}},newsDone:{},verify:{},
+  // 기사용 (기사 id 로 저장). 소설의 predict/summary 와 섞이지 않게 따로 둔다.
+  npre:{},npredict:{},nsummary:{}};}
 let _sv;function save(){clearTimeout(_sv);_sv=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){}},250);}
 const ANA={};(ANALYSES||[]).forEach(a=>ANA[a.id]=a);
 const GD={};(GUIDES||[]).forEach(g=>GD[g.chapter]=g);
@@ -714,7 +716,11 @@ function openChapter(n,phase){
 
 /* ================= 읽기 화면 ================= */
 function renderPane(){
-  if(S.cur.src==='news'){ if(S.cur.phase==='read'&&S.cur.news)renderNewsRead(); else renderNewsList(); return; }
+  if(S.cur.src==='news'){
+    const p=S.cur.phase;
+    if(!S.cur.news||p==='list'){ renderNewsList(); return; }
+    if(p==='pre')renderNewsPre(); else if(p==='post')renderNewsPost(); else renderNewsRead();
+    return; }
   const n=S.cur.ch, p=S.cur.phase;
   if(p==='pre')renderPre(n); else if(p==='read')renderRead(n); else renderPost(n);
 }
@@ -849,14 +855,26 @@ function renderReadbar(){
       <button class="ic" id="ttsStop" title="멈춤">■</button>
       <button class="ic" id="toolstog" title="도구">⚙</button>
     </div>` : '');
-  const newsBar = (p==='read'&&S.cur.news) ? `
+  // 기사도 소설처럼 읽기 전 → 읽기 → 읽은 후 3단계를 거친다.
+  // 정답(번역·정밀 확인)이 본문 바로 옆에 있으면 안 보고 지나가기가 어렵기 때문이다.
+  const nA=S.cur.news?NA.find(x=>x.id===S.cur.news):null;
+  const newsPhases = (nA && p!=='list') ? `
+    <div class="phases">
+      <button data-p="pre" class="${p==='pre'?'on':''} ${(S.npre||{})[nA.id]?'done':''}">읽기 전<small>단어 미리보기</small></button>
+      <button data-p="read" class="${p==='read'?'on':''}">읽기<small>기사</small></button>
+      <button data-p="post" class="${p==='post'?'on':''} ${(S.newsDone||{})[nA.id]?'done':''}">읽은 후<small>확인·요약</small></button>
+    </div>` : '';
+  const newsBar = (nA && p!=='list') ? `
+    <div class="row" style="gap:6px"><button class="btn sm" data-nback>← 기사 목록</button>
+      <span class="note" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(nA.title)}</span></div>
+    ${newsPhases}` + (p==='read' ? `
     <div class="modesw">
       <button data-m="book" class="${mode==='book'?'on':''}">기사</button>
       <button data-m="struct" class="${mode==='struct'?'on':''}">구조분석</button>
       <button class="ic" id="ttsPlay" title="읽어주기">🔊</button>
       <button class="ic" id="ttsStop" title="멈춤">■</button>
       <button class="ic" id="toolstog" title="도구">⚙</button>
-    </div>` : '';
+    </div>` : '') : '';
   bar.innerHTML = `
     <div class="srcsw">
       <button data-s="book" class="${srcNews?'':'on'}">소설</button>
@@ -872,11 +890,15 @@ function renderReadbar(){
     if(S.set.layout===b.dataset.m)return;
     S.set.layout=b.dataset.m; save(); renderReadbar(); renderPane(); window.scrollTo(0,0);
   });
-  if(srcNews){ if(p==='read'){$('#ttsPlay').onclick=()=>speakFrom(null);$('#ttsStop').onclick=stopSpeak;
+  // 단계 전환은 소설·뉴스 양쪽에서 같은 markup 을 쓴다
+  bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
+  if(srcNews){
+    const nb=bar.querySelector('[data-nback]');
+    if(nb)nb.onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();window.scrollTo(0,0);};
+    if(p==='read'){$('#ttsPlay').onclick=()=>speakFrom(null);$('#ttsStop').onclick=stopSpeak;
       $('#toolstog').onclick=()=>{const t=$('#tools');t.classList.toggle('on');if(t.classList.contains('on'))renderTools();};renderTools();}
     else $('#tools').classList.remove('on');
     return; }
-  bar.querySelectorAll('.phases button').forEach(b=>b.onclick=()=>{S.cur.phase=b.dataset.p;save();renderReadbar();renderPane();window.scrollTo(0,0);});
   if(p==='read'){
     $('#ttsPlay').onclick=()=>speakFrom(null);
     $('#ttsStop').onclick=stopSpeak;
@@ -1555,8 +1577,87 @@ function renderNewsList(){
     기사마다 원문 링크가 있습니다.</p></div>`;
   }
   $('#pane').innerHTML=html;
-  $$('#pane [data-open]').forEach(b=>b.onclick=()=>{S.cur.news=b.dataset.open;S.cur.phase='read';save();renderReadbar();renderPane();window.scrollTo(0,0);});
+  // 기사를 고르면 소설과 마찬가지로 '읽기 전'부터 시작한다 (이미 거쳤으면 바로 읽기로)
+  $$('#pane [data-open]').forEach(b=>b.onclick=()=>{
+    S.cur.news=b.dataset.open;
+    S.cur.phase=(S.npre||{})[b.dataset.open]?'read':'pre';
+    save();renderReadbar();renderPane();window.scrollTo(0,0);});
 }
+/* ---- 기사 1단계: 읽기 전 — 단어 미리보기 + 예측 -------------------------
+   소설과 같은 이유로 둔다. 모르는 단어를 먼저 걷어내고, 무슨 내용일지 한 줄 적어 두면
+   읽는 동안 확인하게 되어 집중이 유지된다. */
+function renderNewsPre(){
+  const a=curArt();
+  if(!a){ S.cur.phase='list'; renderNewsList(); return; }
+  const lv=a.tok<300?'짧음':a.tok<700?'보통':'긺';
+  let html=`<div class="card">
+    <div class="chno">${esc(a.source)} · ${a.date} · ${a.tok.toLocaleString()}단어 · ${lv}</div>
+    <h3 style="margin:4px 0 10px">${esc(a.title)}</h3>
+    <h4>예측하기</h4>
+    <p style="margin:0 0 6px">제목만 보고, 이 기사가 <b>무엇에 대해 무슨 말을 할지</b> 한 줄로 적어 보세요.
+    맞고 틀리고는 상관없습니다 — 적어 두면 읽으면서 확인하게 되어 끝까지 집중이 됩니다.</p>
+    <textarea id="npredict" placeholder="한 줄이면 충분합니다.">${esc((S.npredict||{})[a.id]||'')}</textarea>
+  </div>`;
+  const rows=(a.words||[]).filter(([i])=>{const v=VOCAB[i];return v&&(S.set.l2known?v.l>=3:v.l>=2);});
+  html+=`<div class="card"><h3>이 기사의 단어 미리보기</h3>
+    <p class="note" style="margin:0 0 10px">이 기사에 나오는 레벨 ${S.set.l2known?'3':'2·3'} 단어를 <b>기사 안 빈도순</b>으로 보여줍니다.
+    이미 아는 단어는 <b>알아요</b>, 익힐 단어는 <b>카드</b>를 누르세요. 다 볼 필요는 없습니다.</p>
+    <div id="npretb"></div></div>
+    <div class="card" style="text-align:center">
+      <button class="btn pri" id="nStartRead">미리보기 끝 → 기사 읽기</button>
+    </div>`;
+  $('#pane').innerHTML=html;
+  const ta=$('#npredict'); if(ta)ta.oninput=()=>{S.npredict=S.npredict||{};S.npredict[a.id]=ta.value;save();};
+  const draw=()=>{
+    $('#npretb').innerHTML=rows.map(([i,c])=>{
+      const v=VOCAB[i]; const kn=(isKnownIdx(i)&&!S.cards[i]), ic=!!S.cards[i]; const pk=posKo(v.p);
+      return `<div class="wrow ${kn?'known':''} ${ic?'incard':''}">
+        <div class="wtop"><span class="ww">${esc(v.w)}</span><span class="wm">${esc(v.m)}${pk?` <em>${esc(pk)}</em>`:''}</span></div>
+        <div class="wbtn"><button class="btn sm ${kn?'on':''}" data-k="${i}">${kn?'알아요 ✓':'알아요'}</button><button class="btn sm ${ic?'grn':''}" data-c="${i}">${ic?'카드 ✓':'카드'}</button></div>
+      </div>`;}).join('')||`<p class="note" style="text-align:center;padding:18px">보여 드릴 단어가 없습니다. 바로 읽기 시작하세요.</p>`;
+    $('#npretb').querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{const i=+b.dataset.k;if(S.known[i])delete S.known[i];else{S.known[i]=1;if(S.cards[i])delete S.cards[i];}save();draw();});
+    $('#npretb').querySelectorAll('[data-c]').forEach(b=>b.onclick=()=>{const i=+b.dataset.c;if(S.cards[i])delete S.cards[i];else{addCard(i,`${a.id}|0.0`);delete S.known[i];}save();draw();});
+  };
+  draw();
+  $('#nStartRead').onclick=()=>{S.npre=S.npre||{};S.npre[a.id]=1;S.cur.phase='read';save();renderReadbar();renderPane();window.scrollTo(0,0);};
+}
+
+/* ---- 기사 3단계: 읽은 후 — 정밀 확인 + 요약 ---------------------------
+   정밀 확인을 본문과 같은 화면에 두면 눈에 먼저 들어와 공부가 되지 않는다.
+   반드시 읽기를 끝낸 뒤 별도 화면에서 하게 할 것. */
+function renderNewsPost(){
+  const a=curArt();
+  if(!a){ S.cur.phase='list'; renderNewsList(); return; }
+  const nids=artChecks(a.id);
+  let html=`<div class="card"><h3 style="margin:0 0 4px">${esc(a.title)} · 읽은 후</h3>
+    <p class="note" style="margin:0">${esc(a.source)} · ${a.date}</p></div>`;
+  if((S.npredict||{})[a.id]){
+    html+=`<div class="card"><h3>내 예측은 맞았나</h3>
+      <div class="vmine"><span class="lbl">읽기 전에 쓴 예측</span>${esc(S.npredict[a.id])}</div>
+      <p class="note" style="margin:8px 0 0">맞았는지 틀렸는지보다, <b>어디서 어긋났는지</b>가 중요합니다.</p></div>`;
+  }
+  html+=`<div class="card"><h3>정밀 확인 — 내가 제대로 읽었나</h3>
+    <p class="note" style="margin:0 0 8px"><b>고르는 문제가 아닙니다.</b> 문장을 직접 한국어로 옮겨 쓴 뒤,
+    답이 정해진 항목과 하나씩 대조합니다. 찍기나 소거법으로 넘어갈 수 없어서
+    <b>유추로 읽은 곳이 드러납니다.</b> 하루 2~3문장이면 충분합니다.</p>
+    <p class="note" style="margin:0 0 8px">기사는 <b>모든 문장</b>에 준비돼 있습니다(기자 이름·연락처 같은 부속물 제외).
+    다만 <b>틀렸다는 신호는 믿을 만하지만, 다 맞았다고 해서 그 문장을 제대로 읽었다는 보장은 되지 않습니다.</b></p>
+    <div id="nvbox"></div></div>
+    <div class="card"><h3>요약 쓰기</h3>
+    <p class="note" style="margin:0 0 8px">이 기사를 2~3문장으로 요약하세요. <b>무엇이 · 어떻게 · 그래서 왜 중요한지</b>가 들어가면 좋습니다.</p>
+    <textarea id="nsumm" style="min-height:90px" placeholder="요약">${esc((S.nsummary||{})[a.id]||'')}</textarea></div>
+    <div class="card" style="text-align:center">
+      <button class="btn sm" id="nReread">기사 다시 읽기</button>
+      <button class="btn pri" id="nDone2" style="margin-left:8px">다 읽었어요</button>
+      <div class="bnav" style="margin-top:10px"><button class="btn sm" id="nBack2">← 기사 목록</button></div></div>`;
+  $('#pane').innerHTML=html;
+  renderVerify('#nvbox',nids,'이 기사에는 아직 정밀 확인이 없습니다. 매일 새로 들어오는 기사는 자동 구조 분석부터 붙고, 튜터 분석은 나중에 채워집니다.');
+  const ts=$('#nsumm'); if(ts)ts.oninput=()=>{S.nsummary=S.nsummary||{};S.nsummary[a.id]=ts.value;save();};
+  $('#nReread').onclick=()=>{S.cur.phase='read';save();renderReadbar();renderPane();window.scrollTo(0,0);};
+  $('#nBack2').onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
+  $('#nDone2').onclick=()=>{S.newsDone=S.newsDone||{};S.newsDone[a.id]=dayNum();save();toast('읽음으로 표시했습니다');S.cur.phase='list';renderReadbar();renderPane();};
+}
+
 function renderNewsRead(){
   const a=curArt();
   if(!a){ S.cur.phase='list'; renderNewsList(); return; }
@@ -1588,24 +1689,17 @@ function renderNewsRead(){
   });
   html+=`<div class="end">기사 끝 (${a.tok.toLocaleString()}단어)<br>
     <a href="${esc(a.url)}" target="_blank" rel="noopener" class="note" style="color:var(--cobalt)">NASA 원문 보기 ↗</a></div></div>`;
-  // 기사를 다 읽은 뒤 — 소설의 '읽은 후'와 같은 정밀 확인. 기사는 짧아 본문 바로 아래 둔다.
-  const nids=artChecks(a.id);
-  html+=`<div class="card"><h3>정밀 확인 — 내가 제대로 읽었나</h3>
-    <p class="note" style="margin:0 0 8px"><b>고르는 문제가 아닙니다.</b> 문장을 직접 한국어로 옮겨 쓴 뒤,
-    답이 정해진 항목과 하나씩 대조합니다. 찍기나 소거법으로 넘어갈 수 없어서
-    <b>유추로 읽은 곳이 드러납니다.</b> 하루 2~3문장이면 충분합니다.</p>
-    <p class="note" style="margin:0 0 8px">다만 <b>틀렸다는 신호는 믿을 만하지만, 다 맞았다고 해서
-    그 문장을 제대로 읽었다는 보장은 되지 않습니다.</b> 항목이 짚지 않은 곳은 검사되지 않습니다.</p>
-    <div id="nvbox"></div></div>
-    <div class="card" style="text-align:center">
-      <button class="btn pri" id="nDone">다 읽었어요</button>
+  // 여기서는 정밀 확인을 보여 주지 않는다. 정답이 본문 옆에 있으면 공부가 되지 않는다.
+  // 다 읽은 뒤 '읽은 후' 화면으로 넘어가서 한다.
+  html+=`<div class="card" style="text-align:center">
+      <button class="btn pri" id="nDone">다 읽었어요 → 읽은 후</button>
+      <p class="note" style="margin:8px 0 0">읽은 후 화면에서 <b>정밀 확인</b>(내 번역과 대조)과 요약을 합니다.</p>
       <div class="bnav" style="margin-top:10px"><button class="btn sm" id="nBack">← 기사 목록</button></div>
     </div>`;
   $('#pane').innerHTML=html;
-  renderVerify('#nvbox',nids,'이 기사에는 아직 정밀 확인이 없습니다. 매일 새로 들어오는 기사는 자동 구조 분석부터 붙고, 튜터 분석은 나중에 채워집니다.');
   applyTextStyle();
   $('#nBack').onclick=()=>{S.cur.phase='list';save();renderReadbar();renderPane();};
-  $('#nDone').onclick=()=>{S.newsDone=S.newsDone||{};S.newsDone[a.id]=dayNum();save();toast('읽음으로 표시했습니다');S.cur.phase='list';renderReadbar();renderPane();};
+  $('#nDone').onclick=()=>{S.cur.phase='post';save();renderReadbar();renderPane();window.scrollTo(0,0);};
   $('#text').onclick=e=>{
     const tk=e.target.closest('.tk');
     if(tk){showPop(tk,a.id);e.stopPropagation();return;}
@@ -1617,15 +1711,18 @@ function renderNewsRead(){
 // 기사 문장 하나를 구조 펼침으로 (소설의 structBlock 과 같은 모양)
 function newsStructBlock(a,pi,si,sent){
   const sy=(a.syn[pi]||[])[si];
-  const an=ANA[`${a.id}|${pi}.${si}`];   // 튜터 분석이 있으면 소설처럼 줄마다 한국어 뜻을 붙인다
+  const an=ANA[`${a.id}|${pi}.${si}`];
+  /* 튜터가 나눈 의미 단위를 쓰되 **한국어 뜻은 여기에 찍지 않는다.**
+     기사는 모든 문장에 분석이 있어서, 뜻까지 깔면 기사 전체가 번역문이 되어 버린다.
+     뜻은 문장을 눌렀을 때(패널)와 '읽은 후' 정밀 확인에서만 본다. */
   let rows='', src='<span class="src">자동 분석</span>';
   if(an&&an.chunks&&an.chunks.length){
-    src='<span class="src tut">튜터 분석</span>';
+    src='<span class="src tut">튜터 구분</span>';
     rows=an.chunks.map((ck,k)=>{
       const isS=an.s&&ck.en.includes(an.s), isV=an.v&&ck.en.includes(an.v);
       return `<div class="row ${isS?'is-S':''} ${isV?'is-V':''}" data-i="${k}" data-hk="-1" data-d="0">
         <span class="n">${k+1}</span><span class="rb"><span class="en">${esc(ck.en)}</span>
-        <span class="ko">${esc(ck.ko)}</span>${ck.r?`<span class="rl">${esc(ck.r)}</span>`:''}</span></div>`;
+        ${ck.r?`<span class="rl">${esc(ck.r)}</span>`:''}</span></div>`;
     }).join('');
     return `<div class="sx" data-id="${pi}.${si}"><div class="hd"><span class="loc">${pi}·${si}</span>${src}</div>${rows}</div>`;
   }

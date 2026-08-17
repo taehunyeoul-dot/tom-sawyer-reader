@@ -84,6 +84,12 @@
   "auto_v": ""
  },
  {
+  "id": "293c5d1b|5.1",
+  "en": "Photos and video from the total and partial eclipse are available in NASA’s image library .",
+  "auto_s": "Photos",
+  "auto_v": "are"
+ },
+ {
   "id": "293c5d1b|5.2",
   "en": "The next total solar eclipse will occur on August 2, 2027, with the path of totality crossing southern Spain, North Africa, Saudi Arabia, and Yemen.",
   "auto_s": "The next total solar eclipse",
@@ -112,5 +118,23 @@
   "en": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far…",
   "auto_s": "The crew of NASA’s Artemis II mission",
   "auto_v": "captured"
+ },
+ {
+  "id": "293c5d1b|11.0",
+  "en": "Subscribe to the Earth Observatory and get the Earth in your inbox.",
+  "auto_s": "",
+  "auto_v": "Subscribe"
+ },
+ {
+  "id": "293c5d1b|12.0",
+  "en": "NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.",
+  "auto_s": "NASA’s Earth Observatory",
+  "auto_v": "brings"
+ },
+ {
+  "id": "293c5d1b|13.0",
+  "en": "Open access to NASA’s archive of Earth science data",
+  "auto_s": "",
+  "auto_v": ""
  }
 ]

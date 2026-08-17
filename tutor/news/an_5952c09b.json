@@ -431,5 +431,71 @@
   "ko": "태양의 내부와 자기장 변화를 이해하는 일은, 태양의 11년 활동 주기에 대한 이해를 넓히고 우주 날씨 예보 도구를 정밀하게 다듬는 데 열쇠가 된다.",
   "why": "맨 앞의 Understanding ~ 은 동명사 주어(~하는 것)이고 동사는 is 다. key to 의 to 는 전치사라서 뒤에 -ing 형이 오며, advancing 과 fine-tuning 두 개가 나란히 걸린다.",
   "st": []
+ },
+ {
+  "id": "5952c09b|2.0",
+  "en": "The Sun is constantly churning.",
+  "s": "The Sun",
+  "v": "is constantly churning",
+  "chunks": [
+   {"en": "The Sun is constantly churning.", "ko": "태양은 끊임없이 들끓으며 속을 뒤섞고 있다", "r": "주어 + 동사"}
+  ],
+  "ko": "태양은 끊임없이 요동치며 속을 뒤섞고 있다.",
+  "why": "churn 은 '휘저어 뒤섞다'라는 뜻인데, 여기서는 목적어 없이 '스스로 들끓는다'는 뜻으로 쓰였다. is ~ing(진행형)에 constantly(끊임없이)가 붙어 '지금도 쉬지 않고 그렇다'는 말이 된다.",
+  "st": []
+ },
+ {
+  "id": "5952c09b|2.1",
+  "en": "Intense concentrations of localized magnetic fields can suddenly break through the solar surface, forming sunspots.",
+  "s": "Intense concentrations of localized magnetic fields",
+  "v": "can suddenly break",
+  "chunks": [
+   {"en": "Intense concentrations of localized magnetic fields", "ko": "한곳에 몰린 자기장이 아주 강하게 뭉친 덩어리가", "r": "주어(긴 명사구)"},
+   {"en": "can suddenly break through the solar surface,", "ko": "갑자기 태양 표면을 뚫고 나올 수 있다", "r": "동사 + 전치사구(뚫고 나오는 곳)"},
+   {"en": "forming sunspots.", "ko": "그러면서 흑점을 만들어 낸다", "r": "분사구문(결과)"}
+  ],
+  "ko": "한곳에 몰린 자기장이 아주 강하게 뭉친 덩어리는 갑자기 태양 표면을 뚫고 솟아오르면서 흑점을 만들어 낸다.",
+  "why": "주어가 명사 여럿이 겹쳐 붙은 긴 덩어리(Intense concentrations of localized magnetic fields)라서 어디까지가 주어인지 잡기 어렵다. 뒤에서 앞으로 '국지적인 자기장이 아주 강하게 뭉친 것'으로 풀어 읽고, 맨 뒤 forming sunspots 는 그렇게 해서 생기는 결과를 말하는 분사구문(~하면서 …가 된다)이다.",
+  "st": []
+ },
+ {
+  "id": "5952c09b|7.0",
+  "en": "The COFFIES team aims to revolutionize this process.",
+  "s": "The COFFIES team",
+  "v": "aims",
+  "chunks": [
+   {"en": "The COFFIES team aims", "ko": "COFFIES 팀은 목표로 삼고 있다", "r": "주어 + 동사"},
+   {"en": "to revolutionize this process.", "ko": "이 과정을 통째로 뒤바꿔 놓는 것을", "r": "목적어(to부정사)"}
+  ],
+  "ko": "COFFIES 팀은 이 과정을 근본부터 뒤바꿔 놓는 것을 목표로 삼고 있다.",
+  "why": "aim to ~ 는 '~하는 것을 목표로 하다'라서, 이미 이룬 일이 아니라 앞으로 하려는 일이다. this process 는 앞 문단에서 말한 지금의 예보 방식—이미 눈에 보이는 활동 영역을 감시해 플레어 확률을 가늠하는 일—을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "5952c09b|12.1",
+  "en": "“With this heads up, we can provide additional support to NASA missions.”",
+  "s": "we",
+  "v": "can provide",
+  "chunks": [
+   {"en": "“With this heads up,", "ko": "\"이렇게 미리 귀띔을 받으면", "r": "전치사구(조건)"},
+   {"en": "we can provide additional support", "ko": "우리는 추가 지원을 해 줄 수 있습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to NASA missions.”", "ko": "NASA의 여러 임무에", "r": "전치사구(받는 쪽)"}
+  ],
+  "ko": "\"이렇게 미리 알려 주는 정보가 있으면, 우리는 NASA의 여러 임무에 추가 지원을 해 줄 수 있습니다.\"",
+  "why": "heads up 은 '고개를 든다'가 아니라 '미리 알려 주는 귀띔'이라는 명사 표현이다. With ~ 는 '~가 있으면'이라는 조건이고, we 는 이 말을 한 사람이 속한 M2M SWAO 팀이다.",
+  "st": []
+ },
+ {
+  "id": "5952c09b|14.0",
+  "en": "The COFFIES team focuses on the interconnected processes behind the Sun’s activity.",
+  "s": "The COFFIES team",
+  "v": "focuses",
+  "chunks": [
+   {"en": "The COFFIES team focuses on the interconnected processes", "ko": "COFFIES 팀은 서로 얽혀 돌아가는 여러 과정에 초점을 맞춘다", "r": "주어 + 동사 + 목적어"},
+   {"en": "behind the Sun’s activity.", "ko": "태양 활동의 뒤에서 일어나는", "r": "전치사구(processes 수식)"}
+  ],
+  "ko": "COFFIES 팀은 태양 활동 뒤에서 서로 얽혀 돌아가는 여러 과정에 초점을 맞춘다.",
+  "why": "behind the Sun’s activity 는 동사 focuses 에 붙는 말이 아니라 바로 앞의 processes 를 꾸민다. interconnected 는 '서로 이어져 영향을 주고받는'이라는 뜻이라, 그 과정들을 따로따로 보지 않는다는 점이 이 문장의 핵심이다.",
+  "st": []
  }
 ]
