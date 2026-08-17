@@ -92,6 +92,28 @@ with sync_playwright() as p:
     for t, label in (('srs', '단어'), ('struct', '문법'), ('stats', '기록'), ('help', '사용법')):
         go(f'button[data-t="{t}"]', label)
 
+    # --- 저장 상태가 꼬여 있어도 화면이 살아나는지 -------------------------------
+    # 기사는 매일 갈아 끼워지므로 "읽던 기사가 사라진 채 저장된" 상태가 자연스럽게 생긴다.
+    # 그때 상단은 뉴스인데 본문은 빈 채로 멈춘 적이 있다(2026-08-17).
+    print('\n저장 상태 복구:')
+    STALE = [
+        ('사라진 기사 읽던 중', {'ch': 1, 'phase': 'read', 'src': 'news', 'news': '__gone__'}),
+        ('사라진 기사 읽은 후', {'ch': 1, 'phase': 'post', 'src': 'news', 'news': '__gone__'}),
+        ('엉뚱한 값',          {'ch': 99, 'phase': 'zzz', 'src': '???'}),
+    ]
+    for label, cur in STALE:
+        st = pg.evaluate('()=>JSON.parse(localStorage.getItem("ts_reader_v1")||"{}")')
+        st['cur'] = cur
+        pg.evaluate('s=>localStorage.setItem("ts_reader_v1",JSON.stringify(s))', st)
+        n_err = len(errs)
+        pg.reload(); pg.wait_for_timeout(1400)
+        body = pg.inner_text('#pane').strip()
+        alive = bool(body) and len(errs) == n_err
+        if not alive:
+            bad.append(f'저장 상태 복구: {label}')
+        print(f'  {label:<20} [{"OK" if alive else "실패"}]  {body[:36]!r}')
+    pg.evaluate('()=>localStorage.removeItem("ts_reader_v1")')   # 검사용 상태는 남기지 않는다
+
     print('\n자바스크립트 오류:', errs if errs else '없음')
     b.close()
 
