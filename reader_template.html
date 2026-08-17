@@ -33,7 +33,11 @@ button,select,label,.chip,.btn{touch-action:manipulation}
    overflow-x:clip 은 스크롤 상자를 만들지 않으므로 sticky(상단 탭·도구막대)가 그대로 동작한다. */
 html{overflow-x:clip}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6}
-button,select,input,textarea{font-family:inherit;font-size:14px;color:var(--ink)}
+button{font-family:inherit;font-size:14px;color:var(--ink)}
+/* ⚠ 입력칸(select·input·textarea)의 글자는 16px 아래로 내리지 말 것.
+   iOS 사파리는 16px 미만인 입력칸을 누르면 화면을 제멋대로 확대한다.
+   확인: python scripts/check_mobile.py */
+select,input,textarea{font-family:inherit;font-size:16px;color:var(--ink)}
 button{cursor:pointer}
 header{background:linear-gradient(135deg,#0d2a78,#1b45c4);color:#fff;
   padding:calc(5px + env(safe-area-inset-top)) 12px 5px;display:flex;align-items:center;gap:7px}
@@ -117,7 +121,7 @@ aside.chl .mini i{display:block;height:100%;background:var(--accent2)}
 .readbar{max-width:1180px;margin:0 auto;padding:0 12px 7px}
 .readbar .line2{display:flex;gap:6px;align-items:center;margin-top:6px}
 .readbar .line2 .btn{flex:none}
-.readbar select{width:100%;padding:6px 9px;font-size:13px;border:1px solid var(--line);
+.readbar select{width:100%;padding:6px 9px;font-size:16px;border:1px solid var(--line);   /* 16px 미만 금지 — 위 주석 참고 */
   border-radius:7px;background:var(--panel);font-family:inherit;margin-top:6px}
 /* 도구: 한 줄에 한 기능 */
 .tools{display:none;max-width:1180px;margin:0 auto;padding:2px 12px 10px}

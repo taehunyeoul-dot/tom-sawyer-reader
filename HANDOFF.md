@@ -123,6 +123,7 @@ pip install spacy && python -m spacy download en_core_web_sm
 | 문제 | 원인 · 해결 |
 |---|---|
 | 모바일에서 화면이 축소됨 (1) | 절대 위치 역할 이름표가 오른쪽으로 삐져나가 뷰포트가 390→458px로 벌어짐. `html/.text` 에 `overflow-x:clip`. **모바일 레이아웃을 건드리면 뷰포트가 390px를 유지하는지 반드시 확인** |
+| 입력칸을 누르면 화면이 **확대**됨 | 2026-08-17 발견·수정. **iOS 사파리는 글자가 16px 미만인 `input`·`textarea`·`select` 를 누르면 화면을 제멋대로 확대한다.** 기본값이 14px(장 선택은 13px)이라 번역 입력칸·요약칸·장 선택이 전부 해당됐다. **입력칸 글자를 16px 아래로 내리지 말 것.** `check_mobile.py` 가 자동으로 잡는다 (더블탭 확대는 `html{touch-action:manipulation}` 으로 이미 막혀 있음) |
 | 모바일에서 화면이 축소됨 (2) — 읽은 후 화면 | 2026-08-17 발견·수정. **그리드 칸은 기본값이 `min-width:auto`라 내용의 최소 폭 아래로 줄어들지 않는다.** `.readwrap`(1fr)과 `.vlist` 의 칸이 419px·385px로 벌어져 화면이 427px가 됐다. `.readwrap>*{min-width:0}` · `.vlist>*{min-width:0}` 로 해결. **`display:grid` 를 새로 쓸 때는 자식에 `min-width:0` 을 같이 줄 것** |
 | 아이폰 상단이 잘림 | `black-translucent` 상태바. 헤더에 `env(safe-area-inset-top)` 적용. 헤더가 고정 틀 안에 있어 항상 적용됨 |
 | `’bout` → "한바탕/권투 시합" | 아포스트로피가 잘려 엉뚱한 단어로 연결. `data/contractions.json` |

@@ -9,10 +9,14 @@
     python scripts/08_build_reader.py
     python scripts/check_mobile.py
 
-무엇을 잡나: 어떤 요소가 390px 밖으로 나가면 브라우저가 뷰포트를 넓혀 버려
-화면 전체가 축소된다(글씨가 작아진다). 실제로 두 번 겪었다.
-  1. 절대 위치 역할 이름표가 오른쪽으로 삐져나감
-  2. display:grid 자식이 min-width:auto 라 칸이 내용 최소 폭 아래로 안 줄어듦
+무엇을 잡나
+ (가) 화면이 축소되는 문제 — 어떤 요소가 390px 밖으로 나가면 브라우저가 뷰포트를
+      넓혀 버려 글씨가 작아진다. 실제로 두 번 겪었다.
+        1. 절대 위치 역할 이름표가 오른쪽으로 삐져나감
+        2. display:grid 자식이 min-width:auto 라 칸이 내용 최소 폭 아래로 안 줄어듦
+ (나) 입력칸을 누를 때 확대되는 문제 — iOS 사파리는 글자가 16px 미만인
+      input·textarea·select 를 누르면 화면을 제멋대로 확대한다.
+      **입력칸 글자는 16px 아래로 내리지 말 것.**
 """
 import os, sys
 
@@ -37,7 +41,21 @@ OVER_JS = """() => {
   return [...new Set(out)].slice(0, 6);
 }""" % W
 
-bad, errs = [], []
+# 화면에 있는 입력칸의 글자 크기 — 16px 미만이면 누를 때 화면이 확대된다
+FONT_JS = """() => {
+  const out = [];
+  for (const el of document.querySelectorAll('input,textarea,select')) {
+    const t = (el.getAttribute('type') || '').toLowerCase();
+    if (['range','checkbox','radio','button','submit','file','color'].includes(t)) continue;
+    const fs = parseFloat(getComputedStyle(el).fontSize);
+    if (fs >= 16) continue;
+    out.push(fs + 'px  <' + el.tagName.toLowerCase() + (t ? '[' + t + ']' : '')
+             + (el.id ? ' id=' + el.id : '') + (el.className ? ' class=' + el.className : '') + '>');
+  }
+  return out;
+}"""
+
+bad, small, errs = [], set(), []
 with sync_playwright() as p:
     b = p.chromium.launch()
     pg = b.new_context(viewport={'width': W, 'height': 844},
@@ -54,6 +72,8 @@ with sync_playwright() as p:
         if not ok:
             for o in pg.evaluate(OVER_JS):
                 print(f'      {o}')
+        for f in pg.evaluate(FONT_JS):
+            small.add(f)
 
     def go(sel, label, wait=1000):
         try:
@@ -65,6 +85,8 @@ with sync_playwright() as p:
     go('button[data-p="read"]', '읽기 · 소설책')
     go('button[data-m="struct"]', '읽기 · 구조분석')
     go('button[data-p="post"]', '읽은 후')
+    go('.vitem', '정밀 확인 · 번역 입력', 1200)   # 번역 입력칸을 실제로 띄워서 잰다
+    go('#vBack', '정밀 확인 닫기', 800)           # 덮개 창을 닫아야 뒤 버튼이 눌린다
     go('button[data-t="read"]', '읽기 탭 복귀', 800)
     go('button[data-s="news"]', '뉴스 목록', 1500)
     for t, label in (('srs', '단어'), ('struct', '문법'), ('stats', '기록'), ('help', '사용법')):
@@ -74,4 +96,9 @@ with sync_playwright() as p:
     b.close()
 
 print(f'\n뷰포트 {W}px 유지: ' + ('통과' if not bad else f'실패 — {", ".join(bad)}'))
-sys.exit(1 if bad else 0)
+
+print('입력칸 글자 16px 이상: ' + ('통과' if not small else f'실패 — {len(small)}곳'))
+for s in sorted(small):
+    print('   ', s, '  ← 누르면 화면이 확대된다')
+
+sys.exit(1 if (bad or small) else 0)
