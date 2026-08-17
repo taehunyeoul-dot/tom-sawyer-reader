@@ -1,19 +1,43 @@
 [
  {
   "id": "293c5d1b|0.0",
-  "en": "About Search Skywatchers across a swath of northern Spain witnessed a total solar eclipse when the Moon lined up directly between the Sun and Earth on August 12, 2026.",
+  "en": "Skywatchers across a swath of northern Spain witnessed a total solar eclipse when the Moon lined up directly between the Sun and Earth on August 12, 2026.",
   "s": "Skywatchers across a swath of northern Spain",
   "v": "witnessed",
   "chunks": [
-   {"en": "About Search Skywatchers", "ko": "(About Search 는 누리집 차림표 글자가 섞여 들어온 것) 하늘을 지켜보던 사람들이", "r": "군더더기 + 주어"},
-   {"en": "across a swath of northern Spain", "ko": "스페인 북부를 가로지르는 띠 모양 지역 곳곳에서", "r": "전치사구(Skywatchers 수식)"},
-   {"en": "witnessed a total solar eclipse", "ko": "개기일식을 목격했다", "r": "동사 + 목적어"},
-   {"en": "when the Moon lined up directly", "ko": "달이 정확히 일직선으로 들어섰을 때", "r": "부사절(때)"},
-   {"en": "between the Sun and Earth", "ko": "태양과 지구 사이에", "r": "전치사구(장소)"},
-   {"en": "on August 12, 2026.", "ko": "2026년 8월 12일에", "r": "시간"}
+   {
+    "en": "Skywatchers",
+    "ko": "하늘을 관찰하던 사람들은",
+    "r": "주어"
+   },
+   {
+    "en": "across a swath of northern Spain",
+    "ko": "스페인 북부를 가로지르는 띠 모양 지역 곳곳에서",
+    "r": "전치사구(Skywatchers 수식)"
+   },
+   {
+    "en": "witnessed a total solar eclipse",
+    "ko": "개기일식을 목격했다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "when the Moon lined up directly",
+    "ko": "달이 정확히 일직선으로 들어섰을 때",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "between the Sun and Earth",
+    "ko": "태양과 지구 사이에",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "on August 12, 2026.",
+    "ko": "2026년 8월 12일에",
+    "r": "시간"
+   }
   ],
-  "ko": "스페인 북부를 가로지르는 좁고 긴 지역의 하늘 관찰자들은, 2026년 8월 12일 달이 태양과 지구 사이에 정확히 일직선으로 들어섰을 때 개기일식을 목격했다. (맨 앞의 About Search 는 누리집 차림표 글자가 잘못 섞여 들어온 것이다.)",
-  "why": "주어가 \"Skywatchers … northern Spain\"으로 길어서 동사 witnessed 가 멀찍이 떨어져 있다. 맨 앞 About Search 는 문장의 일부가 아니라 누리집 차림표(메뉴) 글자가 섞인 것이니 무시하고 Skywatchers 부터 읽으면 된다.",
+  "ko": "스페인 북부를 가로지르는 좁고 긴 지역의 하늘 관찰자들은, 2026년 8월 12일 달이 태양과 지구 사이에 정확히 일직선으로 들어섰을 때 개기일식을 목격했다.",
+  "why": "주어가 \"Skywatchers … northern Spain\"으로 길어서 동사 witnessed 가 멀찍이 떨어져 있다. 주어 덩어리를 한 묶음으로 잡고 witnessed(목격했다)를 먼저 찾은 뒤, when 이하는 \"언제\"를 덧붙이는 부사절(때를 나타내는 절)로 읽는다.",
   "st": []
  },
  {
@@ -22,11 +46,31 @@
   "s": "Those within the path of totality",
   "v": "had",
   "chunks": [
-   {"en": "Those within the path of totality", "ko": "개기(완전히 가려지는) 구역 안에 있던 사람들은", "r": "주어"},
-   {"en": "had the rare chance to glimpse", "ko": "흘끗 볼 드문 기회를 얻었다", "r": "동사 + 목적어"},
-   {"en": "the Sun’s active outer atmosphere, or corona ,", "ko": "태양의 활발한 바깥 대기, 곧 코로나를", "r": "glimpse의 목적어 + 동격"},
-   {"en": "during the short time", "ko": "그 짧은 시간 동안", "r": "시간"},
-   {"en": "the Moon blocked the Sun.", "ko": "달이 태양을 가린 (그 시간)", "r": "관계절(time 설명, 관계사 생략)"}
+   {
+    "en": "Those within the path of totality",
+    "ko": "개기(완전히 가려지는) 구역 안에 있던 사람들은",
+    "r": "주어"
+   },
+   {
+    "en": "had the rare chance to glimpse",
+    "ko": "흘끗 볼 드문 기회를 얻었다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "the Sun’s active outer atmosphere, or corona ,",
+    "ko": "태양의 활발한 바깥 대기, 곧 코로나를",
+    "r": "glimpse의 목적어 + 동격"
+   },
+   {
+    "en": "during the short time",
+    "ko": "그 짧은 시간 동안",
+    "r": "시간"
+   },
+   {
+    "en": "the Moon blocked the Sun.",
+    "ko": "달이 태양을 가린 (그 시간)",
+    "r": "관계절(time 설명, 관계사 생략)"
+   }
   ],
   "ko": "개기일식이 지나가는 띠 안에 있던 사람들은, 달이 태양을 가린 그 짧은 시간 동안 태양의 활발한 바깥 대기, 곧 코로나를 볼 드문 기회를 얻었다.",
   "why": "\"or corona\"의 or 는 '또는'이 아니라 '다시 말해'로 앞말을 바꿔 부르는 동격이다. 또 the short time 뒤에 관계사(that/when)가 생략되어 \"the Moon blocked the Sun\"이 그 시간을 설명한다.",
@@ -38,12 +82,36 @@
   "s": "This composite photo",
   "v": "was taken",
   "chunks": [
-   {"en": "This composite photo was taken", "ko": "이 합성 사진은 촬영되었다", "r": "주어 + 동사(수동태)"},
-   {"en": "before, during, and after the total eclipse", "ko": "개기일식 전과 도중, 그리고 그 뒤에 걸쳐", "r": "시간"},
-   {"en": "from a field of appropriately themed flowers", "ko": "주제에 딱 어울리는 꽃이 핀 밭에서", "r": "전치사구(장소)"},
-   {"en": "in San Millán de los Caballeros,", "ko": "산 미얀 데 로스 카바예로스에 있는", "r": "전치사구(장소)"},
-   {"en": "a town about 40 kilometers (25 miles)", "ko": "약 40킬로미터(25마일) 떨어진 어느 마을", "r": "동격(앞 지명 설명)"},
-   {"en": "south of León in northwestern Spain.", "ko": "스페인 북서부 레온에서 남쪽으로", "r": "방향 + 장소"}
+   {
+    "en": "This composite photo was taken",
+    "ko": "이 합성 사진은 촬영되었다",
+    "r": "주어 + 동사(수동태)"
+   },
+   {
+    "en": "before, during, and after the total eclipse",
+    "ko": "개기일식 전과 도중, 그리고 그 뒤에 걸쳐",
+    "r": "시간"
+   },
+   {
+    "en": "from a field of appropriately themed flowers",
+    "ko": "주제에 딱 어울리는 꽃이 핀 밭에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "in San Millán de los Caballeros,",
+    "ko": "산 미얀 데 로스 카바예로스에 있는",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "a town about 40 kilometers (25 miles)",
+    "ko": "약 40킬로미터(25마일) 떨어진 어느 마을",
+    "r": "동격(앞 지명 설명)"
+   },
+   {
+    "en": "south of León in northwestern Spain.",
+    "ko": "스페인 북서부 레온에서 남쪽으로",
+    "r": "방향 + 장소"
+   }
   ],
   "ko": "이 합성 사진은 개기일식 전과 도중, 그리고 그 뒤에 걸쳐, 스페인 북서부 레온에서 남쪽으로 약 40킬로미터(25마일) 떨어진 마을 산 미얀 데 로스 카바예로스의, 주제에 딱 어울리는 꽃이 핀 밭에서 찍은 것이다.",
   "why": "수동태(was taken)라 찍은 사람은 문장에 나오지 않는다. 뒤로 갈수록 장소가 좁은 곳에서 넓은 곳 순서로 겹겹이 붙고, 쉼표 뒤 \"a town …\"은 앞의 지명을 다시 설명하는 동격(같은 것을 다시 말하는 말)이다.",
@@ -55,10 +123,26 @@
   "s": "Northern Spain",
   "v": "was",
   "chunks": [
-   {"en": "Along with parts of Greenland and Iceland,", "ko": "그린란드와 아이슬란드의 일부 지역과 더불어", "r": "전치사구(곁들임)"},
-   {"en": "Northern Spain was one of the few places", "ko": "스페인 북부는 몇 안 되는 곳 중 하나였다", "r": "주어 + 동사 + 보어"},
-   {"en": "on land that fell within", "ko": "육지 가운데, ~ 안에 들어간", "r": "전치사구 + 관계절(places 설명)"},
-   {"en": "this eclipse’s path of totality.", "ko": "이번 일식의 개기 구역(완전히 가려지는 띠)", "r": "within의 목적어"}
+   {
+    "en": "Along with parts of Greenland and Iceland,",
+    "ko": "그린란드와 아이슬란드의 일부 지역과 더불어",
+    "r": "전치사구(곁들임)"
+   },
+   {
+    "en": "Northern Spain was one of the few places",
+    "ko": "스페인 북부는 몇 안 되는 곳 중 하나였다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "on land that fell within",
+    "ko": "육지 가운데, ~ 안에 들어간",
+    "r": "전치사구 + 관계절(places 설명)"
+   },
+   {
+    "en": "this eclipse’s path of totality.",
+    "ko": "이번 일식의 개기 구역(완전히 가려지는 띠)",
+    "r": "within의 목적어"
+   }
   ],
   "ko": "그린란드와 아이슬란드의 일부 지역과 함께, 스페인 북부는 이번 일식의 개기 구역(달 그림자가 태양을 완전히 가리는 띠) 안에 든 몇 안 되는 육지 중 하나였다.",
   "why": "맨 앞 \"Along with …\"는 주어가 아니라 '~와 더불어'라는 곁들임이라, 진짜 주어는 Northern Spain 이다. 그리고 관계절 that 이 설명하는 것은 바로 앞 land 하나가 아니라 \"the few places on land\" 전체다.",
@@ -70,9 +154,21 @@
   "s": "Sunset",
   "v": "was approaching",
   "chunks": [
-   {"en": "Sunset was approaching", "ko": "해질녘이 다가오고 있었다", "r": "주어 + 동사"},
-   {"en": "when the Moon’s shadow, or umbra,", "ko": "달의 그림자, 곧 본그림자(umbra)가", "r": "부사절(때)의 주어 + 동격"},
-   {"en": "swept across Spain.", "ko": "스페인을 휩쓸고 지나갈 무렵", "r": "부사절의 동사"}
+   {
+    "en": "Sunset was approaching",
+    "ko": "해질녘이 다가오고 있었다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "when the Moon’s shadow, or umbra,",
+    "ko": "달의 그림자, 곧 본그림자(umbra)가",
+    "r": "부사절(때)의 주어 + 동격"
+   },
+   {
+    "en": "swept across Spain.",
+    "ko": "스페인을 휩쓸고 지나갈 무렵",
+    "r": "부사절의 동사"
+   }
   ],
   "ko": "달의 그림자, 곧 본그림자(umbra)가 스페인을 휩쓸고 지나갈 무렵 해가 지고 있었다.",
   "why": "주절은 \"Sunset was approaching\"(해질 때가 가까워지고 있었다)이고 when 이하가 그 시점을 설명한다. \"or umbra\"의 or 는 '또는'이 아니라 앞말을 바꿔 부르는 '즉'이라, 삽입된 동격 때문에 주어와 동사(shadow … swept)가 벌어져 있다.",
@@ -84,10 +180,26 @@
   "s": "the partial eclipse",
   "v": "began",
   "chunks": [
-   {"en": "In León, the partial eclipse began", "ko": "레온에서는 부분일식이 시작되었다", "r": "장소 + 주어 + 동사"},
-   {"en": "at 7:32 p.m.", "ko": "오후 7시 32분에", "r": "시간"},
-   {"en": "and ended at 9:22 p.m. local time,", "ko": "그리고 현지 시각 오후 9시 22분에 끝났다", "r": "대등 동사 + 시간"},
-   {"en": "just minutes before the Sun dipped below the horizon.", "ko": "해가 지평선 아래로 내려가기 겨우 몇 분 전에", "r": "부사절(때)"}
+   {
+    "en": "In León, the partial eclipse began",
+    "ko": "레온에서는 부분일식이 시작되었다",
+    "r": "장소 + 주어 + 동사"
+   },
+   {
+    "en": "at 7:32 p.m.",
+    "ko": "오후 7시 32분에",
+    "r": "시간"
+   },
+   {
+    "en": "and ended at 9:22 p.m. local time,",
+    "ko": "그리고 현지 시각 오후 9시 22분에 끝났다",
+    "r": "대등 동사 + 시간"
+   },
+   {
+    "en": "just minutes before the Sun dipped below the horizon.",
+    "ko": "해가 지평선 아래로 내려가기 겨우 몇 분 전에",
+    "r": "부사절(때)"
+   }
   ],
   "ko": "레온에서는 부분일식이 현지 시각 오후 7시 32분에 시작되어 9시 22분에 끝났는데, 그것은 해가 지평선 아래로 넘어가기 불과 몇 분 전이었다.",
   "why": "주어 하나(the partial eclipse)에 동사가 둘(began … and ended …) 이어진다. \"local time\"은 앞의 두 시각 모두에 걸리는 말이고, 맨 뒤 \"just minutes before …\"는 끝난 시각이 일몰 직전이었다는 설명이다.",
@@ -99,10 +211,26 @@
   "s": "Totality",
   "v": "lasted",
   "chunks": [
-   {"en": "Totality lasted about two minutes,", "ko": "개기 단계(태양이 완전히 가려진 때)는 약 2분 동안 이어졌다", "r": "주어 + 동사 + 기간"},
-   {"en": "starting at 8:28 p.m.", "ko": "오후 8시 28분에 시작해서", "r": "분사구문(시작 시각)"},
-   {"en": "Farther east in Spain,", "ko": "스페인에서 더 동쪽에서는", "r": "장소(여기서 새 문장 시작)"},
-   {"en": "the Sun set before the eclipse ended.", "ko": "일식이 끝나기 전에 해가 졌다", "r": "주어 + 동사 + 부사절(때)"}
+   {
+    "en": "Totality lasted about two minutes,",
+    "ko": "개기 단계(태양이 완전히 가려진 때)는 약 2분 동안 이어졌다",
+    "r": "주어 + 동사 + 기간"
+   },
+   {
+    "en": "starting at 8:28 p.m.",
+    "ko": "오후 8시 28분에 시작해서",
+    "r": "분사구문(시작 시각)"
+   },
+   {
+    "en": "Farther east in Spain,",
+    "ko": "스페인에서 더 동쪽에서는",
+    "r": "장소(여기서 새 문장 시작)"
+   },
+   {
+    "en": "the Sun set before the eclipse ended.",
+    "ko": "일식이 끝나기 전에 해가 졌다",
+    "r": "주어 + 동사 + 부사절(때)"
+   }
   ],
   "ko": "개기 단계는 오후 8시 28분에 시작해 약 2분 동안 이어졌다. 스페인에서 더 동쪽 지역에서는 일식이 끝나기도 전에 해가 먼저 졌다.",
   "why": "\"8:28 p.m.\" 뒤에서 문장이 한 번 끝나고 새 문장이 시작된다(p.m. 의 점과 문장 끝 마침표가 겹쳐 한 문장처럼 보인다). 뒤 문장의 set 은 '놓다'가 아니라 '(해가) 지다'라는 뜻의 과거형이다.",
@@ -114,11 +242,31 @@
   "s": "a glowing loop of plasma",
   "v": "is",
   "chunks": [
-   {"en": "In the photo above, taken during totality,", "ko": "위 사진 — 개기 단계 때 찍은 것이다 — 에서는", "r": "장소 + 분사구(photo 설명)"},
-   {"en": "a glowing loop of plasma", "ko": "빛나는 플라스마 고리가", "r": "주어"},
-   {"en": "called a solar prominence", "ko": "홍염(solar prominence)이라 불리는", "r": "분사구(loop 설명)"},
-   {"en": "is visible extending into the corona", "ko": "코로나 속으로 뻗어 나간 모습으로 보인다", "r": "동사 + 보어 + 분사구"},
-   {"en": "on the left.", "ko": "왼쪽에", "r": "전치사구(장소)"}
+   {
+    "en": "In the photo above, taken during totality,",
+    "ko": "위 사진 — 개기 단계 때 찍은 것이다 — 에서는",
+    "r": "장소 + 분사구(photo 설명)"
+   },
+   {
+    "en": "a glowing loop of plasma",
+    "ko": "빛나는 플라스마 고리가",
+    "r": "주어"
+   },
+   {
+    "en": "called a solar prominence",
+    "ko": "홍염(solar prominence)이라 불리는",
+    "r": "분사구(loop 설명)"
+   },
+   {
+    "en": "is visible extending into the corona",
+    "ko": "코로나 속으로 뻗어 나간 모습으로 보인다",
+    "r": "동사 + 보어 + 분사구"
+   },
+   {
+    "en": "on the left.",
+    "ko": "왼쪽에",
+    "r": "전치사구(장소)"
+   }
   ],
   "ko": "개기 단계 때 찍은 위 사진에서는, 홍염이라 불리는 빛나는 플라스마 고리가 왼쪽에서 코로나 속으로 뻗어 나간 모습으로 보인다.",
   "why": "주어 \"a glowing loop of plasma\"와 동사 is 사이에 \"called a solar prominence\"(~라 불리는)가 끼어 있어 called 를 동사로 착각하기 쉽다. 앞의 \"taken during totality\"도 동사가 아니라 the photo 를 설명하는 말이다.",
@@ -130,10 +278,26 @@
   "s": "Plasma",
   "v": "flows",
   "chunks": [
-   {"en": "Plasma , a super-hot gas", "ko": "플라스마는 — 초고온 기체인데 —", "r": "주어 + 동격"},
-   {"en": "composed mostly of ionized hydrogen and helium,", "ko": "대부분 이온화된 수소와 헬륨으로 이루어진", "r": "분사구(gas 설명)"},
-   {"en": "flows along the tangled and twisted structure", "ko": "얽히고 뒤틀린 구조를 따라 흐른다", "r": "동사 + 전치사구"},
-   {"en": "of the Sun’s magnetic fields.", "ko": "태양 자기장의", "r": "전치사구(structure 수식)"}
+   {
+    "en": "Plasma , a super-hot gas",
+    "ko": "플라스마는 — 초고온 기체인데 —",
+    "r": "주어 + 동격"
+   },
+   {
+    "en": "composed mostly of ionized hydrogen and helium,",
+    "ko": "대부분 이온화된 수소와 헬륨으로 이루어진",
+    "r": "분사구(gas 설명)"
+   },
+   {
+    "en": "flows along the tangled and twisted structure",
+    "ko": "얽히고 뒤틀린 구조를 따라 흐른다",
+    "r": "동사 + 전치사구"
+   },
+   {
+    "en": "of the Sun’s magnetic fields.",
+    "ko": "태양 자기장의",
+    "r": "전치사구(structure 수식)"
+   }
   ],
   "ko": "플라스마는 대부분 이온화된 수소와 헬륨으로 이루어진 초고온 기체로, 태양 자기장의 얽히고 뒤틀린 구조를 따라 흐른다.",
   "why": "주어 Plasma 와 동사 flows 사이에 동격(a super-hot gas …)이 길게 끼어 있다. composed 는 문장의 동사가 아니라 gas 를 설명하는 분사(~로 이루어진)이니, 진짜 뼈대는 \"Plasma … flows along …\"이다.",
@@ -145,10 +309,26 @@
   "s": "Solar prominences",
   "v": "are",
   "chunks": [
-   {"en": "Solar prominences, which can measure many times higher", "ko": "홍염은 — 그 높이가 몇 배나 될 수 있는데 —", "r": "주어 + 관계절(prominences 설명)"},
-   {"en": "than Earth is wide,", "ko": "지구의 폭보다", "r": "비교 대상"},
-   {"en": "are sometimes visible to the naked eye", "ko": "이따금 맨눈으로도 보인다", "r": "동사 + 보어"},
-   {"en": "during eclipses.", "ko": "일식 때", "r": "시간"}
+   {
+    "en": "Solar prominences, which can measure many times higher",
+    "ko": "홍염은 — 그 높이가 몇 배나 될 수 있는데 —",
+    "r": "주어 + 관계절(prominences 설명)"
+   },
+   {
+    "en": "than Earth is wide,",
+    "ko": "지구의 폭보다",
+    "r": "비교 대상"
+   },
+   {
+    "en": "are sometimes visible to the naked eye",
+    "ko": "이따금 맨눈으로도 보인다",
+    "r": "동사 + 보어"
+   },
+   {
+    "en": "during eclipses.",
+    "ko": "일식 때",
+    "r": "시간"
+   }
   ],
   "ko": "홍염은 그 높이가 지구의 폭보다 몇 배나 될 수 있는데, 일식 때 이따금 맨눈으로도 보인다.",
   "why": "주어 Solar prominences 와 동사 are 사이에 관계절(which … wide)이 통째로 끼어 있다. \"higher than Earth is wide\"는 홍염의 '높이'와 지구의 '폭'을 견주는 말이고, 여기서 measure 는 '재다'가 아니라 '(크기가) ~이나 되다'는 뜻이다.",
@@ -160,9 +340,21 @@
   "s": "Solar eclipses",
   "v": "offer",
   "chunks": [
-   {"en": "Solar eclipses offer NASA", "ko": "일식은 NASA에게 준다", "r": "주어 + 동사 + 간접목적어"},
-   {"en": "the opportunity to get a different look", "ko": "평소와 다르게 볼 기회를", "r": "직접목적어 + 형용사구"},
-   {"en": "at the Sun and our own atmosphere.", "ko": "태양과 우리 자신의 대기를", "r": "전치사구(look at ~)"}
+   {
+    "en": "Solar eclipses offer NASA",
+    "ko": "일식은 NASA에게 준다",
+    "r": "주어 + 동사 + 간접목적어"
+   },
+   {
+    "en": "the opportunity to get a different look",
+    "ko": "평소와 다르게 볼 기회를",
+    "r": "직접목적어 + 형용사구"
+   },
+   {
+    "en": "at the Sun and our own atmosphere.",
+    "ko": "태양과 우리 자신의 대기를",
+    "r": "전치사구(look at ~)"
+   }
   ],
   "ko": "일식은 NASA에게 태양과 우리 지구의 대기를 평소와 다른 눈으로 볼 기회를 준다.",
   "why": "offer A B(= A에게 B를 주다) 구조라 NASA 는 주는 쪽이 아니라 받는 쪽이다. \"get a different look at ~\"은 '~을 다른 각도에서 보다'라는 뜻으로, at 은 앞의 look 과 짝이다.",
@@ -174,11 +366,31 @@
   "s": "science teams",
   "v": "staged",
   "chunks": [
-   {"en": "On August 12, science teams staged in Iceland", "ko": "8월 12일, 과학팀들이 아이슬란드에 자리를 잡았다", "r": "시간 + 주어 + 동사 + 장소"},
-   {"en": "to chase the Moon’s shadow", "ko": "달 그림자를 뒤쫓기 위해", "r": "목적"},
-   {"en": "in one of NASA’s WB-57 high-altitude jets", "ko": "NASA의 WB-57 고고도 제트기 한 대를 타고", "r": "전치사구(수단)"},
-   {"en": "and image the corona", "ko": "그리고 코로나를 촬영하기 위해", "r": "목적(to chase와 대등)"},
-   {"en": "in visible and infrared light.", "ko": "가시광선과 적외선으로", "r": "전치사구(방법)"}
+   {
+    "en": "On August 12, science teams staged in Iceland",
+    "ko": "8월 12일, 과학팀들이 아이슬란드에 자리를 잡았다",
+    "r": "시간 + 주어 + 동사 + 장소"
+   },
+   {
+    "en": "to chase the Moon’s shadow",
+    "ko": "달 그림자를 뒤쫓기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "in one of NASA’s WB-57 high-altitude jets",
+    "ko": "NASA의 WB-57 고고도 제트기 한 대를 타고",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "and image the corona",
+    "ko": "그리고 코로나를 촬영하기 위해",
+    "r": "목적(to chase와 대등)"
+   },
+   {
+    "en": "in visible and infrared light.",
+    "ko": "가시광선과 적외선으로",
+    "r": "전치사구(방법)"
+   }
   ],
   "ko": "8월 12일, 과학팀들은 NASA의 WB-57 고고도 제트기를 타고 달 그림자를 뒤쫓으며 가시광선과 적외선으로 코로나를 촬영하려고 아이슬란드에 자리를 잡았다.",
   "why": "\"and image the corona\"의 image 는 명사 '이미지'가 아니라 '영상으로 담다'라는 동사이며 앞의 to chase 와 짝을 이룬다(to chase … and (to) image …). staged 도 '연출했다'가 아니라 '(작전을 위해) 자리를 잡았다'는 뜻이다.",
@@ -190,11 +402,31 @@
   "s": "the NASA-supported Nationwide Eclipse Ballooning Project",
   "v": "launched",
   "chunks": [
-   {"en": "And the NASA-supported Nationwide Eclipse Ballooning Project", "ko": "그리고 NASA의 지원을 받는 '전국 일식 기구 관측 계획'은", "r": "주어(계획 이름 전체)"},
-   {"en": "launched scientific balloons", "ko": "과학 관측용 기구(풍선)를 띄웠다", "r": "동사 + 목적어"},
-   {"en": "before, during, and after the eclipse", "ko": "일식 전과 도중, 그리고 그 뒤에", "r": "시간"},
-   {"en": "to measure how Earth’s atmosphere changed", "ko": "지구 대기가 어떻게 달라졌는지 재기 위해", "r": "목적"},
-   {"en": "when the Sun was temporarily blocked.", "ko": "태양이 잠시 가려졌을 때", "r": "부사절(때)"}
+   {
+    "en": "And the NASA-supported Nationwide Eclipse Ballooning Project",
+    "ko": "그리고 NASA의 지원을 받는 '전국 일식 기구 관측 계획'은",
+    "r": "주어(계획 이름 전체)"
+   },
+   {
+    "en": "launched scientific balloons",
+    "ko": "과학 관측용 기구(풍선)를 띄웠다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "before, during, and after the eclipse",
+    "ko": "일식 전과 도중, 그리고 그 뒤에",
+    "r": "시간"
+   },
+   {
+    "en": "to measure how Earth’s atmosphere changed",
+    "ko": "지구 대기가 어떻게 달라졌는지 재기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "when the Sun was temporarily blocked.",
+    "ko": "태양이 잠시 가려졌을 때",
+    "r": "부사절(때)"
+   }
   ],
   "ko": "그리고 NASA의 지원을 받는 '전국 일식 기구 관측 계획(Nationwide Eclipse Ballooning Project)'은 태양이 잠시 가려졌을 때 지구 대기가 어떻게 달라지는지 측정하려고 일식 전과 도중, 그 뒤에 과학 관측용 기구를 띄웠다.",
   "why": "주어가 \"the NASA-supported Nationwide Eclipse Ballooning Project\"라는 긴 계획 이름 하나여서 어디까지가 주어인지 잡기 어렵다. NASA-supported 는 'NASA가 지원하는'이라는 꾸밈말일 뿐, NASA가 직접 띄웠다는 말이 아니다.",
@@ -206,9 +438,21 @@
   "s": "the rest of Europe and parts of Africa, Canada, and the U.S.",
   "v": "experienced",
   "chunks": [
-   {"en": "While viewing opportunities in the path of totality were limited,", "ko": "개기 구역 안에서 볼 기회는 제한적이었지만", "r": "부사절(대조)"},
-   {"en": "the rest of Europe and parts of Africa, Canada, and the U.S.", "ko": "유럽의 나머지 지역과 아프리카·캐나다·미국의 일부 지역은", "r": "주어"},
-   {"en": "experienced a partial eclipse .", "ko": "부분일식을 겪었다", "r": "동사 + 목적어"}
+   {
+    "en": "While viewing opportunities in the path of totality were limited,",
+    "ko": "개기 구역 안에서 볼 기회는 제한적이었지만",
+    "r": "부사절(대조)"
+   },
+   {
+    "en": "the rest of Europe and parts of Africa, Canada, and the U.S.",
+    "ko": "유럽의 나머지 지역과 아프리카·캐나다·미국의 일부 지역은",
+    "r": "주어"
+   },
+   {
+    "en": "experienced a partial eclipse .",
+    "ko": "부분일식을 겪었다",
+    "r": "동사 + 목적어"
+   }
   ],
   "ko": "개기일식 띠 안에서 볼 수 있는 기회는 제한적이었지만, 유럽의 나머지 지역과 아프리카·캐나다·미국의 일부 지역에서는 부분일식을 볼 수 있었다.",
   "why": "맨 앞 While 은 '~하는 동안'이 아니라 '~이지만'이라는 대조다. 주어가 \"the rest of Europe and parts of Africa, Canada, and the U.S.\"로 쉼표를 여럿 품은 채 길게 이어져 동사 experienced 를 놓치기 쉽다.",
@@ -220,10 +464,26 @@
   "s": "The next total solar eclipse",
   "v": "will occur",
   "chunks": [
-   {"en": "The next total solar eclipse will occur", "ko": "다음 개기일식은 일어난다", "r": "주어 + 동사"},
-   {"en": "on August 2, 2027,", "ko": "2027년 8월 2일에", "r": "시간"},
-   {"en": "with the path of totality crossing", "ko": "개기 구역이 가로지르면서", "r": "곁들임(with + 명사 + ~ing)"},
-   {"en": "southern Spain, North Africa, Saudi Arabia, and Yemen.", "ko": "스페인 남부와 북아프리카, 사우디아라비아, 예멘을", "r": "crossing의 목적어"}
+   {
+    "en": "The next total solar eclipse will occur",
+    "ko": "다음 개기일식은 일어난다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "on August 2, 2027,",
+    "ko": "2027년 8월 2일에",
+    "r": "시간"
+   },
+   {
+    "en": "with the path of totality crossing",
+    "ko": "개기 구역이 가로지르면서",
+    "r": "곁들임(with + 명사 + ~ing)"
+   },
+   {
+    "en": "southern Spain, North Africa, Saudi Arabia, and Yemen.",
+    "ko": "스페인 남부와 북아프리카, 사우디아라비아, 예멘을",
+    "r": "crossing의 목적어"
+   }
   ],
   "ko": "다음 개기일식은 2027년 8월 2일에 일어나며, 그때 개기 구역(완전히 가려지는 띠)은 스페인 남부와 북아프리카, 사우디아라비아, 예멘을 가로지른다.",
   "why": "\"with + 명사 + ~ing\"는 '~가 …하면서'라는 곁들임 표현이다. crossing 은 문장의 동사가 아니라 바로 앞 명사 the path of totality 가 하는 일을 나타낸다. 이 문장만 미래(will occur)라는 점도 놓치지 말 것.",
@@ -235,9 +495,21 @@
   "s": "",
   "v": "Stay",
   "chunks": [
-   {"en": "Stay up-to-date with the latest content from NASA", "ko": "NASA가 내놓는 최신 소식을 놓치지 말고 따라오세요", "r": "동사(명령) + 보어 + 전치사구"},
-   {"en": "as we explore the universe", "ko": "우리가 우주를 탐사하고", "r": "부사절(때)"},
-   {"en": "and discover more about our home planet.", "ko": "우리 행성(지구)에 대해 더 알아 가는 동안", "r": "부사절의 대등 동사"}
+   {
+    "en": "Stay up-to-date with the latest content from NASA",
+    "ko": "NASA가 내놓는 최신 소식을 놓치지 말고 따라오세요",
+    "r": "동사(명령) + 보어 + 전치사구"
+   },
+   {
+    "en": "as we explore the universe",
+    "ko": "우리가 우주를 탐사하고",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and discover more about our home planet.",
+    "ko": "우리 행성(지구)에 대해 더 알아 가는 동안",
+    "r": "부사절의 대등 동사"
+   }
   ],
   "ko": "NASA가 우주를 탐사하고 우리 행성 지구에 대해 더 알아 가는 동안, NASA가 내놓는 최신 소식을 놓치지 말고 따라오세요.",
   "why": "주어 없이 동사로 시작하는 명령문이라 '~하세요'로 읽는다(듣는 쪽은 이 글을 읽는 사람). as 는 '~로서'가 아니라 '~하는 동안'이고, we 는 글을 쓴 NASA 자신을 가리킨다.",
@@ -249,10 +521,26 @@
   "s": "Western Iceland and northern Spain",
   "v": "are",
   "chunks": [
-   {"en": "Western Iceland and northern Spain are", "ko": "아이슬란드 서부와 스페인 북부는 ~에 든다", "r": "주어 + 동사"},
-   {"en": "among the few Northern Hemisphere locations", "ko": "북반구에서 몇 안 되는 지역들 가운데", "r": "보어(전치사구)"},
-   {"en": "experiencing a total solar eclipse", "ko": "개기일식을 겪는", "r": "분사구(locations 설명)"},
-   {"en": "on August 12,…", "ko": "8월 12일에 (…이하 잘림)", "r": "시간"}
+   {
+    "en": "Western Iceland and northern Spain are",
+    "ko": "아이슬란드 서부와 스페인 북부는 ~에 든다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "among the few Northern Hemisphere locations",
+    "ko": "북반구에서 몇 안 되는 지역들 가운데",
+    "r": "보어(전치사구)"
+   },
+   {
+    "en": "experiencing a total solar eclipse",
+    "ko": "개기일식을 겪는",
+    "r": "분사구(locations 설명)"
+   },
+   {
+    "en": "on August 12,…",
+    "ko": "8월 12일에 (…이하 잘림)",
+    "r": "시간"
+   }
   ],
   "ko": "아이슬란드 서부와 스페인 북부는 8월 12일 개기일식을 겪는, 북반구에서 몇 안 되는 지역에 든다. (…이하 잘려 있다)",
   "why": "\"are among the few …\"는 '몇 안 되는 것들 가운데 든다'는 뜻이다. experiencing 은 문장의 동사가 아니라 앞의 locations 를 꾸미는 분사(~을 겪는)이고, 맨 끝 …은 기사 미리보기라 문장이 잘렸다는 표시다.",
@@ -264,9 +552,21 @@
   "s": "An astronaut’s photo",
   "v": "reveals",
   "chunks": [
-   {"en": "An astronaut’s photo, taken en route to the Moon,", "ko": "달로 가는 도중에 찍은 어느 우주비행사의 사진은", "r": "주어 + 분사구(photo 설명)"},
-   {"en": "reveals our planet and its place in space", "ko": "우리 행성과 그 행성이 우주에서 차지한 자리를 보여 준다", "r": "동사 + 목적어"},
-   {"en": "in a novel…", "ko": "새로운 (…이하 잘림)", "r": "전치사구(잘림)"}
+   {
+    "en": "An astronaut’s photo, taken en route to the Moon,",
+    "ko": "달로 가는 도중에 찍은 어느 우주비행사의 사진은",
+    "r": "주어 + 분사구(photo 설명)"
+   },
+   {
+    "en": "reveals our planet and its place in space",
+    "ko": "우리 행성과 그 행성이 우주에서 차지한 자리를 보여 준다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "in a novel…",
+    "ko": "새로운 (…이하 잘림)",
+    "r": "전치사구(잘림)"
+   }
   ],
   "ko": "달로 가는 도중에 찍은 어느 우주비행사의 사진이, 우리 행성과 그 행성이 우주에서 차지한 자리를 새로운 (…이하 잘림) 보여 준다.",
   "why": "주어 photo 와 동사 reveals 사이에 \"taken en route to the Moon\"(달로 가는 길에 찍힌)이 끼어 있어 taken 을 동사로 착각하기 쉽다. 맨 끝 novel 은 '소설'이 아니라 '새로운'이라는 형용사다.",
@@ -278,9 +578,21 @@
   "s": "The crew of NASA’s Artemis II mission",
   "v": "captured",
   "chunks": [
-   {"en": "The crew of NASA’s Artemis II mission", "ko": "NASA의 아르테미스 2호 임무 승무원들은", "r": "주어(긴 명사구)"},
-   {"en": "captured extraordinary images of our home planet", "ko": "우리 행성(지구)의 놀라운 사진을 담아냈다", "r": "동사 + 목적어"},
-   {"en": "during their journey around the far…", "ko": "먼 (…이하 잘림) 주위를 도는 여정 동안", "r": "시간"}
+   {
+    "en": "The crew of NASA’s Artemis II mission",
+    "ko": "NASA의 아르테미스 2호 임무 승무원들은",
+    "r": "주어(긴 명사구)"
+   },
+   {
+    "en": "captured extraordinary images of our home planet",
+    "ko": "우리 행성(지구)의 놀라운 사진을 담아냈다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "during their journey around the far…",
+    "ko": "먼 (…이하 잘림) 주위를 도는 여정 동안",
+    "r": "시간"
+   }
   ],
   "ko": "NASA의 아르테미스 2호(Artemis II) 임무 승무원들은 먼 … 주위를 도는 여정 동안 우리 행성 지구의 놀라운 사진을 담아냈다. (…이하 잘려 있다)",
   "why": "주어가 \"The crew of NASA’s Artemis II mission\"으로 길지만 중심은 The crew(승무원들)다. captured 는 '붙잡았다'가 아니라 '(사진·영상으로) 담아냈다'는 뜻이고, 맨 끝은 미리보기라 잘려 있다.",
@@ -292,9 +604,21 @@
   "s": "Photos and video",
   "v": "are",
   "chunks": [
-   {"en": "Photos and video", "ko": "사진과 영상은", "r": "주어"},
-   {"en": "from the total and partial eclipse", "ko": "개기일식과 부분일식을 찍은", "r": "전치사구(Photos and video 수식)"},
-   {"en": "are available in NASA’s image library .", "ko": "NASA의 이미지 라이브러리(사진 자료실)에서 이용할 수 있다", "r": "동사 + 보어 + 전치사구(장소)"}
+   {
+    "en": "Photos and video",
+    "ko": "사진과 영상은",
+    "r": "주어"
+   },
+   {
+    "en": "from the total and partial eclipse",
+    "ko": "개기일식과 부분일식을 찍은",
+    "r": "전치사구(Photos and video 수식)"
+   },
+   {
+    "en": "are available in NASA’s image library .",
+    "ko": "NASA의 이미지 라이브러리(사진 자료실)에서 이용할 수 있다",
+    "r": "동사 + 보어 + 전치사구(장소)"
+   }
   ],
   "ko": "개기일식과 부분일식을 찍은 사진과 영상은 NASA의 이미지 라이브러리(사진 자료실)에서 볼 수 있다.",
   "why": "the total and partial eclipse 는 the total (eclipse) and partial eclipse 를 줄여 쓴 것이라, eclipse 한 단어에 total 과 partial 두 가지가 함께 걸린다. are available 은 '거기에 있다'보다 '가서 이용할 수 있다'는 뜻이다.",
@@ -306,9 +630,21 @@
   "s": "",
   "v": "Subscribe",
   "chunks": [
-   {"en": "Subscribe to the Earth Observatory", "ko": "Earth Observatory(NASA의 지구 관측 소식지)를 구독하세요", "r": "동사(명령) + 전치사구"},
-   {"en": "and get the Earth", "ko": "그리고 지구를 받아 보세요", "r": "대등한 명령 + 목적어"},
-   {"en": "in your inbox.", "ko": "당신의 받은편지함으로", "r": "전치사구(장소)"}
+   {
+    "en": "Subscribe to the Earth Observatory",
+    "ko": "Earth Observatory(NASA의 지구 관측 소식지)를 구독하세요",
+    "r": "동사(명령) + 전치사구"
+   },
+   {
+    "en": "and get the Earth",
+    "ko": "그리고 지구를 받아 보세요",
+    "r": "대등한 명령 + 목적어"
+   },
+   {
+    "en": "in your inbox.",
+    "ko": "당신의 받은편지함으로",
+    "r": "전치사구(장소)"
+   }
   ],
   "ko": "Earth Observatory(NASA의 지구 관측 소식지)를 구독하고 지구를 받은편지함으로 받아 보세요(지구 이야기를 메일로 받아 보라는 뜻이다).",
   "why": "주어 없이 동사로 시작하는 명령문이 and 로 둘 이어져 있다(Subscribe … and get …). get the Earth in your inbox 는 지구를 진짜 받는다는 말이 아니라 지구를 다룬 글과 사진을 메일함으로 받는다는 비유다.",
@@ -320,9 +656,21 @@
   "s": "NASA’s Earth Observatory",
   "v": "brings",
   "chunks": [
-   {"en": "NASA’s Earth Observatory brings you", "ko": "NASA의 Earth Observatory 는 당신에게 가져다준다", "r": "주어 + 동사 + 간접목적어"},
-   {"en": "the Earth, every day,", "ko": "지구를, 날마다", "r": "직접목적어 + 시간"},
-   {"en": "with in-depth stories and stunning imagery.", "ko": "깊이 있는 기사와 눈부신 사진으로", "r": "전치사구(수단)"}
+   {
+    "en": "NASA’s Earth Observatory brings you",
+    "ko": "NASA의 Earth Observatory 는 당신에게 가져다준다",
+    "r": "주어 + 동사 + 간접목적어"
+   },
+   {
+    "en": "the Earth, every day,",
+    "ko": "지구를, 날마다",
+    "r": "직접목적어 + 시간"
+   },
+   {
+    "en": "with in-depth stories and stunning imagery.",
+    "ko": "깊이 있는 기사와 눈부신 사진으로",
+    "r": "전치사구(수단)"
+   }
   ],
   "ko": "NASA의 Earth Observatory(지구 관측 소식지)는 깊이 있는 기사와 눈부신 사진으로 날마다 지구를 당신에게 가져다준다.",
   "why": "bring A B(= A에게 B를 가져다주다) 구조라 you 는 받는 쪽이고 the Earth 가 건네는 것이다. 쉼표로 끼워 넣은 every day 는 '날마다'라는 시간이고, with 이하는 그것을 전하는 수단이다.",
@@ -334,8 +682,16 @@
   "s": "",
   "v": "",
   "chunks": [
-   {"en": "Open access to NASA’s archive", "ko": "NASA의 자료 보관소에 대한 열린 이용", "r": "명사구(중심) + 전치사구"},
-   {"en": "of Earth science data", "ko": "지구과학 자료를 모아 둔", "r": "전치사구(archive 수식)"}
+   {
+    "en": "Open access to NASA’s archive",
+    "ko": "NASA의 자료 보관소에 대한 열린 이용",
+    "r": "명사구(중심) + 전치사구"
+   },
+   {
+    "en": "of Earth science data",
+    "ko": "지구과학 자료를 모아 둔",
+    "r": "전치사구(archive 수식)"
+   }
   ],
   "ko": "NASA의 지구과학 자료 보관소에 대한 열린 이용 — 누구나 막힘없이 들어가 쓸 수 있다는 뜻이다.",
   "why": "동사가 없는 명사구 하나로 된 표제(누리집 배너 글귀)다. 맨 앞 Open 은 '열어라'라는 명령이 아니라 뒤의 access 를 꾸미는 형용사(열린·공개된)이고, 뼈대는 access to ~(~에 대한 이용)이다.",

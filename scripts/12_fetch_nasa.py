@@ -60,6 +60,11 @@ def to_paras(body_html):
             continue
         if re.match(r'^(image credit|credit|photo|caption|download|read more|explanation)\b', t, re.I):
             continue
+        # Earth Observatory 처럼 <p> 없는 페이지는 줄로 자르는데, 그때 페이지 머리의 메뉴 글자
+        # ("About Search", "Skip to content" …)가 첫 문장 앞에 딸려 붙는다. 대문자로 시작하는
+        # 짧은 메뉴 단어가 앞에 연달아 있으면 떼어 낸다.
+        t = re.sub(r'^(?:(?:About|Search|Menu|Home|Skip to (?:main )?content|Share|Explore|Topics)\s+){1,4}'
+                   r'(?=[A-Z])', '', t)
         out.append(t)
     return out
 
