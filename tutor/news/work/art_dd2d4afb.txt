@@ -1,0 +1,28 @@
+Roman Commissioning
+NASA · 2026-08-31
+https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/
+
+[0.0] Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2.
+[0.1] Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations.
+[0.2] Commissioning is the time for scientists and engineers to make sure that Roman is performing as expected.
+[0.3] The schedule is subject to change as the team assesses and adjusts as needed.
+
+[1.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[2.0] An hour and 23 minutes after launch, Roman began to emerge from the tight configuration that allowed it to fit in the rocket fairing.
+[2.1] The solar panels and sunshade deployed, shading the rest of the observatory and providing power to the systems.
+[2.2] Within the upcoming days, the antenna will swing out and the visor-like deployable aperture cover will move into place to permanently reveal and shade the primary mirror.
+
+[3.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[4.0] This visualization shows the stable, halo orbit that Roman will have around L2.
+[4.1] At this location, the gravity of the Sun and Earth, together with an object’s motion around the Sun, let it stay lined up with Earth as they orbit, allowing Roman to have a relatively steady orbit without using much fuel.
+[4.2] This location also offers exceptionally stable optical performance and a constant, unobstructed view of a wide swath of the sky; Earth won’t block much of Roman’s view since it will be so distant.
+[4.3] And at L2, heat from Earth, the Sun, and the Moon have less effect on infrared telescopes, which “see” heat.
+
+[5.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[6.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[7.0] Learn more about the systems that are getting turned on, tested and calibrated.
+

@@ -1,0 +1,239 @@
+{
+ "d3526372|0.0": [
+  {"t":"mod","q":"<b>As the effects of the 2026 snow drought in the western United States carry into summer</b> — 이 부분의 주어와 동사는 각각 무엇입니까?","a":"주어는 the effects(그 영향들), 동사는 carry 입니다","tip":"주어와 동사 사이에 전치사구가 두 개나 끼어 있어 drought 나 United States 를 주어로 잡기 쉽습니다."},
+  {"t":"who","q":"<b>that inform decisions about water, power, and public safety</b> — 결정에 근거를 대 주는 쪽은 무엇입니까?","a":"앞의 machine-learning forecasts(기계학습 예측)입니다","tip":"NASA가 직접 결정을 내린다고 읽기 쉽습니다. 관계절 that 은 바로 앞 명사를 받습니다."},
+  {"t":"time","q":"<b>NASA Earth data is feeding</b> — 이것은 이미 끝난 일입니까, 지금 벌어지고 있는 일입니까?","a":"지금 벌어지고 있는 일입니다 — is feeding 은 현재진행입니다","tip":"눈 가뭄은 지난겨울 일이지만, 자료가 흘러들어 가는 것은 지금 일입니다."}
+ ],
+ "d3526372|1.0": [
+  {"t":"mod","q":"<b>a Washington public utility,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Tacoma Power — 타코마 파워가 어떤 회사인지 밝히는 동격입니다","tip":"쉼표로 둘러싸인 이 부분을 새로운 주어로 읽으면 동사 is using 의 임자가 사라집니다."},
+  {"t":"who","q":"<b>is using a U.S. technology company’s river-flow forecasts</b> — 예측을 만든 쪽과 그것을 쓰는 쪽은 각각 어디입니까?","a":"만든 쪽은 미국의 한 기술 회사, 쓰는 쪽은 타코마 파워입니다","tip":"소유격 ’s 는 만든 쪽을 나타냅니다. 타코마 파워가 예측을 만든다고 읽으면 뒤집힙니다."},
+  {"t":"time","q":"<b>during a year of water extremes</b> — 이 일은 이미 끝난 일입니까, 아직 진행 중입니까?","a":"진행 중입니다 — is using(현재진행)이므로 지금도 쓰고 있습니다","tip":""}
+ ],
+ "d3526372|1.1": [
+  {"t":"mod","q":"<b>stored behind Mayfield and Mossyrock dams</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 water — 두 댐 뒤에 가둬 둔 물이라는 뜻입니다","tip":"stored 를 문장의 두 번째 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 uses 하나뿐입니다."},
+  {"t":"who","q":"<b>to serve more than 151,000 homes each year</b> — 15만 1천 가구에 공급되는 것은 무엇입니까?","a":"전기입니다(enough electricity)","tip":"바로 앞에 물 이야기가 나와서 물이 공급된다고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>The utility’s largest hydroelectric project</b> — The utility 는 어디를 가리킵니까?","a":"앞 문장의 Tacoma Power 입니다","tip":"the 가 붙었다는 것은 앞에서 이미 나온 그것을 되받는다는 신호입니다."}
+ ],
+ "d3526372|2.0": [
+  {"t":"mod","q":"<b>on snow cover and vegetation conditions</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 NASA-produced satellite data — 그 위성 자료가 무엇에 관한 것인지 밝힙니다","tip":"combines 가 합치는 또 하나의 재료로 읽기 쉽지만, 재료는 with 앞뒤의 두 무리뿐입니다."},
+  {"t":"who","q":"<b>NASA-produced satellite data</b> — 이 위성 자료를 만든 쪽은 어디입니까?","a":"NASA입니다","tip":"-produced 는 '만들어 내는'이 아니라 '~가 만든'이라는 수동 뜻입니다."},
+  {"t":"time","q":"<b>to predict river flow from hours to days ahead.</b> — 이 예측이 내다보는 것은 지나간 일입니까, 앞으로의 일입니까?","a":"앞으로의 일입니다 — 몇 시간 뒤부터 며칠 뒤까지입니다","tip":"ahead 가 붙으면 '앞으로 ~ 뒤'라는 뜻입니다."}
+ ],
+ "d3526372|2.1": [
+  {"t":"who","q":"<b>the forecasts are used by reservoir managers</b> — 쓰이는 것과 쓰는 쪽은 각각 무엇입니까?","a":"쓰이는 것은 그 예측이고, 쓰는 쪽은 by 뒤에 나오는 저수지 관리자·수력발전 사업자·상수도 회사·정부 기관입니다","tip":"are used 는 수동태입니다. 주어를 쓰는 쪽으로 읽으면 주체와 대상이 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>Updated every two hours,</b> 는 무엇을 설명하는 말입니까?","a":"뒤에 나오는 the forecasts — 그 예측이 두 시간마다 새로 갱신된다는 뜻입니다","tip":"누가 갱신하는지는 이 문장에 나오지 않습니다."},
+  {"t":"who","q":"<b>to prepare for storms, plan reservoir water releases, and navigate dry periods.</b> — 이 세 가지를 하는 쪽은 누구입니까?","a":"by 뒤에 나온 사람들, 곧 저수지 관리자·수력발전 사업자·상수도 회사·정부 기관입니다","tip":"예측이 스스로 대비하고 계획한다고 읽기 쉽습니다. plan 과 navigate 앞에도 to 가 생략돼 있습니다."}
+ ],
+ "d3526372|3.0": [
+  {"t":"mod","q":"<b>make the view from space useful on the ground</b> — 쓸모 있게 만든다는 것은 무엇을 두고 하는 말입니까?","a":"the view from space, 곧 우주에서 내려다본 시야(위성이 본 것)입니다","tip":"make A useful(A를 쓸모 있게 만들다) 구조입니다. useful 을 space 나 ground 에 붙이면 뜻이 어그러집니다."},
+  {"t":"mod","q":"<b>manager for NASA’s Water Resources program</b> 는 누구를 설명하는 말입니까?","a":"바로 앞의 Erin Urquhart — 그의 직함입니다","tip":"쉼표 뒤에 나와 새로 등장한 다른 사람으로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>at the agency’s headquarters in Washington, D.C.</b> — the agency 는 어디를 가리킵니까?","a":"NASA입니다","tip":"the agency 는 앞에 나온 기관을 되받는 말입니다. 새로운 기관이 아닙니다."}
+ ],
+ "d3526372|3.1": [
+  {"t":"pron","q":"<b>that’s NASA delivering practical value to the nation.</b> — 맨 앞의 that 은 무엇을 가리킵니까?","a":"앞의 When 절 전체, 곧 '미국 회사가 NASA의 자료를 예측에 넣어 물 관리자들을 돕는 일'입니다","tip":"that 을 앞의 water supplies 같은 낱말 하나로 잡으면 문장이 이어지지 않습니다."},
+  {"t":"who","q":"<b>that help water managers prepare for floods, generate power, and steward water supplies</b> — 홍수에 대비하고 전력을 만드는 쪽은 누구입니까?","a":"water managers(물 관리자들)입니다","tip":"help A 동사원형 구조라 prepare·generate·steward 의 주체는 예측이 아니라 water managers 입니다."},
+  {"t":"who","q":"<b>When an American company incorporates</b> — NASA의 자료를 예측 모델에 집어넣는 쪽은 누구입니까?","a":"미국의 한 회사입니다 — NASA가 아닙니다","tip":"NASA가 자기 자료를 넣는다고 읽기 쉽지만, 이 문장은 회사가 NASA 자료를 가져다 쓰는 것을 칭찬하는 말입니다."}
+ ],
+ "d3526372|4.0": [
+  {"t":"neg","q":"<b>fell as rain instead of snow</b> — 줄어든 쪽은 비입니까, 눈입니까?","a":"눈입니다 — 눈으로 내렸어야 할 것이 비로 내렸다는 뜻입니다","tip":"instead of 뒤에 오는 것이 '밀려난 쪽'입니다. 방향을 뒤집으면 정반대 이야기가 됩니다."},
+  {"t":"mod","q":"<b>a larger share of precipitation fell as rain</b> 는 문장에서 어떤 자리에 있습니까?","a":"meant 의 목적어 자리입니다 — 앞에 that 이 생략된 절입니다","tip":"fell 을 문장의 두 번째 동사로 잡으면 뼈대가 무너집니다. 주절의 동사는 meant 하나뿐입니다."},
+  {"t":"mod","q":"<b>while below-normal precipitation deepened deficits in some areas.</b> — 부족분을 더 키운 것은 무엇입니까?","a":"평년보다 적은 강수량(below-normal precipitation)입니다","tip":"below-normal 은 '평년 아래', 곧 적었다는 뜻입니다."}
+ ],
+ "d3526372|4.1": [
+  {"t":"mod","q":"<b>the lowest Western snow cover for that month</b> — for that month 는 무슨 뜻입니까?","a":"'그 달끼리 견주었을 때'라는 비교 기준입니다 — 역대 1월 중 최저, 역대 2월 중 최저라는 말입니다","tip":"'그 달 동안'으로 읽으면 세 달을 통틀어 가장 적었다는 다른 이야기가 됩니다."},
+  {"t":"who","q":"<b>January, February, and March each had</b> — 최저를 기록한 것은 세 달을 합친 값입니까, 각각입니까?","a":"각각입니다 — each 가 '저마다'라는 뜻입니다","tip":"세 달이 나열돼 있어 합쳐서 하나의 기록으로 읽기 쉽습니다."},
+  {"t":"time","q":"<b>since 2001</b> — 이 최저 기록은 어느 기간과 견준 것입니까?","a":"2001년 이후의 MODIS 위성 관측 기록 전체입니다","tip":"2001년보다 앞선 기록과는 견주지 않았습니다. '역사상 최저'라고 읽으면 지나칩니다."}
+ ],
+ "d3526372|5.0": [
+  {"t":"pron","q":"<b>those conditions</b> 는 무엇을 가리킵니까?","a":"앞 문단에서 말한 이례적으로 따뜻한 겨울과 평년보다 적은 강수, 곧 눈 대신 비가 내린 상황입니다","tip":"바로 앞 문장이 아니라 앞 문단 전체를 받는 말입니다."},
+  {"t":"mod","q":"<b>a season of extremes</b> — extremes 가 복수인 것은 무엇을 뜻합니까?","a":"한쪽 극단만이 아니라 양쪽 극단, 곧 물이 너무 많았던 때와 너무 적었던 때가 모두 있었다는 뜻입니다","tip":"'아주 심한 계절'로 뭉뚱그리면 뒤에 이어지는 12월 폭우와 봄 가뭄의 대비를 놓칩니다."}
+ ],
+ "d3526372|5.1": [
+  {"t":"mod","q":"<b>a long, narrow band of Pacific moisture</b> 는 무엇을 가리킵니까?","a":"대기의 강(atmospheric river)이 몰고 온 태평양의 수증기 띠입니다","tip":"atmospheric river 는 실제 강이 아니라 하늘을 좁고 길게 흐르는 습기 덩어리를 가리키는 기상 용어입니다."},
+  {"t":"who","q":"<b>causing one of the largest one-day inflow surges</b> — 이 급증을 일으킨 것은 무엇입니까?","a":"앞 절 전체, 곧 강력한 대기의 강이 태평양의 수증기를 그 지역으로 몰고 온 일입니다","tip":"causing 은 새 문장의 동사가 아니라 앞 내용의 결과를 잇는 분사구문입니다."},
+  {"t":"mod","q":"<b>causing one of the largest one-day inflow surges ever recorded at Tacoma Power’s hydroelectric project.</b> — 이것은 역대 최대 기록이라는 뜻입니까?","a":"아닙니다 — 역대 가장 큰 것들 가운데 하나라는 뜻입니다","tip":"one of the largest 를 최상급 하나로 읽으면 사실보다 세게 말하게 됩니다."},
+  {"t":"time","q":"<b>In December 2025,</b> — 이 폭풍은 4월의 가뭄 비상사태보다 앞입니까, 뒤입니까?","a":"앞입니다 — 12월 폭풍이 먼저이고, 4월 8일 가뭄 비상사태가 나중입니다","tip":"기사가 물이 많았던 때와 적었던 때를 차례로 보여 주고 있습니다."}
+ ],
+ "d3526372|5.2": [
+  {"t":"neg","q":"<b>instead of building mountain snowpack</b> — 산에 눈더미가 실제로 쌓였습니까?","a":"쌓이지 않았습니다 — instead of 는 '~하는 대신(그렇게 하지 않고)'이라는 뜻입니다","tip":"building 이라는 말만 보고 눈이 쌓였다고 읽으면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>that would melt and release water steadily</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 mountain snowpack(산의 눈더미)입니다","tip":"that 을 앞의 water 나 downstream 에 붙이면 뜻이 어그러집니다."},
+  {"t":"time","q":"<b>that would melt and release water steadily into summer.</b> — 이것은 실제로 일어난 일입니까, 일어나지 않은 가정입니까?","a":"일어나지 않은 가정입니다 — 눈더미가 쌓였더라면 그랬을 것이라는 뜻입니다","tip":"would 를 놓치면 눈이 녹아 여름까지 물을 대 주었다는 정반대 이야기가 됩니다."},
+  {"t":"pron","q":"<b>that rain-heavy pattern</b> 는 무엇을 가리킵니까?","a":"그해 겨울 눈 대신 비가 많이 내린 날씨 흐름입니다","tip":"바로 앞 문장의 12월 폭풍 하나만 가리키는 것이 아니라, 그 계절 내내 이어진 흐름을 가리킵니다."}
+ ],
+ "d3526372|5.3": [
+  {"t":"mod","q":"<b>at just 20% to 50% of normal levels.</b> — 평년보다 20~50% 적다는 뜻입니까, 평년의 20~50%밖에 안 된다는 뜻입니까?","a":"평년의 20~50%밖에 안 된다는 뜻입니다","tip":"of normal levels 는 비교 기준입니다. '평년보다 ~% 적다'로 읽으면 훨씬 덜 심각한 이야기가 됩니다."},
+  {"t":"time","q":"<b>Snowpack remained</b> — 잠깐 그랬다는 뜻입니까, 그 상태로 계속 있었다는 뜻입니까?","a":"그 상태로 계속 머물러 있었다는 뜻입니다","tip":"remain 은 '남다'만이 아니라 '(어떤 상태로) 계속 있다'는 뜻으로 자주 쓰입니다."}
+ ],
+ "d3526372|6.0": [
+  {"t":"who","q":"<b>Washington state placed every watershed, including the Cowlitz, under a drought emergency</b> — 가뭄 비상사태를 선포한 쪽은 어디입니까?","a":"워싱턴주(Washington state)입니다","tip":"타코마 파워나 NASA가 선포했다고 읽기 쉽습니다. place A under B 는 'A를 B 상태에 두다'입니다."},
+  {"t":"mod","q":"<b>including the Cowlitz,</b> 는 무엇에 딸린 말입니까?","a":"앞의 every watershed — 카울리츠강 유역도 그 안에 든다는 뜻입니다","tip":"쉼표 두 개로 끼워 넣은 말이라, 빼고 읽으면 뼈대가 바로 보입니다."},
+  {"t":"time","q":"<b>on April 8,</b> — 비가 잦아든 것과 비상사태 선포 중 어느 쪽이 먼저입니까?","a":"비가 잦아든 것이 먼저이고, 4월 8일 선포가 그 뒤입니다","tip":"and 로 이어진 두 일이 같은 때 일어난 것이 아닙니다."}
+ ],
+ "d3526372|6.1": [
+  {"t":"who","q":"<b>leaving Tacoma Power with less incoming water</b> — 들어오는 물이 부족해진 쪽은 어디입니까?","a":"타코마 파워입니다","tip":"leaving 은 새 동사가 아니라 앞 내용의 결과를 잇는 분사구문입니다. 타코마 파워가 무언가를 남겼다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>to replenish its reservoirs</b> 는 무엇을 설명하는 말입니까?","a":"앞의 less incoming water — 저수지를 다시 채우는 데 쓸 물이라는 뜻입니다","tip":"타코마 파워가 저수지를 채우기 위해 무언가를 했다는 뜻이 아닙니다."},
+  {"t":"time","q":"<b>ahead of summer demand,</b> — 여름 수요는 이미 닥친 것입니까, 아직 오지 않은 것입니까?","a":"아직 오지 않았습니다 — ahead of 는 '~을 앞두고'라는 뜻입니다","tip":"4월부터 6월까지의 일이므로 여름은 그 뒤입니다."},
+  {"t":"who","q":"<b>said Saul Villarreal, Tacoma Power’s senior hydro operations manager.</b> — 이 내용을 말한 사람은 누구이고 직함은 무엇입니까?","a":"사울 비야레알이며, 타코마 파워의 수력 운영 선임 관리자입니다","tip":"쉼표 뒤의 직함을 또 다른 사람으로 읽기 쉽습니다. 이 문장 전체가 그가 한 말입니다."}
+ ],
+ "d3526372|7.0": [
+  {"t":"mod","q":"<b>collected by the VIIRS (Visible Infrared Imaging Radiometer Suite) instrument</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 observations — VIIRS 장비가 모은 관측값이라는 뜻입니다","tip":"collected 를 문장의 동사로 읽으면 안 됩니다. 이 문장의 동사는 turns 하나뿐입니다."},
+  {"t":"mod","q":"<b>into data products</b> 는 문장의 어느 동사와 짝을 이룹니까?","a":"맨 앞의 turns 와 짝입니다 — turn A into B(A를 B로 바꾸다) 구조입니다","tip":"A 자리가 30단어 가까이 길어서 into 가 멀리 떨어져 있습니다. 짝을 놓치면 문장이 흩어집니다."},
+  {"t":"who","q":"<b>NASA turns observations</b> — 관측값을 모은 쪽과 그것을 데이터 제품으로 바꾸는 쪽은 각각 무엇입니까?","a":"모은 쪽은 VIIRS 장비, 데이터 제품으로 바꾸는 쪽은 NASA입니다","tip":"둘을 한 덩어리로 뭉뚱그리면 이 문단이 말하려는 'NASA가 하는 일'이 흐려집니다."},
+  {"t":"mod","q":"<b>including where ground monitors are sparse.</b> 는 무엇에 딸린 말입니까?","a":"앞의 across entire watersheds — 지상 관측 장비가 드문 곳까지 포함해 유역 전체를 본다는 뜻입니다","tip":"위성의 장점을 말하는 대목입니다. data products 에 붙이면 뜻이 어그러집니다."}
+ ],
+ "d3526372|8.0": [
+  {"t":"who","q":"<b>To train HydroForecast, Upstream Tech collects and archives</b> — 자료를 모아 보관하는 쪽은 어디입니까?","a":"업스트림 테크(Upstream Tech)입니다 — NASA가 아닙니다","tip":"맨 앞의 To train… 은 주어가 아니라 목적입니다. 진짜 주어는 쉼표 뒤에 있습니다."},
+  {"t":"mod","q":"<b>years of those NASA products</b> 는 무슨 뜻입니까?","a":"여러 해에 걸쳐 쌓인 그 NASA 데이터 제품이라는 뜻입니다","tip":"'NASA 제품의 몇 해'로 읽으면 어색해집니다. years of A 는 '여러 해치의 A'입니다."},
+  {"t":"pron","q":"<b>those NASA products</b> 는 무엇을 가리킵니까?","a":"앞 문장에서 말한, VIIRS 관측값으로 만든 적설·식생 데이터 제품입니다","tip":"those 가 붙었다는 것은 앞에서 이미 말한 그것을 되받는다는 신호입니다."}
+ ],
+ "d3526372|8.1": [
+  {"t":"who","q":"<b>Using records from hundreds of watersheds,</b> — 그 기록을 쓰는 쪽은 무엇입니까?","a":"뒤에 나오는 the models(그 모델들)입니다","tip":"분사구문의 주체는 주절의 주어와 같습니다. 업스트림 테크 사람으로 잡으면 어긋납니다."},
+  {"t":"who","q":"<b>and apply them in new locations.</b> — 적용하는 쪽은 무엇입니까?","a":"the models(그 모델들)입니다 — learn 과 나란한 두 번째 동사라 주어가 같습니다","tip":"and 뒤에 새 주어가 없으면 앞 주어를 그대로 이어받습니다."},
+  {"t":"pron","q":"<b>apply them in new locations</b> 의 them 은 무엇을 가리킵니까?","a":"앞의 common patterns(공통된 패턴)입니다","tip":"records 나 watersheds 로 잡으면 '기록을 새 지역에 적용한다'는 다른 이야기가 됩니다."}
+ ],
+ "d3526372|9.0": [
+  {"t":"mod","q":"<b>that including snow and vegetation observations increased forecast skill</b> — 이 절의 주어와 동사는 각각 무엇입니까?","a":"주어는 including snow and vegetation observations(눈·식생 관측값을 넣는 것), 동사는 increased 입니다","tip":"including 을 '~을 포함해'라는 전치사로 읽으면 절의 주어가 사라집니다. 여기서는 동명사입니다."},
+  {"t":"who","q":"<b>said Dr. Laura Read, director of technical and federal partnerships</b> — 이 시험 결과를 전한 사람은 누구입니까?","a":"로라 리드(Laura Read) 박사입니다","tip":"뒤의 director… 는 다른 사람이 아니라 그의 직함입니다."},
+  {"t":"mod","q":"<b>for HydroForecast at Upstream Tech.</b> 는 무엇에 딸린 말입니까?","a":"앞의 director of technical and federal partnerships — 리드 박사가 어느 조직의 어떤 자리에 있는지 밝힙니다","tip":"Tests 나 forecast skill 에 붙이면 시험을 한 곳 이야기로 잘못 읽게 됩니다."}
+ ],
+ "d3526372|9.1": [
+  {"t":"mod","q":"<b>we need,</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the reliability, global coverage, and consistency 셋 모두입니다 — 앞에 that 이 생략돼 있습니다","tip":"we need 를 새 문장으로 읽으면 뼈대가 흐트러집니다. 바로 앞 consistency 하나만 꾸미는 것도 아닙니다."},
+  {"t":"who","q":"<b>NASA’s data gives us the reliability, global coverage, and consistency</b> — 이 셋을 주는 쪽은 무엇입니까?","a":"NASA의 자료입니다","tip":"gives 는 4형식이라 us 가 받는 쪽, 뒤의 세 낱말이 주는 것입니다."},
+  {"t":"pron","q":"<b>gives us</b> 의 us 는 누구입니까?","a":"말하는 사람인 로라 리드와 업스트림 테크 쪽 사람들입니다","tip":"물 관리 기관이나 일반 대중으로 넓히면 뜻이 흐려집니다. 따옴표 안의 말은 말한 사람 편에서 읽어야 합니다."}
+ ],
+ "d3526372|9.2": [
+  {"t":"pron","q":"<b>so those inputs have to show up</b> 의 those inputs 는 무엇을 가리킵니까?","a":"앞 문장에서 말한 NASA의 자료입니다","tip":"모델이 내놓는 결과로 잡으면 방향이 뒤집힙니다. input 은 들어가는 쪽입니다."},
+  {"t":"time","q":"<b>run every two hours</b> — 이 모델은 두 시간 동안 돌아간다는 뜻입니까, 두 시간마다 돌아간다는 뜻입니까?","a":"두 시간마다 돌아간다는 뜻입니다","tip":"every + 기간 은 '~마다'라는 되풀이를 나타냅니다."},
+  {"t":"pron","q":"<b>when we need them.</b> 의 them 은 무엇을 가리킵니까?","a":"those inputs, 곧 NASA의 자료입니다","tip":"바로 앞의 models 로 잡기 쉽습니다."}
+ ],
+ "d3526372|9.3": [
+  {"t":"neg","q":"<b>Though we have stopgaps in place,</b> — 대비책이 있으니 괜찮다는 뜻입니까?","a":"아닙니다 — 대비책이 있기는 하지만 그래도 큰일이라는 뜻입니다","tip":"Though 는 뒤 내용을 뒤집는 말입니다. 앞 절만 읽고 안심하면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>any interruption to our operational pipeline</b> — any 는 무슨 뜻입니까?","a":"'조금이라도 끊기면'이라는 강조입니다 — 큰 사고만을 말하는 것이 아닙니다","tip":"any 를 '어떤 ~이든'으로 새기면 작은 중단도 문제라는 힘이 살아납니다."},
+  {"t":"pron","q":"<b>our operational pipeline</b> — our 는 누구를 가리킵니까?","a":"말하는 쪽인 업스트림 테크입니다","tip":"NASA나 타코마 파워로 잡으면 누가 무엇을 걱정하는지가 뒤바뀝니다."}
+ ],
+ "d3526372|10.0": [
+  {"t":"mod","q":"<b>alongside stream gauges, snow stations, and operator judgment.</b> — 하이드로포캐스트가 이 셋을 대신한다는 뜻입니까?","a":"아닙니다 — 이 셋과 함께 쓴다는 뜻입니다","tip":"alongside 는 '~대신'이 아니라 '~와 나란히, 함께'입니다."},
+  {"t":"who","q":"<b>Tacoma Power uses HydroForecast</b> — 하이드로포캐스트를 만든 쪽과 쓰는 쪽은 각각 어디입니까?","a":"만든 쪽은 업스트림 테크, 쓰는 쪽은 타코마 파워입니다","tip":"기사 내내 두 회사의 자리가 다릅니다. 만드는 쪽과 쓰는 쪽을 섞지 마십시오."}
+ ],
+ "d3526372|10.1": [
+  {"t":"who","q":"<b>helped the utility anticipate how much water would reach the project</b> — 물의 양을 미리 헤아린 쪽은 무엇입니까?","a":"the utility, 곧 타코마 파워입니다","tip":"help A 동사원형 구조라 anticipate 의 주체는 목적어 자리의 the utility 입니다. 예측이 스스로 헤아린 것이 아닙니다."},
+  {"t":"mod","q":"<b>the NASA-informed, short-term forecast</b> — NASA-informed 는 무슨 뜻입니까?","a":"NASA의 자료를 바탕으로 삼았다는 뜻입니다","tip":"'NASA에 알려 주는'으로 읽으면 정보의 방향이 뒤집힙니다."},
+  {"t":"who","q":"<b>while meeting operating requirements and keeping public safety at the forefront,</b> — 규정을 지키고 안전을 맨 앞에 둔 쪽은 누구입니까?","a":"the utility, 곧 타코마 파워입니다","tip":"주어 없는 분사구문이라 바로 앞의 forecast 로 붙이기 쉽습니다."},
+  {"t":"pron","q":"<b>Villarreal said.</b> — 이 문장은 누구의 말입니까?","a":"타코마 파워의 수력 운영 선임 관리자 사울 비야레알(Saul Villarreal)입니다","tip":"성만 나왔다는 것은 앞에서 이미 소개된 사람이라는 신호입니다."}
+ ],
+ "d3526372|11.0": [
+  {"t":"who","q":"<b>please enable JavaScript,</b> — 자바스크립트를 켜야 하는 쪽은 누구입니까?","a":"이 화면을 보고 있는 이용자입니다 — 주어가 없는 명령문입니다","tip":"기사 본문이 아니라 화면에 뜬 안내문입니다. NASA가 무엇을 켠다는 이야기가 아닙니다."},
+  {"t":"mod","q":"<b>To view this video</b> 는 문장에서 어떤 구실을 합니까?","a":"'이 영상을 보려면'이라는 조건·목적입니다 — 문장의 주어가 아닙니다","tip":"To 로 시작하는 말을 주어로 잡으면 뒤의 명령문과 어긋납니다."},
+  {"t":"mod","q":"<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a web browser — HTML5 영상을 지원하는 브라우저라는 뜻입니다","tip":"upgrading 이나 JavaScript 에 붙이면 뜻이 어그러집니다."}
+ ],
+ "d3526372|12.0": [
+  {"t":"who","q":"<b>the operational challenge reversed.</b> — 뒤집은 쪽과 뒤집힌 쪽은 각각 무엇입니까?","a":"뒤집은 쪽이 따로 없습니다 — 운영상의 과제 자체가 정반대로 뒤바뀌었다는 뜻입니다","tip":"reversed 가 목적어 없이 쓰였습니다. '무엇을 뒤집었다'로 읽으면 없는 목적어를 찾게 됩니다."},
+  {"t":"time","q":"<b>As spring approached,</b> — 이 변화는 12월 폭풍보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 12월 폭풍이 먼저이고, 봄이 다가오면서 문제가 뒤바뀌었습니다","tip":"물이 너무 많아 걱정이던 상황에서 너무 적어 걱정인 상황으로 바뀐 것입니다."}
+ ],
+ "d3526372|12.1": [
+  {"t":"who","q":"<b>and began keeping its reservoirs higher than usual</b> — 저수지를 평소보다 높게 유지하기 시작한 쪽은 어디입니까?","a":"타코마 파워입니다 — used 와 began 은 주어가 같습니다","tip":"and 뒤에 새 주어가 없으면 앞 주어를 그대로 이어받습니다."},
+  {"t":"mod","q":"<b>to track the growing risk of weak runoff</b> 는 무엇을 하기 위한 것입니까?","a":"앞의 used HydroForecast’s seasonal model — 계절 모델을 쓴 목적입니다","tip":"뒤의 began keeping 의 목적으로 붙이면 순서가 뒤엉킵니다."},
+  {"t":"time","q":"<b>began keeping its reservoirs higher than usual</b> — 이것은 이미 시작한 일입니까, 앞으로 할 일입니까?","a":"이미 시작한 일입니다 — began(과거형)이므로 봄에 이미 시작했습니다","tip":""}
+ ],
+ "d3526372|12.2": [
+  {"t":"pron","q":"<b>That left less space</b> 의 That 은 무엇을 가리킵니까?","a":"앞 문장의 '저수지 수위를 평소보다 높게 유지한 일'입니다","tip":"앞 문장의 낱말 하나가 아니라 그 일 전체를 받습니다."},
+  {"t":"mod","q":"<b>less space to contain another large storm,</b> — 무엇의 공간이 줄었다는 말입니까?","a":"저수지에 남은 빈 공간입니다 — 물을 많이 채워 두어 새 폭풍물을 받아 낼 여유가 줄었다는 뜻입니다","tip":"물을 아껴 둔 대가로 홍수에 약해졌다는 뒷면을 말하는 대목입니다."},
+  {"t":"who","q":"<b>so operators continued checking the short-term forecast</b> — 계속 확인한 쪽은 누구입니까?","a":"타코마 파워의 운영자들입니다","tip":"업스트림 테크가 확인한다고 읽으면 자리가 바뀝니다."},
+  {"t":"time","q":"<b>if another atmospheric river developed.</b> — 이 문장은 또 다른 대기의 강이 실제로 왔다고 말하고 있습니까?","a":"아닙니다 — 올 경우에 대비해 준비만 하고 있었다는 뜻이고, 실제로 왔는지는 나오지 않습니다","tip":"if 절은 아직 일어나지 않은 경우를 가리킵니다."}
+ ],
+ "d3526372|13.0": [
+  {"t":"mod","q":"<b>The earlier we understand</b> 와 <b>the more effective planning we can do</b> — 두 절은 어떤 관계입니까?","a":"'더 일찍 알수록 그만큼 더 효과적으로 계획할 수 있다'는 비례 관계입니다","tip":"The 비교급 A, the 비교급 B 구조입니다. 앞 절을 문장의 뼈대로 잡으면 뜻이 어그러집니다."},
+  {"t":"pron","q":"<b>the more effective planning we can do</b> 의 we 는 누구입니까?","a":"말하는 사람인 비야레알과 타코마 파워 쪽 사람들입니다","tip":"NASA나 업스트림 테크로 잡으면 계획을 세우는 주체가 바뀝니다."},
+  {"t":"mod","q":"<b>to manage our reservoir and balance the many demands of our system</b> 는 무엇을 설명하는 말입니까?","a":"앞의 planning — 그 계획이 무엇을 위한 것인지 밝힙니다","tip":"understand 에 붙이면 앞뒤 절의 짝이 어긋납니다."}
+ ],
+ "d3526372|14.0": [
+  {"t":"neg","q":"<b>despite the dry spring.</b> — 봄이 메말라서 수위가 낮았다는 뜻입니까, 메말랐는데도 평년에 가까웠다는 뜻입니까?","a":"메말랐는데도 평년에 가까웠다는 뜻입니다","tip":"despite 는 앞뒤를 뒤집는 말입니다. 놓치면 결과가 정반대가 됩니다."},
+  {"t":"mod","q":"<b>with reservoir levels near average</b> 는 무엇을 설명하는 말입니까?","a":"타코마 파워가 여름에 들어설 때의 상태입니다 — 저수지 수위가 평년에 가까웠다는 뜻입니다","tip":"with 를 '~와 함께'로 읽으면 어색해집니다. 여기서는 '~한 상태로'라는 뜻입니다."},
+  {"t":"time","q":"<b>Tacoma Power entered summer 2026</b> — 이 일은 이미 일어난 일입니까, 앞으로 일어날 일입니까?","a":"이미 일어난 일입니다 — entered(과거형)입니다","tip":""}
+ ],
+ "d3526372|14.1": [
+  {"t":"mod","q":"<b>required river flows to support fish and aquatic habitat,</b> — required 는 이 문장의 동사입니까?","a":"아닙니다 — 뒤의 river flows 를 꾸미는 과거분사로, 의무적으로 흘려보내야 하는 유량이라는 뜻입니다","tip":"required 를 두 번째 동사로 읽으면 '가둬 둔 물이 하천 유량을 요구했다'는 엉뚱한 문장이 됩니다."},
+  {"t":"mod","q":"<b>The stored water supports reliable hydropower,</b> — supports 의 목적어는 모두 몇 개입니까?","a":"세 개입니다 — reliable hydropower, required river flows, public recreation","tip":"쉼표로 길게 나열돼 있어 두 개나 하나로 세기 쉽습니다."},
+  {"t":"who","q":"<b>to support fish and aquatic habitat,</b> — 물고기와 수생 서식지를 지키는 것은 무엇입니까?","a":"required river flows, 곧 의무적으로 흘려보내는 하천 유량입니다","tip":"가장 가까운 명사에 붙여야 합니다. hydropower 로 붙이면 뜻이 어그러집니다."}
+ ],
+ "d3526372|14.2": [
+  {"t":"pron","q":"<b>It also gives the utility more flexibility</b> 의 It 은 무엇을 가리킵니까?","a":"앞 문장의 The stored water(가둬 둔 물)입니다","tip":"하이드로포캐스트나 NASA 자료로 잡기 쉽지만, 이 문단은 저수지에 담긴 물 이야기입니다."},
+  {"t":"who","q":"<b>gives the utility more flexibility</b> — 융통성을 얻는 쪽은 어디입니까?","a":"the utility, 곧 타코마 파워입니다","tip":"gives 는 4형식이라 바로 뒤의 명사가 받는 쪽입니다."},
+  {"t":"mod","q":"<b>support the wider regional power system.</b> 는 문장의 어느 말과 나란합니까?","a":"앞의 to meet electricity demand 와 나란합니다 — support 앞에 to 가 생략돼 있습니다","tip":"support 를 문장의 새 동사로 읽으면 주어를 찾지 못합니다."},
+  {"t":"mod","q":"<b>and, when possible,</b> — when possible 은 무엇에 붙는 조건입니까?","a":"뒤의 support the wider regional power system 입니다 — 가능할 때만 지역 전력망을 받쳐 준다는 뜻입니다","tip":"앞의 전력 수요 감당까지 조건으로 읽으면 뜻이 약해집니다."}
+ ],
+ "d3526372|15.0": [
+  {"t":"mod","q":"<b>supporting water decisions across the West.</b> 는 무엇을 설명하는 말입니까?","a":"앞의 NASA science — 서부 전역에서 물에 관한 결정을 받쳐 주는 NASA 과학이라는 뜻입니다","tip":"supporting 을 문장의 동사로 읽으면 안 됩니다. 동사는 is 하나뿐입니다."},
+  {"t":"mod","q":"<b>just one example</b> — 이 사업이 유일한 사례라는 뜻입니까?","a":"아닙니다 — 여럿 가운데 하나일 뿐이라는 뜻입니다","tip":"just 를 '바로'로 읽으면 뜻이 반대로 강해집니다. 뒤에 다른 사례가 이어진다는 신호입니다."},
+  {"t":"who","q":"<b>NASA science supporting water decisions across the West.</b> — 물에 관한 결정을 내리는 쪽은 NASA입니까?","a":"아닙니다 — NASA의 과학은 그 결정을 받쳐 줄 뿐이고, 결정은 저마다의 물 관리 기관이 내립니다","tip":"support 를 '결정한다'로 크게 읽지 마십시오."}
+ ],
+ "d3526372|16.0": [
+  {"t":"mod","q":"<b>with the U.S.</b> — 협력 상대의 이름이 이 문장 안에서 끝납니까?","a":"끝나지 않습니다 — 다음 문장의 Department of Agriculture’s Natural Resources Conservation Service 까지가 상대 기관 이름입니다","tip":"U.S. 의 마침표 때문에 문장이 여기서 끊긴 것처럼 보일 뿐입니다."},
+  {"t":"time","q":"<b>NASA also has partnered</b> — 이 협력은 앞으로 할 일입니까, 이미 해 온 일입니까?","a":"이미 해 온 일입니다 — has partnered(현재완료)이므로 예전부터 지금까지 이어져 왔습니다","tip":""}
+ ],
+ "d3526372|16.1": [
+  {"t":"mod","q":"<b>Department of Agriculture’s Natural Resources Conservation Service</b> 는 이 토막에서 어떤 자리입니까?","a":"앞 문장 NASA also has partnered with the U.S. 의 with 뒤에 이어지는 상대 기관 이름입니다 — 이 토막의 주어가 아닙니다","tip":"주어로 잡으면 동사를 찾을 수 없습니다. 이 토막에는 주어도 동사도 없습니다."},
+  {"t":"who","q":"<b>to bring satellite-based snow and groundwater information</b> — 이 정보를 끌어들이는 쪽은 누구입니까?","a":"협력하는 NASA와 자연자원보전청입니다","tip":"to bring 은 동사가 아니라 그 협력의 목적을 밝히는 말입니다."},
+  {"t":"mod","q":"<b>into machine-learning water-supply forecasts.</b> — 정보가 들어가는 곳은 어디입니까?","a":"기계학습으로 만드는 물 공급 예측입니다","tip":"machine-learning 이 forecasts 를 꾸밉니다. 정보 쪽에 붙이면 뜻이 어그러집니다."}
+ ],
+ "d3526372|17.0": [
+  {"t":"mod","q":"<b>The National Oceanic and Atmospheric Administration’s Colorado Basin River Forecast Center</b> — 이 문장의 주어는 어디까지입니까?","a":"이 전체가 한 기관 이름이자 주어입니다 — Colorado Basin River Forecast Center 까지입니다","tip":"and 가 들어 있어 두 기관으로 나누기 쉽지만, National Oceanic and Atmospheric Administration 자체가 한 기관 이름(NOAA)입니다."},
+  {"t":"who","q":"<b>uses MODIS and VIIRS data</b> — 이 자료를 쓰는 쪽은 어디입니까?","a":"콜로라도 분지 하천예보센터입니다 — NASA가 아닙니다","tip":"MODIS와 VIIRS가 NASA 것이라 NASA가 주어라고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>to adjust snowmelt rates in its model.</b> 의 its 는 무엇을 가리킵니까?","a":"콜로라도 분지 하천예보센터입니다 — 그 센터가 쓰는 자기네 모델이라는 뜻입니다","tip":"NASA의 모델로 잡으면 누가 무엇을 손보는지가 뒤바뀝니다."}
+ ],
+ "d3526372|17.1": [
+  {"t":"mod","q":"<b>NASA and NASA-derived snow data,</b> — 자료는 몇 갈래입니까?","a":"두 갈래입니다 — NASA가 직접 만든 눈 자료와, NASA 자료를 바탕으로 파생된 눈 자료입니다","tip":"-derived 는 '~에서 나온'이라는 뜻입니다. 한 갈래로 뭉뚱그리면 구분이 사라집니다."},
+  {"t":"mod","q":"<b>alongside other sources,</b> 는 무엇에 딸린 말입니까?","a":"앞의 목적어 NASA and NASA-derived snow data — 다른 출처의 자료와 함께 쓴다는 뜻입니다","tip":"쉼표로 끼워 넣은 말이라 빼고 읽으면 뼈대가 보입니다."},
+  {"t":"who","q":"<b>The Bureau of Reclamation uses</b> — 이 자료를 쓰는 쪽은 어디입니까?","a":"간척국(Bureau of Reclamation)입니다","tip":"앞 문장의 하천예보센터가 이어진다고 읽지 마십시오. 다른 기관의 사례입니다."}
+ ],
+ "d3526372|18.0": [
+  {"t":"mod","q":"<b>have long informed the U.S.</b> — 목적어가 이 문장 안에서 끝납니까?","a":"끝나지 않습니다 — 다음 문장의 Drought Monitor 까지가 목적어입니다(U.S. Drought Monitor)","tip":"U.S. 의 마침표 때문에 문장이 잘려 보일 뿐입니다."},
+  {"t":"time","q":"<b>have long informed</b> — 최근에 시작된 일입니까, 오래전부터 이어져 온 일입니까?","a":"오래전부터 이어져 온 일입니다 — 현재완료에 long 이 붙었습니다","tip":"다음 문단의 '2026년에 정식 협력 기관이 되었다'와 시점이 다릅니다."}
+ ],
+ "d3526372|18.1": [
+  {"t":"mod","q":"<b>Drought Monitor ,</b> 는 이 토막에서 어떤 자리입니까?","a":"앞 문장 NASA data and research have long informed the U.S. 의 목적어입니다 — 이 토막에는 주어도 동사도 없습니다","tip":"문장이 새로 시작하는 것처럼 보이지만 앞 문장의 뒷부분입니다."},
+  {"t":"mod","q":"<b>the weekly assessment</b> 는 무엇을 설명하는 말입니까?","a":"앞의 Drought Monitor — 그것이 주간 평가 보고서라는 동격 설명입니다","tip":"새로운 대상이 하나 더 나온 것으로 읽기 쉽습니다."},
+  {"t":"who","q":"<b>used by farmers, water managers, and public agencies.</b> — 쓰는 쪽과 쓰이는 것은 각각 무엇입니까?","a":"쓰는 쪽은 농민·물 관리자·공공기관이고, 쓰이는 것은 그 주간 평가 보고서입니다","tip":"used 는 동사가 아니라 앞 명사를 꾸미는 과거분사(수동)입니다."}
+ ],
+ "d3526372|18.2": [
+  {"t":"mod","q":"<b>expanding its role from providing information to helping produce the assessment.</b> — 역할이 어디에서 어디로 넓어진 것입니까?","a":"정보를 대 주던 데서, 그 보고서를 함께 만드는 데까지입니다","tip":"from A to B 구조입니다. to helping 의 to 는 to부정사가 아니라 전치사라서 뒤에 -ing 가 옵니다."},
+  {"t":"time","q":"<b>NASA became a formal partner in 2026,</b> — NASA는 2026년 전에는 이 보고서와 아무 관계가 없었습니까?","a":"아닙니다 — 전에도 정보를 대 주고 있었고, 2026년에 정식 협력 기관이 된 것입니다","tip":"앞 문장의 have long informed 와 이어서 읽어야 합니다."},
+  {"t":"pron","q":"<b>expanding its role</b> 의 its 는 무엇을 가리킵니까?","a":"NASA입니다","tip":"the assessment 나 partner 로 잡으면 역할을 넓힌 주체가 바뀝니다."}
+ ],
+ "d3526372|18.3": [
+  {"t":"pron","q":"<b>The agency</b> 는 어디를 가리킵니까?","a":"NASA입니다","tip":"앞 문장에 나온 기관을 되받는 말입니다. 새 기관이 아닙니다."},
+  {"t":"mod","q":"<b>authoring the Drought Monitor</b> 는 무엇을 설명하는 말입니까?","a":"앞의 its first turn — 그 차례에 무엇을 하는지, 곧 보고서를 집필하는 차례라는 뜻입니다","tip":"authoring 을 문장의 동사로 읽으면 took 과 겹칩니다."},
+  {"t":"time","q":"<b>took its first turn</b> — 이것은 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다 — took(과거형)이고 8월 17일이 든 주에 했습니다","tip":"first 라는 말 때문에 앞으로의 계획으로 읽기 쉽습니다."}
+ ],
+ "d3526372|19.0": [
+  {"t":"mod","q":"<b>About the Author Emily DeMarco Writer/Editor (IV), Earth Science Division</b> — 이 부분은 문장입니까?","a":"문장이 아닙니다 — 글쓴이 소개 머리말과 이름·직함이 그대로 붙어 들어온 것입니다","tip":"동사를 찾으려 하면 헤매게 됩니다. 진짜 문장은 그 뒤부터 시작합니다."},
+  {"t":"who","q":"<b>Emily is a science writer and editor</b> — 이 문장의 주어는 앞뒤 두 Emily 중 어느 쪽입니까?","a":"두 번째로 나온 Emily 입니다 — 앞의 Emily DeMarco 는 소개 표의 이름입니다","tip":"같은 이름이 두 번 나와 문장의 시작점을 놓치기 쉽습니다."},
+  {"t":"mod","q":"<b>with more than 10 years of experience</b> 는 무엇을 설명하는 말입니까?","a":"Emily 입니다 — 그가 10년 넘는 경력을 지녔다는 뜻입니다","tip":"바로 앞의 NASA’s Earth Science Division 에 붙이면 부서가 10년 되었다는 다른 뜻이 됩니다."}
+ ],
+ "d3526372|19.1": [
+  {"t":"mod","q":"<b>A former deputy news editor at the magazine Science News,</b> 는 누구를 설명하는 말입니까?","a":"뒤에 나오는 she, 곧 에밀리 디마코입니다","tip":"이것을 문장의 주어로 잡으면 동사를 찾지 못합니다. 쉼표 뒤의 she 가 주어입니다."},
+  {"t":"pron","q":"<b>where she specialized in water resources management and science communication.</b> 의 where 는 어디를 가리킵니까?","a":"앞의 UC Santa Barbara’s Bren School(브렌 스쿨)입니다","tip":"잡지 Science News 로 잡으면 전공한 곳이 뒤바뀝니다."},
+  {"t":"mod","q":"<b>she holds a master’s</b> — a master’s 는 무엇이 생략된 말입니까?","a":"a master’s degree(석사 학위)에서 degree 가 생략된 말입니다","tip":"소유격만 남은 꼴이라 무엇을 가졌는지 놓치기 쉽습니다."}
+ ],
+ "d3526372|20.0": [
+  {"t":"mod","q":"<b>more than 1,000 kilometers south</b> — south 는 여기서 무엇을 뜻합니까?","a":"'남쪽으로'라는 방향입니다 — 빙산이 남쪽으로 1,000km 넘게 떠내려갔다는 뜻입니다","tip":"south 를 명사(남부 지방)로 읽으면 문장이 이어지지 않습니다."},
+  {"t":"time","q":"<b>In summer 2026, a large iceberg drifted</b> — 이 일은 이미 일어난 일입니까, 앞으로 일어날 일입니까?","a":"이미 일어난 일입니다 — drifted(과거형)입니다","tip":"본문이 아니라 다른 기사의 미리보기 토막이라 끝이 잘려 있습니다."}
+ ],
+ "d3526372|21.0": [
+  {"t":"mod","q":"<b>Article 11 hours ago 5 min read</b> — 이 부분은 문장입니까?","a":"문장이 아닙니다 — 다른 기사 목록에 붙은 표시(기사·올린 시각·읽는 데 걸리는 시간)입니다","tip":"read 를 동사로 읽으면 헤매게 됩니다. 5 min read 는 '읽는 데 5분'이라는 뜻의 표시입니다."},
+  {"t":"who","q":"<b>Drought in the Rio Grande basin contributed to</b> — 저수지가 줄어드는 데 한몫한 것은 무엇입니까?","a":"리오그란데 분지의 가뭄입니다","tip":"앞에 다른 기사 제목이 섞여 있어 주어를 엉뚱한 곳에서 찾기 쉽습니다."},
+  {"t":"mod","q":"<b>New Mexico’s largest reservoir dwindling to its…</b> 는 문장에서 어떤 자리입니까?","a":"앞의 contributed to 의 목적어 자리입니다","tip":"contribute to 의 to 는 전치사라서 뒤에 -ing 형이 옵니다. dwindling 을 동사로 읽지 마십시오."}
+ ],
+ "d3526372|22.0": [
+  {"t":"mod","q":"<b>Keep Exploring Discover More Topics From NASA</b> — 이 부분은 기사 본문입니까?","a":"본문이 아닙니다 — 화면에 있는 단추 글자(계속 둘러보기 · 더 많은 주제 보기)입니다","tip":"명령문 두 개가 나란히 붙어 있어 한 문장으로 읽으면 뜻이 통하지 않습니다."},
+  {"t":"mod","q":"<b>Accelerating the use of Earth observation data</b> 는 무엇을 설명하는 말입니까?","a":"앞의 Earth Action — 그 프로그램이 무엇을 하는 곳인지 밝히는 말입니다","tip":"문장의 동사로 읽으면 주어를 찾지 못합니다. 이 토막에는 주어도 동사도 없습니다."}
+ ],
+ "d3526372|23.0": [
+  {"t":"pron","q":"<b>NASA tracks its constant motion as it shifts between sea, land, and…</b> — its 와 it 은 각각 무엇을 가리킵니까?","a":"둘 다 앞의 Water(물)입니다","tip":"바로 앞의 NASA로 잡으면 NASA가 움직인다는 이야기가 됩니다."},
+  {"t":"time","q":"<b>as it shifts between sea, land, and…</b> — 여기서 as 는 무슨 뜻입니까?","a":"'~로서'가 아니라 '~하는 동안, ~하면서'라는 뜻입니다","tip":"as 는 이 기사에서 여러 번 나오는데, 대부분 '~함에 따라'라는 때를 나타냅니다."}
+ ],
+ "d3526372|24.0": [
+  {"t":"who","q":"<b>NASA Earth Science helps Americans respond</b> — 대응하는 쪽은 누구입니까?","a":"Americans(미국인들)입니다 — NASA가 대응하는 것이 아닙니다","tip":"help A 동사원형 구조라 respond 의 주체는 목적어인 Americans 입니다."},
+  {"t":"mod","q":"<b>— such as wildland fires, hurricanes, and water supplies…</b> 는 무엇의 예입니까?","a":"앞의 challenges and societal needs(어려움과 사회적 필요)의 예입니다","tip":"Americans 의 예로 읽으면 뜻이 통하지 않습니다."}
+ ]
+}

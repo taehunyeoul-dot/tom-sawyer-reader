@@ -1,0 +1,68 @@
+Human-Related Microbes May Survive Moon’s South Pole, NASA Finds
+NASA · 2026-08-19
+https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/
+
+[0.0] Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.
+
+[1.0] Published on Aug. 19, 2026, in Science Advances , these findings highlight a need to better understand microbial persistence in extreme lunar environments.
+[1.1] As humans build a permanent presence on the Moon, it may become difficult to distinguish ancient lunar chemistry from contamination delivered by visiting astronauts.
+[1.2] The concern extends beyond the Moon and on to Mars, scientists say.
+
+[2.0] “Humans are natural explorers, and with them come their voices, their memories … and their microbes,” said Prabal Saxena , a planetary scientist who led the study from NASA’s Goddard Space Flight Center in Greenbelt, Maryland.
+[2.1] “For some scientists, myself included, that reality can be unsettling.
+[2.2] But it also creates an opportunity to turn an imperfect situation into a useful experiment.”
+
+[3.0] Bringing microbes along is unavoidable: Humans have, on average, 1 million bacteria living on each patch of skin the size of a pencil eraser, for example.
+[3.1] These bacteria vent from spacesuits and habitats.
+[3.2] Though the paper’s authors worry about contamination interfering with the search for chemical clues to ancient geology or biology, they also argue that the Moon should be used as a natural lab.
+[3.3] In shaded areas around the South Pole, scientists could carefully test the real-life limits of microbial survival in an environment that can’t easily be reproduced on Earth.
+
+[4.0] Before any surface science can happen, scientists need a baseline measurement of what contaminants humans bring, the authors say.
+
+[5.0] “We need to understand what was there before us, because when we go to Mars to search for signs of life beyond our planet, we will want to make sure it’s not stuff we brought,” said Andrew Needham , a NASA Goddard-based paper co-author who is an Artemis contamination‑control scientist for lunar samples.
+
+[6.0] Even with strict sterilization procedures, some organisms are stubbornly resilient.
+[6.1] A good example is Aspergillus niger, which is a fungus that thrives in warm, damp places like household bathrooms and heating, ventilation, and air conditioning systems.
+[6.2] Astronauts have sampled it inside the International Space Station, and experiments demonstrate that the fungus can survive outside the station as well.
+[6.3] Aspergillus niger was one of five microbes, including bacteria and fungi, selected for this study because of its known toughness in spaceflight environments.
+
+[7.0] That microbes survived on the space station’s exterior surprised scientists.
+[7.1] These species are typically not considered “extremophiles” that can withstand harsh conditions, such as the vacuum of space, according to Aaron Regberg , a geomicrobiologist at NASA’s Johnson Space Center in Houston.
+
+[8.0] “I would have expected these microbes to have dried out,” said Regberg, who studies space station bacteria and was a co-author on the paper.
+
+[9.0] He pointed out that NASA often bakes robotic spacecraft at temperatures above 400 degrees Fahrenheit to reduce the number of living organisms on them.
+[9.1] But that’s not possible with astronauts, so contamination concerns take on new meaning in crewed exploration of the Moon’s south polar environment.
+
+[10.0] A clearer picture of where microbes might survive comes from understanding how sunlight behaves at the poles.
+[10.1] Survival in this study means the microbe can stay alive for at least one Earth day, which does not mean that it can grow and reproduce.
+
+[11.0] Because the Moon has a very small tilt on its axis, the view from its poles is of a Sun that appears to hover just above the horizon, skimming the surface like a flashlight laying on a table.
+[11.1] As a result, elevated parts of the surface, including crater ridges, mountains, and even small bumps, block light from reaching low-lying terrain.
+[11.2] This produces pockets of shadowed areas that can remain cold and preserve water, as well as shield fragile molecules and possible microorganisms from lethal radiation.
+
+[12.0] With that scientific context in mind, the team set out to test which Earth microbes could survive extreme polar conditions.
+[12.1] They focused on organisms commonly found in spaceflight environments and those common on human skin.
+[12.2] Besides Aspergillus niger, these included Bacillus subtilis, Staphylococcus aureus, Deinococcus radiodurans, and several species of Fusarium.
+[12.3] Based on an analysis of previous studies, the scientists noted the maximum amount of heat and ultraviolet (UV) radiation each organism can withstand.
+
+[13.0] Then, the organisms were tested in simulations of three regions near the lunar South Pole — Nobile Rim, Connecting Ridge, and De Gerlache Rim.
+[13.1] Those simulations used detailed environmental maps built from elevation and temperature data collected by instruments aboard NASA’s Lunar Reconnaissance Orbiter , combined with models of how radiation strikes the surface.
+
+[14.0] The models showed maps of “survivable niches” that range in size from a miles-wide crater floor to an astronaut’s boot print.
+[14.1] Aspergillus niger, which was most resistant to UV radiation, was able to survive even in areas with some sunlight exposure.
+[14.2] UV radiation is so deadly to most microbes that it’s used for sterilization in hospitals.
+
+[15.0] “When we think of the Moon, we don’t typically think of biology,” said Heather Graham , a paper co-author at NASA Goddard who helps develop tools and techniques for detecting biology that may look nothing like Earth’s.
+[15.1] “But the Moon is a place where a cell can survive, so our first exploration of these sites should pay extra attention to our microbial hitchhikers and work hard to characterize lunar chemistry before our visits change what we will find.”
+
+[16.0] The authors note that while some microbes can survive in a dormant state in regions around the South Pole, and thereby confuse some future scientific investigations, there is no evidence the Moon has key ingredients to sustain growth and replication.
+[16.1] Such ingredients include liquid water, which typically requires an atmosphere and moderate temperatures.
+
+[17.0] Each year, observers around the world come together to celebrate Earth’s Moon through direct observations, hands-on activities, lunar-themed music, artwork, readings, and more.
+
+[18.0] From lighting up our skies to preserving evidence of our solar system’s history, Earth’s closest neighbor plays a pivotal role in the study of our planet and beyond.
+
+[19.0] Shekhtman helps communicate NASA planetary science to the world through news and feature stories on NASA.gov, videos for NASA+ and YouTube, and by working with the media.
+[19.1] She reports on lunar and Mars science and exploration; NASA’s search for life; missions to Venus, Titan, and Jupiter’s Trojan asteroids; and many other topics related to NASA’s exploration of our solar system and beyond.
+

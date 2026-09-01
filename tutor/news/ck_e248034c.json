@@ -1,0 +1,90 @@
+{
+ "e248034c|0.0": [
+  {"t":"who","q":"<b>features a puzzling satellite image</b> — 사진을 골라 싣는 쪽은 무엇입니까?","a":"NASA Earth Observatory(NASA 지구관측소)입니다","tip":"features 를 명사 '특징'으로 읽으면 동사가 사라져 '~의 특징'이라는 엉뚱한 덩어리가 됩니다. 여기서는 '(특별히) 다루다·싣다'라는 동사입니다."},
+  {"t":"time","q":"<b>Every month</b> 와 <b>features</b> — 이것은 이번 한 번만 하는 일입니까?","a":"아니요 — 매달 되풀이하는 일입니다","tip":"현재시제는 '지금 하고 있다'가 아니라 '늘 그렇게 한다'는 뜻으로 자주 쓰입니다."},
+  {"t":"mod","q":"<b>a puzzling satellite image</b> — puzzling 은 그 사진이 어떻다는 뜻입니까?","a":"보는 사람을 헷갈리게 만드는(어디인지 알기 어려운) 사진이라는 뜻입니다","tip":"-ing 는 '헷갈리게 만드는' 쪽, -ed(puzzled)는 '헷갈려 하는' 쪽입니다. 사진이 헷갈려 하는 것이 아닙니다."}
+ ],
+ "e248034c|0.1": [
+  {"t":"mod","q":"<b>The September 2026 puzzler</b> 는 무엇을 가리킵니까?","a":"2026년 9월치로 낸 이번 달 퍼즐 문제, 곧 위에 실린 그 위성 사진입니다","tip":"September 2026 은 뒤의 puzzler 를 꾸미는 말입니다. '9월에 답을 낸다'는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>appears above</b> 의 above 는 무엇을 뜻합니까?","a":"이 글보다 위쪽, 곧 페이지 위에 사진이 실려 있는 자리입니다","tip":"above 를 '앞에서 말했듯이'로 읽기 쉽지만 여기서는 화면상의 위치입니다."},
+  {"t":"time","q":"<b>appears</b> — 그 사진은 이미 올라와 있습니까, 앞으로 올라옵니까?","a":"이미 올라와 있습니다(현재시제)","tip":"will 이 없습니다. 지금 바로 볼 수 있는 상태라는 뜻입니다."}
+ ],
+ "e248034c|1.0": [
+  {"t":"who","q":"<b>I dentify the location</b> — 장소를 알아내야 하는 쪽은 누구입니까?","a":"이 글을 읽는 독자, 곧 당신입니다(주어 you 가 생략된 명령문)","tip":"여기 I 는 '나'가 아니라 Identify 가 잘못 띄어진 것입니다. 글쓴이가 하는 일로 읽으면 주체가 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>shown in this satellite image</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the location — 그 사진에 나와 있는 장소라는 뜻입니다","tip":"shown 을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 명령문의 (I)dentify 하나뿐입니다."},
+  {"t":"pron","q":"<b>this satellite image</b> 는 어느 사진입니까?","a":"앞에서 '위에 나와 있다'고 한 이번 달 퍼즐 사진입니다","tip":"this 는 새로 나온 다른 사진이 아니라 앞에서 이미 말한 그 사진을 가리킵니다."}
+ ],
+ "e248034c|1.1": [
+  {"t":"pron","q":"<b>where you think it is</b> 의 it 은 무엇을 가리킵니까?","a":"사진에 찍힌 그 장소입니다","tip":"사진 자체로 읽기 쉽지만, '어디에 있는지'를 묻는 것이므로 장소입니다."},
+  {"t":"who","q":"<b>what makes this place interesting or unique to you</b> — 여기서 makes 의 주어는 무엇입니까?","a":"what(무엇이)입니다 — '무엇이 이곳을 흥미롭게 만드는가'라는 뜻입니다","tip":"this place 를 주어로 잡으면 '이곳이 무언가를 만든다'가 되어 뜻이 어긋납니다."},
+  {"t":"mod","q":"<b>Share</b> 뒤에 이어지는 '알려 달라'는 내용은 몇 덩어리입니까?","a":"세 덩어리입니다 — what clues you see / where you think it is / what makes this place interesting or unique to you","tip":"and 는 마지막 셋째를 앞의 둘에 묶어 줍니다. 세 가지 모두 Share 의 대상입니다."}
+ ],
+ "e248034c|2.0": [
+  {"t":"who","q":"<b>Submit your response using this form</b> — 제출하는 쪽은 누구입니까?","a":"이 글을 읽는 독자(당신)입니다. 주어 you 가 생략된 명령문입니다","tip":"바로 앞의 How to Answer 는 소제목일 뿐 주어가 아닙니다."},
+  {"t":"mod","q":"<b>using this form</b> 은 무엇을 설명하는 말입니까?","a":"제출하는 방법입니다 — 이 양식을 이용해 답변을 보내라는 뜻입니다","tip":"your response 에 붙여 '이 양식을 쓰는 당신의 답변'으로 읽으면 어색해집니다. Submit 에 걸리는 말입니다."},
+  {"t":"mod","q":"<b>select “Puzzler Answer” as the topic</b> — “Puzzler Answer”는 무엇으로 고르라는 것입니까?","a":"양식의 주제(topic) 항목에서 고를 값입니다","tip":"as 는 '~로서'라는 뜻입니다. 답변 제목을 그렇게 쓰라는 말이 아니라 주제란에서 그 항목을 선택하라는 뜻입니다."}
+ ],
+ "e248034c|2.1": [
+  {"t":"who","q":"<b>Please include</b> — 이름을 적어 넣어야 하는 쪽은 누구입니까?","a":"답을 보내는 독자(당신)입니다","tip":"Please + 동사원형은 정중한 명령문이라 주어 you 가 보이지 않습니다."},
+  {"t":"mod","q":"<b>your preferred name or alias</b> — preferred 가 꾸미는 말은 무엇입니까?","a":"name 입니다 — '당신이 불리기를 원하는 이름', 그리고 or 로 alias(본명 대신 쓰는 별명)와 둘 중 하나를 뜻합니다","tip":"'선호되는'이라는 수동의 뜻이라, 고르는 쪽은 NASA가 아니라 당신입니다."}
+ ],
+ "e248034c|3.0": [
+  {"t":"pron","q":"<b>You can keep it simple</b> 의 it 은 무엇을 가리킵니까?","a":"당신이 보낼 답변입니다","tip":"사진이나 문제로 읽기 쉽지만, 간단하게 해도 되는 것은 당신의 답변입니다."},
+  {"t":"mod","q":"<b>and just guess the location</b> — 이 부분은 앞의 무엇에 걸립니까?","a":"can 에 걸립니다 — '그냥 장소만 맞혀 봐도 된다'는 뜻입니다","tip":"and 뒤에 can 이 다시 나오지 않아 명령문으로 읽기 쉽습니다. '반드시 맞혀라'가 아니라 '그래도 된다'입니다."},
+  {"t":"who","q":"<b>You</b> 는 누구를 가리킵니까?","a":"이 글을 읽는 독자, 곧 답을 보낼 사람입니다","tip":"이 기사에서는 NASA 쪽을 we, 독자를 you 로 계속 나누어 부릅니다."}
+ ],
+ "e248034c|3.1": [
+  {"t":"who","q":"<b>Want to impress us?</b> — 감탄하게 만들고 싶어 하는 쪽은 누구입니까?","a":"독자(당신)입니다. 앞의 Do you 가 빠진 구어체 의문문입니다","tip":"주어가 안 보인다고 글쓴이가 하고 싶어 하는 일로 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>us</b> 는 누구를 가리킵니까?","a":"이 글을 쓴 NASA Earth Observatory 쪽입니다","tip":"앞뒤 문장의 we 와 같은 쪽입니다. 독자는 you 로 구분됩니다."}
+ ],
+ "e248034c|3.2": [
+  {"t":"who","q":"<b>which satellite and instrument captured the image</b> — 찍은 쪽과 찍힌 것은 각각 무엇입니까?","a":"찍은 쪽은 위성과 관측 장비(instrument), 찍힌 것은 그 사진(the image)입니다","tip":"captured 의 주어는 which satellite and instrument 입니다. 방향을 뒤집으면 사진이 위성을 찍은 것이 됩니다."},
+  {"t":"who","q":"<b>which spectral bands were used</b> — 그 대역을 사용한 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 쓰인 것은 spectral bands 입니다","tip":"were used 는 '썼다'가 아니라 '쓰였다'입니다. 앞의 satellite 를 사용 주체로 끌어다 붙이지 마세요."},
+  {"t":"mod","q":"<b>or point out a subtle detail</b> 은 무엇과 나란히 놓인 말입니까?","a":"맨 앞의 Tell 과 나란한 또 하나의 명령문입니다 — '알려 주거나, 아니면 짚어 달라'는 뜻입니다","tip":"which 절에 딸린 말로 읽기 쉽지만, or 이 잇는 것은 Tell 과 point out 두 개의 명령입니다."},
+  {"t":"mod","q":"<b>about the geology or history of the area</b> 는 무엇을 꾸미는 말입니까?","a":"바로 앞의 a subtle detail 입니다 — 그 지역의 지질이나 역사에 관한 사실 하나라는 뜻입니다","tip":"the area 는 사진에 찍힌 그 지역을 말합니다. detail 이 무엇에 관한 것인지를 밝히는 말입니다."}
+ ],
+ "e248034c|3.3": [
+  {"t":"pron","q":"<b>if this is your home</b> 의 this 는 무엇을 가리킵니까?","a":"사진에 찍힌 그 장소입니다","tip":"앞 문장들의 사진이나 문제로 읽기 쉽지만, '당신이 사는 곳'이 될 수 있는 것은 장소입니다."},
+  {"t":"mod","q":"<b>or means something to you</b> — 이 동사의 주어는 무엇입니까?","a":"this(그 장소)입니다. or 이 잇는 것은 is 와 means 두 동사입니다","tip":"바로 앞의 your home 을 주어로 붙여 읽으면 '당신의 집이 의미를 가진다'가 되어 어긋납니다."},
+  {"t":"who","q":"<b>we’d love to hear about it</b> — 듣고 싶어 하는 쪽은 누구입니까?","a":"글쓴이 쪽, 곧 NASA Earth Observatory 입니다","tip":"조건절의 주인공은 you, 주절의 주인공은 we 로 서로 다릅니다."},
+  {"t":"pron","q":"<b>hear about it</b> 의 it 은 무엇을 가리킵니까?","a":"앞의 if 절에서 말한 것 — 당신 눈에 띈 것, 또는 그곳이 당신에게 갖는 의미입니다","tip":"사진 전체가 아니라 방금 조건으로 든 그 사연을 받습니다."}
+ ],
+ "e248034c|4.0": [
+  {"t":"neg","q":"<b>We can’t offer prize money or a trip to space</b> — 상금과 우주여행 중 줄 수 있는 것이 있습니까?","a":"없습니다 — 둘 다 줄 수 없습니다","tip":"부정문에서 or 은 '둘 다 아니다'가 됩니다. '상금은 못 주지만 여행은 준다'로 읽으면 정반대입니다."},
+  {"t":"mod","q":"<b>to see Earth</b> 는 무엇에 붙는 말입니까?","a":"바로 앞의 a trip to space — 지구를 보러 가는 우주여행이라는 뜻입니다","tip":"offer 에 붙여 '보여 주기 위해 제공한다'로 읽으면 어색해집니다. 여행의 목적입니다."},
+  {"t":"who","q":"<b>like satellites and astronauts do</b> — 여기서 do 가 대신하는 동작은 무엇이고, 그렇게 하는 쪽은 누구입니까?","a":"do 는 앞의 see Earth 를 대신하며, 그렇게 보는 쪽은 위성과 우주비행사입니다","tip":"do 를 '하다'라는 다른 동작으로 읽지 마세요. 앞의 동사를 그대로 받는 말입니다."},
+  {"t":"pron","q":"<b>We</b> 는 누구를 가리킵니까?","a":"이 글을 쓴 NASA Earth Observatory 쪽입니다","tip":"독자까지 포함한 '우리'가 아닙니다. 이 기사에서 독자는 you 로 부릅니다."}
+ ],
+ "e248034c|4.1": [
+  {"t":"neg","q":"<b>But we can offer something almost as rewarding</b> — 이 문장은 줄 수 있다는 말입니까, 없다는 말입니까?","a":"줄 수 있다는 말입니다 — 앞 문장의 can’t 와 반대입니다","tip":"But 과 can 을 놓치면 앞 문장에 끌려 '이것도 못 준다'로 뒤집어 읽게 됩니다."},
+  {"t":"mod","q":"<b>almost as rewarding</b> 은 무엇을 꾸미는 말입니까?","a":"앞의 something 입니다 — '(그것에) 거의 못지않게 보람 있는 것'이라는 뜻입니다","tip":"as … as 의 뒤쪽 비교 대상이 생략돼 있습니다. 앞 문장에서 못 준다고 한 상금·우주여행과 견주는 것입니다."},
+  {"t":"mod","q":"<b>puzzler bragging rights</b> 는 이 문장에서 무엇을 밝히는 말입니까?","a":"콜론 앞의 something 의 정체입니다 — 퍼즐을 맞혔다고 자랑할 수 있는 권리","tip":"콜론(:)은 '즉, 다시 말해'라는 표시입니다. 목적어가 하나 더 생긴 것이 아닙니다."}
+ ],
+ "e248034c|5.0": [
+  {"t":"time","q":"<b>About a week after the challenge</b> — 정답은 이미 올라와 있습니까?","a":"아니요 — 문제를 낸 뒤 약 일주일이 지나야 올립니다(we’ll)","tip":"기준점은 이번 문제를 낸 때입니다. 이미 공개된 답을 찾으려 하면 헛수고입니다."},
+  {"t":"mod","q":"<b>that explains the image in more detail</b> 은 무엇을 설명하는 말입니까?","a":"바로 앞의 story(Image of the Day 기사)입니다","tip":"link 나 page 에 붙여 읽기 쉽습니다. 사진을 더 자세히 설명해 주는 것은 그 기사입니다."},
+  {"t":"mod","q":"<b>at the top of this page</b> 는 무엇이 놓일 자리입니까?","a":"정답(the answer)이 올라올 자리입니다","tip":"link 나 challenge 의 위치로 읽지 않도록 하세요. post 하는 곳을 말합니다."},
+  {"t":"pron","q":"<b>this page</b> 는 어디를 가리킵니까?","a":"지금 읽고 있는 이 퍼즐 문제 페이지입니다","tip":"링크로 이어지는 Image of the Day 기사 쪽이 아닙니다."}
+ ],
+ "e248034c|5.1": [
+  {"t":"mod","q":"<b>who correctly guesses the location</b> 은 누구를 설명하는 말입니까?","a":"앞의 the first person — 그 장소를 정확히 맞힌 첫 번째 사람입니다","tip":"who 를 '누구?'라는 의문사로 읽지 마세요. 앞 명사를 설명하는 이음말입니다."},
+  {"t":"mod","q":"<b>who share especially thoughtful or interesting answers</b> 는 누구를 설명하는 말입니까?","a":"앞의 readers — 특히 생각이 깊거나 흥미로운 답을 보낸 독자들입니다","tip":"한 문장에 who 절이 두 번 나옵니다. 각각 바로 앞의 명사에 붙습니다."},
+  {"t":"who","q":"<b>We’ll recognize the first person</b> — 맞히는 쪽과 그 사람을 알려 주는 쪽은 각각 누구입니까?","a":"맞히는 쪽은 독자(the first person), 알려 주는 쪽은 We(NASA Earth Observatory)입니다","tip":"recognize 는 '알아보다'보다 '공로를 인정해 이름을 밝히다'에 가깝습니다."},
+  {"t":"time","q":"<b>we may also highlight readers</b> — 이것은 반드시 하기로 정해진 일입니까?","a":"아니요 — 그렇게 할 수도 있다는 말입니다(may)","tip":"앞의 will(할 것이다)과 뒤의 may(할 수도 있다)는 확정 정도가 다릅니다. 한 문장에 둘이 같이 있습니다."}
+ ],
+ "e248034c|5.2": [
+  {"t":"who","q":"<b>may be edited, excerpted, and published</b> — 편집하고 싣는 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 편집·발췌·게재를 당하는 쪽은 your comments 입니다","tip":"you 를 행위자로 읽으면 '당신이 편집한다'가 되어 뜻이 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>excerpted, and published on this page</b> — 이 두 낱말은 앞의 무엇에 걸립니까?","a":"may be 에 걸립니다 — 편집될 수도, 일부만 발췌될 수도, 이 페이지에 실릴 수도 있다는 뜻입니다","tip":"may be 는 한 번만 나오지만 세 낱말 모두에 걸립니다."},
+  {"t":"time","q":"<b>By submitting a response, you acknowledge</b> — 동의는 언제 이루어집니까?","a":"답변을 보내는 그 순간입니다 — 따로 동의 절차를 밟는 것이 아닙니다","tip":"By -ing 는 '~함으로써'입니다. '동의한 다음에 보내라'는 순서가 아닙니다."},
+  {"t":"who","q":"<b>By submitting a response</b> — 답변을 보내는 쪽은 누구입니까?","a":"독자(you)입니다","tip":"By -ing 의 주체는 주절의 주어와 같습니다. 여기서는 you 입니다."}
+ ],
+ "e248034c|6.0": [
+  {"t":"pron","q":"<b>Until then</b> 의 then 은 언제를 가리킵니까?","a":"앞 문장에서 말한 때 — 약 일주일 뒤 정답을 올리는 시점입니다","tip":"then 은 앞에서 말한 시점을 그대로 받습니다. 막연한 '그때'가 아닙니다."},
+  {"t":"who","q":"<b>zoom in, look closely,</b> — 이렇게 하라는 대상은 누구입니까?","a":"이 글을 읽는 독자(당신)입니다. 주어가 생략된 명령문입니다","tip":"we 가 하는 일로 읽지 않도록 하세요. 동사원형으로 시작하면 명령문입니다."},
+  {"t":"pron","q":"<b>enjoy the challenge</b> 의 the challenge 는 무엇을 가리킵니까?","a":"이번 달 사진의 장소를 알아맞히는 그 문제입니다","tip":"'도전하다'라는 동작이 아니라, 앞에서 Your Challenge 라고 한 그 문제 자체입니다."}
+ ],
+ "e248034c|6.1": [
+  {"t":"who","q":"<b>See you at the reveal!</b> — 인사를 건네는 쪽과 you 는 각각 누구입니까?","a":"인사하는 쪽은 글쓴이(NASA Earth Observatory), you 는 이 글을 읽는 독자입니다","tip":"주어가 빠진 작별 인사입니다. '(우리가) 그때 봅시다'라는 뜻입니다."},
+  {"t":"time","q":"<b>at the reveal</b> 는 언제를 뜻합니까?","a":"정답을 공개하는 때 — 약 일주일 뒤입니다","tip":"reveal 이 동사 '드러내다'가 아니라 명사 '공개'로 쓰였습니다. 앞에 the 가 붙은 것이 신호입니다."}
+ ]
+}

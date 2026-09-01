@@ -1,0 +1,41 @@
+{
+ "406caeee|0.0": [
+  {"t":"who","q":"<b>Turkey will sign the Artemis Accords</b> — 서명하는 쪽은 어디입니까?","a":"튀르키예입니다. NASA는 서명하는 쪽이 아니라 행사 장소(NASA 본부)를 내주는 쪽입니다","tip":"NASA가 문장 안에 또 나오고 기사도 NASA가 낸 것이라 NASA가 서명한다고 읽기 쉽습니다. 주어는 Turkey 하나뿐입니다."},
+  {"t":"who","q":"<b>becoming the 71st country signatory</b> — 71번째 서명국이 되는 것은 누구입니까?","a":"튀르키예입니다","tip":"-ing 로 시작하는 분사구문의 주체는 문장의 주어입니다. 바로 앞의 Washington 이나 NASA Headquarters 에 붙이면 안 됩니다."},
+  {"t":"time","q":"<b>will sign</b> — 서명은 이미 끝난 일입니까, 앞으로 할 일입니까?","a":"앞으로 할 일입니다 — 8월 31일에 할 예정입니다","tip":"will 이 붙으면 아직 하지 않은 일입니다. 기사 제목이 '초청'이라는 점도 아직 열리지 않았다는 신호입니다."},
+  {"t":"mod","q":"<b>at 2:30 p.m. EDT Monday, Aug. 31,</b> 는 무엇을 알려 주는 말입니까?","a":"바로 앞 a ceremony(그 행사)가 열리는 시각과 날짜입니다 — 8월 31일 월요일 오후 2시 30분","tip":"EDT 는 미국 동부 하절기 시간(Eastern Daylight Time)을 가리키는 시간대 표시입니다. 뒤에 나오는 at NASA Headquarters 는 장소이므로 at 이 둘 다 장소는 아닙니다."}
+ ],
+ "406caeee|1.0": [
+  {"t":"who","q":"<b>will host</b> — 맞이하는 쪽과 맞이받는 쪽은 각각 누구입니까?","a":"맞이하는 쪽은 NASA 국장 재러드 아이작먼, 맞이받는 쪽은 튀르키예 장관 메흐메트 파티흐 카즈르입니다","tip":"host 는 '주최하여 맞이하다'입니다. 방향을 뒤집으면 튀르키예가 NASA를 초대한 것이 되어 뜻이 반대가 됩니다."},
+  {"t":"mod","q":"<b>Turkish Minister of Industry and Technology Mehmet Fatih Kacır</b> — 여기 나오는 사람은 몇 명입니까?","a":"한 명입니다 — 직함(튀르키예 산업기술부 장관)과 이름(메흐메트 파티흐 카즈르)이 같은 사람을 가리킵니다","tip":"영어는 긴 직함을 이름 앞에 쉼표 없이 그대로 붙입니다. 장관과 이름을 다른 두 사람으로 세기 쉽습니다."},
+  {"t":"mod","q":"<b>NASA Administrator Jared Isaacman</b> 에서 NASA Administrator 는 무엇을 나타냅니까?","a":"재러드 아이작먼의 직함(NASA 국장)입니다 — 같은 한 사람을 직함과 이름으로 두 번 말한 것입니다","tip":"'NASA와 아이작먼'처럼 둘로 갈라 읽으면 주어가 흐트러집니다. and 가 없으면 나열이 아닙니다."},
+  {"t":"time","q":"<b>together with U.S.</b> — 문장이 왜 여기서 끝나 보입니까?","a":"U.S. 의 마침표를 문장 끝으로 잘못 끊은 것이며, 뜻은 다음 문장 Department of State officials 로 이어집니다","tip":"U.S. 처럼 마침표가 든 줄임말은 문장 끝처럼 보입니다. 여기서 뜻을 닫아 버리면 '미국과 함께'로 잘못 읽게 됩니다."}
+ ],
+ "406caeee|1.1": [
+  {"t":"mod","q":"<b>Department of State officials.</b> 는 어느 나라의 부처를 말합니까?","a":"미국입니다 — 앞 문장 끝의 U.S. 가 여기에 붙어 U.S. Department of State(미국 국무부)가 됩니다","tip":"이 줄만 보면 어느 나라인지 알 수 없습니다. 앞 문장의 마지막 U.S. 와 이어 읽어야 합니다."},
+  {"t":"who","q":"<b>Department of State officials.</b> — 이들은 약정에 서명하는 쪽입니까, 자리를 함께하는 쪽입니까?","a":"자리를 함께하는 쪽입니다 — 앞 문장의 together with 에 걸립니다. 서명하는 쪽은 튀르키예입니다","tip":"미국 쪽 인사가 나오니 미국이 서명한다고 읽기 쉽습니다. 미국은 2020년에 이미 창립국이었습니다."},
+  {"t":"mod","q":"<b>officials</b> 는 이 줄에서 어떤 말입니까?","a":"명사구의 중심어(관계자들)이며, 앞의 Department of State 가 그것을 꾸밉니다","tip":"이 줄에는 동사가 없습니다. officials 를 동사로 보려 하면 뜻이 만들어지지 않습니다."}
+ ],
+ "406caeee|2.0": [
+  {"t":"pron","q":"<b>This event</b> 는 무엇을 가리킵니까?","a":"앞에서 말한 튀르키예의 아르테미스 약정 서명식입니다","tip":"This 는 새로 나온 다른 행사가 아니라 앞에서 이미 말한 그 행사를 받습니다."},
+  {"t":"mod","q":"<b>in person only.</b> 는 무슨 뜻입니까?","a":"직접 현장에 와서 참석하는 방식으로만 진행된다는 뜻입니다","tip":"in person 은 '사람 안에'가 아니라 '직접, 대면으로'라는 굳어진 표현입니다."},
+  {"t":"mod","q":"<b>only</b> 는 무엇을 한정하는 말입니까?","a":"바로 앞의 in person(직접 참석)입니다 — 참석 방법이 그것 하나뿐이라는 뜻입니다","tip":"'이 행사만 열린다'처럼 event 에 걸어 읽으면 한정 대상이 바뀝니다. only 는 앞말 in person 에 붙습니다."}
+ ],
+ "406caeee|2.2": [
+  {"t":"mod","q":"<b>NASA’s media accreditation policy</b> 는 무엇에 관한 규정입니까?","a":"언론(media)의 취재 등록(accreditation)에 관한 NASA의 규정입니다","tip":"명사가 넷이 겹쳐 붙어 있습니다. 중심어는 맨 뒤 policy 이고, 앞의 셋이 차례로 그것을 꾸밉니다."},
+  {"t":"mod","q":"<b>NASA’s media accreditation policy is online.</b> — 온라인에 있는 것은 무엇입니까?","a":"그 규정입니다 — 규정이 인터넷에 공개되어 있다는 뜻입니다","tip":"'등록을 온라인으로 한다'로 읽기 쉽지만, 문장의 주어는 policy(규정)입니다."},
+  {"t":"time","q":"<b>is online</b> — 규정은 앞으로 올릴 예정입니까, 지금 이미 올라와 있습니까?","a":"지금 이미 올라와 있습니다 — 현재형 is 입니다","tip":"will 이나 미래를 나타내는 말이 없습니다. 현재형은 지금 그러하다는 뜻입니다."}
+ ],
+ "406caeee|3.0": [
+  {"t":"who","q":"<b>led by NASA and the State Department,</b> — 이끈 쪽과 이끌린 쪽은 각각 어디입니까?","a":"이끈 쪽은 NASA와 (미국) 국무부, 이끌린 쪽은 바로 앞의 the United States(미국)입니다","tip":"led 를 문장의 동사로 읽으면 '미국이 NASA를 이끌었다'로 뒤집힙니다. by 가 붙은 쪽이 이끈 쪽입니다."},
+  {"t":"who","q":"<b>joined with seven other founding nations</b> — 약정을 만든 창립국은 모두 몇 나라입니까?","a":"여덟 나라입니다 — 미국과 그 밖의 일곱 나라","tip":"other 가 있으므로 seven other 는 '미국 말고 다른 일곱'입니다. 일곱 나라로 세면 미국이 빠집니다."},
+  {"t":"time","q":"<b>joined</b> — 이 일은 앞으로 할 일입니까, 이미 일어난 일입니까?","a":"이미 일어난 일입니다 — 2020년에 있었던 과거의 일입니다","tip":"앞 문단의 will sign(앞으로 할 서명)과 시점이 다릅니다. 이 문단은 약정이 처음 만들어진 때를 되짚는 대목입니다."},
+  {"t":"mod","q":"<b>both governments and private companies</b> 는 어느 두 쪽을 말합니까?","a":"정부와 민간 기업, 그 두 쪽 모두입니다","tip":"both A and B 는 '둘 중 하나'가 아니라 'A와 B 양쪽 다'입니다. 어느 한쪽만으로 읽으면 범위가 좁아집니다."}
+ ],
+ "406caeee|4.0": [
+  {"t":"mod","q":"<b>aimed at enhancing the safety, transparency, and coordination</b> 은 무엇을 설명하는 말입니까?","a":"앞의 the first set of practical principles(실질적 원칙들을 처음으로 묶은 것)입니다 — 그 원칙들이 무엇을 목표로 하는지 밝힙니다","tip":"aimed 를 두 번째 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 introduced 하나뿐입니다."},
+  {"t":"mod","q":"<b>of civil space exploration</b> — 안전성·투명성·협력은 무엇에 대한 것입니까?","a":"민간(군사용이 아닌) 우주 탐사에 대한 것입니다","tip":"civil 을 '시민의'로만 읽으면 뜻이 흐려집니다. 여기서는 군용과 구별되는 '민간의'입니다."},
+  {"t":"mod","q":"<b>on the Moon, Mars, and beyond.</b> 는 어디까지를 가리킵니까?","a":"달과 화성, 그리고 그 너머의 더 먼 우주까지입니다","tip":"beyond 는 '그 너머'로, 앞에 든 달·화성보다 더 먼 곳을 뜻합니다. 이 구절은 탐사가 이루어지는 범위를 밝힙니다."},
+  {"t":"time","q":"<b>introduced</b> — 이 원칙들은 앞으로 내놓을 것입니까, 이미 내놓은 것입니까?","a":"이미 내놓은 것입니다 — 과거형입니다","tip":"앞 문단에서 2020년에 약정이 만들어졌다고 했으므로, 원칙을 내놓은 것도 그때 일입니다."}
+ ]
+}

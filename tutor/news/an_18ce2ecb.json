@@ -1,0 +1,682 @@
+[
+ {
+  "id": "18ce2ecb|0.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {"en": "To view this video", "ko": "이 영상을 보려면", "r": "목적(~하려면)"},
+   {"en": "please enable JavaScript,", "ko": "자바스크립트를 켜 주세요", "r": "동사(명령문) + 목적어"},
+   {"en": "and consider upgrading", "ko": "그리고 바꾸는 것도 생각해 보세요", "r": "대등절(명령문)"},
+   {"en": "to a web browser", "ko": "웹 브라우저로", "r": "전치사구(무엇으로)"},
+   {"en": "that supports HTML5 video", "ko": "HTML5 영상을 지원하는", "r": "관계절(앞 명사 설명)"}
+  ],
+  "ko": "이 영상을 보시려면 자바스크립트(JavaScript)를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 바꾸는 것도 생각해 보세요.",
+  "why": "주어가 없는 명령문이라 맨 앞의 To view this video 를 주어로 착각하기 쉽다. 그것은 '이 영상을 보려면'이라는 조건일 뿐이고, 실제 지시는 enable(켜라)과 consider(생각해 보라) 둘이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|1.0",
+  "en": "Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional temperatures that shattered records in several countries.",
+  "s": "Western Europe",
+  "v": "got",
+  "chunks": [
+   {"en": "Western Europe got its first hint", "ko": "서유럽은 첫 조짐을 받았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of an unusual summer in May 2026,", "ko": "2026년 5월, 심상치 않은 여름이 오리라는", "r": "전치사구(무엇의 조짐) + 시간"},
+   {"en": "when a heat dome produced exceptional temperatures", "ko": "그때 열돔이 이례적인 고온을 만들어 냈고", "r": "관계절(앞 시점 설명)"},
+   {"en": "that shattered records in several countries.", "ko": "그 고온이 여러 나라에서 기록을 박살 냈다", "r": "관계절(앞 명사 설명)"}
+  ],
+  "ko": "서유럽은 2026년 5월에 심상치 않은 여름이 오리라는 첫 조짐을 받았다. 그때 열돔(heat dome, 뜨거운 공기가 뚜껑처럼 갇혀 머무는 현상)이 이례적인 고온을 만들어 냈고, 그 고온이 여러 나라에서 기록을 깨뜨렸다.",
+  "why": "in May 2026 뒤의 when 절은 그 시점에 무슨 일이 있었는지 설명하는 말이고, 그 안에 다시 that 관계절이 들어 있어 설명이 두 겹으로 이어진다. its first hint of an unusual summer 는 '심상치 않은 여름의 첫 조짐'이지 '첫 여름'이 아니다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|1.1",
+  "en": "Remarkable as it was, that early heat wave turned out to be only the opening salvo.",
+  "s": "that early heat wave",
+  "v": "turned out",
+  "chunks": [
+   {"en": "Remarkable as it was,", "ko": "그것은 놀라울 만한 것이었지만", "r": "부사절(양보: 비록 ~이지만)"},
+   {"en": "that early heat wave turned out to be", "ko": "그 이른 폭염은 알고 보니 ~이었다", "r": "주어 + 동사"},
+   {"en": "only the opening salvo.", "ko": "시작을 알리는 첫 포격에 지나지 않았다", "r": "보어"}
+  ],
+  "ko": "그 이른 폭염은 놀라울 만한 것이었지만, 알고 보니 시작을 알리는 첫 포격에 지나지 않았다.",
+  "why": "Remarkable as it was 의 as 는 '~처럼'이 아니라 '비록 ~이지만'이라는 양보 뜻이고, 형용사가 맨 앞으로 나온 뒤집힌 어순이다(= Although it was remarkable). turned out to be 는 '알고 보니 ~이었다'이며, only 가 붙어 값을 낮춰 말한다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|2.0",
+  "en": "By mid-August, Europeans were sweating through their fifth heat wave of the season, with the latest onslaught pushing temperatures well above 40 degrees Celsius (104 degrees Fahrenheit) across a broad area.",
+  "s": "Europeans",
+  "v": "were sweating",
+  "chunks": [
+   {"en": "By mid-August,", "ko": "8월 중순에 이르러서는", "r": "시간"},
+   {"en": "Europeans were sweating through", "ko": "유럽인들은 땀에 젖은 채 견디고 있었다", "r": "주어 + 동사"},
+   {"en": "their fifth heat wave of the season,", "ko": "그해 들어 다섯 번째 폭염을", "r": "목적어"},
+   {"en": "with the latest onslaught pushing temperatures", "ko": "가장 최근에 닥친 이 습격이 기온을 밀어 올리면서", "r": "부대상황(with + 명사 + -ing)"},
+   {"en": "well above 40 degrees Celsius (104 degrees Fahrenheit)", "ko": "섭씨 40도(화씨 104도)를 훨씬 넘는 수준까지", "r": "정도"},
+   {"en": "across a broad area.", "ko": "넓은 지역에 걸쳐", "r": "전치사구(범위)"}
+  ],
+  "ko": "8월 중순에 이르러 유럽인들은 그해 들어 다섯 번째 폭염을 땀에 젖은 채 견디고 있었다. 가장 최근에 닥친 이 폭염은 넓은 지역에 걸쳐 기온을 섭씨 40도(화씨 104도)를 훌쩍 넘는 수준까지 밀어 올렸다.",
+  "why": "with + 명사 + -ing 는 '~가 …하면서'라는 딸린 상황을 나타내는 형태라, pushing 을 문장의 동사로 보면 안 된다. 문장의 동사는 were sweating 하나뿐이다. well above 의 well 은 '잘'이 아니라 '훨씬'이라는 강조다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|2.1",
+  "en": "During these bouts of extreme weather, high temperatures were often unrelenting, persisting for several days and sometimes weeks on end, and remaining overnight.",
+  "s": "high temperatures",
+  "v": "were",
+  "chunks": [
+   {"en": "During these bouts of extreme weather,", "ko": "이런 극한 날씨가 몰아치는 동안", "r": "시간"},
+   {"en": "high temperatures were often unrelenting,", "ko": "높은 기온은 좀처럼 누그러지지 않는 때가 많았다", "r": "주어 + 동사 + 보어"},
+   {"en": "persisting for several days", "ko": "며칠씩 계속 이어지며", "r": "분사구문(부연)"},
+   {"en": "and sometimes weeks on end,", "ko": "때로는 몇 주를 내리", "r": "기간 나열"},
+   {"en": "and remaining overnight.", "ko": "그리고 밤새 그대로 남으며", "r": "분사구문(부연)"}
+  ],
+  "ko": "이런 극한 날씨가 몰아치는 동안, 높은 기온은 좀처럼 누그러지지 않는 때가 많았다. 며칠씩, 때로는 몇 주씩 내리 이어졌고 밤이 되어도 내려가지 않았다.",
+  "why": "unrelenting 은 '누그러지지 않는'이라는 뜻이라 낱말 안에 부정의 뜻이 들어 있다. 뒤의 persisting, remaining 은 새 문장의 동사가 아니라 앞 내용을 부연하는 분사구문이고, 그 주체는 high temperatures 다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|3.0",
+  "en": "For a region accustomed to relatively mild summers, the heat upended everyday life.",
+  "s": "the heat",
+  "v": "upended",
+  "chunks": [
+   {"en": "For a region", "ko": "어느 지역으로서는", "r": "전치사구(대상)"},
+   {"en": "accustomed to relatively mild summers,", "ko": "비교적 온화한 여름에 익숙한", "r": "형용사구(앞 명사 설명)"},
+   {"en": "the heat upended everyday life.", "ko": "이 더위가 일상생활을 완전히 뒤집어 놓았다", "r": "주어 + 동사 + 목적어"}
+  ],
+  "ko": "비교적 온화한 여름에 익숙한 지역으로서는, 이 더위가 일상생활을 완전히 뒤집어 놓았다.",
+  "why": "맨 앞 For a region ~ 은 주어가 아니라 '~에게는, ~로서는'이라는 배경이다. accustomed to ~ 는 앞의 a region 을 꾸미는 말이고, 진짜 주어와 동사는 쉼표 뒤의 the heat upended 다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|3.1",
+  "en": "Hospitalizations and heat-related deaths spiked .",
+  "s": "Hospitalizations and heat-related deaths",
+  "v": "spiked",
+  "chunks": [
+   {"en": "Hospitalizations and heat-related deaths", "ko": "입원 건수와 더위로 인한 사망이", "r": "주어(둘을 묶은 명사구)"},
+   {"en": "spiked .", "ko": "급격히 치솟았다", "r": "동사"}
+  ],
+  "ko": "입원 건수와 더위로 인한 사망이 급격히 늘었다.",
+  "why": "짧지만 주어가 둘(입원 건수, 더위 관련 사망)을 and 로 묶은 명사구다. spike 는 명사로는 '뾰족한 것'이지만 여기서는 동사로 '치솟다, 급증하다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|3.2",
+  "en": "Highways and train tracks buckled , forcing road closures and service disruptions .",
+  "s": "Highways and train tracks",
+  "v": "buckled",
+  "chunks": [
+   {"en": "Highways and train tracks buckled ,", "ko": "고속도로와 철로가 열을 받아 휘었고", "r": "주어 + 동사"},
+   {"en": "forcing road closures and service disruptions .", "ko": "그 결과 도로 통제와 운행 차질을 불러왔다", "r": "분사구문(결과)"}
+  ],
+  "ko": "고속도로와 철로가 열을 받아 휘어졌고, 그 때문에 도로가 통제되고 운행에 차질이 빚어졌다.",
+  "why": "buckle 은 '버클을 채우다'가 아니라 여기서는 '열을 받아 휘다, 뒤틀리다'라는 뜻이다. 뒤의 forcing ~ 은 앞의 일이 불러온 결과를 나타내는 분사구문이라 '~해서 …하게 만들었다'로 읽는다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|3.3",
+  "en": "Large and destructive wildfires raged in areas where they were once rarely seen.",
+  "s": "Large and destructive wildfires",
+  "v": "raged",
+  "chunks": [
+   {"en": "Large and destructive wildfires", "ko": "크고 파괴적인 산불이", "r": "주어"},
+   {"en": "raged in areas", "ko": "여러 지역에서 맹렬히 번졌다", "r": "동사 + 전치사구(장소)"},
+   {"en": "where they were once rarely seen.", "ko": "예전에는 산불이 좀처럼 보이지 않던", "r": "관계절(앞 areas 설명)"}
+  ],
+  "ko": "크고 파괴적인 산불이, 예전에는 좀처럼 산불을 보기 어려웠던 지역에서까지 맹렬히 번졌다.",
+  "why": "where 는 앞의 areas 를 설명하는 관계절이고, 그 안의 they 는 산불을 가리킨다. rarely 는 '좀처럼 ~않다'는 부정의 뜻이라, '예전에는 산불이 거의 없던 곳'이라는 말이 된다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|3.4",
+  "en": "The heat also worsened the severe drought that has gripped the region for months, contributing to record-low river water levels and disrupting water and power supplies, transportation routes, and agriculture.",
+  "s": "The heat",
+  "v": "worsened",
+  "chunks": [
+   {"en": "The heat also worsened the severe drought", "ko": "더위는 심각한 가뭄까지 더 악화시켰다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that has gripped the region for months,", "ko": "몇 달째 이 지역을 옥죄어 온", "r": "관계절(앞 명사 설명)"},
+   {"en": "contributing to record-low river water levels", "ko": "그리하여 강 수위가 역대 최저로 떨어지는 데 한몫했고", "r": "분사구문(결과)"},
+   {"en": "and disrupting water and power supplies,", "ko": "물과 전력 공급에 차질을 빚었으며", "r": "분사구문(결과)"},
+   {"en": "transportation routes, and agriculture.", "ko": "운송로와 농업에도 그랬다", "r": "차질을 빚은 대상 나열"}
+  ],
+  "ko": "더위는 몇 달째 이 지역을 옥죄어 온 심각한 가뭄까지 더 악화시켰다. 그 결과 강 수위가 역대 최저로 떨어지는 데 한몫했고, 물과 전력 공급, 운송로, 농업에 차질을 빚었다.",
+  "why": "문장의 동사는 worsened 하나뿐이고, 뒤의 contributing 과 disrupting 은 그 결과를 잇는 분사구문이다. that has gripped ~ 는 가뭄을 꾸미는 관계절이라, 더위가 가뭄을 새로 만든 것이 아니라 이미 몇 달째 이어지던 가뭄을 더 나쁘게 만들었다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|4.0",
+  "en": "The animation above shows the daily maximum surface air temperature across Western Europe from May 1 to August 19, 2026.",
+  "s": "The animation above",
+  "v": "shows",
+  "chunks": [
+   {"en": "The animation above shows", "ko": "위에 있는 애니메이션은 ~을 보여 준다", "r": "주어 + 동사"},
+   {"en": "the daily maximum surface air temperature", "ko": "하루 중 가장 높았던 지표 부근 기온을", "r": "목적어(긴 명사구)"},
+   {"en": "across Western Europe", "ko": "서유럽 전역에 걸쳐", "r": "전치사구(범위)"},
+   {"en": "from May 1 to August 19, 2026.", "ko": "2026년 5월 1일부터 8월 19일까지", "r": "시간(기간)"}
+  ],
+  "ko": "위의 애니메이션은 2026년 5월 1일부터 8월 19일까지 서유럽 전역의 일별 최고 지표 부근 기온을 보여 준다.",
+  "why": "the daily maximum surface air temperature 처럼 명사 앞에 꾸미는 말이 여러 겹 붙으면 뒤에서부터 '기온 ← 공기 ← 지표 ← 최고 ← 하루 단위' 순으로 푼다. above 는 여기서 전치사가 아니라 '위에 있는'이라는 뜻으로 앞의 animation 을 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|4.1",
+  "en": "It was produced by combining satellite observations with temperatures predicted by a version of NASA’s GEOS (Goddard Earth Observing System) global model, which uses mathematical equations to represent physical processes in the atmosphere.",
+  "s": "It",
+  "v": "was produced",
+  "chunks": [
+   {"en": "It was produced", "ko": "그것은 만들어졌다", "r": "주어 + 동사(수동태)"},
+   {"en": "by combining satellite observations", "ko": "위성 관측 자료를 합치는 방식으로", "r": "방법"},
+   {"en": "with temperatures predicted", "ko": "예측된 기온과", "r": "결합 대상 + 과거분사(앞 명사 설명)"},
+   {"en": "by a version of NASA’s GEOS (Goddard Earth Observing System) global model,", "ko": "NASA의 GEOS 전지구 모델의 한 판본이 예측한", "r": "행위자(예측한 쪽)"},
+   {"en": "which uses mathematical equations", "ko": "이 모델은 수학 방정식을 써서", "r": "관계절(앞 모델 설명)"},
+   {"en": "to represent physical processes in the atmosphere.", "ko": "대기에서 일어나는 물리 과정을 나타낸다", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "이 애니메이션은 위성 관측 자료와, NASA의 GEOS(Goddard Earth Observing System, 고더드 지구관측 시스템) 전지구 모델의 한 판본이 예측한 기온을 합쳐서 만들어졌다. 이 모델은 수학 방정식을 써서 대기에서 일어나는 물리 과정을 나타낸다.",
+  "why": "was produced 는 수동태라 '만들었다'가 아니라 '만들어졌다'이고 만든 주체는 문장에 없다. predicted 는 문장의 동사가 아니라 앞의 temperatures 를 꾸미는 과거분사이며, 그 뒤 by ~ model 이 예측한 쪽이다. 맨 뒤 which 는 바로 앞의 model 을 설명한다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|4.2",
+  "en": "The darkest red areas indicate where temperatures met or exceeded 40°C.",
+  "s": "The darkest red areas",
+  "v": "indicate",
+  "chunks": [
+   {"en": "The darkest red areas indicate", "ko": "가장 짙은 붉은색 지역은 ~을 나타낸다", "r": "주어 + 동사"},
+   {"en": "where temperatures met or exceeded 40°C.", "ko": "기온이 섭씨 40도에 이르렀거나 그것을 넘어선 곳을", "r": "목적어절"}
+  ],
+  "ko": "가장 짙은 붉은색으로 칠해진 지역은 기온이 섭씨 40도에 이르렀거나 그것을 넘어선 곳을 나타낸다.",
+  "why": "where 는 '어디에서'라는 장소 부사가 아니라 indicate 의 목적어 노릇을 하는 절이다. met or exceeded 는 '도달했거나 넘어섰다'라, 딱 40도인 곳도 이 색에 포함된다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|5.0",
+  "en": "The heat broke records at a furious pace, often by wide margins.",
+  "s": "The heat",
+  "v": "broke",
+  "chunks": [
+   {"en": "The heat broke records", "ko": "더위는 기록을 깨뜨렸다", "r": "주어 + 동사 + 목적어"},
+   {"en": "at a furious pace,", "ko": "무서운 속도로", "r": "전치사구(속도)"},
+   {"en": "often by wide margins.", "ko": "그것도 큰 차이로 깬 경우가 많았다", "r": "전치사구(차이의 폭)"}
+  ],
+  "ko": "더위는 무서운 속도로 기록을 갈아 치웠고, 그것도 큰 차이로 깨뜨린 경우가 많았다.",
+  "why": "break records 는 '기록을 깨다'라는 굳어진 표현이다. by wide margins 의 by 는 '~에 의해'가 아니라 '~만큼의 차이로'라는 뜻이라, 종전 기록을 아슬아슬하게가 아니라 큰 폭으로 넘어섰다는 말이 된다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|5.1",
+  "en": "According to the UK Met Office , temperatures soared as high as 35.1°C (95.2°F) in London on May 26, smashing the previous May record by 2.3°C (4.1°F).",
+  "s": "temperatures",
+  "v": "soared",
+  "chunks": [
+   {"en": "According to the UK Met Office ,", "ko": "영국 기상청에 따르면", "r": "출처"},
+   {"en": "temperatures soared as high as 35.1°C (95.2°F)", "ko": "기온이 섭씨 35.1도(화씨 95.2도)까지 치솟았다", "r": "주어 + 동사 + 정도"},
+   {"en": "in London on May 26,", "ko": "5월 26일 런던에서", "r": "장소 + 시간"},
+   {"en": "smashing the previous May record", "ko": "종전의 5월 기록을 박살 내며", "r": "분사구문(결과)"},
+   {"en": "by 2.3°C (4.1°F).", "ko": "2.3도(화씨로는 4.1도) 차이로", "r": "전치사구(차이의 폭)"}
+  ],
+  "ko": "영국 기상청(UK Met Office)에 따르면, 5월 26일 런던의 기온은 섭씨 35.1도(화씨 95.2도)까지 치솟아 종전의 5월 최고 기록을 2.3도 차이로 갈아 치웠다.",
+  "why": "맨 앞 According to ~ 는 '누가 밝힌 것인가'를 알려 주는 말이지 주어가 아니다. 주어는 temperatures 다. 맨 뒤 by 2.3°C 는 기온이 2.3도였다는 말이 아니라 종전 기록보다 2.3도 더 높았다는 '차이'다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|5.2",
+  "en": "In June, Bordeaux, France, broke its maximum-temperature record on three consecutive days, hitting 42.5°C on June 24, Météo-France reported .",
+  "s": "Météo-France",
+  "v": "reported",
+  "chunks": [
+   {"en": "In June, Bordeaux, France,", "ko": "6월에 프랑스 보르도는", "r": "시간 + 주어(전해진 내용의 주어)"},
+   {"en": "broke its maximum-temperature record", "ko": "자기네 최고 기온 기록을 깼다", "r": "동사 + 목적어"},
+   {"en": "on three consecutive days,", "ko": "사흘 연속으로", "r": "시간"},
+   {"en": "hitting 42.5°C on June 24,", "ko": "6월 24일에는 42.5도까지 올라가며", "r": "분사구문(부연)"},
+   {"en": "Météo-France reported .", "ko": "메테오프랑스가 전했다", "r": "주절(누가 전했는가)"}
+  ],
+  "ko": "프랑스 기상청 메테오프랑스(Météo-France)에 따르면, 6월에 프랑스 보르도는 사흘 연속으로 최고 기온 기록을 갈아 치웠고 6월 24일에는 42.5도까지 올랐다.",
+  "why": "문장의 뼈대는 맨 끝의 Météo-France reported(메테오프랑스가 전했다)이고, 그 앞 전체가 전해진 내용이다. Bordeaux, France, 는 쉼표로 묶여 '프랑스의 보르도'라는 한 곳을 가리키지 두 곳을 나열한 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|5.3",
+  "en": "Slovakia, meanwhile, set new national records for both daytime and nighttime highs in August.",
+  "s": "Slovakia",
+  "v": "set",
+  "chunks": [
+   {"en": "Slovakia, meanwhile,", "ko": "한편 슬로바키아는", "r": "주어 + 삽입어"},
+   {"en": "set new national records", "ko": "새로운 전국 기록을 세웠다", "r": "동사 + 목적어"},
+   {"en": "for both daytime and nighttime highs", "ko": "낮 최고 기온과 밤 최고 기온 양쪽에서", "r": "전치사구(무엇의 기록인가)"},
+   {"en": "in August.", "ko": "8월에", "r": "시간"}
+  ],
+  "ko": "한편 슬로바키아는 8월에 낮 최고 기온과 밤 최고 기온 양쪽에서 새로운 전국 기록을 세웠다.",
+  "why": "쉼표로 끼어든 meanwhile 때문에 주어(Slovakia)와 동사(set)가 떨어져 있다. set 은 여기서 과거형으로 '세웠다'이고, highs 는 형용사가 아니라 '최고치'라는 명사다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|5.4",
+  "en": "Combined June and July temperatures in Western Europe were the highest on record, according to Europe’s Copernicus climate monitoring service.",
+  "s": "Combined June and July temperatures",
+  "v": "were",
+  "chunks": [
+   {"en": "Combined June and July temperatures", "ko": "6월과 7월을 합쳐 본 기온은", "r": "주어"},
+   {"en": "in Western Europe", "ko": "서유럽의", "r": "전치사구(범위)"},
+   {"en": "were the highest on record,", "ko": "관측 기록상 가장 높았다", "r": "동사 + 보어"},
+   {"en": "according to Europe’s Copernicus climate monitoring service.", "ko": "유럽의 코페르니쿠스 기후감시 서비스에 따르면", "r": "출처"}
+  ],
+  "ko": "유럽의 코페르니쿠스(Copernicus) 기후감시 서비스에 따르면, 서유럽에서 6월과 7월을 합쳐 본 기온은 관측 기록상 가장 높았다.",
+  "why": "Combined 는 문장의 동사가 아니라 뒤의 temperatures 를 꾸미는 말이라 '6월과 7월을 합쳐 본 기온'이라는 뜻이다. 이 문장의 동사는 were 하나다. on record 는 '기록에 남아 있는 것 가운데'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|6.0",
+  "en": "In Europe, extreme temperatures collided with several vulnerabilities, including limited access to air conditioning , high nighttime temperatures, and a lack of green space in some cities.",
+  "s": "extreme temperatures",
+  "v": "collided",
+  "chunks": [
+   {"en": "In Europe, extreme temperatures collided", "ko": "유럽에서는 극한의 기온이 맞부딪혔다", "r": "장소 + 주어 + 동사"},
+   {"en": "with several vulnerabilities,", "ko": "여러 취약점과", "r": "전치사구(무엇과 부딪혔는가)"},
+   {"en": "including limited access to air conditioning ,", "ko": "에어컨을 쓸 수 있는 여건이 부족하다는 점", "r": "예시(취약점 1)"},
+   {"en": "high nighttime temperatures,", "ko": "밤 기온이 높다는 점", "r": "예시(취약점 2)"},
+   {"en": "and a lack of green space in some cities.", "ko": "일부 도시에 녹지가 모자란다는 점 등이다", "r": "예시(취약점 3)"}
+  ],
+  "ko": "유럽에서는 극한의 기온이 여러 취약점과 맞부딪혔다. 에어컨을 쓸 수 있는 여건이 부족하다는 점, 밤 기온이 높다는 점, 일부 도시에 녹지가 모자란다는 점 등이다.",
+  "why": "including 뒤의 셋은 모두 앞에 나온 several vulnerabilities(여러 취약점)의 예다. limited access, a lack of 처럼 '부족하다'는 뜻이 명사 안에 숨어 있어, 이것들이 왜 약점인지 놓치기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|6.1",
+  "en": "The circumstances triggered not just discomfort but heat exhaustion and heatstroke in some cases.",
+  "s": "The circumstances",
+  "v": "triggered",
+  "chunks": [
+   {"en": "The circumstances triggered", "ko": "이런 상황은 ~을 불러왔다", "r": "주어 + 동사"},
+   {"en": "not just discomfort", "ko": "단순한 불쾌감만이 아니라", "r": "목적어 1"},
+   {"en": "but heat exhaustion and heatstroke", "ko": "열탈진과 열사병까지", "r": "목적어 2"},
+   {"en": "in some cases.", "ko": "경우에 따라서는", "r": "전치사구(범위)"}
+  ],
+  "ko": "이런 상황은 단순한 불쾌감만이 아니라, 경우에 따라서는 열탈진과 열사병까지 불러왔다.",
+  "why": "not just A but B 는 'A만이 아니라 B까지'라는 짝을 이루는 표현이다. not 만 보고 '불쾌감은 없었다'로 읽으면 뜻이 정반대가 된다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|6.2",
+  "en": "Preliminary reports suggest that heat may have been associated with 10,000 excess deaths , including thousands of people in the UK , France , Germany , and Belgium .",
+  "s": "Preliminary reports",
+  "v": "suggest",
+  "chunks": [
+   {"en": "Preliminary reports suggest", "ko": "예비 단계의 보고들은 ~임을 시사한다", "r": "주어 + 동사"},
+   {"en": "that heat may have been associated", "ko": "더위가 연관돼 있었을 수 있다고", "r": "목적어절(추측)"},
+   {"en": "with 10,000 excess deaths ,", "ko": "1만 명의 초과 사망과", "r": "전치사구(무엇과 연관되는가)"},
+   {"en": "including thousands of people in the UK , France , Germany , and Belgium .", "ko": "여기에는 영국, 프랑스, 독일, 벨기에의 수천 명이 포함된다", "r": "예시(포함 범위)"}
+  ],
+  "ko": "예비 단계의 보고들은 더위가 1만 명의 초과 사망과 연관돼 있었을 수 있다고 본다. 여기에는 영국, 프랑스, 독일, 벨기에의 수천 명이 포함된다.",
+  "why": "may have been associated 는 '연관됐을지도 모른다'는 추측이지 확정이 아니고, associated with 도 '원인이다'가 아니라 '관련이 있다'는 조심스러운 표현이다. excess deaths 는 평년보다 더 나온 사망, 곧 '초과 사망'을 말한다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|7.0",
+  "en": "“Air conditioning is an especially critical issue in Europe in the short term,” said Anamika Shreevastava, a researcher at New York University who studied urban heat islands as a postdoc at NASA’s Jet Propulsion Laboratory.",
+  "s": "Anamika Shreevastava",
+  "v": "said",
+  "chunks": [
+   {"en": "“Air conditioning is an especially critical issue", "ko": "“에어컨은 특히 중요한 문제입니다", "r": "인용문 주어 + 동사 + 보어"},
+   {"en": "in Europe in the short term,”", "ko": "유럽에서는, 단기적으로 보면”", "r": "장소 + 시간 범위"},
+   {"en": "said Anamika Shreevastava,", "ko": "라고 아나미카 슈리바스타바는 말했다", "r": "동사 + 주어(도치)"},
+   {"en": "a researcher at New York University", "ko": "뉴욕대학교 연구원인 그는", "r": "동격(앞 사람 설명)"},
+   {"en": "who studied urban heat islands", "ko": "도시 열섬 현상을 연구했다", "r": "관계절(앞 사람 설명)"},
+   {"en": "as a postdoc at NASA’s Jet Propulsion Laboratory.", "ko": "NASA 제트추진연구소에서 박사후연구원으로 있으면서", "r": "자격 + 장소"}
+  ],
+  "ko": "“단기적으로 보면 에어컨은 유럽에서 특히 중요한 문제입니다”라고 아나미카 슈리바스타바(Anamika Shreevastava)는 말했다. 그는 뉴욕대학교 연구원으로, 전에 NASA 제트추진연구소(Jet Propulsion Laboratory)에서 박사후연구원으로 있으면서 도시 열섬 현상을 연구했다.",
+  "why": "인용문 뒤의 said Anamika Shreevastava 는 주어와 동사가 뒤바뀐 도치다. 그 뒤 a researcher ~ 는 앞 사람의 신분을 밝히는 동격이고, who 이하는 그 사람을 설명하는 관계절이라 새로운 뼈대가 아니다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|7.1",
+  "en": "One of her goals was to produce thermal maps based on NASA data from missions like ECOSTRESS that city planners could use to make cities more resilient to heat waves.",
+  "s": "One of her goals",
+  "v": "was",
+  "chunks": [
+   {"en": "One of her goals was", "ko": "그의 목표 가운데 하나는 ~이었다", "r": "주어 + 동사"},
+   {"en": "to produce thermal maps", "ko": "열 지도를 만들어 내는 것", "r": "보어(to부정사)"},
+   {"en": "based on NASA data from missions like ECOSTRESS", "ko": "ECOSTRESS 같은 임무에서 얻은 NASA 자료를 바탕으로 한", "r": "과거분사구(앞 지도 설명)"},
+   {"en": "that city planners could use", "ko": "도시 계획가들이 쓸 수 있는", "r": "관계절(앞 지도 설명)"},
+   {"en": "to make cities more resilient to heat waves.", "ko": "도시가 폭염을 더 잘 견디게 만들기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "그의 목표 가운데 하나는, ECOSTRESS 같은 임무에서 얻은 NASA 자료를 바탕으로 한 열 지도를 만들어, 도시 계획가들이 그것을 써서 도시가 폭염을 더 잘 견디게 만들 수 있도록 하는 것이었다.",
+  "why": "that city planners could use 의 that 은 바로 앞의 ECOSTRESS 나 missions 가 아니라 멀리 떨어진 thermal maps 를 받는 관계절이다. based on ~ 도 지도가 무엇을 바탕으로 하는지 밝히는 말이고, 문장의 동사는 was 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|8.0",
+  "en": "International Energy Agency data show that 23 percent of homes in Europe have air conditioning, compared to 90 percent of homes in the United States.",
+  "s": "International Energy Agency data",
+  "v": "show",
+  "chunks": [
+   {"en": "International Energy Agency data show", "ko": "국제에너지기구의 자료는 ~을 보여 준다", "r": "주어 + 동사"},
+   {"en": "that 23 percent of homes in Europe have air conditioning,", "ko": "유럽 가정의 23퍼센트가 에어컨을 갖추고 있다는 것을", "r": "목적어절"},
+   {"en": "compared to 90 percent of homes in the United States.", "ko": "미국 가정의 90퍼센트와 견주어 보면", "r": "비교"}
+  ],
+  "ko": "국제에너지기구(International Energy Agency)의 자료에 따르면, 유럽에서 에어컨을 갖춘 가정은 23퍼센트로, 미국의 90퍼센트와 크게 대비된다.",
+  "why": "주어는 International Energy Agency data 전체, 곧 '국제에너지기구의 자료'다. 기관 이름이 그대로 명사 앞에 붙어 꾸미는 말이 되기 때문에 어디까지가 주어인지 잡기 어렵다. 동사가 shows 가 아니라 show 인 것도 주어가 복수형 data 이기 때문이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|8.1",
+  "en": "That difference contributes to the much higher death rates that researchers have documented in European cities during heat waves than in comparable American cities.",
+  "s": "That difference",
+  "v": "contributes",
+  "chunks": [
+   {"en": "That difference contributes to", "ko": "그 차이는 ~에 한몫한다", "r": "주어 + 동사"},
+   {"en": "the much higher death rates", "ko": "훨씬 높은 사망률", "r": "목적어"},
+   {"en": "that researchers have documented in European cities", "ko": "연구자들이 유럽 도시들에서 기록해 온", "r": "관계절(앞 명사 설명)"},
+   {"en": "during heat waves", "ko": "폭염 기간에", "r": "시간"},
+   {"en": "than in comparable American cities.", "ko": "여건이 비슷한 미국 도시들에서보다", "r": "비교 대상"}
+  ],
+  "ko": "그 차이는, 연구자들이 폭염 기간에 유럽 도시들에서 확인해 온 사망률이 여건이 비슷한 미국 도시들보다 훨씬 높다는 사실에 한몫한다.",
+  "why": "higher 와 그 짝인 than 사이에 관계절(that researchers have documented ~)이 길게 끼어들어 무엇과 무엇을 견주는지 놓치기 쉽다. 견주는 대상은 유럽 도시와 여건이 비슷한 미국 도시다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|8.2",
+  "en": "“Longer term, cities can also plant trees, expand parks, use reflective roof paint, and transition to building materials less likely to retain heat,” Shreevastava said.",
+  "s": "Shreevastava",
+  "v": "said",
+  "chunks": [
+   {"en": "“Longer term, cities can also plant trees,", "ko": "“더 길게 보면, 도시는 나무를 심을 수도 있고", "r": "시간 범위 + 주어 + 동사 + 목적어"},
+   {"en": "expand parks, use reflective roof paint,", "ko": "공원을 넓히고, 빛을 반사하는 지붕 페인트를 쓰고", "r": "동사 나열"},
+   {"en": "and transition to building materials", "ko": "건축 자재로 바꿔 갈 수도 있습니다", "r": "동사 나열"},
+   {"en": "less likely to retain heat,”", "ko": "열을 덜 머금는”", "r": "형용사구(앞 자재 설명)"},
+   {"en": "Shreevastava said.", "ko": "라고 슈리바스타바는 말했다", "r": "주절(누가 말했는가)"}
+  ],
+  "ko": "“더 길게 보면, 도시는 나무를 심고, 공원을 넓히고, 빛을 반사하는 지붕 페인트를 쓰고, 열을 덜 머금는 건축 자재로 바꿔 갈 수도 있습니다”라고 슈리바스타바는 말했다.",
+  "why": "can 하나에 동사 넷(plant, expand, use, transition)이 줄줄이 걸린다. 맨 뒤 less likely to retain heat 는 앞의 building materials 를 꾸미는 말이라 '열을 덜 머금는 자재'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|9.0",
+  "en": "An analysis from the World Health Organization indicates that heat stress is the world’s leading cause of weather-related deaths, noting it exacerbates underlying illnesses, including cardiovascular disease, diabetes, mental health conditions, and asthma.",
+  "s": "An analysis from the World Health Organization",
+  "v": "indicates",
+  "chunks": [
+   {"en": "An analysis from the World Health Organization indicates", "ko": "세계보건기구가 내놓은 분석은 ~라고 밝힌다", "r": "주어 + 동사"},
+   {"en": "that heat stress is the world’s leading cause", "ko": "열 스트레스가 세계에서 가장 큰 원인이라고", "r": "목적어절"},
+   {"en": "of weather-related deaths,", "ko": "날씨와 관련된 사망의", "r": "전치사구(무엇의 원인인가)"},
+   {"en": "noting it exacerbates underlying illnesses,", "ko": "그것이 기저 질환을 악화시킨다는 점도 지적하며", "r": "분사구문(덧붙임)"},
+   {"en": "including cardiovascular disease, diabetes,", "ko": "심혈관 질환, 당뇨", "r": "예시(기저 질환)"},
+   {"en": "mental health conditions, and asthma.", "ko": "정신 건강 문제, 천식 등", "r": "예시 이어짐"}
+  ],
+  "ko": "세계보건기구(World Health Organization)의 분석은 열 스트레스가 날씨와 관련된 사망의 세계 최대 원인이라고 밝히면서, 열 스트레스가 심혈관 질환, 당뇨, 정신 건강 문제, 천식 같은 기저 질환을 악화시킨다는 점도 함께 지적한다.",
+  "why": "주어는 An analysis(분석)이고 from ~ 은 그 분석이 어디서 나왔는지 밝히는 말이다. leading cause of weather-related deaths 는 '날씨와 관련된 사망의 가장 큰 원인'이고, noting 뒤의 it 은 heat stress 를 받는다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|9.1",
+  "en": "Researchers have calculated that roughly 489,000 heat-related deaths occur each year, with 45 percent of the deaths in Asia and 36 percent in Europe.",
+  "s": "Researchers",
+  "v": "have calculated",
+  "chunks": [
+   {"en": "Researchers have calculated", "ko": "연구자들은 ~라고 계산해 냈다", "r": "주어 + 동사"},
+   {"en": "that roughly 489,000 heat-related deaths occur each year,", "ko": "해마다 더위와 관련된 사망이 약 48만 9천 건 발생한다고", "r": "목적어절"},
+   {"en": "with 45 percent of the deaths in Asia", "ko": "그 사망의 45퍼센트는 아시아에서", "r": "부대상황(내역)"},
+   {"en": "and 36 percent in Europe.", "ko": "36퍼센트는 유럽에서 나온다", "r": "내역 이어짐"}
+  ],
+  "ko": "연구자들은 해마다 더위와 관련된 사망이 약 48만 9천 건 발생한다고 계산했다. 그 가운데 45퍼센트는 아시아에서, 36퍼센트는 유럽에서 나온다.",
+  "why": "roughly 는 '대략'이라 이 수치가 어림수임을 알려 준다. with 45 percent ~ 는 앞 숫자를 쪼개 보여 주는 딸린 설명이고, 이때 퍼센트의 기준은 각 지역이 아니라 전 세계 48만 9천 건이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|10.0",
+  "en": "“For older adults with physical health problems, temperatures as low as 26.7°C (80°F) can pose significant danger,” said Deborah Carr, a Boston University sociologist who specializes in the study of aging.",
+  "s": "Deborah Carr",
+  "v": "said",
+  "chunks": [
+   {"en": "“For older adults with physical health problems,", "ko": "“몸에 건강 문제가 있는 고령자에게는", "r": "전치사구(대상)"},
+   {"en": "temperatures as low as 26.7°C (80°F)", "ko": "섭씨 26.7도(화씨 80도) 정도로 낮은 기온도", "r": "인용문 주어"},
+   {"en": "can pose significant danger,”", "ko": "상당한 위험이 될 수 있습니다”", "r": "동사 + 목적어"},
+   {"en": "said Deborah Carr,", "ko": "라고 데버라 카는 말했다", "r": "동사 + 주어(도치)"},
+   {"en": "a Boston University sociologist", "ko": "보스턴대학교 사회학자인 그는", "r": "동격(앞 사람 설명)"},
+   {"en": "who specializes in the study of aging.", "ko": "노화 연구를 전문으로 한다", "r": "관계절(앞 사람 설명)"}
+  ],
+  "ko": "“몸에 건강 문제가 있는 고령자에게는 섭씨 26.7도(화씨 80도) 정도로 낮은 기온도 상당한 위험이 될 수 있습니다”라고, 노화 연구를 전문으로 하는 보스턴대학교 사회학자 데버라 카(Deborah Carr)는 말했다.",
+  "why": "as low as 26.7°C 는 '26.7도만큼이나 낮은', 곧 '그 정도로 낮은 기온에서도'라는 뜻이라 위험이 시작되는 선을 말한다. 뒤의 said Deborah Carr 는 주어와 동사가 뒤바뀐 도치이고, 그 뒤는 그 사람을 설명하는 동격과 관계절이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|10.1",
+  "en": "“Nighttime heat is especially harmful for older adults whose homes lack air conditioning.”",
+  "s": "Nighttime heat",
+  "v": "is",
+  "chunks": [
+   {"en": "“Nighttime heat is especially harmful", "ko": "“밤 더위는 특히 해롭습니다", "r": "주어 + 동사 + 보어"},
+   {"en": "for older adults", "ko": "고령자에게", "r": "전치사구(대상)"},
+   {"en": "whose homes lack air conditioning.”", "ko": "집에 에어컨이 없는”", "r": "관계절(앞 명사 설명)"}
+  ],
+  "ko": "“밤 더위는 집에 에어컨이 없는 고령자에게 특히 해롭습니다.”",
+  "why": "whose homes lack air conditioning 은 앞의 older adults 범위를 좁히는 관계절이라 '고령자 전부'가 아니라 '집에 에어컨이 없는 고령자'를 말한다. lack 은 '~이 없다, 모자라다'는 뜻의 동사로, not 없이도 부정의 뜻을 담는다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|11.0",
+  "en": "Carr is part of a research team that used demographic data, along with temperature and climate data archived by NASA, to identify which parts of the world are at the greatest risk of current and future heat exposure.",
+  "s": "Carr",
+  "v": "is",
+  "chunks": [
+   {"en": "Carr is part of a research team", "ko": "카는 어느 연구팀의 일원이다", "r": "주어 + 동사 + 보어"},
+   {"en": "that used demographic data,", "ko": "그 팀은 인구 통계 자료를 썼다", "r": "관계절(앞 연구팀 설명)"},
+   {"en": "along with temperature and climate data archived by NASA,", "ko": "NASA가 모아 보관해 온 기온·기후 자료와 함께", "r": "함께 쓴 자료 + 과거분사구"},
+   {"en": "to identify which parts of the world", "ko": "세계의 어느 지역이 ~인지 가려내기 위해", "r": "목적(~하기 위해)"},
+   {"en": "are at the greatest risk of current and future heat exposure.", "ko": "지금과 앞으로의 더위 노출 위험이 가장 큰지를", "r": "가려낼 내용"}
+  ],
+  "ko": "카는 인구 통계 자료를, NASA가 모아 보관해 온 기온·기후 자료와 함께 활용해 지금과 앞으로 더위에 노출될 위험이 세계에서 가장 큰 지역이 어디인지 가려낸 연구팀의 일원이다.",
+  "why": "문장의 동사는 is 하나이고, used 는 a research team 을 꾸미는 관계절의 동사다. archived by NASA 는 '보관해 온'이라는 수동의 뜻이라 NASA는 자료를 댄 쪽이지 이 연구를 수행한 쪽이 아니다. which parts ~ 는 identify 의 대상이 되는 절이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|11.1",
+  "en": "Southern Europe was among the areas facing growing heat exposure and an aging population, the researchers found.",
+  "s": "the researchers",
+  "v": "found",
+  "chunks": [
+   {"en": "Southern Europe was among the areas", "ko": "남유럽은 그런 지역들 가운데 하나였다", "r": "주어 + 동사 + 보어(전해진 내용)"},
+   {"en": "facing growing heat exposure and an aging population,", "ko": "커지는 더위 노출과 고령화되는 인구에 직면한", "r": "현재분사구(앞 areas 설명)"},
+   {"en": "the researchers found.", "ko": "라고 연구자들은 확인했다", "r": "주절(누가 확인했는가)"}
+  ],
+  "ko": "연구자들이 확인한 바에 따르면, 남유럽은 더위 노출이 커지는 동시에 인구가 고령화되고 있는 지역들 가운데 하나였다.",
+  "why": "맨 끝의 the researchers found 가 문장의 뼈대이고, 그 앞 전체가 확인된 내용이다. facing ~ 은 앞의 the areas 를 꾸미는 말이라 '그런 상황에 놓인 지역들'이라는 뜻이고, 남유럽은 그중 하나라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|12.0",
+  "en": "Other research , published in Lancet Planetary Health in August 2026, underscores the importance of demographics in assessing the risks posed by heat.",
+  "s": "Other research",
+  "v": "underscores",
+  "chunks": [
+   {"en": "Other research ,", "ko": "또 다른 연구는", "r": "주어"},
+   {"en": "published in Lancet Planetary Health in August 2026,", "ko": "2026년 8월 《Lancet Planetary Health》에 실린", "r": "과거분사구(앞 연구 설명)"},
+   {"en": "underscores the importance of demographics", "ko": "인구 구성이 중요하다는 점을 강조한다", "r": "동사 + 목적어"},
+   {"en": "in assessing the risks posed by heat.", "ko": "더위가 안기는 위험을 따질 때", "r": "전치사구(어떤 상황에서)"}
+  ],
+  "ko": "2026년 8월 《Lancet Planetary Health》에 실린 또 다른 연구는, 더위가 안기는 위험을 따질 때 인구 구성(나이 분포 등)이 얼마나 중요한지를 강조한다.",
+  "why": "주어(Other research)와 동사(underscores) 사이에 쉼표로 둘러싸인 published ~ 가 끼어들어 있다. published 를 문장의 동사로 보면 뼈대가 무너진다. 맨 뒤 posed by heat 도 앞의 the risks 를 꾸미는 과거분사구다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|12.1",
+  "en": "This study, led by Stanford researcher Qinqin Kong, mapped where increasing heat is likely to lead to intolerable conditions in the coming decades for young, middle-aged, and older adults, concluding that safe thresholds will be breached often and widely, with risks falling disproportionately on older people.",
+  "s": "This study",
+  "v": "mapped",
+  "chunks": [
+   {"en": "This study,", "ko": "이 연구는", "r": "주어"},
+   {"en": "led by Stanford researcher Qinqin Kong,", "ko": "스탠퍼드대 연구자 킨킨 쿵이 이끈", "r": "과거분사구(앞 연구 설명)"},
+   {"en": "mapped where increasing heat is likely to lead", "ko": "점점 심해지는 더위가 어디에서 ~로 이어질 가능성이 큰지를 지도로 나타냈다", "r": "동사 + 목적어절"},
+   {"en": "to intolerable conditions in the coming decades", "ko": "앞으로 수십 년 사이 견딜 수 없는 환경으로", "r": "결과 + 시간"},
+   {"en": "for young, middle-aged, and older adults,", "ko": "젊은 층, 중년층, 고령층 각각에게", "r": "대상"},
+   {"en": "concluding that safe thresholds will be breached", "ko": "안전 한계선이 넘어서게 되리라고 결론지으며", "r": "분사구문(결론)"},
+   {"en": "often and widely,", "ko": "자주, 그리고 넓은 지역에서", "r": "정도"},
+   {"en": "with risks falling disproportionately on older people.", "ko": "위험은 고령층에 유독 크게 쏠린 채로", "r": "부대상황"}
+  ],
+  "ko": "스탠퍼드대학교 연구자 킨킨 쿵(Qinqin Kong)이 이끈 이 연구는, 점점 심해지는 더위가 앞으로 수십 년 사이 어느 지역에서 젊은 층·중년층·고령층에게 견디기 어려운 환경을 만들 가능성이 큰지를 지도로 나타냈다. 그리고 안전 한계선이 자주, 그리고 넓은 지역에서 넘어서게 될 것이며 위험은 고령층에 유독 크게 쏠릴 것이라고 결론지었다.",
+  "why": "주어 This study 와 동사 mapped 사이에 led by ~ 가 끼어들어, 자칫 '이 연구가 무엇을 이끌었다'로 읽기 쉽다. mapped where ~ 는 '어디에서 그렇게 될지를 지도로 나타냈다'는 뜻이고, will be breached 는 수동태라 '한계선이 넘어서진다'는 말이지 한계선이 무엇을 넘는 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|13.0",
+  "en": "“The human body can tolerate only a limited range of ambient heat,” said Kong, a recipient of a NASA Earth and Space Science and Technology award .",
+  "s": "Kong",
+  "v": "said",
+  "chunks": [
+   {"en": "“The human body can tolerate", "ko": "“사람의 몸은 견딜 수 있습니다", "r": "인용문 주어 + 동사"},
+   {"en": "only a limited range of ambient heat,”", "ko": "주위 열을 아주 제한된 범위에서만”", "r": "목적어"},
+   {"en": "said Kong,", "ko": "라고 쿵은 말했다", "r": "동사 + 주어(도치)"},
+   {"en": "a recipient of a NASA Earth and Space Science and Technology award .", "ko": "NASA 지구·우주 과학기술상 수상자인 그는", "r": "동격(앞 사람 설명)"}
+  ],
+  "ko": "“사람의 몸은 주위의 열을 아주 제한된 범위에서만 견딜 수 있습니다”라고, NASA 지구·우주 과학기술상(NASA Earth and Space Science and Technology award) 수상자인 쿵은 말했다.",
+  "why": "only a limited range 는 '제한된 범위에서만'이라 사실상 한계를 강조하는, 부정에 가까운 말이다. said Kong 은 도치이고, 그 뒤 a recipient ~ 는 쿵이 어떤 사람인지 밝히는 동격이라 다른 사람이 새로 나온 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|13.1",
+  "en": "“Understanding where, when, and to what extent these limits are exceeded is critical.”",
+  "s": "Understanding where, when, and to what extent these limits are exceeded",
+  "v": "is",
+  "chunks": [
+   {"en": "“Understanding where, when, and to what extent", "ko": "“어디에서, 언제, 어느 정도까지인지를 파악하는 일이", "r": "주어(동명사구)"},
+   {"en": "these limits are exceeded", "ko": "이 한계가 넘어서게 되는", "r": "주어절의 속내용(수동)"},
+   {"en": "is critical.”", "ko": "매우 중요합니다”", "r": "동사 + 보어"}
+  ],
+  "ko": "“이 한계가 어디에서, 언제, 어느 정도까지 넘어서게 되는지를 파악하는 일이 매우 중요합니다.”",
+  "why": "Understanding 부터 exceeded 까지 전체가 하나의 긴 주어이고, 문장의 동사는 맨 뒤 is 하나다. where, when, and to what extent 셋이 나란히 are exceeded 에 걸리며, are exceeded 는 수동이라 '한계가 넘어서진다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|14.0",
+  "en": "With intolerable levels of heat expected to affect more people across larger regions and for longer periods than previously thought, Kong and his colleagues hope that their findings will inform targeted heat action plans, emergency preparedness, and health system planning.",
+  "s": "Kong and his colleagues",
+  "v": "hope",
+  "chunks": [
+   {"en": "With intolerable levels of heat expected to affect more people", "ko": "견딜 수 없는 수준의 더위가 더 많은 사람에게 영향을 미칠 것으로 예상되는 만큼", "r": "부대상황(배경)"},
+   {"en": "across larger regions and for longer periods", "ko": "더 넓은 지역에 걸쳐, 더 오랜 기간", "r": "범위 + 기간"},
+   {"en": "than previously thought,", "ko": "종전에 생각하던 것보다", "r": "비교 대상"},
+   {"en": "Kong and his colleagues hope", "ko": "쿵과 동료들은 ~하기를 바란다", "r": "주어 + 동사"},
+   {"en": "that their findings will inform", "ko": "자신들의 연구 결과가 밑바탕이 되기를", "r": "목적어절"},
+   {"en": "targeted heat action plans, emergency preparedness,", "ko": "맞춤형 폭염 대응 계획과 비상 대비", "r": "목적어 나열"},
+   {"en": "and health system planning.", "ko": "그리고 보건 체계 계획에", "r": "나열 이어짐"}
+  ],
+  "ko": "견딜 수 없는 수준의 더위가 종전에 생각하던 것보다 더 많은 사람에게, 더 넓은 지역에 걸쳐, 더 오랜 기간 영향을 미칠 것으로 예상되는 만큼, 쿵과 동료들은 자신들의 연구 결과가 맞춤형 폭염 대응 계획과 비상 대비, 보건 체계 계획을 세우는 데 밑바탕이 되기를 바란다.",
+  "why": "맨 앞 With ~ thought, 까지가 배경을 설명하는 긴 덩어리이고, 진짜 주어와 동사는 그 뒤의 Kong and his colleagues hope 다. than previously thought 는 앞의 more, larger, longer 셋 모두에 걸린다. inform 은 '알리다'보다 '판단의 밑바탕이 되다'에 가깝다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|15.0",
+  "en": "NASA Earth Observatory image by Lauren Dauphin, using GEOS-FP data from the Global Modeling and Assimilation Office at NASA GSFC.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "NASA Earth Observatory image by Lauren Dauphin,", "ko": "NASA 지구관측소 이미지, 제작 로렌 도핀", "r": "명사구(이미지) + 만든 사람"},
+   {"en": "using GEOS-FP data", "ko": "GEOS-FP 자료를 사용", "r": "분사구(무엇을 써서)"},
+   {"en": "from the Global Modeling and Assimilation Office at NASA GSFC.", "ko": "NASA 고더드우주비행센터(GSFC)의 지구모델링·자료동화실에서 받은", "r": "출처(앞 자료 설명)"}
+  ],
+  "ko": "NASA 지구관측소(Earth Observatory) 이미지. 제작은 로렌 도핀(Lauren Dauphin)이 맡았고, NASA 고더드우주비행센터(GSFC)의 지구모델링·자료동화실(Global Modeling and Assimilation Office)에서 받은 GEOS-FP 자료를 썼다.",
+  "why": "동사가 없는 이미지 제작 표기(크레딧)다. by 는 만든 사람, using ~ 은 쓴 자료, from ~ 은 그 자료를 낸 곳을 가리킨다. 보통 문장처럼 동사를 찾으려 하면 헤매게 된다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|16.0",
+  "en": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+  "s": "",
+  "v": "Stay",
+  "chunks": [
+   {"en": "Stay up-to-date with the latest content", "ko": "최신 소식을 놓치지 말고 받아 보세요", "r": "동사(명령문) + 보어"},
+   {"en": "from NASA", "ko": "NASA가 내놓는", "r": "전치사구(출처)"},
+   {"en": "as we explore the universe", "ko": "우리가 우주를 탐사해 가는 동안", "r": "부사절(~하는 동안)"},
+   {"en": "and discover more about our home planet.", "ko": "그리고 우리 행성을 더 알아 가는 동안", "r": "부사절 이어짐"}
+  ],
+  "ko": "NASA가 우주를 탐사하고 우리 행성을 더 알아 가는 동안, NASA의 최신 소식을 놓치지 말고 받아 보세요.",
+  "why": "주어가 없는 명령문이라 Stay 가 동사다. as 는 '~로서'가 아니라 '~해 가는 동안, ~함에 따라'라는 뜻이고, we 는 NASA 자신을 가리킨다. up-to-date 는 '최신 상태인'이라는 한 덩어리 형용사다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|17.0",
+  "en": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+  "s": "A ridge of high pressure",
+  "v": "fueled",
+  "chunks": [
+   {"en": "A ridge of high pressure fueled", "ko": "고기압 능선이 ~을 부추겼다", "r": "주어 + 동사"},
+   {"en": "record-breaking temperatures", "ko": "기록을 깨뜨리는 기온을", "r": "목적어"},
+   {"en": "in Montana, Utah, and Wyoming", "ko": "몬태나, 유타, 와이오밍에서", "r": "전치사구(장소)"},
+   {"en": "on July 12, 2026.", "ko": "2026년 7월 12일에", "r": "시간"}
+  ],
+  "ko": "고기압 능선이 2026년 7월 12일 몬태나, 유타, 와이오밍에서 기록을 갈아 치우는 기온을 불러왔다.",
+  "why": "A ridge of high pressure 는 기상 용어로 고기압이 길게 뻗어 나온 부분(기압 능선)을 말한다. fuel 은 명사로는 '연료'지만 여기서는 동사로 '부추기다, 불러오다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|18.0",
+  "en": "New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.",
+  "s": "New animations from NASA’s PREFIRE mission",
+  "v": "reveal",
+  "chunks": [
+   {"en": "New animations from NASA’s PREFIRE mission", "ko": "NASA의 PREFIRE 임무에서 나온 새 애니메이션들이", "r": "주어 + 전치사구(출처)"},
+   {"en": "reveal two years of seasonal temperature swings", "ko": "2년치 계절별 기온 변동을 보여 준다", "r": "동사 + 목적어"},
+   {"en": "at the Arctic and Antarctic.", "ko": "북극과 남극에서의", "r": "전치사구(장소)"}
+  ],
+  "ko": "NASA의 PREFIRE 임무에서 나온 새 애니메이션들이 북극과 남극의 2년치 계절별 기온 변동을 보여 준다.",
+  "why": "주어는 New animations 이고 from ~ mission 은 그 출처를 밝히는 말이다. 동사가 reveals 가 아니라 reveal 인 것이 주어가 복수형 animations 임을 알려 준다. swings 는 '그네'가 아니라 크게 오르내리는 변동을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|19.0",
+  "en": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
+  "s": "Satellite observations of sea surface height",
+  "v": "indicated",
+  "chunks": [
+   {"en": "Satellite observations of sea surface height", "ko": "해수면 높이를 잰 위성 관측 자료는", "r": "주어"},
+   {"en": "indicated that the 2026 event", "ko": "2026년의 그 현상이 ~임을 보여 주었다", "r": "동사 + 목적어절의 주어"},
+   {"en": "continued to strengthen in early June.", "ko": "6월 초에도 계속 강해지고 있었다는 것을", "r": "목적어절의 동사 + 시간"}
+  ],
+  "ko": "해수면 높이를 재는 위성 관측 자료는 2026년의 그 현상이 6월 초에도 계속 강해지고 있었음을 보여 주었다.",
+  "why": "주어가 Satellite observations of sea surface height 전체라 길다. of ~ 는 관측의 대상을 밝히는 말이다. continued to strengthen 은 '계속 강해졌다'라, 그 전부터 있던 것이 더 세졌다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|20.0",
+  "en": "Subscribe to the Earth Observatory and get the Earth in your inbox.",
+  "s": "",
+  "v": "Subscribe",
+  "chunks": [
+   {"en": "Subscribe to the Earth Observatory", "ko": "지구관측소를 구독하세요", "r": "동사(명령문) + 전치사구"},
+   {"en": "and get the Earth in your inbox.", "ko": "그리고 지구를 받은 편지함으로 받아 보세요", "r": "대등절(명령문)"}
+  ],
+  "ko": "지구관측소(Earth Observatory)를 구독하고, 지구 소식을 받은 편지함으로 받아 보세요.",
+  "why": "주어 없는 명령문 둘이 and 로 이어진 형태다. get the Earth in your inbox 는 지구를 실제로 받는다는 말이 아니라 '지구에 관한 소식을 이메일로 받는다'는 과장된 비유다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|21.0",
+  "en": "NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.",
+  "s": "NASA’s Earth Observatory",
+  "v": "brings",
+  "chunks": [
+   {"en": "NASA’s Earth Observatory brings you the Earth,", "ko": "NASA 지구관측소는 여러분에게 지구를 전한다", "r": "주어 + 동사 + 간접목적어 + 직접목적어"},
+   {"en": "every day,", "ko": "날마다", "r": "시간"},
+   {"en": "with in-depth stories and stunning imagery.", "ko": "깊이 있는 기사와 눈길을 사로잡는 영상으로", "r": "전치사구(수단)"}
+  ],
+  "ko": "NASA 지구관측소(Earth Observatory)는 깊이 있는 기사와 눈길을 사로잡는 영상으로 날마다 지구를 여러분에게 전한다.",
+  "why": "brings you the Earth 는 '~에게 …를 가져다준다'는 형태라 you 가 받는 쪽, the Earth 가 주는 것이다. 맨 뒤 with ~ 는 '무엇과 함께'가 아니라 '무엇을 써서'라는 수단이다.",
+  "st": []
+ },
+ {
+  "id": "18ce2ecb|22.0",
+  "en": "Open access to NASA’s archive of Earth science data",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Open access to NASA’s archive", "ko": "NASA의 보관소를 누구나 이용할 수 있는 접근", "r": "명사구(안내 문구)"},
+   {"en": "of Earth science data", "ko": "지구과학 자료의", "r": "전치사구(무엇의 보관소인가)"}
+  ],
+  "ko": "NASA의 지구과학 자료 보관소를 누구나 제한 없이 이용할 수 있습니다.",
+  "why": "동사가 없는 안내 문구다. Open 은 '열어라'라는 명령이 아니라 뒤의 access 를 꾸미는 형용사이고, open access 는 '누구나 제한 없이 이용할 수 있는 접근'을 뜻하는 굳어진 말이다.",
+  "st": []
+ }
+]

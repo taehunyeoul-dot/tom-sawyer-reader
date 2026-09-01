@@ -1,0 +1,41 @@
+NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details
+NASA · 2026-08-18
+https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/
+
+[0.0] Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.
+[0.1] The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission.
+
+[1.0] To capture imagery of the impact, engineers tilted the spacecraft so its cameras would point toward the crater each time LRO passed about 60 miles above the Moon, traveling 1 mile per second.
+[1.1] The orbiter circles the Moon from pole to pole every two hours, while the Moon slowly rotates underneath it.
+[1.2] To photograph a specific spot, the spacecraft must wait until that location turns into view, which took six days in this case.
+
+[2.0] Getting the pointing right was only half the challenge; timing had to be accurate as well.
+[2.1] If the camera snapped even 10 seconds too early or too late, the target would drift off-center by 10 miles.
+
+[3.0] Because of the variety of viewing angles, scientists could see the crater under multiple lighting conditions that revealed unique features.
+[3.1] In images where the crater rim stood out, scientists measured its 60‑foot width.
+[3.2] Scientists also determined the crater is less than 10 feet deep based on the length of its shadow.
+
+[4.0] To capture these details, LRO used its Narrow-Angle Camera, which can spot features as small as 3 feet wide.
+
+[5.0] The images above show bright and dark rays stretching out from the crater.
+[5.1] The darker streaks are made of surface dust and rocks altered over a long time by solar wind, galactic cosmic rays, and micrometeorite impacts.
+[5.2] This weathered material was excavated by the collision from 1.5 feet into the lunar surface.
+[5.3] The brighter streaks near the crater rim are made of fresh material excavated from deeper underground.
+
+[6.0] Finding the impact site took global coordination among experts and hobbyists.
+[6.1] Independent astronomers first identified the rocket’s trajectory using publicly available data.
+[6.2] NASA’s Center for Near Earth Object Studies , which tracks natural objects that could pose hazards to Earth for the agency’s Planetary Defense program, used this opportunity to test and validate tools and techniques for predicting impacts.
+
+[7.0] Based at NASA’s Jet Propulsion Laboratory in Southern California, the center incrementally refined the trajectory until identifying the location of impact, which it provided to the Republic of Korea for their Korea Pathfinder Lunar Orbiter (Danuri) team.
+[7.1] The team used the high-resolution LUTI camera on Danuri a few hours later to image the crater, finding the prediction was accurate to about 0.6 miles.
+
+[8.0] After capturing images of the crater, the Danuri mission sent coordinates to NASA’s LRO team to help refine their follow-up imaging sequence.
+[8.1] Comparing their new crater images with the pre-impact images, the LRO team updated the crater center coordinates: 19.4759°N, 266.7138°E, 511 meters elevation.
+
+[9.0] FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions…
+
+[10.0] New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky…
+
+[11.0] NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most…
+

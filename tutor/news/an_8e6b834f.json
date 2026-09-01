@@ -1,0 +1,328 @@
+[
+ {
+  "id": "8e6b834f|0.0",
+  "en": "For more information, contact Mark K.",
+  "s": "",
+  "v": "contact",
+  "chunks": [
+   {"en": "For more information,", "ko": "더 자세한 내용을 알고 싶으면", "r": "조건(어떤 경우에)"},
+   {"en": "contact Mark K.", "ko": "Mark K.에게 연락하십시오", "r": "동사(명령문) + 목적어"}
+  ],
+  "ko": "더 자세한 내용은 Mark K.에게 연락하면 된다.",
+  "why": "주어가 없는 명령문이다. 숨은 주어는 이 글을 읽는 사람(you)이고, contact 는 명사 '연락처'가 아니라 '연락하라'는 동사다. For more information 은 '더 알고 싶으면'이라는 조건을 앞세운 것이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|1.0",
+  "en": "NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis.",
+  "s": "NASA’s Chemical Equilibrium with Applications (CEA) code",
+  "v": "is",
+  "chunks": [
+   {"en": "NASA’s Chemical Equilibrium with Applications (CEA) code", "ko": "NASA의 CEA(Chemical Equilibrium with Applications, 응용 화학평형) 코드는", "r": "주어(프로그램 이름 전체가 한 덩어리)"},
+   {"en": "is a foundational tool", "ko": "기초가 되는 도구이다", "r": "동사 + 보어"},
+   {"en": "for propulsion system analysis.", "ko": "추진 시스템 해석에 쓰이는", "r": "전치사구(무엇에 쓰는 도구인가)"}
+  ],
+  "ko": "NASA의 CEA(Chemical Equilibrium with Applications, 응용 화학평형) 코드는 추진 시스템 해석의 바탕이 되는 도구이다.",
+  "why": "with Applications 를 흔한 전치사구(~와 함께)로 읽으면 주어가 중간에서 끊어진다. 여기서는 code 까지 전부가 프로그램 이름이자 주어 한 덩어리이고, 문장의 동사는 그 뒤의 is 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|1.1",
+  "en": "It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community.",
+  "s": "It",
+  "v": "provides",
+  "chunks": [
+   {"en": "It provides equilibrium chemistry,", "ko": "이 코드는 화학평형,", "r": "주어 + 동사 + 목적어 시작"},
+   {"en": "rocket performance, shock, and detonation calculations", "ko": "로켓 성능, 충격파, 폭굉 계산 기능을 제공한다", "r": "목적어(나열 + 중심 명사 calculations)"},
+   {"en": "used across NASA and the broader aerospace community.", "ko": "NASA와 그보다 넓은 항공우주 업계 전반에서 쓰이는", "r": "과거분사구(앞의 calculations 설명)"}
+  ],
+  "ko": "이 코드는 NASA와 그보다 넓은 항공우주 업계 전반에서 쓰이는 화학평형, 로켓 성능, 충격파, 폭굉(detonation) 계산 기능을 제공한다.",
+  "why": "나열된 넷은 모두 맨 뒤의 calculations 를 꾸미는 말이라 '화학평형 계산 · 로켓 성능 계산 · 충격파 계산 · 폭굉 계산' 넷을 뜻한다. used 는 또 하나의 동사가 아니라 그 계산들을 꾸미는 과거분사(~에서 쓰이는)이고, 이 문장의 동사는 provides 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|1.2",
+  "en": "NASA Engineering and Safety Center (NESC) Activity TI-22-01730 modernized the legacy CEA2 Fortran code into CEA v3, a Fortran 2008, object-oriented software package with expanded interface support, updated thermochemical data, improved maintainability, and substantially improved workflow integration.",
+  "s": "NASA Engineering and Safety Center (NESC) Activity TI-22-01730",
+  "v": "modernized",
+  "chunks": [
+   {"en": "NASA Engineering and Safety Center (NESC) Activity TI-22-01730", "ko": "NASA 공학안전센터(NESC)의 활동 과제 TI-22-01730이", "r": "주어(기관 이름 + 과제 번호)"},
+   {"en": "modernized the legacy CEA2 Fortran code", "ko": "옛 CEA2 포트란 코드를 현대화했다", "r": "동사 + 목적어"},
+   {"en": "into CEA v3,", "ko": "CEA v3로", "r": "전치사구(바뀐 결과)"},
+   {"en": "a Fortran 2008, object-oriented software package", "ko": "곧 Fortran 2008 기반의 객체지향 소프트웨어 꾸러미인데", "r": "동격(앞의 CEA v3 를 다시 설명)"},
+   {"en": "with expanded interface support, updated thermochemical data,", "ko": "인터페이스 지원이 넓어지고 열화학 데이터가 새로 갱신되었으며", "r": "전치사구(그 꾸러미가 갖춘 것)"},
+   {"en": "improved maintainability, and substantially improved workflow integration.", "ko": "유지보수성이 좋아지고 작업 흐름 연계가 크게 개선되었다", "r": "갖춘 것 나열(이어짐)"}
+  ],
+  "ko": "NASA 공학안전센터(NESC)의 활동 과제 TI-22-01730이 옛 CEA2 포트란 코드를 CEA v3로 현대화했다. CEA v3는 Fortran 2008 기반의 객체지향 소프트웨어 꾸러미로, 인터페이스 지원이 넓어지고 열화학 데이터가 갱신되었으며 유지보수성과 작업 흐름 연계가 크게 좋아졌다.",
+  "why": "주어가 기관 이름에 과제 번호까지 붙어 아주 길다. CEA v3 뒤의 쉼표부터 문장 끝까지는 새 내용이 아니라 CEA v3 가 어떤 것인지 다시 풀어 주는 동격이며, with 뒤에 나열된 넷은 모두 그 새 꾸러미가 갖춘 점이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|1.3",
+  "en": "The modernized code preserves backward compatibility with legacy CEA input workflows while enabling direct use from modern analysis environments, including Python, C, MATLAB, and automated design studies.",
+  "s": "The modernized code",
+  "v": "preserves",
+  "chunks": [
+   {"en": "The modernized code preserves backward compatibility", "ko": "현대화된 이 코드는 하위 호환성을 그대로 유지한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with legacy CEA input workflows", "ko": "옛 CEA 입력 방식과의", "r": "전치사구(무엇과의 호환인가)"},
+   {"en": "while enabling direct use", "ko": "그러면서 동시에 곧바로 쓸 수 있게 해 준다", "r": "분사구문(동시에 일어나는 일)"},
+   {"en": "from modern analysis environments,", "ko": "현대적인 해석 환경에서", "r": "전치사구(어디에서)"},
+   {"en": "including Python, C, MATLAB, and automated design studies.", "ko": "Python, C, MATLAB, 자동화된 설계 연구 등을 포함해", "r": "예시(앞의 해석 환경)"}
+  ],
+  "ko": "현대화된 이 코드는 옛 CEA 입력 방식과의 하위 호환성을 그대로 유지하면서, 동시에 Python, C, MATLAB, 자동화된 설계 연구 같은 현대적 해석 환경에서 곧바로 쓸 수 있게 해 준다.",
+  "why": "while 은 여기서 시간(~하는 동안)이 아니라 두 가지를 함께 해낸다는 뜻이다. 옛 방식도 그대로 되고 새 방식도 된다는 말이며, enabling 하는 주체는 앞의 The modernized code 다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|2.0",
+  "en": "CEA2 was released in 2002 and has remained widely used for propulsion and thermochemistry analysis.",
+  "s": "CEA2",
+  "v": "was released",
+  "chunks": [
+   {"en": "CEA2 was released in 2002", "ko": "CEA2는 2002년에 공개되었다", "r": "주어 + 동사(수동태) + 시간"},
+   {"en": "and has remained widely used", "ko": "그리고 그 뒤로 지금까지 널리 쓰여 왔다", "r": "대등절(현재완료)"},
+   {"en": "for propulsion and thermochemistry analysis.", "ko": "추진과 열화학 해석에", "r": "전치사구(어디에 쓰이는가)"}
+  ],
+  "ko": "CEA2는 2002년에 공개되었고, 그 뒤로 지금까지 추진 및 열화학 해석에 널리 쓰여 왔다.",
+  "why": "동사가 둘이다. was released 는 수동태라 '공개했다'가 아니라 '공개되었다'이며 공개한 쪽은 나오지 않는다. has remained 는 현재완료라 2002년부터 지금까지 이어지는 상태를 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|2.1",
+  "en": "However, the original procedural Fortran implementation became increasingly difficult to maintain, extend, and integrate into modern engineering workflows due to the lack of a subroutine interface.",
+  "s": "the original procedural Fortran implementation",
+  "v": "became",
+  "chunks": [
+   {"en": "However, the original procedural Fortran implementation", "ko": "그러나 원래의 절차적 포트란 구현은", "r": "연결어 + 주어"},
+   {"en": "became increasingly difficult to maintain, extend,", "ko": "유지하고 확장하기가 갈수록 어려워졌다", "r": "동사 + 보어(어려운 일 하나둘)"},
+   {"en": "and integrate into modern engineering workflows", "ko": "그리고 현대적인 공학 작업 흐름에 통합하기가", "r": "어려운 일 셋째(이어짐)"},
+   {"en": "due to the lack of a subroutine interface.", "ko": "서브루틴 인터페이스가 없었기 때문에", "r": "이유"}
+  ],
+  "ko": "그러나 원래의 절차적(procedural) 포트란 구현은 서브루틴 인터페이스가 없었던 탓에, 유지하고 확장하고 현대적인 공학 작업 흐름에 통합하기가 갈수록 어려워졌다.",
+  "why": "difficult to 뒤에 동사원형 셋(maintain, extend, integrate)이 나란히 걸려 있어 세 가지 모두 어려웠다는 뜻이다. due to 는 '덕분에'가 아니라 '때문에'라는 이유이고, lack of 는 '없음'이라는 부정의 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|2.2",
+  "en": "Current propulsion analysis increasingly requires automated parametric sweeps, integration with other modeling tools and engineering workflows, and support for emerging propellants and fuels, including green propellants and sustainable aviation fuels.",
+  "s": "Current propulsion analysis",
+  "v": "requires",
+  "chunks": [
+   {"en": "Current propulsion analysis increasingly requires", "ko": "오늘날의 추진 해석은 갈수록 더 ~을 요구한다", "r": "주어 + 동사"},
+   {"en": "automated parametric sweeps,", "ko": "자동화된 매개변수 훑기(값을 바꿔 가며 대량으로 계산하기),", "r": "목적어 하나"},
+   {"en": "integration with other modeling tools and engineering workflows,", "ko": "다른 모델링 도구·공학 작업 흐름과의 연계,", "r": "목적어 둘"},
+   {"en": "and support for emerging propellants and fuels,", "ko": "그리고 새로 등장하는 추진제와 연료에 대한 지원을", "r": "목적어 셋"},
+   {"en": "including green propellants and sustainable aviation fuels.", "ko": "친환경 추진제와 지속가능 항공연료를 포함해서", "r": "예시(앞의 추진제·연료)"}
+  ],
+  "ko": "오늘날의 추진 해석은 자동화된 매개변수 훑기, 다른 모델링 도구 및 공학 작업 흐름과의 연계, 그리고 친환경 추진제와 지속가능 항공연료를 비롯한 새 추진제·연료에 대한 지원을 갈수록 더 많이 요구한다.",
+  "why": "requires 의 목적어가 셋(sweeps / integration / support) 줄줄이 이어지므로 어디까지가 요구 사항인지 세어 두어야 한다. 맨 끝 including 이하는 셋 전체의 예가 아니라 바로 앞 emerging propellants and fuels 의 예다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|2.3",
+  "en": "These needs motivated a comprehensive modernization effort to preserve CEA’s validated technical basis while improving its maintainability, usability, and integration with modern engineering software.",
+  "s": "These needs",
+  "v": "motivated",
+  "chunks": [
+   {"en": "These needs motivated", "ko": "이러한 필요들이 ~을 불러왔다", "r": "주어 + 동사"},
+   {"en": "a comprehensive modernization effort", "ko": "전면적인 현대화 작업을", "r": "목적어"},
+   {"en": "to preserve CEA’s validated technical basis", "ko": "CEA가 검증받아 온 기술적 토대는 그대로 지키면서", "r": "목적(~하기 위한)"},
+   {"en": "while improving its maintainability, usability,", "ko": "동시에 그 유지보수성과 사용 편의,", "r": "분사구문(동시에 하는 일)"},
+   {"en": "and integration with modern engineering software.", "ko": "그리고 현대적 공학 소프트웨어와의 연계는 끌어올리려는", "r": "개선 대상 나열(이어짐)"}
+  ],
+  "ko": "이러한 필요들이 전면적인 현대화 작업을 불러왔다. CEA가 오랜 검증으로 쌓아 온 기술적 토대는 그대로 지키면서, 유지보수성과 사용 편의, 현대적 공학 소프트웨어와의 연계는 끌어올리려는 작업이었다.",
+  "why": "motivated 는 '~할 동기를 주었다', 곧 그렇게 하도록 만든 이유가 되었다는 뜻이라 원인이 앞, 결과가 뒤다. to preserve ~ while improving ~ 은 지키는 것과 높이는 것 두 가지를 한꺼번에 노렸다는 말이고, its 는 CEA 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|3.0",
+  "en": "CEA v3 is implemented in Fortran 2008 using object-oriented data structures, stricter typing, and a thread-safe equilibrium solver architecture.",
+  "s": "CEA v3",
+  "v": "is implemented",
+  "chunks": [
+   {"en": "CEA v3 is implemented in Fortran 2008", "ko": "CEA v3는 Fortran 2008로 구현되어 있다", "r": "주어 + 동사(수동태) + 어떤 언어로"},
+   {"en": "using object-oriented data structures, stricter typing,", "ko": "객체지향 자료구조, 더 엄격한 자료형 지정,", "r": "분사구문(무엇을 써서)"},
+   {"en": "and a thread-safe equilibrium solver architecture.", "ko": "그리고 스레드에 안전한 평형 계산기 구조를 써서", "r": "쓰인 것 나열(이어짐)"}
+  ],
+  "ko": "CEA v3는 객체지향 자료구조, 더 엄격한 자료형 지정, 그리고 스레드에 안전한(여러 계산을 동시에 돌려도 서로 꼬이지 않는) 평형 계산기 구조를 써서 Fortran 2008으로 구현되어 있다.",
+  "why": "is implemented 는 수동태라 '구현한다'가 아니라 '구현되어 있다'이며 구현한 쪽은 나오지 않는다. using 이하는 무엇을 써서 만들었는지 밝히는 방법이고, 그 뒤로 셋이 나열된다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|3.1",
+  "en": "The software supports Fortran, C, Python, MATLAB, and Excel interfaces.",
+  "s": "The software",
+  "v": "supports",
+  "chunks": [
+   {"en": "The software supports", "ko": "이 소프트웨어는 ~을 지원한다", "r": "주어 + 동사"},
+   {"en": "Fortran, C, Python, MATLAB, and Excel interfaces.", "ko": "Fortran, C, Python, MATLAB, Excel 인터페이스를", "r": "목적어(나열 + 중심 명사 interfaces)"}
+  ],
+  "ko": "이 소프트웨어는 Fortran, C, Python, MATLAB, Excel 인터페이스를 지원한다.",
+  "why": "짧지만 맨 끝 interfaces 하나가 앞의 다섯 이름 전부에 걸린다. 곧 Fortran 인터페이스, C 인터페이스처럼 다섯 가지 통로를 갖췄다는 뜻이지 Excel 인터페이스 하나만 말하는 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|3.2",
+  "en": "These interfaces allow CEA to be used directly in automated analysis pipelines, multidisciplinary design frameworks, and high-volume designof- experiments studies.",
+  "s": "These interfaces",
+  "v": "allow",
+  "chunks": [
+   {"en": "These interfaces allow CEA to be used directly", "ko": "이 인터페이스들 덕분에 CEA를 곧바로 쓸 수 있다", "r": "주어 + 동사 + 목적어 + 목적격보어(수동)"},
+   {"en": "in automated analysis pipelines,", "ko": "자동화된 해석 파이프라인,", "r": "전치사구(어디에서) 하나"},
+   {"en": "multidisciplinary design frameworks,", "ko": "여러 분야를 아우르는 설계 프레임워크,", "r": "쓰이는 곳 둘"},
+   {"en": "and high-volume designof- experiments studies.", "ko": "그리고 대량으로 돌리는 실험계획법 연구에서", "r": "쓰이는 곳 셋"}
+  ],
+  "ko": "이 인터페이스들 덕분에 CEA를 자동화된 해석 파이프라인, 여러 분야를 아우르는 설계 프레임워크, 그리고 대량으로 돌리는 실험계획법(design-of-experiments) 연구에서 곧바로 쓸 수 있다.",
+  "why": "allow A to be used 는 'A가 쓰이도록 해 준다', 곧 'A를 쓸 수 있게 해 준다'는 뜻이다. to be used 가 수동이라 CEA는 쓰는 쪽이 아니라 쓰이는 쪽이다. designof- experiments 는 원문에서 design-of-experiments(실험계획법)가 줄바꿈 때문에 깨진 채 실린 것이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|3.3",
+  "en": "Backward compatibility is supported through a legacy command-line interface, allowing existing CEA input files and workflows to be carried forward with minimal disruption.",
+  "s": "Backward compatibility",
+  "v": "is supported",
+  "chunks": [
+   {"en": "Backward compatibility is supported", "ko": "하위 호환성은 지원된다", "r": "주어 + 동사(수동태)"},
+   {"en": "through a legacy command-line interface,", "ko": "예전 방식의 명령줄 인터페이스를 통해", "r": "전치사구(어떤 수단으로)"},
+   {"en": "allowing existing CEA input files and workflows", "ko": "그래서 기존 CEA 입력 파일과 작업 흐름을", "r": "분사구문(그 결과)"},
+   {"en": "to be carried forward with minimal disruption.", "ko": "거의 흐트러뜨리지 않고 그대로 이어 쓸 수 있게 된다", "r": "목적격보어(수동) + 전치사구"}
+  ],
+  "ko": "하위 호환성은 예전 방식의 명령줄 인터페이스를 통해 지원된다. 덕분에 기존 CEA 입력 파일과 작업 흐름을 거의 손대지 않고 그대로 이어서 쓸 수 있다.",
+  "why": "is supported 도 to be carried forward 도 수동이라, 지원하는 쪽과 옮기는 쪽이 문장에 나오지 않고 수단(through ~)만 나온다. allowing 이하는 앞 내용이 낳는 결과를 덧붙이는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|4.0",
+  "en": "The thermodynamic database has been expanded to support additional propellants and fuels relevant to current NASA applications, including green propellant constituents such as ADN, HAN, and LMP-103S, and sustainable aviation fuel candidates such as n-Butanol.",
+  "s": "The thermodynamic database",
+  "v": "has been expanded",
+  "chunks": [
+   {"en": "The thermodynamic database has been expanded", "ko": "열역학 데이터베이스가 확장되었다", "r": "주어 + 동사(현재완료 수동)"},
+   {"en": "to support additional propellants and fuels", "ko": "추진제와 연료를 더 다룰 수 있도록", "r": "목적(~하기 위해)"},
+   {"en": "relevant to current NASA applications,", "ko": "현재 NASA가 쓰는 분야와 관련이 있는", "r": "형용사구(앞의 추진제·연료 설명)"},
+   {"en": "including green propellant constituents such as ADN, HAN, and LMP-103S,", "ko": "ADN, HAN, LMP-103S 같은 친환경 추진제 성분과", "r": "예시 하나"},
+   {"en": "and sustainable aviation fuel candidates such as n-Butanol.", "ko": "n-Butanol 같은 지속가능 항공연료 후보를 포함해", "r": "예시 둘"}
+  ],
+  "ko": "열역학 데이터베이스가 확장되어, 현재 NASA가 쓰는 분야와 관련된 추진제와 연료를 더 다룰 수 있게 되었다. 여기에는 ADN, HAN, LMP-103S 같은 친환경 추진제 성분과 n-Butanol 같은 지속가능 항공연료 후보가 들어 있다.",
+  "why": "has been expanded 는 현재완료 수동이라 '확장했다'가 아니라 '확장되었고 지금 그 상태다'라는 뜻이며 확장한 쪽은 나오지 않는다. relevant to ~ 는 앞의 추진제·연료를 꾸미는 말이고, including 이하는 그 물질들의 예다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|4.1",
+  "en": "This expanded species coverage improves the applicability of CEA for next-generation propulsion, green propellant, and sustainable aviation fuel studies.",
+  "s": "This expanded species coverage",
+  "v": "improves",
+  "chunks": [
+   {"en": "This expanded species coverage improves", "ko": "이렇게 넓어진 화학종 수록 범위가 ~을 높인다", "r": "주어 + 동사"},
+   {"en": "the applicability of CEA", "ko": "CEA를 가져다 쓸 수 있는 폭을", "r": "목적어"},
+   {"en": "for next-generation propulsion, green propellant,", "ko": "차세대 추진, 친환경 추진제,", "r": "전치사구(어느 분야에서)"},
+   {"en": "and sustainable aviation fuel studies.", "ko": "그리고 지속가능 항공연료 연구에서", "r": "분야 나열(이어짐)"}
+  ],
+  "ko": "이렇게 넓어진 화학종(species) 수록 범위 덕분에, 차세대 추진·친환경 추진제·지속가능 항공연료 연구에서 CEA를 가져다 쓸 수 있는 폭이 넓어진다.",
+  "why": "여기서 species 는 생물의 '종'이 아니라 화학에서 말하는 '화학종', 곧 다루는 물질의 종류다. 맨 끝 studies 하나가 앞의 셋 모두에 걸리므로 차세대 추진 연구, 친환경 추진제 연구, 지속가능 항공연료 연구 셋을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.0",
+  "en": "For standalone use, individual equilibrium calculations in CEA v3 are moderately slower than comparable CEA2 calculations because the modernized architecture and added robustness introduce additional computational overhead.",
+  "s": "individual equilibrium calculations in CEA v3",
+  "v": "are",
+  "chunks": [
+   {"en": "For standalone use,", "ko": "따로 떼어 한 건씩 쓸 때는", "r": "조건(어떤 경우에)"},
+   {"en": "individual equilibrium calculations in CEA v3", "ko": "CEA v3의 개별 평형 계산이", "r": "주어"},
+   {"en": "are moderately slower than comparable CEA2 calculations", "ko": "같은 조건의 CEA2 계산보다 어느 정도 느리다", "r": "동사 + 보어(비교)"},
+   {"en": "because the modernized architecture and added robustness", "ko": "현대화된 구조와 새로 더해진 견고함이", "r": "부사절(이유)의 주어"},
+   {"en": "introduce additional computational overhead.", "ko": "계산 부담을 추가로 만들어 내기 때문이다", "r": "이유절의 동사 + 목적어"}
+  ],
+  "ko": "따로 떼어 한 건씩 쓸 때는, CEA v3의 개별 평형 계산이 같은 조건의 CEA2 계산보다 어느 정도 느리다. 현대화된 구조와 새로 더해진 견고함(robustness)이 계산 부담을 추가로 만들어 내기 때문이다.",
+  "why": "slower 의 주어가 CEA v3 쪽이므로 '새것이 옛것보다 느리다'는 말이다. 새로 고친 쪽이 당연히 빠를 것이라고 짐작하면 정반대로 읽게 된다. because 이하가 그 이유이고, 그 절의 주어는 구조와 견고함 두 가지다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.1",
+  "en": "In representative testing, a single calculation was approximately 40 percent slower, but the absolute difference was only about 0.004 seconds per case.",
+  "s": "a single calculation",
+  "v": "was",
+  "chunks": [
+   {"en": "In representative testing,", "ko": "대표적인 시험에서는", "r": "전치사구(어떤 상황에서)"},
+   {"en": "a single calculation was approximately 40 percent slower,", "ko": "한 번의 계산이 약 40퍼센트 느렸다", "r": "주어 + 동사 + 보어(비교)"},
+   {"en": "but the absolute difference was only", "ko": "그러나 실제 시간 차이는 ~에 지나지 않았다", "r": "대등절(대조)"},
+   {"en": "about 0.004 seconds per case.", "ko": "한 건당 약 0.004초", "r": "보어(수치)"}
+  ],
+  "ko": "대표적인 시험에서는 한 번의 계산이 약 40퍼센트 느렸지만, 실제 시간 차이는 한 건당 약 0.004초에 지나지 않았다.",
+  "why": "40퍼센트라는 큰 비율과 0.004초라는 아주 작은 실제 값이 but 으로 맞물려, 비율로는 커 보여도 실제로는 무시할 만하다는 뜻이 된다. only 를 놓치면 차이가 크다는 정반대의 이야기가 된다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.2",
+  "en": "However, the modernized architecture provides substantial performance advantages for multi-case workflows, which are common in design-of-experiments studies, parametric sweeps, optimization, and uncertainty analyses.",
+  "s": "the modernized architecture",
+  "v": "provides",
+  "chunks": [
+   {"en": "However, the modernized architecture provides", "ko": "그러나 현대화된 구조는 ~을 준다", "r": "연결어 + 주어 + 동사"},
+   {"en": "substantial performance advantages for multi-case workflows,", "ko": "여러 건을 한꺼번에 돌리는 작업에서 상당한 성능 이점을", "r": "목적어 + 전치사구(어디에서)"},
+   {"en": "which are common in design-of-experiments studies,", "ko": "그런 작업은 실험계획법 연구,", "r": "관계절(앞의 multi-case workflows 설명)"},
+   {"en": "parametric sweeps, optimization, and uncertainty analyses.", "ko": "매개변수 훑기, 최적화, 불확실성 해석에서 흔하다", "r": "흔한 곳 나열(이어짐)"}
+  ],
+  "ko": "그러나 현대화된 구조는 여러 건을 한꺼번에 돌리는 작업(multi-case workflows)에서는 상당한 성능 이점을 준다. 그런 작업은 실험계획법 연구, 매개변수 훑기, 최적화, 불확실성 해석에서 흔하다.",
+  "why": "which 는 바로 앞의 multi-case workflows 를 받는다. 뒤따르는 are 가 복수형인 것이 단서다. However 는 앞 문장의 '한 건씩 돌리면 느리다'와 맞세운 말이라, 한 건일 때와 여러 건일 때가 정반대라는 뜻이 된다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.3",
+  "en": "In one benchmark, a sweep of 108,500 cases completed in approximately 1.11 seconds with CEA v3, compared with approximately 15 minutes using CEA2.",
+  "s": "a sweep of 108,500 cases",
+  "v": "completed",
+  "chunks": [
+   {"en": "In one benchmark,", "ko": "한 성능 시험에서는", "r": "전치사구(어떤 상황에서)"},
+   {"en": "a sweep of 108,500 cases", "ko": "108,500건을 훑는 계산이", "r": "주어"},
+   {"en": "completed in approximately 1.11 seconds with CEA v3,", "ko": "CEA v3로는 약 1.11초 만에 끝났다", "r": "동사 + 걸린 시간 + 무엇으로"},
+   {"en": "compared with approximately 15 minutes using CEA2.", "ko": "CEA2로 하면 약 15분이 걸리는 것과 견주어", "r": "비교(다른 쪽 값)"}
+  ],
+  "ko": "한 성능 시험에서 108,500건을 훑는 계산이 CEA v3로는 약 1.11초 만에 끝났다. 같은 일을 CEA2로 하면 약 15분이 걸린다.",
+  "why": "여기서 completed 는 '무엇을 완료했다'가 아니라 '계산이 끝났다'는 뜻으로 쓰였다. 뒤의 compared with ~ 는 견주는 상대 쪽 값이므로 1.11초가 CEA v3, 15분이 CEA2다. 둘을 바꿔 읽으면 결론이 정반대가 된다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.4",
+  "en": "This corresponds to an approximately 800-times reduction in runtime for that workflow.",
+  "s": "This",
+  "v": "corresponds",
+  "chunks": [
+   {"en": "This corresponds to", "ko": "이것은 ~에 해당한다", "r": "주어 + 동사"},
+   {"en": "an approximately 800-times reduction in runtime", "ko": "실행 시간이 약 800배 줄어든 것", "r": "목적어(긴 명사구)"},
+   {"en": "for that workflow.", "ko": "그 작업에 대해서는", "r": "전치사구(어느 경우인가)"}
+  ],
+  "ko": "이는 그 작업에서 실행 시간이 약 800배 줄어든 것에 해당한다.",
+  "why": "reduction in runtime 은 '실행 시간의 줄어듦'이라 약 800분의 1로 빨라졌다는 뜻이다. 800-times 라는 말만 보고 늘었다고 읽으면 정반대가 된다. This 는 앞 문장의 1.11초 대 15분 비교를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|6.5",
+  "en": "These improvements make large-scale propulsion trade studies and automated design-space exploration significantly more practical.",
+  "s": "These improvements",
+  "v": "make",
+  "chunks": [
+   {"en": "These improvements make", "ko": "이러한 개선들은 ~을 ~하게 만든다", "r": "주어 + 동사"},
+   {"en": "large-scale propulsion trade studies", "ko": "대규모 추진 비교검토 연구와", "r": "목적어 하나"},
+   {"en": "and automated design-space exploration", "ko": "자동화된 설계 공간 탐색을", "r": "목적어 둘"},
+   {"en": "significantly more practical.", "ko": "훨씬 더 해 볼 만한 일로", "r": "목적격보어"}
+  ],
+  "ko": "이러한 개선들 덕분에 대규모 추진 비교검토(trade study) 연구와 자동화된 설계 공간 탐색이 훨씬 더 해 볼 만한 일이 된다.",
+  "why": "make A B 는 'A를 만든다'가 아니라 'A를 B한 상태로 만든다'는 짜임이다. 여기서 A는 둘(연구와 탐색)이고 B는 맨 끝의 significantly more practical 이다. make 를 '만들다'로만 읽으면 '연구를 만든다'는 엉뚱한 뜻이 된다.",
+  "st": []
+ },
+ {
+  "id": "8e6b834f|8.0",
+  "en": "For more information, contact Mark K.",
+  "s": "",
+  "v": "contact",
+  "chunks": [
+   {"en": "For more information,", "ko": "더 자세한 내용을 알고 싶으면", "r": "조건(어떤 경우에)"},
+   {"en": "contact Mark K.", "ko": "Mark K.에게 연락하십시오", "r": "동사(명령문) + 목적어"}
+  ],
+  "ko": "더 자세한 내용은 Mark K.에게 연락하면 된다.",
+  "why": "기사 맨 끝에 다시 나오는 연락처 안내다. 주어가 없는 명령문이라 숨은 주어는 이 글을 읽는 사람(you)이고, contact 는 명사가 아니라 '연락하라'는 동사다.",
+  "st": []
+ }
+]

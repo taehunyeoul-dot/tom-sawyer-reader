@@ -1,0 +1,95 @@
+{
+ "7387a168|0.0": [
+  {"t":"who","q":"<b>a total solar eclipse darkened skies</b> — 어두워진 것은 무엇입니까?","a":"skies(하늘)입니다 — 일식이 하늘을 어둡게 만들었습니다","tip":"darkened 는 '어두워지다'가 아니라 '~을 어둡게 하다'입니다. 주어인 일식 자체가 어두워졌다고 읽으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>over Greenland, Iceland, and Spain</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 skies — 어두워진 하늘이 어느 지역 하늘인지를 밝힙니다","tip":"'그린란드·아이슬란드·스페인 위를 지나갔다'처럼 동사에 붙이기 쉽지만, 이 말은 skies 에 붙습니다."},
+  {"t":"time","q":"<b>On Aug. 12</b> — 이 일은 이미 일어난 일입니까, 앞으로 일어날 일입니까?","a":"이미 일어난 일입니다 — 동사가 과거형 darkened 입니다","tip":"기사 첫 문장이라 예고로 읽기 쉽지만, 이 기사는 이미 끝난 일식을 보고하는 글입니다."}
+ ],
+ "7387a168|0.1": [
+  {"t":"pron","q":"<b>it briefly revealed</b> 의 it 은 무엇을 가리킵니까?","a":"the Moon(달)입니다","tip":"바로 앞의 the Sun 으로 잡기 쉽지만, 뒤에 the Sun’s 가 다시 나오므로 it 은 해가 아닙니다. 해를 가려 코로나를 드러낸 쪽은 달입니다."},
+  {"t":"mod","q":"<b>— the corona —</b> 는 무엇을 가리킵니까?","a":"바로 앞의 the Sun’s wispy outer atmosphere(해의 바깥쪽 대기)와 같은 것입니다","tip":"대시 사이에 든 말은 앞 명사를 다시 부르는 같은 말(동격)입니다. 드러난 것이 두 가지라고 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>who were lucky enough to have clear skies</b> 는 누구를 설명하는 말입니까?","a":"앞의 those in the path of totality — 개기 구간 안에 있던 사람들입니다","tip":"NASA 연구진이나 달을 설명하는 말로 잡기 쉽습니다. who 바로 앞의 사람 명사를 찾으세요."}
+ ],
+ "7387a168|0.2": [
+  {"t":"who","q":"<b>to study the corona, capture the phenomenon, and observe</b> — 이 세 가지를 하는 쪽은 누구입니까?","a":"NASA researchers and photographers(NASA 연구자들과 사진가들)입니다","tip":"capture·observe 앞에 to 가 다시 붙어 있지 않아 다른 주체의 동작으로 보이지만, 셋 다 앞의 to 하나에 걸립니다."},
+  {"t":"mod","q":"<b>along the eclipse path</b> 는 무엇을 밝히는 말입니까?","a":"연구자와 사진가들이 있던 곳입니다 — 일식이 지나가는 길을 따라","tip":"the eclipse path 는 '일식 사진'이 아니라 달그림자가 지구 위를 지나가는 경로입니다."},
+  {"t":"time","q":"<b>how the eclipse affected our planet</b> — 이 영향은 앞으로 볼 일입니까, 이미 지난 일입니까?","a":"이미 지난 일입니다 — 과거형 affected 로 8월 12일 일식 때의 일을 말합니다","tip":"how 절 안의 시제까지 확인해야 합니다. 미래로 읽으면 관찰 시점이 어긋납니다."}
+ ],
+ "7387a168|1.0": [
+  {"t":"mod","q":"<b>as well as the partial phases before and after</b> — 이 사진가가 담은 것은 몇 가지입니까?","a":"두 가지입니다 — 개기 일식과, 그 앞뒤의 부분 일식 단계","tip":"as well as 는 '~만큼 잘'이 아니라 'A뿐 아니라 B도'입니다. 하나만 담았다고 읽으면 절반이 사라집니다."},
+  {"t":"mod","q":"<b>the partial phases before and after</b> — 무엇의 앞뒤를 말합니까?","a":"the total solar eclipse(개기 일식)의 앞뒤입니다","tip":"해가 지기 전후로 읽기 쉽지만, 부분 일식은 개기 단계의 앞뒤에 오는 단계입니다."},
+  {"t":"time","q":"<b>until the Sun set below the horizon</b> 의 set 은 무슨 뜻이고 어느 시제입니까?","a":"'(해가) 지다'의 과거형입니다 — 해가 지평선 아래로 질 때까지 찍었다는 뜻","tip":"set 은 현재형과 과거형의 모양이 같습니다. 여기서는 '놓다·설치하다'가 아닙니다."}
+ ],
+ "7387a168|2.0": [
+  {"t":"mod","q":"<b>speeding past the partially eclipsed Sun</b> — 빠르게 지나가고 있던 것은 무엇입니까?","a":"the International Space Station(국제우주정거장)입니다","tip":"바로 앞의 crew of seven 이나 사진가에 붙이기 쉽습니다. 쉼표 안의 with… 를 건너뛰면 station 과 speeding 이 이어집니다."},
+  {"t":"who","q":"<b>another NASA photographer captured</b> — 이 사진을 찍은 사람은 어디에 있었습니까?","a":"메인주 북부(In northern Maine)의 지상입니다 — 우주정거장 안이 아닙니다","tip":"우주정거장이 나온다고 우주에서 찍은 사진으로 읽기 쉽습니다. 지상에서 해 앞을 지나가는 정거장을 찍은 것입니다."},
+  {"t":"mod","q":"<b>where only a partial eclipse was visible</b> 는 어디를 설명하는 말입니까?","a":"바로 앞의 In northern Maine(메인주 북부)입니다","tip":"where 를 '어디에서'라는 물음으로 읽지 마세요. 앞의 장소를 설명하는 말이고, 그곳에서는 개기가 아니라 부분 일식만 보였습니다."},
+  {"t":"pron","q":"<b>with its crew of seven aboard</b> 의 its 는 무엇을 가리킵니까?","a":"the International Space Station(국제우주정거장)입니다 — 정거장에 타고 있던 승무원 일곱 명","tip":"사진가나 NASA로 잡기 쉽습니다. 바로 앞 명사가 정거장입니다."}
+ ],
+ "7387a168|3.0": [
+  {"t":"pron","q":"<b>from their perspective</b> 의 their 는 누구를 가리킵니까?","a":"그 NASA 우주비행사 한 명입니다","tip":"복수형이라 '우주비행사들'이나 앞 문장의 승무원 일곱 명으로 잡기 쉽지만, 영어는 성별을 밝히지 않을 때 한 사람에게도 their 를 씁니다."},
+  {"t":"who","q":"<b>a NASA astronaut aboard the International Space Station snapped</b> — 이번에 사진을 찍은 쪽은 누구입니까?","a":"국제우주정거장에 타고 있던 NASA 우주비행사입니다 — 앞 문장의 지상 사진가가 아닙니다","tip":"앞 문장과 같은 정거장이 나오지만 찍는 사람이 바뀝니다. 앞 문장은 지상에서 정거장을 찍었고, 이 문장은 정거장 안에서 일식을 찍었습니다."},
+  {"t":"mod","q":"<b>from about 250 miles above the ground</b> 는 무엇을 밝히는 말입니까?","a":"사진을 찍은 위치입니다 — 지상 약 250마일 위, 곧 우주정거장에서 찍었다는 뜻","tip":"일식이 250마일 위에서 일어났다고 읽으면 안 됩니다. 이 말은 촬영 지점을 밝힙니다."},
+  {"t":"time","q":"<b>Meanwhile</b> — 이 일은 앞 문장의 촬영보다 뒤에 일어난 일입니까?","a":"아닙니다 — 같은 시각에 나란히 일어난 일입니다","tip":"Meanwhile 은 '그러고 나서'가 아니라 '같은 시각에, 한편'입니다."}
+ ],
+ "7387a168|4.0": [
+  {"t":"who","q":"<b>passing through the eclipse’s shadow</b> — 그림자 속을 지나간 것은 무엇입니까?","a":"NASA 조종사들이 몬 WB-57F 제트기입니다","tip":"분사구문(-ing)은 바로 앞 명사가 아니라 문장의 주어에 붙습니다. 50,000 feet 나 그림자 자체가 지나갔다고 읽으면 안 됩니다."},
+  {"t":"pron","q":"<b>to lengthen their time in the eclipse</b> 의 their 는 누구를 가리킵니까?","a":"NASA pilots(NASA 조종사들)입니다","tip":"일식이나 그림자로 잡기 쉽습니다. 시간이 늘어나는 쪽은 비행기로 그림자를 따라간 사람들입니다."},
+  {"t":"mod","q":"<b>at an altitude of 50,000 feet</b> 는 무엇을 밝히는 말입니까?","a":"제트기가 난 높이입니다 — 고도 5만 피트","tip":"50,000 feet 를 날아간 거리나 그림자의 크기로 읽기 쉽습니다. altitude 는 '고도(높이)'입니다."}
+ ],
+ "7387a168|4.1": [
+  {"t":"mod","q":"<b>plumes of electrically charged gas rising off the Sun</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 prominences(홍염)입니다 — 같은 것을 쉬운 말로 풀어 준 것","tip":"쉼표 뒤에 나와 촬영 대상이 하나 더 늘어난 것처럼 보이지만, 담은 것은 코로나와 홍염 두 가지입니다."},
+  {"t":"mod","q":"<b>in several different wavelengths of light</b> 는 어느 말에 걸립니까?","a":"captured — 카메라가 여러 파장으로 사진을 담았다는 뜻입니다","tip":"바로 앞의 rising off the Sun 에 붙여 '여러 파장으로 솟아오른다'고 읽기 쉽습니다."},
+  {"t":"who","q":"<b>that captured high-resolution images</b> — 사진을 담은 것은 무엇입니까?","a":"a suite of cameras(제트기에 실린 카메라 한 벌)입니다","tip":"that 바로 앞의 명사를 찾으세요. 제트기가 아니라 카메라가 찍었습니다."}
+ ],
+ "7387a168|5.0": [
+  {"t":"who","q":"<b>please enable JavaScript</b> — 이 문장이 시키는 대상은 누구입니까?","a":"이 글을 읽는 사람(독자)입니다 — 주어가 생략된 명령문입니다","tip":"NASA나 앞 문장의 조종사들이 하는 일로 읽으면 안 됩니다. 기사 내용이 아니라 영상이 안 보일 때 뜨는 안내문입니다."},
+  {"t":"mod","q":"<b>To view this video</b> 는 이 문장에서 어떤 역할입니까?","a":"'이 영상을 보려면'이라는 조건입니다 — 주어가 아닙니다","tip":"맨 앞의 To부정사를 주어로 잡으면 '보는 것이 ~한다'가 되어 뜻이 어긋납니다."},
+  {"t":"mod","q":"<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 a web browser — HTML5 영상을 지원하는 브라우저라는 뜻입니다","tip":"upgrading 이나 JavaScript 에 붙이기 쉽습니다. that 바로 앞의 명사를 보세요."}
+ ],
+ "7387a168|6.0": [
+  {"t":"who","q":"<b>the NASA-funded Nationwide Eclipse Ballooning Project</b> — 기구를 띄운 쪽은 NASA입니까, 학생들입니까?","a":"학생 팀들입니다 — NASA는 자금을 댄 쪽입니다","tip":"-funded 는 '자금을 받은'입니다. 이름 안에 NASA가 들어 있다고 NASA가 한 일로 읽으면 주체가 바뀝니다."},
+  {"t":"mod","q":"<b>teams of students participating in</b> — participating 은 무엇을 설명하는 말입니까?","a":"앞의 teams of students — 그 프로젝트에 참여한 학생 팀들이라는 뜻입니다","tip":"participating 을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 launched 입니다."},
+  {"t":"mod","q":"<b>that carried instruments</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 scientific balloons(과학 관측용 기구)입니다","tip":"학생 팀들이 장비를 들고 있었다고 읽기 쉽습니다. 장비를 실은 것은 띄워 올린 기구입니다."},
+  {"t":"who","q":"<b>to capture images of the eclipse’s shadow and study</b> — 담고 연구하는 데 쓰인 것은 무엇입니까?","a":"기구에 실린 instruments(관측 장비)입니다","tip":"and study 앞에 to 가 없어 다른 동작으로 보이지만, capture 와 study 는 둘 다 앞의 to 에 걸립니다."}
+ ],
+ "7387a168|6.1": [
+  {"t":"neg","q":"<b>the weather did not interfere with</b> — 날씨 때문에 자료 수집이 막혔습니까?","a":"아니요, 막히지 않았습니다 — 날씨는 장비의 자료 수집 능력을 방해하지 않았습니다","tip":"앞에 구름이 시야를 가렸다는 말이 나와 뒤도 나쁜 결과로 읽기 쉽습니다. did not 을 놓치면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>from the ground in Iceland</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the view of the eclipse — 아이슬란드 지상에서 보는 시야입니다","tip":"구름이 지상에서 왔다고 읽으면 안 됩니다. 가려진 것은 '지상에서 보는 시야'이고, 하늘 위 기구에서는 사정이 달랐습니다."},
+  {"t":"who","q":"<b>the balloon-borne instruments’ ability to gather information</b> — 정보를 모은 것은 무엇입니까?","a":"기구에 실려 올라간 관측 장비들입니다","tip":"balloon-borne 은 '기구가 실어 나른'이라는 뜻입니다. 사람이 직접 모았다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>the brief loss of light and heat</b> — 언제 있었던 일을 말합니까?","a":"일식이 진행되던 짧은 동안입니다 — 해가 가려져 빛과 열이 잠깐 사라진 때","tip":"loss 를 '고장·손해'로 읽기 쉽습니다. 여기서는 일식 때 빛과 열이 잠깐 줄어든 것을 뜻합니다."}
+ ],
+ "7387a168|7.0": [
+  {"t":"who","q":"<b>please enable JavaScript</b> — 이 문장이 시키는 대상은 누구입니까?","a":"이 글을 읽는 사람(독자)입니다 — 주어가 생략된 명령문입니다","tip":"기사 내용이 아니라 영상이 안 보일 때 뜨는 안내문입니다. NASA가 하는 일로 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>To view this video</b> 는 이 문장에서 어떤 역할입니까?","a":"'이 영상을 보려면'이라는 조건입니다 — 주어가 아닙니다","tip":"맨 앞의 To부정사를 주어로 잡으면 '보는 것이 ~한다'가 되어 뜻이 어긋납니다."},
+  {"t":"mod","q":"<b>consider upgrading to a web browser that supports HTML5 video</b> — 무엇을 바꾸라는 말입니까?","a":"웹 브라우저를 HTML5 영상을 지원하는 것으로 바꾸라는 말입니다","tip":"upgrade 를 '영상 화질을 올린다'로 읽기 쉽습니다. 바꾸는 대상은 브라우저입니다."}
+ ],
+ "7387a168|8.0": [
+  {"t":"who","q":"<b>with support from NASA grants and supercomputers</b> — 예측을 한 쪽은 누구입니까?","a":"Predictive Science Inc.의 과학자들입니다 — NASA는 연구비와 슈퍼컴퓨터로 도운 쪽입니다","tip":"NASA가 나온다고 NASA가 한 일로 읽기 쉽습니다. support from NASA 는 '도움을 준 쪽이 NASA'라는 뜻입니다."},
+  {"t":"time","q":"<b>Before the eclipse</b> — 이 예측은 일식 전입니까, 일식 뒤입니까?","a":"일식 전입니다 — 코로나가 어떤 모습일지 미리 계산해 둔 것입니다","tip":"일식이 이미 지난 기사라 관측 결과 분석으로 읽기 쉽지만, 이 문장은 일식 전에 한 예측을 말합니다."},
+  {"t":"mod","q":"<b>from NASA spacecraft and ground-based telescopes</b> 는 무엇을 설명하는 말입니까?","a":"앞의 observations of the Sun — 그 관측 자료가 어디에서 나왔는지를 밝힙니다","tip":"'우주선과 망원경으로부터 예측했다'처럼 동사에 붙이기 쉽지만, 이 말은 관측 자료의 출처입니다."},
+  {"t":"time","q":"<b>what the corona would look like during the eclipse</b> — would look 은 언제의 모습입니까?","a":"아직 오지 않은 일식 때의 모습입니다 — 예측한 시점에서 본 앞일","tip":"would 는 과거 시점에서 본 미래입니다. '코로나가 어떻게 보였는지'라는 지난 관찰로 읽으면 예측이 결과로 뒤바뀝니다."}
+ ],
+ "7387a168|8.1": [
+  {"t":"who","q":"<b>is compared to</b> — 비교한 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다(수동태) — 비교되는 것은 그들의 코로나 예측이고, 비교 대상은 코로나 합성 사진입니다","tip":"주어인 their corona prediction 을 '예측이 비교한다'로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"pron","q":"<b>their corona prediction</b> 의 their 는 누구를 가리킵니까?","a":"앞 문장의 Predictive Science Inc. 과학자들입니다","tip":"NASA나 사진가들로 잡기 쉽습니다. 예측을 한 쪽은 앞 문장에서 슈퍼컴퓨터로 계산한 그 과학자들입니다."},
+  {"t":"mod","q":"<b>which combines multiple images</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 a composite image of the corona(코로나 합성 사진)입니다","tip":"예측(prediction)을 설명하는 말로 잡기 쉽습니다. 여러 장을 합쳐 만든 쪽은 사진입니다."},
+  {"t":"who","q":"<b>captured by the NASA-supported DEB Initiative project</b> — 사진을 찍은 쪽은 누구입니까?","a":"DEB Initiative 프로젝트입니다 — NASA는 그 프로젝트를 지원한 쪽입니다","tip":"-supported 는 '지원을 받는'이고, captured by 도 '~에 의해 찍힌'이라는 수동입니다. 방향을 뒤집어 읽기 쉬운 자리가 두 군데입니다."}
+ ],
+ "7387a168|9.0": [
+  {"t":"time","q":"<b>scientists will analyze the observations and images</b> — 분석은 이미 끝난 일입니까, 앞으로 할 일입니까?","a":"앞으로 할 일입니다 — 앞으로 몇 달에 걸쳐 분석하고 발표할 예정입니다","tip":"사진을 담은 것(captured)은 이미 끝났고 분석·발표는 남아 있습니다. 한 문장 안에 두 시점이 섞여 있습니다."},
+  {"t":"mod","q":"<b>captured during the solar eclipse on Aug. 12</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the observations and images(관측 자료와 사진들)입니다","tip":"captured 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 will analyze 와 (will) present 입니다."},
+  {"t":"who","q":"<b>and present what they have learned</b> — 발표하는 쪽은 누구입니까?","a":"scientists(과학자들)입니다 — will analyze 와 같은 주어입니다","tip":"present 앞에 will 도 주어도 없어 다른 주체로 보이지만, 앞의 will 과 scientists 를 그대로 이어받습니다."},
+  {"t":"pron","q":"<b>its effects on our home planet</b> 의 its 는 무엇을 가리킵니까?","a":"the Sun(태양)입니다 — 태양이 우리 지구에 주는 영향","tip":"일식이나 관측 자료로 잡기 쉽습니다. 바로 앞의 the Sun 을 받고, our home planet 은 지구를 말합니다."}
+ ],
+ "7387a168|9.1": [
+  {"t":"time","q":"<b>that will be visible from southern Spain and northern Africa</b> — 이 일식은 이미 본 것입니까, 앞으로 올 것입니까?","a":"앞으로 올 것입니다 — 2027년 8월 2일에 있을 일식입니다","tip":"기사 앞부분이 8월 12일에 이미 있었던 일식 이야기라 같은 일로 읽기 쉽습니다. will be 가 미래를 알려 줍니다."},
+  {"t":"mod","q":"<b>such as a much longer total solar eclipse</b> 는 무엇의 예입니까?","a":"앞의 future solar eclipses(앞으로 올 일식들)의 예입니다","tip":"8월 12일 일식의 예로 읽으면 안 됩니다. 이 일식은 아직 오지 않은 2027년 일식입니다."},
+  {"t":"who","q":"<b>help prepare science teams to investigate future solar eclipses</b> — 조사할 쪽은 누구입니까?","a":"science teams(과학 팀들)입니다 — 관측 자료는 그 팀들의 준비를 돕는 것입니다","tip":"관측 자료가 조사한다고 읽기 쉽습니다. help + 동사원형(prepare) 구조라 준비를 갖추고 조사하는 쪽은 사람(팀)입니다."},
+  {"t":"pron","q":"<b>These observations</b> 는 무엇을 가리킵니까?","a":"8월 12일 일식 때 얻은 관측 자료와 사진들입니다","tip":"앞 문장의 관측 자료를 받습니다. 앞으로 할 관측으로 읽으면 시간이 뒤집힙니다."}
+ ],
+ "7387a168|10.0": [
+  {"t":"mod","q":"<b>in Greenbelt, Maryland</b> 는 무엇의 위치입니까?","a":"NASA’s Goddard Space Flight Center(고다드 우주비행센터)의 위치입니다","tip":"Vanessa Thomas 가 사는 곳으로 읽기 쉽습니다. 가장 가까운 앞 명사인 센터에 붙습니다."},
+  {"t":"who","q":"<b>Vanessa Thomas is a science writer</b> — 이 사람은 이 기사에서 어떤 사람입니까?","a":"이 기사를 쓴 NASA의 과학 담당 글쓴이입니다 — 일식을 관측한 과학자가 아닙니다","tip":"기사 맨 끝에 붙는 글쓴이 소개입니다. 앞 문장들의 연구자·사진가와 헷갈리지 마세요."},
+  {"t":"mod","q":"<b>with the heliophysics communications team</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a science writer — 그가 어느 팀 소속인지를 밝힙니다","tip":"with 를 '~와 함께 (일한다)'로만 읽기 쉽지만, 여기서는 소속을 나타냅니다."}
+ ]
+}

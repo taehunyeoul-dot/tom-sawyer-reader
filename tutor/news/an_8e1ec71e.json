@@ -1,0 +1,198 @@
+[
+ {
+  "id": "8e1ec71e|0.0",
+  "en": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision.",
+  "s": "NASA",
+  "v": "has selected",
+  "chunks": [
+   {
+    "en": "NASA has selected four companies",
+    "ko": "NASA는 업체 네 곳을 선정했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to provide payload processing facilities",
+    "ko": "탑재체 처리 시설을 제공하도록",
+    "r": "목적(무엇을 하도록 뽑았나)"
+   },
+   {
+    "en": "under the Spacecraft Processing Operations Contract on‑ramp provision.",
+    "ko": "우주선 처리 운영 계약의 온램프 조항에 따라",
+    "r": "전치사구(선정의 근거가 된 조항)"
+   }
+  ],
+  "ko": "NASA는 우주선 처리 운영 계약(Spacecraft Processing Operations Contract)의 온램프(on-ramp, 나중에 업체를 더 받아들이는) 조항에 따라, 탑재체 처리 시설을 제공할 업체 네 곳을 선정했다.",
+  "why": "동사는 has selected 하나뿐이고, to provide 이하는 \"무엇을 하도록 뽑았는지\"를 밝히는 목적이다. 맨 뒤 the Spacecraft Processing Operations Contract on‑ramp provision 은 명사가 줄줄이 붙은 한 덩어리이므로, 뒤에서부터 \"조항(provision) ← 온램프(on‑ramp) ← 그 계약(Contract)의\" 순으로 풀어야 한다.",
+  "st": []
+ },
+ {
+  "id": "8e1ec71e|0.1",
+  "en": "The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award.",
+  "s": "The provision",
+  "v": "enables",
+  "chunks": [
+   {
+    "en": "The provision enables qualified providers",
+    "ko": "이 조항은 자격을 갖춘 업체들이 ~할 수 있게 한다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to offer commercial payload processing services",
+    "ko": "상업 탑재체 처리 서비스를 제공하도록",
+    "r": "목적어를 보충하는 말(무엇을 하게 하나)"
+   },
+   {
+    "en": "for agency missions",
+    "ko": "NASA의 임무들을 위해",
+    "r": "전치사구(누구를 위한 서비스인가)"
+   },
+   {
+    "en": "launching from multiple locations",
+    "ko": "여러 장소에서 발사되는",
+    "r": "현재분사구(앞의 missions 설명)"
+   },
+   {
+    "en": "where capabilities were not available",
+    "ko": "(그런) 능력이 없었던",
+    "r": "관계절(앞의 locations 설명)"
+   },
+   {
+    "en": "at the time of the initial contract award.",
+    "ko": "처음 계약을 맺을 당시에는",
+    "r": "시간"
+   }
+  ],
+  "ko": "이 조항 덕분에, 자격을 갖춘 업체들이 상업 탑재체 처리 서비스를 제공할 수 있게 된다. 처음 계약을 맺을 당시에는 그런 처리 능력이 없었던 여러 장소에서 발사되는 NASA 임무들을 위한 서비스다.",
+  "why": "enable A to B 는 \"A가 B할 수 있게 하다\"라는 뜻이라, 서비스를 제공하는 쪽은 주어(The provision)가 아니라 qualified providers 다. 뒤로 갈수록 꾸미는 말이 사슬처럼 이어진다 — missions ← launching from ~ ← where ~ 순으로 바로 앞 명사에 하나씩 붙는다. 그리고 were not available 의 not 을 놓치면 뜻이 정반대가 된다.",
+  "st": []
+ },
+ {
+  "id": "8e1ec71e|1.0",
+  "en": "Through the contract, NASA procures facilities and services required to perform prelaunch processing of spacecraft and associated rocket hardware for delivery to the launch pad.",
+  "s": "NASA",
+  "v": "procures",
+  "chunks": [
+   {
+    "en": "Through the contract, NASA procures",
+    "ko": "이 계약을 통해 NASA는 ~을 조달한다(사서 확보한다)",
+    "r": "전치사구(수단) + 주어 + 동사"
+   },
+   {
+    "en": "facilities and services",
+    "ko": "시설과 서비스를",
+    "r": "목적어"
+   },
+   {
+    "en": "required to perform prelaunch processing",
+    "ko": "발사 전 처리 작업을 하는 데 필요한",
+    "r": "과거분사구(앞의 시설·서비스 설명)"
+   },
+   {
+    "en": "of spacecraft and associated rocket hardware",
+    "ko": "우주선과 그에 딸린 로켓 장비의",
+    "r": "전치사구(무엇을 처리하나)"
+   },
+   {
+    "en": "for delivery to the launch pad.",
+    "ko": "발사대로 보내기 위해",
+    "r": "목적"
+   }
+  ],
+  "ko": "이 계약을 통해 NASA는, 우주선과 그에 딸린 로켓 장비를 발사대로 보내기 위한 발사 전 처리 작업을 하는 데 필요한 시설과 서비스를 조달한다(밖에서 사서 확보한다).",
+  "why": "이 문장의 동사는 procures 하나뿐이다. required 는 또 하나의 동사가 아니라 앞의 facilities and services 를 꾸미는 말(과거분사)로 \"~하는 데 필요한\"이라는 뜻이다. procure 는 \"조달하다, 사서 확보하다\"이므로 NASA가 직접 만드는 것이 아니라 밖에서 사 온다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "8e1ec71e|2.0",
+  "en": "The Spacecraft Processing Operations Contract is a multiple-award, commercial, firm-fixed-price, indefinite-delivery/indefinite-quantity contract vehicle that has an aggregate ceiling price of $100 million with an ordering period through Feb. 1, 2033.",
+  "s": "The Spacecraft Processing Operations Contract",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "The Spacecraft Processing Operations Contract is",
+    "ko": "우주선 처리 운영 계약은 ~이다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "a multiple-award, commercial, firm-fixed-price,",
+    "ko": "여러 업체와 동시에 맺는, 상업, 금액 확정 방식의",
+    "r": "보어를 꾸미는 말 나열(계약의 성격)"
+   },
+   {
+    "en": "indefinite-delivery/indefinite-quantity contract vehicle",
+    "ko": "납품 시기·수량을 정해 두지 않는 계약 틀",
+    "r": "보어의 중심 명사"
+   },
+   {
+    "en": "that has an aggregate ceiling price of $100 million",
+    "ko": "총 상한 금액이 1억 달러인",
+    "r": "관계절(앞의 contract vehicle 설명)"
+   },
+   {
+    "en": "with an ordering period through Feb. 1, 2033.",
+    "ko": "발주 기간은 2033년 2월 1일까지인",
+    "r": "전치사구(딸린 조건)"
+   }
+  ],
+  "ko": "우주선 처리 운영 계약(Spacecraft Processing Operations Contract)은 여러 업체와 동시에 맺는(multiple-award) 상업 계약 틀로, 금액을 미리 확정하고(firm-fixed-price) 납품 시기와 수량은 정해 두지 않는(indefinite-delivery/indefinite-quantity) 방식이다. 합쳐서 1억 달러가 상한이며, 발주는 2033년 2월 1일까지 할 수 있다.",
+  "why": "뼈대는 \"A는 B이다\"라는 be동사 문장 하나인데, 보어(B에 해당하는 말) 앞에 쉼표로 이어진 수식어가 넷이나 붙어 중심 명사 contract vehicle 이 한참 뒤에 나온다. 쉼표로 나열된 말은 서로 다른 네 가지가 아니라 모두 그 \"계약 틀\" 하나의 성격이다. that 이하는 그 계약 틀을 설명하는 관계절이다.",
+  "st": []
+ },
+ {
+  "id": "8e1ec71e|3.0",
+  "en": "NASA’s Launch Services Program at the agency’s Kennedy Space Center in Florida will manage the contract.",
+  "s": "NASA’s Launch Services Program",
+  "v": "will manage",
+  "chunks": [
+   {
+    "en": "NASA’s Launch Services Program",
+    "ko": "NASA의 발사서비스프로그램이",
+    "r": "주어(NASA 안의 부서 이름)"
+   },
+   {
+    "en": "at the agency’s Kennedy Space Center in Florida",
+    "ko": "플로리다에 있는 그 기관의 케네디우주센터에 자리한",
+    "r": "전치사구(앞 부서의 소재지)"
+   },
+   {
+    "en": "will manage the contract.",
+    "ko": "그 계약을 관리하게 된다",
+    "r": "동사(미래) + 목적어"
+   }
+  ],
+  "ko": "플로리다에 있는 NASA 케네디우주센터(Kennedy Space Center)의 발사서비스프로그램(Launch Services Program)이 이 계약을 관리하게 된다.",
+  "why": "주어(Program)와 동사(will manage) 사이에 소재지를 밝히는 전치사구가 길게 끼어들어 있다. at ~ Florida 를 괄호로 묶어 두면 \"프로그램이 계약을 관리한다\"는 뼈대가 바로 보인다. the agency 는 NASA를 반복하지 않으려고 바꿔 부른 말이다.",
+  "st": []
+ },
+ {
+  "id": "8e1ec71e|3.1",
+  "en": "The program works with private industry, mission, and international partners to launch science payloads ranging from small satellites with colleges and universities to NASA’s highest-priority missions.",
+  "s": "The program",
+  "v": "works",
+  "chunks": [
+   {
+    "en": "The program works with private industry, mission, and international partners",
+    "ko": "이 프로그램은 민간 산업계·임무·국제 파트너와 협력한다",
+    "r": "주어 + 동사 + 전치사구(협력 상대 셋)"
+   },
+   {
+    "en": "to launch science payloads",
+    "ko": "과학 탑재체를 발사하기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "ranging from small satellites with colleges and universities",
+    "ko": "대학과 함께 만드는 소형 위성부터",
+    "r": "현재분사구(앞의 payloads 설명, 범위의 시작)"
+   },
+   {
+    "en": "to NASA’s highest-priority missions.",
+    "ko": "NASA의 최우선 임무에 이르기까지",
+    "r": "범위의 끝"
+   }
+  ],
+  "ko": "이 프로그램은 민간 산업계 파트너, 임무 파트너, 국제 파트너와 함께 일하며 과학 탑재체를 발사한다. 그 탑재체는 여러 대학과 함께 만드는 소형 위성부터 NASA의 최우선 임무에 이르기까지 폭이 넓다.",
+  "why": "private industry, mission, and international partners 는 셋을 나열한 것으로, 앞의 둘에는 partners 가 생략되어 있다 — \"민간 산업계 파트너 / 임무 파트너 / 국제 파트너\"로 읽어야 한다. ranging from A to B 는 \"A부터 B까지 걸쳐 있다\"라는 뜻이며, 앞의 science payloads 가 얼마나 다양한지를 말한다.",
+  "st": []
+ }
+]

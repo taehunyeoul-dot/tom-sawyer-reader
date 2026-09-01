@@ -1,0 +1,115 @@
+[
+ {
+  "id": "63a83669|0.0",
+  "en": "NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.",
+  "s": "NASA’s Perseverance Mars rover",
+  "v": "used",
+  "chunks": [
+   {"en": "NASA’s Perseverance Mars rover used", "ko": "NASA의 화성 탐사차 퍼서비어런스가 ~을 썼다", "r": "주어 + 동사"},
+   {"en": "its Mastcam-Z camera", "ko": "자기가 달고 있는 마스트캠-Z 카메라를", "r": "목적어"},
+   {"en": "to capture the silhouette of Phobos,", "ko": "포보스의 실루엣(검은 윤곽)을 담아내기 위해", "r": "목적(~하기 위해)"},
+   {"en": "one of the two Martian moons,", "ko": "화성의 위성 둘 가운데 하나인", "r": "동격(앞의 Phobos 설명)"},
+   {"en": "as it crossed in front of the Sun", "ko": "그것이 태양 앞을 가로질러 지나갈 때", "r": "부사절(때)"},
+   {"en": "on Aug. 12, 2026,", "ko": "2026년 8월 12일에", "r": "시간"},
+   {"en": "the 1,948th Martian day, or sol, of the mission.", "ko": "임무의 1,948번째 화성 날, 곧 '솔'에 해당하는 날", "r": "동격(앞 날짜를 다시 말함)"}
+  ],
+  "ko": "NASA의 화성 탐사차 퍼서비어런스(Perseverance)가 마스트캠-Z(Mastcam-Z) 카메라로 화성의 두 위성 가운데 하나인 포보스(Phobos)의 실루엣을 촬영했다. 포보스가 태양 앞을 가로질러 지나가던 2026년 8월 12일, 임무의 1,948번째 화성 날(솔, sol)의 일이다.",
+  "why": "동사는 used 하나뿐이고 나머지는 그 뒤에 줄줄이 붙는 설명이다. 쉼표로 둘러싸인 one of the two Martian moons 는 바로 앞의 Phobos 를 다시 말한 것(동격)이고, 맨 끝의 the 1,948th Martian day, or sol, of the mission 도 날짜 Aug. 12, 2026 을 다시 말한 것이다. as it crossed 의 it 은 탐사차가 아니라 포보스다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|1.0",
+  "en": "The animation has been tinted to simulate what a human would see if they were watching the transit from the Martian surface through protective solar eclipse glasses.",
+  "s": "The animation",
+  "v": "has been tinted",
+  "chunks": [
+   {"en": "The animation has been tinted", "ko": "그 움직이는 영상은 색이 입혀졌다", "r": "주어 + 동사(수동태·현재완료)"},
+   {"en": "to simulate what a human would see", "ko": "사람이라면 무엇을 보게 될지를 흉내 내기 위해", "r": "목적(~하기 위해)"},
+   {"en": "if they were watching the transit", "ko": "만약 그 사람이 그 통과 장면을 보고 있다면", "r": "조건절(가정)"},
+   {"en": "from the Martian surface", "ko": "화성 표면에서", "r": "전치사구(어디서 보는가)"},
+   {"en": "through protective solar eclipse glasses.", "ko": "보호용 일식 관측 안경을 통해", "r": "전치사구(무엇을 통해 보는가)"}
+  ],
+  "ko": "이 영상은 사람이 화성 표면에서 보호용 일식 관측 안경을 끼고 그 통과 장면을 본다면 어떻게 보일지를 흉내 내도록 색을 입힌 것이다.",
+  "why": "has been tinted 는 수동태(당하는 형태)라 '색을 입혔다'가 아니라 '색이 입혀졌다'이고, 입힌 쪽은 문장에 나오지 않는다. 뒤의 what a human would see if they were watching 은 would 와 were 를 쓴 가정이라 실제로 있었던 일이 아니라 '만약 사람이 본다면'이라는 상상이다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|2.0",
+  "en": "Perseverance has captured several Phobos transits since its landing at Jezero Crater in February 2021.",
+  "s": "Perseverance",
+  "v": "has captured",
+  "chunks": [
+   {"en": "Perseverance has captured several Phobos transits", "ko": "퍼서비어런스는 포보스의 태양면 통과를 여러 차례 담아 왔다", "r": "주어 + 동사(현재완료) + 목적어"},
+   {"en": "since its landing at Jezero Crater", "ko": "예제로 크레이터에 착륙한 뒤로", "r": "시간(언제부터)"},
+   {"en": "in February 2021.", "ko": "2021년 2월에", "r": "시간(착륙 시점)"}
+  ],
+  "ko": "퍼서비어런스는 2021년 2월 예제로 크레이터(Jezero Crater)에 착륙한 뒤로 포보스가 태양 앞을 지나가는 장면을 여러 차례 촬영해 왔다.",
+  "why": "has captured 는 현재완료라 '한 번 찍었다'가 아니라 '착륙한 뒤로 지금까지 여러 번 찍어 왔다'는 뜻이다. 여기서 since 는 '~때문에'가 아니라 '~한 뒤로 줄곧'이고, its 는 포보스가 아니라 퍼서비어런스를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|2.1",
+  "en": "By comparing the various recordings, scientists can refine their understanding of the potato-shaped moon’’ orbit, learning how it is changing.",
+  "s": "scientists",
+  "v": "can refine",
+  "chunks": [
+   {"en": "By comparing the various recordings,", "ko": "여러 기록을 서로 견주어 봄으로써", "r": "수단(~함으로써)"},
+   {"en": "scientists can refine their understanding", "ko": "과학자들은 자신들의 이해를 더 정밀하게 다듬을 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of the potato-shaped moon’’ orbit,", "ko": "감자처럼 생긴 그 위성의 궤도에 대한 (이해를)", "r": "전치사구(무엇에 대한 이해인가)"},
+   {"en": "learning how it is changing.", "ko": "그러면서 그것이 어떻게 변해 가고 있는지를 알아 가면서", "r": "분사구문(그 결과 알게 되는 것)"}
+  ],
+  "ko": "여러 기록을 서로 견주어 봄으로써 과학자들은 감자처럼 생긴 이 위성의 궤도를 더 정확히 이해할 수 있고, 그 궤도가 어떻게 변해 가고 있는지도 알아낼 수 있다.",
+  "why": "By ~ing 는 '~함으로써(수단)'이고 그 행동의 주체는 주절의 주어인 scientists 다. 맨 끝의 learning ~ 은 또 하나의 동사가 아니라 앞 내용에 딸린 분사구문('그러면서 ~을 알아 간다')이다. 참고로 moon’’ orbit 은 원문에 있는 오타로, moon’s orbit(그 위성의 궤도)라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|2.2",
+  "en": "Eons from now, Phobos’ orbit is expected to eventually send the moon toward the Red Planet’s surface.",
+  "s": "Phobos’ orbit",
+  "v": "is expected",
+  "chunks": [
+   {"en": "Eons from now,", "ko": "지금부터 아득히 먼 훗날에는", "r": "시간(먼 미래)"},
+   {"en": "Phobos’ orbit is expected", "ko": "포보스의 궤도가 ~할 것으로 예상된다", "r": "주어 + 동사(수동태)"},
+   {"en": "to eventually send the moon", "ko": "결국 그 위성을 (~쪽으로) 보내게 되리라고", "r": "무엇이 예상되는가"},
+   {"en": "toward the Red Planet’s surface.", "ko": "붉은 행성, 곧 화성의 표면 쪽으로", "r": "전치사구(방향)"}
+  ],
+  "ko": "아득히 먼 훗날, 포보스의 궤도는 결국 이 위성을 붉은 행성(화성)의 표면 쪽으로 끌어내릴 것으로 예상된다.",
+  "why": "문장의 주어는 맨 앞의 Eons from now 가 아니라 Phobos’ orbit 이다. Eons from now 는 '지금부터 아주 오랜 세월 뒤에'라는 시간 표현일 뿐이다. is expected 는 수동태라 '예상한다'가 아니라 '예상된다'이며, 누가 예상하는지는 문장에 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|3.0",
+  "en": "Arizona State University leads the operations of the Mastcam-Z instrument, working in collaboration with Malin Space Science Systems in San Diego, on the design, fabrication, testing, and operation of the cameras, and in collaboration with the Niels Bohr Institute of the University of Copenhagen on the design, fabrication, and testing of the calibration targets.",
+  "s": "Arizona State University",
+  "v": "leads",
+  "chunks": [
+   {"en": "Arizona State University leads the operations", "ko": "애리조나 주립대학교가 그 운용을 이끈다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of the Mastcam-Z instrument,", "ko": "마스트캠-Z 장비의", "r": "전치사구(무엇의 운용인가)"},
+   {"en": "working in collaboration with Malin Space Science Systems", "ko": "말린 우주과학시스템스와 협력하면서", "r": "분사구문(협력 상대 ①)"},
+   {"en": "in San Diego,", "ko": "샌디에이고에 있는", "r": "전치사구(앞 회사의 소재지)"},
+   {"en": "on the design, fabrication, testing, and operation of the cameras,", "ko": "카메라의 설계·제작·시험·운용에 대해", "r": "전치사구(협력 분야 ①)"},
+   {"en": "and in collaboration with the Niels Bohr Institute", "ko": "그리고 닐스 보어 연구소와도 협력하면서", "r": "대등(협력 상대 ②)"},
+   {"en": "of the University of Copenhagen", "ko": "코펜하겐 대학교 소속의", "r": "전치사구(앞 연구소의 소속)"},
+   {"en": "on the design, fabrication, and testing of the calibration targets.", "ko": "보정용 표적의 설계·제작·시험에 대해", "r": "전치사구(협력 분야 ②)"}
+  ],
+  "ko": "애리조나 주립대학교(Arizona State University)가 마스트캠-Z 장비의 운용을 총괄한다. 카메라의 설계·제작·시험·운용은 샌디에이고에 있는 말린 우주과학시스템스(Malin Space Science Systems)와 협력해서, 보정용 표적의 설계·제작·시험은 코펜하겐 대학교의 닐스 보어 연구소(Niels Bohr Institute)와 협력해서 진행한다.",
+  "why": "동사는 leads 하나뿐이고 working 이하는 전부 '어떻게 하면서 그렇게 하는가'를 설명하는 분사구문이다. 협력 상대가 둘(Malin / Niels Bohr Institute)이고 협력 분야도 각각 따로 붙으므로, 'in collaboration with A … on B' 와 'and in collaboration with C … on D' 라는 두 짝으로 갈라 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "63a83669|4.0",
+  "en": "NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech in Pasadena, California, built and manages operations of the Perseverance rover.",
+  "s": "NASA’s Jet Propulsion Laboratory",
+  "v": "built and manages",
+  "chunks": [
+   {"en": "NASA’s Jet Propulsion Laboratory,", "ko": "NASA의 제트추진연구소가", "r": "주어(기관 이름)"},
+   {"en": "which is managed for the agency by Caltech", "ko": "그 기관을 대신해 칼텍이 운영하는 (연구소인데)", "r": "관계절(앞 명사 설명·수동태)"},
+   {"en": "in Pasadena, California,", "ko": "캘리포니아주 패서디나에 있는", "r": "전치사구(칼텍의 소재지)"},
+   {"en": "built and manages operations", "ko": "만들었고 지금도 운용을 관리한다", "r": "동사(과거 + 현재)"},
+   {"en": "of the Perseverance rover.", "ko": "퍼서비어런스 탐사차의", "r": "전치사구(무엇의 운용인가)"}
+  ],
+  "ko": "NASA의 제트추진연구소(Jet Propulsion Laboratory)가 퍼서비어런스 탐사차를 만들었고 지금도 그 운용을 관리하고 있다. 이 연구소는 캘리포니아주 패서디나에 있는 칼텍(Caltech)이 NASA를 대신해 운영한다.",
+  "why": "주어(NASA’s Jet Propulsion Laboratory)와 동사(built and manages) 사이에 쉼표로 둘러싸인 관계절이 길게 끼어 있다. which 부터 California 까지를 괄호로 묶어 두고 '제트추진연구소가 만들었고 관리한다'로 뼈대를 먼저 잡아야 한다. built(과거)와 manages(현재)는 시제가 다르다.",
+  "st": []
+ }
+]

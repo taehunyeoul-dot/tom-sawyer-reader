@@ -1,0 +1,39 @@
+TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code
+NASA · 2026-08-21
+https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/
+
+[0.0] For more information, contact Mark K.
+[0.1] Leader, Glenn Research Center, mark.leader@nasa.gov
+
+[1.0] NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis.
+[1.1] It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community.
+[1.2] NASA Engineering and Safety Center (NESC) Activity TI-22-01730 modernized the legacy CEA2 Fortran code into CEA v3, a Fortran 2008, object-oriented software package with expanded interface support, updated thermochemical data, improved maintainability, and substantially improved workflow integration.
+[1.3] The modernized code preserves backward compatibility with legacy CEA input workflows while enabling direct use from modern analysis environments, including Python, C, MATLAB, and automated design studies.
+
+[2.0] CEA2 was released in 2002 and has remained widely used for propulsion and thermochemistry analysis.
+[2.1] However, the original procedural Fortran implementation became increasingly difficult to maintain, extend, and integrate into modern engineering workflows due to the lack of a subroutine interface.
+[2.2] Current propulsion analysis increasingly requires automated parametric sweeps, integration with other modeling tools and engineering workflows, and support for emerging propellants and fuels, including green propellants and sustainable aviation fuels.
+[2.3] These needs motivated a comprehensive modernization effort to preserve CEA’s validated technical basis while improving its maintainability, usability, and integration with modern engineering software.
+
+[3.0] CEA v3 is implemented in Fortran 2008 using object-oriented data structures, stricter typing, and a thread-safe equilibrium solver architecture.
+[3.1] The software supports Fortran, C, Python, MATLAB, and Excel interfaces.
+[3.2] These interfaces allow CEA to be used directly in automated analysis pipelines, multidisciplinary design frameworks, and high-volume designof- experiments studies.
+[3.3] Backward compatibility is supported through a legacy command-line interface, allowing existing CEA input files and workflows to be carried forward with minimal disruption.
+
+[4.0] The thermodynamic database has been expanded to support additional propellants and fuels relevant to current NASA applications, including green propellant constituents such as ADN, HAN, and LMP-103S, and sustainable aviation fuel candidates such as n-Butanol.
+[4.1] This expanded species coverage improves the applicability of CEA for next-generation propulsion, green propellant, and sustainable aviation fuel studies.
+
+[5.0] CEA v3 adds or improves support for several modeling capabilities, including:
+
+[6.0] For standalone use, individual equilibrium calculations in CEA v3 are moderately slower than comparable CEA2 calculations because the modernized architecture and added robustness introduce additional computational overhead.
+[6.1] In representative testing, a single calculation was approximately 40 percent slower, but the absolute difference was only about 0.004 seconds per case.
+[6.2] However, the modernized architecture provides substantial performance advantages for multi-case workflows, which are common in design-of-experiments studies, parametric sweeps, optimization, and uncertainty analyses.
+[6.3] In one benchmark, a sweep of 108,500 cases completed in approximately 1.11 seconds with CEA v3, compared with approximately 15 minutes using CEA2.
+[6.4] This corresponds to an approximately 800-times reduction in runtime for that workflow.
+[6.5] These improvements make large-scale propulsion trade studies and automated design-space exploration significantly more practical.
+
+[7.0] NASA engineering users should consider the following guidance:
+
+[8.0] For more information, contact Mark K.
+[8.1] Leader, Glenn Research Center, mark.leader@nasa.gov
+

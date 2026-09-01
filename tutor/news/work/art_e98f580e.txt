@@ -1,0 +1,71 @@
+Building Foresight for Earth Science, featuring Lindsey Jacobson
+NASA · 2026-08-26
+https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/
+
+[0.0] NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades.
+[0.1] Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent.
+[0.2] It requires planning for an uncertain future: anticipating where a mission delay or on-orbit event might create a gap in the data those communities rely on.
+
+[1.0] Lindsey Jacobson’s work helps NASA anticipate those disruptions before they happen and gives senior leaders options for managing them.
+[1.1] A Pathways intern in engineering, Jacobson supports NASA’s Earth Science Division through the NASA Earth Science Strategic Integration Environment (NESSIE) team within the Systems Analysis and Concepts Directorate (SACD) at NASA’s Langley Research Center in Hampton, Virginia.
+
+[2.0] NASA’s Pathways program connects undergraduate and graduate students with NASA centers through internships that, with satisfactory performance, can lead to full-time civil service positions.
+[2.1] Jacobson has returned to NASA Langley every summer since 2022, splitting her time between the center and finishing her mechanical engineering dissertation at North Carolina State University.
+
+[3.0] “The way we do Earth science is changing .
+[3.1] “
+
+[4.0] Jacobson and the NESSIE team support the Earth science satellite portfolio — dozens of missions, each measuring specific features of the planet, from clouds to sea surface temperature to land use.
+[4.1] The goal is providing end user communities with the data products they depend on.
+[4.2] The challenge is the unknown.
+
+[5.0] “There’s uncertainty about mission lifetimes and what could happen on orbit, and about schedules,” Jacobson explains.
+[5.1] The team’s work gives NASA’s senior leadership a way to navigate that uncertainty: understanding where a gap in coverage might emerge and identifying options to mitigate or hedge against it.
+[5.2] By providing alternative pathways for meeting end-user needs, this work supports senior leaders in managing a complex, interdependent portfolio.
+
+[6.0] Within that effort, Jacobson’s focus is building analysis tools that give the team what she calls a “foresight ability.”
+[6.1] “It’s the ability to anticipate different things that might happen — changes that might occur across the portfolio of Earth-observing missions — and to have strategies in mind for how to respond, so we can keep delivering data to end users,” she says.
+
+[7.0] Not every change is bad news.
+[7.1] Missions sometimes operate well beyond their planned lifespan, creating room to extend their value.
+[7.2] But whether an adjustment is welcome or not, the principle is the same: know the options before anything happens.
+
+[8.0] Jacobson compares it to preparing for hurricane season.
+[8.1] “You get the storm shutters, you buy the sandbags, and you have them pre-positioned,” she says.
+[8.2] “Then when the warning comes, you’re not scrambling, and you’re not at risk of the store selling out.
+[8.3] You already have what you need in place.”
+[8.4] NESSIE’s work follows the same logic for the Earth-observing portfolio by understanding ahead of time what a disruption might mean and having a set of responses ready before anything happens.
+
+[9.0] “We proactively suggest the strategies and alternatives that could be enacted if there’s a change,” Jacobson says.
+[9.1] “We do that ahead of time, so people understand what options might exist.”
+
+[10.0] Her approach carries echoes of her graduate research, which examines how complex systems — infrastructure that can’t simply be torn down and rebuilt, like the electric grid — must evolve deliberately instead.
+[10.1] “We designed a grid, and now we live with that grid forever,” she says.
+[10.2] “We can’t tear it down and build a new one.
+[10.3] What we can do is modify, expand, and improve upon what we have.”
+[10.4] It’s the same instinct for working with what exists, rather than starting from scratch, that shapes how she approaches her work at NASA.
+
+[11.0] Engineers arriving at NASA for the first time might expect the hardest part of the job to be technical.
+[11.1] Jacobson found something else: the landscape itself is what demands the most adaptability.
+
+[12.0] “The way we do Earth science is changing,” she says.
+[12.1] Commercial companies are increasingly contributing data alongside government agencies.
+[12.2] New space agencies are entering the field.
+[12.3] Innovative technologies and architectures are emerging all the time.
+[12.4] Keeping pace with that shift — understanding how NASA’s own capabilities are evolving and how to best serve the communities that depend on the data — is as much a part of the job as any calculation.
+
+[13.0] Some of that adaptability shows up in smaller ways too, like the growing role of AI tools in her team’s own workflow.
+[13.1] “Langley has done a lot of firsts,” Jacobson says, echoing something she heard recently from Trina Dyal, NASA Langley’s director, at an intern event.
+[13.2] “And we want to continue to be the first.
+[13.3] That means learning new things and figuring out how to bring them into how we work.”
+
+[14.0] Jacobson received this novel in high school, let it sit on her shelf for years, and finally picked it up during the pandemic.
+
+[15.0] “It was very special.
+[15.1] It touches a lot on the meaning of life, and that connects to some of the reasons I was motivated by space in the first place.
+[15.2] The idea that space exploration can bring humanity together.
+[15.3] That cosmic perspective.”
+
+[16.0] Part of the Systems Analysis and Concepts Directorate at NASA’s Langley Research Center.
+[16.1] Learn more about our work by visiting our website.
+

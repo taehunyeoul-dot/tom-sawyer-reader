@@ -1,0 +1,117 @@
+[
+ {
+  "id": "bb09e173|0.0",
+  "en": "Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.",
+  "s": "Leadership",
+  "v": "stand",
+  "chunks": [
+   {"en": "Leadership from NASA Headquarters,", "ko": "NASA 본부에서 온 지도부(간부진)가", "r": "주어 + 소속 ①"},
+   {"en": "the Jet Propulsion Laboratory, and the Deep Space Network (DSN)", "ko": "제트추진연구소(JPL), 그리고 심우주 네트워크(DSN)에서 온", "r": "소속 ②③(앞의 from 에 이어짐)"},
+   {"en": "stand in front of", "ko": "~의 앞에 서 있다", "r": "동사 + 전치사"},
+   {"en": "the recently completed Deep Space Station 23 antenna", "ko": "최근 완공된 Deep Space Station 23(심우주 23호국) 안테나", "r": "전치사의 목적어(긴 명사구)"},
+   {"en": "at the Deep Space Network’s Goldstone complex", "ko": "심우주 네트워크의 골드스톤 단지에 있는", "r": "전치사구(장소)"},
+   {"en": "near Barstow, California,", "ko": "캘리포니아주 바스토 인근의", "r": "전치사구(앞 단지의 위치)"},
+   {"en": "on Aug. 25, 2026.", "ko": "2026년 8월 25일에", "r": "시간"}
+  ],
+  "ko": "2026년 8월 25일, NASA 본부와 제트추진연구소(JPL), 심우주 네트워크(DSN)의 지도부가 캘리포니아주 바스토 인근 심우주 네트워크 골드스톤 단지에서 최근 완공된 Deep Space Station 23 안테나 앞에 서 있다.",
+  "why": "주어 Leadership 은 '지도력'이 아니라 '지도부·간부진'이라는 사람 무리를 뜻하고, 그 뒤에 소속 기관 셋이 줄줄이 붙어 동사 stand 가 멀리 밀려난다. stand 뒤로는 '무엇 앞에 → 어느 단지에서 → 어느 도시 근처에서 → 언제'로 자리와 때가 점점 좁혀지는 순서로 붙는다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|1.0",
+  "en": "From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, Telecom Programs & Oversight, JPL); Keyur Patel (associate lab director for Flight Projects & Mission Success, JPL); Wanda Peters (deputy associate administrator, Research and Technology Mission Directorate, NASA Headquarters); Jimmy Kenyon (associate administrator, RTMD, NASA Headquarters); John McCullough (acting director, Space Communications and Navigation Program, NASA Headquarters); Gregory Heckler (deputy program manager for capability development, SCaN, NASA Headquarters); William Marinelli (development manager, SCaN, NASA Headquarters), Michael Levesque (project manager, DSN, JPL); and Frank Kaufholod (project manager, NASA Glenn Research Center).",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL);", "ko": "왼쪽부터: 저메인 아지즈 (DSN 조리개 확장 프로젝트 관리자, JPL)", "r": "안내 문구 + 인물 ①(이름 + 직책·소속)"},
+   {"en": "Bradford Arnold (manager, Telecom Programs & Oversight, JPL);", "ko": "브래드퍼드 아널드 (통신 프로그램·감독 담당 관리자, JPL)", "r": "인물 ②"},
+   {"en": "Keyur Patel (associate lab director for Flight Projects & Mission Success, JPL);", "ko": "케유르 파텔 (비행 프로젝트·임무 성공 담당 부연구소장, JPL)", "r": "인물 ③"},
+   {"en": "Wanda Peters (deputy associate administrator, Research and Technology Mission Directorate, NASA Headquarters);", "ko": "완다 피터스 (연구·기술 임무본부 부(副)부본부장, NASA 본부)", "r": "인물 ④"},
+   {"en": "Jimmy Kenyon (associate administrator, RTMD, NASA Headquarters);", "ko": "지미 케니언 (RTMD 부본부장, NASA 본부)", "r": "인물 ⑤(RTMD = 앞의 연구·기술 임무본부)"},
+   {"en": "John McCullough (acting director, Space Communications and Navigation Program, NASA Headquarters);", "ko": "존 매컬러 (우주통신·항법 프로그램 직무대행 책임자, NASA 본부)", "r": "인물 ⑥"},
+   {"en": "Gregory Heckler (deputy program manager for capability development, SCaN, NASA Headquarters);", "ko": "그레고리 헤클러 (역량 개발 담당 부프로그램관리자, SCaN, NASA 본부)", "r": "인물 ⑦(SCaN = 앞의 우주통신·항법 프로그램)"},
+   {"en": "William Marinelli (development manager, SCaN, NASA Headquarters),", "ko": "윌리엄 마리넬리 (개발 관리자, SCaN, NASA 본부)", "r": "인물 ⑧"},
+   {"en": "Michael Levesque (project manager, DSN, JPL);", "ko": "마이클 러베스크 (DSN 프로젝트 관리자, JPL)", "r": "인물 ⑨"},
+   {"en": "and Frank Kaufholod (project manager, NASA Glenn Research Center).", "ko": "그리고 프랭크 카우폴로드 (프로젝트 관리자, NASA 글렌연구센터)", "r": "인물 ⑩(마지막)"}
+  ],
+  "ko": "왼쪽부터: 저메인 아지즈(DSN 조리개 확장 프로젝트 관리자, JPL), 브래드퍼드 아널드(통신 프로그램·감독 담당 관리자, JPL), 케유르 파텔(비행 프로젝트·임무 성공 담당 부연구소장, JPL), 완다 피터스(연구·기술 임무본부 부부본부장, NASA 본부), 지미 케니언(RTMD 부본부장, NASA 본부), 존 매컬러(우주통신·항법 프로그램 직무대행 책임자, NASA 본부), 그레고리 헤클러(역량 개발 담당 부프로그램관리자, SCaN, NASA 본부), 윌리엄 마리넬리(개발 관리자, SCaN, NASA 본부), 마이클 러베스크(DSN 프로젝트 관리자, JPL), 그리고 프랭크 카우폴로드(프로젝트 관리자, NASA 글렌연구센터).",
+  "why": "이 줄에는 주어도 동사도 없다. 사진 속 인물을 왼쪽부터 차례로 적은 이름표라, 문장으로 읽으려 하면 안 된다. 세미콜론(;)이 사람과 사람을 가르고, 이름 뒤 괄호 안은 '직책, 맡은 조직, 소속 기관' 순서다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|2.0",
+  "en": "They gathered at the recently completed DSS-23 antenna for a ceremonial ribbon cutting on Aug. 25, 2026.",
+  "s": "They",
+  "v": "gathered",
+  "chunks": [
+   {"en": "They gathered", "ko": "그들은 모였다", "r": "주어 + 동사"},
+   {"en": "at the recently completed DSS-23 antenna", "ko": "최근 완공된 DSS-23 안테나 앞에", "r": "전치사구(장소)"},
+   {"en": "for a ceremonial ribbon cutting", "ko": "기념 테이프 커팅 행사를 위해", "r": "목적"},
+   {"en": "on Aug. 25, 2026.", "ko": "2026년 8월 25일에", "r": "시간"}
+  ],
+  "ko": "그들은 2026년 8월 25일, 최근 완공된 DSS-23 안테나에서 기념 테이프 커팅(개통식) 행사를 위해 모였다.",
+  "why": "뼈대는 '그들이 모였다' 하나뿐이고, 뒤에 '어디서(at) → 무엇 때문에(for) → 언제(on)' 순으로 전치사구가 셋 붙는다. DSS-23 은 앞 문장의 Deep Space Station 23 을 줄인 같은 안테나다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|2.1",
+  "en": "It’s the latest antenna to be added as part of the DSN’s Aperture Enhancement Project, which began in 2009 to upgrade and expand the network by adding six new 34-meter (114-foot) multifrequency beam-waveguide antennas .",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "It’s the latest antenna", "ko": "그것은 가장 최근에 더해진 안테나다", "r": "주어 + 동사 + 보어"},
+   {"en": "to be added as part of the DSN’s Aperture Enhancement Project,", "ko": "DSN의 Aperture Enhancement Project(조리개 확장 사업)의 하나로 추가된", "r": "to부정사(수동) — 앞 antenna 설명"},
+   {"en": "which began in 2009", "ko": "그 사업은 2009년에 시작되었는데", "r": "관계절(앞 사업 설명)"},
+   {"en": "to upgrade and expand the network", "ko": "그 네트워크를 개선하고 넓히기 위해", "r": "목적(사업의 목표)"},
+   {"en": "by adding six new 34-meter (114-foot)", "ko": "새로 여섯 기를 더 지어서 — 지름 34미터(114피트)짜리", "r": "수단(어떻게 넓히나)"},
+   {"en": "multifrequency beam-waveguide antennas .", "ko": "여러 주파수를 다루는 빔 도파관 방식 안테나를", "r": "추가되는 대상(앞 six new 의 실체)"}
+  ],
+  "ko": "이것은 DSN의 Aperture Enhancement Project(조리개 확장 사업)의 하나로 가장 최근에 추가된 안테나다. 이 사업은 지름 34미터(114피트)짜리 다중 주파수 빔 도파관 안테나 여섯 기를 새로 지어 네트워크를 개선하고 넓히려고 2009년에 시작되었다.",
+  "why": "which 가 받는 것은 바로 앞의 Aperture Enhancement Project 이지, 안테나가 아니다. 2009년에 시작된 것은 사업이다. 또 to be added(추가될)라는 형태 때문에 앞으로 지을 것으로 읽기 쉽지만, the latest 는 '지금까지 중 가장 최근'이라 이미 더해진 것이다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|2.2",
+  "en": "These versatile Deep Space Network dishes can enhance many missions operating over different radio frequencies.",
+  "s": "These versatile Deep Space Network dishes",
+  "v": "can enhance",
+  "chunks": [
+   {"en": "These versatile Deep Space Network dishes", "ko": "이 다재다능한 심우주 네트워크 접시 안테나들은", "r": "주어"},
+   {"en": "can enhance many missions", "ko": "여러 임무를 더 잘 되게 해 줄 수 있다", "r": "동사 + 목적어"},
+   {"en": "operating over different radio frequencies.", "ko": "서로 다른 무선 주파수로 운용되는", "r": "현재분사구(앞 missions 설명)"}
+  ],
+  "ko": "이 다재다능한 심우주 네트워크 접시 안테나들은 서로 다른 무선 주파수로 운용되는 여러 임무를 더 잘 뒷받침할 수 있다.",
+  "why": "operating 은 문장의 두 번째 동사가 아니라 바로 앞의 many missions 를 꾸미는 말(현재분사)이다. 서로 다른 주파수를 쓰는 쪽은 접시 안테나가 아니라 임무들이고, 안테나는 그런 임무들을 두루 받아 줄 수 있어서 versatile(다재다능)하다고 한 것이다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|3.0",
+  "en": "The DSN allows missions to track, send commands to, and receive scientific data from faraway spacecraft.",
+  "s": "The DSN",
+  "v": "allows",
+  "chunks": [
+   {"en": "The DSN allows missions", "ko": "DSN은 여러 임무가 ~할 수 있게 해 준다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to track, send commands to,", "ko": "추적하고, ~에 명령을 보내고,", "r": "목적격보어 ①② (임무가 하는 일)"},
+   {"en": "and receive scientific data", "ko": "그리고 과학 데이터를 받아 오는 일을", "r": "목적격보어 ③"},
+   {"en": "from faraway spacecraft.", "ko": "멀리 있는 우주선으로부터 — 앞의 세 동작 모두 이 우주선이 대상이다", "r": "전치사구(세 동작이 함께 쓰는 대상)"}
+  ],
+  "ko": "DSN은 여러 임무가 멀리 있는 우주선을 추적하고, 그 우주선에 명령을 보내고, 그로부터 과학 데이터를 받아 올 수 있게 해 준다.",
+  "why": "to 뒤에 동작이 셋(track / send commands to / receive scientific data from) 나란히 오는데, track 뒤와 to 뒤가 텅 비어 있다. 맨 끝의 faraway spacecraft 를 그 빈자리 세 곳에 모두 넣어 읽어야 뜻이 산다. 실제로 추적하고 명령을 보내는 쪽은 DSN이 아니라 missions 이고, DSN은 그것을 가능하게 해 주는 쪽이다.",
+  "st": []
+ },
+ {
+  "id": "bb09e173|3.1",
+  "en": "It is managed by JPL, a division of Caltech, in Southern California for SCaN , which is located at NASA Headquarters within RTMD.",
+  "s": "It",
+  "v": "is managed",
+  "chunks": [
+   {"en": "It is managed by JPL,", "ko": "그것(DSN)은 JPL이 운영한다", "r": "주어 + 동사(수동태) + 행위자"},
+   {"en": "a division of Caltech,", "ko": "칼텍(캘리포니아 공대)의 한 부문인", "r": "동격(앞의 JPL 설명)"},
+   {"en": "in Southern California for SCaN ,", "ko": "남캘리포니아에서, SCaN을 위해", "r": "장소 + 누구를 위한 것인가"},
+   {"en": "which is located at NASA Headquarters within RTMD.", "ko": "그 SCaN은 RTMD 소속으로 NASA 본부에 있다", "r": "관계절(앞의 SCaN 설명)"}
+  ],
+  "ko": "DSN은 칼텍(Caltech)의 한 부문인 JPL이 남캘리포니아에서 SCaN(우주통신·항법 프로그램)을 위해 운영한다. SCaN은 NASA 본부 안 RTMD(연구·기술 임무본부) 소속이다.",
+  "why": "is managed 는 수동태(당하는 형태)라 '운영한다'가 아니라 '운영된다'이고, 운영하는 쪽은 by 뒤의 JPL이다. 쉼표로 둘러싸인 a division of Caltech 는 JPL을 다시 설명하는 말(동격)이지 DSN 설명이 아니며, 맨 끝 which 가 받는 것도 Caltech이나 Southern California가 아니라 바로 앞의 SCaN이다.",
+  "st": []
+ }
+]

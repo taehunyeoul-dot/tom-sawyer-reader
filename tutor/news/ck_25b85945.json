@@ -1,0 +1,53 @@
+{
+ "25b85945|0.0": [
+  {"t":"who","q":"<b>Five antennas soak in the summer sun</b> — 무엇이 무엇을 쬐고 있습니까?","a":"안테나 다섯 대가 여름 햇볕을 쬐고 있습니다","tip":"soak 는 '흠뻑 젖다·잠기다'라서 물을 떠올리기 쉽지만, soak in the sun 은 햇볕을 쬐는 모습입니다."},
+  {"t":"mod","q":"<b>near Barstow, California,</b> 는 무엇의 위치를 밝히는 말입니까?","a":"바로 앞의 골드스톤 단지(the Deep Space Network ’s Goldstone complex)가 있는 곳입니다","tip":"'안테나가 바스토 근처에서 햇볕을 쬔다'로 안테나에 바로 붙이기 쉽지만, 단지의 소재지를 밝히는 말입니다."},
+  {"t":"mod","q":"<b>at the Deep Space Network ’s Goldstone complex</b> — 골드스톤 단지는 어디에 딸린 시설입니까?","a":"Deep Space Network(심우주통신망, DSN)에 딸린 단지입니다","tip":"Network 와 ’s 사이가 벌어져 있어 소유격 표시를 놓치기 쉽습니다. 두 이름이 나란한 것이 아니라 '~의'로 이어집니다."},
+  {"t":"time","q":"<b>soak</b> 는 어떤 시제이며, 언제 일을 말합니까?","a":"현재형이며, 2026년 8월의 장면을 눈앞의 일처럼 말합니다","tip":"사진 설명은 지난 장면도 현재형으로 씁니다. in August 2026 이 붙었다고 과거로 바꿔 읽을 필요는 없습니다."}
+ ],
+ "25b85945|0.1": [
+  {"t":"who","q":"<b>can be seen</b> — 보이는 쪽은 무엇이고, 보는 쪽은 문장에 나옵니까?","a":"보이는 것은 DSS-23입니다. 보는 쪽(사진을 보는 사람)은 문장에 나오지 않습니다(수동태)","tip":"'DSS-23이 볼 수 있다'로 읽으면 주체와 대상이 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>a 34-meter (114-foot) beam-waveguide antenna,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Deep Space Station 23 입니다 — 같은 것을 다시 말한 동격입니다","tip":"쉼표 사이에 들어 있어 또 하나의 안테나를 새로 소개하는 것으로 읽기 쉽습니다. 여기 나온 안테나는 하나뿐입니다."},
+  {"t":"time","q":"<b>The recently completed</b> — 이 안테나는 아직 짓는 중입니까, 다 지었습니까?","a":"최근에 완공되어 이미 다 지은 상태입니다","tip":"completed 는 '완성된'입니다. 뒤 문장의 the complete DSS-23 antenna 와도 맞아떨어집니다."},
+  {"t":"mod","q":"<b>to the right of the frame in the foreground</b> — 이 안테나는 사진 어디에 있습니까?","a":"화면의 오른쪽, 그리고 앞쪽(가까운 쪽)에 있습니다","tip":"frame 은 '틀', 곧 사진 화면입니다. foreground 는 background(배경)의 반대인 앞쪽입니다."}
+ ],
+ "25b85945|0.2": [
+  {"t":"pron","q":"<b>The other three 34-meter antennas</b> 는 어느 안테나들을 가리킵니까?","a":"앞 문장의 DSS-23을 뺀 나머지 34미터 안테나 세 대입니다","tip":"the other 는 '앞에서 말한 것 말고 나머지'라는 뜻입니다. 사진 속 다섯 대 가운데 DSS-23과 26미터 안테나를 뺀 셋입니다."},
+  {"t":"mod","q":"<b>from left,</b> 는 무엇을 알려 주는 말입니까?","a":"이어 나오는 세 이름이 사진에서 왼쪽부터의 순서라는 뜻입니다","tip":"'왼쪽에 있는 안테나'라는 뜻이 아닙니다. 나열 순서를 밝히려고 쉼표로 끼워 넣은 말입니다."},
+  {"t":"mod","q":"<b>DSS-26, DSS-25, and DSS-24.</b> — 이 셋 가운데 사진에서 가장 왼쪽에 있는 것은 무엇입니까?","a":"DSS-26입니다","tip":"번호 순서(24→25→26)와 사진에 놓인 순서가 반대입니다. 번호대로 짐작하면 뒤집힙니다."}
+ ],
+ "25b85945|0.3": [
+  {"t":"mod","q":"<b>At farthest right is a smaller 26-meter (85-foot) antenna</b> — 이 문장의 주어는 무엇입니까?","a":"a smaller 26-meter (85-foot) antenna 입니다 — 장소가 앞으로 나오면서 주어가 is 뒤로 밀렸습니다","tip":"At farthest right 를 주어로 잡으면 뼈대가 무너집니다. 전치사(At)로 시작하는 말은 주어가 될 수 없습니다."},
+  {"t":"who","q":"<b>that was built in 1967</b> — 지어진 것은 무엇이고, 지은 쪽은 문장에 나옵니까?","a":"지어진 것은 그 26미터 안테나('아폴로 안테나')입니다. 지은 주체는 문장에 나오지 않습니다(수동태)","tip":"was built 는 '지었다'가 아니라 '지어졌다'입니다."},
+  {"t":"who","q":"<b>and earned its nickname</b> — 별명을 얻은 것은 무엇입니까?","a":"그 26미터 안테나입니다 — was built 와 같은 주어(that)를 받습니다","tip":"바로 앞의 the Manned Space Flight Network 를 주어로 잡기 쉽습니다. and 는 was built 와 earned 를 잇습니다."},
+  {"t":"time","q":"<b>the retired “Apollo Antenna”</b> — 이 안테나는 지금도 쓰이고 있습니까?","a":"아니요 — 은퇴해서 더는 현역으로 쓰이지 않습니다","tip":"retired 는 '은퇴한'입니다. 사진에 함께 찍혀 있다고 지금도 일하는 안테나로 읽으면 안 됩니다."}
+ ],
+ "25b85945|1.0": [
+  {"t":"who","q":"<b>NASA leadership and personnel as well as dignitaries</b> — 모인 사람은 누구누구입니까?","a":"NASA 지도부·직원들과 주요 인사들 모두입니다","tip":"as well as 는 '~뿐만 아니라 ~도'입니다. 둘 중 한쪽만 모였다고 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>gathered</b> 는 '모았다'입니까, '모였다'입니까?","a":"'모였다'입니다 — 사람들이 스스로 모인 것입니다","tip":"gather 는 뒤에 목적어가 있으면 '모으다', 없으면 '모이다'입니다. 여기서는 목적어 없이 바로 at 이 옵니다."},
+  {"t":"time","q":"<b>on Aug. 25, 2026.</b> — 이 행사는 앞으로 열릴 일입니까?","a":"아니요 — 2026년 8월 25일에 이미 열렸습니다(gathered, 과거형)","tip":"Aug. 는 August(8월)의 줄임말입니다. 앞 사진 설명의 현재형(soak)과 달리 여기는 과거형입니다."},
+  {"t":"mod","q":"<b>the complete DSS-23 antenna</b> 에서 complete 는 무슨 뜻입니까?","a":"'완공된, 다 지어진'이라는 뜻입니다","tip":"complete 를 '전부의'로 읽기 쉽지만, 앞 문장의 recently completed 와 같은 뜻입니다."}
+ ],
+ "25b85945|1.1": [
+  {"t":"pron","q":"<b>It’s the latest antenna</b> — It 은 무엇을 가리킵니까?","a":"앞 문장의 DSS-23 안테나입니다","tip":"It 을 막연한 '그것'으로 흘려 읽기 쉽습니다. 앞 문장에서 테이프 커팅을 한 그 안테나입니다."},
+  {"t":"pron","q":"<b>which began in 2009</b> — 2009년에 시작된 것은 무엇입니까?","a":"the Deep Space Network’s Aperture Enhancement Project(개구 확장 사업)입니다 — 안테나가 아닙니다","tip":"which 는 바로 앞의 Project 를 받습니다. 안테나를 2009년에 짓기 시작했다고 읽으면 틀립니다."},
+  {"t":"who","q":"<b>to be added</b> — 더해진 쪽은 무엇이고, 더한 쪽은 문장에 나옵니까?","a":"더해진 것은 그 안테나입니다. 더한 주체는 문장에 나오지 않습니다(수동)","tip":"to be added 를 '더하기 위해'로 읽으면 안테나가 무언가를 더하는 것이 되어 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>six new 34-meter multifrequency beam-waveguide antennas</b> 는 무엇을 뜻합니까?","a":"새로 놓는 34미터짜리 다중주파수 빔 도파관 안테나 여섯 대라는 뜻입니다","tip":"명사 앞에 꾸미는 말이 여러 겹 붙어 있습니다. 뒤에서부터 '안테나 ← 빔 도파관 ← 다중주파수 ← 34미터 ← 새 ← 여섯 대' 순으로 풀면 됩니다."}
+ ],
+ "25b85945|1.2": [
+  {"t":"mod","q":"<b>operating over different radio frequencies</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 many missions 입니다 — 서로 다른 무선 주파수로 이루어지는 임무들이라는 뜻","tip":"dishes 에 붙여 '안테나가 여러 주파수로 작동한다'로 읽기 쉽지만, 받는 말은 missions 입니다."},
+  {"t":"who","q":"<b>can enhance many missions</b> — 도움을 주는 쪽과 받는 쪽은 각각 무엇입니까?","a":"도움을 주는 쪽은 이 DSN 접시 안테나들이고, 받는 쪽은 여러 임무입니다","tip":"enhance 는 '높이다, 더 낫게 하다'입니다. 방향을 뒤집어 '임무가 안테나를 키운다'로 읽지 않도록 하세요."},
+  {"t":"pron","q":"<b>These versatile Deep Space Network (DSN) dishes</b> — These dishes 는 무엇을 가리킵니까?","a":"앞에서 본 골드스톤 단지의 심우주통신망 안테나들입니다","tip":"dish 는 '접시'이지만 통신에서는 접시 모양 안테나를 뜻합니다. These 는 새로 나온 다른 장비가 아니라 앞에서 말한 그 안테나들입니다."}
+ ],
+ "25b85945|2.0": [
+  {"t":"who","q":"<b>The DSN allows missions</b> — 추적하고 명령을 보내는 쪽은 DSN입니까, missions입니까?","a":"missions입니다 — DSN은 그렇게 할 수 있게 해 주는 쪽입니다","tip":"allow A to B 에서 실제로 동작하는 것은 A(여기서는 missions)입니다."},
+  {"t":"mod","q":"<b>faraway spacecraft</b> — 이 우주선은 어느 동작들의 상대입니까?","a":"track · send commands to · receive … from, 세 동작 모두의 상대입니다","tip":"맨 끝에 한 번만 나오지만 앞의 세 동작이 함께 나눠 씁니다. 마지막 receive 에만 걸린다고 읽으면 절반을 놓칩니다."},
+  {"t":"mod","q":"<b>send commands to,</b> 의 to 는 무엇과 이어집니까?","a":"맨 뒤의 faraway spacecraft 와 이어집니다 — '먼 우주선에 명령을 보낸다'는 뜻입니다","tip":"to 뒤에 바로 명사가 없어 뒤의 and receive 와 이어 읽기 쉽지만, 쉼표에서 끊기고 목적어는 문장 끝에 있습니다."}
+ ],
+ "25b85945|2.1": [
+  {"t":"pron","q":"<b>It is managed</b> — It 은 무엇을 가리킵니까?","a":"앞 문장의 The DSN(심우주통신망)입니다","tip":"바로 앞 문장의 missions 나 spacecraft 로 잡기 쉽습니다. 운영되는 것은 통신망입니다."},
+  {"t":"who","q":"<b>is managed by NASA’s Jet Propulsion Laboratory</b> — 운영하는 쪽과 운영되는 쪽은 각각 무엇입니까?","a":"운영하는 쪽은 제트추진연구소(JPL), 운영되는 쪽은 DSN입니다","tip":"수동태에서는 by 뒤가 실제로 일하는 쪽입니다. 주어를 행위자로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>a division of Caltech,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 NASA’s Jet Propulsion Laboratory 입니다 — JPL이 칼텍의 한 부서라는 뜻","tip":"Southern California 나 뒤의 SCaN Program 에 붙이면 안 됩니다. 쉼표 사이에 낀 동격입니다."},
+  {"t":"pron","q":"<b>which is located at NASA Headquarters</b> — NASA 본부에 있는 것은 무엇입니까?","a":"the agency’s Space Communications and Navigation ( SCaN ) Program(SCaN 프로그램)입니다","tip":"which 는 바로 앞 명사를 받습니다. DSN이나 JPL이 본부에 있다고 읽으면 틀립니다 — JPL은 캘리포니아 남부에 있습니다."}
+ ]
+}

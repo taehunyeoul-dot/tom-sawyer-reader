@@ -1,0 +1,72 @@
+Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth
+NASA · 2026-08-24
+https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/
+
+[0.0] At the center of our solar system, the Sun influences every planet that orbits it.
+[0.1] In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.
+
+[1.0] In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of NASA’s DRIVE (Diversify, Realize, Integrate, Venture, Educate) Science Centers — trace the trajectory of the heliosphere, the massive bubble created by our Sun that envelops our solar system, as it moved through our galaxy and influenced Earth’s climate along the way.
+[1.1] In another paper, a NASA scientist and coauthors investigate how the younger, dimmer Sun managed to heat Earth by seeding the production of potent greenhouse gases.
+
+[2.0] Over the last tens of millions of years, Earth’s climate has undergone significant shifts, including notable ice ages in which the global average temperature temporarily dropped by several degrees.
+[2.1] During these periods, more frequent climate swings led Earth to warm and cool.
+[2.2] To explain these periods of warming and cooling, scientists looked to factors internal to Earth, including orbital changes, greenhouse gases, and ice.
+[2.3] But new research suggests changes to the Sun’s environment may be key to understanding Earth’s temperature swings.
+
+[3.0] Just as our planet is encased by an atmosphere, so our entire solar system is encased inside a kind of “atmosphere” created by the Sun.
+[3.1] This protective bubble, known as the heliosphere, is formed by a continuous solar wind of charged particles streaming out from the Sun in all directions.
+
+[4.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[5.0] Our heliosphere orbits around the center of our galaxy, the Milky Way.
+[5.1] Throughout the Sun’s 4.6-billion-year existence, our heliosphere has traversed various regions within our galaxy.
+[5.2] In a paper published on Aug. 21 in Annual Review of Astronomy and Astrophysics , researchers at NASA’s SHIELD used computer modeling to reverse-engineer the path of the heliosphere through our galaxy, revealing that the environments it passed through may have triggered changes on Earth.
+
+[6.0] Merav Opher, SHIELD’s principal investigator at Boston University, and her team ran simulations that showed the Sun has encountered frigid expanses of gas and dust at least three different times in the past few million years.
+[6.1] In these instances, massive interstellar “cold clouds” pushed against the heliosphere to such an extent that it shrank to smaller than Earth’s orbit, stranding our planet outside the Sun’s protective shield.
+
+[7.0] These exposures — approximately 2 to 3 million years, 6 to 7 million years, and 13 to 14 million years ago — would have exposed Earth’s atmosphere to totally different surroundings.
+[7.1] The simulation results match geologic evidence: Elements prevalent in interstellar dust appear in deep-sea sediment core samples, Antarctic snow, and lunar samples during these timelines.
+
+[8.0] To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+[9.0] These heliosphere collapse events may also explain ancient climatic patterns on Earth.
+[9.1] In the simulations, when Earth’s atmosphere was exposed to a cold, dense galactic hydrogen cloud, it increased water vapor content and shifted upper-atmospheric dynamics, ultimately altering the conditions at the surface.
+[9.2] In summary, our heliosphere’s trips through colder regions in our galaxy may be a key factor in driving some of Earth’s ancient changes in climate, including possible ice ages.
+
+[10.0] The SHIELD center is one of several that NASA funds to unlock the next generation of heliospheric research.
+[10.1] As a DRIVE Science Center, SHIELD builds a team of researchers with differing expertise, approaches, and opinions to develop a model, or “digital twin,” of the heliosphere that helps reveal how the heliosphere interacts with its surroundings, including dense interstellar clouds.
+[10.2] Understanding our unique, habitable solar system will help unravel the mysteries of life’s evolution on Earth and potentially uncover other habitable star systems.
+
+[11.0] In another paper, Vladimir Airapetian, a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, focuses on a long-standing mystery of how the ancient Sun warmed early Earth enough to sustain life.
+[11.1] Three billion years ago, the young Sun was 70% as bright as it is today.
+[11.2] Under these dimmer conditions, Earth should have been frozen solid.
+[11.3] Yet geological evidence shows stable liquid water already existed long before that.
+[11.4] This puzzle — a balmy Earth under a cooler, dimmer Sun — is known as the Faint Young Sun paradox.
+
+[12.0] One clue to resolving the paradox comes from young Sun-like stars elsewhere in the galaxy.
+[12.1] These “toddler” stars are prone to throwing fits.
+[12.2] Specifically, data from NASA’s retired Kepler space telescope shows that young Sun-like stars regularly erupt with massive superflares, flinging high-energy particles in all directions on a daily basis.
+[12.3] If our young Sun was like these other stars, Airapetian proposes, the barrage of high-energy solar particles could have triggered chemical reactions that were key to warming early Earth.
+
+[13.0] Airapetian’s team simulated early Earth’s atmosphere in a sealed chamber, mixing molecular nitrogen, ammonia, carbon dioxide, and carbon monoxide.
+[13.1] They then fired protons into the mixture, simulating the onslaught of particles from superflares.
+[13.2] This proton bombardment triggered several changes including the production of nitrous oxide, a greenhouse gas 300 times more potent than carbon dioxide.
+[13.3] The research was published in Astrophysical Journal Letters .
+
+[14.0] This nitrous oxide could help Earth hold onto heat.
+[14.1] But not all the nitrous oxide would last.
+[14.2] The young Sun’s intense ultraviolet radiation would break some of it down, splitting the molecule back into nitrogen and oxygen.
+[14.3] But even if only 10% of the nitrous observed in the experiment survived, Airapetian’s team’s computer simulations confirmed, it would still warm Earth’s equatorial regions to about 41 degrees Fahrenheit (5 degrees Celsius), above water’s freezing point.
+[14.4] This smaller amount of nitrous could even accelerate prebiotic synthesis: just-above-freezing temperatures have been found to be more efficient for building complex chains of amino acids than warmer temperatures.
+
+[15.0] Together, these two studies show that the Sun can lead to surprising implications for Earth.
+[15.1] While our planet stands alone in many ways, it was formed and has always existed as part of a star-planet system.
+[15.2] Understanding that unique relationship promises new insights about both Earth and the star that sustains it.
+
+[16.0] By Desiree Apodaca and Miles Hatfield NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+[17.0] The drying of the massive lake exposed playas that became the setting for feats of…
+
+[18.0] A series of heat waves in 2026 is breaking records and taking a toll in…
+

@@ -1,0 +1,133 @@
+[
+ {
+  "id": "0f9d2501|0.0",
+  "en": "President Donald J.",
+  "s": "President Donald J.",
+  "v": "",
+  "chunks": [
+   {"en": "President Donald J.", "ko": "도널드 J. (트럼프) 대통령 — 이름 도중에 끊겼다", "r": "주어(직함 + 이름) · 동사 없음"}
+  ],
+  "ko": "도널드 J. (트럼프) 대통령 — 이름 가운데의 J. 뒤 마침표 때문에 여기서 잘렸고, 다음 문장의 Trump 로 이어진다.",
+  "why": "동사가 없는 토막이다. 가운데 이름을 줄인 J. 의 마침표를 문장 끝으로 잘못 보아 끊긴 것이라, 뜻은 다음 문장 첫머리의 Trump 와 붙여 'President Donald J. Trump(도널드 J. 트럼프 대통령)'로 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|0.1",
+  "en": "Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston.",
+  "s": "Trump",
+  "v": "will award",
+  "chunks": [
+   {"en": "Trump will award", "ko": "트럼프 (대통령)이 ~에게 ~을 수여할 것이다", "r": "주어 + 동사(미래)"},
+   {"en": "each of NASA’s Artemis II crew members", "ko": "NASA 아르테미스 II 승무원 한 사람 한 사람에게", "r": "목적어1(받는 사람)"},
+   {"en": "the Congressional Space Medal of Honor", "ko": "의회 우주 명예훈장을", "r": "목적어2(주는 것)"},
+   {"en": "at 11 a.m. EDT on Friday, Aug. 28,", "ko": "8월 28일 금요일 미 동부 시간(EDT) 오전 11시에", "r": "시간"},
+   {"en": "during a ceremony", "ko": "한 기념식 자리에서", "r": "시간(어떤 자리에서인가)"},
+   {"en": "at the agency’s Johnson Space Center in Houston.", "ko": "휴스턴에 있는 그 기관(NASA)의 존슨우주센터에서 열리는", "r": "전치사구(장소)"}
+  ],
+  "ko": "트럼프 대통령은 8월 28일 금요일 미국 동부 시간(EDT) 오전 11시, 휴스턴에 있는 NASA 존슨우주센터(Johnson Space Center)에서 열리는 기념식에서 NASA 아르테미스 II 승무원 한 사람 한 사람에게 의회 우주 명예훈장(Congressional Space Medal of Honor)을 수여한다.",
+  "why": "award 는 뒤에 '~에게(사람)' + '~을(물건)' 두 덩어리가 연달아 붙는 동사다. each of ~ crew members 가 받는 사람, the Congressional Space Medal of Honor 가 주는 물건이라 순서를 뒤집으면 뜻이 어긋난다. 뒤쪽 the agency 는 NASA를 다시 가리키는 말이고, will 이라 아직 하지 않은 일이다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|1.0",
+  "en": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, completed a 10-day mission around the Moon on April 10.",
+  "s": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen",
+  "v": "completed",
+  "chunks": [
+   {"en": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch,", "ko": "NASA 우주비행사 리드 와이즈먼, 빅터 글로버, 크리스티나 코크,", "r": "주어1(직함 + 이름 셋)"},
+   {"en": "and CSA (Canadian Space Agency) astronaut Jeremy Hansen,", "ko": "그리고 CSA(캐나다우주국) 우주비행사 제러미 핸슨이", "r": "주어2(직함 + 이름)"},
+   {"en": "completed a 10-day mission", "ko": "열흘짜리 임무를 마쳤다", "r": "동사(과거) + 목적어"},
+   {"en": "around the Moon", "ko": "달 주위를 도는", "r": "전치사구(앞 명사 mission 설명)"},
+   {"en": "on April 10.", "ko": "4월 10일에", "r": "시간"}
+  ],
+  "ko": "NASA 우주비행사 리드 와이즈먼, 빅터 글로버, 크리스티나 코크와 CSA(Canadian Space Agency, 캐나다우주국) 우주비행사 제러미 핸슨은 4월 10일에 달 주위를 도는 열흘간의 임무를 마쳤다.",
+  "why": "주어가 네 사람의 이름으로 길게 이어져 동사 completed 가 한참 뒤에 나온다. 이름 앞의 NASA astronauts, CSA astronaut 은 사람을 더 늘리는 말이 아니라 소속을 밝히는 직함(동격)이다. 쉼표를 따라가다 Hansen, 뒤에서 이름 나열이 끝난다는 것을 잡아야 동사가 보인다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|1.1",
+  "en": "During a historic test flight as the first astronauts to fly aboard NASA’s Orion spacecraft, these crew members were the first to travel beyond the Moon in more than 50 years and traveled farther in space than humans have ever before.",
+  "s": "these crew members",
+  "v": "were",
+  "chunks": [
+   {"en": "During a historic test flight", "ko": "역사적인 시험비행을 하는 동안", "r": "시간(언제의 일인가)"},
+   {"en": "as the first astronauts to fly aboard NASA’s Orion spacecraft,", "ko": "NASA의 오리온 우주선을 타고 비행한 최초의 우주비행사로서", "r": "자격(~로서)"},
+   {"en": "these crew members were the first", "ko": "이 승무원들은 최초의 사람들이었다", "r": "주어 + 동사 + 보어"},
+   {"en": "to travel beyond the Moon", "ko": "달 너머까지 나아간", "r": "to부정사(앞의 the first 설명)"},
+   {"en": "in more than 50 years", "ko": "50년이 넘는 기간을 통틀어", "r": "기간(그 안에서 처음)"},
+   {"en": "and traveled farther in space", "ko": "그리고 우주에서 더 멀리까지 갔다", "r": "대등절(두 번째 동사)"},
+   {"en": "than humans have ever before.", "ko": "지금까지 인류가 가 본 그 어느 곳보다도", "r": "비교 대상"}
+  ],
+  "ko": "NASA의 오리온(Orion) 우주선을 타고 비행한 최초의 우주비행사로서 치른 역사적인 시험비행에서, 이 승무원들은 50여 년 만에 처음으로 달 너머까지 나아간 사람들이 되었고, 지금까지 인류가 가 본 그 어느 곳보다도 우주에서 더 멀리까지 갔다.",
+  "why": "문장 앞머리에 During ~ 과 as ~ 가 길게 붙어 주어(these crew members)가 한참 뒤에 나온다. 동사는 were 와 traveled 둘인데 주어는 둘 다 같다. in more than 50 years 는 '50년이 걸렸다'가 아니라 '지난 50여 년을 통틀어 처음'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|2.0",
+  "en": "NASA Administrator Jared Isaacman will join the President and astronauts in the awards ceremony.",
+  "s": "NASA Administrator Jared Isaacman",
+  "v": "will join",
+  "chunks": [
+   {"en": "NASA Administrator Jared Isaacman", "ko": "NASA 국장 재러드 아이작먼이", "r": "주어(직함 + 이름, 동격)"},
+   {"en": "will join the President and astronauts", "ko": "대통령 및 우주비행사들과 자리를 함께한다", "r": "동사(미래) + 목적어"},
+   {"en": "in the awards ceremony.", "ko": "그 훈장 수여식에서", "r": "전치사구(어떤 자리에서인가)"}
+  ],
+  "ko": "NASA 국장 재러드 아이작먼(Jared Isaacman)도 이 훈장 수여식에 대통령, 우주비행사들과 함께 자리한다.",
+  "why": "NASA Administrator 는 이름 앞에 붙은 직함이라 아이작먼이 곧 NASA 국장이다(두 사람이 아니다). join 은 '가입하다'가 아니라 '~와 자리를 함께하다'이고, will 이라 아직 열리지 않은 행사다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|3.0",
+  "en": "The event will stream live on a variety of platforms.",
+  "s": "The event",
+  "v": "will stream",
+  "chunks": [
+   {"en": "The event will stream live", "ko": "그 행사는 실시간으로 중계된다", "r": "주어 + 동사(미래) + 부사"},
+   {"en": "on a variety of platforms.", "ko": "여러 가지 매체(플랫폼)를 통해", "r": "전치사구(수단·경로)"}
+  ],
+  "ko": "이 행사는 여러 매체(플랫폼)를 통해 실시간으로 중계될 예정이다.",
+  "why": "stream 이 능동 형태로 쓰였지만 뜻은 '(그 행사가) 중계된다'는 쪽이고, 중계하는 주체는 문장에 나오지 않는다. live 는 '살아 있는'이 아니라 '실시간으로'라는 부사다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|4.0",
+  "en": "In addition to pooled media, limited media credentialing is available for this event.",
+  "s": "limited media credentialing",
+  "v": "is",
+  "chunks": [
+   {"en": "In addition to pooled media,", "ko": "공동취재단(pool) 취재진에 더해", "r": "덧붙임(무엇에 더하는가)"},
+   {"en": "limited media credentialing", "ko": "제한된 수의 언론 취재 등록이", "r": "주어(긴 명사 덩어리)"},
+   {"en": "is available for this event.", "ko": "이 행사에 대해 가능하다", "r": "동사 + 보어 + 대상"}
+  ],
+  "ko": "공동취재단(pool)에 더해, 이 행사에는 제한된 수의 언론 취재 등록(취재 허가 신청)도 받는다.",
+  "why": "주어가 limited media credentialing 이라는 긴 명사 덩어리(제한된 수의 언론 취재 등록)이고 동사는 is 하나뿐이다. In addition to ~ 는 '~에 더해'라는 덧붙임이지 '~ 말고는 안 된다'가 아니다. media credentialing 은 기자에게 취재 자격(출입증)을 내주는 절차를 말한다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|4.1",
+  "en": "To apply, please submit your request online by 5 p.m. CDT on Tuesday, Aug. 25.",
+  "s": "",
+  "v": "submit",
+  "chunks": [
+   {"en": "To apply,", "ko": "(취재 등록을) 신청하려면", "r": "목적(~하려면)"},
+   {"en": "please submit your request online", "ko": "신청서를 온라인으로 제출하십시오", "r": "명령문 동사 + 목적어 + 방법"},
+   {"en": "by 5 p.m. CDT on Tuesday, Aug. 25.", "ko": "8월 25일 화요일 미 중부 시간(CDT) 오후 5시까지", "r": "기한(언제까지)"}
+  ],
+  "ko": "신청하려면 8월 25일 화요일 미국 중부 시간(CDT) 오후 5시까지 온라인으로 신청서를 제출하십시오.",
+  "why": "주어가 없는 명령문이라 '(읽는 당신이) 내라'는 뜻이다. by 는 '~에 의해'가 아니라 '~까지'라는 마감 표시다. 앞 문단의 행사 시각은 EDT(동부), 여기 마감은 CDT(중부)로 시간대 표기가 서로 다르다.",
+  "st": []
+ },
+ {
+  "id": "0f9d2501|5.0",
+  "en": "Learn more about NASA’s Artemis program on the agency’s website.",
+  "s": "",
+  "v": "Learn",
+  "chunks": [
+   {"en": "Learn more about NASA’s Artemis program", "ko": "NASA의 아르테미스 계획에 대해 더 알아보십시오", "r": "명령문 동사 + 대상"},
+   {"en": "on the agency’s website.", "ko": "그 기관(NASA)의 누리집에서", "r": "전치사구(어디에서 알아보나)"}
+  ],
+  "ko": "NASA의 아르테미스(Artemis) 계획에 대해서는 NASA 누리집(웹사이트)에서 더 알아볼 수 있다.",
+  "why": "주어 없는 명령문이라 사실을 전하는 문장이 아니라 '알아보라'는 권유다. the agency 는 앞에서와 마찬가지로 NASA를 다시 가리키는 말이고, on ~ 은 아르테미스 계획이 아니라 Learn(알아보는 일)에 걸린다.",
+  "st": []
+ }
+]

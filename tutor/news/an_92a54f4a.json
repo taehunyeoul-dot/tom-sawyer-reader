@@ -1,0 +1,1521 @@
+[
+ {
+  "id": "92a54f4a|0.0",
+  "en": "At the center of our solar system, the Sun influences every planet that orbits it.",
+  "s": "the Sun",
+  "v": "influences",
+  "chunks": [
+   {
+    "en": "At the center of our solar system,",
+    "ko": "우리 태양계의 중심에서",
+    "r": "전치사구(위치)"
+   },
+   {
+    "en": "the Sun influences every planet",
+    "ko": "태양은 모든 행성에 영향을 준다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "that orbits it.",
+    "ko": "자기 둘레를 도는",
+    "r": "관계절(앞 명사 설명)"
+   }
+  ],
+  "ko": "우리 태양계의 중심에서, 태양은 자기 둘레를 도는 모든 행성에 영향을 준다.",
+  "why": "맨 끝 that orbits it 은 앞의 every planet 을 꾸미는 관계절(앞 명사를 설명하는 말)이고, it 은 the Sun 이다. 도는 쪽은 행성이고 돌림을 받는 쪽이 태양이라는 것을 놓치면 방향이 뒤집힌다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|0.1",
+  "en": "In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.",
+  "s": "scientists",
+  "v": "uncovered",
+  "chunks": [
+   {
+    "en": "In two recent NASA-funded studies,",
+    "ko": "NASA가 지원한 최근 두 연구에서",
+    "r": "전치사구(어디에서)"
+   },
+   {
+    "en": "scientists uncovered",
+    "ko": "과학자들이 밝혀냈다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "how ancient events in the Sun’s history",
+    "ko": "태양의 역사 속 먼 옛날의 사건들이 어떻게",
+    "r": "목적어절의 주어"
+   },
+   {
+    "en": "may have helped create Earth’s unique climate",
+    "ko": "지구만의 독특한 기후를 만드는 데 도움을 주었을 수 있는지",
+    "r": "목적어절의 동사부"
+   },
+   {
+    "en": "and driven previously unexplained climatic shifts.",
+    "ko": "그리고 지금까지 설명되지 않던 기후 변화를 일으켰을 수 있는지를",
+    "r": "helped 와 나란히 걸리는 두 번째 동사"
+   }
+  ],
+  "ko": "NASA가 지원한 최근 두 연구에서, 과학자들은 태양의 역사 속 먼 옛날의 사건들이 지구만의 독특한 기후를 만드는 데 도움을 주고 지금까지 설명되지 않던 기후 변화를 일으켰을 수 있다는 것을 밝혀냈다.",
+  "why": "uncovered 의 목적어가 how 로 시작하는 긴 절 하나다. 그 절의 동사는 may have helped ~ and (may have) driven ~ 으로 두 갈래이며, driven 은 helped 와 나란히 걸리는 말이지 새로운 문장의 동사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|1.0",
+  "en": "In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of NASA’s DRIVE (Diversify, Realize, Integrate, Venture, Educate) Science Centers — trace the trajectory of the heliosphere, the massive bubble created by our Sun that envelops our solar system, as it moved through our galaxy and influenced Earth’s climate along the way.",
+  "s": "scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center",
+  "v": "trace",
+  "chunks": [
+   {
+    "en": "In new research,",
+    "ko": "새 연구에서",
+    "r": "전치사구(어디에서)"
+   },
+   {
+    "en": "scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center",
+    "ko": "NASA의 SHIELD 센터 과학자들이",
+    "r": "주어(기관 이름이 낀 긴 명사구)"
+   },
+   {
+    "en": "— one of NASA’s DRIVE (Diversify, Realize, Integrate, Venture, Educate) Science Centers —",
+    "ko": "곧 NASA의 DRIVE 과학센터 가운데 한 곳인데",
+    "r": "동격(앞 센터를 다시 설명)"
+   },
+   {
+    "en": "trace the trajectory of the heliosphere,",
+    "ko": "태양권의 이동 경로를 되짚는다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "the massive bubble created by our Sun",
+    "ko": "곧 우리 태양이 만들어 낸 거대한 거품인데",
+    "r": "동격(heliosphere 풀이)"
+   },
+   {
+    "en": "that envelops our solar system,",
+    "ko": "우리 태양계를 감싸는",
+    "r": "관계절(앞 bubble 설명)"
+   },
+   {
+    "en": "as it moved through our galaxy",
+    "ko": "그 태양권이 우리 은하 속을 지나가며",
+    "r": "부사절(때)"
+   },
+   {
+    "en": "and influenced Earth’s climate along the way.",
+    "ko": "그 과정에서 지구의 기후에 영향을 준",
+    "r": "as절 안의 두 번째 동사"
+   }
+  ],
+  "ko": "새 연구에서, NASA의 SHIELD(Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) 센터 — NASA의 DRIVE(Diversify, Realize, Integrate, Venture, Educate) 과학센터 가운데 한 곳이다 — 소속 과학자들이 헬리오스피어(태양권), 곧 우리 태양이 만들어 내어 우리 태양계를 감싸는 거대한 거품의 이동 경로를 되짚는다. 그 태양권이 우리 은하 속을 지나가며 그 과정에서 지구의 기후에 영향을 준 경로다.",
+  "why": "주어(scientists at ~ center)와 동사(trace) 사이에 대시로 묶인 동격(같은 것을 다시 말한 설명)이 통째로 끼어 있다. 대시 안쪽을 괄호로 여기고 건너뛰면 '과학자들이 ~ 경로를 되짚는다'가 뼈대다. heliosphere 뒤의 the massive bubble ~ 도 태양권을 다시 말한 동격이고, as it moved ~ 의 it 은 태양권이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|1.1",
+  "en": "In another paper, a NASA scientist and coauthors investigate how the younger, dimmer Sun managed to heat Earth by seeding the production of potent greenhouse gases.",
+  "s": "a NASA scientist and coauthors",
+  "v": "investigate",
+  "chunks": [
+   {
+    "en": "In another paper,",
+    "ko": "또 다른 논문에서는",
+    "r": "전치사구(어디에서)"
+   },
+   {
+    "en": "a NASA scientist and coauthors investigate",
+    "ko": "NASA의 한 과학자와 공저자들이 살펴본다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "how the younger, dimmer Sun managed to heat Earth",
+    "ko": "더 젊고 더 어두웠던 태양이 어떻게 지구를 데울 수 있었는지를",
+    "r": "목적어절"
+   },
+   {
+    "en": "by seeding the production of potent greenhouse gases.",
+    "ko": "강력한 온실가스가 만들어지도록 씨를 뿌림으로써",
+    "r": "수단(어떻게)"
+   }
+  ],
+  "ko": "또 다른 논문에서는, NASA의 한 과학자와 공저자들이 더 젊고 더 어두웠던 태양이 어떻게 강력한 온실가스가 만들어지도록 씨를 뿌려 지구를 데울 수 있었는지를 살펴본다.",
+  "why": "investigate 의 목적어는 how 로 시작하는 절 전체다. by ~ing 는 '~함으로써'라는 수단인데, 그 수단을 쓴 쪽은 과학자가 아니라 태양이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|2.0",
+  "en": "Over the last tens of millions of years, Earth’s climate has undergone significant shifts, including notable ice ages in which the global average temperature temporarily dropped by several degrees.",
+  "s": "Earth’s climate",
+  "v": "has undergone",
+  "chunks": [
+   {
+    "en": "Over the last tens of millions of years,",
+    "ko": "지난 수천만 년 동안",
+    "r": "시간"
+   },
+   {
+    "en": "Earth’s climate has undergone significant shifts,",
+    "ko": "지구의 기후는 큰 변화를 겪어 왔다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "including notable ice ages",
+    "ko": "뚜렷한 빙하기들도 그 안에 들어가는데",
+    "r": "예시(앞 shifts 의 일부)"
+   },
+   {
+    "en": "in which the global average temperature",
+    "ko": "그 빙하기에는 지구 평균 기온이",
+    "r": "관계절(앞 ice ages 설명)"
+   },
+   {
+    "en": "temporarily dropped by several degrees.",
+    "ko": "일시적으로 몇 도만큼 떨어졌다",
+    "r": "관계절의 동사부"
+   }
+  ],
+  "ko": "지난 수천만 년 동안 지구의 기후는 큰 변화를 겪어 왔다. 지구 평균 기온이 일시적으로 몇 도만큼 떨어졌던 뚜렷한 빙하기들도 그런 변화에 들어간다.",
+  "why": "tens of millions of years 는 '수천만 년'이다. in which 는 '그 빙하기 동안에'라는 뜻으로 앞의 notable ice ages 를 설명한다. dropped by several degrees 의 by 는 '몇 도까지'가 아니라 '몇 도만큼' 떨어졌다는 차이를 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|2.1",
+  "en": "During these periods, more frequent climate swings led Earth to warm and cool.",
+  "s": "more frequent climate swings",
+  "v": "led",
+  "chunks": [
+   {
+    "en": "During these periods,",
+    "ko": "이 시기에는",
+    "r": "시간"
+   },
+   {
+    "en": "more frequent climate swings",
+    "ko": "더 잦아진 기후 요동이",
+    "r": "주어"
+   },
+   {
+    "en": "led Earth to warm and cool.",
+    "ko": "지구를 따뜻해졌다 식었다 하게 만들었다",
+    "r": "동사 + 목적어 + 결과"
+   }
+  ],
+  "ko": "이 시기에는 더 잦아진 기후 요동이 지구를 따뜻해졌다 식었다 하게 만들었다.",
+  "why": "led A to B 는 'A가 B하게 만들었다'는 짜임이다. 이끈 쪽은 기후 요동이고, 따뜻해졌다 식었다 한 쪽은 지구다. more 는 '더 많은'이 아니라 뒤의 frequent 를 꾸며 '더 잦은'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|2.2",
+  "en": "To explain these periods of warming and cooling, scientists looked to factors internal to Earth, including orbital changes, greenhouse gases, and ice.",
+  "s": "scientists",
+  "v": "looked",
+  "chunks": [
+   {
+    "en": "To explain these periods of warming and cooling,",
+    "ko": "따뜻해졌다 식었다 한 이 시기를 설명하기 위해",
+    "r": "목적(~하기 위해)"
+   },
+   {
+    "en": "scientists looked to factors internal to Earth,",
+    "ko": "과학자들은 지구 내부의 요인들에서 답을 찾으려 했다",
+    "r": "주어 + 동사 + 대상"
+   },
+   {
+    "en": "including orbital changes, greenhouse gases, and ice.",
+    "ko": "공전 궤도의 변화, 온실가스, 얼음 같은 것들이다",
+    "r": "예시 나열"
+   }
+  ],
+  "ko": "따뜻해졌다 식었다 한 이 시기를 설명하기 위해, 과학자들은 지구 내부에 있는 요인들 — 공전 궤도의 변화, 온실가스, 얼음 같은 것 — 에서 답을 찾으려 했다.",
+  "why": "looked to ~ 는 '~을 바라봤다'가 아니라 '~에서 답을 찾으려 했다'는 뜻이다. factors internal to Earth 는 '지구 안쪽의 요인들'로, 다음 문장에서 말할 태양 쪽(바깥) 요인과 맞세운 말이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|2.3",
+  "en": "But new research suggests changes to the Sun’s environment may be key to understanding Earth’s temperature swings.",
+  "s": "new research",
+  "v": "suggests",
+  "chunks": [
+   {
+    "en": "But new research suggests",
+    "ko": "그러나 새 연구는 ~라고 말한다",
+    "r": "대등절 + 주어 + 동사"
+   },
+   {
+    "en": "changes to the Sun’s environment",
+    "ko": "태양이 놓인 환경의 변화가",
+    "r": "목적어절의 주어"
+   },
+   {
+    "en": "may be key to understanding Earth’s temperature swings.",
+    "ko": "지구의 기온 요동을 이해하는 열쇠일 수 있다고",
+    "r": "목적어절의 동사부"
+   }
+  ],
+  "ko": "그러나 새 연구는 태양이 놓인 환경의 변화가 지구의 기온 요동을 이해하는 열쇠일 수 있다고 말한다.",
+  "why": "suggests 뒤에 that 이 생략된 절이 통째로 들어 있다. changes 는 그 절의 주어이지 suggests 의 목적어인 명사 하나가 아니다. key to ~ing 의 to 는 전치사라 뒤에 -ing 가 온다('~하는 데의 열쇠').",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|3.0",
+  "en": "Just as our planet is encased by an atmosphere, so our entire solar system is encased inside a kind of “atmosphere” created by the Sun.",
+  "s": "our entire solar system",
+  "v": "is encased",
+  "chunks": [
+   {
+    "en": "Just as our planet is encased by an atmosphere,",
+    "ko": "우리 행성이 대기에 둘러싸여 있는 것과 꼭 마찬가지로",
+    "r": "부사절(비교의 앞짝)"
+   },
+   {
+    "en": "so our entire solar system is encased",
+    "ko": "우리 태양계 전체도 둘러싸여 있다",
+    "r": "주절 주어 + 동사(수동)"
+   },
+   {
+    "en": "inside a kind of “atmosphere”",
+    "ko": "일종의 '대기' 안에",
+    "r": "전치사구(어디 안에)"
+   },
+   {
+    "en": "created by the Sun.",
+    "ko": "태양이 만들어 낸",
+    "r": "과거분사구(앞 '대기' 설명)"
+   }
+  ],
+  "ko": "우리 행성이 대기에 둘러싸여 있는 것과 꼭 마찬가지로, 우리 태양계 전체도 태양이 만들어 낸 일종의 '대기' 안에 둘러싸여 있다.",
+  "why": "Just as A, so B 는 'A인 것과 꼭 마찬가지로 B이다'라는 짝이다. 여기서 so 를 '그래서'로 읽으면 원인-결과로 뒤집힌다. is encased 는 수동이라 '둘러싼다'가 아니라 '둘러싸여 있다'이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|3.1",
+  "en": "This protective bubble, known as the heliosphere, is formed by a continuous solar wind of charged particles streaming out from the Sun in all directions.",
+  "s": "This protective bubble",
+  "v": "is formed",
+  "chunks": [
+   {
+    "en": "This protective bubble,",
+    "ko": "이 보호막 같은 거품은",
+    "r": "주어"
+   },
+   {
+    "en": "known as the heliosphere,",
+    "ko": "헬리오스피어(태양권)라고 불리는데",
+    "r": "동격(주어를 다시 설명)"
+   },
+   {
+    "en": "is formed by a continuous solar wind",
+    "ko": "끊임없이 부는 태양풍이 만들어 낸 것이다",
+    "r": "동사(수동) + 만든 쪽"
+   },
+   {
+    "en": "of charged particles",
+    "ko": "전하를 띤 입자들로 이루어진",
+    "r": "전치사구(무엇으로 된 바람인가)"
+   },
+   {
+    "en": "streaming out from the Sun in all directions.",
+    "ko": "태양에서 사방으로 뿜어져 나오는",
+    "r": "현재분사구(앞 입자들 설명)"
+   }
+  ],
+  "ko": "헬리오스피어(태양권)라고 불리는 이 보호막 같은 거품은, 태양에서 사방으로 뿜어져 나오는 전하를 띤 입자들의 끊임없는 흐름, 곧 태양풍이 만들어 낸 것이다.",
+  "why": "주어와 동사 사이에 known as ~ 라는 동격 설명이 쉼표로 끼어 있다. is formed by 는 수동이라 by 뒤가 '만든 쪽'이다. 맨 끝 streaming out ~ 은 charged particles 를 꾸미는 말이지 문장의 동사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|4.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {
+    "en": "To view this video",
+    "ko": "이 영상을 보려면",
+    "r": "목적·조건(~하려면)"
+   },
+   {
+    "en": "please enable JavaScript,",
+    "ko": "자바스크립트를 켜 주세요",
+    "r": "명령문(주어 없음)"
+   },
+   {
+    "en": "and consider upgrading to a web browser",
+    "ko": "그리고 웹 브라우저로 업그레이드하는 것도 생각해 보세요",
+    "r": "두 번째 명령문"
+   },
+   {
+    "en": "that supports HTML5 video",
+    "ko": "HTML5 영상을 지원하는",
+    "r": "관계절(앞 browser 설명)"
+   }
+  ],
+  "ko": "이 영상을 보려면 자바스크립트(JavaScript)를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 업그레이드하는 것도 생각해 보세요.",
+  "why": "주어가 없는 명령문 두 개(enable ~, consider ~)가 and 로 이어져 있다. To view 는 '보기 위해서는'이라는 조건이고, 맨 끝 that supports ~ 는 a web browser 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|5.0",
+  "en": "Our heliosphere orbits around the center of our galaxy, the Milky Way.",
+  "s": "Our heliosphere",
+  "v": "orbits",
+  "chunks": [
+   {
+    "en": "Our heliosphere orbits",
+    "ko": "우리 태양권은 돈다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "around the center of our galaxy,",
+    "ko": "우리 은하의 중심 둘레를",
+    "r": "전치사구(무엇의 둘레를)"
+   },
+   {
+    "en": "the Milky Way.",
+    "ko": "곧 은하수의",
+    "r": "동격(our galaxy 를 다시 말함)"
+   }
+  ],
+  "ko": "우리 태양권은 우리 은하, 곧 은하수(Milky Way)의 중심 둘레를 돈다.",
+  "why": "orbits 는 여기서 '궤도'라는 명사가 아니라 '돈다'는 동사다. 맨 끝 the Milky Way 는 our galaxy 를 다시 말한 동격이지 새로 나온 다른 대상이 아니다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|5.1",
+  "en": "Throughout the Sun’s 4.6-billion-year existence, our heliosphere has traversed various regions within our galaxy.",
+  "s": "our heliosphere",
+  "v": "has traversed",
+  "chunks": [
+   {
+    "en": "Throughout the Sun’s 4.6-billion-year existence,",
+    "ko": "태양이 존재해 온 46억 년 내내",
+    "r": "시간(기간 내내)"
+   },
+   {
+    "en": "our heliosphere has traversed",
+    "ko": "우리 태양권은 가로질러 왔다",
+    "r": "주어 + 동사(현재완료)"
+   },
+   {
+    "en": "various regions within our galaxy.",
+    "ko": "우리 은하 안의 여러 지역을",
+    "r": "목적어"
+   }
+  ],
+  "ko": "태양이 존재해 온 46억 년 내내, 우리 태양권은 우리 은하 안의 여러 지역을 가로질러 왔다.",
+  "why": "4.6-billion-year 는 46억 년이다(billion = 10억). Throughout 은 '그 기간 내내'라는 뜻이고, has traversed 는 과거부터 지금까지 이어져 온 일을 나타내는 현재완료다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|5.2",
+  "en": "In a paper published on Aug. 21 in Annual Review of Astronomy and Astrophysics , researchers at NASA’s SHIELD used computer modeling to reverse-engineer the path of the heliosphere through our galaxy, revealing that the environments it passed through may have triggered changes on Earth.",
+  "s": "researchers at NASA’s SHIELD",
+  "v": "used",
+  "chunks": [
+   {
+    "en": "In a paper published on Aug. 21",
+    "ko": "8월 21일에 실린 논문에서",
+    "r": "전치사구 + 과거분사구"
+   },
+   {
+    "en": "in Annual Review of Astronomy and Astrophysics ,",
+    "ko": "Annual Review of Astronomy and Astrophysics 라는 학술지에",
+    "r": "학술지 이름"
+   },
+   {
+    "en": "researchers at NASA’s SHIELD used computer modeling",
+    "ko": "NASA SHIELD의 연구진은 컴퓨터 모형을 이용했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to reverse-engineer the path of the heliosphere",
+    "ko": "태양권이 지나온 경로를 거꾸로 되짚어 내기 위해",
+    "r": "목적(~하기 위해)"
+   },
+   {
+    "en": "through our galaxy,",
+    "ko": "우리 은하를 지나온",
+    "r": "전치사구(어디를 지나온 경로인가)"
+   },
+   {
+    "en": "revealing that the environments it passed through",
+    "ko": "그리하여 태양권이 지나온 환경들이",
+    "r": "분사구문 + that절의 주어"
+   },
+   {
+    "en": "may have triggered changes on Earth.",
+    "ko": "지구에 변화를 일으켰을 수 있음을 보여 주었다",
+    "r": "that절의 동사부"
+   }
+  ],
+  "ko": "8월 21일 학술지 Annual Review of Astronomy and Astrophysics 에 실린 논문에서, NASA SHIELD의 연구진은 컴퓨터 모형을 이용해 태양권이 우리 은하를 지나온 경로를 거꾸로 되짚어 냈다. 그리하여 태양권이 지나온 환경들이 지구에 변화를 일으켰을 수 있음이 드러났다.",
+  "why": "문장의 뼈대는 '연구진이 컴퓨터 모형을 썼다'이고 to reverse-engineer 는 그 목적이다. revealing 이하는 그 작업이 드러낸 바를 덧붙인 분사구문이며, it 은 the heliosphere 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|6.0",
+  "en": "Merav Opher, SHIELD’s principal investigator at Boston University, and her team ran simulations that showed the Sun has encountered frigid expanses of gas and dust at least three different times in the past few million years.",
+  "s": "Merav Opher, SHIELD’s principal investigator at Boston University, and her team",
+  "v": "ran",
+  "chunks": [
+   {
+    "en": "Merav Opher,",
+    "ko": "메라브 오퍼는",
+    "r": "주어의 앞부분(사람 이름)"
+   },
+   {
+    "en": "SHIELD’s principal investigator at Boston University,",
+    "ko": "보스턴대학교에 있는 SHIELD의 책임연구자인데",
+    "r": "동격(앞 사람의 직함)"
+   },
+   {
+    "en": "and her team ran simulations",
+    "ko": "그와 연구진이 모의실험을 돌렸다",
+    "r": "주어의 나머지 + 동사 + 목적어"
+   },
+   {
+    "en": "that showed the Sun has encountered",
+    "ko": "그 결과 태양이 만난 적이 있음이 드러났다",
+    "r": "관계절(앞 simulations 설명)"
+   },
+   {
+    "en": "frigid expanses of gas and dust",
+    "ko": "몹시 차가운 가스와 먼지의 광활한 영역을",
+    "r": "목적어"
+   },
+   {
+    "en": "at least three different times",
+    "ko": "적어도 서로 다른 세 시기에 걸쳐",
+    "r": "횟수"
+   },
+   {
+    "en": "in the past few million years.",
+    "ko": "지난 수백만 년 사이에",
+    "r": "시간"
+   }
+  ],
+  "ko": "보스턴대학교에 있는 SHIELD의 책임연구자 메라브 오퍼(Merav Opher)와 그의 연구진이 모의실험을 돌렸고, 그 결과 태양이 지난 수백만 년 사이에 적어도 세 번은 몹시 차가운 가스와 먼지의 광활한 영역을 만난 적이 있음이 드러났다.",
+  "why": "주어가 '사람 이름 + 쉼표로 묶인 직함 + and her team' 으로 길게 늘어져 동사 ran 이 멀리 떨어진다. 쉼표 안쪽(직함)을 괄호로 묶어 두면 '오퍼와 연구진이 모의실험을 돌렸다'가 뼈대다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|6.1",
+  "en": "In these instances, massive interstellar “cold clouds” pushed against the heliosphere to such an extent that it shrank to smaller than Earth’s orbit, stranding our planet outside the Sun’s protective shield.",
+  "s": "massive interstellar “cold clouds”",
+  "v": "pushed",
+  "chunks": [
+   {
+    "en": "In these instances,",
+    "ko": "이런 때에는",
+    "r": "시간·상황"
+   },
+   {
+    "en": "massive interstellar “cold clouds” pushed against the heliosphere",
+    "ko": "거대한 성간 '차가운 구름'이 태양권을 밀어붙였다",
+    "r": "주어 + 동사 + 밀린 대상"
+   },
+   {
+    "en": "to such an extent that it shrank",
+    "ko": "태양권이 쪼그라들 정도로",
+    "r": "정도(너무 ~해서 …할 만큼)"
+   },
+   {
+    "en": "to smaller than Earth’s orbit,",
+    "ko": "지구의 공전 궤도보다도 작게",
+    "r": "얼마나 작아졌는가"
+   },
+   {
+    "en": "stranding our planet outside the Sun’s protective shield.",
+    "ko": "그 바람에 우리 지구는 태양의 보호막 바깥에 남겨졌다",
+    "r": "분사구문(결과)"
+   }
+  ],
+  "ko": "이런 때에는 거대한 성간(별과 별 사이의) '차가운 구름'이 태양권을 밀어붙여, 태양권이 지구의 공전 궤도보다도 작게 쪼그라들 정도가 되었다. 그 바람에 우리 지구는 태양의 보호막 바깥에 홀로 남겨졌다.",
+  "why": "to such an extent that ~ 은 '~할 정도로'라는 짝이다. it 은 the heliosphere 를 가리키며, 쪼그라든 것은 구름이 아니라 태양권이다. 맨 끝 stranding ~ 은 그 결과 벌어진 일을 덧붙인 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|7.0",
+  "en": "These exposures — approximately 2 to 3 million years, 6 to 7 million years, and 13 to 14 million years ago — would have exposed Earth’s atmosphere to totally different surroundings.",
+  "s": "These exposures",
+  "v": "would have exposed",
+  "chunks": [
+   {
+    "en": "These exposures",
+    "ko": "이렇게 밖에 드러났던 시기들은",
+    "r": "주어"
+   },
+   {
+    "en": "— approximately 2 to 3 million years,",
+    "ko": "곧 대략 200만~300만 년 전",
+    "r": "동격(그 시기가 언제인지)"
+   },
+   {
+    "en": "6 to 7 million years,",
+    "ko": "600만~700만 년 전",
+    "r": "동격 이어짐"
+   },
+   {
+    "en": "and 13 to 14 million years ago —",
+    "ko": "그리고 1,300만~1,400만 년 전인데",
+    "r": "동격 이어짐"
+   },
+   {
+    "en": "would have exposed Earth’s atmosphere",
+    "ko": "지구의 대기를 노출시켰을 것이다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "to totally different surroundings.",
+    "ko": "완전히 다른 환경에",
+    "r": "전치사구(무엇에 노출되었나)"
+   }
+  ],
+  "ko": "이렇게 태양의 보호막 밖에 드러났던 시기들 — 대략 200만~300만 년 전, 600만~700만 년 전, 그리고 1,300만~1,400만 년 전 — 에는 지구의 대기가 완전히 다른 환경에 노출되었을 것이다.",
+  "why": "대시로 묶인 부분은 앞의 These exposures 가 언제였는지를 밝히는 동격이라, 건너뛰면 '이 노출들이 지구 대기를 ~ 노출시켰을 것이다'가 뼈대다. would have exposed 는 '그랬을 것이다'라는 추측이지 확인된 사실이 아니다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|7.1",
+  "en": "The simulation results match geologic evidence: Elements prevalent in interstellar dust appear in deep-sea sediment core samples, Antarctic snow, and lunar samples during these timelines.",
+  "s": "The simulation results",
+  "v": "match",
+  "chunks": [
+   {
+    "en": "The simulation results match geologic evidence:",
+    "ko": "모의실험 결과는 지질학적 증거와 들어맞는다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "Elements prevalent in interstellar dust appear",
+    "ko": "성간 먼지에 흔한 원소들이 나타난다는 것이다",
+    "r": "콜론 뒤 절의 주어 + 동사"
+   },
+   {
+    "en": "in deep-sea sediment core samples,",
+    "ko": "심해 퇴적물 시추 시료에서",
+    "r": "어디에서 나타나는가"
+   },
+   {
+    "en": "Antarctic snow, and lunar samples",
+    "ko": "남극의 눈, 그리고 달 시료에서",
+    "r": "나머지 장소들"
+   },
+   {
+    "en": "during these timelines.",
+    "ko": "바로 그 시기에",
+    "r": "시간"
+   }
+  ],
+  "ko": "모의실험 결과는 지질학적 증거와 들어맞는다. 성간 먼지에 흔한 원소들이 바로 그 시기의 심해 퇴적물 시추 시료, 남극의 눈, 달 시료에서 나타나는 것이다.",
+  "why": "콜론(:) 뒤는 앞 문장을 구체적으로 풀어 주는 내용이다. prevalent in interstellar dust 는 앞의 Elements 를 뒤에서 꾸미는 말이고, 이 절의 동사는 appear 다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|8.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {
+    "en": "To view this video",
+    "ko": "이 영상을 보려면",
+    "r": "목적·조건(~하려면)"
+   },
+   {
+    "en": "please enable JavaScript,",
+    "ko": "자바스크립트를 켜 주세요",
+    "r": "명령문(주어 없음)"
+   },
+   {
+    "en": "and consider upgrading to a web browser",
+    "ko": "그리고 웹 브라우저로 업그레이드하는 것도 생각해 보세요",
+    "r": "두 번째 명령문"
+   },
+   {
+    "en": "that supports HTML5 video",
+    "ko": "HTML5 영상을 지원하는",
+    "r": "관계절(앞 browser 설명)"
+   }
+  ],
+  "ko": "이 영상을 보려면 자바스크립트(JavaScript)를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 업그레이드하는 것도 생각해 보세요.",
+  "why": "주어가 없는 명령문 두 개(enable ~, consider ~)가 and 로 이어져 있다. To view 는 '보기 위해서는'이라는 조건이고, 맨 끝 that supports ~ 는 a web browser 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|9.0",
+  "en": "These heliosphere collapse events may also explain ancient climatic patterns on Earth.",
+  "s": "These heliosphere collapse events",
+  "v": "may also explain",
+  "chunks": [
+   {
+    "en": "These heliosphere collapse events",
+    "ko": "이렇게 태양권이 쪼그라들었던 사건들은",
+    "r": "주어(명사가 겹쳐 붙은 덩어리)"
+   },
+   {
+    "en": "may also explain",
+    "ko": "설명해 줄지도 모른다",
+    "r": "동사"
+   },
+   {
+    "en": "ancient climatic patterns on Earth.",
+    "ko": "지구의 먼 옛날 기후 양상까지도",
+    "r": "목적어"
+   }
+  ],
+  "ko": "이렇게 태양권이 쪼그라들었던 사건들은 지구의 먼 옛날 기후 양상까지도 설명해 줄지 모른다.",
+  "why": "These heliosphere collapse events 는 명사 세 개가 겹쳐 붙은 덩어리라 뒤에서부터 '사건들 ← 붕괴(수축) ← 태양권' 순으로 풀면 된다. may 는 '~일지도 모른다'는 가능성이고, also 는 '기후 양상까지도'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|9.1",
+  "en": "In the simulations, when Earth’s atmosphere was exposed to a cold, dense galactic hydrogen cloud, it increased water vapor content and shifted upper-atmospheric dynamics, ultimately altering the conditions at the surface.",
+  "s": "it",
+  "v": "increased",
+  "chunks": [
+   {
+    "en": "In the simulations,",
+    "ko": "그 모의실험에서는",
+    "r": "전치사구(어디에서)"
+   },
+   {
+    "en": "when Earth’s atmosphere was exposed",
+    "ko": "지구의 대기가 노출되자",
+    "r": "부사절(때) 주어 + 동사(수동)"
+   },
+   {
+    "en": "to a cold, dense galactic hydrogen cloud,",
+    "ko": "차갑고 빽빽한 은하 수소 구름에",
+    "r": "무엇에 노출되었나"
+   },
+   {
+    "en": "it increased water vapor content",
+    "ko": "그 일이 수증기량을 늘렸고",
+    "r": "주절 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and shifted upper-atmospheric dynamics,",
+    "ko": "상층 대기의 흐름을 바꾸어 놓았다",
+    "r": "주절의 두 번째 동사"
+   },
+   {
+    "en": "ultimately altering the conditions at the surface.",
+    "ko": "끝내는 지표면의 조건까지 바꾸어 놓으면서",
+    "r": "분사구문(결과)"
+   }
+  ],
+  "ko": "그 모의실험에서, 지구의 대기가 차갑고 빽빽한 은하 수소 구름에 노출되자 그 일이 대기의 수증기량을 늘리고 상층 대기의 흐름을 바꾸어 놓았으며, 끝내는 지표면의 조건까지 바꾸어 놓았다.",
+  "why": "was exposed 는 수동이라 노출된 쪽이 지구 대기이고, 맞닥뜨린 상대가 수소 구름이다. increased 와 shifted 는 같은 주어에 나란히 걸리는 두 동사이며, 맨 끝 ultimately altering ~ 은 그 결과를 덧붙인 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|9.2",
+  "en": "In summary, our heliosphere’s trips through colder regions in our galaxy may be a key factor in driving some of Earth’s ancient changes in climate, including possible ice ages.",
+  "s": "our heliosphere’s trips through colder regions in our galaxy",
+  "v": "may be",
+  "chunks": [
+   {
+    "en": "In summary,",
+    "ko": "정리하면",
+    "r": "연결(요약)"
+   },
+   {
+    "en": "our heliosphere’s trips through colder regions in our galaxy",
+    "ko": "우리 태양권이 우리 은하 안의 더 차가운 지역들을 지나온 일이",
+    "r": "주어(긴 명사구)"
+   },
+   {
+    "en": "may be a key factor",
+    "ko": "핵심 요인일 수 있다",
+    "r": "동사 + 보어"
+   },
+   {
+    "en": "in driving some of Earth’s ancient changes in climate,",
+    "ko": "지구의 옛 기후 변화 가운데 일부를 일으킨",
+    "r": "무엇을 일으키는 요인인가"
+   },
+   {
+    "en": "including possible ice ages.",
+    "ko": "빙하기였을 수도 있는 시기까지 포함해서",
+    "r": "예시"
+   }
+  ],
+  "ko": "정리하면, 우리 태양권이 우리 은하 안의 더 차가운 지역들을 지나온 일이 지구의 옛 기후 변화 가운데 일부 — 빙하기였을 수도 있는 시기까지 포함해 — 를 일으킨 핵심 요인일 수 있다.",
+  "why": "주어가 our heliosphere’s trips through ~ galaxy 까지 길어 동사 may be 가 멀리 떨어진다. a key factor in ~ing 는 '~을 일으키는 데의 핵심 요인'이라는 뜻이고, including 이하는 그 기후 변화의 예다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|10.0",
+  "en": "The SHIELD center is one of several that NASA funds to unlock the next generation of heliospheric research.",
+  "s": "The SHIELD center",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "The SHIELD center is one of several",
+    "ko": "SHIELD 센터는 여럿 가운데 하나다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "that NASA funds",
+    "ko": "NASA가 자금을 대는",
+    "r": "관계절(앞 several 설명)"
+   },
+   {
+    "en": "to unlock the next generation of heliospheric research.",
+    "ko": "다음 세대의 태양권 연구를 열기 위해",
+    "r": "목적"
+   }
+  ],
+  "ko": "SHIELD 센터는 NASA가 다음 세대의 태양권 연구를 열기 위해 자금을 대는 여러 센터 가운데 하나다.",
+  "why": "one of several 뒤에는 centers(센터들)라는 말이 생략돼 있다. that NASA funds 는 그 several 을 설명하는 관계절이고, funds 는 명사 '자금'이 아니라 '자금을 댄다'는 동사다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|10.1",
+  "en": "As a DRIVE Science Center, SHIELD builds a team of researchers with differing expertise, approaches, and opinions to develop a model, or “digital twin,” of the heliosphere that helps reveal how the heliosphere interacts with its surroundings, including dense interstellar clouds.",
+  "s": "SHIELD",
+  "v": "builds",
+  "chunks": [
+   {
+    "en": "As a DRIVE Science Center,",
+    "ko": "DRIVE 과학센터의 하나로서",
+    "r": "자격(~로서)"
+   },
+   {
+    "en": "SHIELD builds a team of researchers",
+    "ko": "SHIELD는 연구자들로 팀을 꾸린다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "with differing expertise, approaches, and opinions",
+    "ko": "전문 분야와 접근 방식, 견해가 서로 다른",
+    "r": "전치사구(어떤 연구자들인가)"
+   },
+   {
+    "en": "to develop a model, or “digital twin,”",
+    "ko": "모형, 곧 '디지털 쌍둥이'를 만들기 위해",
+    "r": "목적 + 동격"
+   },
+   {
+    "en": "of the heliosphere",
+    "ko": "태양권의",
+    "r": "무엇의 모형인가"
+   },
+   {
+    "en": "that helps reveal how the heliosphere interacts with its surroundings,",
+    "ko": "태양권이 주변 환경과 어떻게 주고받는지를 밝히는 데 도움이 되는",
+    "r": "관계절(앞 모형 설명)"
+   },
+   {
+    "en": "including dense interstellar clouds.",
+    "ko": "빽빽한 성간 구름을 비롯한",
+    "r": "예시"
+   }
+  ],
+  "ko": "DRIVE 과학센터의 하나로서, SHIELD는 전문 분야와 접근 방식, 견해가 서로 다른 연구자들로 팀을 꾸린다. 태양권의 모형, 곧 '디지털 쌍둥이'를 만들기 위해서다. 그 모형은 태양권이 빽빽한 성간 구름을 비롯한 주변 환경과 어떻게 주고받는지를 밝히는 데 도움을 준다.",
+  "why": "As ~ 는 '~로서'라는 자격이다. differing 은 '서로 다른'이라는 뜻이고, to develop 이하가 팀을 꾸리는 목적이다. that helps reveal ~ 은 바로 앞의 model(디지털 쌍둥이)을 설명하는 관계절이며 its 는 태양권을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|10.2",
+  "en": "Understanding our unique, habitable solar system will help unravel the mysteries of life’s evolution on Earth and potentially uncover other habitable star systems.",
+  "s": "Understanding our unique, habitable solar system",
+  "v": "will help",
+  "chunks": [
+   {
+    "en": "Understanding our unique, habitable solar system",
+    "ko": "생명이 살 수 있는 우리만의 독특한 태양계를 이해하는 일은",
+    "r": "주어(동명사구)"
+   },
+   {
+    "en": "will help unravel the mysteries",
+    "ko": "수수께끼를 푸는 데 도움이 될 것이다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "of life’s evolution on Earth",
+    "ko": "지구에서 생명이 진화해 온 과정의",
+    "r": "무엇의 수수께끼인가"
+   },
+   {
+    "en": "and potentially uncover other habitable star systems.",
+    "ko": "나아가 생명이 살 만한 다른 항성계를 찾아내는 데도",
+    "r": "help 에 걸리는 두 번째 동사"
+   }
+  ],
+  "ko": "생명이 살 수 있는 우리만의 독특한 태양계를 이해하는 일은, 지구에서 생명이 어떻게 진화해 왔는가 하는 수수께끼를 푸는 데 도움이 되고, 나아가 생명이 살 만한 다른 항성계를 찾아내는 데도 도움이 될 것이다.",
+  "why": "주어가 Understanding ~ 이라는 동명사구('이해하는 일')다. will help 뒤에 unravel 과 uncover 두 동사가 나란히 걸리므로, uncover 는 새 문장의 동사가 아니라 help 에 함께 딸린 말이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|11.0",
+  "en": "In another paper, Vladimir Airapetian, a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, focuses on a long-standing mystery of how the ancient Sun warmed early Earth enough to sustain life.",
+  "s": "Vladimir Airapetian",
+  "v": "focuses",
+  "chunks": [
+   {
+    "en": "In another paper,",
+    "ko": "또 다른 논문에서는",
+    "r": "전치사구(어디에서)"
+   },
+   {
+    "en": "Vladimir Airapetian,",
+    "ko": "블라디미르 아이라페티안이",
+    "r": "주어(사람 이름)"
+   },
+   {
+    "en": "a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland,",
+    "ko": "메릴랜드주 그린벨트에 있는 NASA 고더드 우주비행센터의 과학자인데",
+    "r": "동격(직함·소속)"
+   },
+   {
+    "en": "focuses on a long-standing mystery",
+    "ko": "오래된 수수께끼에 주목한다",
+    "r": "동사 + 대상"
+   },
+   {
+    "en": "of how the ancient Sun warmed early Earth",
+    "ko": "먼 옛날의 태양이 어떻게 초기 지구를 데웠는가 하는",
+    "r": "어떤 수수께끼인가"
+   },
+   {
+    "en": "enough to sustain life.",
+    "ko": "생명이 살아갈 수 있을 만큼",
+    "r": "정도(~할 만큼)"
+   }
+  ],
+  "ko": "또 다른 논문에서는, 메릴랜드주 그린벨트에 있는 NASA 고더드 우주비행센터의 과학자 블라디미르 아이라페티안(Vladimir Airapetian)이, 먼 옛날의 태양이 어떻게 초기 지구를 생명이 살아갈 수 있을 만큼 따뜻하게 데웠는가 하는 오래된 수수께끼에 주목한다.",
+  "why": "주어(사람 이름)와 동사 focuses 사이에 쉼표로 묶인 직함·소속 설명이 통째로 끼어 있다. 그 안쪽을 괄호로 묶어 두면 '아이라페티안이 ~ 수수께끼에 주목한다'가 뼈대다. enough to sustain life 는 '생명을 지탱할 만큼'이라는 정도를 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|11.1",
+  "en": "Three billion years ago, the young Sun was 70% as bright as it is today.",
+  "s": "the young Sun",
+  "v": "was",
+  "chunks": [
+   {
+    "en": "Three billion years ago,",
+    "ko": "30억 년 전",
+    "r": "시간"
+   },
+   {
+    "en": "the young Sun was 70% as bright",
+    "ko": "젊은 태양은 70%만큼 밝았다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "as it is today.",
+    "ko": "오늘날의 태양에 견주어",
+    "r": "비교 대상"
+   }
+  ],
+  "ko": "30억 년 전, 젊은 태양의 밝기는 오늘날 태양의 70% 였다.",
+  "why": "X% as bright as Y 는 'Y의 X만큼 밝다'는 뜻이다. '70% 더 밝다'가 아니라 '지금의 70% 밝기', 곧 지금보다 어두웠다는 말이다. it 은 the Sun 을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|11.2",
+  "en": "Under these dimmer conditions, Earth should have been frozen solid.",
+  "s": "Earth",
+  "v": "should have been frozen",
+  "chunks": [
+   {
+    "en": "Under these dimmer conditions,",
+    "ko": "태양이 이렇게 더 어두웠던 조건이라면",
+    "r": "조건"
+   },
+   {
+    "en": "Earth should have been frozen solid.",
+    "ko": "지구는 꽁꽁 얼어붙어 있었어야 한다",
+    "r": "주어 + 동사 + 보어"
+   }
+  ],
+  "ko": "태양이 이렇게 더 어두웠던 조건이라면, 지구는 꽁꽁 얼어붙어 있었어야 한다.",
+  "why": "should have p.p. 는 '~했어야 했다(그런데 실제로는 그렇지 않았다)'는 뜻이다. 다음 문장에서 실제로는 물이 액체로 있었다고 뒤집으므로, 여기서는 '이론대로라면 얼어 있어야 맞다'는 말이다. frozen solid 는 '단단히 꽁꽁 얼어붙은'이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|11.3",
+  "en": "Yet geological evidence shows stable liquid water already existed long before that.",
+  "s": "geological evidence",
+  "v": "shows",
+  "chunks": [
+   {
+    "en": "Yet geological evidence shows",
+    "ko": "그런데도 지질학적 증거는 보여 준다",
+    "r": "대등절 + 주어 + 동사"
+   },
+   {
+    "en": "stable liquid water already existed",
+    "ko": "안정된 액체 상태의 물이 이미 있었다는 것을",
+    "r": "목적어절의 주어 + 동사"
+   },
+   {
+    "en": "long before that.",
+    "ko": "그보다 훨씬 앞서",
+    "r": "시간"
+   }
+  ],
+  "ko": "그런데도 지질학적 증거를 보면, 안정된 액체 상태의 물이 그보다 훨씬 앞서 이미 있었다.",
+  "why": "문장 맨 앞의 Yet 은 '아직'이 아니라 '그런데도, 그러나'라는 뜻으로 앞 문장을 뒤집는다. shows 뒤에는 that 이 생략된 절이 들어 있고, that 은 앞에서 말한 30억 년 전이라는 시점을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|11.4",
+  "en": "This puzzle — a balmy Earth under a cooler, dimmer Sun — is known as the Faint Young Sun paradox.",
+  "s": "This puzzle",
+  "v": "is known",
+  "chunks": [
+   {
+    "en": "This puzzle",
+    "ko": "이 수수께끼는",
+    "r": "주어"
+   },
+   {
+    "en": "— a balmy Earth under a cooler, dimmer Sun —",
+    "ko": "곧 더 차갑고 더 어두운 태양 아래의 포근한 지구라는 수수께끼인데",
+    "r": "동격(그 수수께끼의 내용)"
+   },
+   {
+    "en": "is known as the Faint Young Sun paradox.",
+    "ko": "'희미한 젊은 태양의 역설'이라고 불린다",
+    "r": "동사(수동) + 보어"
+   }
+  ],
+  "ko": "이 수수께끼 — 더 차갑고 더 어두운 태양 아래에 있는 포근한 지구 — 는 '희미한 젊은 태양의 역설(Faint Young Sun paradox)'이라고 불린다.",
+  "why": "대시 사이에 낀 부분은 This puzzle 이 무슨 수수께끼인지를 풀어 준 동격이다. 그 안쪽을 건너뛰면 '이 수수께끼는 ~라고 불린다'가 뼈대다. is known as 는 수동이라 '~라고 알려져 있다, 불린다'이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|12.0",
+  "en": "One clue to resolving the paradox comes from young Sun-like stars elsewhere in the galaxy.",
+  "s": "One clue to resolving the paradox",
+  "v": "comes",
+  "chunks": [
+   {
+    "en": "One clue to resolving the paradox",
+    "ko": "이 역설을 푸는 실마리 하나는",
+    "r": "주어(긴 명사구)"
+   },
+   {
+    "en": "comes from young Sun-like stars",
+    "ko": "태양을 닮은 젊은 별들에서 나온다",
+    "r": "동사 + 출처"
+   },
+   {
+    "en": "elsewhere in the galaxy.",
+    "ko": "은하의 다른 곳에 있는",
+    "r": "장소(앞 별들 설명)"
+   }
+  ],
+  "ko": "이 역설을 푸는 실마리 하나는 은하의 다른 곳에 있는, 태양을 닮은 젊은 별들에서 나온다.",
+  "why": "to resolving 의 to 는 to부정사가 아니라 전치사라 뒤에 -ing 가 온다('~을 푸는 데의'). 주어가 One clue ~ paradox 까지 길어 동사 comes 가 뒤로 멀리 떨어져 있다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|12.1",
+  "en": "These “toddler” stars are prone to throwing fits.",
+  "s": "These “toddler” stars",
+  "v": "are",
+  "chunks": [
+   {
+    "en": "These “toddler” stars",
+    "ko": "이 '걸음마쟁이' 별들은",
+    "r": "주어"
+   },
+   {
+    "en": "are prone to throwing fits.",
+    "ko": "걸핏하면 성질을 부린다",
+    "r": "동사 + 보어"
+   }
+  ],
+  "ko": "이 '걸음마쟁이(toddler)' 별들은 걸핏하면 성질을 부린다.",
+  "why": "be prone to ~ing 는 '걸핏하면 ~한다, ~하기 쉽다'는 뜻이다. throw a fit 은 '떼를 쓰다, 성질을 부리다'로, 어린아이에 빗대어 별이 갑자기 큰 폭발을 일으키는 것을 말한다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|12.2",
+  "en": "Specifically, data from NASA’s retired Kepler space telescope shows that young Sun-like stars regularly erupt with massive superflares, flinging high-energy particles in all directions on a daily basis.",
+  "s": "data from NASA’s retired Kepler space telescope",
+  "v": "shows",
+  "chunks": [
+   {
+    "en": "Specifically,",
+    "ko": "구체적으로 말하면",
+    "r": "연결"
+   },
+   {
+    "en": "data from NASA’s retired Kepler space telescope shows",
+    "ko": "NASA의 퇴역한 케플러 우주망원경이 얻은 자료가 보여 준다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "that young Sun-like stars regularly erupt",
+    "ko": "태양을 닮은 젊은 별들이 수시로 터진다는 것을",
+    "r": "목적어절의 주어 + 동사"
+   },
+   {
+    "en": "with massive superflares,",
+    "ko": "거대한 초대형 플레어를 일으키며",
+    "r": "무엇으로 터지는가"
+   },
+   {
+    "en": "flinging high-energy particles in all directions",
+    "ko": "고에너지 입자를 사방으로 뿜어내면서",
+    "r": "분사구문"
+   },
+   {
+    "en": "on a daily basis.",
+    "ko": "날마다",
+    "r": "빈도"
+   }
+  ],
+  "ko": "구체적으로, NASA의 퇴역한 케플러(Kepler) 우주망원경이 얻은 자료를 보면, 태양을 닮은 젊은 별들은 거대한 초대형 플레어를 수시로 터뜨리며 날마다 사방으로 고에너지 입자를 뿜어낸다.",
+  "why": "주어가 data from ~ telescope 까지 길고 동사는 shows 하나다. retired 는 '임무를 마친'이라는 뜻으로 망원경을 꾸민다. 맨 뒤 flinging ~ 은 별들이 그러면서 함께 하는 일을 덧붙인 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|12.3",
+  "en": "If our young Sun was like these other stars, Airapetian proposes, the barrage of high-energy solar particles could have triggered chemical reactions that were key to warming early Earth.",
+  "s": "the barrage of high-energy solar particles",
+  "v": "could have triggered",
+  "chunks": [
+   {
+    "en": "If our young Sun was like these other stars,",
+    "ko": "우리의 젊은 태양도 이 다른 별들과 같았다면",
+    "r": "조건절"
+   },
+   {
+    "en": "Airapetian proposes,",
+    "ko": "라고 아이라페티안은 제안한다",
+    "r": "삽입절(누가 말하는가)"
+   },
+   {
+    "en": "the barrage of high-energy solar particles",
+    "ko": "쏟아지는 고에너지 태양 입자들이",
+    "r": "주절의 주어"
+   },
+   {
+    "en": "could have triggered chemical reactions",
+    "ko": "화학 반응을 일으켰을 수 있다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "that were key to warming early Earth.",
+    "ko": "초기 지구를 데우는 데 열쇠가 된",
+    "r": "관계절(앞 반응 설명)"
+   }
+  ],
+  "ko": "우리의 젊은 태양도 이 다른 별들과 같았다면, 쏟아지는 고에너지 태양 입자들이 초기 지구를 데우는 데 열쇠가 된 화학 반응을 일으켰을 수 있다고 아이라페티안은 제안한다.",
+  "why": "Airapetian proposes 는 쉼표 사이에 끼어든 삽입절이라 '~라고 그는 제안한다'로 빼서 읽는다. 문장의 주어는 the barrage ~ particles 이고 동사는 could have triggered 다. that were key ~ 는 앞의 chemical reactions 를 설명한다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|13.0",
+  "en": "Airapetian’s team simulated early Earth’s atmosphere in a sealed chamber, mixing molecular nitrogen, ammonia, carbon dioxide, and carbon monoxide.",
+  "s": "Airapetian’s team",
+  "v": "simulated",
+  "chunks": [
+   {
+    "en": "Airapetian’s team simulated early Earth’s atmosphere",
+    "ko": "아이라페티안의 연구진은 초기 지구의 대기를 재현했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "in a sealed chamber,",
+    "ko": "밀폐된 실험 용기 안에서",
+    "r": "장소"
+   },
+   {
+    "en": "mixing molecular nitrogen, ammonia,",
+    "ko": "분자 질소와 암모니아",
+    "r": "분사구문(어떻게)"
+   },
+   {
+    "en": "carbon dioxide, and carbon monoxide.",
+    "ko": "이산화탄소, 일산화탄소를 섞어",
+    "r": "섞은 기체들 이어짐"
+   }
+  ],
+  "ko": "아이라페티안의 연구진은 밀폐된 실험 용기 안에서 분자 질소, 암모니아, 이산화탄소, 일산화탄소를 섞어 초기 지구의 대기를 재현했다.",
+  "why": "mixing ~ 은 앞 절과 같은 주어(연구진)가 '~을 섞으면서' 한 일을 덧붙인 분사구문이다. carbon dioxide(이산화탄소)와 carbon monoxide(일산화탄소)는 이름이 비슷하지만 서로 다른 기체다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|13.1",
+  "en": "They then fired protons into the mixture, simulating the onslaught of particles from superflares.",
+  "s": "They",
+  "v": "fired",
+  "chunks": [
+   {
+    "en": "They then fired protons into the mixture,",
+    "ko": "그런 다음 연구진은 그 혼합 기체 안으로 양성자를 쏘아 넣었다",
+    "r": "주어 + 동사 + 목적어 + 방향"
+   },
+   {
+    "en": "simulating the onslaught of particles",
+    "ko": "입자의 세례를 흉내 낸 것이다",
+    "r": "분사구문(무엇을 흉내 냈나)"
+   },
+   {
+    "en": "from superflares.",
+    "ko": "초대형 플레어에서 쏟아지는",
+    "r": "어디에서 온 입자인가"
+   }
+  ],
+  "ko": "그런 다음 연구진은 그 혼합 기체 안으로 양성자를 쏘아 넣었다. 초대형 플레어에서 쏟아지는 입자의 세례를 흉내 낸 것이다.",
+  "why": "They 는 앞 문장의 아이라페티안 연구진이다. then 은 '그때'가 아니라 '그런 다음'이라는 순서를 나타낸다. simulating ~ 은 그 행동이 무엇을 흉내 낸 것인지 밝히는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|13.2",
+  "en": "This proton bombardment triggered several changes including the production of nitrous oxide, a greenhouse gas 300 times more potent than carbon dioxide.",
+  "s": "This proton bombardment",
+  "v": "triggered",
+  "chunks": [
+   {
+    "en": "This proton bombardment triggered several changes",
+    "ko": "이렇게 양성자를 쏘아 대자 여러 변화가 일어났다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "including the production of nitrous oxide,",
+    "ko": "아산화질소가 만들어진 것도 그중 하나인데",
+    "r": "예시"
+   },
+   {
+    "en": "a greenhouse gas 300 times more potent than carbon dioxide.",
+    "ko": "이산화탄소보다 300배 강한 온실가스다",
+    "r": "동격(앞 기체 설명)"
+   }
+  ],
+  "ko": "이렇게 양성자를 쏘아 대자 여러 변화가 일어났는데, 그중 하나가 아산화질소가 만들어진 것이다. 아산화질소는 이산화탄소보다 300배 강한 온실가스다.",
+  "why": "맨 끝 a greenhouse gas ~ 는 바로 앞의 nitrous oxide 를 다시 설명한 동격이지 새로 나온 다른 기체가 아니다. 300 times more potent than ~ 은 '~보다 300배 강한'이라는 비교다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|13.3",
+  "en": "The research was published in Astrophysical Journal Letters .",
+  "s": "The research",
+  "v": "was published",
+  "chunks": [
+   {
+    "en": "The research was published",
+    "ko": "이 연구는 실렸다",
+    "r": "주어 + 동사(수동)"
+   },
+   {
+    "en": "in Astrophysical Journal Letters .",
+    "ko": "Astrophysical Journal Letters 라는 학술지에",
+    "r": "전치사구(어디에)"
+   }
+  ],
+  "ko": "이 연구는 학술지 Astrophysical Journal Letters 에 실렸다.",
+  "why": "was published 는 수동이라 '발표했다'가 아니라 '실렸다, 발표되었다'이다. 실린 곳은 in 뒤에 나오고, 연구를 발표한 사람은 이 문장에 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|14.0",
+  "en": "This nitrous oxide could help Earth hold onto heat.",
+  "s": "This nitrous oxide",
+  "v": "could help",
+  "chunks": [
+   {
+    "en": "This nitrous oxide could help",
+    "ko": "이 아산화질소는 도움이 될 수 있다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "Earth hold onto heat.",
+    "ko": "지구가 열을 붙잡아 두는 데",
+    "r": "목적어 + 원형부정사"
+   }
+  ],
+  "ko": "이 아산화질소는 지구가 열을 붙잡아 두는 데 도움이 될 수 있다.",
+  "why": "help + 목적어 + 동사원형 은 '~가 …하도록 돕다'라는 짜임이다. 열을 붙잡아 두는 쪽은 아산화질소가 아니라 Earth(지구)다. hold onto ~ 는 '~을 놓지 않고 붙들다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|14.1",
+  "en": "But not all the nitrous oxide would last.",
+  "s": "not all the nitrous oxide",
+  "v": "would last",
+  "chunks": [
+   {
+    "en": "But not all the nitrous oxide",
+    "ko": "그러나 그 아산화질소가 모두",
+    "r": "주어(부분 부정)"
+   },
+   {
+    "en": "would last.",
+    "ko": "그대로 남아 있지는 않았을 것이다",
+    "r": "동사"
+   }
+  ],
+  "ko": "그러나 그 아산화질소가 모두 그대로 남아 있지는 않았을 것이다.",
+  "why": "not all ~ 은 '모두 ~아니다'(전부 부정)가 아니라 '모두가 ~인 것은 아니다'(부분 부정)이다. 곧 일부는 남고 일부는 사라졌다는 말이다. last 는 여기서 '지속되다, 남아 있다'는 동사다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|14.2",
+  "en": "The young Sun’s intense ultraviolet radiation would break some of it down, splitting the molecule back into nitrogen and oxygen.",
+  "s": "The young Sun’s intense ultraviolet radiation",
+  "v": "would break",
+  "chunks": [
+   {
+    "en": "The young Sun’s intense ultraviolet radiation",
+    "ko": "젊은 태양이 내뿜는 강한 자외선이",
+    "r": "주어"
+   },
+   {
+    "en": "would break some of it down,",
+    "ko": "그 아산화질소의 일부를 분해했을 것이다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "splitting the molecule back into nitrogen and oxygen.",
+    "ko": "분자를 다시 질소와 산소로 쪼개 놓으면서",
+    "r": "분사구문(어떻게)"
+   }
+  ],
+  "ko": "젊은 태양이 내뿜는 강한 자외선이 그 아산화질소의 일부를 분해해, 분자를 다시 질소와 산소로 쪼개 놓았을 것이다.",
+  "why": "break ~ down 은 '분해하다'라는 짝인데 목적어(some of it)가 사이에 끼어 break some of it down 이 되었다. it 은 앞 문장의 nitrous oxide 를 가리키고, some of it 이므로 전부가 아니라 일부다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|14.3",
+  "en": "But even if only 10% of the nitrous observed in the experiment survived, Airapetian’s team’s computer simulations confirmed, it would still warm Earth’s equatorial regions to about 41 degrees Fahrenheit (5 degrees Celsius), above water’s freezing point.",
+  "s": "it",
+  "v": "would still warm",
+  "chunks": [
+   {
+    "en": "But even if only 10% of the nitrous",
+    "ko": "그러나 그 아산화질소 가운데 10%만",
+    "r": "양보절의 시작"
+   },
+   {
+    "en": "observed in the experiment survived,",
+    "ko": "실험에서 관측된 양의 10%만 살아남았다 해도",
+    "r": "과거분사구 + 양보절의 동사"
+   },
+   {
+    "en": "Airapetian’s team’s computer simulations confirmed,",
+    "ko": "라고 아이라페티안 연구진의 컴퓨터 모의실험은 확인해 주었다",
+    "r": "삽입절(누가 확인했나)"
+   },
+   {
+    "en": "it would still warm Earth’s equatorial regions",
+    "ko": "그것만으로도 지구의 적도 지역을 데웠을 것이다",
+    "r": "주절 주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to about 41 degrees Fahrenheit (5 degrees Celsius),",
+    "ko": "화씨 약 41도(섭씨 5도)까지",
+    "r": "어느 온도까지"
+   },
+   {
+    "en": "above water’s freezing point.",
+    "ko": "물이 어는 온도보다 높은",
+    "r": "동격(그 온도가 어떤 온도인가)"
+   }
+  ],
+  "ko": "그러나 실험에서 관측된 아산화질소 가운데 10%만 살아남았다 해도, 그것만으로도 지구의 적도 지역을 화씨 약 41도(섭씨 5도), 곧 물이 어는 온도보다 높은 데까지 데웠을 것이라고 아이라페티안 연구진의 컴퓨터 모의실험은 확인해 주었다.",
+  "why": "Airapetian’s team’s computer simulations confirmed 는 쉼표 사이에 끼어든 삽입절이라 '~라고 모의실험이 확인했다'로 빼서 읽는다. even if only 10% ~ survived 는 '10%밖에 안 남더라도'라는 양보이고, observed in the experiment 는 앞의 the nitrous 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|14.4",
+  "en": "This smaller amount of nitrous could even accelerate prebiotic synthesis: just-above-freezing temperatures have been found to be more efficient for building complex chains of amino acids than warmer temperatures.",
+  "s": "This smaller amount of nitrous",
+  "v": "could even accelerate",
+  "chunks": [
+   {
+    "en": "This smaller amount of nitrous",
+    "ko": "이렇게 줄어든 양의 아산화질소가",
+    "r": "주어"
+   },
+   {
+    "en": "could even accelerate prebiotic synthesis:",
+    "ko": "오히려 생명 이전 단계의 화학 합성을 앞당겼을 수도 있다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "just-above-freezing temperatures have been found",
+    "ko": "어는점을 갓 넘긴 온도가 ~라는 것이 밝혀졌기 때문이다",
+    "r": "콜론 뒤 절의 주어 + 동사(수동)"
+   },
+   {
+    "en": "to be more efficient for building complex chains of amino acids",
+    "ko": "아미노산의 복잡한 사슬을 만드는 데 더 효율적이라고",
+    "r": "무엇이 더 효율적인가"
+   },
+   {
+    "en": "than warmer temperatures.",
+    "ko": "더 따뜻한 온도보다",
+    "r": "비교 대상"
+   }
+  ],
+  "ko": "이렇게 줄어든 양의 아산화질소가 오히려 생명 이전 단계의 화학 합성을 앞당겼을 수도 있다. 어는점을 갓 넘긴 온도가 더 따뜻한 온도보다 아미노산의 복잡한 사슬을 만드는 데 더 효율적이라는 사실이 밝혀졌기 때문이다.",
+  "why": "콜론(:) 뒤는 앞 내용의 근거를 대는 부분이다. have been found to be ~ 는 수동이라 '~인 것으로 밝혀졌다'는 뜻이고 밝혀낸 쪽은 문장에 나오지 않는다. than warmer temperatures 는 '더 따뜻한 온도보다'라는 비교로, 따뜻할수록 좋은 것이 아니라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|15.0",
+  "en": "Together, these two studies show that the Sun can lead to surprising implications for Earth.",
+  "s": "these two studies",
+  "v": "show",
+  "chunks": [
+   {
+    "en": "Together, these two studies show",
+    "ko": "이 두 연구를 함께 놓고 보면 알 수 있다",
+    "r": "연결 + 주어 + 동사"
+   },
+   {
+    "en": "that the Sun can lead to surprising implications for Earth.",
+    "ko": "태양이 지구에 뜻밖의 영향을 미칠 수 있다는 것을",
+    "r": "목적어절"
+   }
+  ],
+  "ko": "이 두 연구를 함께 놓고 보면, 태양이 지구에 뜻밖의 영향을 미칠 수 있음을 알 수 있다.",
+  "why": "Together 는 '함께', 곧 '두 연구를 합쳐 보면'이라는 뜻이다. these two studies 는 앞에서 다룬 SHIELD의 태양권 연구와 아이라페티안의 아산화질소 연구를 받는다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|15.1",
+  "en": "While our planet stands alone in many ways, it was formed and has always existed as part of a star-planet system.",
+  "s": "it",
+  "v": "was formed",
+  "chunks": [
+   {
+    "en": "While our planet stands alone in many ways,",
+    "ko": "우리 행성이 여러 면에서 남다르기는 하지만",
+    "r": "부사절(양보)"
+   },
+   {
+    "en": "it was formed and has always existed",
+    "ko": "그것은 만들어졌고 늘 그렇게 존재해 왔다",
+    "r": "주절 주어 + 동사 둘"
+   },
+   {
+    "en": "as part of a star-planet system.",
+    "ko": "별과 행성이 이루는 한 체계의 일부로서",
+    "r": "자격(무엇으로서)"
+   }
+  ],
+  "ko": "우리 행성이 여러 면에서 남다르기는 하지만, 그것은 별과 행성이 이루는 한 체계의 일부로 만들어졌고 늘 그렇게 존재해 왔다.",
+  "why": "While 은 '~하는 동안'이 아니라 '~이기는 하지만'이라는 양보다. was formed 는 수동('만들어졌다')이고 has always existed 와 함께 주어 it 에 걸린다. it 은 our planet, 곧 지구다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|15.2",
+  "en": "Understanding that unique relationship promises new insights about both Earth and the star that sustains it.",
+  "s": "Understanding that unique relationship",
+  "v": "promises",
+  "chunks": [
+   {
+    "en": "Understanding that unique relationship",
+    "ko": "그 남다른 관계를 이해하는 일은",
+    "r": "주어(동명사구)"
+   },
+   {
+    "en": "promises new insights",
+    "ko": "새로운 통찰을 약속한다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "about both Earth and the star",
+    "ko": "지구와 그 별 양쪽에 대한",
+    "r": "무엇에 대한 통찰인가"
+   },
+   {
+    "en": "that sustains it.",
+    "ko": "지구를 떠받치는",
+    "r": "관계절(앞 star 설명)"
+   }
+  ],
+  "ko": "그 남다른 관계를 이해하는 일은 지구와, 그 지구를 떠받치는 별(태양) 양쪽에 대한 새로운 통찰을 약속한다.",
+  "why": "주어는 Understanding ~ 이라는 동명사구('이해하는 일')이고 동사는 promises 다. that sustains it 은 the star 를 설명하는 관계절이며, it 은 Earth 를 가리킨다 — 별이 지구를 떠받친다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|16.0",
+  "en": "By Desiree Apodaca and Miles Hatfield NASA’s Goddard Space Flight Center, Greenbelt, Md.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {
+    "en": "By Desiree Apodaca and Miles Hatfield",
+    "ko": "글: 데시리 아포다카와 마일스 해트필드",
+    "r": "글쓴이 표시"
+   },
+   {
+    "en": "NASA’s Goddard Space Flight Center,",
+    "ko": "NASA 고더드 우주비행센터",
+    "r": "두 사람의 소속"
+   },
+   {
+    "en": "Greenbelt, Md.",
+    "ko": "메릴랜드주 그린벨트",
+    "r": "소재지"
+   }
+  ],
+  "ko": "글: 데시리 아포다카(Desiree Apodaca)와 마일스 해트필드(Miles Hatfield) — 메릴랜드주 그린벨트, NASA 고더드 우주비행센터.",
+  "why": "동사가 없는 기자 이름 줄이다. By ~ 는 '~가 씀'이라는 뜻이고, 뒤에 붙은 기관 이름과 지명은 두 필자의 소속과 그 소재지를 밝힌 것이다. 문장이 아니라 표시(크레딧)이므로 동사를 찾으려 애쓰지 않아도 된다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|17.0",
+  "en": "The drying of the massive lake exposed playas that became the setting for feats of…",
+  "s": "The drying of the massive lake",
+  "v": "exposed",
+  "chunks": [
+   {
+    "en": "The drying of the massive lake",
+    "ko": "그 거대한 호수가 말라붙은 일이",
+    "r": "주어(명사구)"
+   },
+   {
+    "en": "exposed playas",
+    "ko": "플라야를 드러냈다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "that became the setting for feats of…",
+    "ko": "…한 위업의 무대가 된",
+    "r": "관계절(앞 playas 설명)"
+   }
+  ],
+  "ko": "그 거대한 호수가 말라붙으면서 플라야(마른 호수 바닥)가 드러났고, 그곳은 …한 위업의 무대가 되었다.",
+  "why": "주어는 The drying ~ lake 라는 명사구('호수가 마른 일')이고 동사는 exposed 다. 다른 기사로 넘어가는 맛보기 토막이라 뒷부분이 …로 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "92a54f4a|18.0",
+  "en": "A series of heat waves in 2026 is breaking records and taking a toll in…",
+  "s": "A series of heat waves in 2026",
+  "v": "is breaking",
+  "chunks": [
+   {
+    "en": "A series of heat waves in 2026",
+    "ko": "2026년에 잇따른 폭염이",
+    "r": "주어(핵심은 A series)"
+   },
+   {
+    "en": "is breaking records",
+    "ko": "기록을 갈아 치우고 있다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "and taking a toll in…",
+    "ko": "그리고 …에 큰 피해를 주고 있다",
+    "r": "is 에 함께 걸리는 두 번째 동사"
+   }
+  ],
+  "ko": "2026년에 잇따른 폭염이 기록을 갈아 치우며 …에 큰 피해를 주고 있다.",
+  "why": "주어의 핵심은 A series(잇따름)라서 동사가 단수 is 다 — heat waves 에 끌려 are 로 읽지 않도록 한다. taking 은 is 에 breaking 과 나란히 걸리는 말이고, take a toll 은 '피해를 입히다'라는 뜻이다.",
+  "st": []
+ }
+]

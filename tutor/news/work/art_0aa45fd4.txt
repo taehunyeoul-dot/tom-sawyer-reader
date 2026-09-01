@@ -1,0 +1,64 @@
+Grants
+NASA · 2026-08-28
+https://www.nasa.gov/centers-and-facilities/grants-2/
+
+[0.0] To submit a request, visit NASA General Information Request Form and complete the form.
+[0.1] You will receive an automated email with the most commonly requested grant status information.
+
+[1.0] Guidance Regarding OMB Memorandum M-25-14 and Recent Temporary Restraining Orders
+
+[2.0] Update on Diversity, Equity, Inclusion, and Accessibility (DEIA) Executive Orders – January 29, 2025 On January 23, 2025, NASA’s Office of Procurement (OP) released a memorandum for the NASA contractor and grant community regarding Executive Order “ Initial Rescission of Harmful Executive Orders and Actions ” and the Office of Personnel Management’s (OPM) memorandum “ Initial Guidance Regarding DEIA Executive Orders .”
+
+[3.0] Per OP’s memo, NASA grant and cooperative agreement recipients shall immediately cease and desist all DEIA activities required for their grant.
+[3.1] This work may include but is not limited to: DEIA plan requirements, training, workshops, reporting, considerations for staffing, or any other direct or indirect grant activity related to DEIA.
+[3.2] All grant recipients shall notify their cognizant Grant Officer if they identify requirements within their grants that are in violation of this guidance.
+[3.3] Your Grant Officer’s contact information can be found on your NF 1687, Notice of Award for Grant and Cooperative Agreement (NOA).
+
+[4.0] Thank you for your work and partnership with NASA.
+
+[5.0] In FY2025, NASA separated the Terms and Conditions from the GCAM to create a standalone document.
+[5.1] This document outlines both the general and specific terms and conditions and applies to all awards issued under 2 CFR 1800 (NASA’s adoption of 2 CFR 200.)
+[5.2] NASA Grant and Cooperative Agreement Terms and Conditions 7-15-2026
+
+[6.0] Grantees are strongly encouraged to use the NASA Insignia Format identified in the guidelines at NASA Insignia Guidelines for NASA Grantees .
+[6.1] These guidelines aim to increase awareness of NASA’s mission activities via Grantee partnerships for a broader and more diverse population.
+
+[7.0] NASA uses a service provider, currently the Department of Health and Human Services (HHS) Payment Management System (PMS), to provide Federal funds to recipients.
+[7.1] PMS will provide instructions to the recipients for registering and requesting funds through the system.
+
+[8.0] NASA is responsible for routine post-award monitoring on all awards, regardless of the award’s risk determination.
+[8.1] At a minimum, routine monitoring includes reviewing award recipients’ annual performance reports, semi-annual Federal Financial Report (FFR), and Transactions Testing Review.
+
+[9.0] All NASA award recipients must submit annual performance reports.
+[9.1] Annual reports are due to NASA 60 days prior to the annual anniversary of the award’s POP start date (e.g., if the POP of an award is October 1 – September 30, the report would be due 60 days prior to October 1.)
+
+[10.0] Recipients will submit their semi-annual FFRs in PMS:
+
+[11.0] Period 1 (October 1 – March 31): Due by April 30 each year.
+
+[12.0] Period 2 (April 1 – September 30): Due by October 30 of each year.
+
+[13.0] Final FFRs are due 120 days after the end of the POP
+
+[14.0] Additional information and training are available on the Payment Management System website at https://pms.psc.gov/ .
+[14.1] The PMS help desk number is 1-877-614-5533.
+
+[15.0] The NASA Grant and Cooperative Agreement Manual (GCAM) provides pre and post award policy guidance to NASA proposers and award-managing personnel and award recipients to implement government-wide and NASA-specific regulations for applying for, awarding and administering grants and cooperative agreements with educational and non-profit organizations; State, local, and Indian tribal governments; and for-profit organizations.
+
+[16.0] In FY2025, NASA separated the Terms and Conditions from the GCAM to create a standalone document.
+[16.1] This document outlines both the general and specific terms and conditions and applies to all awards issued under 2 CFR 1800 (NASA’s adoption of 2 CFR 200.)
+
+[17.0] NASA implemented the Federal-wide research terms and conditions for all research and research-related grant and cooperative agreement awards issued under 2 CFR 1800 (NASA’s adoption of 2 CFR 200).
+[17.1] The Research Terms and Conditions implement the requirements of the Uniform Guidance and includes three companion documents:
+
+[18.0] RTC Appendix A: Prior Approval Matrix, RTC Appendix B: Subaward Requirements, and RTC Appendix C: National Policy Requirements).
+
+[19.0] The Research Terms and Conditions and companion documents are accessible on the NSF website .
+
+[20.0] To file a complaint regarding denial of equal opportunity or discrimination based on race, color, national origin, sex, disability, or age; go to
+
+[21.0] https://oig.nasa.gov/hotline.html 1-800-424-9183 300 E Street, S.W.
+[21.1] Suite 8V39 Washington, DC 20546-0001 NASA OIG Hotline http://missionstem.nasa.gov/filing-a-complaint.html​​​​​​​
+
+[22.0] Grants.gov NSSC Grants Payment Packag e NASA Research Opportunities Online (NSPIRES) System for Award Management (SAM)
+

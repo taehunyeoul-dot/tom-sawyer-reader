@@ -1,0 +1,190 @@
+{
+ "f606def7|0.0": [
+  {"t":"mod","q":"<b>NASA astronaut</b> 는 무엇을 설명하는 말입니까?","a":"바로 뒤에 이어지는 사람 이름 — 다음 문장 첫머리의 Gordon Cooper, Jr. 의 신분을 밝히는 말입니다","tip":"L. 은 이름의 첫 글자 약자입니다. 그 마침표를 문장 끝으로 잘못 보아 여기서 잘렸습니다."},
+  {"t":"who","q":"<b>NASA astronaut L.</b> 이 무엇을 했는지가 이 토막에 나옵니까?","a":"나오지 않습니다 — 동사는 다음 문장의 took 입니다","tip":"동사가 없으면 문장이 아직 끝나지 않은 것입니다. 다음 문장과 이어 읽어야 합니다."}
+ ],
+ "f606def7|0.1": [
+  {"t":"pron","q":"<b>as he orbited our planet</b> — he 와 our planet 은 각각 무엇을 가리킵니까?","a":"he 는 Gordon Cooper, Jr. 이고 our planet 은 지구입니다","tip":"our planet 을 '우리 행성'으로만 옮기고 넘어가면 무엇인지 흐려집니다. 앞의 the Earth 를 다시 부르는 말입니다."},
+  {"t":"time","q":"<b>as he orbited our planet</b> — 사진을 찍은 것과 궤도를 돈 것 중 어느 쪽이 먼저입니까?","a":"어느 쪽도 먼저가 아닙니다 — 궤도를 도는 동안 사진을 찍었습니다(동시)","tip":"as 를 '~로서'나 '~때문에'로 읽기 쉽습니다. 여기서는 '~하는 동안'입니다."},
+  {"t":"mod","q":"<b>29 color photographs of the Earth with a 70mm camera</b> — 70mm 카메라는 무엇에 붙는 말입니까?","a":"동사 took 에 붙습니다 — 사진을 찍은 도구입니다","tip":"of the Earth 바로 뒤에 있어 '지구에 있는 카메라'처럼 붙여 읽기 쉽습니다."}
+ ],
+ "f606def7|0.2": [
+  {"t":"mod","q":"<b>vehicles motoring on dirt roads</b> — motoring 은 무엇을 설명하는 말입니까?","a":"앞의 vehicles 입니다 — 비포장도로를 달리고 있는 차량이라는 뜻입니다","tip":"motoring 을 동사로 읽으면 뼈대가 무너집니다. 이 that절의 동사는 could see 하나뿐입니다."},
+  {"t":"mod","q":"<b>from the window of his Faith 7 spacecraft</b> 는 무엇에 붙는 말입니까?","a":"앞의 Cooper’s view 입니다 — 어디에서 내다본 시야인가를 밝힙니다","tip":"was spectacular 에 붙여 '창문에서 장관이었다'로 읽기 쉽지만, 주어인 '시야'를 꾸미는 말입니다."},
+  {"t":"mod","q":"<b>smoke-belching trains, and the tops of houses</b> — 이 둘은 무엇의 목록입니까?","a":"could see 의 목적어, 곧 쿠퍼가 볼 수 있었던 것들입니다(차량·기차·집 지붕)","tip":"쉼표가 많아 앞의 dirt roads 와 나란한 것으로 읽기 쉽습니다. '비포장도로 위에 있는 것'이 아니라 '본 것'의 나열입니다."}
+ ],
+ "f606def7|1.0": [
+  {"t":"who","q":"<b>Researchers and members of the public had their doubts.</b> — 의심한 쪽은 누구이고, 의심받은 것은 무엇입니까?","a":"의심한 쪽은 연구자들과 일반 대중이고, 의심받은 것은 앞 문장에 나온 쿠퍼의 보고입니다","tip":"의심 대상은 이 문장에 나오지 않습니다. 앞 문장을 이어 읽어야 알 수 있습니다."},
+  {"t":"pron","q":"<b>their doubts</b> 의 their 는 누구의 것입니까?","a":"연구자들과 일반 대중, 곧 주어 자신입니다","tip":"have one’s doubts 는 '미심쩍어하다'라는 굳어진 표현입니다. '그들의 의심'을 쿠퍼 쪽 의심으로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>members of the public</b> 은 누구를 가리킵니까?","a":"일반 대중, 곧 전문가가 아닌 보통 사람들입니다","tip":"public 을 '공공기관·공무원'으로 읽기 쉽습니다. the public 은 '일반 대중'입니다."}
+ ],
+ "f606def7|1.1": [
+  {"t":"who","q":"<b>while orbiting 100 miles above the planet</b> — 궤도를 돌고 있는 것은 누구(무엇)입니까?","a":"쿠퍼입니다(그가 탄 우주선)","tip":"주어가 생략된 분사구문이라 생략된 주어는 문장의 주어인 Cooper 입니다. 바로 앞의 objects 에 붙이면 '물체가 궤도를 돈다'가 됩니다."},
+  {"t":"mod","q":"<b>on the Earth’s surface</b> 는 무엇을 설명하는 말입니까?","a":"앞의 objects 입니다 — 지구 표면에 있는 물체라는 뜻입니다","tip":"see 에 붙여 '지표면에서 보았다'로 읽으면 쿠퍼가 땅에 있는 것이 됩니다. 쿠퍼는 궤도에 있습니다."},
+  {"t":"pron","q":"<b>the planet</b> 은 어느 행성입니까?","a":"지구입니다","tip":"앞의 the Earth 를 다시 가리킵니다. 다른 행성이 아닙니다."}
+ ],
+ "f606def7|1.2": [
+  {"t":"neg","q":"<b>could not clearly see</b> — 전문가들은 '볼 수 있다'고 본 것입니까, '볼 수 없다'고 본 것입니까?","a":"볼 수 없다고 보았습니다","tip":"not 이 that절 안에 있습니다. '여기지 않았다'가 아니라 '볼 수 없다고 여겼다'입니다."},
+  {"t":"mod","q":"<b>with sides less than 150 feet long</b> 은 무엇을 설명하는 말입니까?","a":"앞의 objects 입니다 — 한 변의 길이가 150피트가 안 되는 물체라는 뜻입니다","tip":"astronauts 에 붙이면 '변이 있는 우주비행사'가 됩니다. with 가 이끄는 말은 바로 앞 명사에 붙습니다."},
+  {"t":"mod","q":"<b>astronauts with 20/20 vision</b> 에서 20/20 은 무슨 뜻입니까?","a":"정상 시력을 뜻합니다","tip":"숫자 두 개가 나뉜 꼴이라 점수·비율로 오해하기 쉽습니다. 다음 문장의 20/12 는 정상보다 더 좋은 시력입니다."}
+ ],
+ "f606def7|1.3": [
+  {"t":"neg","q":"<b>certainly he could not see</b> — 쿠퍼가 흰 자동차를 보았다는 것입니까, 보지 못했다는 것입니까?","a":"보지 못했다(볼 수 없었다)는 쪽입니다","tip":"certainly(분명히)만 눈에 들어오면 '분명히 보았다'로 정반대가 됩니다. not 이 붙어 '분명 볼 수 없었다'입니다."},
+  {"t":"who","q":"<b>as he claimed</b> — 주장한 사람은 누구입니까?","a":"쿠퍼입니다","tip":"as 를 '~처럼'으로만 읽으면 누가 한 주장인지 흐려집니다. 이 문장의 he 는 모두 쿠퍼입니다."},
+  {"t":"mod","q":"<b>kicking up a dust cloud</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a white automobile 입니다 — 먼지 구름을 일으키며 달리는 흰 자동차라는 뜻입니다","tip":"쿠퍼가 먼지를 일으킨 것으로 읽기 쉽습니다. -ing 는 바로 앞 명사가 하고 있는 동작입니다."},
+  {"t":"mod","q":"<b>exceptional 20/12 vision</b> 은 정상 시력보다 좋은 것입니까, 나쁜 것입니까?","a":"좋습니다 — 정상(20/20)보다 뛰어난 시력입니다","tip":"뒤 숫자가 작아져 나빠졌다고 읽기 쉽지만, 보통 사람이 12피트에서 겨우 알아보는 것을 20피트 밖에서 알아본다는 뜻입니다."}
+ ],
+ "f606def7|1.4": [
+  {"t":"neg","q":"<b>was not alone in his assertions</b> — 쿠퍼가 혼자였다는 것입니까, 혼자가 아니었다는 것입니까?","a":"혼자가 아니었습니다 — 같은 주장을 한 다른 우주비행사들이 있었습니다","tip":"not 을 놓치면 '쿠퍼만 그런 주장을 했다'로 뜻이 정반대가 됩니다."},
+  {"t":"pron","q":"<b>his assertions</b> — 누구의, 무엇에 대한 주장입니까?","a":"쿠퍼의 주장이며, 궤도에서 지상의 것들을 세세히 보았다는 주장입니다","tip":"주장의 내용이 이 문장에 없습니다. 앞 문단을 이어 읽어야 합니다."},
+  {"t":"mod","q":"<b>however</b> 는 무엇을 뒤집는 말입니까?","a":"앞 문장의 '쿠퍼가 그렇게 보았을 리 없다'는 회의론을 뒤집습니다","tip":"쉼표 두 개 사이에 끼어 있어 건너뛰기 쉽지만, 글의 방향이 여기서 바뀝니다."}
+ ],
+ "f606def7|1.5": [
+  {"t":"who","q":"<b>Other Mercury astronauts also reported seeing</b> — 보고한 사람과 본 사람은 같습니까?","a":"같습니다 — 다른 머큐리 우주비행사들이 자기가 본 것을 보고했습니다","tip":"reported seeing 은 '남이 보는 것을 보고했다'가 아니라 '자기가 보았다고 보고했다'입니다."},
+  {"t":"mod","q":"<b>in striking detail</b> 은 무슨 뜻입니까?","a":"놀랄 만큼 세세하게(또렷하게)라는 뜻입니다","tip":"striking 을 '때리는'으로 읽으면 뜻이 통하지 않습니다. '눈에 확 띌 만큼'입니다."},
+  {"t":"mod","q":"<b>also</b> 는 무엇에 대한 '~도'입니까?","a":"쿠퍼 말고 다른 우주비행사들'도' 같은 보고를 했다는 뜻입니다","tip":"앞 문장의 '쿠퍼 혼자가 아니었다'를 이어받는 말입니다."}
+ ],
+ "f606def7|2.0": [
+  {"t":"who","q":"<b>caused mental health professionals to question</b> — 의심한 쪽과 의심받은 쪽은 각각 누구입니까?","a":"의심한 쪽은 정신건강 전문가들, 의심받은 쪽은 NASA 최초 우주비행사들입니다","tip":"cause A to B 는 'A가 B하게 만들다'입니다. 주어인 These claims 가 의심한 것이 아닙니다."},
+  {"t":"pron","q":"<b>These claims</b> 는 무엇을 가리킵니까?","a":"궤도에서 지상의 물체를 또렷이 보았다는 우주비행사들의 보고입니다","tip":"These 는 앞 문단 전체를 받습니다. 새로 나온 다른 주장이 아닙니다."},
+  {"t":"mod","q":"<b>question the sanity of NASA’s first astronauts</b> 에서 question 은 무슨 뜻입니까?","a":"'질문하다'가 아니라 '의심하다'입니다 — 정신이 온전한지 의심했다는 뜻입니다","tip":"question 이 동사로 쓰이면 '따져 묻다·의심하다'가 됩니다. sanity 는 '정신이 온전함'입니다."}
+ ],
+ "f606def7|2.1": [
+  {"t":"who","q":"<b>some psychiatrists speculated</b> — 무중력이 환각을 일으킨다고 추측한 쪽은 누구입니까?","a":"일부 정신과 의사들입니다. 기사(A story)나 NASA가 그렇게 말한 것이 아닙니다","tip":"인용이 두 겹입니다. 기사는 '정신과 의사들이 그렇게 추측했다'고 전했을 뿐입니다."},
+  {"t":"who","q":"<b>weightlessness was causing the astronauts to hallucinate</b> — 환각을 보고 있는 쪽은 누구입니까?","a":"우주비행사들입니다 — 무중력이 그렇게 만들고 있다는 뜻입니다","tip":"cause A to B 구조입니다. 무중력이 환각을 보는 것이 아닙니다."},
+  {"t":"mod","q":"<b>and that the space program was in for serious trouble</b> — 이 that절은 어느 동사에 걸립니까?","a":"speculated 입니다 — 정신과 의사들이 추측한 두 번째 내용입니다","tip":"바로 앞의 hallucinate 나 맨 앞의 noted 에 붙이기 쉽습니다. and that 은 앞의 that절과 짝을 이루어 같은 동사에 걸립니다."},
+  {"t":"time","q":"<b>was in for serious trouble</b> — 이미 곤경에 빠졌다는 말입니까, 앞으로 빠질 것이라는 말입니까?","a":"앞으로 겪게 될 것이라는 말입니다","tip":"be in for ~ 는 '(안 좋은 일을) 겪게 될 참이다'라는 굳어진 표현입니다. 과거형이라 이미 끝난 일로 읽기 쉽습니다."}
+ ],
+ "f606def7|2.2": [
+  {"t":"pron","q":"<b>what they could see on Earth from space</b> 의 they 는 누구입니까?","a":"우주비행사들입니다","tip":"바로 앞의 visual acuity experts 로 잡기 쉽습니다. 우주에서 보는 쪽은 우주비행사입니다."},
+  {"t":"who","q":"<b>developed an experiment</b> — 실험을 만든 쪽은 누구입니까?","a":"시력 전문가들(visual acuity experts)입니다. 정신건강 전문가들이 아닙니다","tip":"While 절의 주어에 끌리기 쉽습니다. and 로 이어진 동사 둘(mulled over, developed)은 모두 주절의 주어에 걸립니다."},
+  {"t":"mod","q":"<b>the effects of space flight on the brain</b> — on the brain 은 무엇에 붙는 말입니까?","a":"effects 입니다 — '우주 비행이 뇌에 미치는 영향'이라는 뜻입니다","tip":"space flight 에 붙여 '뇌 위의 우주 비행'으로 읽으면 말이 되지 않습니다. effect of A on B = 'A가 B에 미치는 영향'입니다."}
+ ],
+ "f606def7|3.0": [
+  {"t":"pron","q":"<b>and conducted them</b> 의 them 은 무엇입니까?","a":"앞의 two visual acuity experiments(시력 실험 두 가지)입니다","tip":"partners 나 missions 로 잡기 쉽습니다. 실시한 대상은 실험입니다."},
+  {"t":"who","q":"<b>NASA and its partners developed</b> — 실험을 만들고 실시한 쪽은 누구입니까?","a":"NASA와 협력 기관들입니다 — 동사 둘(developed, conducted)이 모두 이 주어에 걸립니다","tip":"and 뒤의 conducted 를 새 문장의 시작으로 읽으면 주어를 잃어버립니다."},
+  {"t":"mod","q":"<b>the crewed Gemini V and Gemini VII missions</b> 에서 crewed 는 무슨 뜻입니까?","a":"사람(승무원)이 타고 간 유인 임무라는 뜻입니다","tip":"crew(승무원)에서 나온 말로, 무인 비행과 구별하는 표현입니다."}
+ ],
+ "f606def7|3.1": [
+  {"t":"mod","q":"<b>reminiscent of binoculars</b> 는 무엇을 설명하는 말입니까?","a":"앞의 an optical device 입니다 — 쌍안경과 비슷하게 생긴 광학 장치라는 뜻입니다","tip":"실험이 쌍안경을 떠올리게 한다고 읽기 쉽습니다. 바로 앞 명사에 붙습니다."},
+  {"t":"mod","q":"<b>looking through an optical device</b> — 이 장치는 쌍안경 그 자체입니까?","a":"아닙니다 — 쌍안경을 닮은 다른 장치입니다","tip":"reminiscent of 는 '~와 비슷한'이지 '~이다'가 아닙니다."},
+  {"t":"who","q":"<b>looking through an optical device</b> — 들여다본 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다. 다음 문장에서 Test subjects(피험자)라고 밝힙니다","tip":"동명사(looking)에는 주어가 드러나지 않습니다. The first experiment 를 주체로 삼으면 '실험이 들여다본다'가 됩니다."}
+ ],
+ "f606def7|3.2": [
+  {"t":"mod","q":"<b>Test subjects</b> 는 무엇입니까?","a":"실험에 참여한 사람들, 곧 피험자입니다","tip":"subject 를 '과목·주제'로 읽으면 '시험 과목이 들여다본다'가 됩니다. 여기서는 '실험 대상자'입니다."},
+  {"t":"mod","q":"<b>in various positions and levels of contrast</b> 는 무엇을 설명하는 말입니까?","a":"앞의 rectangles 입니다 — 직사각형들이 여러 방향으로 놓이고 명암 대비도 제각각이었다는 뜻입니다","tip":"eyepieces 나 피험자에 붙이기 쉽습니다. 위치와 명암이 달랐던 것은 직사각형입니다."},
+  {"t":"who","q":"<b>to see an assortment of rectangles</b> — 보는 쪽은 누구입니까?","a":"피험자들(Test subjects)입니다","tip":"to부정사가 나타내는 동작의 주체는 문장의 주어입니다."}
+ ],
+ "f606def7|3.3": [
+  {"t":"who","q":"<b>They were then asked</b> — 요청한 쪽과 요청받은 쪽은 각각 누구입니까?","a":"요청받은 쪽은 피험자들이고, 요청한 쪽은 이 문장에 나오지 않습니다(수동태)","tip":"They 를 '요청한 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"pron","q":"<b>They</b> 는 누구를 가리킵니까?","a":"앞 문장의 Test subjects(피험자들)입니다","tip":"직사각형(rectangles)으로 잡기 쉽습니다. 요청을 받는 것은 사람입니다."},
+  {"t":"time","q":"<b>were then asked</b> 의 then 은 무엇 뒤를 뜻합니까?","a":"접안렌즈로 직사각형을 본 다음입니다","tip":"then 은 '그때'가 아니라 '그다음에'입니다. 앞 문장의 동작 뒤라는 순서를 나타냅니다."}
+ ],
+ "f606def7|4.0": [
+  {"t":"mod","q":"<b>composed of gigantic white rectangles</b> 는 무엇을 설명하는 말입니까?","a":"앞의 two enormous terrestrial eye charts 입니다 — 그 검사표가 거대한 흰 직사각형들로 이루어졌다는 뜻입니다","tip":"composed 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 involved 하나뿐입니다."},
+  {"t":"mod","q":"<b>terrestrial eye charts</b> — 이 검사표는 어디에 있습니까?","a":"땅 위(지상)에 있습니다 — 우주에서 내려다보라고 만든 것입니다","tip":"terrestrial 은 '땅 위의·지구의'입니다. 우주선 안에 있는 검사표가 아닙니다."},
+  {"t":"who","q":"<b>creating two enormous terrestrial eye charts</b> — 만든 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다. 다음 문장에서 Dow Chemical Corporation 이 직사각형을 만들었다고 밝힙니다","tip":"동명사(creating)에는 주어가 드러나지 않습니다. Another part of the experiment 가 만든 것이 아닙니다."}
+ ],
+ "f606def7|4.1": [
+  {"t":"who","q":"<b>created by the Dow Chemical Corporation</b> — 만든 쪽은 어디입니까?","a":"다우 케미컬사입니다. 직사각형이 무엇을 만든 것이 아닙니다","tip":"by 뒤가 만든 쪽입니다. created 를 문장의 동사로 읽으면 '직사각형이 만들었다'로 뒤집힙니다."},
+  {"t":"mod","q":"이 문장의 동사는 <b>created</b> 입니까, <b>ranged</b> 입니까?","a":"ranged 입니다. created 는 쉼표 사이에 끼어 주어를 설명하는 말입니다","tip":"쉼표 두 개 사이를 괄호로 묶어 내면 'The rectangles ranged in size…'라는 뼈대가 드러납니다."},
+  {"t":"mod","q":"<b>ranged in size from roughly 150 to 600 feet long</b> — 150과 600은 무엇의 수치입니까?","a":"직사각형 하나하나의 길이입니다 — 작은 것이 약 150피트, 큰 것이 약 600피트였습니다","tip":"range from A to B 는 '가장 작은 것부터 가장 큰 것까지의 범위'입니다. 개수나 넓이가 아닙니다."}
+ ],
+ "f606def7|4.2": [
+  {"t":"pron","q":"<b>to identify their directional orientation from orbit</b> 의 their 는 무엇을 가리킵니까?","a":"땅에 놓인 직사각형들입니다","tip":"바로 앞의 astronauts 로 잡기 쉽지만, 우주비행사의 방향이 아니라 직사각형이 놓인 방향입니다."},
+  {"t":"mod","q":"<b>and another near Carnarvon, Australia</b> 의 another 는 무엇입니까?","a":"직사각형 또 한 벌(another set of rectangles)입니다","tip":"뒤에 오는 말이 생략됐습니다. '또 다른 흙'이나 '또 다른 장소'가 아닙니다."},
+  {"t":"who","q":"<b>asked Gemini V and VII astronauts to identify</b> — 요청한 쪽과 알아맞힐 쪽은 각각 누구입니까?","a":"요청한 쪽은 실험팀(The experiment team), 알아맞힐 쪽은 제미니 5호·7호 우주비행사들입니다","tip":"and asked 를 새 문장의 시작으로 읽으면 주어를 잃습니다. placed 와 asked 는 모두 실험팀에 걸립니다."}
+ ],
+ "f606def7|4.3": [
+  {"t":"who","q":"<b>was nicknamed the “Eye-Q” chart</b> — 별명을 붙인 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 별명이 붙은 대상은 이 시력 검사 도구입니다","tip":"주어인 This visual acuity tool 을 '별명을 붙인 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"pron","q":"<b>This visual acuity tool</b> 은 무엇을 가리킵니까?","a":"앞 문단의 지상에 만든 거대한 흰 직사각형 시력검사표입니다","tip":"This 는 앞에서 말한 것을 받습니다. 쌍안경 비슷한 광학 장치가 아니라 땅에 만든 검사표입니다."},
+  {"t":"mod","q":"<b>visual acuity</b> 는 무슨 뜻입니까?","a":"시력, 곧 눈이 얼마나 또렷이 보는가입니다","tip":"acuity 는 '예민함'입니다. visual acuity 는 이 기사 전체의 열쇠말입니다."}
+ ],
+ "f606def7|5.0": [
+  {"t":"who","q":"<b>sunlight scattered by the window of the Gemini spacecraft</b> — 흩뜨린 쪽과 흩어진 쪽은 각각 무엇입니까?","a":"흩뜨린 것은 제미니 우주선의 창문이고, 흩어진 것은 햇빛입니다","tip":"scattered 를 동사로 읽으면 '햇빛이 창문을 흩뜨렸다'로 뒤집힙니다. by 뒤가 흩뜨린 쪽입니다."},
+  {"t":"mod","q":"<b>all impacted the astronauts’ views</b> — 이 문장의 주어는 몇 개이고 동사는 무엇입니까?","a":"주어는 세 개(흐린 날씨, 흩어진 햇빛, 불리한 궤도 자세)이고 동사는 impacted 하나입니다","tip":"all 은 앞의 세 주어를 한꺼번에 받는 말입니다. all 이 나오기 전까지는 주어가 아직 이어지고 있습니다."},
+  {"t":"mod","q":"<b>the astronauts’ views of the ground-based experiments</b> 에서 views 는 무슨 뜻입니까?","a":"'의견'이 아니라 '보이는 모습·시야'입니다 — 지상 실험 시설이 얼마나 잘 보였는가입니다","tip":"view 는 '견해'로도 쓰여 헷갈립니다. 여기서는 눈에 들어오는 광경입니다."}
+ ],
+ "f606def7|5.1": [
+  {"t":"mod","q":"<b>portions of the ground site near Laredo</b> — 지상 시설을 전부 보았습니까, 일부만 보았습니까?","a":"일부만 보았습니다","tip":"portions(부분들)를 놓치면 '다 보았다'로 과장됩니다."},
+  {"t":"pron","q":"<b>astronauts on both missions</b> — 어느 두 임무입니까?","a":"제미니 5호와 제미니 7호입니다","tip":"both 는 앞에 나온 두 임무를 받습니다. 머큐리 임무가 아닙니다."},
+  {"t":"mod","q":"<b>Nevertheless</b> 는 무엇에 대한 '그럼에도'입니까?","a":"앞 문장의 방해 요소들(흐린 날씨, 흩어진 햇빛, 불리한 궤도 자세)에도 불구하고라는 뜻입니다","tip":"이 말을 놓치면 앞 문장과 뒤 문장이 서로 모순되어 보입니다."}
+ ],
+ "f606def7|6.0": [
+  {"t":"mod","q":"이 문장의 동사는 <b>combined</b> 입니까, <b>revealed</b> 입니까?","a":"revealed 입니다. combined with ~ 는 쉼표 사이에 끼어 주어를 설명하는 말입니다","tip":"쉼표 두 개 사이를 괄호로 묶으면 'Their reports … revealed that …'이라는 뼈대가 남습니다."},
+  {"t":"pron","q":"<b>Their reports on the Laredo “Eye-Q” site</b> 의 Their 는 누구입니까?","a":"우주비행사들, 곧 제미니 5호·7호 승무원들입니다","tip":"실험팀으로 잡기 쉽습니다. 보고를 한 것은 궤도에서 직접 본 우주비행사들입니다."},
+  {"t":"mod","q":"<b>conducted before, during, and after the flight</b> 는 무엇을 설명하는 말입니까?","a":"앞의 binocular-like vision tester experiments 입니다 — 그 실험이 비행 전·중·후에 실시되었다는 뜻입니다","tip":"보고(reports)가 비행 전·중·후에 이루어졌다고 붙이기 쉽습니다. 바로 앞 명사인 experiments 에 붙습니다."},
+  {"t":"mod","q":"<b>ships with following wakes</b> 는 무슨 뜻입니까?","a":"뒤로 항적(지나간 물자국)을 남기며 가는 배들입니다","tip":"wake 를 '깨어남'으로, following 을 '따라오는'으로 읽으면 뜻이 통하지 않습니다."}
+ ],
+ "f606def7|6.1": [
+  {"t":"neg","q":"<b>did not deteriorate</b> — 시력이 나빠졌다는 것입니까, 나빠지지 않았다는 것입니까?","a":"나빠지지 않았다는 것입니다","tip":"not 이 that절 안에 있습니다. '밝혀내지 못했다'가 아니라 '나빠지지 않았음을 밝혀냈다'입니다."},
+  {"t":"mod","q":"<b>during a two-week spaceflight</b> — 2주는 무엇의 길이입니까?","a":"우주 비행의 길이입니다 — 2주짜리 우주 비행 동안이라는 뜻입니다","tip":"two-week 처럼 명사를 꾸밀 때는 week 에 s 를 붙이지 않습니다. 시력이 2주 동안 나빠졌다는 말이 아닙니다."},
+  {"t":"who","q":"<b>The experiments also determined</b> — 밝혀낸 쪽은 무엇입니까?","a":"실험들입니다(실험 결과가 그것을 보여 주었다는 뜻)","tip":"사람이 아니라 '실험'이 주어입니다. determine 은 여기서 '결정하다'가 아니라 '밝혀내다'입니다."}
+ ],
+ "f606def7|7.0": [
+  {"t":"mod","q":"<b>was about much more than</b> — 이 문장의 주어는 어디까지이고 동사는 무엇입니까?","a":"주어는 Determining 부터 from orbit 까지 전부이고, 동사는 was 입니다","tip":"was 앞까지가 통째로 주어입니다. 가까이 있는 astronauts 를 주어로 잡으면 뼈대가 무너집니다."},
+  {"t":"who","q":"<b>astronauts could accurately see from orbit</b> — 이 부분에서 보는 쪽은 누구입니까?","a":"우주비행사들입니다. 다만 이것은 what 절 안의 주어이지 문장 전체의 주어가 아닙니다","tip":"features 와 astronauts 가 붙어 있어 한 덩어리로 읽기 쉽습니다. '우주비행사들이 지구의 어떤 것들을 볼 수 있는가'입니다."},
+  {"t":"mod","q":"<b>was about much more than sanity checking astronaut reports</b> — 이 일은 우주비행사 보고가 제정신인지 확인하는 데 그쳤습니까?","a":"아닙니다 — 그것보다 훨씬 큰 의미가 있는 일이었습니다","tip":"much more than 은 '~보다 훨씬 큰'입니다. be about ~ 는 '~에 관한 일이다'라는 뜻입니다."}
+ ],
+ "f606def7|7.1": [
+  {"t":"mod","q":"<b>had huge implications</b> — 이 문장의 동사는 무엇이고 주어는 어디까지입니까?","a":"동사는 had 이고, 주어는 Understanding 부터 missions 까지 두 덩어리 전부입니다","tip":"seeing 이나 taken 을 동사로 읽기 쉽습니다. 동사는 had 하나뿐입니다."},
+  {"t":"who","q":"<b>the photographs taken on NASA’s early crewed missions</b> — 사진을 찍은 쪽이 문장에 나옵니까?","a":"나오지 않습니다 — taken 은 '찍힌'이라는 수동의 뜻으로, NASA 초기 유인 임무에서 찍힌 사진이라는 것만 밝혀져 있습니다","tip":"photographs 가 사진을 찍은 것으로 읽으면 뒤집힙니다. 과거분사는 앞 명사가 '당한' 쪽임을 나타냅니다."},
+  {"t":"mod","q":"<b>and others studying our planet</b> 에서 studying 은 무엇을 설명하는 말입니까?","a":"앞의 others 입니다 — 우리 행성(지구)을 연구하는 다른 사람들이라는 뜻입니다","tip":"studying 을 동사로 읽으면 새 문장이 시작된 것처럼 보입니다. 바로 앞 명사를 꾸미는 -ing 입니다."},
+  {"t":"mod","q":"<b>as well as seeing the photographs</b> — 이 부분은 무엇과 나란히 놓입니까?","a":"맨 앞의 Understanding … 과 나란히 놓여 함께 주어를 이룹니다","tip":"A as well as B 는 'B뿐 아니라 A도'입니다. 여기서는 두 가지가 다 주어입니다."}
+ ],
+ "f606def7|8.0": [
+  {"t":"mod","q":"<b>motivated NASA and its partners</b> — 이 문장의 주어와 동사는 무엇입니까?","a":"주어는 The scientific community’s interest(과학계의 관심), 동사는 motivated 입니다","tip":"바로 앞의 astronauts 를 주어로 잡으면 '우주비행사들이 NASA를 움직였다'가 됩니다. 사이에 낀 수식어를 걷어 내야 뼈대가 보입니다."},
+  {"t":"who","q":"<b>as seen by the Mercury and Gemini astronauts</b> — 본 쪽은 누구입니까?","a":"머큐리·제미니 우주비행사들입니다","tip":"by 뒤가 본 쪽입니다. seen 은 '보인'이라는 수동의 뜻으로, 지구 표면이 '그들 눈에 보인 그대로'라는 말입니다."},
+  {"t":"who","q":"<b>to advocate for new Earth-observing instruments</b> — 새 장비를 갖추자고 나선 쪽은 누구입니까?","a":"NASA와 협력 기관들입니다","tip":"motivate A to B 에서 B를 하는 쪽은 A입니다. 과학계가 직접 요구한 것이 아닙니다."},
+  {"t":"mod","q":"<b>new Earth-observing instruments</b> 는 무엇을 관측하는 장비입니까?","a":"지구를 관측하는 장비입니다","tip":"Earth-observing 은 '지구를 관측하는'입니다. 지구에서 우주를 관측하는 장비가 아닙니다."}
+ ],
+ "f606def7|8.1": [
+  {"t":"mod","q":"<b>NASA, the U.S.</b> — 이 토막은 여기서 끝납니까?","a":"끝나지 않습니다 — 다음 두 토막과 이어져 하나의 긴 주어(NASA, 미국 지질조사국, 해군연구청, 미국 농무부)를 이룹니다","tip":"U.S. 의 마침표를 문장 끝으로 잘못 본 자리입니다. 동사가 없으면 문장이 아직 끝나지 않은 것입니다."},
+  {"t":"who","q":"<b>NASA, the U.S.</b> 가 무엇을 했는지가 이 토막에 나옵니까?","a":"나오지 않습니다 — 동사 noted 는 세 번째 토막에 있습니다","tip":"기관 이름이 쉼표로 길게 나열될 때는 동사가 한참 뒤에 나옵니다."}
+ ],
+ "f606def7|8.2": [
+  {"t":"mod","q":"이 토막 첫머리의 <b>Geological Survey</b> 는 앞 토막의 무엇과 이어집니까?","a":"앞 토막 끝의 the U.S. 와 이어져 the U.S. Geological Survey(미국 지질조사국)가 됩니다","tip":"기관 이름이 U.S. 의 마침표에서 두 토막으로 끊겼습니다."},
+  {"t":"mod","q":"이 토막 끝의 <b>and the U.S.</b> 는 무엇으로 이어집니까?","a":"다음 토막의 Department of Agriculture 와 이어져 미국 농무부가 됩니다","tip":"and 가 나왔다고 나열이 끝난 것이 아닙니다. 이름이 아직 끝나지 않았습니다."}
+ ],
+ "f606def7|8.3": [
+  {"t":"who","q":"<b>surface images of the Earth captured from above</b> — 찍은 쪽이 문장에 나옵니까?","a":"나오지 않습니다. 찍힌 것이 지구 표면 사진이고, 위에서 찍었다는 것만 밝혀져 있습니다","tip":"captured 를 동사로 읽으면 '사진이 무엇을 붙잡았다'가 됩니다. 앞 명사가 '당한' 쪽임을 나타내는 과거분사입니다."},
+  {"t":"mod","q":"<b>map geological features, monitor natural disasters, and better understand the ocean’s processes</b> — map 과 monitor 는 명사입니까, 동사입니까?","a":"동사입니다 — 앞의 to inventory 의 to 에 함께 걸리는 네 가지 쓰임새입니다","tip":"map 과 monitor 는 명사로도 흔히 쓰여 헷갈립니다. '지도로 만들다', '감시하다'라는 동사입니다."},
+  {"t":"time","q":"<b>could be used</b> — 이미 그렇게 쓰고 있다는 말입니까, 그렇게 쓸 수 있다는 말입니까?","a":"그렇게 쓸 수 있다는 가능성을 말한 것입니다","tip":"앞날의 쓸모를 내다본 말입니다. 다음 문단에서 실제 위성(ERTS)이 만들어집니다."}
+ ],
+ "f606def7|9.0": [
+  {"t":"mod","q":"<b>later renamed Landsat 1</b> 는 무엇을 설명하는 말입니까?","a":"앞의 Earth Resources Technology Satellite (ERTS) 입니다 — 이 위성의 이름이 나중에 바뀌었다는 뜻입니다","tip":"renamed 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 motivated 하나뿐입니다."},
+  {"t":"time","q":"<b>later renamed Landsat 1</b> — ERTS 와 Landsat 1 은 서로 다른 위성입니까?","a":"같은 위성입니다 — 이름만 나중에 바뀌었습니다","tip":"later(나중에)를 놓치면 위성이 둘인 것으로 읽힙니다."},
+  {"t":"mod","q":"<b>The promise of these real-world applications</b> 에서 promise 는 무슨 뜻입니까?","a":"'약속'이 아니라 '가능성·전망'입니다","tip":"누가 무엇을 약속했다는 말이 아닙니다. '이런 쓸모가 있겠다는 전망'입니다."},
+  {"t":"pron","q":"<b>these real-world applications</b> 는 무엇을 가리킵니까?","a":"앞 문장에 나온 쓰임새들 — 농작물 조사, 지질 구조 지도 작성, 자연재해 감시, 바다 작용 이해입니다","tip":"these 는 앞 문장을 그대로 받습니다."}
+ ],
+ "f606def7|9.1": [
+  {"t":"who","q":"<b>Launched by NASA in 1972</b> — 1972년에 발사된 것은 무엇입니까?","a":"랜드샛 1호(위성)입니다. 자료(the data)가 발사된 것이 아닙니다","tip":"분사구문 바로 뒤의 주어가 the data 라서 형태만 보면 '자료가 발사됐다'가 됩니다. 뜻으로는 위성입니다."},
+  {"t":"who","q":"<b>were used along with data</b> — 자료를 쓴 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 쓰인 것은 랜드샛 1호의 자료입니다","tip":"주어인 the data 를 '쓴 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"pron","q":"<b>the agency’s Earth Resources Aircraft Program</b> 의 the agency 는 어디입니까?","a":"NASA입니다","tip":"the agency(그 기관)는 앞에 나온 NASA를 되풀이해 부르는 말입니다."},
+  {"t":"mod","q":"<b>along with data from the agency’s Earth Resources Aircraft Program</b> — 이 자료도 위성에서 나온 것입니까?","a":"아닙니다 — 항공기 계획에서 얻은 다른 자료이며, 위성 자료와 '함께' 쓰였습니다","tip":"Aircraft Program 은 비행기로 지구를 관측한 계획입니다. 출처가 다릅니다."}
+ ],
+ "f606def7|10.0": [
+  {"t":"time","q":"<b>NASA has continued to observe the Earth</b> — 관측은 이미 끝난 일입니까, 지금도 이어지는 일입니까?","a":"지금도 이어지고 있습니다","tip":"has continued 는 현재완료로 '지금까지 죽 그래 왔다'는 뜻입니다. 과거형으로 읽으면 끝난 일이 됩니다."},
+  {"t":"mod","q":"<b>In the six decades since America’s first pioneering human spaceflights</b> — 60년은 무엇부터 센 것입니까?","a":"미국이 처음으로 사람을 우주로 보낸 때부터입니다","tip":"six decades 는 60년입니다. six years(6년)로 읽지 않도록 주의하세요."},
+  {"t":"mod","q":"<b>from orbit, aircraft, and even ground level</b> — 이 셋은 무엇입니까?","a":"지구를 관측하는 자리, 곧 어디에서 보는가입니다(궤도·항공기·지상)","tip":"관측 대상으로 읽기 쉽습니다. from 이 붙어 있으니 '보는 자리'입니다."}
+ ],
+ "f606def7|11.0": [
+  {"t":"time","q":"<b>during longer spaceflights</b> — 이 증상은 앞에서 말한 2주짜리 비행에서도 나타났습니까?","a":"아닙니다 — 더 긴 비행에서 나타난다는 말이며, 앞의 '2주 비행에서는 시력이 나빠지지 않았다'에 단서를 다는 각주입니다","tip":"longer(더 긴)는 앞의 two-week 과 견주는 말입니다. 이 비교를 놓치면 앞 문장과 모순되어 보입니다."},
+  {"t":"mod","q":"<b>roughly 70% of astronauts</b> — 70%는 무엇의 70%입니까?","a":"우주비행사들의 70%입니다","tip":"roughly 는 '대략'입니다. 비행 횟수나 시간의 70%가 아닙니다."},
+  {"t":"time","q":"<b>In subsequent years, scientists have documented</b> — 언제의 일입니까?","a":"제미니 실험보다 나중, 그 뒤 여러 해에 걸친 일입니다","tip":"subsequent 는 '뒤이은'입니다. 본문의 1960년대 이야기가 아니라 그 이후의 연구입니다."}
+ ],
+ "f606def7|12.0": [
+  {"t":"mod","q":"<b>and astronaut photography</b> 는 무엇과 나란히 놓이는 말입니까?","a":"앞의 human spaceflight 와 나란히 놓입니다 — '유인 우주비행의 새 시대이자 우주비행사 사진 촬영의 새 시대'라는 뜻입니다","tip":"대시(—) 두 개 사이는 괄호처럼 곁들인 말입니다. 떼어 내면 a new era of human spaceflight … that would… 라는 뼈대가 보입니다."},
+  {"t":"mod","q":"<b>that would…</b> 의 that 은 무엇을 받습니까?","a":"앞의 a new era(새 시대)입니다","tip":"바로 앞의 astronaut photography 로 잡기 쉽습니다. 대시 안쪽은 곁들인 말이라 관계절이 걸리는 곳이 아닙니다."},
+  {"t":"time","q":"<b>In the 1960s, NASA was pioneering</b> — 이미 지난 일입니까, 앞으로의 일입니까?","a":"지난 일입니다 — 1960년대에 한창 진행 중이던 일입니다","tip":"was pioneering 은 과거진행으로 '그때 한창 ~하고 있었다'입니다. would 는 그 시점에서 내다본 앞날입니다."}
+ ],
+ "f606def7|13.0": [
+  {"t":"mod","q":"<b>Article 11 months ago 2 min read</b> 는 무슨 뜻입니까?","a":"기사 목록에 붙는 표시입니다 — '기사 · 11개월 전에 올림 · 읽는 데 2분'이라는 뜻입니다","tip":"문장이 아니라 웹페이지의 목록 표시가 그대로 긁혀 들어온 것입니다. read 를 동사로 읽으면 뜻이 통하지 않습니다."},
+  {"t":"mod","q":"<b>Playing the Moon Game</b> 은 무엇입니까?","a":"다른 기사의 제목입니다","tip":"앞말의 일부로 이어 읽으면 뜻이 나오지 않습니다. 목록 표시 뒤에 오는 것은 기사 제목입니다."},
+  {"t":"who","q":"<b>Apollo astronauts previewed their roles as lunar field geologists</b> — 미리 익힌 쪽은 누구입니까?","a":"아폴로 우주비행사들입니다","tip":"앞의 제목·목록 표시가 뒤섞여 있어 주어를 찾기 어렵습니다. 여기서부터가 다른 기사의 소개 문장입니다."}
+ ],
+ "f606def7|14.0": [
+  {"t":"mod","q":"<b>Keep Exploring Discover More Topics From NASA</b> — 이것은 한 문장입니까?","a":"아닙니다 — 웹페이지의 안내 문구·버튼 글이 이어 붙은 것입니다('계속 탐험하기', '더 많은 주제 알아보기')","tip":"Keep 과 Discover 는 각각 명령문 꼴의 제목입니다. 억지로 한 문장으로 이으면 뜻이 나오지 않습니다."},
+  {"t":"mod","q":"<b>Article 2 months ago</b> 는 무슨 뜻입니까?","a":"'기사 · 2개월 전에 올림'이라는 목록 표시입니다","tip":"ago 가 붙은 시간 표시는 기사 목록에 흔히 나오는 표기입니다."}
+ ]
+}

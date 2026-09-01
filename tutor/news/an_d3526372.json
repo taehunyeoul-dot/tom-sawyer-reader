@@ -1,0 +1,748 @@
+[
+ {
+  "id": "d3526372|0.0",
+  "en": "Science at Work Multimedia Data For Researchers About Us As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+  "s": "NASA Earth data",
+  "v": "is feeding",
+  "chunks": [
+   {"en": "Science at Work Multimedia Data For Researchers About Us", "ko": "(홈페이지 차림표 글자 — 과학 현장 / 멀티미디어 / 데이터 / 연구자용 / 소개)", "r": "메뉴 글자(문장이 아님)"},
+   {"en": "As the effects of the 2026 snow drought", "ko": "2026년 눈 가뭄의 영향이", "r": "부사절(~함에 따라)의 주어"},
+   {"en": "in the western United States", "ko": "미국 서부에서 생긴", "r": "전치사구(앞 명사 설명)"},
+   {"en": "carry into summer,", "ko": "여름까지 이어짐에 따라", "r": "부사절의 동사"},
+   {"en": "NASA Earth data is feeding", "ko": "NASA의 지구 관측 자료가 ~에 흘러들어 가고 있다", "r": "주어 + 동사"},
+   {"en": "machine-learning forecasts", "ko": "기계학습(컴퓨터가 스스로 규칙을 찾아내는 방식) 예측에", "r": "목적어"},
+   {"en": "that inform decisions about water, power, and public safety", "ko": "물·전력·공공 안전에 관한 결정에 근거를 대 주는", "r": "관계절(앞 명사 설명)"},
+   {"en": "in Washington state.", "ko": "워싱턴주에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "(앞부분은 홈페이지 차림표 글자다.) 미국 서부에서 일어난 2026년 눈 가뭄의 영향이 여름까지 이어지는 가운데, NASA의 지구 관측 자료가 기계학습 예측 모델로 흘러들어 가고 있다. 그 예측은 워싱턴주에서 물·전력·공공 안전에 관한 결정의 근거가 된다.",
+  "why": "앞의 'Science at Work … About Us' 는 홈페이지 차림표가 딸려 들어온 것이라 문장이 아니다. 진짜 문장은 As 로 시작하는데, 여기서 As 는 '~로서'가 아니라 '~함에 따라'이고, 그 절의 동사 carry 가 주어(the effects)에서 멀리 떨어져 있어 뼈대를 놓치기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|1.0",
+  "en": "Tacoma Power, a Washington public utility, is using a U.S. technology company’s river-flow forecasts during a year of water extremes on the Cowlitz River.",
+  "s": "Tacoma Power",
+  "v": "is using",
+  "chunks": [
+   {"en": "Tacoma Power,", "ko": "타코마 파워(Tacoma Power)는", "r": "주어"},
+   {"en": "a Washington public utility,", "ko": "워싱턴주의 공공 전력·수도 회사인", "r": "동격(앞 이름을 다시 설명)"},
+   {"en": "is using a U.S. technology company’s river-flow forecasts", "ko": "미국의 한 기술 회사가 내놓는 하천 유량 예측을 쓰고 있다", "r": "동사 + 목적어"},
+   {"en": "during a year of water extremes", "ko": "물이 양극단으로 치닫는 한 해 동안", "r": "시간"},
+   {"en": "on the Cowlitz River.", "ko": "카울리츠강에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "워싱턴주의 공공 전력 회사인 타코마 파워(Tacoma Power)는, 카울리츠강(Cowlitz River)의 물이 양극단으로 치닫는 한 해 동안 미국의 한 기술 회사가 내놓는 하천 유량 예측을 쓰고 있다.",
+  "why": "주어(Tacoma Power) 바로 뒤에 쉼표로 둘러싸인 설명(a Washington public utility)이 끼어들어 동사 is using 이 멀어진다. 쉼표 안쪽을 괄호로 묶어 두고 '타코마 파워는 ~를 쓰고 있다'로 뼈대부터 잡을 것.",
+  "st": []
+ },
+ {
+  "id": "d3526372|1.1",
+  "en": "The utility’s largest hydroelectric project uses water stored behind Mayfield and Mossyrock dams to generate enough electricity to serve more than 151,000 homes each year.",
+  "s": "The utility’s largest hydroelectric project",
+  "v": "uses",
+  "chunks": [
+   {"en": "The utility’s largest hydroelectric project", "ko": "그 회사의 가장 큰 수력발전 사업은", "r": "주어"},
+   {"en": "uses water stored behind Mayfield and Mossyrock dams", "ko": "메이필드 댐과 모시록 댐 뒤에 가둬 둔 물을 쓴다", "r": "동사 + 목적어 + 과거분사구"},
+   {"en": "to generate enough electricity", "ko": "충분한 전기를 만들어 내기 위해", "r": "목적(~하기 위해)"},
+   {"en": "to serve more than 151,000 homes", "ko": "15만 1천 가구가 넘는 집에 공급할 만큼의", "r": "목적(전기의 쓰임)"},
+   {"en": "each year.", "ko": "해마다", "r": "시간"}
+  ],
+  "ko": "그 회사의 가장 큰 수력발전 사업은 메이필드(Mayfield) 댐과 모시록(Mossyrock) 댐 뒤에 가둬 둔 물을 써서, 해마다 15만 1천 가구가 넘는 집에 공급할 만큼의 전기를 만들어 낸다.",
+  "why": "stored 는 문장의 동사가 아니라 앞의 water 를 설명하는 과거분사(가둬 둔 물)다. 이 문장의 동사는 uses 하나뿐이고, to generate → to serve 로 '무엇을 위해'가 두 번 이어진다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|2.0",
+  "en": "Upstream Tech’s HydroForecast combines weather forecasts and river measurements with NASA-produced satellite data on snow cover and vegetation conditions to predict river flow from hours to days ahead.",
+  "s": "Upstream Tech’s HydroForecast",
+  "v": "combines",
+  "chunks": [
+   {"en": "Upstream Tech’s HydroForecast combines", "ko": "업스트림 테크(Upstream Tech)의 하이드로포캐스트는 ~를 합친다", "r": "주어 + 동사"},
+   {"en": "weather forecasts and river measurements", "ko": "일기예보와 하천 실측값을", "r": "목적어"},
+   {"en": "with NASA-produced satellite data", "ko": "NASA가 만들어 낸 위성 자료와", "r": "전치사구(합치는 상대)"},
+   {"en": "on snow cover and vegetation conditions", "ko": "적설 면적과 식생 상태에 관한", "r": "전치사구(자료의 내용)"},
+   {"en": "to predict river flow", "ko": "하천 유량을 예측하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "from hours to days ahead.", "ko": "몇 시간 뒤부터 며칠 뒤까지", "r": "시간(예측 범위)"}
+  ],
+  "ko": "업스트림 테크(Upstream Tech)의 하이드로포캐스트(HydroForecast)는 일기예보와 하천 실측값을, 적설 면적과 식생 상태에 관해 NASA가 만들어 낸 위성 자료와 합쳐, 몇 시간 뒤부터 며칠 뒤까지의 하천 유량을 예측한다.",
+  "why": "combine A with B(A를 B와 합치다) 구조인데 A와 B가 모두 길어서 with 가 어디에 걸리는지 놓치기 쉽다. on snow cover… 는 바로 앞 satellite data 의 내용을 밝히는 말이지, 합치는 또 하나의 재료가 아니다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|2.1",
+  "en": "Updated every two hours, the forecasts are used by reservoir managers, hydropower producers, water utilities, and government agencies to prepare for storms, plan reservoir water releases, and navigate dry periods.",
+  "s": "the forecasts",
+  "v": "are used",
+  "chunks": [
+   {"en": "Updated every two hours,", "ko": "두 시간마다 새로 갱신되는", "r": "분사구문(주어를 설명·수동)"},
+   {"en": "the forecasts are used", "ko": "그 예측은 쓰인다", "r": "주어 + 동사(수동태)"},
+   {"en": "by reservoir managers, hydropower producers,", "ko": "저수지 관리자, 수력발전 사업자,", "r": "행위자(쓰는 쪽)"},
+   {"en": "water utilities, and government agencies", "ko": "상수도 회사, 정부 기관에 의해", "r": "행위자 나열"},
+   {"en": "to prepare for storms,", "ko": "폭풍에 대비하고,", "r": "목적(~하기 위해)"},
+   {"en": "plan reservoir water releases,", "ko": "저수지 방류 계획을 세우고,", "r": "목적(두 번째)"},
+   {"en": "and navigate dry periods.", "ko": "가뭄 기간을 헤쳐 나가기 위해", "r": "목적(세 번째)"}
+  ],
+  "ko": "두 시간마다 새로 갱신되는 이 예측은 저수지 관리자, 수력발전 사업자, 상수도 회사, 정부 기관이 쓴다. 폭풍에 대비하고, 저수지 방류 계획을 세우고, 가뭄 기간을 헤쳐 나가기 위해서다.",
+  "why": "are used by ~ 는 수동태라 '예측이 쓰인다'이고, by 뒤에 나오는 네 무리가 실제로 쓰는 쪽이다. 뒤의 to prepare / plan / navigate 는 세 개가 나란히 붙은 목적이며, plan 과 navigate 앞에도 to 가 생략돼 있다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|3.0",
+  "en": "“Part of NASA’s mission is to make the view from space useful on the ground,” said Erin Urquhart, manager for NASA’s Water Resources program at the agency’s headquarters in Washington, D.C.",
+  "s": "Part of NASA’s mission",
+  "v": "is to make",
+  "chunks": [
+   {"en": "“Part of NASA’s mission", "ko": "NASA가 맡은 일의 한 부분은", "r": "주어"},
+   {"en": "is to make the view from space useful on the ground,”", "ko": "우주에서 내려다본 시야를 땅 위에서 쓸모 있게 만드는 것이다", "r": "동사 + 보어(to부정사)"},
+   {"en": "said Erin Urquhart,", "ko": "라고 에린 어쿼트가 말했다", "r": "인용을 전하는 말"},
+   {"en": "manager for NASA’s Water Resources program", "ko": "NASA 수자원(Water Resources) 프로그램 책임자인", "r": "동격(앞 사람 설명)"},
+   {"en": "at the agency’s headquarters in Washington, D.C.", "ko": "워싱턴 D.C.의 NASA 본부에 있는", "r": "전치사구(소속 장소)"}
+  ],
+  "ko": "\"NASA가 맡은 일의 한 부분은 우주에서 내려다본 시야를 땅 위에서 쓸모 있게 만드는 것입니다.\" 워싱턴 D.C.의 NASA 본부에서 수자원(Water Resources) 프로그램을 맡고 있는 에린 어쿼트(Erin Urquhart)가 한 말이다.",
+  "why": "make A useful(A를 쓸모 있게 만들다) 구조인데 A 자리에 the view from space 가 들어가 있어, useful 이 무엇을 두고 하는 말인지 놓치기 쉽다. 뒤의 manager for… 는 새 사람이 아니라 앞의 Erin Urquhart 를 설명하는 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|3.1",
+  "en": "“When an American company incorporates NASA’s freely available data into forecasts that help water managers prepare for floods, generate power, and steward water supplies, that’s NASA delivering practical value to the nation.”",
+  "s": "",
+  "v": "that’s",
+  "chunks": [
+   {"en": "“When an American company incorporates", "ko": "미국의 한 회사가 ~을 집어넣을 때", "r": "부사절(조건·때)"},
+   {"en": "NASA’s freely available data into forecasts", "ko": "누구나 공짜로 쓸 수 있는 NASA의 자료를 예측 모델 안에", "r": "목적어 + 전치사구(어디로)"},
+   {"en": "that help water managers prepare for floods,", "ko": "물 관리자가 홍수에 대비하고,", "r": "관계절(앞 forecasts 설명)"},
+   {"en": "generate power, and steward water supplies,", "ko": "전력을 만들고, 수자원을 잘 관리하도록 돕는", "r": "관계절 안의 나열"},
+   {"en": "that’s NASA delivering practical value to the nation.”", "ko": "그것이 바로 NASA가 나라에 실질적인 값어치를 내놓는 일이다", "r": "주절(주어 that + 동사 ’s)"}
+  ],
+  "ko": "\"미국의 한 회사가 누구나 공짜로 쓸 수 있는 NASA의 자료를 예측 모델에 집어넣고, 그 예측이 물 관리자들이 홍수에 대비하고 전력을 만들고 수자원을 잘 관리하도록 돕는다면 — 그것이 바로 NASA가 나라에 실질적인 값어치를 내놓는 일입니다.\"",
+  "why": "긴 When 절이 문장의 4분의 3을 차지해서, 정작 주절인 that’s NASA delivering… 이 맨 끝에 겨우 붙어 있다. that 이 주어이고 ’s 가 is 의 줄임(동사)이며, that 은 앞의 When 절 전체를 받는다. help A 동사원형(A가 ~하도록 돕다) 구조라 prepare·generate·steward 는 모두 water managers 가 하는 일이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|4.0",
+  "en": "During the winter of 2025-26, unusual warmth meant a larger share of precipitation fell as rain instead of snow across much of the West, while below-normal precipitation deepened deficits in some areas.",
+  "s": "unusual warmth",
+  "v": "meant",
+  "chunks": [
+   {"en": "During the winter of 2025-26,", "ko": "2025~26년 겨울 동안", "r": "시간"},
+   {"en": "unusual warmth meant", "ko": "이례적인 따뜻함은 ~라는 뜻이었다", "r": "주어 + 동사"},
+   {"en": "a larger share of precipitation fell as rain", "ko": "강수 가운데 더 큰 몫이 비로 내렸다는", "r": "목적어절(that 생략)"},
+   {"en": "instead of snow across much of the West,", "ko": "서부의 많은 지역에서 눈 대신", "r": "전치사구(대신) + 장소"},
+   {"en": "while below-normal precipitation deepened deficits", "ko": "한편 평년보다 적은 강수량은 부족분을 더 키웠다", "r": "부사절(대조)"},
+   {"en": "in some areas.", "ko": "일부 지역에서는", "r": "장소"}
+  ],
+  "ko": "2025~26년 겨울에는 이례적으로 따뜻해서, 서부의 많은 지역에서 강수 가운데 더 큰 몫이 눈이 아니라 비로 내렸다. 한편 일부 지역에서는 평년보다 적은 강수량 때문에 부족분이 더 커졌다.",
+  "why": "meant 뒤에 that 이 생략된 절이 통째로 들어와서, fell 을 문장의 두 번째 동사로 잘못 잡기 쉽다. instead of snow 는 '눈 대신 비로 내렸다'는 뜻이므로 여기서 눈이 줄었다는 말이지 비가 줄었다는 말이 아니다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|4.1",
+  "en": "January, February, and March each had the lowest Western snow cover for that month in the NASA MODIS (Moderate Resolution Imaging Spectroradiometer) satellite record since 2001.",
+  "s": "January, February, and March each",
+  "v": "had",
+  "chunks": [
+   {"en": "January, February, and March each had", "ko": "1월, 2월, 3월이 저마다 ~을 기록했다", "r": "주어 + 동사"},
+   {"en": "the lowest Western snow cover for that month", "ko": "그 달 기준으로 서부에서 가장 적은 적설 면적을", "r": "목적어(최상급)"},
+   {"en": "in the NASA MODIS (Moderate Resolution Imaging Spectroradiometer) satellite record", "ko": "NASA MODIS 위성 관측 기록 안에서", "r": "전치사구(비교 범위)"},
+   {"en": "since 2001.", "ko": "2001년 이후로", "r": "시간(기록의 시작점)"}
+  ],
+  "ko": "1월, 2월, 3월이 저마다 2001년 이후 NASA MODIS(중해상도 영상 분광복사계) 위성 관측 기록에서 그 달 기준 서부 최저 적설 면적을 기록했다.",
+  "why": "each 는 주어에 붙어 '세 달이 저마다'라는 뜻이고 동사는 had 하나뿐이다. for that month 는 '그 달 동안'이 아니라 '그 달끼리 견주었을 때'라는 비교 기준이다 — 즉 역대 1월 중 최저, 역대 2월 중 최저라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|5.0",
+  "en": "On the Cowlitz, those conditions produced a season of extremes .",
+  "s": "those conditions",
+  "v": "produced",
+  "chunks": [
+   {"en": "On the Cowlitz,", "ko": "카울리츠강에서는", "r": "전치사구(장소)"},
+   {"en": "those conditions produced", "ko": "그런 상황이 ~을 만들어 냈다", "r": "주어 + 동사"},
+   {"en": "a season of extremes .", "ko": "양극단이 오간 한 계절을", "r": "목적어"}
+  ],
+  "ko": "카울리츠강에서는 그런 상황이 양극단이 오가는 한 계절을 만들어 냈다.",
+  "why": "those conditions 는 앞 문단에서 말한 '따뜻한 겨울 + 적은 강수'를 받는 말이다. extremes 는 '극단'이라는 뜻의 복수형이라 '아주 많았다'가 아니라 '너무 많았다가 너무 적었다'는 양쪽 다를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|5.1",
+  "en": "In December 2025, a powerful atmospheric river brought a long, narrow band of Pacific moisture into the region, causing one of the largest one-day inflow surges ever recorded at Tacoma Power’s hydroelectric project.",
+  "s": "a powerful atmospheric river",
+  "v": "brought",
+  "chunks": [
+   {"en": "In December 2025,", "ko": "2025년 12월에", "r": "시간"},
+   {"en": "a powerful atmospheric river brought", "ko": "강력한 대기의 강(하늘의 물길)이 ~을 몰고 왔다", "r": "주어 + 동사"},
+   {"en": "a long, narrow band of Pacific moisture", "ko": "길고 좁은 띠 모양의 태평양 수증기를", "r": "목적어"},
+   {"en": "into the region,", "ko": "그 지역 안으로", "r": "전치사구(방향)"},
+   {"en": "causing one of the largest one-day inflow surges", "ko": "그 결과 하루 유입량이 손꼽히게 크게 치솟는 일이 생겼다", "r": "분사구문(그 결과)"},
+   {"en": "ever recorded at Tacoma Power’s hydroelectric project.", "ko": "타코마 파워 수력발전 사업에서 기록된 것 가운데", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "2025년 12월, 강력한 '대기의 강'(하늘을 길고 좁게 흐르는 수증기 띠)이 태평양의 습기를 그 지역으로 몰고 왔다. 그 결과 타코마 파워 수력발전 사업에서 기록된 것 가운데 손꼽히게 큰 하루 유입량 급증이 일어났다.",
+  "why": "atmospheric river 는 실제 강이 아니라 하늘을 좁고 길게 흐르는 수증기 띠를 가리키는 기상 용어다. causing 은 새 문장의 동사가 아니라 '그래서 ~하게 되었다'는 결과를 나타내는 분사구문이고, one of the largest… 는 '가장 큰 것'이 아니라 '가장 큰 것들 중 하나'다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|5.2",
+  "en": "Across the season, that rain-heavy pattern sent water downstream quickly instead of building mountain snowpack that would melt and release water steadily into summer.",
+  "s": "that rain-heavy pattern",
+  "v": "sent",
+  "chunks": [
+   {"en": "Across the season,", "ko": "그 계절 내내", "r": "시간"},
+   {"en": "that rain-heavy pattern sent water downstream quickly", "ko": "비가 많은 그 패턴은 물을 하류로 빠르게 흘려보냈다", "r": "주어 + 동사 + 목적어 + 방향"},
+   {"en": "instead of building mountain snowpack", "ko": "산에 눈더미를 쌓는 대신", "r": "전치사구(~대신)"},
+   {"en": "that would melt and release water steadily", "ko": "녹으면서 물을 꾸준히 내보냈을", "r": "관계절(앞 snowpack 설명)"},
+   {"en": "into summer.", "ko": "여름까지", "r": "시간"}
+  ],
+  "ko": "그 계절 내내, 비가 많은 그 패턴은 산에 눈더미를 쌓아 두는 대신 물을 하류로 빠르게 흘려보냈다. 눈더미가 쌓였더라면 여름까지 천천히 녹으면서 물을 꾸준히 내보냈을 것이다.",
+  "why": "instead of building… 이 있으므로 실제로는 눈더미가 쌓이지 않았다. 그 뒤 that would melt… 는 쌓였더라면 그랬을 거라는 가정이지 실제로 일어난 일이 아니다 — would 를 놓치면 눈이 녹아 물을 대 주었다는 정반대 이야기가 된다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|5.3",
+  "en": "Snowpack remained at just 20% to 50% of normal levels.",
+  "s": "Snowpack",
+  "v": "remained",
+  "chunks": [
+   {"en": "Snowpack remained", "ko": "눈더미는 ~에 머물렀다", "r": "주어 + 동사"},
+   {"en": "at just 20% to 50% of normal levels.", "ko": "평년 수준의 겨우 20~50%에", "r": "보어(수치)"}
+  ],
+  "ko": "눈더미(적설량)는 평년 수준의 겨우 20~50%에 머물렀다.",
+  "why": "20% to 50% of normal levels 는 '평년보다 20~50% 적다'가 아니라 '평년의 20~50%밖에 안 된다'는 뜻이다. just 가 '겨우'라는 뜻으로 적음을 강조한다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|6.0",
+  "en": "As winter became spring, the rain tapered off, and on April 8, Washington state placed every watershed, including the Cowlitz, under a drought emergency .",
+  "s": "the rain",
+  "v": "tapered off",
+  "chunks": [
+   {"en": "As winter became spring,", "ko": "겨울이 봄으로 바뀌면서", "r": "부사절(시간)"},
+   {"en": "the rain tapered off,", "ko": "비가 차츰 잦아들었다", "r": "주어 + 동사"},
+   {"en": "and on April 8,", "ko": "그리고 4월 8일에", "r": "대등절 + 시간"},
+   {"en": "Washington state placed every watershed,", "ko": "워싱턴주는 모든 유역을 ~에 두었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "including the Cowlitz,", "ko": "카울리츠강 유역을 포함해", "r": "삽입구(포함 범위)"},
+   {"en": "under a drought emergency .", "ko": "가뭄 비상사태 아래", "r": "전치사구(어떤 상태로)"}
+  ],
+  "ko": "겨울이 봄으로 바뀌면서 비가 차츰 잦아들었고, 4월 8일 워싱턴주는 카울리츠강 유역을 포함한 모든 유역을 가뭄 비상사태로 선포했다.",
+  "why": "and 로 이어진 두 문장이 한 문장에 들어 있고(비가 잦아들었다 + 주가 비상사태를 선포했다), 뒤 절은 place A under B(A를 B 상태에 두다) 구조다. 사이에 낀 including the Cowlitz 를 빼고 읽으면 뼈대가 보인다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|6.1",
+  "en": "From April through June, peak daily inflow into the project was among the lowest on record, leaving Tacoma Power with less incoming water to replenish its reservoirs ahead of summer demand, said Saul Villarreal, Tacoma Power’s senior hydro operations manager.",
+  "s": "peak daily inflow into the project",
+  "v": "was",
+  "chunks": [
+   {"en": "From April through June,", "ko": "4월부터 6월까지", "r": "시간"},
+   {"en": "peak daily inflow into the project", "ko": "그 사업장으로 들어오는 하루 최대 유입량은", "r": "주어"},
+   {"en": "was among the lowest on record,", "ko": "기록상 가장 적은 축에 들었다", "r": "동사 + 보어"},
+   {"en": "leaving Tacoma Power with less incoming water", "ko": "그 바람에 타코마 파워는 들어오는 물이 더 적어졌다", "r": "분사구문(그 결과)"},
+   {"en": "to replenish its reservoirs", "ko": "저수지를 다시 채울", "r": "형용사적 용법(물의 쓰임)"},
+   {"en": "ahead of summer demand,", "ko": "여름 수요를 앞두고", "r": "시간(~을 앞두고)"},
+   {"en": "said Saul Villarreal,", "ko": "라고 사울 비야레알이 말했다", "r": "인용을 전하는 말"},
+   {"en": "Tacoma Power’s senior hydro operations manager.", "ko": "타코마 파워의 수력 운영 선임 관리자인", "r": "동격(앞 사람 설명)"}
+  ],
+  "ko": "4월부터 6월까지 그 사업장으로 들어오는 하루 최대 유입량은 기록상 가장 적은 축에 들었고, 그 바람에 타코마 파워는 여름 수요를 앞두고 저수지를 다시 채울 물이 부족해졌다고 타코마 파워의 수력 운영 선임 관리자 사울 비야레알(Saul Villarreal)이 말했다.",
+  "why": "among the lowest on record 는 '가장 낮았다'가 아니라 '가장 낮은 축에 들었다'이다. leaving 은 새 동사가 아니라 앞 내용의 결과를 잇는 분사구문이고, 맨 끝의 said Saul Villarreal 은 이 문장 전체가 그의 말이라는 표시다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|7.0",
+  "en": "NASA turns observations collected by the VIIRS (Visible Infrared Imaging Radiometer Suite) instrument on the Suomi-NPP (Suomi National Polar-orbiting Partnership) satellite into data products that provide information about snow cover and vegetation greenness across entire watersheds, including where ground monitors are sparse.",
+  "s": "NASA",
+  "v": "turns",
+  "chunks": [
+   {"en": "NASA turns observations", "ko": "NASA는 관측값을 ~로 바꾼다", "r": "주어 + 동사 + 목적어"},
+   {"en": "collected by the VIIRS (Visible Infrared Imaging Radiometer Suite) instrument", "ko": "VIIRS(가시·적외 영상 복사계) 장비가 모은", "r": "과거분사구(앞 명사 설명·수동)"},
+   {"en": "on the Suomi-NPP (Suomi National Polar-orbiting Partnership) satellite", "ko": "Suomi-NPP 위성에 실린", "r": "전치사구(장비가 실린 곳)"},
+   {"en": "into data products", "ko": "데이터 제품으로", "r": "전치사구(무엇으로 바꾸는가)"},
+   {"en": "that provide information about snow cover and vegetation greenness", "ko": "적설 면적과 식생의 푸르름에 관한 정보를 주는", "r": "관계절(앞 명사 설명)"},
+   {"en": "across entire watersheds,", "ko": "유역 전체에 걸쳐", "r": "전치사구(범위)"},
+   {"en": "including where ground monitors are sparse.", "ko": "지상 관측 장비가 드문 곳까지 포함해", "r": "전치사구(포함 범위)"}
+  ],
+  "ko": "NASA는 Suomi-NPP 위성에 실린 VIIRS(가시·적외 영상 복사계) 장비가 모은 관측값을, 유역 전체에 걸쳐 — 지상 관측 장비가 드문 곳까지 포함해 — 적설 면적과 식생의 푸르름에 관한 정보를 주는 데이터 제품으로 바꾼다.",
+  "why": "turn A into B(A를 B로 바꾸다) 구조인데 A(observations …)가 너무 길어서 into 가 30단어 넘게 떨어져 있다. collected 는 문장의 동사가 아니라 observations 를 설명하는 과거분사이고, 괄호 두 개는 약자를 풀어 준 것일 뿐이니 먼저 건너뛰고 뼈대만 잡을 것.",
+  "st": []
+ },
+ {
+  "id": "d3526372|8.0",
+  "en": "To train HydroForecast, Upstream Tech collects and archives years of those NASA products alongside weather forecast data and actual river-flow measurements.",
+  "s": "Upstream Tech",
+  "v": "collects and archives",
+  "chunks": [
+   {"en": "To train HydroForecast,", "ko": "하이드로포캐스트를 학습시키기 위해", "r": "목적(~하기 위해)"},
+   {"en": "Upstream Tech collects and archives", "ko": "업스트림 테크는 ~을 모아 보관한다", "r": "주어 + 동사 두 개"},
+   {"en": "years of those NASA products", "ko": "그 NASA 데이터 제품 여러 해치를", "r": "목적어"},
+   {"en": "alongside weather forecast data", "ko": "일기예보 자료와 나란히", "r": "전치사구(함께 모으는 것)"},
+   {"en": "and actual river-flow measurements.", "ko": "그리고 실제 하천 유량 실측값과", "r": "나열"}
+  ],
+  "ko": "하이드로포캐스트를 학습시키기 위해, 업스트림 테크는 그 NASA 데이터 제품 여러 해치를 일기예보 자료 및 실제 하천 유량 실측값과 함께 모아 보관한다.",
+  "why": "맨 앞의 To train… 은 문장의 주어가 아니라 '~하기 위해'라는 목적이고, 진짜 주어는 쉼표 뒤의 Upstream Tech 다. years of those NASA products 는 'NASA 제품의 몇 년'이 아니라 '여러 해에 걸쳐 쌓인 그 제품'을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|8.1",
+  "en": "Using records from hundreds of watersheds, the models learn common patterns in how water moves through the landscape and apply them in new locations.",
+  "s": "the models",
+  "v": "learn",
+  "chunks": [
+   {"en": "Using records from hundreds of watersheds,", "ko": "수백 개 유역의 기록을 써서", "r": "분사구문(방법)"},
+   {"en": "the models learn common patterns", "ko": "그 모델들은 공통된 패턴을 배운다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in how water moves through the landscape", "ko": "물이 지형을 따라 어떻게 움직이는지에 관한", "r": "전치사구(무엇에 관한 패턴인가)"},
+   {"en": "and apply them in new locations.", "ko": "그리고 그것을 새로운 곳에 적용한다", "r": "대등절(두 번째 동사)"}
+  ],
+  "ko": "수백 개 유역의 기록을 써서, 그 모델들은 물이 지형을 따라 어떻게 움직이는지에 관한 공통된 패턴을 배우고, 그것을 새로운 곳에 적용한다.",
+  "why": "맨 앞의 Using… 은 주어가 아니라 '~을 써서'라는 방법이고, 그 동작의 주체는 뒤에 나오는 the models 다. and apply 는 learn 과 나란한 두 번째 동사라서 주어가 똑같이 the models 다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|9.0",
+  "en": "Tests across multiple basins found that including snow and vegetation observations increased forecast skill, said Dr. Laura Read, director of technical and federal partnerships for HydroForecast at Upstream Tech.",
+  "s": "Tests across multiple basins",
+  "v": "found",
+  "chunks": [
+   {"en": "Tests across multiple basins found", "ko": "여러 유역에 걸친 시험 결과 ~라는 것이 드러났다", "r": "주어 + 동사"},
+   {"en": "that including snow and vegetation observations", "ko": "눈과 식생 관측값을 넣는 것이", "r": "that절의 주어(동명사)"},
+   {"en": "increased forecast skill,", "ko": "예측 정확도를 높였다는", "r": "that절의 동사 + 목적어"},
+   {"en": "said Dr. Laura Read,", "ko": "라고 로라 리드 박사가 말했다", "r": "인용을 전하는 말"},
+   {"en": "director of technical and federal partnerships", "ko": "기술·연방 협력 부문 책임자인", "r": "동격(앞 사람 설명)"},
+   {"en": "for HydroForecast at Upstream Tech.", "ko": "업스트림 테크의 하이드로포캐스트를 맡은", "r": "전치사구(소속)"}
+  ],
+  "ko": "여러 유역에 걸쳐 시험해 본 결과, 눈과 식생 관측값을 함께 넣으면 예측 정확도가 높아지는 것으로 나타났다고 업스트림 테크에서 하이드로포캐스트의 기술·연방 협력 부문을 맡고 있는 로라 리드(Laura Read) 박사가 말했다.",
+  "why": "that 절 안의 주어가 including… 이라는 동명사(~하는 것)라서 including 을 '포함해서'라는 전치사로 읽으면 문장이 무너진다. forecast skill 은 '예측 기술'이라기보다 예측이 실제와 얼마나 맞는지를 가리키는 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|9.1",
+  "en": "“NASA’s data gives us the reliability, global coverage, and consistency we need,” said Read.",
+  "s": "NASA’s data",
+  "v": "gives",
+  "chunks": [
+   {"en": "“NASA’s data gives us", "ko": "NASA의 자료는 우리에게 ~을 준다", "r": "주어 + 동사 + 간접목적어"},
+   {"en": "the reliability, global coverage, and consistency", "ko": "믿을 만함, 전 지구를 다 덮는 범위, 한결같음을", "r": "직접목적어"},
+   {"en": "we need,”", "ko": "우리가 필요로 하는", "r": "관계절(that 생략, 앞 명사 설명)"},
+   {"en": "said Read.", "ko": "라고 리드가 말했다", "r": "인용을 전하는 말"}
+  ],
+  "ko": "\"NASA의 자료는 우리에게 필요한 신뢰성, 전 지구를 덮는 관측 범위, 한결같음을 줍니다.\" 리드가 한 말이다.",
+  "why": "we need 앞에 that 이 빠져 있어 앞의 세 낱말(reliability, coverage, consistency)을 한꺼번에 꾸민다. we need 를 새로운 문장으로 읽으면 뼈대가 흐트러진다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|9.2",
+  "en": "“Our short-term models run every two hours, so those inputs have to show up when we need them.",
+  "s": "Our short-term models",
+  "v": "run",
+  "chunks": [
+   {"en": "“Our short-term models run every two hours,", "ko": "우리 단기 모델은 두 시간마다 돌아간다", "r": "주어 + 동사 + 시간"},
+   {"en": "so those inputs have to show up", "ko": "그래서 그 입력 자료가 반드시 들어와 있어야 한다", "r": "대등절(결과)"},
+   {"en": "when we need them.", "ko": "우리가 그것을 필요로 하는 때에", "r": "부사절(시간)"}
+  ],
+  "ko": "\"우리 단기 모델은 두 시간마다 돌아갑니다. 그래서 그 입력 자료가 우리가 필요로 할 때 제때 들어와 있어야 합니다.\"",
+  "why": "run 은 여기서 '달리다'가 아니라 '(프로그램이) 돌아간다'는 뜻이고, show up 은 '나타나다', 곧 자료가 제때 도착해 있다는 말이다. those inputs 는 앞 문장의 NASA 자료를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|9.3",
+  "en": "Though we have stopgaps in place, any interruption to our operational pipeline is a huge deal.”",
+  "s": "any interruption to our operational pipeline",
+  "v": "is",
+  "chunks": [
+   {"en": "Though we have stopgaps in place,", "ko": "우리에게 임시 대비책이 마련돼 있기는 하지만", "r": "부사절(양보)"},
+   {"en": "any interruption to our operational pipeline", "ko": "우리 운영 과정이 조금이라도 끊기는 일은", "r": "주어"},
+   {"en": "is a huge deal.”", "ko": "큰일이다", "r": "동사 + 보어"}
+  ],
+  "ko": "\"임시 대비책을 마련해 두기는 했지만, 우리 운영 과정이 조금이라도 끊기는 일은 대단히 큰일입니다.\"",
+  "why": "Though 로 시작하는 앞 절은 '~이기는 하지만'이라는 양보라서, 대비책이 있으니 괜찮다는 뜻이 아니라 그래도 문제가 크다는 뜻이다. any 는 '어떤 ~든, 조금이라도'라는 강조다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|10.0",
+  "en": "Tacoma Power uses HydroForecast alongside stream gauges, snow stations, and operator judgment.",
+  "s": "Tacoma Power",
+  "v": "uses",
+  "chunks": [
+   {"en": "Tacoma Power uses HydroForecast", "ko": "타코마 파워는 하이드로포캐스트를 쓴다", "r": "주어 + 동사 + 목적어"},
+   {"en": "alongside stream gauges, snow stations,", "ko": "하천 수위계, 적설 관측소,", "r": "전치사구(함께 쓰는 것)"},
+   {"en": "and operator judgment.", "ko": "그리고 운영자의 판단과 나란히", "r": "나열"}
+  ],
+  "ko": "타코마 파워는 하천 수위계, 적설 관측소, 운영자의 판단과 함께 하이드로포캐스트를 쓴다.",
+  "why": "alongside 는 '~옆에'가 아니라 '~와 함께, ~와 나란히'라는 뜻이다. 예측 모델이 다른 수단을 대신하는 것이 아니라 함께 쓰인다는 점이 핵심이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|10.1",
+  "en": "During the December storm, the NASA-informed, short-term forecast helped the utility anticipate how much water would reach the project and prepare for dynamic river conditions, while meeting operating requirements and keeping public safety at the forefront, Villarreal said.",
+  "s": "the NASA-informed, short-term forecast",
+  "v": "helped",
+  "chunks": [
+   {"en": "During the December storm,", "ko": "12월 폭풍 때", "r": "시간"},
+   {"en": "the NASA-informed, short-term forecast helped the utility", "ko": "NASA 자료를 바탕에 깔고 만든 단기 예측이 그 회사를 도왔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "anticipate how much water would reach the project", "ko": "얼마나 많은 물이 사업장에 닿을지 미리 헤아리도록", "r": "목적격보어(원형부정사)"},
+   {"en": "and prepare for dynamic river conditions,", "ko": "그리고 시시각각 변하는 강 상태에 대비하도록", "r": "나열(두 번째 원형부정사)"},
+   {"en": "while meeting operating requirements", "ko": "그러면서도 운영 규정을 지키고", "r": "분사구문(동시에)"},
+   {"en": "and keeping public safety at the forefront,", "ko": "공공 안전을 가장 앞에 두면서", "r": "나열"},
+   {"en": "Villarreal said.", "ko": "라고 비야레알이 말했다", "r": "인용을 전하는 말"}
+  ],
+  "ko": "12월 폭풍 때, NASA 자료를 바탕에 깔고 만든 단기 예측 덕분에 그 회사는 얼마나 많은 물이 사업장에 닿을지 미리 헤아리고 시시각각 변하는 강 상태에 대비할 수 있었다. 그러면서도 운영 규정을 지키고 공공 안전을 맨 앞에 두었다고 비야레알이 말했다.",
+  "why": "help A 동사원형(A가 ~하도록 돕다) 구조라 anticipate 와 prepare 는 the utility 가 하는 일이지 forecast 가 하는 일이 아니다. NASA-informed 는 'NASA에 알려 주는'이 아니라 'NASA 자료를 바탕으로 삼은'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|11.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {"en": "To view this video", "ko": "이 영상을 보려면", "r": "목적(~하려면)"},
+   {"en": "please enable JavaScript,", "ko": "자바스크립트를 켜 주십시오", "r": "명령문(동사 + 목적어)"},
+   {"en": "and consider upgrading to a web browser", "ko": "그리고 웹 브라우저를 ~로 바꾸는 것을 생각해 보십시오", "r": "대등절(두 번째 명령)"},
+   {"en": "that supports HTML5 video", "ko": "HTML5 영상을 지원하는", "r": "관계절(앞 명사 설명)"}
+  ],
+  "ko": "이 영상을 보려면 자바스크립트를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 바꾸는 것도 생각해 보십시오.",
+  "why": "기사 본문이 아니라 화면에 뜬 안내문이다. 주어가 없는 명령문이라 동사(enable, consider)가 문장 앞쪽에 바로 나오고, consider 뒤에는 to부정사가 아니라 -ing 형(upgrading)이 온다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|12.0",
+  "en": "As spring approached, the operational challenge reversed.",
+  "s": "the operational challenge",
+  "v": "reversed",
+  "chunks": [
+   {"en": "As spring approached,", "ko": "봄이 다가오면서", "r": "부사절(시간)"},
+   {"en": "the operational challenge reversed.", "ko": "운영상의 과제가 정반대로 뒤집혔다", "r": "주어 + 동사"}
+  ],
+  "ko": "봄이 다가오면서 운영상의 과제가 정반대로 뒤집혔다.",
+  "why": "reversed 는 목적어가 없는 자동사로 쓰였다 — '무엇을 뒤집었다'가 아니라 '스스로 뒤집혔다'는 뜻이다. 앞에서는 물이 너무 많은 것이 문제였는데 이제는 너무 적은 것이 문제가 되었다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|12.1",
+  "en": "Tacoma Power used HydroForecast’s seasonal model to track the growing risk of weak runoff and began keeping its reservoirs higher than usual to preserve water for summer.",
+  "s": "Tacoma Power",
+  "v": "used",
+  "chunks": [
+   {"en": "Tacoma Power used HydroForecast’s seasonal model", "ko": "타코마 파워는 하이드로포캐스트의 계절 모델을 썼다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to track the growing risk of weak runoff", "ko": "유출량이 약해질 위험이 커지는 것을 좇기 위해", "r": "목적(~하기 위해)"},
+   {"en": "and began keeping its reservoirs higher than usual", "ko": "그리고 저수지 수위를 평소보다 높게 유지하기 시작했다", "r": "대등절(두 번째 동사)"},
+   {"en": "to preserve water for summer.", "ko": "여름에 쓸 물을 아껴 두기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "타코마 파워는 유출량이 약해질 위험이 커지는 것을 좇기 위해 하이드로포캐스트의 계절 모델을 썼고, 여름에 쓸 물을 아껴 두려고 저수지 수위를 평소보다 높게 유지하기 시작했다.",
+  "why": "used 와 began 두 동사가 and 로 이어져 주어가 같다. keeping its reservoirs higher 는 '더 높은 저수지를 유지한다'가 아니라 '저수지 물을 평소보다 많이 채워 둔다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|12.2",
+  "en": "That left less space to contain another large storm, so operators continued checking the short-term forecast “to play defense,” and remained ready to adjust operations if another atmospheric river developed.",
+  "s": "That",
+  "v": "left",
+  "chunks": [
+   {"en": "That left less space", "ko": "그 때문에 여유 공간이 더 줄었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to contain another large storm,", "ko": "또 한 번의 큰 폭풍을 받아 낼", "r": "형용사적 용법(공간의 쓰임)"},
+   {"en": "so operators continued checking the short-term forecast", "ko": "그래서 운영자들은 단기 예측을 계속 확인했다", "r": "대등절(결과)"},
+   {"en": "“to play defense,”", "ko": "\"수비를 하기 위해\"", "r": "목적(따온 표현)"},
+   {"en": "and remained ready to adjust operations", "ko": "그리고 운영 방식을 바꿀 준비를 계속 갖추고 있었다", "r": "대등절(두 번째 동사)"},
+   {"en": "if another atmospheric river developed.", "ko": "또 다른 대기의 강이 생길 경우에 대비해", "r": "부사절(조건)"}
+  ],
+  "ko": "그 때문에 또 한 번의 큰 폭풍을 받아 낼 여유 공간이 줄었다. 그래서 운영자들은 \"수비를 하려고\" 단기 예측을 계속 확인했고, 또 다른 대기의 강이 생기면 운영 방식을 바로 바꿀 준비를 갖추고 있었다.",
+  "why": "That 은 앞 문장의 '저수지를 평소보다 높게 채워 둔 일'을 통째로 받는다. less space 는 저수지에 남은 빈 공간이 줄었다는 뜻이라, 물을 아껴 둔 대가로 홍수에 약해졌다는 뜻밖의 뒷면을 말하고 있다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|13.0",
+  "en": "“The earlier we understand how conditions might change, the more effective planning we can do to manage our reservoir and balance the many demands of our system throughout the season,” said Villarreal.",
+  "s": "we",
+  "v": "understand",
+  "chunks": [
+   {"en": "“The earlier we understand", "ko": "우리가 더 일찍 알수록", "r": "the 비교급 절(앞쪽 조건)"},
+   {"en": "how conditions might change,", "ko": "상황이 어떻게 바뀔 수 있는지를", "r": "목적어(의문사절)"},
+   {"en": "the more effective planning we can do", "ko": "우리는 그만큼 더 효과적인 계획을 세울 수 있다", "r": "the 비교급 절(뒤쪽 결과)"},
+   {"en": "to manage our reservoir", "ko": "저수지를 관리하고", "r": "목적(~하기 위한)"},
+   {"en": "and balance the many demands of our system", "ko": "우리 시스템의 여러 요구를 저울질하기 위한", "r": "나열(두 번째 목적)"},
+   {"en": "throughout the season,”", "ko": "그 계절 내내", "r": "시간"},
+   {"en": "said Villarreal.", "ko": "라고 비야레알이 말했다", "r": "인용을 전하는 말"}
+  ],
+  "ko": "\"상황이 어떻게 바뀔지 더 일찍 알수록, 그 계절 내내 저수지를 관리하고 우리 시스템의 여러 요구를 저울질하기 위한 계획을 그만큼 더 효과적으로 세울 수 있습니다.\" 비야레알이 한 말이다.",
+  "why": "'The 비교급 A, the 비교급 B'(A할수록 그만큼 B하다) 구조다. 앞쪽 the earlier 절이 조건, 뒤쪽 the more effective 절이 결과이며, 두 절 모두 주어가 we 다. 앞쪽을 문장의 뼈대로 잡으면 뜻이 어그러진다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|14.0",
+  "en": "Tacoma Power entered summer 2026 with reservoir levels near average despite the dry spring.",
+  "s": "Tacoma Power",
+  "v": "entered",
+  "chunks": [
+   {"en": "Tacoma Power entered summer 2026", "ko": "타코마 파워는 2026년 여름에 들어섰다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with reservoir levels near average", "ko": "저수지 수위가 평년에 가까운 상태로", "r": "전치사구(딸린 상태)"},
+   {"en": "despite the dry spring.", "ko": "메마른 봄이었는데도", "r": "전치사구(양보)"}
+  ],
+  "ko": "메마른 봄을 보냈는데도 타코마 파워는 저수지 수위가 평년에 가까운 상태로 2026년 여름을 맞았다.",
+  "why": "despite 는 '~에도 불구하고'라는 뒤집는 말이라, 봄이 메말랐지만 결과는 나쁘지 않았다는 뜻이다. with 는 '~와 함께'가 아니라 '~한 상태로'라는 딸린 상황을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|14.1",
+  "en": "The stored water supports reliable hydropower, required river flows to support fish and aquatic habitat, and public recreation.",
+  "s": "The stored water",
+  "v": "supports",
+  "chunks": [
+   {"en": "The stored water supports reliable hydropower,", "ko": "가둬 둔 물은 안정된 수력발전을 받쳐 준다", "r": "주어 + 동사 + 목적어①"},
+   {"en": "required river flows", "ko": "의무적으로 흘려보내야 하는 하천 유량,", "r": "목적어②"},
+   {"en": "to support fish and aquatic habitat,", "ko": "물고기와 수생 서식지를 지키기 위한", "r": "목적(그 유량의 쓰임)"},
+   {"en": "and public recreation.", "ko": "그리고 시민의 여가 활동을", "r": "목적어③"}
+  ],
+  "ko": "가둬 둔 물은 안정된 수력발전, 물고기와 수생 서식지를 지키기 위해 의무적으로 흘려보내야 하는 하천 유량, 그리고 시민의 여가 활동을 함께 받쳐 준다.",
+  "why": "supports 의 목적어가 세 개(hydropower / river flows / recreation)나 나란히 있다. required 를 문장의 두 번째 동사로 읽으면 뜻이 무너진다 — 여기서는 river flows 를 꾸미는 과거분사로 '요구되는(의무적인) 유량'이라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|14.2",
+  "en": "It also gives the utility more flexibility to meet electricity demand during heat waves or unexpected outages and, when possible, support the wider regional power system.",
+  "s": "It",
+  "v": "gives",
+  "chunks": [
+   {"en": "It also gives the utility more flexibility", "ko": "그것은 또한 그 회사에 더 큰 융통성을 준다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to meet electricity demand", "ko": "전력 수요를 감당할", "r": "형용사적 용법(융통성의 쓰임)"},
+   {"en": "during heat waves or unexpected outages", "ko": "폭염이나 예기치 못한 정전 때", "r": "시간"},
+   {"en": "and, when possible,", "ko": "그리고 가능할 때는", "r": "나열 + 삽입(조건)"},
+   {"en": "support the wider regional power system.", "ko": "더 넓은 지역 전력망을 받쳐 줄", "r": "나열(두 번째 to부정사)"}
+  ],
+  "ko": "그 물은 또한 폭염이나 예기치 못한 정전 때 전력 수요를 감당하고, 가능할 때는 더 넓은 지역 전력망까지 받쳐 줄 융통성을 그 회사에 준다.",
+  "why": "It 은 앞 문장의 the stored water(가둬 둔 물)를 가리킨다. support 앞에는 to 가 생략돼 있어 to meet 과 나란한 두 번째 쓰임이며, 사이에 낀 when possible 이 그 연결을 가려 놓았다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|15.0",
+  "en": "Tacoma Public Utilities’ Cowlitz Hydro Project is just one example of NASA science supporting water decisions across the West.",
+  "s": "Tacoma Public Utilities’ Cowlitz Hydro Project",
+  "v": "is",
+  "chunks": [
+   {"en": "Tacoma Public Utilities’ Cowlitz Hydro Project is", "ko": "타코마 공공기업의 카울리츠 수력 사업은 ~이다", "r": "주어 + 동사"},
+   {"en": "just one example of NASA science", "ko": "NASA 과학의 한 가지 사례일 뿐", "r": "보어"},
+   {"en": "supporting water decisions across the West.", "ko": "서부 전역에서 물에 관한 결정을 받쳐 주는", "r": "현재분사구(앞 명사 설명)"}
+  ],
+  "ko": "타코마 공공기업(Tacoma Public Utilities)의 카울리츠 수력 사업은 서부 전역에서 물에 관한 결정을 받쳐 주는 NASA 과학의 한 가지 사례일 뿐이다.",
+  "why": "supporting 은 문장의 동사가 아니라 바로 앞 NASA science 를 꾸미는 현재분사다. just one example 은 '단 하나의 사례'가 아니라 '여럿 중 하나일 뿐'이라는 뜻으로, 뒤에 다른 사례가 이어진다는 신호다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|16.0",
+  "en": "NASA also has partnered with the U.S.",
+  "s": "NASA",
+  "v": "has partnered",
+  "chunks": [
+   {"en": "NASA also has partnered", "ko": "NASA는 또한 협력해 왔다", "r": "주어 + 동사(현재완료)"},
+   {"en": "with the U.S.", "ko": "미국 ~와", "r": "전치사구(상대 · 다음 문장으로 이어짐)"}
+  ],
+  "ko": "NASA는 또한 미국 (농무부 자연자원보전청)과도 협력해 왔다.",
+  "why": "U.S. 의 마침표 때문에 문장이 여기서 끊긴 것처럼 보이지만, 실제로는 다음 문장(Department of Agriculture’s…)까지가 한 문장이다. 상대 기관 이름이 잘려 있으니 다음 문장과 이어 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|16.1",
+  "en": "Department of Agriculture’s Natural Resources Conservation Service to bring satellite-based snow and groundwater information into machine-learning water-supply forecasts.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Department of Agriculture’s Natural Resources Conservation Service", "ko": "농무부의 자연자원보전청과", "r": "앞 문장에서 이어지는 기관 이름"},
+   {"en": "to bring satellite-based snow and groundwater information", "ko": "위성으로 얻은 눈·지하수 정보를 끌어오기 위해", "r": "목적(~하기 위해)"},
+   {"en": "into machine-learning water-supply forecasts.", "ko": "기계학습 물 공급 예측 안으로", "r": "전치사구(어디로)"}
+  ],
+  "ko": "(앞 문장에 이어) 농무부 자연자원보전청(Natural Resources Conservation Service)과 협력해, 위성으로 얻은 눈·지하수 정보를 기계학습 물 공급 예측에 끌어들이고 있다.",
+  "why": "주어도 동사도 없는 토막이다 — 앞 문장 'NASA also has partnered with the U.S.' 의 뒷부분이 U.S. 의 마침표 때문에 잘려 나온 것이다. to bring 은 동사가 아니라 협력의 목적을 말한다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|17.0",
+  "en": "The National Oceanic and Atmospheric Administration’s Colorado Basin River Forecast Center uses MODIS and VIIRS data to adjust snowmelt rates in its model.",
+  "s": "The National Oceanic and Atmospheric Administration’s Colorado Basin River Forecast Center",
+  "v": "uses",
+  "chunks": [
+   {"en": "The National Oceanic and Atmospheric Administration’s Colorado Basin River Forecast Center", "ko": "미국 해양대기청(NOAA)의 콜로라도 분지 하천예보센터는", "r": "주어(기관 이름 통째로)"},
+   {"en": "uses MODIS and VIIRS data", "ko": "MODIS와 VIIRS 자료를 쓴다", "r": "동사 + 목적어"},
+   {"en": "to adjust snowmelt rates in its model.", "ko": "자기네 모델의 눈 녹는 속도를 조정하기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "미국 해양대기청(NOAA)의 콜로라도 분지 하천예보센터는 자기네 모델에서 눈 녹는 속도를 조정하려고 MODIS와 VIIRS 자료를 쓴다.",
+  "why": "주어가 열 단어가 넘는 기관 이름 하나라, 앞의 The National Oceanic and Atmospheric Administration’s 를 따로 떼어 주어로 잡으면 안 된다. ’s 뒤의 Colorado Basin River Forecast Center 까지가 한 덩어리이고, 동사는 uses 다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|17.1",
+  "en": "The Bureau of Reclamation uses NASA and NASA-derived snow data, alongside other sources, for reservoir operations in California’s San Joaquin Basin.",
+  "s": "The Bureau of Reclamation",
+  "v": "uses",
+  "chunks": [
+   {"en": "The Bureau of Reclamation uses", "ko": "간척국(Bureau of Reclamation)은 ~을 쓴다", "r": "주어 + 동사"},
+   {"en": "NASA and NASA-derived snow data,", "ko": "NASA의 눈 자료와 NASA 자료에서 뽑아낸 눈 자료를", "r": "목적어"},
+   {"en": "alongside other sources,", "ko": "다른 출처들과 함께", "r": "삽입구(함께 쓰는 것)"},
+   {"en": "for reservoir operations", "ko": "저수지 운영을 위해", "r": "목적"},
+   {"en": "in California’s San Joaquin Basin.", "ko": "캘리포니아 샌호아킨 분지에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "간척국(Bureau of Reclamation)은 캘리포니아 샌호아킨 분지의 저수지 운영을 위해, 다른 출처의 자료와 함께 NASA의 눈 자료와 NASA 자료에서 파생된 눈 자료를 쓴다.",
+  "why": "NASA and NASA-derived snow data 는 자료가 두 갈래라는 뜻이다 — NASA가 직접 만든 것, 그리고 NASA 자료를 바탕으로 남이 가공한 것. 쉼표로 둘러싸인 alongside other sources 는 끼워 넣은 말이라 빼고 읽으면 뼈대가 보인다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|18.0",
+  "en": "NASA data and research have long informed the U.S.",
+  "s": "NASA data and research",
+  "v": "have long informed",
+  "chunks": [
+   {"en": "NASA data and research have long informed", "ko": "NASA의 자료와 연구는 오랫동안 ~에 근거를 대 왔다", "r": "주어 + 동사(현재완료)"},
+   {"en": "the U.S.", "ko": "미국 ~", "r": "목적어(다음 문장으로 이어짐)"}
+  ],
+  "ko": "NASA의 자료와 연구는 오랫동안 미국 (가뭄 감시 보고서)에 근거를 대 왔다.",
+  "why": "inform 은 '알리다'보다 '근거·정보를 대 준다'는 뜻으로 쓰였다. have long informed 는 현재완료라 '예전부터 지금까지 죽 그래 왔다'는 말이고, 목적어는 U.S. 의 마침표 때문에 다음 문장으로 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|18.1",
+  "en": "Drought Monitor , the weekly assessment used by farmers, water managers, and public agencies.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Drought Monitor ,", "ko": "(미국) 가뭄 감시 보고서", "r": "앞 문장에서 이어지는 이름"},
+   {"en": "the weekly assessment", "ko": "곧 주간 평가 보고서인데", "r": "동격(앞 이름 설명)"},
+   {"en": "used by farmers, water managers, and public agencies.", "ko": "농민, 물 관리자, 공공기관이 쓰는", "r": "과거분사구(앞 명사 설명·수동)"}
+  ],
+  "ko": "(앞 문장에 이어) 미국 가뭄 감시 보고서(U.S. Drought Monitor)에 근거를 대 왔다. 이것은 농민과 물 관리자, 공공기관이 쓰는 주간 평가 보고서다.",
+  "why": "주어도 동사도 없는 토막이다 — 앞 문장 'NASA data and research have long informed the U.S.' 의 목적어가 여기 이어진다. used 는 동사가 아니라 the weekly assessment 를 꾸미는 과거분사로, 보고서가 '쓰이는' 쪽이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|18.2",
+  "en": "NASA became a formal partner in 2026, expanding its role from providing information to helping produce the assessment.",
+  "s": "NASA",
+  "v": "became",
+  "chunks": [
+   {"en": "NASA became a formal partner in 2026,", "ko": "NASA는 2026년에 정식 협력 기관이 되었다", "r": "주어 + 동사 + 보어 + 시간"},
+   {"en": "expanding its role", "ko": "그러면서 자기 역할을 넓혔다", "r": "분사구문(그 결과)"},
+   {"en": "from providing information", "ko": "정보를 대 주던 데서", "r": "전치사구(이전 역할)"},
+   {"en": "to helping produce the assessment.", "ko": "그 보고서를 함께 만드는 데까지", "r": "전치사구(새 역할)"}
+  ],
+  "ko": "NASA는 2026년에 정식 협력 기관이 되었고, 그러면서 정보를 대 주던 데서 나아가 그 보고서를 함께 만드는 데까지 역할을 넓혔다.",
+  "why": "from A to B(A에서 B로) 구조인데 A와 B 자리에 -ing 형이 들어가 있다. 특히 to helping 의 to 는 to부정사가 아니라 전치사라서 뒤에 동사원형이 아니라 -ing 가 온 것이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|18.3",
+  "en": "The agency took its first turn authoring the Drought Monitor during the week of Aug. 17.",
+  "s": "The agency",
+  "v": "took",
+  "chunks": [
+   {"en": "The agency took its first turn", "ko": "그 기관은 처음으로 자기 차례를 맡았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "authoring the Drought Monitor", "ko": "가뭄 감시 보고서를 집필하는", "r": "현재분사구(차례의 내용)"},
+   {"en": "during the week of Aug. 17.", "ko": "8월 17일이 든 주에", "r": "시간"}
+  ],
+  "ko": "그 기관(NASA)은 8월 17일이 든 주에 처음으로 가뭄 감시 보고서를 집필하는 차례를 맡았다.",
+  "why": "The agency 는 새 기관이 아니라 앞 문장의 NASA 를 다시 가리키는 말이다. take a turn 은 '차례를 맡다'라는 뜻이고, authoring 은 그 차례에 무엇을 하는지 밝히는 -ing 구다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|19.0",
+  "en": "About the Author Emily DeMarco Writer/Editor (IV), Earth Science Division Emily is a science writer and editor with NASA’s Earth Science Division, with more than 10 years of experience in science journalism and communication.",
+  "s": "Emily",
+  "v": "is a science writer and editor",
+  "chunks": [
+   {"en": "About the Author Emily DeMarco", "ko": "글쓴이 소개 — 에밀리 디마코", "r": "머리말(문장이 아님)"},
+   {"en": "Writer/Editor (IV), Earth Science Division", "ko": "지구과학부 작가·편집자(4급)", "r": "직함(문장이 아님)"},
+   {"en": "Emily is a science writer and editor", "ko": "에밀리는 과학 담당 작가이자 편집자다", "r": "주어 + 동사 + 보어"},
+   {"en": "with NASA’s Earth Science Division,", "ko": "NASA 지구과학부 소속의", "r": "전치사구(소속)"},
+   {"en": "with more than 10 years of experience", "ko": "10년이 넘는 경력을 지닌", "r": "전치사구(딸린 조건)"},
+   {"en": "in science journalism and communication.", "ko": "과학 저널리즘과 과학 소통 분야에서", "r": "전치사구(분야)"}
+  ],
+  "ko": "글쓴이 소개 — 에밀리 디마코(Emily DeMarco), 지구과학부 작가·편집자(4급). 에밀리는 NASA 지구과학부 소속의 과학 담당 작가이자 편집자로, 과학 저널리즘과 과학 소통 분야에서 10년이 넘는 경력을 지니고 있다.",
+  "why": "앞부분은 글쓴이 소개 표에 있던 이름과 직함이 문장처럼 붙어 들어온 것이라, 진짜 문장은 두 번째 Emily 부터 시작한다. with 가 두 번 나오는데 앞의 with 는 소속, 뒤의 with 는 '~을 지닌'이라는 뜻으로 서로 다르다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|19.1",
+  "en": "A former deputy news editor at the magazine Science News, she holds a master’s in environmental science and management from UC Santa Barbara’s Bren School, where she specialized in water resources management and science communication.",
+  "s": "she",
+  "v": "holds",
+  "chunks": [
+   {"en": "A former deputy news editor at the magazine Science News,", "ko": "잡지 사이언스 뉴스의 전 부편집장이었던", "r": "동격(뒤에 나오는 she 설명)"},
+   {"en": "she holds a master’s", "ko": "그는 석사 학위를 갖고 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in environmental science and management", "ko": "환경과학·환경경영 분야의", "r": "전치사구(학위 분야)"},
+   {"en": "from UC Santa Barbara’s Bren School,", "ko": "UC 샌타바버라 브렌 스쿨에서 받은", "r": "전치사구(학위를 준 곳)"},
+   {"en": "where she specialized in water resources management and science communication.", "ko": "그곳에서 그는 수자원 관리와 과학 소통을 전공했다", "r": "관계절(앞 학교 설명)"}
+  ],
+  "ko": "잡지 <사이언스 뉴스>의 전 부편집장이었던 그는 UC 샌타바버라의 브렌 스쿨에서 환경과학·환경경영 석사 학위를 받았고, 그곳에서 수자원 관리와 과학 소통을 전공했다.",
+  "why": "맨 앞의 A former deputy news editor… 는 주어가 아니라 뒤에 나오는 she 를 미리 설명하는 동격 구다. a master’s 는 a master’s degree(석사 학위)에서 degree 가 생략된 말이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|20.0",
+  "en": "In summer 2026, a large iceberg drifted more than 1,000 kilometers south from the northeastern…",
+  "s": "a large iceberg",
+  "v": "drifted",
+  "chunks": [
+   {"en": "In summer 2026,", "ko": "2026년 여름에", "r": "시간"},
+   {"en": "a large iceberg drifted", "ko": "큰 빙산 하나가 떠내려갔다", "r": "주어 + 동사"},
+   {"en": "more than 1,000 kilometers south", "ko": "1,000km 넘게 남쪽으로", "r": "거리 + 방향"},
+   {"en": "from the northeastern…", "ko": "북동쪽 ~에서부터", "r": "전치사구(출발점 · 잘림)"}
+  ],
+  "ko": "2026년 여름, 큰 빙산 하나가 북동쪽 (어딘가)에서 남쪽으로 1,000km 넘게 떠내려갔다.",
+  "why": "본문이 아니라 다른 기사의 미리보기 토막이라 맨 끝이 … 로 잘려 있다. south 는 명사가 아니라 '남쪽으로'라는 방향을 나타내는 부사이고, more than 1,000 kilometers 가 그 거리를 말한다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|21.0",
+  "en": "Article 11 hours ago 5 min read Human-Related Microbes May Survive Moon’s South Pole, NASA Finds Article 21 hours ago 3 min read Elephant Butte Reservoir Runs Low Drought in the Rio Grande basin contributed to New Mexico’s largest reservoir dwindling to its…",
+  "s": "Drought in the Rio Grande basin",
+  "v": "contributed",
+  "chunks": [
+   {"en": "Article 11 hours ago 5 min read", "ko": "기사 · 11시간 전 · 읽는 데 5분", "r": "목록 표시(문장이 아님)"},
+   {"en": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds", "ko": "\"사람에게서 온 미생물이 달 남극에서 살아남을 수 있다\"— NASA 확인", "r": "다른 기사 제목"},
+   {"en": "Article 21 hours ago 3 min read", "ko": "기사 · 21시간 전 · 읽는 데 3분", "r": "목록 표시"},
+   {"en": "Elephant Butte Reservoir Runs Low", "ko": "\"엘리펀트 뷰트 저수지 물이 줄어든다\"", "r": "또 다른 기사 제목"},
+   {"en": "Drought in the Rio Grande basin contributed to", "ko": "리오그란데 분지의 가뭄이 ~에 한몫했다", "r": "주어 + 동사"},
+   {"en": "New Mexico’s largest reservoir dwindling to its…", "ko": "뉴멕시코주 최대 저수지가 ~까지 쪼그라드는 일에", "r": "동명사구(줄어드는 일) · 잘림"}
+  ],
+  "ko": "(다른 기사 목록) 기사 · 11시간 전 · 5분 분량 — \"사람에게서 온 미생물이 달 남극에서 살아남을 수 있다고 NASA가 밝혀\". 기사 · 21시간 전 · 3분 분량 — \"엘리펀트 뷰트 저수지 물이 줄어든다\": 리오그란데 분지의 가뭄이 뉴멕시코주 최대 저수지가 쪼그라드는 데 한몫했다…",
+  "why": "본문이 아니라 다른 기사 목록이 통째로 한 문장처럼 붙어 들어온 것이라, 제목과 요약이 뒤섞여 있다. 진짜 문장 구실을 하는 부분은 Drought in the Rio Grande basin contributed to… 하나뿐이고, contribute to 뒤에는 -ing 형이 온다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|22.0",
+  "en": "Article 1 day ago Keep Exploring Discover More Topics From NASA Earth Action Accelerating the use of Earth observation data for decision-making.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Article 1 day ago", "ko": "기사 · 하루 전", "r": "목록 표시(문장이 아님)"},
+   {"en": "Keep Exploring Discover More Topics From NASA", "ko": "\"계속 둘러보기 — NASA의 다른 주제 더 보기\"", "r": "화면 단추 글자"},
+   {"en": "Earth Action", "ko": "지구 행동(Earth Action)", "r": "프로그램 이름"},
+   {"en": "Accelerating the use of Earth observation data", "ko": "지구 관측 자료의 활용을 앞당기는", "r": "현재분사구(그 프로그램 설명)"},
+   {"en": "for decision-making.", "ko": "의사결정을 위한", "r": "목적"}
+  ],
+  "ko": "(화면 안내) 기사 · 하루 전. 계속 둘러보기 — NASA의 다른 주제 더 보기. 지구 행동(Earth Action): 의사결정에 지구 관측 자료를 쓰는 일을 앞당긴다.",
+  "why": "기사 본문이 아니라 화면 단추와 프로그램 소개 글자가 한 문장처럼 이어 붙은 것이라, 주어도 동사도 없다. Accelerating… 은 동사가 아니라 앞의 Earth Action 이 무엇을 하는 프로그램인지 설명하는 -ing 구다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|23.0",
+  "en": "Water drives life, economies, and security — and NASA tracks its constant motion as it shifts between sea, land, and…",
+  "s": "Water",
+  "v": "drives",
+  "chunks": [
+   {"en": "Water drives life, economies, and security", "ko": "물은 생명과 경제와 안보를 움직인다", "r": "주어 + 동사 + 목적어"},
+   {"en": "— and NASA tracks its constant motion", "ko": "그리고 NASA는 그 끊임없는 움직임을 좇는다", "r": "대등절"},
+   {"en": "as it shifts between sea, land, and…", "ko": "물이 바다와 육지와 ~ 사이를 오가는 동안", "r": "부사절(~하는 동안) · 잘림"}
+  ],
+  "ko": "물은 생명과 경제와 안보를 움직인다. 그리고 NASA는 물이 바다와 육지와 (하늘) 사이를 오가는 그 끊임없는 움직임을 좇는다.",
+  "why": "본문이 아니라 다른 꼭지의 소개 토막이라 끝이 … 로 잘려 있다. its 와 it 은 둘 다 앞의 Water 를 가리키고, 여기서 as 는 '~로서'가 아니라 '~하는 동안'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "d3526372|24.0",
+  "en": "NASA Earth Science helps Americans respond to challenges and societal needs — such as wildland fires, hurricanes, and water supplies…",
+  "s": "NASA Earth Science",
+  "v": "helps",
+  "chunks": [
+   {"en": "NASA Earth Science helps Americans respond", "ko": "NASA 지구과학은 미국인들이 대응하도록 돕는다", "r": "주어 + 동사 + 목적어 + 원형부정사"},
+   {"en": "to challenges and societal needs", "ko": "여러 어려움과 사회적 필요에", "r": "전치사구(대응 대상)"},
+   {"en": "— such as wildland fires, hurricanes, and water supplies…", "ko": "산불, 허리케인, 물 공급 같은", "r": "예시 · 잘림"}
+  ],
+  "ko": "NASA 지구과학은 미국인들이 산불, 허리케인, 물 공급 같은 어려움과 사회적 필요에 대응할 수 있도록 돕는다.",
+  "why": "help A 동사원형(A가 ~하도록 돕다) 구조라 respond 앞에 to 가 없다. 대응하는 쪽은 NASA가 아니라 Americans 이고, respond to 의 to 는 뒤의 challenges 에 걸린다.",
+  "st": []
+ }
+]

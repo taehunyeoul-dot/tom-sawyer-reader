@@ -1,0 +1,95 @@
+[
+ {
+  "id": "cc24d825|0.0",
+  "en": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida.",
+  "s": "NASA’s Ames Research Center",
+  "v": "invites",
+  "chunks": [
+   {"en": "NASA’s Ames Research Center", "ko": "NASA의 에임스 연구센터가", "r": "주어(기관 이름)"},
+   {"en": "in California’s Silicon Valley", "ko": "캘리포니아주 실리콘밸리에 있는", "r": "전치사구(앞 기관의 소재지)"},
+   {"en": "invites media to learn more", "ko": "언론을 초청해 더 알아보게 한다", "r": "동사 + 목적어 + 목적어가 할 일"},
+   {"en": "about NASA’s Nancy Grace Roman Space Telescope,", "ko": "NASA의 낸시 그레이스 로먼 우주망원경에 대해", "r": "전치사구(무엇에 대해)"},
+   {"en": "scheduled to launch Sunday, Aug. 30, 2026,", "ko": "2026년 8월 30일 일요일에 발사될 예정인", "r": "과거분사구(앞 망원경 설명)"},
+   {"en": "from NASA’s Kennedy Space Center in Florida.", "ko": "플로리다에 있는 NASA 케네디우주센터에서", "r": "전치사구(발사 장소)"}
+  ],
+  "ko": "캘리포니아주 실리콘밸리에 있는 NASA 에임스 연구센터(Ames Research Center)가 언론을 초청해, NASA의 낸시 그레이스 로먼 우주망원경(Nancy Grace Roman Space Telescope)에 대해 더 알아볼 자리를 마련한다. 이 망원경은 2026년 8월 30일 일요일에 플로리다의 NASA 케네디우주센터에서 발사될 예정이다.",
+  "why": "주어(에임스 연구센터)와 동사 invites 사이에 소재지를 밝히는 전치사구가 끼어들어 동사가 멀리 떨어진다. 뒤쪽 scheduled to launch ~ 는 또 하나의 동사가 아니라 바로 앞의 로먼 우주망원경을 꾸미는 말(과거분사)이고, 맨 끝 from ~ 은 발사가 이루어지는 곳이지 초청하는 곳이 아니다.",
+  "st": []
+ },
+ {
+  "id": "cc24d825|0.1",
+  "en": "The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures.",
+  "s": "The Roman telescope",
+  "v": "will provide",
+  "chunks": [
+   {"en": "The Roman telescope will provide", "ko": "로먼 망원경은 ~을 내놓게 된다", "r": "주어 + 동사(미래)"},
+   {"en": "a wide, detailed view of the universe,", "ko": "우주를 넓게, 그러면서도 세밀하게 보여 주는 모습을", "r": "목적어(긴 명사구)"},
+   {"en": "helping scientists study dark energy,", "ko": "그래서 과학자들이 암흑에너지를 연구하도록 돕는다", "r": "분사구문(그 결과)"},
+   {"en": "exoplanets, and cosmic structures.", "ko": "외계행성과 우주의 대규모 구조도 함께", "r": "연구 대상 나열"}
+  ],
+  "ko": "로먼 망원경은 우주를 넓게, 그러면서도 세밀하게 보여 주는 모습을 제공해, 과학자들이 암흑에너지와 외계행성, 우주의 대규모 구조를 연구하는 데 도움을 주게 된다.",
+  "why": "helping 은 새로운 절의 동사가 아니라 앞 내용 전체에 이어 붙는 분사구문(~해서 …하게 된다)이다. help + 목적어 + 동사원형 형태라 study 앞에 to 가 없는데, 연구하는 쪽은 망원경이 아니라 scientists(과학자들)다.",
+  "st": []
+ },
+ {
+  "id": "cc24d825|0.2",
+  "en": "Roman also will test advanced technology designed to directly image planets around nearby stars — a key step in NASA’s search for life beyond Earth.",
+  "s": "Roman",
+  "v": "will test",
+  "chunks": [
+   {"en": "Roman also will test advanced technology", "ko": "로먼(망원경)은 또한 앞선 기술을 시험한다", "r": "주어 + 동사(미래) + 목적어"},
+   {"en": "designed to directly image planets", "ko": "행성을 직접 영상으로 담도록 설계된", "r": "과거분사구(앞 기술 설명)"},
+   {"en": "around nearby stars", "ko": "가까운 별들 주위를 도는", "r": "전치사구(어느 행성인가)"},
+   {"en": "— a key step in NASA’s search for life beyond Earth.", "ko": "— 이는 지구 밖 생명을 찾는 NASA의 탐색에서 핵심적인 한 걸음이다", "r": "동격(앞 내용 전체를 다시 말함)"}
+  ],
+  "ko": "로먼 망원경은 또한, 가까운 별들 주위를 도는 행성을 직접 영상으로 담을 수 있도록 설계된 앞선 기술도 시험한다. 이는 지구 너머의 생명을 찾는 NASA의 탐색에서 핵심적인 한 걸음이다.",
+  "why": "image 는 여기서 명사 '이미지'가 아니라 '영상으로 담다, 직접 촬영하다'라는 동사다. designed to ~ 는 또 하나의 동사가 아니라 앞의 advanced technology 를 꾸미는 말이고, 대시(—) 뒤의 a key step 은 동사가 없는 동격 표현으로 앞 내용 전체를 '핵심적인 한 걸음'이라고 바꿔 말한 것이다.",
+  "st": []
+ },
+ {
+  "id": "cc24d825|1.0",
+  "en": "Ames subject matter experts will be available for virtual interviews to discuss Roman’s goals and the center’s contributions to the mission on Wednesday, Aug. 26, 2026, 10:00 a.m. – 1:00 p.m. PDT .",
+  "s": "Ames subject matter experts",
+  "v": "will be",
+  "chunks": [
+   {"en": "Ames subject matter experts will be available", "ko": "에임스의 해당 분야 전문가들이 응할 수 있다", "r": "주어 + 동사 + 보어"},
+   {"en": "for virtual interviews", "ko": "화상 인터뷰에", "r": "전치사구(무엇에 응하나)"},
+   {"en": "to discuss Roman’s goals", "ko": "로먼 망원경의 목표를 이야기하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "and the center’s contributions to the mission", "ko": "그리고 그 센터가 이 임무에 기여한 부분을", "r": "이야기할 내용 나열"},
+   {"en": "on Wednesday, Aug. 26, 2026,", "ko": "2026년 8월 26일 수요일에", "r": "시간(날짜)"},
+   {"en": "10:00 a.m. – 1:00 p.m. PDT .", "ko": "오전 10시부터 오후 1시까지, 태평양 하계 시간 기준", "r": "시간(시각)"}
+  ],
+  "ko": "에임스의 해당 분야 전문가들이 2026년 8월 26일 수요일 오전 10시부터 오후 1시(태평양 하계 시간, PDT)까지 화상 인터뷰에 응할 수 있다. 로먼 망원경의 목표와, 에임스 연구센터가 이 임무에 기여한 부분을 이야기하기 위해서다.",
+  "why": "subject matter experts 는 '그 분야를 잘 아는 전문가'라는 굳어진 표현이고, will be available 은 그저 '있을 것이다'가 아니라 '(인터뷰에) 응할 수 있다'는 뜻이다. to discuss 의 대상이 A and B 두 덩어리로 이어지고, 맨 끝의 날짜·시각은 인터뷰가 열리는 때이지 발사 날짜가 아니다.",
+  "st": []
+ },
+ {
+  "id": "cc24d825|2.1",
+  "en": "Media can also request agency interviews about the Roman mission outside of this window by filling out this online form .",
+  "s": "Media",
+  "v": "can also request",
+  "chunks": [
+   {"en": "Media can also request agency interviews", "ko": "언론은 기관(NASA) 차원의 인터뷰도 요청할 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "about the Roman mission", "ko": "로먼 임무에 관한", "r": "전치사구(무엇에 관한 인터뷰인가)"},
+   {"en": "outside of this window", "ko": "이 시간대 밖에도", "r": "전치사구(시간 범위 밖)"},
+   {"en": "by filling out this online form .", "ko": "이 온라인 양식을 작성하는 방법으로", "r": "수단(~함으로써)"}
+  ],
+  "ko": "언론은 이 시간대 밖에도 로먼 임무에 관해 NASA 차원의 인터뷰를 요청할 수 있다. 이 온라인 양식을 작성해 신청하면 된다.",
+  "why": "window 는 '창문'이 아니라 '정해진 시간대'라는 뜻이고, this window 는 앞 문단의 8월 26일 오전 10시~오후 1시를 가리킨다. agency 는 '대행사'가 아니라 이 기사에서 NASA를 가리키는 말이며, by + -ing 는 '~함으로써'라는 방법이지 시점이 아니다.",
+  "st": []
+ },
+ {
+  "id": "cc24d825|5.1",
+  "en": "To unsubscribe, email the same address with “unsubscribe” in the subject line.",
+  "s": "",
+  "v": "email",
+  "chunks": [
+   {"en": "To unsubscribe,", "ko": "구독을 끊으려면", "r": "목적(~하려면)"},
+   {"en": "email the same address", "ko": "같은 주소로 메일을 보내라", "r": "동사(명령문) + 목적어"},
+   {"en": "with “unsubscribe” in the subject line.", "ko": "제목 줄에 “unsubscribe”라고 적은 채로", "r": "전치사구(어떤 상태로 보내나)"}
+  ],
+  "ko": "구독을 끊으려면, 제목 줄(subject line)에 “unsubscribe”라고 적어서 같은 주소로 이메일을 보내면 된다.",
+  "why": "주어가 없는 명령문이라 '누가 보내는가'가 겉으로 드러나지 않는다. email 은 여기서 명사 '이메일'이 아니라 '~로 메일을 보내다'라는 동사이고, 뒤에 to 없이 주소가 바로 온다. with A in B 는 'B에 A를 넣은 채로'라는 뜻이다.",
+  "st": []
+ }
+]

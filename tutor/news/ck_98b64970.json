@@ -1,0 +1,193 @@
+{
+ "98b64970|0.0": [
+  {"t":"mod","q":"<b>including an eight-month science expedition aboard the International Space Station</b> 는 무엇에 딸린 설명입니까?","a":"앞의 nearly a decade of service to NASA — 10년 가까운 NASA 복무 기간 안에 그 8개월 탐사가 들어 있다는 뜻입니다","tip":"including 을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 맨 끝의 is 하나뿐입니다."},
+  {"t":"time","q":"<b>After nearly a decade of service to NASA</b> — 10년 가까운 복무는 이미 지나온 것입니까, 앞으로 채울 것입니까?","a":"이미 지나온 것입니다 — 목요일이 그 마지막 날입니다","tip":"After 로 시작하는 기간은 이미 지나온 시간입니다. '앞으로 10년을 채운다'로 읽으면 정반대가 됩니다."},
+  {"t":"pron","q":"<b>the agency</b> 는 어디를 가리킵니까?","a":"NASA입니다","tip":"앞에 나온 NASA를 다시 가리키는 말입니다. 미 해군이나 국제우주정거장으로 잡으면 안 됩니다."},
+  {"t":"who","q":"<b>is Thursday</b> — 목요일에 무슨 일이 있습니까?","a":"조니 킴이 NASA에서 근무하는 마지막 날이 목요일입니다","tip":"is Thursday 는 '목요일이다'입니다. 목요일에 무언가를 새로 시작한다는 말이 아닙니다."}
+ ],
+ "98b64970|0.1": [
+  {"t":"time","q":"<b>will continue serving</b> — 해군 복무는 이제 새로 시작하는 것입니까, 하던 것을 이어 가는 것입니까?","a":"하던 것을 이어 갑니다 — continue 는 '계속한다'는 뜻입니다","tip":"will 만 보고 '앞으로 해군에 들어간다'로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>He</b> 는 누구입니까?","a":"우주비행사 조니 킴입니다","tip":"앞 문장의 주어는 '킴의 마지막 날'이었지만, He 가 가리키는 것은 킴 본인입니다."},
+  {"t":"who","q":"<b>as lieutenant commander</b> — 소령인 사람은 누구입니까?","a":"He, 곧 조니 킴입니다","tip":"as 는 여기서 '~로서(자격·직책)'입니다. 누구를 소령으로 삼는다는 말이 아닙니다."}
+ ],
+ "98b64970|0.2": [
+  {"t":"mod","q":"<b>Navy</b> 는 앞 토막의 어느 말과 이어집니까?","a":"앞 토막 끝의 in the U.S. 입니다 — 이어 붙이면 in the U.S. Navy(미 해군에서)가 됩니다","tip":"약어 U.S. 의 마침표 때문에 잘린 자리입니다. 혼자 있는 Navy 를 새 문장의 주어로 읽으면 뜻이 서지 않습니다."},
+  {"t":"who","q":"<b>Navy</b> — 여기서 해군에 복무하는 사람은 누구입니까?","a":"조니 킴입니다","tip":"이 토막에는 주어도 동사도 없습니다. 주어는 앞 토막의 He 입니다."}
+ ],
+ "98b64970|1.0": [
+  {"t":"who","q":"<b>Kim launched to the space station</b> — 킴이 무엇을 발사했다는 뜻입니까?","a":"아닙니다 — 킴이 우주선에 실려 우주정거장으로 발사되어 올라갔다는 뜻입니다","tip":"launch 는 '~를 쏘아 올리다'로도 쓰이지만, 여기는 뒤에 목적어가 없고 to the space station 이 붙어 '(사람이) 발사되어 가다'가 됩니다."},
+  {"t":"mod","q":"<b>aboard the Soyuz MS‑27 spacecraft</b> 는 무엇을 말합니까?","a":"킴이 타고 간 우주선입니다","tip":"aboard 는 '~에 타고'입니다. 이것을 우주정거장의 이름으로 읽으면 안 됩니다 — 정거장은 the space station 쪽입니다."},
+  {"t":"mod","q":"<b>to conduct scientific research</b> 는 무엇을 나타냅니까?","a":"발사되어 올라간 목적입니다 — 연구를 하기 위해 갔다는 뜻","tip":"문장 중간의 to 부정사는 먼저 '~하기 위해'로 넣어 보면 됩니다."},
+  {"t":"time","q":"<b>during Expeditions 72/73</b> — 이 비행은 이미 한 일입니까, 앞으로 할 일입니까?","a":"이미 한 일입니다 — 2025년 4월에 발사되었습니다","tip":"launched 가 과거형입니다. 뒤에 나오는 목적(to conduct ~)에 끌려 앞으로 할 일로 읽기 쉽습니다."}
+ ],
+ "98b64970|1.1": [
+  {"t":"who","q":"<b>he orbited Earth 3,920 times, traveled nearly 104 million miles, and contributed</b> — 세 동작의 주체는 각각 누구입니까?","a":"셋 다 he(조니 킴)입니다","tip":"동사가 셋인데 주어는 맨 앞의 he 하나뿐입니다. traveled 앞에 다른 주어가 있다고 착각하기 쉽습니다."},
+  {"t":"mod","q":"<b>spanning technology development, Earth science, biology, and human research</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a broad range of scientific investigations — 그 조사들이 걸쳐 있는 분야입니다","tip":"spanning 을 he 의 네 번째 동작으로 읽으면 틀립니다. -ing 는 여기서 앞 명사를 꾸미는 말입니다."},
+  {"t":"mod","q":"<b>critical for future exploration</b> 는 앞의 무엇을 꾸밉니까?","a":"바로 앞의 human research(인체 연구)입니다","tip":"나열된 네 분야 전부를 꾸민다고 읽기 쉽지만, 붙어 있는 것은 마지막 human research 입니다."},
+  {"t":"time","q":"<b>orbited Earth 3,920 times</b> — 이 숫자는 앞으로 돌 횟수입니까, 이미 돈 횟수입니까?","a":"이미 돈 횟수입니다","tip":"과거형이고 During the mission 은 이미 끝난 임무를 가리킵니다."}
+ ],
+ "98b64970|2.0": [
+  {"t":"mod","q":"<b>a person who continually pushed the boundaries of exploration</b> 는 누구를 설명하는 말입니까?","a":"앞의 Jonny Kim 입니다 — 같은 사람을 다시 풀어 말한 동격입니다","tip":"바로 앞의 NASA 에 붙여 'NASA 안의 어떤 다른 사람'으로 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>while inspiring countless others</b> — 영감을 준 쪽과 받은 쪽은 각각 누구입니까?","a":"준 쪽은 조니 킴, 받은 쪽은 수많은 다른 사람들입니다","tip":"-ing 의 주체는 앞의 a person, 곧 킴입니다."},
+  {"t":"who","q":"<b>said NASA Administrator Jared Isaacman</b> — 따옴표 안의 말을 한 사람은 누구입니까?","a":"NASA 국장 제러드 아이작먼입니다 — 킴 본인이 아닙니다","tip":"동사 said 가 주어보다 앞에 온 뒤집힌 어순입니다. 말한 사람은 문장 맨 끝에 나옵니다."},
+  {"t":"time","q":"<b>continually pushed</b> 와 <b>represents</b> — 어느 쪽이 지나간 일입니까?","a":"pushed(한계를 밀어붙인 것)가 지나간 일이고, represents 는 지금의 평가입니다","tip":"한 문장 안에서 시제가 과거와 현재로 바뀝니다."}
+ ],
+ "98b64970|2.1": [
+  {"t":"who","q":"<b>advanced critical science</b> — 과학을 진전시킨 것은 무엇입니까?","a":"킴이 국제우주정거장에서 남긴 기여(His contributions)입니다","tip":"advanced 를 '앞선'이라는 꾸밈말로 읽으면 문장에서 동사가 사라집니다. 여기서는 '진전시켰다'는 동사입니다."},
+  {"t":"mod","q":"<b>that will shape NASA’s future missions</b> 는 무엇을 설명합니까?","a":"바로 앞의 critical science(중요한 과학)입니다","tip":"that 을 the International Space Station 에 붙이면 안 됩니다. 관계절은 바로 앞 명사를 설명합니다."},
+  {"t":"time","q":"<b>advanced</b> 와 <b>will shape</b> — 어느 쪽이 아직 오지 않은 일입니까?","a":"will shape 쪽입니다 — 과학을 진전시킨 것은 이미 한 일이고, 앞으로의 임무를 좌우하는 것은 앞으로의 일입니다","tip":"한 문장 안에 과거와 미래가 함께 들어 있습니다."},
+  {"t":"mod","q":"<b>aboard the International Space Station</b> 는 무엇을 꾸미는 말입니까?","a":"앞의 His contributions — 그 기여가 이루어진 곳입니다","tip":"동사 advanced 에 붙여 읽기 쉽지만, 붙는 자리는 바로 앞의 명사입니다."}
+ ],
+ "98b64970|2.2": [
+  {"t":"who","q":"<b>we wish him success</b> — 비는 쪽과 성공할 쪽은 각각 누구입니까?","a":"비는 쪽은 NASA(말하는 아이작먼 쪽), 성공할 쪽은 킴입니다","tip":"wish 뒤에 사람이 먼저 오면 '그에게 ~를 빈다'입니다. him 을 비는 주체로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>to our nation and to the pursuit of knowledge</b> 는 무엇에 딸린 말입니까?","a":"앞의 his dedication — 헌신의 대상 둘입니다","tip":"are grateful to ~(~에게 감사하다)로 붙여 읽기 쉽지만, 여기 to 두 개는 dedication 에 붙습니다."},
+  {"t":"pron","q":"<b>We</b> 는 누구를 가리킵니까?","a":"NASA 쪽, 곧 말하고 있는 아이작먼 국장과 NASA 사람들입니다","tip":"따옴표 안의 말이라 We 는 기사를 쓴 기자나 독자가 아닙니다."},
+  {"t":"time","q":"<b>as he continues his service</b> — 그의 군 복무는 끝났습니까?","a":"끝나지 않았습니다 — 앞으로도 이어 갑니다","tip":"as 는 여기서 '~로서'가 아니라 '~해 가는 가운데'입니다."}
+ ],
+ "98b64970|2.3": [
+  {"t":"mod","q":"<b>Navy</b> 는 앞 토막의 어느 말과 이어집니까?","a":"앞 토막 끝의 in the U.S. 입니다 — 이어 붙이면 in the U.S. Navy(미 해군에서)가 됩니다","tip":"혼자 놓인 Navy 를 새 문장으로 읽으면 뜻이 서지 않습니다."},
+  {"t":"who","q":"<b>Navy.”</b> 의 닫는 따옴표는 누구의 말이 끝났다는 표시입니까?","a":"NASA 국장 제러드 아이작먼의 말입니다","tip":"인용은 '“Jonny Kim represents…' 에서 시작해 여기서 끝납니다. 킴 본인의 말이 아닙니다."}
+ ],
+ "98b64970|3.0": [
+  {"t":"who","q":"<b>Serving as the U.S.</b> — 이 일을 하는 사람은 누구이며, 이 토막 안에 나옵니까?","a":"조니 킴입니다. 이 토막 안에는 나오지 않고, 다음 토막의 주어 Kim 이 그 사람입니다","tip":"-ing 로 시작하는 분사구문에는 주어가 없습니다. 주어는 뒤따르는 주절에서 찾습니다."},
+  {"t":"mod","q":"<b>the U.S.</b> 는 여기서 무엇의 일부입니까?","a":"다음 토막과 붙어 the U.S. Operating Segment lead(정거장의 미국 구역 책임자)라는 하나의 직책 이름이 됩니다","tip":"'미국에서 복무하며'로 읽으면 틀립니다. U.S. 는 뒤의 Operating Segment 를 꾸미는 말입니다."}
+ ],
+ "98b64970|3.1": [
+  {"t":"who","q":"<b>Kim oversaw operations</b> — 총괄한 쪽과 총괄된 것은 각각 무엇입니까?","a":"총괄한 쪽은 킴, 총괄된 것은 정거장의 운용(operations)입니다","tip":"oversaw 는 oversee(총괄·감독하다)의 과거형입니다. overlook(못 보고 지나치다)과 헷갈리면 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>across the station’s international modules</b> 는 무엇의 범위입니까?","a":"킴이 총괄한 operations(운용)의 범위입니다 — 정거장의 여러 나라 모듈 전반","tip":"across 를 '가로질러 이동했다'로 읽으면 안 됩니다. 여기서는 '~ 전반에 걸쳐'입니다."},
+  {"t":"pron","q":"<b>the station’s international modules</b> 의 the station 은 어디입니까?","a":"국제우주정거장입니다","tip":"the 가 붙은 것은 앞에서 이미 나온 그 정거장을 다시 가리킨다는 신호입니다."},
+  {"t":"time","q":"<b>the second half of Expedition 73</b> — 킴이 이 자리를 맡은 것은 원정 내내입니까, 후반기입니까?","a":"후반기입니다","tip":"second half 를 놓치면 원정 전 기간의 책임자였던 것으로 읽게 됩니다."}
+ ],
+ "98b64970|3.2": [
+  {"t":"who","q":"<b>every available docking port was occupied</b> — 포트를 채운 쪽은 무엇이며 문장에 나옵니까?","a":"채워진(점유된) 것이 도킹 포트입니다. 채운 쪽(도킹한 우주선들)은 이 문장에 나오지 않습니다(수동태)","tip":"주어인 docking port 를 '점유한 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"time","q":"<b>for the first time in 25 years</b> — 이 일은 25년 동안 몇 번 있었습니까?","a":"이번이 25년 만의 처음입니다 — 그동안은 한 번도 없었습니다","tip":"'25년 동안 계속'으로 읽으면 정반대가 됩니다. for the first time in ~ 은 '~ 만에 처음으로'입니다."},
+  {"t":"mod","q":"<b>every available docking port</b> — 채워진 것은 포트 전부입니까, 하나입니까?","a":"쓸 수 있는 포트 전부입니다","tip":"every 와 available 을 함께 읽어야 합니다. '포트 하나가 채워졌다'가 아닙니다."}
+ ],
+ "98b64970|3.3": [
+  {"t":"who","q":"<b>the first capture of Northrop Grumman’s new Cygnus XL spacecraft</b> — 붙잡은 쪽과 붙잡힌 쪽은 각각 무엇입니까?","a":"붙잡은 쪽은 킴이 조종한 캐나담2 로봇팔, 붙잡힌 쪽은 시그너스 XL 우주선입니다","tip":"of 뒤에 오는 것이 붙잡힌 쪽입니다. 시그너스가 무언가를 붙잡았다고 읽으면 뒤집힙니다."},
+  {"t":"who","q":"<b>securing 11,000 pounds of supplies</b> — 보급품을 확보한 쪽은 누구입니까?","a":"킴(He)입니다 — 로봇팔로 화물선을 붙잡아 확보했습니다","tip":"-ing 분사구문의 주체는 문장의 주어입니다. 노스럽 그러먼이 확보했다고 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>for the station</b> 는 무엇에 걸리는 말입니까?","a":"앞의 supplies — 정거장에 쓸 보급품이라는 뜻입니다","tip":"'정거장을 위해 붙잡았다'처럼 동사에 붙이기 쉽지만, 붙는 자리는 바로 앞 명사입니다."},
+  {"t":"time","q":"<b>the first capture</b> — 이런 포획이 그 전에도 있었습니까?","a":"없었습니다 — 시그너스 XL을 붙잡은 것은 이번이 처음입니다","tip":"first 가 '킴이 처음 해 본 일'이 아니라 '이 우주선을 붙잡은 첫 사례'라는 뜻입니다."}
+ ],
+ "98b64970|3.4": [
+  {"t":"who","q":"<b>Kim and his Roscosmos crewmates landed</b> — 착륙한 사람은 킴 한 명입니까?","a":"아닙니다 — 킴과 로스코스모스 동료 승무원들이 함께 착륙했습니다","tip":"주어가 and 로 이어진 둘입니다."},
+  {"t":"mod","q":"<b>his Roscosmos crewmates</b> 는 누구를 말합니까?","a":"킴과 함께 탄, 러시아 우주국(Roscosmos) 소속 동료 승무원들입니다","tip":"Roscosmos 는 착륙한 장소가 아니라 동료들의 소속입니다."},
+  {"t":"time","q":"<b>in December 2025</b> — 착륙은 발사보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 2025년 4월에 발사되어 2025년 12월에 돌아왔습니다","tip":"기사에 날짜가 여럿 나옵니다. 앞뒤 순서를 짚어 두어야 합니다."}
+ ],
+ "98b64970|4.0": [
+  {"t":"who","q":"<b>his immeasurable impact will be felt</b> — 느껴지는 것과 느끼는 쪽은 각각 무엇입니까?","a":"느껴지는 것은 킴이 남긴 영향이고, 느끼는 쪽(앞으로의 세대들)은 주어로 나오지 않습니다(수동태)","tip":"impact 를 '느끼는 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"neg","q":"<b>his immeasurable impact</b> — immeasurable 은 영향이 없다는 뜻입니까?","a":"아닙니다 — 너무 커서 헤아릴 수 없다는 뜻입니다","tip":"im- 이 붙었다고 '없다'로 읽으면 칭찬이 정반대의 말이 됩니다."},
+  {"t":"who","q":"<b>said Vanessa Wyche, director of NASA’s Johnson Space Center in Houston</b> — 여기 나오는 사람은 몇 명입니까?","a":"한 명입니다 — 와이치가 곧 존슨우주센터장입니다(동격)","tip":"쉼표 뒤의 직책을 다른 사람으로 읽으면 두 명이 되어 버립니다."},
+  {"t":"time","q":"<b>has been</b> 와 <b>will be felt</b> — 어느 쪽이 앞으로의 일입니까?","a":"will be felt 쪽입니다 — 영향은 앞으로 여러 세대에 걸쳐 느껴질 것이라는 뜻입니다","tip":"한 문장에 현재완료와 미래 수동태가 함께 있습니다."}
+ ],
+ "98b64970|4.1": [
+  {"t":"mod","q":"<b>From advancing groundbreaking science to inspiring the next generation</b> — 여기서 to 는 '~하기 위해'입니까?","a":"아닙니다 — 앞의 From 과 짝을 이루는 'A에서 B까지'의 to 입니다","tip":"to 뒤가 동사원형이 아니라 -ing 인 것이 신호입니다."},
+  {"t":"who","q":"<b>inspiring the next generation</b> — 영감을 준 쪽과 받은 쪽은 각각 누구입니까?","a":"준 쪽은 조니 킴, 받은 쪽은 다음 세대입니다","tip":"-ing 의 주체는 문장의 주어인 Jonny 입니다."},
+  {"t":"time","q":"<b>has been</b> — 이것은 지금까지 죽 이어져 온 상태입니까?","a":"그렇습니다 — 지금에 이르는 기간 전체를 말합니다(현재완료)","tip":"was 였다면 지나간 한때가 되지만, has been 은 지금까지 이어진 시간 전체입니다."},
+  {"t":"pron","q":"<b>our nation</b> 은 어디를 가리킵니까?","a":"미국입니다 — 말하는 사람(존슨우주센터장 와이치)이 속한 나라","tip":"따옴표 안의 our 는 읽는 사람이 아니라 말하는 사람 쪽입니다."}
+ ],
+ "98b64970|4.2": [
+  {"t":"mod","q":"<b>His exceptional talent, determination, and grit</b> — 형용사 exceptional 이 문법적으로 직접 붙어 있는 명사는 무엇입니까?","a":"바로 뒤의 talent(재능)입니다","tip":"나열된 셋을 한꺼번에 꾸민다고 읽기 쉽지만, 직접 붙는 것은 바로 뒤 명사 하나입니다. 소유격 His 는 셋 모두에 걸립니다."},
+  {"t":"who","q":"<b>will leave a lasting legacy at NASA</b> — 유산을 남기는 쪽은 무엇입니까?","a":"킴의 재능·결단력·투지 세 가지입니다(사람 이름이 주어가 아닙니다)","tip":"주어가 셋이나 나열되어 있어 사람을 주어로 착각하기 쉽습니다."},
+  {"t":"time","q":"<b>will leave</b> — 유산은 이미 남긴 것입니까, 앞으로 남을 것입니까?","a":"앞으로 남을 것입니다","tip":"will 을 놓치면 이미 끝난 일로 읽게 됩니다."}
+ ],
+ "98b64970|5.0": [
+  {"t":"who","q":"<b>Kim was selected as a NASA astronaut</b> — 선발한 쪽은 누구이며 문장에 나옵니까?","a":"선발된 사람은 킴이고, 선발한 쪽(NASA)은 이 문장에 행위자로 나오지 않습니다(수동태)","tip":"as a NASA astronaut 는 '뽑힌 자격'이지 '뽑은 쪽'이 아닙니다."},
+  {"t":"who","q":"<b>and completed two years of astronaut candidate training</b> — 훈련을 마친 쪽은 누구입니까?","a":"킴입니다","tip":"앞이 was selected(수동)여서 뒤도 당한 것으로 읽기 쉽지만, completed 는 능동이라 킴이 한 일입니다."},
+  {"t":"mod","q":"<b>which included instruction in space station systems</b>… — which 는 앞의 무엇을 받습니까?","a":"앞의 two years of astronaut candidate training(2년간의 우주비행사 후보 훈련)입니다","tip":"a NASA astronaut 나 2017 로 잡으면 안 됩니다. 이 관계절은 훈련의 내용을 풀어 줍니다."},
+  {"t":"time","q":"<b>in 2017</b> — 후보 훈련은 선발보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 2017년에 뽑힌 뒤 2년간 후보 훈련을 받았습니다","tip":"and 로 이어진 두 동작은 쓰인 순서대로 일어난 것으로 읽습니다."}
+ ],
+ "98b64970|6.0": [
+  {"t":"mod","q":"<b>a capsule communicator, or capcom,</b> — 이것은 서로 다른 두 자리입니까?","a":"아닙니다 — 같은 자리를 부르는 두 이름입니다(capcom 이 capsule communicator 의 줄임말)","tip":"여기서 or 은 '또는'이 아니라 '즉, 다시 말해'입니다. 쉼표로 둘러싸인 것이 그 신호입니다."},
+  {"t":"who","q":"<b>He later supported station operations</b> — 지원한 쪽과 지원받은 것은 각각 무엇입니까?","a":"지원한 쪽은 킴, 지원받은 것은 우주정거장의 운용입니다","tip":"이때 킴은 우주가 아니라 지상 관제센터에 있었습니다."},
+  {"t":"time","q":"<b>He later supported</b> — 여기 later 는 무엇보다 나중이라는 뜻입니까?","a":"바로 앞 문장에서 말한 일(2017년 선발과 2년간의 후보 훈련)보다 나중이라는 뜻입니다","tip":"기사를 읽는 지금보다 나중이라는 말이 아닙니다. 이 일은 이미 지나간 과거입니다."},
+  {"t":"mod","q":"<b>in NASA’s Mission Control Center at Johnson</b> 는 어디를 말합니까?","a":"존슨우주센터 안에 있는 NASA 미션관제센터입니다","tip":"at Johnson 은 사람 이름이 아니라 존슨우주센터(Johnson Space Center)를 줄여 부른 것입니다."}
+ ],
+ "98b64970|6.1": [
+  {"t":"who","q":"<b>leading the astronaut crew operations branch</b> — 그 부서를 이끈 사람은 누구입니까?","a":"킴입니다","tip":"-ing 의 주체는 문장의 주어인 Kim 입니다. 부서가 무언가를 이끈 것이 아닙니다."},
+  {"t":"mod","q":"<b>leading the astronaut crew operations branch</b> 와 <b>serving as increment lead</b> 는 무엇에 이어지는 말입니까?","a":"앞의 through 에 걸립니다 — 아르테미스 개발에 기여한 방법 세 가지를 나열한 것입니다","tip":"이 -ing 들을 문장의 동사로 읽으면 동사가 셋이 되어 버립니다. 이 문장의 동사는 contributed 하나뿐입니다."},
+  {"t":"mod","q":"<b>increment lead for Expedition 65</b> — 이것은 어느 원정의 자리입니까?","a":"제65차 원정입니다 — 킴이 직접 타고 올라간 제72·73차 원정과는 다른 원정입니다","tip":"한 기사 안에 번호가 다른 원정이 여럿 나옵니다."},
+  {"t":"who","q":"<b>Kim also contributed to Artemis program development</b> — 기여한 쪽과 기여받은 것은 각각 무엇입니까?","a":"기여한 쪽은 킴, 기여받은 것은 아르테미스 프로그램 개발입니다","tip":"contribute to ~ 는 '~에 기여하다'입니다. to 뒤가 받는 쪽입니다."}
+ ],
+ "98b64970|6.2": [
+  {"t":"who","q":"<b>His experiences</b>…<b>provided unique perspectives</b> — 남다른 시각을 가져다준 것은 무엇입니까?","a":"그의 경험(experiences)입니다 — 사람이 아니라 경험이 주어입니다","tip":"긴 주어를 건너뛰고 바로 앞의 aviator 를 주어로 잡기 쉽습니다. 동사 provided 앞까지가 통째로 주어입니다."},
+  {"t":"mod","q":"<b>as a Navy SEAL, physician, and naval aviator</b> 는 무엇을 설명합니까?","a":"앞의 His experiences — 어떤 자리에서 쌓은 경험인지 셋을 든 것입니다","tip":"provided 에 붙여 '~로서 제공했다'로 읽기 쉽지만, as 이하는 앞 명사에 붙습니다."},
+  {"t":"mod","q":"<b>in mission operations and crew support</b> 는 무엇의 범위입니까?","a":"그 남다른 시각(unique perspectives)이 도움이 된 분야입니다","tip":"경험을 쌓은 분야로 읽으면 안 됩니다. 경험의 자리는 앞의 as ~ 쪽에 이미 나왔습니다."}
+ ],
+ "98b64970|7.0": [
+  {"t":"who","q":"<b>said Scott Tingle, chief of the Astronaut Office at NASA Johnson</b> — 여기 나오는 사람은 몇 명입니까?","a":"한 명입니다 — 스콧 팅글이 곧 우주비행사실 실장입니다(동격)","tip":"쉼표 뒤의 직책을 다른 사람으로 읽으면 두 명이 됩니다."},
+  {"t":"who","q":"<b>Jonny approached every assignment</b> — 이 말을 하고 있는 사람은 누구입니까?","a":"스콧 팅글입니다 — 조니 킴 본인이 아닙니다","tip":"따옴표 안은 인용된 말이고, 말한 사람은 따옴표 뒤에 나옵니다."},
+  {"t":"mod","q":"<b>steadfast commitment to the mission</b> 의 to the mission 은 무엇에 붙습니까?","a":"바로 앞의 commitment — 임무에 대한 헌신이라는 뜻입니다","tip":"approached 에 붙여 '임무로 다가갔다'로 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>with humility, precision, and steadfast commitment</b> — 이 셋은 무엇을 설명합니까?","a":"킴이 임무를 대한 태도입니다","tip":"with 를 '~를 가지고(도구)'가 아니라 '~한 태도로'로 읽습니다."}
+ ],
+ "98b64970|7.1": [
+  {"t":"who","q":"<b>strengthened our team</b> — 팀을 더 강하게 만든 것은 무엇입니까?","a":"세 가지가 합쳐진 그의 역량(His combination of ~)입니다","tip":"동사 바로 앞의 engineering insight 를 주어로 잡기 쉽지만, 주어의 머리는 combination 하나입니다."},
+  {"t":"mod","q":"<b>His combination of medical training, operational experience, and engineering insight</b> — 이 셋은 서로 다른 세 주어입니까?","a":"아닙니다 — 셋이 합쳐진 하나(combination)가 주어입니다","tip":"of 뒤의 나열은 combination 의 내용물입니다."},
+  {"t":"who","q":"<b>and contributed to advancements</b> — 진전에 기여한 것은 무엇입니까?","a":"같은 주어, 곧 그의 합쳐진 역량입니다","tip":"and 뒤에 새 주어가 없으면 앞의 주어가 그대로 이어집니다."}
+ ],
+ "98b64970|8.0": [
+  {"t":"who","q":"<b>Born in Los Angeles</b> — 로스앤젤레스에서 태어난 사람은 누구입니까?","a":"킴입니다","tip":"분사구문에는 주어가 없습니다. 주어는 뒤의 주절에서 찾습니다."},
+  {"t":"mod","q":"<b>Kim enlisted in the U.S.</b> — 킴이 입대한 곳은 '미국'이라는 나라입니까?","a":"아닙니다 — 다음 토막의 Navy 와 붙어 the U.S. Navy(미 해군)입니다","tip":"약어 U.S. 의 마침표 때문에 문장이 여기서 잘렸습니다."},
+  {"t":"time","q":"<b>enlisted</b> — 입대는 우주비행사 선발보다 앞입니까, 뒤입니까?","a":"앞입니다 — 2017년의 우주비행사 선발보다 훨씬 앞선 젊은 시절 이야기입니다","tip":"기사가 여기서부터 시간을 거슬러 그의 이력을 되짚습니다."}
+ ],
+ "98b64970|8.1": [
+  {"t":"mod","q":"<b>Navy after graduating high school in 2002</b> — Navy 는 앞 토막의 어느 말과 이어집니까?","a":"앞 토막의 enlisted in the U.S. 입니다 — 이어 붙이면 '미 해군에 입대했다'가 됩니다","tip":"Navy 를 이 토막의 주어로 읽으면 '해군이 졸업했다'는 이상한 뜻이 됩니다."},
+  {"t":"who","q":"<b>after graduating high school</b> — 고등학교를 졸업한 사람은 누구입니까?","a":"킴입니다","tip":"이 토막에는 주어가 없습니다. 주어는 앞 토막의 Kim 입니다."},
+  {"t":"time","q":"<b>after graduating high school in 2002</b> — 입대는 졸업보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 2002년에 졸업하고 그 뒤에 입대했습니다","tip":"after 뒤에 오는 일이 먼저 일어난 일입니다."}
+ ],
+ "98b64970|8.2": [
+  {"t":"who","q":"<b>He trained as a hospital corpsman</b> — 그가 남을 훈련시켰다는 뜻입니까?","a":"아닙니다 — 그가 위생병으로 훈련을 받았다는 뜻입니다","tip":"train 은 '훈련시키다'와 '훈련받다' 둘 다로 쓰입니다. 뒤에 목적어가 없으면 '받다' 쪽입니다."},
+  {"t":"time","q":"<b>before joining SEAL Team Three</b> — 훈련과 입단 중 어느 쪽이 먼저입니까?","a":"훈련이 먼저이고, SEAL 3팀 입단이 나중입니다","tip":"before 뒤에 오는 일이 나중 일입니다. 순서를 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>Basic Underwater Demolition/SEAL training</b> — 이것은 무엇입니까?","a":"SEAL 대원이 되기 위한 기초 수중폭파 훈련 과정의 이름입니다","tip":"빗금(/)이 '또는'이 아니라 한 훈련 과정 이름의 일부입니다."}
+ ],
+ "98b64970|8.3": [
+  {"t":"who","q":"<b>earning the Silver Star, Bronze Star with Combat “V,” and numerous additional commendations</b> — 이것들을 받은 사람은 누구입니까?","a":"그(킴)입니다 — 복무한 공으로 받은 것입니다","tip":"-ing 분사구문의 주체는 문장의 주어인 he 입니다."},
+  {"t":"mod","q":"<b>Over the course of more than 100 combat operations</b> — 100회가 넘는 것은 무엇입니까?","a":"그가 참가한 전투 작전(combat operations)의 횟수입니다","tip":"받은 훈장의 수로 읽으면 안 됩니다. 훈장 수는 numerous 로만 나옵니다."},
+  {"t":"mod","q":"<b>Bronze Star with Combat “V,”</b> — 이것은 훈장 몇 개를 말합니까?","a":"하나입니다 — 전투 ‘V’ 표장이 붙은 동성무공훈장 하나입니다","tip":"with 를 '그리고'로 읽어 둘로 세면 안 됩니다."},
+  {"t":"who","q":"<b>a medic, sniper, navigator, and point man</b> — 이 넷은 몇 사람의 역할입니까?","a":"한 사람, 곧 킴이 맡은 역할들입니다","tip":"네 사람을 나열한 것으로 읽으면 안 됩니다. 모두 he 의 역할입니다."}
+ ],
+ "98b64970|9.0": [
+  {"t":"mod","q":"<b>and a doctor of medicine from Harvard Medical School</b> — 이 부분에 걸리는 동사는 무엇입니까?","a":"앞의 earned 입니다 — 의학 박사 학위도 '받았다'는 뜻입니다","tip":"and 뒤에 동사가 없으면 앞의 동사가 그대로 이어집니다."},
+  {"t":"mod","q":"<b>from the University of San Diego</b> — 이 대학에서 받은 학위는 무엇입니까?","a":"수학 학사 학위입니다(의학 박사는 하버드 쪽)","tip":"두 학위와 두 학교가 짝을 이룹니다. 짝을 어긋나게 붙이기 쉽습니다."},
+  {"t":"mod","q":"<b>a doctor of medicine</b> — 이것은 사람입니까, 학위입니까?","a":"학위입니다 — 의학 박사 학위를 말합니다","tip":"'의사 한 명'으로 읽으면 '의사를 얻었다'는 이상한 뜻이 됩니다. 앞의 a bachelor’s degree 와 나란히 놓인 것이 신호입니다."}
+ ],
+ "98b64970|9.1": [
+  {"t":"mod","q":"<b>Massachusetts General Hospital and Brigham and Women’s Hospital</b> — 병원은 몇 곳입니까?","a":"두 곳입니다 — Brigham and Women’s Hospital 은 and 가 이름 안에 들어 있는 한 병원입니다","tip":"and 가 두 번 나오지만 병원을 가르는 and 는 첫 번째 하나뿐입니다."},
+  {"t":"who","q":"<b>He completed his internship</b> — 여기서 internship 은 무엇입니까?","a":"킴이 마친 의사 수련 과정입니다","tip":"회사에서 하는 인턴 근무가 아닙니다. 앞 문장에서 의학 박사 학위를 받은 흐름이 이어집니다."},
+  {"t":"time","q":"<b>He completed his internship</b> — 이 일은 의학 박사 학위를 받기 전입니까, 뒤입니까?","a":"뒤입니다 — 학위를 받은 다음 병원에서 수련했습니다","tip":"기사가 그의 이력을 시간 순서대로 짚어 가고 있습니다."}
+ ],
+ "98b64970|9.2": [
+  {"t":"mod","q":"<b>a dual-designated naval aviator and flight surgeon</b> — 이것은 두 사람입니까, 한 사람의 두 자격입니까?","a":"한 사람(킴)의 두 자격입니다 — dual-designated 가 '두 자격을 함께 받은'이라는 뜻입니다","tip":"and 로 이어져 있어 두 사람으로 읽기 쉽지만, 주어는 Kim 한 사람입니다."},
+  {"t":"who","q":"<b>completing flight training</b> — 훈련을 마친 사람은 누구입니까?","a":"킴입니다","tip":"-ing 분사구문의 주체는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>and aerospace medical training at the Naval Aerospace Medical Institute</b> — 이 부분은 무엇에 이어지는 말입니까?","a":"앞의 completing 입니다 — 항공우주 의학 훈련도 '마쳤다'는 뜻입니다","tip":"became 에 이어 붙이면 '항공우주 의학 훈련이 되었다'는 이상한 뜻이 됩니다."},
+  {"t":"mod","q":"<b>at Naval Air Station Pensacola</b> 는 무엇의 위치입니까?","a":"바로 앞의 the Naval Aerospace Medical Institute(해군 항공우주의학연구소)가 있는 곳입니다","tip":"비행 훈련 장소를 하나 더 든 것으로 읽기 쉽지만, 앞 기관의 소재지입니다."}
+ ],
+ "98b64970|10.0": [
+  {"t":"time","q":"<b>Kim is returning to active duty</b> — 그는 이미 복귀했습니까?","a":"아직 아닙니다 — 곧 복귀할 예정이라는 뜻입니다","tip":"-ing 형을 '지금 하고 있는 중'으로만 읽으면 시점을 놓칩니다. 여기서는 가까운 미래를 나타냅니다."},
+  {"t":"mod","q":"<b>to finish out the remainder of his military career</b> — 이것은 복귀의 목적입니까, 결과입니까?","a":"목적입니다 — 남은 군 생활을 마저 채우려고 복귀합니다","tip":"동사 뒤의 to 부정사는 먼저 '~하기 위해'로 넣어 보면 됩니다."},
+  {"t":"mod","q":"<b>within naval aviation training</b> 는 무엇의 범위입니까?","a":"그가 남은 군 생활을 보낼 분야입니다 — 해군 항공 훈련 쪽","tip":"복귀할 부대 이름으로 읽으면 안 됩니다. 어느 분야에서 남은 복무를 할지를 말합니다."}
+ ],
+ "98b64970|11.0": [
+  {"t":"who","q":"<b>Contributing to space exploration and serving NASA</b> — 이 일을 한 사람은 누구입니까?","a":"말하고 있는 킴 자신입니다","tip":"문장 끝의 said Kim 이 그 표시입니다. 킴이 자기 이야기를 하고 있습니다."},
+  {"t":"mod","q":"<b>Contributing to space exploration and serving NASA has been</b> — 이 문장의 주어는 무엇입니까?","a":"Contributing ~ and serving ~ 전체입니다 — '기여하고 일해 온 것'이라는 하나의 덩어리","tip":"동사 바로 앞의 NASA 를 주어로 잡으면 'NASA가 영광이었다'가 되어 버립니다."},
+  {"t":"time","q":"<b>has been the honor of a lifetime</b> — 이것은 지금까지의 일을 돌아보는 말입니까?","a":"그렇습니다 — 지금까지 해 온 일 전체를 돌아보는 말입니다(현재완료)","tip":"떠나면서 하는 말이라 지나온 시간 전체를 가리킵니다."}
+ ],
+ "98b64970|11.1": [
+  {"t":"mod","q":"<b>beyond the missions, the training, and the hardware</b> — 이 부분은 무엇에 걸립니까?","a":"뒤의 success always comes down to the people 에 걸리는 삽입구입니다 — '그런 것들을 넘어서서'라는 뜻","tip":"that 바로 뒤에 있어 배운 내용의 주어로 읽기 쉽지만, 진짜 주어는 success 입니다."},
+  {"t":"pron","q":"<b>I’ve learned</b> — 여기서 I 는 누구입니까?","a":"조니 킴입니다","tip":"앞 문장의 said Kim 이 이어집니다. 기사를 쓴 기자가 아닙니다."},
+  {"t":"mod","q":"<b>success always comes down to the people</b> — comes down to 는 무슨 뜻입니까?","a":"'결국 ~로 귀결된다'는 뜻입니다 — 성공은 결국 사람에게 달렸다는 말","tip":"'사람에게로 내려온다'로 직역하면 뜻이 통하지 않습니다."},
+  {"t":"time","q":"<b>Throughout my career, I’ve learned</b> — 이것은 한 번의 깨달음입니까, 경력 내내 쌓인 것입니까?","a":"경력 내내 쌓인 것입니다","tip":"Throughout(~ 내내)과 현재완료(’ve learned)가 짝을 이룹니다."}
+ ],
+ "98b64970|11.2": [
+  {"t":"pron","q":"<b>They are our greatest asset</b> 의 They 는 무엇을 가리킵니까?","a":"앞 문장의 the people(사람들)입니다","tip":"앞 문장의 임무·훈련·장비로 잡기 쉽지만, 성공이 귀결된다고 한 것은 사람입니다."},
+  {"t":"mod","q":"<b>is how we achieve the impossible</b> — 이 부분의 주어는 무엇입니까?","a":"앞의 leading with love and empathy(사랑과 공감으로 이끄는 것)입니다","tip":"동사 바로 앞의 empathy 를 주어로 잡으면 안 됩니다. -ing 덩어리 전체가 주어입니다."},
+  {"t":"neg","q":"<b>is how we achieve the impossible</b> — 불가능한 일을 해낸다는 뜻입니까, 해낼 수 없다는 뜻입니까?","a":"해낸다는 뜻입니다 — the impossible(불가능한 일)이 achieve(해내다)의 목적어입니다","tip":"impossible 이라는 부정의 낱말이 들어 있지만 문장 자체는 부정문이 아닙니다."},
+  {"t":"who","q":"<b>leading with love and empathy</b> — 이끄는 쪽은 누구입니까?","a":"we — 킴이 함께 일한 사람들, 곧 그의 팀입니다","tip":"-ing 가 주어 자리에 오면 '~하는 것'입니다. 누가 이끄는지는 뒤의 we 에서 확인합니다."}
+ ],
+ "98b64970|11.3": [
+  {"t":"mod","q":"<b>into my next chapter</b> — 무엇을 그리로 가지고 간다는 말입니까?","a":"앞에 나열된 셋 전부입니다 — 봉사에 대한 다짐, 우주·기술에 대한 애정, 지난 10년의 교훈","tip":"바로 앞의 lessons 만 가지고 간다고 읽기 쉽지만, carrying 의 대상 셋 모두에 걸립니다."},
+  {"t":"time","q":"<b>I look forward to carrying</b> — 이것은 이미 한 일입니까, 앞으로 할 일입니까?","a":"앞으로 할 일입니다 — 그렇게 하기를 기대한다는 뜻입니다","tip":"look forward to 뒤에는 -ing 가 옵니다. 여기의 to 는 '~하기 위해'가 아닙니다."},
+  {"t":"mod","q":"<b>to make a meaningful impact on humanity’s future</b> 는 무엇을 나타냅니까?","a":"그것들을 다음 장으로 가지고 가는 목적입니다","tip":"앞의 to carrying 과 달리 이 to 뒤에는 동사원형(make)이 와서 '~하기 위해'가 됩니다."},
+  {"t":"pron","q":"<b>my next chapter</b> 는 무엇을 가리킵니까?","a":"NASA를 떠난 뒤 이어 갈 그의 다음 인생 단계(해군 복무)입니다","tip":"책의 장(章)이 아니라 인생의 다음 단계를 빗댄 말입니다."}
+ ]
+}

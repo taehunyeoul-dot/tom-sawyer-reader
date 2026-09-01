@@ -1,0 +1,420 @@
+[
+ {
+  "id": "9eba4c08|0.0",
+  "en": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface.",
+  "s": "scientists",
+  "v": "aimed",
+  "chunks": [
+   {"en": "During the Aug. 12 total solar eclipse over Europe,", "ko": "8월 12일 유럽 상공의 개기일식 동안", "r": "시간"},
+   {"en": "scientists aimed to study", "ko": "과학자들은 ~을 연구하려 했다", "r": "주어 + 동사"},
+   {"en": "a long-standing mystery:", "ko": "오래된 수수께끼 하나를", "r": "목적어"},
+   {"en": "why the Sun’s outer atmosphere,", "ko": "왜 태양의 바깥 대기가", "r": "의문사절(수수께끼의 내용)"},
+   {"en": "the corona,", "ko": "곧 코로나가", "r": "동격(앞 명사를 다른 이름으로)"},
+   {"en": "is far hotter than its visible surface.", "ko": "눈에 보이는 표면보다 훨씬 뜨거운가 하는", "r": "동사 + 비교"}
+  ],
+  "ko": "8월 12일 유럽 상공에서 일어난 개기일식 동안, 과학자들은 오래된 수수께끼 하나를 연구하려 했다. 왜 태양의 바깥 대기인 코로나(corona)가 눈에 보이는 표면보다 훨씬 더 뜨거운가 하는 것이다.",
+  "why": "콜론(:) 뒤는 새 문장이 아니라 앞의 mystery 가 무엇인지 풀어 주는 말이다. 문장의 동사는 aimed 하나이고, is 는 콜론 뒤 why 절 안의 동사다. 쉼표로 둘러싸인 the corona 는 앞의 the Sun’s outer atmosphere 를 다른 이름으로 바꿔 말한 것(동격)이라 둘은 같은 것이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|0.1",
+  "en": "Capturing the data they needed meant being in exactly the right place at the right time.",
+  "s": "Capturing the data they needed",
+  "v": "meant",
+  "chunks": [
+   {"en": "Capturing the data they needed", "ko": "그들에게 필요한 자료를 담아내는 일은", "r": "주어(동명사구 + 관계절)"},
+   {"en": "meant being in exactly the right place", "ko": "정확히 알맞은 장소에 있어야 한다는 뜻이었다", "r": "동사 + 보어(장소)"},
+   {"en": "at the right time.", "ko": "그것도 알맞은 시각에", "r": "시간"}
+  ],
+  "ko": "그들에게 필요한 자료를 담아내려면 정확히 알맞은 장소에, 알맞은 시각에 있어야 했다.",
+  "why": "주어가 명사가 아니라 동명사구(Capturing ~)이고, 그 안에 they needed 라는 꾸미는 절이 관계대명사 없이 붙어 있어 needed 를 문장의 동사로 착각하기 쉽다. 문장의 동사는 meant 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|1.0",
+  "en": "Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, their base for flying through the path of totality to give scientists a clearer view of the Sun’s corona.",
+  "s": "Pilots from NASA’s Johnson Space Center",
+  "v": "flew",
+  "chunks": [
+   {"en": "Pilots from NASA’s Johnson Space Center", "ko": "NASA 존슨우주센터의 조종사들이", "r": "주어"},
+   {"en": "flew the WB-57F high altitude research aircraft", "ko": "WB-57F 고고도 연구용 항공기를 몰고 갔다", "r": "동사 + 목적어"},
+   {"en": "from Ellington Field in Houston to Iceland,", "ko": "휴스턴의 엘링턴 필드에서 아이슬란드까지", "r": "전치사구(출발지 → 도착지)"},
+   {"en": "their base for flying through the path of totality", "ko": "개기식이 지나가는 길을 뚫고 비행하기 위한 그들의 거점인 그곳", "r": "동격(앞의 Iceland 설명)"},
+   {"en": "to give scientists a clearer view", "ko": "과학자들에게 더 또렷한 시야를 주기 위해", "r": "목적"},
+   {"en": "of the Sun’s corona.", "ko": "태양의 코로나에 대한", "r": "전치사구(무엇을 보는 시야인가)"}
+  ],
+  "ko": "NASA 존슨우주센터(Johnson Space Center)의 조종사들이 WB-57F 고고도 연구용 항공기를 휴스턴의 엘링턴 필드(Ellington Field)에서 아이슬란드까지 몰고 갔다. 아이슬란드는 개기식이 지나가는 길을 뚫고 비행해 과학자들에게 태양 코로나를 더 또렷하게 보여 주기 위한 그들의 거점이다.",
+  "why": "쉼표 뒤의 their base ~ 는 새 문장이 아니라 바로 앞의 Iceland 를 다시 설명하는 말(동격)이다. 문장의 동사는 flew 하나뿐이고, flying 과 to give 는 각각 용도와 목적을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|2.0",
+  "en": "A total solar eclipse provides a unique opportunity to examine the corona because the Moon temporarily blocks the Sun’s bright surface, revealing its fainter outer atmosphere.",
+  "s": "A total solar eclipse",
+  "v": "provides",
+  "chunks": [
+   {"en": "A total solar eclipse provides", "ko": "개기일식은 ~을 준다", "r": "주어 + 동사"},
+   {"en": "a unique opportunity to examine the corona", "ko": "코로나를 살펴볼 수 있는 특별한 기회를", "r": "목적어 + 용도"},
+   {"en": "because the Moon temporarily blocks", "ko": "달이 잠시 ~을 가리기 때문에", "r": "부사절(이유)"},
+   {"en": "the Sun’s bright surface,", "ko": "태양의 밝은 표면을", "r": "목적어"},
+   {"en": "revealing its fainter outer atmosphere.", "ko": "그래서 그보다 흐린 바깥 대기가 드러난다", "r": "분사구문(그 결과)"}
+  ],
+  "ko": "개기일식은 코로나를 살펴볼 수 있는 특별한 기회를 준다. 달이 태양의 밝은 표면을 잠시 가려 주어서, 그보다 흐린 바깥 대기가 드러나기 때문이다.",
+  "why": "because 뒤는 이유를 말하는 절이고, 맨 끝 revealing ~ 은 '그래서 ~이 드러난다'는 결과를 덧붙이는 분사구문이다. its 는 달이 아니라 태양을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|2.1",
+  "en": "Observations collected during this brief window can help scientists better understand how energy and material move through the corona and away from the Sun, improving our understanding of space weather.",
+  "s": "Observations collected during this brief window",
+  "v": "can help",
+  "chunks": [
+   {"en": "Observations collected during this brief window", "ko": "이 짧은 시간 동안 모은 관측 자료는", "r": "주어(과거분사구가 꾸미는 긴 명사구)"},
+   {"en": "can help scientists better understand", "ko": "과학자들이 더 잘 이해하도록 도울 수 있다", "r": "동사 + 목적어 + 원형부정사"},
+   {"en": "how energy and material move through the corona", "ko": "에너지와 물질이 코로나를 지나 어떻게 움직이는지", "r": "의문사절(이해할 내용)"},
+   {"en": "and away from the Sun,", "ko": "그리고 태양에서 멀어지며 어떻게 움직이는지를", "r": "이동 방향 나열"},
+   {"en": "improving our understanding of space weather.", "ko": "그럼으로써 우주 날씨에 대한 우리의 이해를 넓혀 준다", "r": "분사구문(그 결과)"}
+  ],
+  "ko": "이 짧은 시간 동안 모은 관측 자료는, 에너지와 물질이 코로나를 지나 태양에서 멀어지며 어떻게 움직이는지를 과학자들이 더 잘 이해하도록 도울 수 있다. 그럼으로써 우주 날씨(space weather)에 대한 우리의 이해도 넓어진다.",
+  "why": "주어는 Observations 하나이고 collected ~ 는 그것을 꾸미는 과거분사구다(collected 를 문장의 동사로 읽으면 뜻이 뒤집힌다). help + 목적어 + 동사원형(understand) 짜임이고, 맨 끝 improving 은 결과를 덧붙이는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|3.0",
+  "en": "At about 50,000 feet, the WB-57F flew above most clouds, dust, and water vapor that can interfere with observations from the ground.",
+  "s": "the WB-57F",
+  "v": "flew",
+  "chunks": [
+   {"en": "At about 50,000 feet,", "ko": "약 5만 피트(약 15km) 상공에서", "r": "높이(상황)"},
+   {"en": "the WB-57F flew above", "ko": "WB-57F 는 ~보다 위로 날았다", "r": "주어 + 동사"},
+   {"en": "most clouds, dust, and water vapor", "ko": "구름과 먼지, 수증기의 대부분", "r": "전치사의 목적어(나열)"},
+   {"en": "that can interfere with observations", "ko": "관측을 방해할 수 있는", "r": "관계절(앞의 셋을 모두 설명)"},
+   {"en": "from the ground.", "ko": "지상에서 하는", "r": "전치사구(어디서 하는 관측인가)"}
+  ],
+  "ko": "약 5만 피트(약 15km) 상공에서 WB-57F 는 지상에서 하는 관측을 방해할 수 있는 구름과 먼지, 수증기의 대부분보다 높이 날았다.",
+  "why": "that 이하 관계절은 바로 앞의 water vapor 만이 아니라 and 로 묶인 clouds, dust, water vapor 셋 모두를 꾸민다. from the ground 는 '땅에서 올려다보며 하는 관측'이라는 뜻이지, 항공기가 땅에서 떴다는 말이 아니다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|3.1",
+  "en": "The altitude reduced atmospheric interference while also allowing the science instruments to observe infrared wavelengths that are largely absorbed lower in Earth’s atmosphere.",
+  "s": "The altitude",
+  "v": "reduced",
+  "chunks": [
+   {"en": "The altitude reduced atmospheric interference", "ko": "그 고도가 대기 때문에 생기는 방해를 줄여 주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "while also allowing the science instruments", "ko": "동시에 관측 장비가 ~할 수 있게 해 주면서", "r": "부사절(같은 시간에 일어난 일)"},
+   {"en": "to observe infrared wavelengths", "ko": "적외선 파장을 관측할 수 있게", "r": "장비가 할 수 있게 된 일"},
+   {"en": "that are largely absorbed lower in Earth’s atmosphere.", "ko": "지구 대기의 더 낮은 곳에서는 대부분 흡수돼 버리는", "r": "관계절(수동태, 앞 명사 설명)"}
+  ],
+  "ko": "그 고도 덕분에 대기 때문에 생기는 방해가 줄었고, 동시에 관측 장비가 적외선 파장을 관측할 수 있었다. 그 파장은 지구 대기의 더 낮은 곳에서는 대부분 흡수돼 버리는 파장이다.",
+  "why": "while also allowing ~ 은 '동시에 ~하게 해 주면서'라는 뜻이고, 그렇게 해 준 주체도 문장의 주어인 The altitude 다. 맨 끝 that are absorbed 는 수동태라 '흡수한다'가 아니라 '흡수된다'이고, 흡수하는 쪽(낮은 곳의 대기)은 주어 자리에 드러나 있지 않다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|4.0",
+  "en": "Capturing those observations required careful coordination between scientists and the flight crew.",
+  "s": "Capturing those observations",
+  "v": "required",
+  "chunks": [
+   {"en": "Capturing those observations", "ko": "그 관측 자료를 담아내는 일에는", "r": "주어(동명사구)"},
+   {"en": "required careful coordination", "ko": "꼼꼼한 협력이 필요했다", "r": "동사 + 목적어"},
+   {"en": "between scientists and the flight crew.", "ko": "과학자들과 비행 승무원 사이의", "r": "전치사구(누구와 누구 사이인가)"}
+  ],
+  "ko": "그 관측 자료를 담아내려면 과학자들과 비행 승무원 사이의 꼼꼼한 협력이 필요했다.",
+  "why": "주어가 명사가 아니라 동명사구(Capturing ~)라 '~하는 일은 / ~하려면'으로 읽어야 한다. required 는 '요구했다'보다 '~이 필요했다'로 푸는 편이 자연스럽다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|4.1",
+  "en": "Before the mission, teams calculated where the aircraft needed to be as the Moon’s shadow moved across the North Atlantic.",
+  "s": "teams",
+  "v": "calculated",
+  "chunks": [
+   {"en": "Before the mission,", "ko": "임무에 나서기 전에", "r": "시간"},
+   {"en": "teams calculated", "ko": "여러 팀이 계산해 두었다", "r": "주어 + 동사"},
+   {"en": "where the aircraft needed to be", "ko": "항공기가 어디에 있어야 하는지를", "r": "목적어(의문사절)"},
+   {"en": "as the Moon’s shadow moved across the North Atlantic.", "ko": "달의 그림자가 북대서양을 가로질러 갈 때", "r": "부사절(~해 갈 때)"}
+  ],
+  "ko": "임무에 나서기 전에, 여러 팀이 달의 그림자가 북대서양을 가로질러 갈 때 항공기가 어디에 있어야 하는지를 계산해 두었다.",
+  "why": "where 이하는 '어디에서'라는 장소를 묻는 말이 아니라 calculated 의 목적어 노릇을 하는 절이다. as 는 '~로서'가 아니라 '~해 갈 때, ~함에 따라'라는 뜻으로, 뒤에 주어와 동사가 이어지면 접속사다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|5.0",
+  "en": "“Going into a mission like this takes a huge team.",
+  "s": "Going into a mission like this",
+  "v": "takes",
+  "chunks": [
+   {"en": "“Going into a mission like this", "ko": "이런 임무에 나서는 일에는", "r": "주어(동명사구, 인용 시작)"},
+   {"en": "takes a huge team.", "ko": "아주 큰 팀이 필요합니다", "r": "동사 + 목적어"}
+  ],
+  "ko": "\"이런 임무에 나서는 데에는 아주 큰 팀이 필요합니다.\"",
+  "why": "take 가 '가져가다·데려가다'가 아니라 '(시간·인력이) 들다, 필요하다'라는 뜻으로 쓰였다. 주어는 동명사구 Going into ~ 전체이고, a huge team 은 데려가는 대상이 아니라 필요한 것이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|5.1",
+  "en": "It starts with the science team establishing the requirements, and then we work closely with them for months leading up to the mission,” said Tom Parent, NASA WB-57F pilot.",
+  "s": "It",
+  "v": "starts",
+  "chunks": [
+   {"en": "It starts with the science team", "ko": "일은 과학팀에서 시작합니다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "establishing the requirements,", "ko": "그 팀이 요구 조건을 정하는 데서", "r": "분사(과학팀이 하는 일)"},
+   {"en": "and then we work closely with them", "ko": "그다음부터 우리는 그들과 바짝 붙어 일합니다", "r": "대등절"},
+   {"en": "for months leading up to the mission,”", "ko": "임무로 이어지는 몇 달 동안", "r": "기간(임무 전까지)"},
+   {"en": "said Tom Parent, NASA WB-57F pilot.", "ko": "NASA WB-57F 조종사 톰 페어런트가 말했다", "r": "인용 표시 + 말한 사람(동격)"}
+  ],
+  "ko": "\"일은 과학팀이 요구 조건을 정하는 데서 시작하고, 그다음부터 우리는 임무를 앞둔 몇 달 동안 그들과 바짝 붙어 일합니다.\" NASA WB-57F 조종사 톰 페어런트(Tom Parent)의 말이다.",
+  "why": "with + 명사 + -ing 는 '누가 무엇을 하는 것'이라는 한 덩어리라, 요구 조건을 정하는 쪽은 the science team 이다. we 는 말하는 조종사 쪽, them 은 그 과학팀이다. leading up to ~ 는 '~을 앞둔, ~로 이어지는'이라는 뜻으로 months 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|5.2",
+  "en": "“We rely heavily on our maintenance team to get the instruments serviced, prepared, loaded onto the aircraft, and flight tested.",
+  "s": "We",
+  "v": "rely",
+  "chunks": [
+   {"en": "“We rely heavily on our maintenance team", "ko": "우리는 정비팀에 크게 기대고 있습니다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "to get the instruments serviced, prepared,", "ko": "장비를 정비되고 준비된 상태로 만들기 위해", "r": "목적(get + 목적어 + 과거분사)"},
+   {"en": "loaded onto the aircraft, and flight tested.", "ko": "항공기에 실리고 비행 시험까지 마친 상태로", "r": "나열(계속, 모두 수동)"}
+  ],
+  "ko": "\"우리는 장비를 정비하고 준비해서 항공기에 싣고 비행 시험까지 마치는 일을 정비팀에 크게 기대고 있습니다.\"",
+  "why": "get + 목적어 + 과거분사는 '~을 …된 상태로 만들다'라는 뜻이다. serviced, prepared, loaded, flight tested 네 가지는 모두 the instruments 가 '당하는' 쪽이고, 실제로 그 일을 하는 쪽은 rely on 뒤의 our maintenance team 이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|5.3",
+  "en": "It’s a huge team effort to get an aircraft like this up there to image and achieve these objectives.”",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "It’s a huge team effort", "ko": "그것은 팀 전체가 매달려야 하는 일입니다", "r": "형식 주어 + 동사 + 보어"},
+   {"en": "to get an aircraft like this up there", "ko": "이런 항공기를 저 높은 곳까지 올려 보내는 일은", "r": "진짜 주어(It 이 대신 받은 내용)"},
+   {"en": "to image and achieve these objectives.”", "ko": "영상으로 담고 이런 목표들을 이루기 위해", "r": "목적(올려 보내서 할 일)"}
+  ],
+  "ko": "\"이런 항공기를 저 높은 곳까지 올려서 영상을 담고 이런 목표들을 이루려면 팀 전체가 매달려야 합니다.\"",
+  "why": "맨 앞 It 은 무엇을 가리키는 대명사가 아니라 뒤의 to get ~ 을 대신 받아 주는 형식 주어다. image 는 여기서 명사 '이미지'가 아니라 '영상으로 담다'라는 동사이고, 앞의 to 에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|6.0",
+  "en": "During totality, NASA WB-57F pilot John Gustine positioned the aircraft along the eclipse path to maximize time in the Moon’s shadow and give scientists as much opportunity as possible to collect data.",
+  "s": "NASA WB-57F pilot John Gustine",
+  "v": "positioned",
+  "chunks": [
+   {"en": "During totality,", "ko": "개기식이 이어지는 동안", "r": "시간"},
+   {"en": "NASA WB-57F pilot John Gustine positioned the aircraft", "ko": "NASA WB-57F 조종사 존 거스틴은 항공기의 위치를 잡았다", "r": "주어(직책 + 이름) + 동사 + 목적어"},
+   {"en": "along the eclipse path", "ko": "일식이 지나가는 길을 따라", "r": "전치사구(경로)"},
+   {"en": "to maximize time in the Moon’s shadow", "ko": "달 그림자 안에 머무는 시간을 최대로 늘리고", "r": "목적"},
+   {"en": "and give scientists as much opportunity as possible", "ko": "과학자들에게 되도록 많은 기회를 주기 위해", "r": "목적(앞의 to 에 이어짐)"},
+   {"en": "to collect data.", "ko": "자료를 모을", "r": "무엇을 할 기회인가"}
+  ],
+  "ko": "개기식이 이어지는 동안, NASA WB-57F 조종사 존 거스틴(John Gustine)은 달 그림자 안에 머무는 시간을 최대로 늘리고 과학자들에게 자료를 모을 기회를 되도록 많이 주기 위해, 일식이 지나가는 길을 따라 항공기의 위치를 잡았다.",
+  "why": "주어가 '직책 + 이름'으로 길게 붙어 있어 어디까지가 주어인지 놓치기 쉽다(사람은 한 명이다). to maximize ~ and give ~ 는 to 하나에 걸린 두 가지 목적이고, 문장의 동사는 positioned 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|7.0",
+  "en": "From the back seat, Cary Klemm, sensor equipment operator for NASA’s WB-57F, controlled the camera systems, adjusting focus and exposure times while tracking features of interest throughout totality.",
+  "s": "Cary Klemm",
+  "v": "controlled",
+  "chunks": [
+   {"en": "From the back seat, Cary Klemm,", "ko": "뒷좌석에서, 캐리 클렘이", "r": "장소 + 주어"},
+   {"en": "sensor equipment operator for NASA’s WB-57F,", "ko": "NASA WB-57F 의 센서 장비 운용자인", "r": "동격(주어의 직책)"},
+   {"en": "controlled the camera systems,", "ko": "카메라 장치들을 다루었다", "r": "동사 + 목적어"},
+   {"en": "adjusting focus and exposure times", "ko": "초점과 노출 시간을 조정해 가면서", "r": "분사구문(하면서)"},
+   {"en": "while tracking features of interest throughout totality.", "ko": "개기식이 이어지는 내내 눈여겨볼 대상들을 따라가면서", "r": "부사절(같은 시간에)"}
+  ],
+  "ko": "뒷좌석에서, NASA WB-57F 의 센서 장비 운용자인 캐리 클렘(Cary Klemm)이 카메라 장치들을 다루었다. 개기식이 이어지는 내내 눈여겨볼 대상들을 따라가며 초점과 노출 시간을 조정했다.",
+  "why": "주어 Cary Klemm 과 동사 controlled 사이에 쉼표로 둘러싸인 직책 설명이 통째로 끼어들어 있다. 쉼표 안쪽을 괄호로 묶어 두고 'Cary Klemm 이 카메라 장치를 다루었다'로 뼈대를 먼저 잡을 것. 이 문장에 나오는 사람은 한 명뿐이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|8.0",
+  "en": "With the cameras capturing observations throughout the brief window, every second mattered.",
+  "s": "every second",
+  "v": "mattered",
+  "chunks": [
+   {"en": "With the cameras capturing observations", "ko": "카메라들이 관측 자료를 담아내고 있는 상황에서", "r": "부대상황(누가 무엇을 하는 중인가)"},
+   {"en": "throughout the brief window,", "ko": "그 짧은 시간 내내", "r": "시간"},
+   {"en": "every second mattered.", "ko": "1초 1초가 다 중요했다", "r": "주어 + 동사"}
+  ],
+  "ko": "카메라들이 그 짧은 시간 내내 관측 자료를 담아내고 있었으므로, 1초 1초가 모두 중요했다.",
+  "why": "With + 명사 + -ing 는 '~가 …하고 있는 상황에서'라는 한 덩어리다. 문장의 주어는 the cameras 가 아니라 쉼표 뒤의 every second 이고, 동사는 mattered 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|9.0",
+  "en": "“Every image is another piece of data that could reveal something new about the Sun,” Klemm said.",
+  "s": "Every image",
+  "v": "is",
+  "chunks": [
+   {"en": "“Every image is another piece of data", "ko": "사진 한 장 한 장이 또 하나의 자료입니다", "r": "주어 + 동사 + 보어(인용 시작)"},
+   {"en": "that could reveal something new about the Sun,”", "ko": "태양에 대해 새로운 무언가를 드러내 줄 수도 있는", "r": "관계절(앞 명사 설명)"},
+   {"en": "Klemm said.", "ko": "클렘이 말했다", "r": "말한 사람"}
+  ],
+  "ko": "\"사진 한 장 한 장이 태양에 대해 새로운 무언가를 드러내 줄 수도 있는 또 하나의 자료입니다.\" 클렘의 말이다.",
+  "why": "that 이하는 앞의 another piece of data 를 꾸미는 관계절이다. could 는 '~할 수 있었다'는 과거가 아니라 '~할 수도 있다'는 가능성이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|10.0",
+  "en": "What scientists can learn from those observations reaches far beyond the eclipse itself.",
+  "s": "What scientists can learn from those observations",
+  "v": "reaches",
+  "chunks": [
+   {"en": "What scientists can learn from those observations", "ko": "과학자들이 그 관측 자료에서 배울 수 있는 것은", "r": "주어(명사절)"},
+   {"en": "reaches far beyond the eclipse itself.", "ko": "이번 일식 자체를 훨씬 넘어선다", "r": "동사 + 전치사구"}
+  ],
+  "ko": "과학자들이 그 관측 자료에서 배울 수 있는 것은 이번 일식 자체를 훨씬 넘어선다.",
+  "why": "맨 앞의 What ~ 은 '무엇을'이라는 질문이 아니라 '~하는 것'이라는 명사절이고, 그 절 전체가 주어다. 문장의 동사는 그 뒤의 reaches 하나이며, 단수형인 것이 '절 전체가 주어'라는 신호다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|10.1",
+  "en": "The Sun’s corona is made of plasma shaped by magnetic fields, and many of the same physical processes occur elsewhere in the universe.",
+  "s": "The Sun’s corona",
+  "v": "is made",
+  "chunks": [
+   {"en": "The Sun’s corona is made of plasma", "ko": "태양의 코로나는 플라스마로 이루어져 있다", "r": "주어 + 동사(수동) + 재료"},
+   {"en": "shaped by magnetic fields,", "ko": "자기장이 모양을 잡아 주는", "r": "과거분사구(앞의 plasma 설명)"},
+   {"en": "and many of the same physical processes", "ko": "그리고 그와 똑같은 물리 현상 가운데 상당수가", "r": "대등절의 주어"},
+   {"en": "occur elsewhere in the universe.", "ko": "우주의 다른 곳에서도 일어난다", "r": "동사 + 장소"}
+  ],
+  "ko": "태양의 코로나는 자기장이 모양을 잡아 주는 플라스마로 이루어져 있고, 그와 똑같은 물리 현상 가운데 상당수가 우주의 다른 곳에서도 일어난다.",
+  "why": "shaped by magnetic fields 는 또 하나의 동사가 아니라 앞의 plasma 를 꾸미는 과거분사구다(모양을 잡는 쪽이 자기장, 잡히는 쪽이 플라스마). and 뒤는 주어와 동사를 새로 갖춘 별개의 절이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|11.0",
+  "en": "“The NASA WB-57F’s unique capabilities of high-altitude flight were truly crucial in providing access to these valuable wavelengths during an eclipse whose path crossed mostly over the ocean in an area where clouds are common,” said Amir Caspi, principal investigator for the study at Southwest Research Institute in Boulder, Colorado.",
+  "s": "The NASA WB-57F’s unique capabilities",
+  "v": "were",
+  "chunks": [
+   {"en": "“The NASA WB-57F’s unique capabilities of high-altitude flight", "ko": "NASA WB-57F 만이 가진 고고도 비행 능력은", "r": "주어(긴 명사구, 인용 시작)"},
+   {"en": "were truly crucial", "ko": "정말로 결정적이었습니다", "r": "동사 + 보어"},
+   {"en": "in providing access to these valuable wavelengths", "ko": "이 귀중한 파장들에 다가갈 길을 열어 준다는 점에서", "r": "전치사구(어떤 점에서 결정적인가)"},
+   {"en": "during an eclipse whose path crossed mostly over the ocean", "ko": "지나가는 길이 대부분 바다 위였던 이번 일식 동안", "r": "시간 + 관계절(그 일식 설명)"},
+   {"en": "in an area where clouds are common,”", "ko": "그것도 구름이 흔한 지역에서", "r": "관계절(그 바다 지역 설명)"},
+   {"en": "said Amir Caspi,", "ko": "아미르 카스피가 말했다", "r": "말한 사람"},
+   {"en": "principal investigator for the study", "ko": "이 연구의 책임 연구자인", "r": "동격(직책)"},
+   {"en": "at Southwest Research Institute in Boulder, Colorado.", "ko": "콜로라도주 볼더의 사우스웨스트 연구소 소속", "r": "전치사구(소속 기관과 소재지)"}
+  ],
+  "ko": "\"NASA WB-57F 만이 가진 고고도 비행 능력은 이 귀중한 파장들에 다가갈 길을 열어 주었다는 점에서 정말로 결정적이었습니다. 이번 일식은 지나가는 길이 대부분 바다 위였고, 그 바다는 구름이 흔한 지역이었으니까요.\" 콜로라도주 볼더의 사우스웨스트 연구소(Southwest Research Institute)에서 이 연구를 이끄는 책임 연구자 아미르 카스피(Amir Caspi)의 말이다.",
+  "why": "주어가 'WB-57F 의 + 특유의 능력 + 고고도 비행의'로 세 겹이라 동사 were 까지 멀다. whose path ~ 는 앞의 an eclipse 를, where clouds are common 은 앞의 an area 를 각각 꾸민다. 말한 사람과 그 직책·소속은 문장 맨 끝에 가서야 나온다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|11.1",
+  "en": "“We could not have achieved this success without this platform, and all of the efforts of the many intrepid ground, air, and science crew members.”",
+  "s": "We",
+  "v": "could not have achieved",
+  "chunks": [
+   {"en": "“We could not have achieved this success", "ko": "우리는 이번 성과를 이루지 못했을 것입니다", "r": "주어 + 동사(부정·가정) + 목적어"},
+   {"en": "without this platform,", "ko": "이 항공기가 없었다면", "r": "전치사구(없었다면)"},
+   {"en": "and all of the efforts", "ko": "그리고 그 모든 노력이 없었다면", "r": "나열(앞의 without 에 이어짐)"},
+   {"en": "of the many intrepid ground, air, and science crew members.”", "ko": "용감한 지상·항공·과학 요원들 여럿의", "r": "전치사구(누구의 노력인가)"}
+  ],
+  "ko": "\"이 항공기가 없었다면, 그리고 용감한 지상·항공·과학 요원 여럿의 그 모든 노력이 없었다면 우리는 이번 성과를 이루지 못했을 것입니다.\"",
+  "why": "could not have achieved 는 '이루지 못했다'가 아니라 '(~이 없었다면) 이루지 못했을 것이다'라는 가정이라, 실제로는 성공했다는 뜻이다. and 뒤의 all of the efforts 도 앞의 without 에 함께 걸린다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|12.0",
+  "en": "The data gathered during the flight will give scientists another opportunity to investigate the Sun and the processes that influence the space environment around Earth.",
+  "s": "The data gathered during the flight",
+  "v": "will give",
+  "chunks": [
+   {"en": "The data gathered during the flight", "ko": "이번 비행에서 모은 자료는", "r": "주어(과거분사구가 꾸미는 명사구)"},
+   {"en": "will give scientists another opportunity", "ko": "과학자들에게 또 한 번의 기회를 줄 것이다", "r": "동사 + 받는 쪽 + 목적어"},
+   {"en": "to investigate the Sun and the processes", "ko": "태양과 여러 과정을 살펴볼", "r": "무엇을 할 기회인가"},
+   {"en": "that influence the space environment around Earth.", "ko": "지구 둘레의 우주 환경에 영향을 주는", "r": "관계절(앞의 processes 설명)"}
+  ],
+  "ko": "이번 비행에서 모은 자료는 태양과, 지구 둘레의 우주 환경에 영향을 주는 여러 과정을 살펴볼 또 한 번의 기회를 과학자들에게 줄 것이다.",
+  "why": "gathered 는 문장의 동사가 아니라 The data 를 꾸미는 과거분사('모아진 자료')이고, 문장의 동사는 will give 다. 맨 끝 that 절은 바로 앞의 the processes 를 꾸민다(the Sun 이 아니다).",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|13.0",
+  "en": "View images and videos from NASA’s eclipse mission.",
+  "s": "",
+  "v": "View",
+  "chunks": [
+   {"en": "View images and videos", "ko": "사진과 영상을 보십시오", "r": "동사(명령) + 목적어"},
+   {"en": "from NASA’s eclipse mission.", "ko": "NASA 일식 임무에서 나온", "r": "전치사구(출처)"}
+  ],
+  "ko": "NASA 일식 임무에서 나온 사진과 영상을 보십시오.",
+  "why": "주어 없이 동사원형으로 시작하는 명령문(안내 문구)이다. View 를 명사 '전망·경치'로 읽으면 동사가 없는 문장이 되어 뜻이 통하지 않는다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|14.0",
+  "en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain.",
+  "s": "a total solar eclipse",
+  "v": "darkened",
+  "chunks": [
+   {"en": "On Aug. 12,", "ko": "8월 12일에", "r": "시간"},
+   {"en": "a total solar eclipse darkened skies", "ko": "개기일식이 하늘을 어둡게 했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "over Greenland, Iceland, and Spain.", "ko": "그린란드와 아이슬란드, 스페인 상공의", "r": "전치사구(어디 하늘인가)"}
+  ],
+  "ko": "8월 12일, 개기일식이 그린란드와 아이슬란드, 스페인 상공의 하늘을 어둡게 했다.",
+  "why": "darkened 는 '어두워졌다'가 아니라 뒤에 목적어를 받는 '어둡게 만들었다'는 타동사다. 어둡게 만든 쪽은 일식, 어두워진 쪽은 하늘이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|14.1",
+  "en": "As…",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "As…", "ko": "\"~할 때 …\" (여기서 글이 잘려 있다)", "r": "접속사만 남고 잘린 토막"}
+  ],
+  "ko": "\"~할 때 …\" — 기사 미리보기가 여기서 잘려 있어 뒤 내용이 없다.",
+  "why": "본문 문장이 아니라 기사 미리보기가 잘린 자리다. As 는 접속사로 시작했지만 뒤에 주어와 동사가 없어서 '~할 때'인지 '~ 때문에'인지 확정할 수 없다. 없는 내용을 상상으로 채우지 말 것.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|15.0",
+  "en": "Article 5 days ago 5 min read Human-Related Microbes May Survive Moon’s South Pole, NASA Finds Lee esta historia en español aquí.",
+  "s": "Human-Related Microbes",
+  "v": "May Survive",
+  "chunks": [
+   {"en": "Article 5 days ago 5 min read", "ko": "기사 · 5일 전 · 읽는 데 5분", "r": "목록 표시(본문 아님)"},
+   {"en": "Human-Related Microbes May Survive Moon’s South Pole,", "ko": "사람에게서 온 미생물이 달 남극에서 살아남을 수도 있다", "r": "다른 기사 제목(주어 + 동사 + 목적어)"},
+   {"en": "NASA Finds", "ko": "라고 NASA가 밝혔다", "r": "제목 뒤 출처"},
+   {"en": "Lee esta historia en español aquí.", "ko": "이 기사를 스페인어로 여기서 읽으세요 (스페인어 안내문)", "r": "다른 언어 안내문"}
+  ],
+  "ko": "(기사 목록 토막) \"기사 · 5일 전 · 읽는 데 5분 — 사람에게서 온 미생물이 달 남극에서 살아남을 수도 있다고 NASA가 밝혔다.\" 그 뒤에 \"이 기사를 스페인어로 여기서 읽으세요\"라는 스페인어 안내가 붙어 있다.",
+  "why": "본문이 아니라 기사 목록에서 긁혀 온 토막이라 여러 조각이 한 줄로 붙어 있다. Human-Related Microbes May Survive ~ 가 다른 기사의 제목이고, NASA Finds 는 '~라고 NASA가 밝혔다'는 뜻으로 제목 뒤에 붙는 표현이다. 마지막 문장은 영어가 아니라 스페인어다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|15.1",
+  "en": "Some of Earth’s microbes likely to hitch a ride…",
+  "s": "Some of Earth’s microbes",
+  "v": "",
+  "chunks": [
+   {"en": "Some of Earth’s microbes", "ko": "지구의 미생물 가운데 일부가", "r": "주어(제목 문체)"},
+   {"en": "likely to hitch a ride…", "ko": "얻어 탈 가능성이 있다 … (여기서 잘림)", "r": "보어(be동사가 빠진 제목 문체)"}
+  ],
+  "ko": "(잘린 제목 토막) \"지구의 미생물 가운데 일부가 (무엇인가에) 얻어 탈 가능성이 있다…\"",
+  "why": "기사 제목·미리보기 문체라 be동사(are)가 빠져 있고 문장이 … 에서 잘려 있다. likely 는 형용사이지 동사가 아니다. hitch a ride 는 '얻어 타다, 편승하다'라는 관용 표현이다.",
+  "st": []
+ },
+ {
+  "id": "9eba4c08|16.0",
+  "en": "Article 1 week ago 7 min read Behind the Lens: Meet NASA Johnson’s Photographers Article 1 week ago Keep Exploring Discover More Topics From NASA Missions",
+  "s": "",
+  "v": "Meet",
+  "chunks": [
+   {"en": "Article 1 week ago 7 min read", "ko": "기사 · 1주 전 · 읽는 데 7분", "r": "목록 표시(본문 아님)"},
+   {"en": "Behind the Lens: Meet NASA Johnson’s Photographers", "ko": "렌즈 뒤에서: NASA 존슨센터의 사진가들을 만나 보세요", "r": "다른 기사 제목(명령문)"},
+   {"en": "Article 1 week ago", "ko": "기사 · 1주 전", "r": "목록 표시(되풀이)"},
+   {"en": "Keep Exploring Discover More Topics", "ko": "계속 둘러보기 / 더 많은 주제를 찾아보기", "r": "화면 단추·소제목 글씨"},
+   {"en": "From NASA Missions", "ko": "NASA 임무에서", "r": "소제목 글씨(이어짐)"}
+  ],
+  "ko": "(기사 목록·화면 안내 토막) \"기사 · 1주 전 · 읽는 데 7분 — 렌즈 뒤에서: NASA 존슨센터의 사진가들을 만나 보세요 · 기사 · 1주 전 · 계속 둘러보기 · NASA 임무에서 더 많은 주제 찾아보기\"",
+  "why": "본문이 아니라 웹페이지 아래쪽의 기사 목록과 단추 글씨가 한 줄로 붙어 긁혀 온 토막이다. Meet, Keep, Discover 는 모두 읽는 사람에게 권하는 명령문이라 주어가 없다. 한 문장으로 이어 읽으려 하면 뜻이 통하지 않는다.",
+  "st": []
+ }
+]

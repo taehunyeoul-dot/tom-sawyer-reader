@@ -1,0 +1,336 @@
+[
+ {
+  "id": "9fa760d3|0.0",
+  "en": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner.",
+  "s": "NASA’s next Gateways to Blue Skies competition",
+  "v": "invites",
+  "chunks": [
+   {"en": "NASA’s next Gateways to Blue Skies competition", "ko": "NASA의 다음 Gateways to Blue Skies 대회는", "r": "주어(대회 이름)"},
+   {"en": "invites collegiate teams", "ko": "대학생 팀들을 부른다 / 팀들에게 청한다", "r": "동사 + 목적어"},
+   {"en": "to imagine innovative new ways", "ko": "혁신적인 새 방법을 구상해 보라고", "r": "목적보어(팀들이 할 일)"},
+   {"en": "aircraft could inspect land-based infrastructure,", "ko": "항공기가 땅 위의 기반 시설을 점검할 수 있는", "r": "관계절(앞의 ways 설명, 관계사 생략)"},
+   {"en": "such as bridges and tunnels,", "ko": "다리와 터널 같은", "r": "예시(앞의 infrastructure)"},
+   {"en": "to improve safety, reliability, and costs", "ko": "안전성과 신뢰성을 높이고 비용을 개선하기 위해", "r": "목적"},
+   {"en": "by 2035 or sooner.", "ko": "2035년까지, 또는 그보다 더 일찍", "r": "시간(기한)"}
+  ],
+  "ko": "NASA의 다음 Gateways to Blue Skies(푸른 하늘로 가는 관문) 대회는, 항공기가 다리와 터널 같은 땅 위의 기반 시설을 점검할 수 있는 혁신적인 새 방법을 구상해 보라고 대학생 팀들에게 청한다. 2035년까지, 또는 그보다 더 이르게 안전성과 신뢰성을 높이고 비용을 개선하는 것이 목표다.",
+  "why": "invite A to do 는 ‘A에게 ~해 보라고 청한다’이다. ways 뒤에 관계사(that/in which)가 빠져 있어서 aircraft could inspect … 가 곧바로 붙어 ways 를 설명한다. 쉼표로 끼어든 such as bridges and tunnels 는 앞의 infrastructure 의 예시일 뿐이니 괄호로 묶어 두고 읽으면 된다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|1.0",
+  "en": "Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life.",
+  "s": "Infrastructure",
+  "v": "is",
+  "chunks": [
+   {"en": "Infrastructure is the foundation", "ko": "기반 시설은 그 토대다", "r": "주어 + 동사 + 보어"},
+   {"en": "of the nation’s strong economy,", "ko": "나라의 튼튼한 경제의", "r": "전치사구(무엇의 토대인가)"},
+   {"en": "global competitiveness,", "ko": "국제 경쟁력의", "r": "나열"},
+   {"en": "and daily quality of life.", "ko": "그리고 하루하루의 삶의 질의", "r": "나열"}
+  ],
+  "ko": "기반 시설은 나라의 튼튼한 경제, 국제 경쟁력, 그리고 하루하루의 삶의 질을 떠받치는 토대다.",
+  "why": "of 뒤에 세 가지(경제 · 국제 경쟁력 · 삶의 질)가 나란히 이어진다. the nation’s(그 나라의)는 세 가지 모두에 걸리고, 마지막 quality of life 는 ‘삶의 질’이라는 한 덩어리다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|1.1",
+  "en": "When that infrastructure is damaged or in disrepair, it restricts the movement of people, goods, and critical resources like water and energy.",
+  "s": "it",
+  "v": "restricts",
+  "chunks": [
+   {"en": "When that infrastructure is damaged", "ko": "그 기반 시설이 망가지거나", "r": "부사절(~할 때)"},
+   {"en": "or in disrepair,", "ko": "손볼 곳을 그대로 둔 상태가 되면", "r": "부사절 안의 보어 나열"},
+   {"en": "it restricts the movement", "ko": "그것은 이동을 제한한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of people, goods, and critical resources", "ko": "사람과 물자, 그리고 중요한 자원의", "r": "전치사구(무엇의 이동인가)"},
+   {"en": "like water and energy.", "ko": "물과 에너지 같은", "r": "예시(앞의 resources)"}
+  ],
+  "ko": "그 기반 시설이 망가지거나 손볼 곳을 그대로 둔 상태가 되면, 사람과 물자, 그리고 물·에너지 같은 중요한 자원의 이동이 제한된다.",
+  "why": "is damaged or in disrepair 는 be 동사 하나에 damaged(망가진)와 in disrepair(손보지 않아 낡은 상태)가 함께 걸린 것이다. 주절의 it 은 앞 절의 that infrastructure 를 그대로 받는다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|1.2",
+  "en": "Inspections are important throughout the lifetime of infrastructure projects, but they often come with challenges.",
+  "s": "Inspections",
+  "v": "are",
+  "chunks": [
+   {"en": "Inspections are important", "ko": "점검은 중요하다", "r": "주어 + 동사 + 보어"},
+   {"en": "throughout the lifetime of infrastructure projects,", "ko": "기반 시설 사업이 존속하는 기간 내내", "r": "전치사구(기간)"},
+   {"en": "but they often come with challenges.", "ko": "그러나 점검에는 어려움이 따르는 경우가 많다", "r": "대등절(그러나)"}
+  ],
+  "ko": "점검은 기반 시설 사업이 유지되는 기간 내내 중요하다. 그러나 점검에는 어려움이 따르는 경우가 많다.",
+  "why": "throughout the lifetime of ~ 는 ‘~이 쓰이는 기간 전체에 걸쳐’라는 뜻이다. but 뒤의 they 는 앞의 Inspections 를 받고, come with 는 ‘~이 함께 따라온다’는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|2.0",
+  "en": "Structures such as tunnels, bridges, highways, railways, and electric grids can be massive in size and difficult to reach.",
+  "s": "Structures",
+  "v": "can be",
+  "chunks": [
+   {"en": "Structures such as tunnels, bridges, highways,", "ko": "터널, 다리, 고속도로 같은 구조물은", "r": "주어 + 예시"},
+   {"en": "railways, and electric grids", "ko": "철도와 전력망 (같은)", "r": "예시 계속"},
+   {"en": "can be massive in size", "ko": "규모가 엄청나게 클 수 있고", "r": "동사 + 보어"},
+   {"en": "and difficult to reach.", "ko": "또 다가가기 어려울 수 있다", "r": "보어 나열"}
+  ],
+  "ko": "터널, 다리, 고속도로, 철도, 전력망 같은 구조물은 규모가 엄청나게 클 수 있고, 다가가기도 어려울 수 있다.",
+  "why": "주어 Structures 뒤에 such as 로 예시가 다섯 개나 끼어들어 동사 can be 가 멀리 밀린다. 뒤의 and 는 massive 와 difficult 라는 두 보어를 잇는 것이지 새 문장을 잇는 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|2.1",
+  "en": "They can require disruptive shutdowns to access, or force workers to navigate extreme heights, confined spaces, and hazardous environments.",
+  "s": "They",
+  "v": "can require",
+  "chunks": [
+   {"en": "They can require disruptive shutdowns", "ko": "그것들은 지장이 큰 중단 조치를 필요로 할 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to access,", "ko": "다가가려면", "r": "목적(중단이 필요한 이유)"},
+   {"en": "or force workers to navigate", "ko": "아니면 작업자들이 헤치고 다니게 만들 수도 있다", "r": "대등한 동사 + 목적어 + 목적보어"},
+   {"en": "extreme heights, confined spaces,", "ko": "아주 높은 곳, 비좁은 공간", "r": "헤쳐 나갈 대상 나열"},
+   {"en": "and hazardous environments.", "ko": "그리고 위험한 환경을", "r": "나열"}
+  ],
+  "ko": "그 구조물들은 다가가려면 (평소 운영을 멈추는) 지장이 큰 중단 조치가 필요할 수 있고, 아니면 작업자들이 아주 높은 곳, 비좁은 공간, 위험한 환경을 헤치고 다녀야 하게 만들 수도 있다.",
+  "why": "or 뒤의 force 는 앞의 can 에 함께 걸리는 두 번째 동사다(can require … or (can) force …). force 를 명사 ‘힘’으로 읽으면 문장이 무너진다. to access 는 ‘다가가기 위해서는’이라는 목적이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|2.2",
+  "en": "As infrastructure ages and expands, there are opportunities to use innovative airborne platforms to improve current inspection practices.",
+  "s": "there",
+  "v": "are",
+  "chunks": [
+   {"en": "As infrastructure ages and expands,", "ko": "기반 시설이 낡아 가고 또 늘어남에 따라", "r": "부사절(~함에 따라)"},
+   {"en": "there are opportunities", "ko": "기회가 있다", "r": "there + 동사 + 진짜 주어"},
+   {"en": "to use innovative airborne platforms", "ko": "혁신적인 공중 플랫폼(하늘에서 쓰는 장비)을 활용할", "r": "형용사적 용법(앞의 opportunities 설명)"},
+   {"en": "to improve current inspection practices.", "ko": "현재의 점검 방식을 개선하기 위해", "r": "목적"}
+  ],
+  "ko": "기반 시설이 낡아 가고 또 늘어남에 따라, 혁신적인 공중 플랫폼(하늘에서 쓰는 장비)을 활용해 지금의 점검 방식을 개선할 기회가 생기고 있다.",
+  "why": "As 는 ‘~로서’가 아니라 ‘~함에 따라’다. there are 는 ‘거기에 있다’가 아니라 ‘~이 있다’이며 진짜 주어는 뒤의 opportunities 다. to 가 두 번 나오는데 앞의 to use 는 어떤 기회인지를 밝히고, 뒤의 to improve 는 그 목적이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|3.0",
+  "en": "“The demands for creative solutions like airborne platforms to improve the infrastructure sector are increasing exponentially,” said Steven Holz, Gateways to Blue Skies competition lead, NASA’s Langley Research Center in Hampton, Virginia.",
+  "s": "The demands",
+  "v": "are increasing",
+  "chunks": [
+   {"en": "“The demands for creative solutions", "ko": "창의적인 해법을 바라는 요구가", "r": "인용 시작 + 주어"},
+   {"en": "like airborne platforms", "ko": "공중 플랫폼 같은", "r": "예시(앞의 solutions)"},
+   {"en": "to improve the infrastructure sector", "ko": "기반 시설 분야를 개선할", "r": "형용사적 용법(어떤 해법인가)"},
+   {"en": "are increasing exponentially,”", "ko": "폭발적으로 늘고 있다", "r": "동사 + 부사"},
+   {"en": "said Steven Holz,", "ko": "라고 Steven Holz 가 말했다", "r": "전달 동사 + 말한 사람"},
+   {"en": "Gateways to Blue Skies competition lead,", "ko": "Gateways to Blue Skies 대회 책임자이자", "r": "동격(직책)"},
+   {"en": "NASA’s Langley Research Center in Hampton, Virginia.", "ko": "버지니아주 햄프턴에 있는 NASA 랭글리 연구센터 소속", "r": "동격(소속 기관과 소재지)"}
+  ],
+  "ko": "“공중 플랫폼처럼 기반 시설 분야를 개선할 창의적인 해법을 바라는 요구가 폭발적으로 늘고 있다”고 버지니아주 햄프턴에 있는 NASA 랭글리 연구센터(Langley Research Center)의 Gateways to Blue Skies 대회 책임자 Steven Holz 가 말했다.",
+  "why": "주어 The demands 와 동사 are increasing 사이에 수식어가 세 겹(for creative solutions / like airborne platforms / to improve …) 끼어들어 있어, 바로 앞의 sector 를 주어로 착각하기 쉽다. said 뒤에 쉼표로 이어지는 두 토막은 새로운 사람이나 기관이 아니라 Steven Holz 한 사람의 직책과 소속이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|3.1",
+  "en": "“The time is ripe for innovative students to transform how we work with our critical infrastructure, and this competition gives talented students the opportunity to do so.”",
+  "s": "The time",
+  "v": "is",
+  "chunks": [
+   {"en": "“The time is ripe", "ko": "때가 무르익었다", "r": "주어 + 동사 + 보어"},
+   {"en": "for innovative students to transform", "ko": "혁신적인 학생들이 바꿔 놓기에", "r": "의미상 주어 + to부정사"},
+   {"en": "how we work with our critical infrastructure,", "ko": "우리가 중요한 기반 시설을 다루는 방식을", "r": "목적어(방식)"},
+   {"en": "and this competition gives talented students", "ko": "그리고 이 대회는 재능 있는 학생들에게 준다", "r": "대등절: 주어 + 동사 + 간접목적어"},
+   {"en": "the opportunity to do so.”", "ko": "바로 그 일을 할 기회를", "r": "직접목적어 + 그 내용"}
+  ],
+  "ko": "“혁신적인 학생들이 우리가 중요한 기반 시설을 다루는 방식을 바꿔 놓기에 딱 좋은 때다. 그리고 이 대회는 재능 있는 학생들에게 바로 그 일을 할 기회를 준다.”",
+  "why": "The time is ripe for A to B 는 ‘A가 B할 때가 무르익었다’이고, for 뒤의 students 가 transform 을 실제로 하는 쪽이다. 맨 뒤의 to do so 는 앞에 나온 to transform how we work … 를 통째로 받는 말이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|4.0",
+  "en": "Sponsored by NASA’s University Innovation Project , the 2027 Gateways to Blue Skies competition encourages multidisciplinary teams of college students to conceptualize innovations in the world of aviation.",
+  "s": "the 2027 Gateways to Blue Skies competition",
+  "v": "encourages",
+  "chunks": [
+   {"en": "Sponsored by NASA’s University Innovation Project ,", "ko": "NASA의 University Innovation Project 후원을 받는", "r": "분사구문(수동, 뒤 주어를 설명)"},
+   {"en": "the 2027 Gateways to Blue Skies competition encourages", "ko": "2027년 Gateways to Blue Skies 대회는 ~하도록 권한다", "r": "주어 + 동사"},
+   {"en": "multidisciplinary teams of college students", "ko": "여러 전공이 섞인 대학생 팀들이", "r": "목적어"},
+   {"en": "to conceptualize innovations", "ko": "혁신을 구상해 보도록", "r": "목적보어(팀들이 할 일)"},
+   {"en": "in the world of aviation.", "ko": "항공 분야에서의", "r": "전치사구(어느 분야의 혁신인가)"}
+  ],
+  "ko": "NASA의 University Innovation Project(대학 혁신 프로젝트)의 후원을 받는 2027년 Gateways to Blue Skies 대회는, 여러 전공이 함께 모인 대학생 팀들이 항공 분야의 혁신을 구상해 보도록 권한다.",
+  "why": "맨 앞의 Sponsored by ~ 는 주어가 빠진 분사구문으로, 뒤에 나오는 the 2027 … competition 을 설명한다(후원을 ‘받는’ 쪽이 대회다). encourage A to B 는 ‘A가 B하도록 권한다’로, 구상하는 쪽은 대회가 아니라 학생 팀이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|4.1",
+  "en": "Each year, the competition selects a new theme based on a complex challenge facing the Nation.",
+  "s": "the competition",
+  "v": "selects",
+  "chunks": [
+   {"en": "Each year,", "ko": "해마다", "r": "시간"},
+   {"en": "the competition selects a new theme", "ko": "그 대회는 새 주제를 정한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "based on a complex challenge", "ko": "복잡한 과제 하나를 바탕으로", "r": "근거(무엇에 바탕을 둔 주제인가)"},
+   {"en": "facing the Nation.", "ko": "나라가 맞닥뜨리고 있는", "r": "현재분사구(앞의 challenge 설명)"}
+  ],
+  "ko": "해마다 이 대회는 미국이 맞닥뜨리고 있는 복잡한 과제 하나를 바탕으로 새 주제를 정한다.",
+  "why": "맨 뒤의 facing the Nation 은 문장의 동사가 아니라 바로 앞의 a complex challenge 를 꾸미는 분사구다. 문법상으로는 challenge 가 facing 의 주어지만, 우리말로는 ‘나라가 직면한 과제’로 뒤집어 옮기는 것이 자연스럽다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|4.2",
+  "en": "It aims to engage as many students as possible from all backgrounds, majors, and collegiate levels.",
+  "s": "It",
+  "v": "aims",
+  "chunks": [
+   {"en": "It aims to engage", "ko": "그것은 참여시키는 것을 목표로 한다", "r": "주어 + 동사 + 목적"},
+   {"en": "as many students as possible", "ko": "가능한 한 많은 학생을", "r": "목적어"},
+   {"en": "from all backgrounds, majors, and collegiate levels.", "ko": "온갖 배경, 전공, 학년(대학 단계)에서 온", "r": "전치사구(학생의 범위)"}
+  ],
+  "ko": "이 대회는 배경, 전공, 학년(대학 단계)을 가리지 않고 되도록 많은 학생을 참여시키는 것을 목표로 한다.",
+  "why": "It 은 앞 문장의 the competition 을 받는다. as many students as possible 은 ‘가능한 한 많은 학생’이라는 한 덩어리로 통째로 잡아야 하고, from 이하는 그 학생들의 범위를 넓게 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|5.0",
+  "en": "The competition is open to teams of two to six students and divided into two phases.",
+  "s": "The competition",
+  "v": "is",
+  "chunks": [
+   {"en": "The competition is open", "ko": "그 대회는 열려 있다", "r": "주어 + 동사 + 보어"},
+   {"en": "to teams of two to six students", "ko": "학생 2명에서 6명으로 된 팀에게", "r": "전치사구(참가 대상)"},
+   {"en": "and divided into two phases.", "ko": "그리고 두 단계로 나뉘어 있다", "r": "보어 나열(수동)"}
+  ],
+  "ko": "이 대회는 학생 2~6명으로 이루어진 팀이면 참가할 수 있고, 두 단계로 나뉘어 진행된다.",
+  "why": "is 하나에 open 과 divided 가 함께 걸린다(is open … and (is) divided …). 두 단계로 나뉘는 것은 바로 앞의 팀이나 학생이 아니라 대회다. two to six 는 ‘2에서 6까지’라는 인원 범위다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|5.1",
+  "en": "In Phase 1, teams will submit a proposal and an accompanying two-minute video, which will be judged by NASA and industry experts.",
+  "s": "teams",
+  "v": "will submit",
+  "chunks": [
+   {"en": "In Phase 1,", "ko": "1단계에서는", "r": "단계(때)"},
+   {"en": "teams will submit a proposal", "ko": "각 팀이 제안서를 제출한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and an accompanying two-minute video,", "ko": "그리고 거기에 딸린 2분짜리 영상을", "r": "목적어 나열"},
+   {"en": "which will be judged by NASA and industry experts.", "ko": "이것들은 NASA와 업계 전문가들의 심사를 받는다", "r": "관계절(앞의 제출물 설명, 수동)"}
+  ],
+  "ko": "1단계에서 각 팀은 제안서 한 편과 거기에 딸린 2분짜리 영상을 제출한다. 이 제출물은 NASA와 업계 전문가들이 심사한다.",
+  "why": "which 절은 사람이 아니라 앞에 나온 제출물(제안서와 영상)을 받는다. will be judged 는 수동태라 ‘심사한다’가 아니라 ‘심사받는다’이고, 심사하는 쪽은 by 뒤의 NASA와 업계 전문가들이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|5.2",
+  "en": "Up to eight finalist teams will each receive a $9,000 prize and advance to Phase 2, where they will present their updated work to a panel of NASA and industry experts at a forum in May 2027.",
+  "s": "Up to eight finalist teams",
+  "v": "will each receive",
+  "chunks": [
+   {"en": "Up to eight finalist teams", "ko": "최대 여덟 팀까지의 결선 진출 팀이", "r": "주어"},
+   {"en": "will each receive a $9,000 prize", "ko": "각각 9,000달러의 상금을 받고", "r": "동사 + 목적어"},
+   {"en": "and advance to Phase 2,", "ko": "그리고 2단계로 올라간다", "r": "대등한 동사구"},
+   {"en": "where they will present their updated work", "ko": "그 2단계에서 팀들은 보완한 결과물을 발표한다", "r": "관계절(앞의 Phase 2 설명)"},
+   {"en": "to a panel of NASA and industry experts", "ko": "NASA와 업계 전문가로 이루어진 심사단 앞에서", "r": "전치사구(발표 상대)"},
+   {"en": "at a forum in May 2027.", "ko": "2027년 5월에 열리는 포럼에서", "r": "장소 + 시간"}
+  ],
+  "ko": "최대 여덟 팀까지의 결선 진출 팀이 각각 9,000달러의 상금을 받고 2단계로 올라간다. 2단계에서 이 팀들은 2027년 5월에 열리는 포럼에서 NASA와 업계 전문가로 이루어진 심사단 앞에 보완한 결과물을 발표하게 된다.",
+  "why": "and advance 는 앞의 will 에 함께 걸리는 두 번째 동사다(will each receive … and (will) advance …). where 는 장소가 아니라 바로 앞의 Phase 2 를 받아 ‘그 단계에서’라는 뜻으로 쓰였다. Up to eight 은 ‘여덟 팀까지(최대)’라서 반드시 여덟 팀이라는 뜻은 아니다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|5.3",
+  "en": "Winners will be offered the opportunity to intern with NASA Aeronautics in the academic year following the forum.",
+  "s": "Winners",
+  "v": "will be offered",
+  "chunks": [
+   {"en": "Winners will be offered the opportunity", "ko": "우승자들은 기회를 제안받게 된다", "r": "주어 + 동사(수동) + 목적어"},
+   {"en": "to intern with NASA Aeronautics", "ko": "NASA Aeronautics(항공 부문)에서 인턴으로 일할", "r": "형용사적 용법(어떤 기회인가)"},
+   {"en": "in the academic year following the forum.", "ko": "그 포럼 다음에 오는 학년도에", "r": "시간"}
+  ],
+  "ko": "우승 팀에게는 포럼이 끝난 뒤의 학년도에 NASA Aeronautics(NASA 항공 부문)에서 인턴으로 일할 기회가 주어진다.",
+  "why": "will be offered 는 수동태라 ‘제안한다’가 아니라 ‘제안받는다’이며, 제안하는 쪽은 문장에 나오지 않는다. following 은 동사가 아니라 ‘~ 다음의’라는 뜻으로 앞의 the academic year 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.0",
+  "en": "Teams interested in participating in the competition can review guidelines and eligibility requirements posted on the competition website .",
+  "s": "Teams interested in participating in the competition",
+  "v": "can review",
+  "chunks": [
+   {"en": "Teams interested in participating in the competition", "ko": "대회 참가에 관심이 있는 팀은", "r": "주어(뒤에서 꾸미는 말이 붙은 긴 주어)"},
+   {"en": "can review guidelines and eligibility requirements", "ko": "안내 지침과 참가 자격 요건을 살펴볼 수 있다", "r": "동사 + 목적어"},
+   {"en": "posted on the competition website .", "ko": "대회 웹사이트에 올라와 있는", "r": "과거분사구(앞의 목적어 설명)"}
+  ],
+  "ko": "대회 참가에 관심이 있는 팀은 대회 웹사이트에 올라와 있는 안내 지침과 참가 자격 요건을 살펴볼 수 있다.",
+  "why": "주어가 ‘Teams + interested in ~’ 로 길어져 동사 can review 가 멀리 떨어진다. 맨 뒤의 posted on ~ 도 문장의 동사가 아니라 앞의 guidelines and eligibility requirements 를 꾸미는 과거분사구다. 이 문장의 동사는 can review 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.1",
+  "en": "Teams are encouraged to submit a non-binding Notice of Intent by Monday, Oct. 12, via the website to stay apprised of competition news.",
+  "s": "Teams",
+  "v": "are encouraged",
+  "chunks": [
+   {"en": "Teams are encouraged to submit", "ko": "각 팀은 제출하도록 권장된다", "r": "주어 + 동사(수동) + to부정사"},
+   {"en": "a non-binding Notice of Intent", "ko": "구속력 없는 참가 의향서를", "r": "목적어(제출물 이름)"},
+   {"en": "by Monday, Oct. 12,", "ko": "10월 12일 월요일까지", "r": "시간(기한)"},
+   {"en": "via the website", "ko": "웹사이트를 통해", "r": "수단"},
+   {"en": "to stay apprised of competition news.", "ko": "대회 소식을 계속 전해 듣기 위해", "r": "목적"}
+  ],
+  "ko": "각 팀은 대회 소식을 계속 전해 듣기 위해 10월 12일 월요일까지 웹사이트를 통해 구속력 없는 참가 의향서(Notice of Intent)를 내도록 권장된다.",
+  "why": "are encouraged 는 수동태라 ‘권한다’가 아니라 ‘권장받는다’이고, 권하는 쪽(주최 측)은 문장에 나오지 않는다. by 는 ‘~에 의해’가 아니라 ‘~까지’라는 기한이며, non-binding 은 ‘내더라도 꼭 참가해야 하는 것은 아니다’라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.2",
+  "en": "Proposal and video submissions are due Feb. 22, 2027.",
+  "s": "Proposal and video submissions",
+  "v": "are",
+  "chunks": [
+   {"en": "Proposal and video submissions", "ko": "제안서와 영상 제출물은", "r": "주어(두 가지를 묶은 것)"},
+   {"en": "are due Feb. 22, 2027.", "ko": "2027년 2월 22일이 마감이다", "r": "동사 + 보어(마감일)"}
+  ],
+  "ko": "제안서와 영상 제출 마감은 2027년 2월 22일이다.",
+  "why": "be due + 날짜 는 ‘그 날짜가 마감이다, 그때까지 내야 한다’는 뜻이다. due 를 ‘~ 때문에’로 읽지 않도록 주의한다. submissions 는 한 번만 나오지만 Proposal 과 video 두 가지 모두에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.3",
+  "en": "The Gateway to Blue Skies Competition is run by the Aeronautics Division in NASA’s Research and Technology Mission Directorate.",
+  "s": "The Gateway to Blue Skies Competition",
+  "v": "is run",
+  "chunks": [
+   {"en": "The Gateway to Blue Skies Competition", "ko": "Gateway to Blue Skies 대회는", "r": "주어(대회 이름)"},
+   {"en": "is run by the Aeronautics Division", "ko": "Aeronautics Division(항공 부문)이 운영한다", "r": "동사(수동) + 운영 주체"},
+   {"en": "in NASA’s Research and Technology Mission Directorate.", "ko": "NASA의 연구·기술 임무 본부 안에 있는", "r": "전치사구(그 부서의 소속)"}
+  ],
+  "ko": "Gateway to Blue Skies 대회는 NASA의 연구·기술 임무 본부(Research and Technology Mission Directorate) 안에 있는 항공 부문(Aeronautics Division)이 운영한다.",
+  "why": "is run by ~ 는 수동태라 ‘운영한다’가 아니라 ‘운영된다’이고, 실제로 운영하는 쪽은 by 뒤에 나온다. run 은 여기서 ‘달리다’가 아니라 ‘운영하다’이며, 맨 뒤의 in ~ 은 대회가 열리는 장소가 아니라 그 Division 이 속해 있는 상위 조직이다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.4",
+  "en": "NASA’s Center of Excellence for Collaborative Innovation, part of the Prizes, Challenges, and Crowdsourcing Program within the Research and Technology Mission Directorate, manages the challenge contract.",
+  "s": "NASA’s Center of Excellence for Collaborative Innovation",
+  "v": "manages",
+  "chunks": [
+   {"en": "NASA’s Center of Excellence for Collaborative Innovation,", "ko": "NASA의 협업 혁신 우수 센터가", "r": "주어(기관 이름)"},
+   {"en": "part of the Prizes, Challenges, and Crowdsourcing Program", "ko": "상금·챌린지·크라우드소싱 프로그램의 한 부분이며", "r": "동격(앞 기관의 소속)"},
+   {"en": "within the Research and Technology Mission Directorate,", "ko": "연구·기술 임무 본부 안에 있는", "r": "전치사구(그 프로그램의 소속)"},
+   {"en": "manages the challenge contract.", "ko": "이 대회의 계약 업무를 관리한다", "r": "동사 + 목적어"}
+  ],
+  "ko": "NASA의 Center of Excellence for Collaborative Innovation(협업 혁신 우수 센터)이 이 대회의 계약 업무를 관리한다. 이 센터는 연구·기술 임무 본부(Research and Technology Mission Directorate) 안에 있는 Prizes, Challenges, and Crowdsourcing Program(상금·챌린지·크라우드소싱 프로그램)에 속해 있다.",
+  "why": "주어와 동사 사이에 쉼표로 둘러싸인 동격(같은 것을 다시 설명하는 말)이 스무 단어 넘게 끼어 있다. 쉼표 안쪽을 통째로 괄호로 묶고 ‘Center … manages the challenge contract’ 라는 뼈대를 먼저 잡아야 한다. 중간의 쉼표들은 프로그램 이름 안에 든 쉼표라 문장을 나누는 쉼표가 아니다.",
+  "st": []
+ },
+ {
+  "id": "9fa760d3|6.5",
+  "en": "The National Institute of Aerospace administers the challenge on behalf of NASA.",
+  "s": "The National Institute of Aerospace",
+  "v": "administers",
+  "chunks": [
+   {"en": "The National Institute of Aerospace", "ko": "국립항공우주연구소가", "r": "주어(기관 이름)"},
+   {"en": "administers the challenge", "ko": "이 대회를 운영·관리한다", "r": "동사 + 목적어"},
+   {"en": "on behalf of NASA.", "ko": "NASA를 대신하여", "r": "전치사구(누구를 대신해서인가)"}
+  ],
+  "ko": "국립항공우주연구소(The National Institute of Aerospace)가 NASA를 대신해 이 대회를 운영·관리한다.",
+  "why": "on behalf of ~ 는 ‘~를 대신하여, ~를 대표하여’라는 뜻이다. NASA 라는 이름이 뒤에 나오지만 실제 운영 실무를 맡는 쪽은 NASA가 아니라 The National Institute of Aerospace 다.",
+  "st": []
+ }
+]

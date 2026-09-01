@@ -1,0 +1,398 @@
+[
+ {
+  "id": "710198cf|0.0",
+  "en": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities.",
+  "s": "NASA",
+  "v": "has selected",
+  "chunks": [
+   {"en": "NASA has selected four university teams", "ko": "NASA는 대학 팀 네 곳을 선정했다", "r": "주어 + 동사(현재완료) + 목적어"},
+   {"en": "to help the agency transform the future of aviation", "ko": "그 기관(NASA)이 항공의 미래를 바꾸어 나가도록 돕게 하려고", "r": "목적(무엇을 위해 뽑았나)"},
+   {"en": "through projects ranging from high-supersonic propulsion systems", "ko": "고초음속 추진 장치에서부터", "r": "수단 + 현재분사구(앞 projects 설명)"},
+   {"en": "to low-noise routes for small aircraft", "ko": "소형 항공기용 저소음 항로에까지 걸친 과제들을 통해", "r": "범위의 끝"},
+   {"en": "flying through cities.", "ko": "도시 사이를 날아다니는", "r": "현재분사구(앞 small aircraft 설명)"}
+  ],
+  "ko": "NASA는 대학 팀 네 곳을 선정해, NASA가 항공의 미래를 바꾸어 나가는 일을 돕게 했다. 팀들이 맡을 과제는 고초음속(음속의 몇 배로 나는) 추진 장치에서부터, 도시 사이를 날아다니는 소형 항공기의 저소음 항로에 이르기까지 다양하다.",
+  "why": "동사는 has selected 하나뿐이다. to help the agency transform ~ 은 '그 기관이 ~하도록 돕게 하려고'라는 목적이고, the agency 는 NASA 자신을 다시 가리키는 말이다. ranging from A to B 는 projects 를 꾸며 '과제가 A부터 B까지 걸쳐 있다'는 뜻이고, 맨 끝 flying through cities 는 small aircraft 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|1.0",
+  "en": "The agency made awards through its University Leadership Initiative , which offers student teams the opportunity to contribute to real-world flight research that advances NASA’s goals in aeronautics.",
+  "s": "The agency",
+  "v": "made",
+  "chunks": [
+   {"en": "The agency made awards", "ko": "그 기관(NASA)이 지원금을 주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "through its University Leadership Initiative ,", "ko": "자기 기관의 University Leadership Initiative(대학 주도 이니셔티브)를 통해", "r": "수단(어떤 제도를 통해)"},
+   {"en": "which offers student teams the opportunity", "ko": "그 사업은 학생 팀들에게 기회를 준다", "r": "관계절(앞 사업 설명)"},
+   {"en": "to contribute to real-world flight research", "ko": "실제 비행 연구에 참여할 (기회를)", "r": "앞 opportunity 설명"},
+   {"en": "that advances NASA’s goals in aeronautics.", "ko": "항공학 분야에서 NASA의 목표를 진전시키는", "r": "관계절(앞 research 설명)"}
+  ],
+  "ko": "NASA는 자체 사업인 University Leadership Initiative(대학 주도 이니셔티브)를 통해 지원금을 주었다. 이 사업은 학생 팀들에게, 항공학 분야에서 NASA의 목표를 진전시키는 실제 비행 연구에 참여할 기회를 준다.",
+  "why": "쉼표 뒤 which 는 바로 앞 단어 하나가 아니라 University Leadership Initiative 라는 사업을 통째로 받는다. offers 는 '누구에게 무엇을 준다'는 짜임이라(offers student teams the opportunity) student teams 는 주는 대상이 아니라 받는 쪽이다. 맨 끝 that advances ~ 는 flight research 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|2.0",
+  "en": "This year’s awardees are pursuing projects that align with NASA strategic objectives, including innovation in commercial high-speed aircraft, the development of new tools that can lead to transformational aviation breakthroughs, safer and more efficient air traffic management, and the integration of new air transportation options into the national airspace.",
+  "s": "This year’s awardees",
+  "v": "are pursuing",
+  "chunks": [
+   {"en": "This year’s awardees are pursuing projects", "ko": "올해 선정된 팀들은 과제를 진행하고 있다", "r": "주어 + 동사(현재진행) + 목적어"},
+   {"en": "that align with NASA strategic objectives,", "ko": "NASA의 전략 목표에 들어맞는", "r": "관계절(앞 projects 설명)"},
+   {"en": "including innovation in commercial high-speed aircraft,", "ko": "그 목표에는 상업용 고속 항공기 분야의 혁신,", "r": "나열 ①(목표의 예)"},
+   {"en": "the development of new tools", "ko": "새로운 도구의 개발,", "r": "나열 ②"},
+   {"en": "that can lead to transformational aviation breakthroughs,", "ko": "항공을 통째로 바꿔 놓을 돌파구로 이어질 수 있는", "r": "관계절(앞 tools 설명)"},
+   {"en": "safer and more efficient air traffic management,", "ko": "더 안전하고 더 효율적인 항공 교통 관리,", "r": "나열 ③"},
+   {"en": "and the integration of new air transportation options into the national airspace.", "ko": "그리고 새로운 항공 교통 수단을 국가 공역에 통합하는 일이 든다", "r": "나열 ④"}
+  ],
+  "ko": "올해 선정된 팀들은 NASA의 전략 목표에 들어맞는 과제들을 진행하고 있다. 그 목표에는 상업용 고속 항공기 분야의 혁신, 항공에 큰 전환을 가져올 수 있는 새 도구의 개발, 더 안전하고 더 효율적인 항공 교통 관리, 그리고 새로운 항공 교통 수단을 국가 공역(national airspace, 한 나라의 하늘길)에 통합하는 일이 든다.",
+  "why": "including 뒤로 쉼표에 끊긴 네 덩어리가 나란히 놓인다. 이 넷은 서로 대등하게 나열된 항목이지 앞엣것을 꾸미는 말이 아니다. 중간의 that can lead to ~ 만 바로 앞 new tools 에 붙는 설명이다. awardee 는 -ee 로 끝나 '받는 쪽'을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|3.0",
+  "en": "“With these four new awards, the University Innovation project is leaning in on NASA’s aeronautics mission priorities,” said Andrew Provenza, project manager, NASA’s Glenn Research Center in Cleveland.",
+  "s": "Andrew Provenza",
+  "v": "said",
+  "chunks": [
+   {"en": "“With these four new awards,", "ko": "“이번 네 건의 새 지원으로", "r": "전치사구(무엇을 통해)"},
+   {"en": "the University Innovation project is leaning in on", "ko": "University Innovation 과제는 ~에 힘을 싣고 있습니다", "r": "인용문 안의 주어 + 동사"},
+   {"en": "NASA’s aeronautics mission priorities,”", "ko": "NASA 항공 임무의 우선 과제들에”", "r": "목적어"},
+   {"en": "said Andrew Provenza,", "ko": "라고 Andrew Provenza가 말했다", "r": "인용을 이끄는 주절(말한 사람)"},
+   {"en": "project manager, NASA’s Glenn Research Center in Cleveland.", "ko": "클리블랜드에 있는 NASA 글렌연구센터의 과제 책임자인", "r": "동격(앞사람의 직함·소속)"}
+  ],
+  "ko": "“이번 네 건의 새 지원으로, University Innovation 과제는 NASA 항공 임무의 우선 과제들에 힘을 싣고 있습니다.” 클리블랜드에 있는 NASA 글렌연구센터(Glenn Research Center)의 과제 책임자 Andrew Provenza가 한 말이다.",
+  "why": "따옴표 안이 실제 발언이고, 문장의 뼈대는 맨 뒤의 said Andrew Provenza 다. 그 뒤 project manager, NASA’s Glenn Research Center in Cleveland 는 새로운 사람이 아니라 앞사람의 직함과 소속을 덧붙인 말(동격)이다. lean in on ~ 은 '~에 무게를 싣다, 본격적으로 매달리다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|3.1",
+  "en": "“These teams will research new propulsion concepts for supersonic flight, novel engineering methods that can revolutionize aerospace system design and certification, and learning-enabled avionics for new advanced and urban air mobility flight vehicle platforms, which could enhance air traffic control modernization.”",
+  "s": "These teams",
+  "v": "will research",
+  "chunks": [
+   {"en": "“These teams will research", "ko": "“이 팀들은 ~을 연구할 것입니다", "r": "주어 + 동사(미래)"},
+   {"en": "new propulsion concepts for supersonic flight,", "ko": "초음속 비행을 위한 새로운 추진 개념,", "r": "목적어 ①"},
+   {"en": "novel engineering methods", "ko": "새로운 공학적 방법,", "r": "목적어 ②"},
+   {"en": "that can revolutionize aerospace system design and certification,", "ko": "항공우주 시스템의 설계와 인증을 완전히 바꿔 놓을 수 있는", "r": "관계절(앞 methods 설명)"},
+   {"en": "and learning-enabled avionics", "ko": "그리고 학습 기능을 갖춘 항공전자장비를", "r": "목적어 ③"},
+   {"en": "for new advanced and urban air mobility flight vehicle platforms,", "ko": "새로운 첨단·도심 항공 모빌리티 비행체 플랫폼에 쓸", "r": "전치사구(그 장비가 쓰일 곳)"},
+   {"en": "which could enhance air traffic control modernization.”", "ko": "이는 항공 교통 관제의 현대화를 앞당길 수 있습니다”", "r": "관계절(앞 내용 설명)"}
+  ],
+  "ko": "“이 팀들은 초음속 비행을 위한 새로운 추진 개념, 항공우주 시스템의 설계와 인증을 완전히 바꿔 놓을 수 있는 새로운 공학적 방법, 그리고 새로운 첨단·도심 항공 모빌리티(UAM) 비행체 플랫폼에 쓸 학습 기능을 갖춘 항공전자장비를 연구할 것입니다. 이는 항공 교통 관제의 현대화를 앞당길 수 있습니다.”",
+  "why": "동사는 will research 하나이고, 그 목적어가 세 덩어리(new propulsion concepts / novel engineering methods / learning-enabled avionics)로 나열된다. 중간의 that 절과 맨 끝 which 절은 각각 바로 앞의 것을 설명하는 말이지 새로운 문장이 아니다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|4.0",
+  "en": "The awards represent the ninth round of NASA University Leadership Initiative funding.",
+  "s": "The awards",
+  "v": "represent",
+  "chunks": [
+   {"en": "The awards represent the ninth round", "ko": "이번 지원은 아홉 번째 회차에 해당한다", "r": "주어 + 동사 + 보어"},
+   {"en": "of NASA University Leadership Initiative funding.", "ko": "NASA University Leadership Initiative 지원금의", "r": "전치사구(무엇의 아홉 번째인가)"}
+  ],
+  "ko": "이번 지원은 NASA University Leadership Initiative(대학 주도 이니셔티브) 지원금의 아홉 번째 회차에 해당한다.",
+  "why": "represent 는 '대표하다'보다 '~에 해당한다, 곧 ~이다'로 읽는 것이 자연스럽다. NASA University Leadership Initiative funding 은 명사가 줄줄이 이어 붙은 덩어리라, 뒤에서부터 '지원금 ← 대학 주도 이니셔티브 ← NASA' 순으로 풀면 된다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|5.0",
+  "en": "Totaling about $30 million, NASA’s awards will provide multiyear support for awardee universities to build their teams and conduct research.",
+  "s": "NASA’s awards",
+  "v": "will provide",
+  "chunks": [
+   {"en": "Totaling about $30 million,", "ko": "모두 합쳐 약 3천만 달러에 이르는", "r": "분사구문(뒤의 주어 설명)"},
+   {"en": "NASA’s awards will provide multiyear support", "ko": "NASA의 지원금은 여러 해에 걸친 지원을 제공한다", "r": "주어 + 동사(미래) + 목적어"},
+   {"en": "for awardee universities", "ko": "선정된 대학들에게", "r": "전치사구(받는 쪽)"},
+   {"en": "to build their teams and conduct research.", "ko": "그 대학들이 팀을 꾸리고 연구를 수행하도록", "r": "목적(대학이 할 일)"}
+  ],
+  "ko": "NASA의 이번 지원금은 모두 합쳐 약 3천만 달러 규모로, 선정된 대학들이 팀을 꾸리고 연구를 진행할 수 있도록 여러 해에 걸쳐 지원한다.",
+  "why": "맨 앞 Totaling ~ 은 문장의 동사가 아니라 뒤의 NASA’s awards 를 설명하는 분사구문('합쳐서 ~에 이르는')이다. 동사는 will provide 하나뿐이다. to build ~ and conduct ~ 의 주체는 NASA가 아니라 바로 앞의 awardee universities 다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|5.1",
+  "en": "The initiative provides hands-on experiences for students, developing the U.S. aeronautics research workforce while also producing findings that will help drive aviation forward.",
+  "s": "The initiative",
+  "v": "provides",
+  "chunks": [
+   {"en": "The initiative provides hands-on experiences", "ko": "이 사업은 직접 해 보는 경험을 준다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for students,", "ko": "학생들에게", "r": "전치사구(받는 쪽)"},
+   {"en": "developing the U.S. aeronautics research workforce", "ko": "그럼으로써 미국의 항공 연구 인력을 길러 내며", "r": "분사구문(그 결과)"},
+   {"en": "while also producing findings", "ko": "동시에 연구로 알아낸 것들도 내놓는다", "r": "분사구문(함께 일어나는 일)"},
+   {"en": "that will help drive aviation forward.", "ko": "항공을 앞으로 밀고 나가는 데 도움이 될", "r": "관계절(앞 findings 설명)"}
+  ],
+  "ko": "이 사업은 학생들에게 직접 해 보는 경험을 준다. 그럼으로써 미국의 항공 연구 인력을 길러 내는 한편, 항공을 앞으로 나아가게 하는 데 도움이 될 연구 성과도 함께 내놓는다.",
+  "why": "문장의 동사는 provides 하나뿐이다. developing 과 producing 은 동사가 아니라 '그렇게 함으로써 ~하게 된다'는 결과·동시 상황을 나타내는 -ing 덩어리이고, 그 주체는 둘 다 The initiative 다. hands-on 은 '직접 손으로 해 보는'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|6.0",
+  "en": "University Leadership Initiative awards go to teams comprised of graduate and undergraduate students and led by faculty members.",
+  "s": "University Leadership Initiative awards",
+  "v": "go",
+  "chunks": [
+   {"en": "University Leadership Initiative awards go to teams", "ko": "University Leadership Initiative 지원금은 팀들에게 돌아간다", "r": "주어 + 동사 + 전치사구(가는 곳)"},
+   {"en": "comprised of graduate and undergraduate students", "ko": "대학원생과 학부생으로 이루어지고", "r": "과거분사구(앞 teams 설명)"},
+   {"en": "and led by faculty members.", "ko": "교수진이 이끄는", "r": "과거분사구(앞 teams 설명, 나열)"}
+  ],
+  "ko": "University Leadership Initiative 지원금은 대학원생과 학부생으로 이루어지고 교수진이 이끄는 팀에게 돌아간다.",
+  "why": "comprised 와 led 는 문장의 동사가 아니라 앞의 teams 를 꾸미는 과거분사다('~로 이루어진', '~가 이끄는'). 동사는 go 하나뿐이다. led by faculty members 는 '교수진이 이끈다'는 뜻이지 '팀이 교수진을 이끈다'가 아니다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|6.1",
+  "en": "Recipients form academic partnerships with other universities and community colleges, as well as industry.",
+  "s": "Recipients",
+  "v": "form",
+  "chunks": [
+   {"en": "Recipients form academic partnerships", "ko": "지원을 받은 쪽은 학술 협력 관계를 맺는다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with other universities and community colleges,", "ko": "다른 대학들, 그리고 커뮤니티 칼리지(2년제 지역 대학)와", "r": "전치사구(협력 상대)"},
+   {"en": "as well as industry.", "ko": "산업계와도", "r": "나열(더해지는 상대)"}
+  ],
+  "ko": "지원을 받은 팀들은 다른 대학과 커뮤니티 칼리지(2년제 지역 대학), 그리고 산업계와도 학술 협력 관계를 맺는다.",
+  "why": "form 은 '형태'라는 명사가 아니라 '(관계를) 맺다'라는 동사다. as well as 는 '~만큼 잘'이 아니라 'A뿐 아니라 B도'라는 뜻으로, 앞의 with 에 협력 상대를 하나 더 더한다. Recipient 는 '받는 쪽'이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|6.2",
+  "en": "Experts from NASA, the Federal Aviation Administration, and other organizations provide support and guidance.",
+  "s": "Experts",
+  "v": "provide",
+  "chunks": [
+   {"en": "Experts from NASA,", "ko": "NASA와", "r": "주어 + 전치사구(어디에서 온 전문가인가)"},
+   {"en": "the Federal Aviation Administration, and other organizations", "ko": "미국 연방항공청(FAA), 그 밖의 기관에서 온 전문가들이", "r": "소속 기관 나열"},
+   {"en": "provide support and guidance.", "ko": "지원과 조언을 제공한다", "r": "동사 + 목적어"}
+  ],
+  "ko": "NASA와 미국 연방항공청(Federal Aviation Administration, FAA), 그 밖의 기관에서 온 전문가들이 지원과 조언을 제공한다.",
+  "why": "주어는 맨 앞 Experts 하나이고, from 뒤에 기관 이름이 셋 나열돼 동사 provide 가 멀리 밀린다. 나열된 기관들은 주어가 아니라 전문가들이 어디에서 왔는지를 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|7.0",
+  "en": "Led by Terrence Meyer, the project will work over four years to develop a fuel-flexible propulsion system that uses a traditional jet turbofan during takeoff and subsonic flight, but would transition to a new type of ramjet engine for supersonic flight.",
+  "s": "the project",
+  "v": "will work",
+  "chunks": [
+   {"en": "Led by Terrence Meyer,", "ko": "Terrence Meyer가 이끄는", "r": "과거분사구문(뒤의 주어 설명)"},
+   {"en": "the project will work over four years", "ko": "이 과제는 4년에 걸쳐 진행된다", "r": "주어 + 동사(미래) + 기간"},
+   {"en": "to develop a fuel-flexible propulsion system", "ko": "연료를 가리지 않는 추진 장치를 개발하기 위해", "r": "목적"},
+   {"en": "that uses a traditional jet turbofan", "ko": "기존의 제트 터보팬을 쓰다가", "r": "관계절(앞 system 설명)"},
+   {"en": "during takeoff and subsonic flight,", "ko": "이륙할 때와 음속 아래로 날 때는", "r": "시간(언제 쓰는가)"},
+   {"en": "but would transition to a new type of ramjet engine", "ko": "새로운 형태의 램제트 엔진으로 갈아타는", "r": "대등절(관계절 안에서 이어짐)"},
+   {"en": "for supersonic flight.", "ko": "초음속으로 날 때는", "r": "목적(언제 갈아타는가)"}
+  ],
+  "ko": "Terrence Meyer가 이끄는 이 과제는 4년에 걸쳐, 연료를 가리지 않는 추진 장치를 개발한다. 이 장치는 이륙할 때와 음속 아래로 날 때는 기존의 제트 터보팬을 쓰다가, 초음속으로 날 때는 새로운 형태의 램제트 엔진으로 갈아탄다.",
+  "why": "맨 앞 Led by ~ 는 '~가 이끄는'이라는 당하는 뜻으로 뒤의 the project 를 설명하는 말이지 문장의 동사가 아니다. uses 와 would transition 은 but 으로 이어진 짝이고 둘 다 that(= 그 추진 장치)을 주어로 삼으므로, '장치가 터보팬을 쓰다가 램제트로 갈아탄다'로 읽는다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|7.1",
+  "en": "In ramjet mode, the system would cruise at Mach 4, or more than 3,000 mph.",
+  "s": "the system",
+  "v": "would cruise",
+  "chunks": [
+   {"en": "In ramjet mode,", "ko": "램제트 방식으로 작동할 때는", "r": "전치사구(어떤 상태일 때)"},
+   {"en": "the system would cruise at Mach 4,", "ko": "이 장치는 마하 4의 속도로 순항하게 된다", "r": "주어 + 동사 + 속도"},
+   {"en": "or more than 3,000 mph.", "ko": "곧 시속 3,000마일이 넘는 속도다", "r": "동격(같은 값을 다른 단위로)"}
+  ],
+  "ko": "램제트 방식으로 작동할 때 이 장치는 마하 4, 곧 시속 3,000마일(mph)이 넘는 속도로 순항하게 된다.",
+  "why": "여기서 or 는 '또는'이 아니라 '즉, 다시 말해'라는 뜻으로, 앞의 Mach 4 를 다른 단위로 바꿔 말한 것이다(동격). 두 가지 선택지가 아니다. would 는 '~하게 될 것이다'라는 예상이라 아직 실현된 속도가 아니다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|7.2",
+  "en": "The project aims to enable efficient, faster-than-sound flight, including flight at high-supersonic speeds.",
+  "s": "The project",
+  "v": "aims",
+  "chunks": [
+   {"en": "The project aims to enable", "ko": "이 과제는 ~을 가능하게 하는 것을 목표로 한다", "r": "주어 + 동사 + 목표"},
+   {"en": "efficient, faster-than-sound flight,", "ko": "효율적이면서 음속보다 빠른 비행을", "r": "목적어(무엇을 가능하게 하는가)"},
+   {"en": "including flight at high-supersonic speeds.", "ko": "고초음속에서의 비행도 여기에 든다", "r": "예시(그 비행의 한 갈래)"}
+  ],
+  "ko": "이 과제는 효율적이면서 음속보다 빠른 비행을 가능하게 하는 것을 목표로 한다. 여기에는 고초음속(음속의 몇 배에 이르는 속도) 비행도 포함된다.",
+  "why": "efficient, faster-than-sound flight 의 쉼표는 두 항목을 나열한 것이 아니라, efficient 와 faster-than-sound 두 형용사가 나란히 flight 하나를 꾸미는 자리다. including 뒤는 그 비행 안에 드는 한 갈래를 드는 말이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|8.0",
+  "en": "Led by Somil Bansal, this four-year project aims to develop an avionics system to control an aircraft’s communications, navigation, and other electronics that incorporates machine learning.",
+  "s": "this four-year project",
+  "v": "aims",
+  "chunks": [
+   {"en": "Led by Somil Bansal,", "ko": "Somil Bansal이 이끄는", "r": "과거분사구문(뒤의 주어 설명)"},
+   {"en": "this four-year project aims to develop", "ko": "이 4년짜리 과제는 ~을 개발하는 것을 목표로 한다", "r": "주어 + 동사 + 목표"},
+   {"en": "an avionics system", "ko": "항공전자 시스템을", "r": "목적어"},
+   {"en": "to control an aircraft’s communications, navigation,", "ko": "항공기의 통신, 항법,", "r": "목적(그 시스템이 할 일)"},
+   {"en": "and other electronics", "ko": "그 밖의 전자 장비를 제어할", "r": "제어 대상 나열"},
+   {"en": "that incorporates machine learning.", "ko": "기계학습을 품고 있는 (시스템)", "r": "관계절(앞 avionics system 설명)"}
+  ],
+  "ko": "Somil Bansal이 이끄는 이 4년짜리 과제는, 항공기의 통신·항법과 그 밖의 전자 장비를 제어하는 항공전자 시스템을 개발하는 것을 목표로 한다. 이 시스템에는 기계학습(machine learning)이 들어간다.",
+  "why": "맨 끝 that incorporates 는 동사가 -s 로 끝난 단수형이라, 바로 앞의 other electronics(복수)가 아니라 an avionics system 을 꾸민다. 맨 앞 Led by ~ 는 문장의 동사가 아니라 뒤의 과제를 설명하는 말이고, 동사는 aims 하나다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|8.1",
+  "en": "The system would take an approach that ensures safety is continuously reinforced throughout its operations.",
+  "s": "The system",
+  "v": "would take",
+  "chunks": [
+   {"en": "The system would take an approach", "ko": "이 시스템은 어떤 방식을 취하게 된다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that ensures safety is continuously reinforced", "ko": "안전이 끊임없이 강화되도록 보장하는", "r": "관계절(앞 approach 설명)"},
+   {"en": "throughout its operations.", "ko": "그 시스템이 작동하는 내내", "r": "전치사구(범위·기간)"}
+  ],
+  "ko": "이 시스템은 작동하는 내내 안전이 끊임없이 강화되도록 보장하는 방식을 취하게 된다.",
+  "why": "ensures 뒤에는 that 이 생략된 절(safety is continuously reinforced)이 통째로 들어 있다. safety 는 ensures 의 목적어가 아니라 그 절의 주어이고, is reinforced 는 당하는 형태(수동태)라 '안전이 강화된다'는 뜻이다. its 는 The system 을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|8.2",
+  "en": "This research could help create a framework for the aviation sector to safely integrate artificial intelligence-enabled avionics into the national airspace.",
+  "s": "This research",
+  "v": "could help",
+  "chunks": [
+   {"en": "This research could help create a framework", "ko": "이 연구는 하나의 틀을 만드는 데 도움이 될 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for the aviation sector", "ko": "항공 업계가 쓸", "r": "전치사구(누구를 위한 틀인가)"},
+   {"en": "to safely integrate artificial intelligence-enabled avionics", "ko": "인공지능을 갖춘 항공전자장비를 안전하게 들여놓도록", "r": "목적(업계가 할 일)"},
+   {"en": "into the national airspace.", "ko": "국가 공역 안으로", "r": "전치사구(어디로)"}
+  ],
+  "ko": "이 연구는, 항공 업계가 인공지능을 갖춘 항공전자장비를 국가 공역(한 나라의 하늘길)에 안전하게 들여놓을 수 있게 하는 틀을 만드는 데 도움이 될 수 있다.",
+  "why": "for the aviation sector to ~ 는 '항공 업계가 ~하도록'이라는 짜임이라, integrate 하는 주체는 This research 가 아니라 the aviation sector 다. could help 는 '도움이 될 수도 있다'는 가능성이지 이미 그렇게 되었다는 말이 아니다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|9.0",
+  "en": "Led by Juan Alonso, the center created through this award will work over four years to develop a high-fidelity simulation framework focused on developing low-noise flight paths in urban environments for future small aircraft.",
+  "s": "the center created through this award",
+  "v": "will work",
+  "chunks": [
+   {"en": "Led by Juan Alonso,", "ko": "Juan Alonso가 이끄는", "r": "과거분사구문(뒤의 주어 설명)"},
+   {"en": "the center created through this award", "ko": "이번 지원으로 만들어진 그 센터는", "r": "주어 + 과거분사구(주어 설명)"},
+   {"en": "will work over four years", "ko": "4년에 걸쳐 일하게 된다", "r": "동사(미래) + 기간"},
+   {"en": "to develop a high-fidelity simulation framework", "ko": "정밀도 높은 시뮬레이션 틀을 개발하기 위해", "r": "목적"},
+   {"en": "focused on developing low-noise flight paths", "ko": "저소음 비행 경로를 만드는 데 초점을 맞춘", "r": "과거분사구(앞 framework 설명)"},
+   {"en": "in urban environments for future small aircraft.", "ko": "도시 환경에서, 앞으로 나올 소형 항공기가 다닐", "r": "전치사구(어디서 · 누구를 위해)"}
+  ],
+  "ko": "Juan Alonso가 이끌고 이번 지원으로 새로 만들어진 이 센터는 4년에 걸쳐, 도시 환경에서 앞으로 나올 소형 항공기가 다닐 저소음 비행 경로를 만드는 데 초점을 맞춘 고정밀 시뮬레이션 틀을 개발한다.",
+  "why": "주어는 the center 하나인데 그 뒤에 created through this award(이번 지원으로 만들어진)라는 설명이 붙어 동사 will work 가 멀리 밀린다. created 를 문장의 동사로 읽지 말 것. 뒤쪽 focused on ~ 도 동사가 아니라 앞의 framework 를 꾸미는 말이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|9.1",
+  "en": "Developers are envisioning urban air mobility aircraft as ways to move people and cargo over populated areas.",
+  "s": "Developers",
+  "v": "are envisioning",
+  "chunks": [
+   {"en": "Developers are envisioning", "ko": "개발자들은 ~을 이렇게 그리고 있다", "r": "주어 + 동사(현재진행)"},
+   {"en": "urban air mobility aircraft", "ko": "도심 항공 모빌리티 항공기를", "r": "목적어"},
+   {"en": "as ways to move people and cargo", "ko": "사람과 화물을 실어 나르는 수단으로", "r": "보어(무엇으로 보는가)"},
+   {"en": "over populated areas.", "ko": "사람이 많이 사는 지역 위로", "r": "전치사구(어디 위로)"}
+  ],
+  "ko": "개발자들은 도심 항공 모빌리티(urban air mobility) 항공기를, 사람이 많이 사는 지역 위로 사람과 화물을 실어 나르는 수단으로 그리고 있다.",
+  "why": "envision A as B 는 'A를 B로 그려 본다, 구상한다'는 짜임이다. as 를 '~로서'나 '~할 때'로 읽으면 연결이 끊긴다. populated areas 는 '오염된 지역'이 아니라 '사람이 많이 사는 지역'이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|9.2",
+  "en": "This center would integrate realistic models of how sound travels in cities to enable vehicle flight paths that would reduce community noise exposure from new air traffic.",
+  "s": "This center",
+  "v": "would integrate",
+  "chunks": [
+   {"en": "This center would integrate realistic models", "ko": "이 센터는 사실적인 모형을 통합해 넣을 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of how sound travels in cities", "ko": "도시에서 소리가 어떻게 퍼지는지를 담은", "r": "전치사구(무엇에 대한 모형인가)"},
+   {"en": "to enable vehicle flight paths", "ko": "비행체의 비행 경로를 가능하게 하기 위해", "r": "목적"},
+   {"en": "that would reduce community noise exposure", "ko": "지역 주민이 소음에 노출되는 정도를 줄여 줄", "r": "관계절(앞 flight paths 설명)"},
+   {"en": "from new air traffic.", "ko": "새로운 항공 교통에서 나오는", "r": "전치사구(소음의 출처)"}
+  ],
+  "ko": "이 센터는 도시에서 소리가 어떻게 퍼지는지를 담은 사실적인 모형을 통합해 넣을 것이다. 새로운 항공 교통에서 나오는 소음에 지역 주민이 노출되는 정도를 줄여 줄 비행 경로를 만들어 내기 위해서다.",
+  "why": "how sound travels in cities 는 의문문이 아니라 '소리가 도시에서 어떻게 퍼지는가'라는 하나의 명사 덩어리로 of 뒤에 통째로 들어간다. 맨 끝 from new air traffic 은 flight paths 가 아니라 community noise exposure(그 소음)의 출처를 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|10.0",
+  "en": "Led by Darshan Sarojini, this three-year project proposes to transform next-generation aircraft design while integrating powerful new computer modeling tools: model-based systems engineering, multidisciplinary design, analysis and optimization, and high-dimensional uncertainty quantification.",
+  "s": "this three-year project",
+  "v": "proposes",
+  "chunks": [
+   {"en": "Led by Darshan Sarojini,", "ko": "Darshan Sarojini가 이끄는", "r": "과거분사구문(뒤의 주어 설명)"},
+   {"en": "this three-year project proposes to transform", "ko": "이 3년짜리 과제는 ~을 바꿔 놓겠다고 내놓았다", "r": "주어 + 동사 + 목표"},
+   {"en": "next-generation aircraft design", "ko": "차세대 항공기 설계를", "r": "목적어"},
+   {"en": "while integrating powerful new computer modeling tools:", "ko": "강력한 새 컴퓨터 모델링 도구들을 함께 넣으면서 — 곧,", "r": "부사절(동시에 하는 일) + 콜론(이름 열거를 여는 자리)"},
+   {"en": "model-based systems engineering,", "ko": "모델 기반 시스템 엔지니어링,", "r": "도구 이름 나열 ①"},
+   {"en": "multidisciplinary design, analysis and optimization,", "ko": "여러 분야를 아우르는 설계·해석·최적화,", "r": "도구 이름 나열 ②"},
+   {"en": "and high-dimensional uncertainty quantification.", "ko": "그리고 고차원 불확실성 정량화", "r": "도구 이름 나열 ③"}
+  ],
+  "ko": "Darshan Sarojini가 이끄는 이 3년짜리 과제는, 강력한 새 컴퓨터 모델링 도구들을 함께 활용하면서 차세대 항공기 설계를 바꿔 놓겠다고 제안한다. 그 도구란 모델 기반 시스템 엔지니어링, 여러 분야를 아우르는 설계·해석·최적화, 그리고 고차원 불확실성 정량화다.",
+  "why": "콜론(:) 뒤는 새로운 문장이 아니라 바로 앞의 powerful new computer modeling tools 가 무엇인지 이름을 늘어놓은 것이다. while integrating ~ 은 '~하면서'라는 뜻이고 그 주체는 this three-year project 다. 문장의 동사는 proposes 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|10.1",
+  "en": "The goal is safe, faster, and more efficient modeling that results in fewer costly redesigns later in the aircraft development cycle.",
+  "s": "The goal",
+  "v": "is",
+  "chunks": [
+   {"en": "The goal is", "ko": "목표는 ~이다", "r": "주어 + 동사"},
+   {"en": "safe, faster, and more efficient modeling", "ko": "안전하고 더 빠르며 더 효율적인 모델링", "r": "보어"},
+   {"en": "that results in fewer costly redesigns", "ko": "돈이 많이 드는 재설계를 덜 하게 만드는", "r": "관계절(앞 modeling 설명)"},
+   {"en": "later in the aircraft development cycle.", "ko": "항공기 개발 과정의 뒷단계에서", "r": "시간(언제)"}
+  ],
+  "ko": "목표는 안전하고 더 빠르며 더 효율적인 모델링이다. 그렇게 하면 항공기 개발 과정의 뒷단계에서 돈이 많이 드는 재설계를 덜 하게 된다.",
+  "why": "safe, faster, and more efficient 는 세 종류의 모델링이 아니라 modeling 하나를 함께 꾸미는 형용사 셋이다. result in ~ 은 '~라는 결과를 낳는다'이고, fewer costly redesigns 는 '재설계를 더 적게'라는 뜻이지 '비용이 적게 드는 재설계'가 아니다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|11.0",
+  "en": "For more than 10 years , NASA’s University Leadership Initiative has fostered bold ideas, collaborative research, and team-led solutions.",
+  "s": "NASA’s University Leadership Initiative",
+  "v": "has fostered",
+  "chunks": [
+   {"en": "For more than 10 years ,", "ko": "10년 넘게", "r": "시간(기간)"},
+   {"en": "NASA’s University Leadership Initiative has fostered", "ko": "NASA의 University Leadership Initiative는 ~을 키워 왔다", "r": "주어 + 동사(현재완료)"},
+   {"en": "bold ideas, collaborative research,", "ko": "대담한 발상, 함께하는 연구,", "r": "목적어 나열 ①②"},
+   {"en": "and team-led solutions.", "ko": "그리고 팀이 주도해 찾아낸 해법을", "r": "목적어 나열 ③"}
+  ],
+  "ko": "10년 넘게 NASA의 University Leadership Initiative(대학 주도 이니셔티브)는 대담한 발상, 함께하는 연구, 팀이 주도해 찾아낸 해법을 키워 왔다.",
+  "why": "has fostered 는 현재완료(과거에 시작해 지금까지 이어짐)라 '10년 넘게 지금까지 그래 왔다'는 뜻이다. 단순 과거로 읽어 '예전에 그랬다'로 끝내면 안 된다. team-led 는 '팀이 이끈'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|11.1",
+  "en": "The initiative is part of NASA’s Research and Technology Mission Directorate.",
+  "s": "The initiative",
+  "v": "is",
+  "chunks": [
+   {"en": "The initiative is part of", "ko": "이 사업은 ~의 일부다", "r": "주어 + 동사 + 보어"},
+   {"en": "NASA’s Research and Technology Mission Directorate.", "ko": "NASA 연구·기술 임무 본부", "r": "명사구(품고 있는 조직 이름)"}
+  ],
+  "ko": "이 사업은 NASA의 연구·기술 임무 본부(Research and Technology Mission Directorate)에 속해 있다.",
+  "why": "짧지만 뒤쪽이 조직 이름이라 통째로 하나의 덩어리로 봐야 한다. Research and Technology 는 별개의 두 항목이 아니라 Mission Directorate 를 꾸미는 이름의 일부다.",
+  "st": []
+ },
+ {
+  "id": "710198cf|12.0",
+  "en": "@NASA @NASAaero @NASAes @NASA @NASAaero @NASA_es Instagram logo @NASA @NASAaero @NASA_es Linkedin logo @NASA Explore More 3 min read NASA Student Aviation Challenge Focuses on Nation’s Infrastructure Article 2 days ago 6 min read NASA Glenn’s Legacy Forged Through Decades of Flight Research Article 2 days ago 3 min read NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies Article 6 days ago Keep Exploring Discover More Topics From NASA Missions",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "@NASA @NASAaero @NASAes", "ko": "@NASA @NASAaero @NASAes (소셜 미디어 계정 이름)", "r": "계정 이름 나열"},
+   {"en": "@NASA @NASAaero @NASA_es Instagram logo", "ko": "인스타그램 계정들", "r": "계정 이름 + 아이콘 설명"},
+   {"en": "@NASA @NASAaero @NASA_es Linkedin logo", "ko": "링크드인 계정들", "r": "계정 이름 + 아이콘 설명"},
+   {"en": "@NASA Explore More", "ko": "@NASA · 더 살펴보기", "r": "다음 묶음을 여는 안내 문구"},
+   {"en": "3 min read", "ko": "읽는 데 3분", "r": "관련 기사 안내(예상 소요 시간)"},
+   {"en": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure", "ko": "NASA 학생 항공 대회, 국가 기반시설에 초점을 맞추다", "r": "관련 기사 제목"},
+   {"en": "Article 2 days ago", "ko": "기사 · 2일 전", "r": "글의 종류와 게시 시점"},
+   {"en": "6 min read", "ko": "읽는 데 6분", "r": "관련 기사 안내(예상 소요 시간)"},
+   {"en": "NASA Glenn’s Legacy Forged Through Decades of Flight Research", "ko": "수십 년의 비행 연구로 벼려진 NASA 글렌센터의 유산", "r": "관련 기사 제목"},
+   {"en": "Article 2 days ago", "ko": "기사 · 2일 전", "r": "글의 종류와 게시 시점"},
+   {"en": "3 min read", "ko": "읽는 데 3분", "r": "관련 기사 안내(예상 소요 시간)"},
+   {"en": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies", "ko": "NASA 대회, 달 기술이 열어 줄 미래를 함께 그려 보자고 학생들을 초대하다", "r": "관련 기사 제목"},
+   {"en": "Article 6 days ago", "ko": "기사 · 6일 전", "r": "글의 종류와 게시 시점"},
+   {"en": "Keep Exploring Discover More Topics From NASA Missions", "ko": "계속 살펴보기 · NASA 임무의 더 많은 주제 보기", "r": "누리집 안내 문구"}
+  ],
+  "ko": "(NASA 누리집 아래쪽 안내 부분) @NASA @NASAaero @NASAes / 인스타그램 @NASA @NASAaero @NASA_es / 링크드인 @NASA @NASAaero @NASA_es / @NASA · 더 살펴보기 — 읽는 데 3분: 「NASA 학생 항공 대회, 국가 기반시설에 초점을 맞추다」 기사 · 2일 전 / 읽는 데 6분: 「수십 년의 비행 연구로 벼려진 NASA 글렌센터의 유산」 기사 · 2일 전 / 읽는 데 3분: 「NASA 대회, 달 기술이 열어 줄 미래를 함께 그려 보자고 학생들을 초대하다」 기사 · 6일 전 / 계속 살펴보기 · NASA 임무의 더 많은 주제 보기",
+  "why": "기사 본문이 아니라 누리집 아래쪽에 붙는 안내 부분이 통째로 긁혀 들어온 것이라, 하나의 문장으로 읽으려 하면 안 된다. 계정 이름(@…), 읽는 데 걸리는 시간(3 min read), 관련 기사 제목, 게시 시점(Article 2 days ago)이 번갈아 이어질 뿐이다. 다만 그 안의 기사 제목들은 관사와 be동사를 뺀 '제목 영어'라서, Focuses·Invites 앞이 주어이고 Forged 는 앞 명사를 꾸미는 과거분사라는 것만 잡으면 읽힌다.",
+  "st": []
+ }
+]

@@ -1,0 +1,43 @@
+{
+ "63a83669|0.0": [
+  {"t":"pron","q":"<b>as it crossed in front of the Sun</b> 의 it 은 무엇을 가리킵니까?","a":"포보스(Phobos)입니다 — 태양 앞을 가로질러 지나간 것은 포보스입니다","tip":"바로 앞에 카메라와 탐사차가 나와 있어 it 을 rover 나 camera 로 잡기 쉽습니다. 태양 앞을 지나갈 수 있는 것은 위성입니다."},
+  {"t":"mod","q":"<b>one of the two Martian moons,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Phobos 입니다 — 포보스가 화성의 두 위성 중 하나라는 뜻입니다","tip":"쉼표로 둘러싸여 앞 명사를 다시 말하는 자리(동격)입니다. 카메라나 실루엣을 설명하는 말이 아닙니다."},
+  {"t":"mod","q":"<b>the 1,948th Martian day, or sol, of the mission.</b> 는 무엇을 다시 말한 것입니까?","a":"바로 앞의 날짜 Aug. 12, 2026 입니다 — 그날이 임무의 1,948번째 화성 날이라는 뜻입니다","tip":"or sol 의 or 는 '또는(선택)'이 아니라 '즉, 다시 말해'입니다. sol 은 화성에서의 하루를 부르는 말입니다."},
+  {"t":"time","q":"<b>used</b> 와 <b>crossed</b> — 이 촬영과 통과는 앞으로 일어날 일입니까?","a":"아니요 — 둘 다 이미 일어난 과거의 일입니다(2026년 8월 12일)","tip":"뒤에 붙은 긴 설명에 정신이 팔려 시제를 놓치기 쉽습니다. 두 동사 모두 과거형입니다."}
+ ],
+ "63a83669|1.0": [
+  {"t":"who","q":"<b>has been tinted</b> — 색을 입힌 쪽과 색이 입혀진 쪽은 각각 무엇입니까?","a":"색이 입혀진 것은 그 영상(The animation)이고, 색을 입힌 주체는 이 문장에 나오지 않습니다(수동태)","tip":"주어인 The animation 을 '색을 입힌 쪽'으로 읽으면 주체와 대상이 통째로 뒤집힙니다."},
+  {"t":"time","q":"<b>if they were watching</b> — 실제로 누군가가 화성 표면에서 이 장면을 보고 있었습니까?","a":"아니요 — would see / were watching 을 쓴 가정입니다. 실제로 본 사람은 없습니다","tip":"were 라는 과거형에 끌려 '보고 있었다'는 지난 일로 읽기 쉽지만, 여기서는 '만약 본다면'이라는 상상입니다."},
+  {"t":"pron","q":"<b>if they were watching the transit</b> 의 they 는 누구를 가리킵니까?","a":"바로 앞의 a human(어떤 사람 한 명)입니다","tip":"they 가 복수형이라 여러 사람이나 과학자들로 잡기 쉽습니다. 남녀를 밝히지 않으려고 a human 을 they 로 받은 것입니다."},
+  {"t":"mod","q":"<b>through protective solar eclipse glasses.</b> 는 무엇에 걸리는 말입니까?","a":"앞의 watching 입니다 — 그 안경을 통해 본다는 뜻입니다","tip":"tinted(색을 입혔다)에 붙여 '안경을 통해 색을 입혔다'로 읽으면 안 됩니다. 안경은 보는 쪽의 도구입니다."}
+ ],
+ "63a83669|2.0": [
+  {"t":"pron","q":"<b>its landing</b> 의 its 는 무엇의 착륙을 뜻합니까?","a":"퍼서비어런스(Perseverance)의 착륙입니다","tip":"바로 앞에 Phobos 가 나와 있어 포보스의 착륙으로 잡기 쉽습니다. 착륙한 것은 탐사차입니다."},
+  {"t":"mod","q":"<b>at Jezero Crater</b> 는 무엇이 일어난 곳입니까?","a":"퍼서비어런스가 착륙한 곳입니다","tip":"바로 앞 landing 에 걸립니다. 촬영을 한 장소를 따로 밝힌 말이 아닙니다."},
+  {"t":"time","q":"<b>has captured several Phobos transits</b> — 이 촬영은 한 번뿐이었습니까?","a":"아니요 — 2021년 2월 착륙 이후 여러 차례 찍었습니다","tip":"현재완료(has captured)에 several 이 붙어 '지금까지 여러 번 해 왔다'는 뜻입니다. 여기서 since 는 '~때문에'가 아니라 '~한 뒤로 줄곧'입니다."}
+ ],
+ "63a83669|2.1": [
+  {"t":"who","q":"<b>By comparing the various recordings,</b> — 기록을 견주어 보는 쪽은 누구입니까?","a":"scientists(과학자들)입니다","tip":"앞머리에 나온 ~ing 구문의 주체는 주절의 주어입니다. 탐사차나 카메라가 비교하는 것이 아닙니다."},
+  {"t":"pron","q":"<b>the potato-shaped moon</b> 은 무엇을 가리킵니까?","a":"포보스(Phobos)입니다 — 감자처럼 울퉁불퉁하게 생긴 화성의 위성","tip":"the 가 붙었다는 것은 앞에서 이미 나온 그것을 다시 가리킨다는 신호입니다. 새로 등장한 다른 위성이 아닙니다."},
+  {"t":"pron","q":"<b>learning how it is changing.</b> 의 it 은 무엇을 가리킵니까?","a":"바로 앞에 나온 그 위성의 궤도(orbit)입니다 — 궤도가 어떻게 변해 가는지를 알아낸다는 뜻입니다","tip":"바로 앞 단어인 moon 으로 잡기 쉽지만, 과학자들이 이해를 다듬는 대상은 궤도입니다."},
+  {"t":"time","q":"<b>can refine</b> — 과학자들은 이미 이 궤도를 다 밝혀냈습니까?","a":"아니요 — '그렇게 할 수 있다'는 가능성이고, 이해는 지금도 다듬어 가는 중입니다","tip":"can 을 빼고 읽으면 이미 끝난 연구처럼 됩니다. 기록이 쌓일수록 더 정밀해진다는 뜻입니다."}
+ ],
+ "63a83669|2.2": [
+  {"t":"time","q":"<b>Eons from now,</b> 는 언제를 가리킵니까?","a":"지금부터 아득히 먼 미래입니다(수백만~수억 년 뒤)","tip":"이미 일어난 일을 말하는 문장이 아닙니다. eon 은 아주 긴 세월을 뜻합니다."},
+  {"t":"who","q":"<b>Phobos’ orbit is expected</b> — 이 문장의 주어는 무엇이고, 예상하는 쪽은 문장에 나옵니까?","a":"주어는 Phobos’ orbit(포보스의 궤도)이고, 예상하는 주체는 나오지 않습니다(수동태)","tip":"맨 앞의 Eons from now 를 주어로 잡으면 뼈대가 무너집니다. 그것은 시간을 나타내는 말일 뿐입니다."},
+  {"t":"pron","q":"<b>the moon</b> 은 어느 천체를 가리킵니까?","a":"포보스입니다 — 지구의 달이 아니라 화성의 위성입니다","tip":"moon 을 무조건 '달(지구의 위성)'로 옮기면 뜻이 어긋납니다. 여기서는 앞에 나온 포보스를 받는 말입니다."},
+  {"t":"mod","q":"<b>toward the Red Planet’s surface.</b> — 붉은 행성은 어디이며, 무엇이 그쪽으로 갑니까?","a":"붉은 행성은 화성이고, 그쪽으로 가는 것은 포보스입니다","tip":"the Red Planet 은 화성의 별명입니다. 궤도가 포보스를 화성 표면 쪽으로 끌어내린다는 뜻입니다."}
+ ],
+ "63a83669|3.0": [
+  {"t":"who","q":"<b>working in collaboration with Malin Space Science Systems</b> — 협력하며 일하는 쪽은 누구입니까?","a":"Arizona State University(애리조나 주립대학교)입니다 — 주절의 주어","tip":"working 앞에 주어가 따로 없으므로 주절의 주어가 그대로 주체입니다. 마스트캠-Z 장비가 협력하는 것이 아닙니다."},
+  {"t":"mod","q":"<b>in San Diego,</b> 는 무엇의 소재지입니까?","a":"바로 앞의 Malin Space Science Systems 입니다","tip":"협력 작업이 이루어지는 장소나 애리조나 주립대학교의 위치로 붙이기 쉽습니다. 앞 회사가 어디에 있는지를 밝히는 말입니다."},
+  {"t":"mod","q":"<b>of the University of Copenhagen</b> 는 무엇에 걸리는 말입니까?","a":"바로 앞의 the Niels Bohr Institute 입니다 — 코펜하겐 대학교에 속한 닐스 보어 연구소라는 뜻입니다","tip":"of 가 여러 번 나와 앞쪽 명사에 잘못 붙이기 쉽습니다. 바로 앞 명사부터 이어 붙여 보세요."},
+  {"t":"mod","q":"<b>on the design, fabrication, and testing of the calibration targets.</b> 는 어느 협력의 내용입니까?","a":"뒤쪽, 즉 닐스 보어 연구소와의 협력 내용입니다(카메라 쪽은 Malin 과의 협력입니다)","tip":"협력 상대가 둘이고 각각 뒤에 on ~ 이 붙습니다. 'A와 협력해 B를 / C와 협력해 D를' 두 짝으로 갈라 읽어야 합니다."}
+ ],
+ "63a83669|4.0": [
+  {"t":"who","q":"<b>built and manages operations of the Perseverance rover.</b> — 만들고 운용을 관리하는 쪽은 어디입니까?","a":"NASA의 제트추진연구소(NASA’s Jet Propulsion Laboratory)입니다","tip":"동사 바로 앞에 California 와 Caltech 가 있어 칼텍을 주어로 잡기 쉽습니다. 쉼표 안쪽은 끼어든 설명이고, 주어는 맨 앞의 연구소입니다."},
+  {"t":"pron","q":"<b>for the agency</b> 의 the agency 는 어디를 가리킵니까?","a":"NASA입니다","tip":"agency 를 '대행사·업체'로 옮기면 어긋납니다. 앞에 나온 NASA를 이름 대신 '그 기관'이라고 받은 것입니다."},
+  {"t":"mod","q":"<b>in Pasadena, California,</b> 는 무엇의 소재지입니까?","a":"바로 앞의 Caltech(캘리포니아공과대학)입니다","tip":"이 말이 꾸미는 것은 바로 앞 명사입니다. 문장 맨 앞의 제트추진연구소에 붙여 읽지 않도록 주의하세요."},
+  {"t":"time","q":"<b>built and manages</b> — 두 동작은 같은 시점의 일입니까?","a":"아니요 — 만든 것(built)은 이미 끝난 과거의 일이고, 운용 관리(manages)는 지금도 하고 있는 일입니다","tip":"한 주어에 시제가 다른 동사 둘이 and 로 묶여 있습니다. 둘 다 과거로 옮기면 '지금도 관리한다'는 뜻이 사라집니다."}
+ ]
+}

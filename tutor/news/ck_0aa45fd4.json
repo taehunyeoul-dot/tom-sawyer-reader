@@ -1,0 +1,668 @@
+{
+ "0aa45fd4|0.0": [
+  {
+   "t": "who",
+   "q": "<b>visit NASA General Information Request Form</b> — 그 양식으로 가서 작성해야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람, 곧 요청을 내려는 신청자입니다. NASA가 아닙니다",
+   "tip": "주어가 없는 명령문이라 시키는 대상은 언제나 읽는 사람입니다. 문장에 NASA가 있다고 NASA를 주어로 잡으면 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>To submit a request,</b> 는 이 문장에서 무슨 구실을 합니까?",
+   "a": "\"요청을 내려면\"이라는 목적(조건)을 나타냅니다. 문장의 동사가 아닙니다",
+   "tip": "To + 동사가 문장 맨 앞에 오면 \"~하려면\"이라는 목적입니다. 이것을 동사로 읽으면 뒤의 visit 이 갈 곳을 잃습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>and complete the form.</b> 의 the form 은 무엇을 가리킵니까?",
+   "a": "앞에 나온 NASA General Information Request Form(NASA 일반 정보 요청 양식)입니다",
+   "tip": "the 가 붙었다는 것은 앞에서 이미 말한 그것을 다시 가리킨다는 신호입니다. 새로 내야 할 다른 서식이 아닙니다."
+  }
+ ],
+ "0aa45fd4|0.1": [
+  {
+   "t": "who",
+   "q": "<b>You will receive an automated email</b> — 이메일을 받는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(요청을 낸 사람)입니다. 보내는 쪽은 문장에 나오지 않고, automated(자동)라는 말로 짐작할 뿐입니다",
+   "tip": "receive 는 \"받다\"입니다. \"보낸다\"로 읽으면 방향이 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the most commonly requested</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "뒤에 오는 grant status information(보조금 진행 상태 정보)입니다 — 가장 자주 문의되는 정보라는 뜻",
+   "tip": "앞의 email 을 꾸민다고 붙이기 쉽습니다. requested(요청되는)의 대상은 이메일이 아니라 정보입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>will receive</b> — 이 이메일은 이미 받은 것입니까, 앞으로 받을 것입니까?",
+   "a": "앞으로 받을 것입니다",
+   "tip": "will 을 놓치면 이미 온 메일 이야기로 읽게 됩니다."
+  }
+ ],
+ "0aa45fd4|1.0": [
+  {
+   "t": "mod",
+   "q": "<b>Guidance Regarding</b> — 이 제목의 중심이 되는 낱말은 무엇입니까?",
+   "a": "Guidance(지침)입니다. 뒤는 전부 무엇에 관한 지침인지를 밝히는 말입니다",
+   "tip": "동사가 하나도 없는 제목입니다. Regarding 을 동사(~하고 있다)로 읽으면 문장이 없는데도 있는 것처럼 보입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and Recent Temporary Restraining Orders</b> 는 무엇과 나란히 묶입니까?",
+   "a": "앞의 OMB Memorandum M-25-14 와 나란히 묶여, 둘 다 Regarding(~에 관한)의 대상입니다",
+   "tip": "and 앞뒤가 무엇과 무엇인지 잡아야 합니다. 각서가 임시금지명령을 냈다는 뜻이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>Recent</b> — 이 임시금지명령들은 앞으로 내려질 것입니까?",
+   "a": "아닙니다 — 이미 내려진, 최근의 명령들입니다",
+   "tip": "Recent 는 \"최근의\"라는 뜻으로 이미 있었던 일을 가리킵니다."
+  }
+ ],
+ "0aa45fd4|2.0": [
+  {
+   "t": "who",
+   "q": "<b>released a memorandum</b> — 이 각서를 낸 곳은 어디입니까?",
+   "a": "NASA의 조달실(NASA’s Office of Procurement, OP)입니다",
+   "tip": "한 문장에 NASA, OP, OPM 세 기관이 나옵니다. 각서를 낸 쪽은 OP 하나뿐이고 나머지는 그 각서가 다루는 내용입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and the Office of Personnel Management’s (OPM) memorandum</b> 는 무엇에 이어지는 말입니까?",
+   "a": "앞의 regarding 에 이어집니다 — OP가 낸 각서가 다루는 두 대상 중 두 번째입니다",
+   "tip": "OPM이 각서를 냈다는 뜻으로 읽기 쉽지만, 낸 쪽은 OP이고 OPM 각서는 그 안에서 다뤄지는 문서입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>January 29, 2025</b> 와 <b>On January 23, 2025,</b> — 각서가 나온 날은 어느 쪽입니까?",
+   "a": "1월 23일입니다. 1월 29일은 이 안내문(업데이트)이 올라온 날짜입니다",
+   "tip": "두 날짜가 붙어 있어 헷갈립니다. 앞의 날짜는 제목에 딸린 것이고, 문장의 동사 released 에 걸리는 것은 On 이 붙은 1월 23일입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Initial Rescission of Harmful Executive Orders and Actions</b> 는 무엇의 이름입니까?",
+   "a": "바로 앞에 나온 Executive Order(행정명령)의 제목입니다",
+   "tip": "따옴표 안은 문서 제목입니다. 누가 한 말(인용)로 읽으면 안 됩니다."
+  }
+ ],
+ "0aa45fd4|3.0": [
+  {
+   "t": "who",
+   "q": "<b>shall immediately cease and desist</b> — 중단해야 하는 쪽은 누구입니까?",
+   "a": "NASA의 보조금·협력협정 수령자들(NASA grant and cooperative agreement recipients)입니다. NASA가 아닙니다",
+   "tip": "주어가 길고 맨 앞이 NASA라서 NASA를 주어로 잡기 쉽습니다. 주어의 중심 낱말은 맨 뒤의 recipients 입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>required for their grant.</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "바로 앞의 all DEIA activities 입니다 — 그들의 보조금에서 요구되던 DEIA 활동이라는 뜻",
+   "tip": "required 를 또 하나의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 cease and desist 하나뿐입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>shall immediately</b> — 언제부터 중단해야 합니까?",
+   "a": "즉시입니다 — 검토를 거친 뒤가 아니라 곧바로입니다",
+   "tip": "immediately 를 흘려 읽으면 \"앞으로 정리하겠다\" 정도로 약해집니다. shall 은 규정에서 의무를 뜻합니다."
+  }
+ ],
+ "0aa45fd4|3.1": [
+  {
+   "t": "neg",
+   "q": "<b>but is not limited to:</b> — 콜론 뒤에 나오는 목록이 전부입니까?",
+   "a": "아닙니다 — 그것을 포함하되 거기에만 그치지 않는다는 뜻이라, 목록은 예시일 뿐입니다",
+   "tip": "not 을 놓치면 \"이 목록이 전부\"라는 정반대 뜻이 됩니다. include but is not limited to 는 규정에서 늘 붙는 표현입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>This work</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 중단하라고 한 DEIA 활동을 가리킵니다",
+   "tip": "새로운 업무가 나온 것이 아니라 앞 문장의 all DEIA activities 를 받는 말입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>related to DEIA.</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "바로 앞의 any other direct or indirect grant activity(그 밖의 직간접적인 보조금 활동)입니다",
+   "tip": "문장 전체에 걸린다고 읽기 쉽지만, 앞의 명사 하나에만 붙어 \"DEIA와 관련된 활동\"으로 범위를 좁혀 줍니다."
+  }
+ ],
+ "0aa45fd4|3.2": [
+  {
+   "t": "who",
+   "q": "<b>All grant recipients shall notify their cognizant Grant Officer</b> — 알리는 쪽과 알림을 받는 쪽은 각각 누구입니까?",
+   "a": "알리는 쪽은 보조금 수령자들이고, 받는 쪽은 담당 Grant Officer(보조금 담당관)입니다",
+   "tip": "notify 뒤에 바로 오는 것이 알림을 받는 쪽입니다. 방향을 뒤집으면 담당관이 통보하는 이야기가 됩니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>if they identify requirements</b> 의 they 는 누구입니까?",
+   "a": "보조금 수령자들(All grant recipients)입니다. 담당관이 아닙니다",
+   "tip": "바로 앞에 Grant Officer 가 있어 그쪽으로 붙이기 쉽습니다. 위반 요건을 찾아내는 쪽은 수령자입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that are in violation of this guidance.</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 requirements(요건)입니다. 바로 앞의 their grants 가 아닙니다",
+   "tip": "관계절은 늘 바로 앞 명사에 붙는 것이 아닙니다. 위반하고 있는 것은 보조금 자체가 아니라 그 안의 요건입니다."
+  }
+ ],
+ "0aa45fd4|3.3": [
+  {
+   "t": "who",
+   "q": "<b>can be found</b> — 연락처를 찾는 사람이 이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태). 찾으라는 대상은 읽는 사람이지만 문장에는 드러나 있지 않습니다",
+   "tip": "can be found 를 \"찾을 수 있다\"의 주체가 앞의 정보라고 읽으면 뒤집힙니다. 찾아지는 쪽이 주어입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Notice of Award for Grant and Cooperative Agreement (NOA).</b> 는 NF 1687 과 다른 서류입니까?",
+   "a": "아닙니다 — 같은 것입니다. NF 1687 이 무슨 서식인지 풀어 주는 같은 말(동격)입니다",
+   "tip": "쉼표 뒤에 이름이 길게 이어지면 새 항목처럼 보이지만, 앞의 서식 번호를 다시 말한 것입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>Your Grant Officer’s contact information</b> — 여기서 Your 는 누구를 가리킵니까?",
+   "a": "이 안내를 읽는 보조금 수령자(수령 기관)입니다",
+   "tip": "기사문에서 your 가 나오면 대개 읽는 사람 자신입니다. NASA 쪽 담당자의 것으로 읽으면 방향이 어긋납니다."
+  }
+ ],
+ "0aa45fd4|4.0": [
+  {
+   "t": "who",
+   "q": "<b>Thank you for your work and partnership</b> — 고마워하는 쪽과 고마움을 받는 쪽은 각각 누구입니까?",
+   "a": "고마워하는 쪽은 이 글을 쓴 NASA이고, 받는 쪽은 읽는 사람(보조금 수령자)입니다",
+   "tip": "주어가 없어 방향이 흐릿해 보이지만, Thank you 의 감춰진 주어는 늘 말하는 쪽(NASA)입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>with NASA.</b> 는 무엇에 붙는 말입니까?",
+   "a": "바로 앞의 partnership 입니다 — \"NASA와의 협력\"이라는 뜻입니다",
+   "tip": "your work 까지 함께 묶어 \"NASA에서 한 일\"로 읽기 쉽지만, with 는 partnership 하나에만 걸립니다."
+  }
+ ],
+ "0aa45fd4|5.0": [
+  {
+   "t": "time",
+   "q": "<b>NASA separated the Terms and Conditions</b> — 이것은 이미 한 일입니까, 앞으로 할 일입니까?",
+   "a": "이미 한 일입니다 — 2025 회계연도에 끝냈습니다",
+   "tip": "동사가 과거형(separated)입니다. 규정 안내문이라고 해서 다 앞으로 할 일이 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>from the GCAM</b> — 무엇을 무엇에서 떼어낸 것입니까?",
+   "a": "약관(the Terms and Conditions)을 GCAM(보조금·협력협정 매뉴얼)에서 떼어냈습니다",
+   "tip": "separate A from B 는 \"A를 B에서 떼어낸다\"입니다. 방향을 뒤집으면 GCAM을 떼어낸 것이 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to create a standalone document.</b> 는 이 문장에서 무슨 구실을 합니까?",
+   "a": "떼어낸 목적입니다 — 따로 서는 독립 문서를 만들기 위해서라는 뜻입니다",
+   "tip": "to + 동사는 여기서 \"~하기 위해\"입니다. 또 하나의 동사로 읽으면 문장에 동사가 둘이 됩니다."
+  }
+ ],
+ "0aa45fd4|5.1": [
+  {
+   "t": "pron",
+   "q": "<b>This document</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 GCAM에서 떼어내 따로 만든 약관 문서입니다",
+   "tip": "GCAM 자체를 가리킨다고 읽기 쉽습니다. This 는 바로 앞 문장에서 새로 만든 그 독립 문서를 받습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>and applies to all awards</b> — 적용되는 것은 무엇입니까?",
+   "a": "이 문서(This document)입니다 — outlines 와 applies 가 같은 주어를 나눠 쓰는 두 동사입니다",
+   "tip": "바로 앞의 terms and conditions 를 주어로 잡기 쉽습니다. and 앞뒤 동사의 주어는 하나뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>issued under 2 CFR 1800</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 all awards(모든 지원금)입니다 — 그 규정에 따라 수여된 지원금이라는 뜻",
+   "tip": "issued 를 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 outlines 와 applies 둘뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>(NASA’s adoption of 2 CFR 200.)</b> 는 무엇을 설명합니까?",
+   "a": "바로 앞의 2 CFR 1800 이 무엇인지 — NASA가 2 CFR 200을 받아들여 만든 규정이라는 풀이입니다",
+   "tip": "괄호 안이 새로운 조건처럼 보이지만 앞의 규정 번호를 다시 말한 같은 말입니다."
+  }
+ ],
+ "0aa45fd4|5.2": [
+  {
+   "t": "mod",
+   "q": "<b>7-15-2026</b> 은 무엇을 나타냅니까?",
+   "a": "이 문서의 날짜입니다 — 미국식 월-일-연도 표기라 2026년 7월 15일입니다",
+   "tip": "조항 번호나 문서 번호로 읽기 쉽습니다. 미국 문서에서 숫자 셋을 하이픈으로 이으면 대개 날짜입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>NASA Grant and Cooperative Agreement Terms and Conditions</b> — 이 줄은 문장입니까?",
+   "a": "아닙니다 — 동사가 없는 문서 제목입니다",
+   "tip": "길다고 문장은 아닙니다. 동사를 찾아보면 하나도 없다는 것을 알 수 있습니다."
+  }
+ ],
+ "0aa45fd4|6.0": [
+  {
+   "t": "who",
+   "q": "<b>Grantees are strongly encouraged</b> — 권하는 쪽이 이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태). 권고를 받는 쪽만 나오는데, 그것이 Grantees(수령자)입니다",
+   "tip": "are encouraged 를 \"권한다\"로 읽으면 수령자가 권하는 쪽이 되어 방향이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>identified in the guidelines</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 the NASA Insignia Format(NASA 휘장 형식)입니다 — 그 지침에 실려 있는 형식이라는 뜻",
+   "tip": "identified 를 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 are encouraged 하나뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>at NASA Insignia Guidelines for NASA Grantees .</b> 는 무엇을 가리킵니까?",
+   "a": "앞에서 말한 그 지침 문서의 이름(링크)입니다",
+   "tip": "장소를 나타내는 at 이라서 어떤 건물이나 부서로 읽기 쉽지만, 여기서는 자료가 실린 곳(문서·링크)입니다."
+  }
+ ],
+ "0aa45fd4|6.1": [
+  {
+   "t": "pron",
+   "q": "<b>These guidelines</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에 나온 NASA Insignia Guidelines(NASA 휘장 지침)입니다",
+   "tip": "These 는 앞에서 이미 말한 것을 받습니다. 새로운 지침이 나온 것이 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>via Grantee partnerships</b> 와 <b>for a broader and more diverse population.</b> — 어느 쪽이 수단이고 어느 쪽이 대상입니까?",
+   "a": "via 쪽이 수단(수령자와의 협력을 통해), for 쪽이 대상(더 넓고 다양한 사람들에게)입니다",
+   "tip": "둘 다 사람을 가리키는 말이라 뭉뚱그리기 쉽습니다. \"누구를 통해\"와 \"누구에게\"는 서로 다른 쪽입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>These guidelines aim to increase awareness</b> — 인식을 높이려 하는 주체는 무엇입니까?",
+   "a": "지침(These guidelines) 자체입니다 — 그것이 노리는 목표라는 뜻입니다",
+   "tip": "수령자가 목표를 세운다고 읽기 쉽지만, aim 의 주어는 guidelines 입니다."
+  }
+ ],
+ "0aa45fd4|7.0": [
+  {
+   "t": "mod",
+   "q": "<b>currently the Department of Health and Human Services (HHS)…Payment Management System (PMS),</b> 는 무엇을 설명합니까?",
+   "a": "앞의 a service provider 가 구체적으로 어디인지 밝히는 같은 말(동격)입니다",
+   "tip": "쉼표 사이가 길어 새 기관이 하나 더 나온 것처럼 보이지만, 서비스 제공자와 PMS는 같은 것입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to provide Federal funds to recipients.</b> — 연방 자금을 건네받는 쪽은 누구입니까?",
+   "a": "수령자들(recipients)입니다",
+   "tip": "to 가 붙은 쪽이 받는 쪽입니다. NASA와 PMS는 주는 쪽이고, 서로 다른 기관이라는 점도 함께 잡아야 합니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>currently</b> — 이 서비스 제공자는 앞으로도 바뀌지 않는다는 뜻입니까?",
+   "a": "아닙니다 — \"현재는\" HHS의 PMS라는 뜻으로, 바뀔 수 있음을 내비칩니다",
+   "tip": "currently 한 낱말이 문장의 확실성을 크게 낮춥니다. 빼고 읽으면 영구적인 규정처럼 보입니다."
+  }
+ ],
+ "0aa45fd4|7.1": [
+  {
+   "t": "who",
+   "q": "<b>PMS will provide instructions to the recipients</b> — 안내를 주는 쪽과 받는 쪽은 각각 누구입니까?",
+   "a": "주는 쪽은 PMS이고, 받는 쪽은 수령자들입니다",
+   "tip": "provide A to B 는 \"B에게 A를 준다\"입니다. to 가 붙은 쪽이 받는 쪽입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>for registering and requesting funds</b> 는 무엇에 대한 설명입니까?",
+   "a": "앞의 instructions 가 무엇에 대한 안내인지입니다 — 등록하고 자금을 신청하는 방법에 대한 안내",
+   "tip": "for 를 목적(\"~하기 위해 준다\")으로 읽어도 뜻이 크게 어긋나지는 않지만, 여기서는 안내의 내용을 밝히는 말입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>through the system.</b> 의 the system 은 무엇입니까?",
+   "a": "PMS(지급관리시스템)입니다",
+   "tip": "the 가 붙었으니 앞에 나온 그것입니다. 별도의 다른 시스템이 아닙니다."
+  }
+ ],
+ "0aa45fd4|8.0": [
+  {
+   "t": "who",
+   "q": "<b>NASA is responsible for routine post-award monitoring</b> — 점검할 책임이 있는 쪽은 누구입니까?",
+   "a": "NASA입니다",
+   "tip": "앞뒤 문장에서 의무를 지는 쪽이 대개 수령자라 여기서도 수령자로 읽기 쉽습니다. 이 문장만은 NASA가 주어입니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>regardless of the award’s risk determination.</b> — 위험도 판정이 낮으면 점검을 건너뜁니까?",
+   "a": "아닙니다 — 위험도 판정과 상관없이 모든 지원금을 점검합니다",
+   "tip": "regardless of 는 \"~와 상관없이\"입니다. \"~에 따라\"로 읽으면 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>post-award</b> 는 언제를 가리킵니까?",
+   "a": "지원금을 준 뒤입니다",
+   "tip": "post- 는 \"뒤\", pre- 는 \"앞\"입니다. 심사 단계의 점검으로 읽으면 시점이 어긋납니다."
+  }
+ ],
+ "0aa45fd4|8.1": [
+  {
+   "t": "mod",
+   "q": "<b>At a minimum,</b> — 뒤에 나오는 셋이 점검의 전부입니까?",
+   "a": "아닙니다 — \"적어도 이만큼은\"이라는 뜻이라, 더 있을 수 있습니다",
+   "tip": "이 한 마디를 빼고 읽으면 점검 항목이 딱 셋으로 못 박힙니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>includes reviewing award recipients’ annual performance reports,</b> — 검토하는 쪽과 보고서를 낸 쪽은 각각 누구입니까?",
+   "a": "검토하는 쪽은 NASA(앞 문장의 점검 주체)이고, 보고서를 낸 쪽은 수령자들입니다",
+   "tip": "소유격 recipients’ 를 보고 그들이 검토한다고 읽기 쉽지만, 그들은 보고서를 내고 검토받는 쪽입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>annual performance reports</b> 와 <b>semi-annual Federal Financial Report (FFR)</b> — 각각 얼마나 자주 내는 것입니까?",
+   "a": "앞은 해마다 한 번(annual), 뒤는 반년마다 한 번(semi-annual)입니다",
+   "tip": "semi- 는 \"반\"입니다. 두 낱말이 비슷해 보여 주기를 같게 읽기 쉽습니다."
+  }
+ ],
+ "0aa45fd4|9.0": [
+  {
+   "t": "who",
+   "q": "<b>All NASA award recipients must submit annual performance reports.</b> — 보고서를 내는 쪽은 누구입니까?",
+   "a": "NASA의 지원금을 받은 모든 수령자입니다. NASA가 아닙니다",
+   "tip": "주어 맨 앞에 NASA가 있어 NASA를 주어로 잡기 쉽습니다. 주어의 중심 낱말은 recipients 입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>All NASA award recipients</b> 는 어떤 사람들입니까?",
+   "a": "NASA로부터 지원금(award)을 받은 기관·연구자들입니다",
+   "tip": "award 를 \"상\"으로 읽으면 수상자 이야기가 됩니다. 이 기사에서 award 는 보조금·협력협정을 뜻합니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>annual performance reports.</b> — 얼마나 자주 내야 합니까?",
+   "a": "해마다 한 번입니다",
+   "tip": "annual 을 흘려 읽으면 한 번만 내면 되는 것으로 오해합니다."
+  }
+ ],
+ "0aa45fd4|9.1": [
+  {
+   "t": "who",
+   "q": "<b>Annual reports are due to NASA</b> — 보고서를 내는 쪽과 받는 쪽은 각각 누구입니까?",
+   "a": "내는 쪽은 수령자이고, 받는 쪽은 NASA입니다",
+   "tip": "are due to 를 \"NASA 때문에\"로 읽으면 뜻이 어긋납니다. 여기서 to NASA 는 \"NASA에 제출한다\"는 뜻입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>60 days prior to the annual anniversary</b> — 그 날짜보다 앞입니까, 뒤입니까?",
+   "a": "앞입니다 — 60일 먼저 내야 합니다",
+   "tip": "prior to 는 \"~보다 앞서\"입니다. after 로 읽으면 마감이 두 달 뒤로 밀려 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>of the award’s POP start date</b> — 무엇이 해마다 돌아오는 날짜입니까?",
+   "a": "그 지원금의 수행 기간(POP, Period of Performance) 시작일입니다",
+   "tip": "지원금을 받은 날이나 계약일로 읽기 쉽습니다. 기준은 수행 기간이 시작되는 날입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>(e.g., if the POP of an award is October 1 – September 30,</b> — 괄호 안은 무엇입니까?",
+   "a": "앞의 규칙을 보여 주는 예시입니다. 모든 지원금의 수행 기간이 그렇다는 뜻이 아닙니다",
+   "tip": "e.g. 는 \"예를 들어\"입니다. 예시를 규칙으로 읽으면 날짜가 못 박힌 것처럼 보입니다."
+  }
+ ],
+ "0aa45fd4|11.0": [
+  {
+   "t": "time",
+   "q": "<b>Period 1 (October 1 – March 31): Due by April 30 each year.</b> — 괄호 안의 기간과 April 30 은 각각 무엇입니까?",
+   "a": "괄호 안은 보고서가 다루는 기간이고, April 30 은 그 보고서를 내야 하는 마감일입니다",
+   "tip": "날짜가 셋이나 나와 뒤섞기 쉽습니다. 콜론 앞은 대상 기간, 콜론 뒤는 마감입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Due by April 30 each year.</b> — 4월 30일에 시작한다는 뜻입니까?",
+   "a": "아닙니다 — 4월 30일까지 내야 한다는 마감 표시입니다. 그것이 해마다 돌아옵니다",
+   "tip": "by 는 \"~까지\"입니다. on(그날에)이나 from(그날부터)으로 읽으면 뜻이 달라집니다."
+  }
+ ],
+ "0aa45fd4|12.0": [
+  {
+   "t": "time",
+   "q": "<b>Period 2 (April 1 – September 30): Due by October 30 of each year.</b> — 기간이 끝난 뒤 마감까지 얼마가 남습니까?",
+   "a": "9월 30일에 기간이 끝나고 10월 30일이 마감이니 한 달입니다",
+   "tip": "괄호 안 기간과 마감일을 한 덩어리로 읽으면 시간 순서가 사라집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Period 2</b> 는 앞의 Period 1 과 무엇이 다릅니까?",
+   "a": "다루는 반년이 다릅니다 — 4월 1일부터 9월 30일까지입니다",
+   "tip": "짜임이 똑같아 눈으로 훑고 넘어가기 쉽습니다. 달라지는 것은 기간과 마감일뿐입니다."
+  }
+ ],
+ "0aa45fd4|13.0": [
+  {
+   "t": "time",
+   "q": "<b>120 days after the end of the POP</b> — 수행 기간이 끝나기 전입니까, 끝난 뒤입니까?",
+   "a": "끝난 뒤입니다 — 끝나고 나서 120일 안에 내야 합니다",
+   "tip": "앞 문장의 prior to(앞서)와 방향이 반대입니다. 규정 문장에서는 이 앞뒤가 가장 잘 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Final FFRs</b> 는 반기마다 내는 FFR 과 같은 것입니까?",
+   "a": "아닙니다 — 수행 기간이 다 끝난 뒤에 한 번 내는 마지막 보고서입니다",
+   "tip": "Final 한 낱말이 종류를 가릅니다. 앞에 나온 반기 FFR과 뭉뚱그리면 마감을 놓칩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the POP</b> 는 무엇을 줄인 말입니까?",
+   "a": "Period of Performance, 곧 그 지원금의 수행 기간입니다",
+   "tip": "앞 문장에서 이미 나온 약자입니다. 기사에서 대문자 약자는 대개 앞에서 한 번 풀어 준 말입니다."
+  }
+ ],
+ "0aa45fd4|14.0": [
+  {
+   "t": "who",
+   "q": "<b>Additional information and training are available</b> — 이 정보와 교육을 제공하는 쪽이 문장에 나옵니까?",
+   "a": "나오지 않습니다. 어디에서 볼 수 있는지(웹사이트)만 나옵니다",
+   "tip": "are available 은 \"이용할 수 있다\"입니다. 주어를 제공하는 쪽으로 읽으면 주체와 대상이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Additional information and training</b> — 웹사이트에서 얻을 수 있는 것은 정보뿐입니까?",
+   "a": "아닙니다 — 정보와 교육(training) 둘 다입니다. 그래서 동사가 are 입니다",
+   "tip": "주어가 둘이라 복수 동사 are 가 쓰였습니다. 동사 모양이 주어의 범위를 알려 주는 단서입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>at https://pms.psc.gov/ .</b> 는 무엇의 주소입니까?",
+   "a": "바로 앞의 Payment Management System website 입니다",
+   "tip": "at 이 붙은 주소는 앞의 웹사이트가 어디인지 밝히는 말이지, 새로운 곳이 아닙니다."
+  }
+ ],
+ "0aa45fd4|15.0": [
+  {
+   "t": "who",
+   "q": "<b>provides pre and post award policy guidance</b> — 지침을 제공하는 것은 무엇입니까?",
+   "a": "GCAM이라는 매뉴얼(문서) 자체입니다. NASA의 어느 부서나 담당자가 아닙니다",
+   "tip": "주어가 너무 길어 중심을 놓치기 쉽습니다. 주어의 중심 낱말은 Manual 이고, 나머지는 그 매뉴얼의 이름입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>pre and post award</b> — 언제의 지침입니까?",
+   "a": "지원금을 주기 전과 준 뒤, 양쪽 모두입니다",
+   "tip": "pre 와 post 가 award 하나를 함께 꾸밉니다. 한쪽만 읽으면 적용 범위가 절반으로 줄어듭니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to implement government-wide and NASA-specific regulations</b> 는 이 문장에서 무슨 구실을 합니까?",
+   "a": "지침을 제공하는 목적입니다 — 그 규정들을 실행할 수 있게 하기 위해서라는 뜻입니다",
+   "tip": "앞에도 to(to NASA proposers)가 나오는데 그것은 \"누구에게\"라는 전치사입니다. 같은 to 라도 쓰임이 다릅니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>with educational and non-profit organizations;…and for-profit organizations.</b> — 세미콜론으로 갈라 놓은 이 셋은 무엇입니까?",
+   "a": "보조금과 협력협정을 맺는 상대 무리 셋입니다",
+   "tip": "쉼표가 많은 목록이라 세미콜론으로 큰 덩어리를 갈라 놓았습니다. 세미콜론이 묶음의 경계입니다."
+  }
+ ],
+ "0aa45fd4|16.0": [
+  {
+   "t": "time",
+   "q": "<b>NASA separated the Terms and Conditions</b> — 이것은 이미 한 일입니까, 앞으로 할 일입니까?",
+   "a": "이미 한 일입니다 — 2025 회계연도에 끝냈습니다",
+   "tip": "동사가 과거형(separated)입니다. 규정 안내문이라고 해서 다 앞으로 할 일이 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>from the GCAM</b> — 무엇을 무엇에서 떼어낸 것입니까?",
+   "a": "약관(the Terms and Conditions)을 GCAM(보조금·협력협정 매뉴얼)에서 떼어냈습니다",
+   "tip": "separate A from B 는 \"A를 B에서 떼어낸다\"입니다. 방향을 뒤집으면 GCAM을 떼어낸 것이 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to create a standalone document.</b> 는 이 문장에서 무슨 구실을 합니까?",
+   "a": "떼어낸 목적입니다 — 따로 서는 독립 문서를 만들기 위해서라는 뜻입니다",
+   "tip": "to + 동사는 여기서 \"~하기 위해\"입니다. 또 하나의 동사로 읽으면 문장에 동사가 둘이 됩니다."
+  }
+ ],
+ "0aa45fd4|16.1": [
+  {
+   "t": "pron",
+   "q": "<b>This document</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 GCAM에서 떼어내 따로 만든 약관 문서입니다",
+   "tip": "GCAM 자체를 가리킨다고 읽기 쉽습니다. This 는 바로 앞 문장에서 새로 만든 그 독립 문서를 받습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>and applies to all awards</b> — 적용되는 것은 무엇입니까?",
+   "a": "이 문서(This document)입니다 — outlines 와 applies 가 같은 주어를 나눠 쓰는 두 동사입니다",
+   "tip": "바로 앞의 terms and conditions 를 주어로 잡기 쉽습니다. and 앞뒤 동사의 주어는 하나뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>issued under 2 CFR 1800</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 all awards(모든 지원금)입니다 — 그 규정에 따라 수여된 지원금이라는 뜻",
+   "tip": "issued 를 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 outlines 와 applies 둘뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>(NASA’s adoption of 2 CFR 200.)</b> 는 무엇을 설명합니까?",
+   "a": "바로 앞의 2 CFR 1800 이 무엇인지 — NASA가 2 CFR 200을 받아들여 만든 규정이라는 풀이입니다",
+   "tip": "괄호 안이 새로운 조건처럼 보이지만 앞의 규정 번호를 다시 말한 같은 말입니다."
+  }
+ ],
+ "0aa45fd4|17.0": [
+  {
+   "t": "time",
+   "q": "<b>NASA implemented the Federal-wide research terms and conditions</b> — 이것은 이미 시행한 것입니까, 시행할 계획입니까?",
+   "a": "이미 시행했습니다 — 동사가 과거형입니다",
+   "tip": "규정 안내문은 앞으로 할 일처럼 읽히기 쉽지만 implemented 는 과거입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Federal-wide</b> — 이 약관은 NASA가 만든 것입니까?",
+   "a": "아닙니다 — 연방 정부 전체에 공통인 약관이고, NASA는 그것을 가져다 시행한 것입니다",
+   "tip": "-wide 는 \"전체에 걸친\"입니다. NASA만의 규정으로 읽으면 범위가 좁아집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>issued under 2 CFR 1800</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 grant and cooperative agreement awards(보조금·협력협정 지원금)입니다",
+   "tip": "issued 를 동사로 읽으면 문장에 동사가 둘이 됩니다. 이 문장의 동사는 implemented 하나뿐입니다."
+  }
+ ],
+ "0aa45fd4|18.0": [
+  {
+   "t": "mod",
+   "q": "<b>RTC Appendix A: Prior Approval Matrix,</b> — 콜론 뒤의 말은 무엇입니까?",
+   "a": "그 부록의 제목입니다 — 부록 A의 이름이 \"사전 승인 매트릭스\"라는 뜻입니다",
+   "tip": "콜론을 \"즉\"이나 설명으로 읽기 쉽지만 여기서는 번호와 제목을 잇는 표시입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and RTC Appendix C: National Policy Requirements).</b> — 여기 나열된 문서는 모두 몇 개입니까?",
+   "a": "셋입니다(부록 A·B·C) — 앞 문장이 말한 \"딸린 문서 세 가지\"에 해당합니다",
+   "tip": "and 가 마지막 항목 앞에 붙는다는 것을 알면 개수를 셀 수 있습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>RTC</b> 는 무엇을 줄인 말입니까?",
+   "a": "Research Terms and Conditions, 곧 연구 약관입니다",
+   "tip": "앞 문장에서 풀어 준 이름의 약자입니다. 새로운 문서가 나온 것이 아닙니다."
+  }
+ ],
+ "0aa45fd4|19.0": [
+  {
+   "t": "mod",
+   "q": "<b>The Research Terms and Conditions and companion documents</b> — 웹사이트에서 볼 수 있는 것은 몇 가지입니까?",
+   "a": "둘입니다 — 연구 약관과 그에 딸린 문서들 모두입니다. 그래서 동사가 are 입니다",
+   "tip": "and 앞뒤가 모두 주어입니다. 앞쪽만 주어로 잡으면 딸린 문서들이 빠집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>on the NSF website .</b> — 이 자료들은 어디에 올라와 있습니까?",
+   "a": "NSF(미국 국립과학재단) 웹사이트입니다. NASA 웹사이트가 아닙니다",
+   "tip": "NASA 기사라서 당연히 NASA 사이트로 읽기 쉽습니다. 세 글자가 비슷해 더 잘 헷갈립니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>are accessible</b> — 볼 수 있는 사람이 문장에 정해져 있습니까?",
+   "a": "정해져 있지 않습니다 — 누가 보는지는 나오지 않고, 접근할 수 있다는 사실만 말합니다",
+   "tip": "accessible 은 \"접근할 수 있는\"이라는 형용사입니다. 주어를 보는 쪽으로 읽으면 뒤집힙니다."
+  }
+ ],
+ "0aa45fd4|20.0": [
+  {
+   "t": "who",
+   "q": "<b>go to</b> — 이 지시를 따라야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람, 곧 진정을 내려는 사람입니다",
+   "tip": "주어가 없는 명령문입니다. 세미콜론 앞이 길어서 진짜 지시가 맨 끝에 있다는 것을 놓치기 쉽습니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>denial of equal opportunity</b> — 이것은 평등한 기회가 주어졌다는 뜻입니까?",
+   "a": "아닙니다 — 평등한 기회를 주지 않은 것(거부)을 뜻합니다",
+   "tip": "denial 한 낱말이 뜻을 뒤집습니다. 아는 낱말 equal opportunity 만 보고 읽으면 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>based on race, color, national origin,…sex, disability, or age;</b> 는 무엇을 꾸미는 말입니까?",
+   "a": "앞의 discrimination(차별)입니다 — 무엇을 이유로 한 차별인지 밝힙니다",
+   "tip": "나열이 길어 문장의 주된 내용처럼 보이지만, 차별의 사유를 늘어놓은 것일 뿐입니다."
+  }
+ ],
+ "0aa45fd4|21.1": [
+  {
+   "t": "mod",
+   "q": "<b>Suite 8V39</b> 는 무엇입니까?",
+   "a": "사무실 호수입니다 — 앞 문장의 300 E Street, S.W. 에 이어지는 주소의 일부입니다",
+   "tip": "앞 문장에서 주소가 끊겨 이어진 것이라, 따로 떼어 보면 무슨 번호인지 알기 어렵습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>NASA OIG Hotline</b> 는 무엇입니까?",
+   "a": "NASA 감사관실(Office of Inspector General)의 신고 전화입니다",
+   "tip": "Hotline 을 일반 상담 전화로 읽기 쉽지만, 여기서는 부정·비리를 신고하는 창구입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>20546-0001</b> 은 무엇입니까?",
+   "a": "우편번호(ZIP 코드)입니다",
+   "tip": "전화번호나 사건 번호로 읽기 쉽습니다. 미국 주소 끝의 다섯 자리 + 네 자리는 우편번호입니다."
+  }
+ ],
+ "0aa45fd4|22.0": [
+  {
+   "t": "mod",
+   "q": "<b>Grants.gov NSSC Grants Payment Packag e</b> — 이 줄은 문장입니까?",
+   "a": "아닙니다 — 관련 사이트·시스템 이름을 늘어놓은 링크 목록입니다",
+   "tip": "동사가 하나도 없습니다. 이름들이 띄어쓰기만으로 이어져 한 문장처럼 보일 뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Packag e</b> 는 무슨 낱말입니까?",
+   "a": "Package(패키지)가 잘못 띄어 쓰인 것입니다",
+   "tip": "원문에 그대로 있는 오식입니다. 모르는 낱말로 여기고 헤매기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>(NSPIRES)</b> 는 무엇의 약자입니까?",
+   "a": "바로 앞의 NASA Research Opportunities Online 입니다",
+   "tip": "괄호 안 대문자는 언제나 바로 앞 이름을 줄인 것입니다. 별개의 시스템이 아닙니다."
+  }
+ ]
+}

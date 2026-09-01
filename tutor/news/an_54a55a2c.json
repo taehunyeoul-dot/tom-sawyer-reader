@@ -1,0 +1,548 @@
+[
+ {
+  "id": "54a55a2c|0.0",
+  "en": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
+  "s": "NASA’s Nancy Grace Roman Space Telescope",
+  "v": "will soon reveal",
+  "chunks": [
+   {"en": "Now on a three-month, million-mile journey", "ko": "지금 3개월, 100만 마일에 이르는 여정에 올라", "r": "부사구(지금 어떤 상태인가)"},
+   {"en": "to its final orbit,", "ko": "최종 궤도를 향하는", "r": "전치사구(여정의 목적지)"},
+   {"en": "NASA’s Nancy Grace Roman Space Telescope", "ko": "NASA의 낸시 그레이스 로먼 우주망원경은", "r": "주어"},
+   {"en": "will soon reveal", "ko": "곧 밝혀낼 것이다", "r": "동사(미래)"},
+   {"en": "the universe’s darkest secrets.", "ko": "우주의 가장 어두운 비밀들을", "r": "목적어"}
+  ],
+  "ko": "NASA의 낸시 그레이스 로먼 우주망원경(Nancy Grace Roman Space Telescope)이 이제 최종 궤도를 향해 3개월, 100만 마일(약 160만 km)에 이르는 여정에 올랐다. 이 망원경은 곧 우주의 가장 어두운 비밀들을 밝혀낼 것이다.",
+  "why": "문장 맨 앞에 긴 부사구(Now on ~ orbit,)가 놓여 진짜 주어가 쉼표 뒤에야 나온다. journey(여정)나 orbit(궤도)을 주어로 잡으면 뼈대가 무너진다. darkest secrets 는 암흑물질·암흑에너지를 염두에 둔 표현이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|0.1",
+  "en": "The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida.",
+  "s": "The mission",
+  "v": "launched",
+  "chunks": [
+   {"en": "The mission launched", "ko": "그 임무는 발사되었다", "r": "주어 + 동사"},
+   {"en": "at 7:26 a.m. EDT Sunday", "ko": "일요일 동부 하계표준시 오전 7시 26분에", "r": "시간"},
+   {"en": "aboard a SpaceX Falcon Heavy rocket", "ko": "스페이스X의 팰컨 헤비 로켓에 실려", "r": "전치사구(수단)"},
+   {"en": "from Launch Complex 39A", "ko": "39A 발사대에서", "r": "전치사구(출발 지점)"},
+   {"en": "at the agency’s Kennedy Space Center in Florida.", "ko": "플로리다에 있는 그 기관(NASA)의 케네디 우주센터에 있는", "r": "전치사구(발사대의 위치)"}
+  ],
+  "ko": "이 임무는 일요일 동부 하계표준시 오전 7시 26분, 플로리다에 있는 NASA 케네디 우주센터의 39A 발사대에서 스페이스X 팰컨 헤비 로켓에 실려 발사되었다.",
+  "why": "launched 는 여기서 '무엇을 발사했다'가 아니라 '발사되었다'는 뜻이다. 뒤에 전치사구가 aboard → from → at → in 순으로 네 겹 이어지는데, 무엇에 실려 / 어느 발사대에서 / 어느 센터의 / 어느 주에 순으로 범위가 점점 넓어진다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|1.0",
+  "en": "Roman pairs a large field of view with crisp infrared vision to explore vast swaths of the sky and probe deeply into cosmic history.",
+  "s": "Roman",
+  "v": "pairs",
+  "chunks": [
+   {"en": "Roman pairs a large field of view", "ko": "로먼은 넓은 시야를 (~와) 짝지어 함께 갖추고 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with crisp infrared vision", "ko": "선명한 적외선 관측 능력과", "r": "전치사구(짝지어지는 상대)"},
+   {"en": "to explore vast swaths of the sky", "ko": "하늘의 광대한 영역을 탐사하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "and probe deeply into cosmic history.", "ko": "그리고 우주의 역사 깊숙이 파고들기 위해", "r": "목적(앞의 to explore 와 나란함)"}
+  ],
+  "ko": "로먼은 넓은 시야와 선명한 적외선 관측 능력을 함께 갖추고 있다. 하늘의 광대한 영역을 훑고 우주 역사의 깊은 곳까지 파고들기 위해서다.",
+  "why": "pair A with B 는 'A와 B를 짝지어 함께 갖추다'라는 뜻이라, with 를 '~와 함께'로 흘려 읽으면 두 능력 중 하나를 놓친다. 뒤의 and probe 는 새 동사가 아니라 to explore 와 나란히 to 에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|1.1",
+  "en": "This flagship mission will help astronomers explore dark matter , dark energy , and worlds outside of our solar system , known as exoplanets.",
+  "s": "This flagship mission",
+  "v": "will help",
+  "chunks": [
+   {"en": "This flagship mission will help astronomers", "ko": "이 간판 임무는 천문학자들이 ~하도록 도울 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "explore dark matter , dark energy ,", "ko": "암흑물질과 암흑에너지를 탐구하도록", "r": "목적격보어(원형부정사)"},
+   {"en": "and worlds outside of our solar system ,", "ko": "그리고 우리 태양계 바깥의 세계들을", "r": "탐구 대상 나열"},
+   {"en": "known as exoplanets.", "ko": "외계행성이라고 불리는", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "이 간판 임무는 천문학자들이 암흑물질, 암흑에너지, 그리고 외계행성이라고 불리는 우리 태양계 바깥의 세계들을 탐구하도록 도울 것이다.",
+  "why": "help + 목적어 + 동사원형 구조라 explore 앞에 to 가 없다. explore 하는 쪽은 임무가 아니라 바로 앞의 astronomers 다. 맨 뒤 known as exoplanets 는 나열된 셋 전부가 아니라 앞의 '태양계 바깥의 세계들'만 설명한다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|1.2",
+  "en": "Its surveys will support a broad range of research extending far beyond the mission’s main science goals.",
+  "s": "Its surveys",
+  "v": "will support",
+  "chunks": [
+   {"en": "Its surveys will support", "ko": "로먼의 관측 조사들은 ~을 뒷받침할 것이다", "r": "주어 + 동사"},
+   {"en": "a broad range of research", "ko": "폭넓은 범위의 연구를", "r": "목적어"},
+   {"en": "extending far beyond the mission’s main science goals.", "ko": "그 임무의 주요 과학 목표를 훨씬 넘어서까지 뻗어 있는", "r": "현재분사구(앞 명사 설명)"}
+  ],
+  "ko": "로먼의 관측 조사 자료는 이 임무가 정한 주요 과학 목표를 훨씬 넘어서는 폭넓은 연구까지 뒷받침하게 될 것이다.",
+  "why": "extending 은 문장의 동사가 아니라 앞의 research 를 꾸미는 분사(~하는)다. 이 문장의 동사는 will support 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|2.0",
+  "en": "“Roman is exactly the kind of success story we want to see across NASA,” said NASA Administrator Jared Isaacman.",
+  "s": "Roman",
+  "v": "is",
+  "chunks": [
+   {"en": "“Roman is exactly the kind of success story", "ko": "“로먼은 바로 그런 종류의 성공 사례다", "r": "주어 + 동사 + 보어"},
+   {"en": "we want to see across NASA,”", "ko": "우리가 NASA 전반에서 보고 싶어 하는", "r": "관계절(앞 명사 설명, 관계대명사 생략)"},
+   {"en": "said NASA Administrator Jared Isaacman.", "ko": "라고 NASA 청장 재러드 아이작먼이 말했다", "r": "전달 동사 + 말한 사람(도치)"}
+  ],
+  "ko": "“로먼은 우리가 NASA 전반에서 보고 싶어 하는 바로 그런 성공 사례입니다.” NASA 청장 재러드 아이작먼(Jared Isaacman)의 말이다.",
+  "why": "success story 뒤에 관계대명사(that)가 생략된 채 we want to see 가 이어져 '우리가 보고 싶어 하는 성공 사례'가 된다. 맨 뒤 said 는 주어와 동사가 뒤바뀐 도치라 말한 사람이 said 뒤에 온다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|2.1",
+  "en": "“Delivered ahead of schedule and on budget, this mission reflects more than a decade of dedication from the NASA workforce and our industry partners.",
+  "s": "this mission",
+  "v": "reflects",
+  "chunks": [
+   {"en": "“Delivered ahead of schedule and on budget,", "ko": "“예정보다 앞서, 예산을 넘기지 않고 인도되어", "r": "분사구문(수동, 앞선 상황)"},
+   {"en": "this mission reflects", "ko": "이 임무는 ~을 보여 준다", "r": "주어 + 동사"},
+   {"en": "more than a decade of dedication", "ko": "10년이 넘는 헌신을", "r": "목적어"},
+   {"en": "from the NASA workforce and our industry partners.", "ko": "NASA 직원들과 우리 산업 협력사들이 쏟은", "r": "전치사구(헌신한 쪽)"}
+  ],
+  "ko": "“예정보다 앞서, 그리고 예산을 넘기지 않고 인도된 이 임무는 NASA 직원들과 우리 산업 협력사들이 10년 넘게 쏟아 온 헌신을 보여 줍니다.",
+  "why": "문장 첫머리의 Delivered 는 과거분사로 시작하는 분사구문이라 '(이 임무가) 인도되어'라는 당하는 뜻이다. 동사나 명령문으로 읽으면 안 된다. from 은 '~에게서 받은'이 아니라 헌신을 한 쪽을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|2.2",
+  "en": "Now, Roman will give us a new atlas of the universe, push the boundaries of discovery, and demonstrate what is possible when America’s space program pairs bold ambition with disciplined execution.”",
+  "s": "Roman",
+  "v": "will give",
+  "chunks": [
+   {"en": "Now, Roman will give us a new atlas of the universe,", "ko": "이제 로먼은 우리에게 우주의 새 지도책을 줄 것이고,", "r": "주어 + 동사 + 간접목적어 + 직접목적어"},
+   {"en": "push the boundaries of discovery,", "ko": "발견의 한계를 밀어 넓힐 것이며,", "r": "동사 나열(will 에 함께 걸림)"},
+   {"en": "and demonstrate what is possible", "ko": "그리고 무엇이 가능한지를 보여 줄 것이다", "r": "동사 나열 + 목적어(의문사절)"},
+   {"en": "when America’s space program pairs bold ambition with disciplined execution.”", "ko": "미국의 우주 프로그램이 대담한 야망과 절제된 실행을 함께 갖출 때", "r": "부사절(언제 그것이 가능한가)"}
+  ],
+  "ko": "이제 로먼은 우리에게 우주의 새로운 지도책을 안겨 주고, 발견의 한계를 밀어 넓히며, 미국의 우주 프로그램이 대담한 야망과 절제된 실행을 함께 갖출 때 무엇이 가능한지를 보여 줄 것입니다.”",
+  "why": "will 하나에 give, push, demonstrate 세 동사가 나란히 걸린다. push 와 demonstrate 앞에 will 이 다시 나오지 않으니 새 문장으로 끊어 읽으면 안 된다. 마지막 when 절은 '무엇이 가능한가'가 언제 가능한지를 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|3.0",
+  "en": "The ground control team at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, began receiving telemetry data from Roman seven minutes after launch.",
+  "s": "The ground control team",
+  "v": "began receiving",
+  "chunks": [
+   {"en": "The ground control team", "ko": "지상 관제팀은", "r": "주어"},
+   {"en": "at NASA’s Goddard Space Flight Center", "ko": "NASA 고더드 우주비행센터에 있는", "r": "전치사구(주어의 소속)"},
+   {"en": "in Greenbelt, Maryland,", "ko": "메릴랜드주 그린벨트에 있는", "r": "전치사구(센터의 소재지)"},
+   {"en": "began receiving telemetry data", "ko": "원격 측정 자료를 받기 시작했다", "r": "동사 + 목적어"},
+   {"en": "from Roman seven minutes after launch.", "ko": "발사 7분 뒤에 로먼으로부터", "r": "전치사구(보낸 쪽) + 시간"}
+  ],
+  "ko": "메릴랜드주 그린벨트의 NASA 고더드 우주비행센터에 있는 지상 관제팀은 발사 7분 뒤부터 로먼이 보내오는 원격 측정 자료를 받기 시작했다.",
+  "why": "주어(The ground control team)와 동사(began) 사이에 소속과 소재지를 밝히는 전치사구가 두 개나 끼어들어 동사가 멀다. 쉼표 안쪽을 괄호로 묶어 두고 '관제팀은 ~ 받기 시작했다'로 뼈대를 먼저 잡을 것.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|3.1",
+  "en": "The Falcon Heavy rocket performed as expected, separating from the observatory 31 minutes into the flight.",
+  "s": "The Falcon Heavy rocket",
+  "v": "performed",
+  "chunks": [
+   {"en": "The Falcon Heavy rocket performed as expected,", "ko": "팰컨 헤비 로켓은 예상한 대로 작동했고,", "r": "주어 + 동사 + 방식"},
+   {"en": "separating from the observatory", "ko": "그 관측선에서 분리되었다", "r": "분사구문(이어지는 동작)"},
+   {"en": "31 minutes into the flight.", "ko": "비행이 시작되고 31분 만에", "r": "시간"}
+  ],
+  "ko": "팰컨 헤비 로켓은 예상한 대로 작동했고, 비행이 시작된 지 31분 만에 관측선(로먼)에서 분리되었다.",
+  "why": "separating 은 두 번째 본동사가 아니라 분사구문으로, 앞 주어인 로켓이 이어서 한 일을 나타낸다. '31 minutes into the flight' 는 '비행 안으로'가 아니라 '비행이 시작되고 31분 지난 때'라는 시간 표현이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|3.2",
+  "en": "After separating from the center core, the rocket’s boosters safely returned to the launch site for refurbishment.",
+  "s": "the rocket’s boosters",
+  "v": "returned",
+  "chunks": [
+   {"en": "After separating from the center core,", "ko": "가운데 몸통에서 분리된 뒤", "r": "부사절(시간, 분사)"},
+   {"en": "the rocket’s boosters safely returned", "ko": "그 로켓의 보조 추진체들은 안전하게 되돌아왔다", "r": "주어 + 동사"},
+   {"en": "to the launch site for refurbishment.", "ko": "재정비를 위해 발사장으로", "r": "전치사구(도착지) + 목적"}
+  ],
+  "ko": "가운데 몸통(center core)에서 분리된 뒤, 로켓의 보조 추진체들은 재정비를 위해 발사장으로 안전하게 되돌아왔다.",
+  "why": "문장 앞의 After separating 은 주어가 없는 분사구문이라, 분리된 주체는 쉼표 뒤에 나오는 the rocket’s boosters 다. boosters 는 로켓 양옆에 붙는 보조 추진체, center core 는 가운데 몸통이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|4.0",
+  "en": "“Roman will be a discovery machine that will bring us closer than ever before to answering humanity’s most profound questions about our cosmic history,” said Nicky Fox, associate administrator for the Science Mission Directorate at NASA Headquarters in Washington.",
+  "s": "Roman",
+  "v": "will be",
+  "chunks": [
+   {"en": "“Roman will be a discovery machine", "ko": "“로먼은 발견을 만들어 내는 기계가 될 것이다", "r": "주어 + 동사 + 보어"},
+   {"en": "that will bring us closer than ever before", "ko": "우리를 그 어느 때보다 가깝게 데려다줄", "r": "관계절(앞 명사 설명)"},
+   {"en": "to answering humanity’s most profound questions", "ko": "인류의 가장 깊은 물음에 답하는 일에", "r": "전치사구(closer 와 짝을 이루는 대상)"},
+   {"en": "about our cosmic history,”", "ko": "우리 우주의 역사에 관한", "r": "전치사구(물음의 주제)"},
+   {"en": "said Nicky Fox,", "ko": "라고 니키 폭스가 말했다", "r": "전달 동사 + 말한 사람(도치)"},
+   {"en": "associate administrator for the Science Mission Directorate", "ko": "과학임무본부 부본부장인", "r": "동격(앞 사람의 직책)"},
+   {"en": "at NASA Headquarters in Washington.", "ko": "워싱턴의 NASA 본부에 있는", "r": "전치사구(직책의 소속)"}
+  ],
+  "ko": "“로먼은 우리 우주의 역사에 관한 인류의 가장 깊은 물음에 답하는 일에 우리를 그 어느 때보다 가깝게 데려다줄 발견의 기계가 될 것입니다.” 워싱턴 NASA 본부 과학임무본부 부본부장 니키 폭스(Nicky Fox)의 말이다.",
+  "why": "bring A closer to B 구조인데 closer 와 to 사이에 than ever before 가 끼어들어 to 가 멀어진다. 게다가 이 to 는 부정사가 아니라 전치사라 뒤에 answering 이 온다. 맨 뒤 쉼표 다음은 새 인물이 아니라 니키 폭스의 직책을 밝히는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|4.1",
+  "en": "“With its large field of view and fast survey speeds, Roman will usher us into a new era of discovery and make the invisible visible, setting the foundation for humanity’s search for life beyond our solar system.”",
+  "s": "Roman",
+  "v": "will usher",
+  "chunks": [
+   {"en": "“With its large field of view and fast survey speeds,", "ko": "“넓은 시야와 빠른 관측 속도를 갖춘 덕분에,", "r": "전치사구(수단·이유)"},
+   {"en": "Roman will usher us into a new era of discovery", "ko": "로먼은 우리를 발견의 새 시대로 이끌어 들일 것이고", "r": "주어 + 동사 + 목적어 + 방향"},
+   {"en": "and make the invisible visible,", "ko": "보이지 않던 것을 보이게 만들 것이다,", "r": "동사 나열 + 목적어 + 보어"},
+   {"en": "setting the foundation for humanity’s search for life", "ko": "생명을 찾는 인류의 탐색에 토대를 놓으면서", "r": "분사구문(결과)"},
+   {"en": "beyond our solar system.”", "ko": "우리 태양계 너머에서", "r": "전치사구(탐색의 범위)"}
+  ],
+  "ko": "“넓은 시야와 빠른 관측 속도를 갖춘 덕분에 로먼은 우리를 발견의 새 시대로 이끌고, 보이지 않던 것을 보이게 만들 것입니다. 그리하여 우리 태양계 너머에서 생명을 찾으려는 인류의 탐색에 토대를 놓게 됩니다.”",
+  "why": "make the invisible visible 은 'the + 형용사 = ~한 것'이라 '보이지 않는 것을 보이게 만들다'라는 뜻이다. 뒤의 setting 은 새 문장이 아니라 앞 내용의 결과를 잇는 분사구문(그리하여 ~하게 된다)이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|5.0",
+  "en": "During launch and early orbit, Roman uses the Near Space Network’s ground stations and relay satellites to exchange tracking, telemetry, and command data with ground controllers.",
+  "s": "Roman",
+  "v": "uses",
+  "chunks": [
+   {"en": "During launch and early orbit,", "ko": "발사 때와 궤도 초기 단계에는,", "r": "시간"},
+   {"en": "Roman uses the Near Space Network’s ground stations and relay satellites", "ko": "로먼은 근우주망의 지상국과 중계 위성을 사용한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to exchange tracking, telemetry, and command data", "ko": "추적 자료·원격 측정 자료·명령 자료를 주고받기 위해", "r": "목적(~하기 위해)"},
+   {"en": "with ground controllers.", "ko": "지상 관제원들과", "r": "전치사구(주고받는 상대)"}
+  ],
+  "ko": "발사 때와 궤도에 오른 초기 단계에 로먼은 근우주망(Near Space Network)의 지상국과 중계 위성을 이용해 지상 관제원들과 추적·원격 측정·명령 자료를 주고받는다.",
+  "why": "목적어가 'the Near Space Network’s ground stations and relay satellites' 라는 한 덩어리다(지상국과 중계 위성 둘 다 그 망의 것). tracking, telemetry, and command 는 각각 따로 놓인 명사가 아니라 모두 뒤의 data 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|5.1",
+  "en": "About 70 minutes after launch, the Deep Space Network takes over communications and guides Roman toward the second Sun-Earth Lagrange point, or L2, about one million miles from Earth.",
+  "s": "the Deep Space Network",
+  "v": "takes over",
+  "chunks": [
+   {"en": "About 70 minutes after launch,", "ko": "발사 약 70분 뒤,", "r": "시간"},
+   {"en": "the Deep Space Network takes over communications", "ko": "심우주망이 통신을 넘겨받아", "r": "주어 + 동사 + 목적어"},
+   {"en": "and guides Roman toward the second Sun-Earth Lagrange point,", "ko": "로먼을 제2 태양-지구 라그랑주점 쪽으로 이끈다,", "r": "동사 나열 + 목적어 + 방향"},
+   {"en": "or L2,", "ko": "곧 L2라고 하는 곳,", "r": "동격(같은 곳의 다른 이름)"},
+   {"en": "about one million miles from Earth.", "ko": "지구에서 약 100만 마일 떨어진", "r": "전치사구(그 지점의 위치)"}
+  ],
+  "ko": "발사 약 70분 뒤에는 심우주망(Deep Space Network)이 통신을 넘겨받아, 지구에서 약 100만 마일 떨어진 제2 태양-지구 라그랑주점, 곧 L2 쪽으로 로먼을 이끈다.",
+  "why": "takes over 는 '차지하다'보다 '(앞의 근우주망으로부터) 넘겨받다'는 뜻이다. or L2 의 or 는 '또는'이 아니라 '즉, 다시 말해'로 같은 곳을 다른 이름으로 부르는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|5.2",
+  "en": "Roman connects to that network through the Canberra Deep Space Communication Complex in Australia first.",
+  "s": "Roman",
+  "v": "connects",
+  "chunks": [
+   {"en": "Roman connects to that network", "ko": "로먼은 그 망에 접속한다", "r": "주어 + 동사 + 전치사구(접속 대상)"},
+   {"en": "through the Canberra Deep Space Communication Complex", "ko": "캔버라 심우주통신단지를 거쳐", "r": "전치사구(거쳐 가는 곳)"},
+   {"en": "in Australia first.", "ko": "호주에 있는 그곳을 먼저", "r": "장소 + 순서(먼저)"}
+  ],
+  "ko": "로먼은 처음에는 호주에 있는 캔버라 심우주통신단지(Canberra Deep Space Communication Complex)를 거쳐 그 망에 접속한다.",
+  "why": "문장 맨 끝의 first 는 앞 명사를 꾸미는 형용사가 아니라 '먼저, 처음에는'이라는 부사다. 다음 문장에서 마드리드·골드스톤으로 넘어가는 것과 짝을 이룬다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|5.3",
+  "en": "Approximately six hours later it will transfer to the Madrid Deep Space Communication Complex in Spain and then to the Goldstone Deep Space Communication Complex in California, ensuring continuous contact with Roman throughout its journey.",
+  "s": "it",
+  "v": "will transfer",
+  "chunks": [
+   {"en": "Approximately six hours later", "ko": "약 여섯 시간 뒤", "r": "시간"},
+   {"en": "it will transfer to the Madrid Deep Space Communication Complex in Spain", "ko": "그 접속은 스페인의 마드리드 심우주통신단지로 옮겨 간다", "r": "주어 + 동사 + 방향"},
+   {"en": "and then to the Goldstone Deep Space Communication Complex in California,", "ko": "그다음에는 캘리포니아의 골드스톤 심우주통신단지로,", "r": "방향 나열(will transfer 생략)"},
+   {"en": "ensuring continuous contact with Roman", "ko": "로먼과의 연락이 끊이지 않도록 하면서", "r": "분사구문(결과)"},
+   {"en": "throughout its journey.", "ko": "그 여정 내내", "r": "시간(기간)"}
+  ],
+  "ko": "약 여섯 시간 뒤에는 교신이 스페인의 마드리드 심우주통신단지로, 그다음에는 캘리포니아의 골드스톤 심우주통신단지로 옮겨 간다. 이렇게 해서 여정 내내 로먼과의 연락이 끊이지 않게 한다.",
+  "why": "it 은 로먼이 아니다 — 뒤에 contact with Roman(로먼과의 연락)이 따로 나오므로, 옮겨 가는 것은 '교신을 맡는 자리'다. and then to ~ 는 will transfer 가 생략된 채 방향만 이어진 것이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|6.0",
+  "en": "The Roman team also confirmed successful deployment of the observatory’s solar panels and lower instrument sun shade an hour and 23 minutes after launch.",
+  "s": "The Roman team",
+  "v": "confirmed",
+  "chunks": [
+   {"en": "The Roman team also confirmed successful deployment", "ko": "로먼 팀은 성공적으로 펼쳐진 것도 확인했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of the observatory’s solar panels and lower instrument sun shade", "ko": "그 관측선의 태양전지판과 하부 기기 차광막이", "r": "전치사구(무엇이 펼쳐졌는가)"},
+   {"en": "an hour and 23 minutes after launch.", "ko": "발사 1시간 23분 뒤에", "r": "시간"}
+  ],
+  "ko": "로먼 팀은 발사 1시간 23분 뒤에 관측선의 태양전지판과 하부 기기 차광막이 성공적으로 펼쳐진 것도 확인했다.",
+  "why": "deployment(전개)는 '펼쳐짐'이고 뒤의 of 가 무엇이 펼쳐졌는지를 밝힌다. 태양전지판과 차광막 두 가지 모두다. 시간 표현이 문장 맨 끝으로 밀려나 있어 앞 명사에 붙여 읽지 않도록 주의.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|6.1",
+  "en": "Within the upcoming days, Roman’s high-gain antenna and visor-like deployable aperture cover will deploy, ground controllers will initiate the first of two-mid-course corrections, and the Coronagraph Instrument will power on.",
+  "s": "Roman’s high-gain antenna and visor-like deployable aperture cover",
+  "v": "will deploy",
+  "chunks": [
+   {"en": "Within the upcoming days,", "ko": "앞으로 며칠 안에,", "r": "시간"},
+   {"en": "Roman’s high-gain antenna and visor-like deployable aperture cover will deploy,", "ko": "로먼의 고이득 안테나와 챙처럼 생긴 전개식 조리개 덮개가 펼쳐지고,", "r": "첫 번째 절(주어 + 동사)"},
+   {"en": "ground controllers will initiate the first of two-mid-course corrections,", "ko": "지상 관제원들이 두 차례 중간 궤도 수정 가운데 첫 번째를 시작하며,", "r": "대등절(두 번째, 주어가 바뀜)"},
+   {"en": "and the Coronagraph Instrument will power on.", "ko": "그리고 코로나그래프 관측기기의 전원이 켜진다", "r": "대등절(세 번째, 주어가 또 바뀜)"}
+  ],
+  "ko": "앞으로 며칠 안에 로먼의 고이득 안테나와 챙처럼 생긴 전개식 조리개 덮개가 펼쳐지고, 지상 관제원들이 두 차례 예정된 중간 궤도 수정 가운데 첫 번째를 시작하며, 코로나그래프 관측기기의 전원이 켜진다.",
+  "why": "한 문장 안에 주어가 서로 다른 절이 셋 나란히 놓여 있다(A가 ~하고, B가 ~하고, C가 ~한다). 쉼표마다 주어가 바뀌는 것을 놓치면 안 된다. deploy 와 power on 은 여기서 '스스로 펼쳐지다·켜지다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|6.2",
+  "en": "This instrument will demonstrate the technology that future missions like NASA’s Habitable Worlds Observatory concept could use to image Earth-like planets in the search for life in the universe.",
+  "s": "This instrument",
+  "v": "will demonstrate",
+  "chunks": [
+   {"en": "This instrument will demonstrate the technology", "ko": "이 기기는 그 기술을 시연해 보일 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that future missions like NASA’s Habitable Worlds Observatory concept could use", "ko": "NASA의 거주가능세계관측소 구상 같은 미래 임무들이 쓸 수 있을", "r": "관계절(앞 technology 설명, 목적격)"},
+   {"en": "to image Earth-like planets", "ko": "지구 같은 행성들을 영상으로 담기 위해", "r": "목적(~하기 위해)"},
+   {"en": "in the search for life in the universe.", "ko": "우주에서 생명을 찾는 과정에서", "r": "전치사구(어떤 상황에서인가)"}
+  ],
+  "ko": "이 기기는 NASA의 거주가능세계관측소(Habitable Worlds Observatory) 구상 같은 미래 임무들이 우주에서 생명을 찾을 때 지구 같은 행성을 영상으로 담는 데 쓸 수 있는 기술을 시연해 보일 것이다.",
+  "why": "관계절 안의 주어(future missions ~ concept)가 길어 that 뒤에 바로 동사가 오지 않는다. that 은 목적격 관계대명사라 could use 의 목적어가 the technology 다. image 는 명사가 아니라 '영상으로 담다'라는 동사다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|6.3",
+  "en": "Roman’s Coronagraph will take a giant step in that direction by snapping pictures of Jupiter-like planets.",
+  "s": "Roman’s Coronagraph",
+  "v": "will take",
+  "chunks": [
+   {"en": "Roman’s Coronagraph will take a giant step", "ko": "로먼의 코로나그래프는 큰 걸음을 내디딜 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in that direction", "ko": "그 방향으로", "r": "전치사구(방향)"},
+   {"en": "by snapping pictures of Jupiter-like planets.", "ko": "목성 같은 행성들의 사진을 찍음으로써", "r": "전치사구(수단, ~함으로써)"}
+  ],
+  "ko": "로먼의 코로나그래프는 목성 같은 행성들의 사진을 찍음으로써 그 방향으로 큰 걸음을 내디딜 것이다.",
+  "why": "that direction 은 하늘의 어느 쪽이 아니라 앞 문장의 '지구 같은 행성을 촬영해 생명을 찾는 일'을 가리킨다. by -ing 는 '~함으로써'라는 수단이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|7.0",
+  "en": "A few weeks into Roman’s voyage, its primary instrument, the Wide Field Instrument , will activate.",
+  "s": "its primary instrument",
+  "v": "will activate",
+  "chunks": [
+   {"en": "A few weeks into Roman’s voyage,", "ko": "로먼의 항해가 시작되고 몇 주 뒤,", "r": "시간"},
+   {"en": "its primary instrument, the Wide Field Instrument ,", "ko": "로먼의 주력 관측기기인 광시야 관측기기가,", "r": "주어 + 동격(그 기기의 이름)"},
+   {"en": "will activate.", "ko": "작동을 시작한다", "r": "동사(미래)"}
+  ],
+  "ko": "로먼의 항해가 시작되고 몇 주 뒤에는 주력 관측기기인 광시야 관측기기(Wide Field Instrument)가 작동을 시작한다.",
+  "why": "주어(its primary instrument)와 그 이름(the Wide Field Instrument)이 쉼표로 이어진 동격이라 둘은 같은 하나다. 'A few weeks into ~' 는 '~가 시작되고 몇 주 지난 때'라는 시간 표현이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|7.1",
+  "en": "This 300-megapixel infrared camera has 18 4K detectors, each about the size of a saltine cracker.",
+  "s": "This 300-megapixel infrared camera",
+  "v": "has",
+  "chunks": [
+   {"en": "This 300-megapixel infrared camera has", "ko": "이 3억 화소 적외선 카메라에는 ~가 들어 있다", "r": "주어 + 동사"},
+   {"en": "18 4K detectors,", "ko": "4K 감지기 18개가,", "r": "목적어"},
+   {"en": "each about the size of a saltine cracker.", "ko": "하나하나가 크래커 한 장 크기쯤 되는", "r": "동격(감지기 하나의 크기)"}
+  ],
+  "ko": "이 3억 화소 적외선 카메라에는 4K 감지기 18개가 들어 있는데, 감지기 하나하나는 크래커 한 장만 한 크기다.",
+  "why": "숫자 둘이 붙어 있는 '18 4K detectors' 는 '4K 감지기가 18개'라는 뜻이다. 뒤의 each ~ 는 동사가 없는 동격 구문으로 '각각 ~ 크기인'이라는 뜻이며, 카메라가 아니라 감지기 하나의 크기를 말한다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|7.2",
+  "en": "These detectors collect photons of light that will be decoded into crisp cosmic panoramas.",
+  "s": "These detectors",
+  "v": "collect",
+  "chunks": [
+   {"en": "These detectors collect photons of light", "ko": "이 감지기들은 빛의 알갱이(광자)를 모은다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that will be decoded", "ko": "그리고 그 광자는 해독된다", "r": "관계절(앞 명사 설명, 수동태)"},
+   {"en": "into crisp cosmic panoramas.", "ko": "선명한 우주 파노라마로", "r": "전치사구(무엇으로 바뀌는가)"}
+  ],
+  "ko": "이 감지기들은 빛의 알갱이(광자)를 모으고, 그 광자는 나중에 선명한 우주 파노라마 영상으로 해독된다.",
+  "why": "that 이 받는 것은 photons of light 다. will be decoded 는 수동태라 '해독한다'가 아니라 '해독된다'이고, 해독하는 쪽은 문장에 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|7.3",
+  "en": "Thanks to the observatory’s rigid design and stable optical performance, it will rapidly scan the sky without needing substantial time between separate observations.",
+  "s": "it",
+  "v": "will rapidly scan",
+  "chunks": [
+   {"en": "Thanks to the observatory’s rigid design and stable optical performance,", "ko": "그 관측선의 단단한 설계와 안정된 광학 성능 덕분에,", "r": "전치사구(이유)"},
+   {"en": "it will rapidly scan the sky", "ko": "로먼은 하늘을 빠르게 훑을 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "without needing substantial time", "ko": "많은 시간을 들일 필요 없이", "r": "전치사구(부정, ~ 없이)"},
+   {"en": "between separate observations.", "ko": "따로 하는 관측과 관측 사이에", "r": "전치사구(시간이 드는 자리)"}
+  ],
+  "ko": "관측선의 단단한 설계와 안정된 광학 성능 덕분에, 로먼은 관측과 관측 사이에 많은 시간을 들이지 않고도 하늘을 빠르게 훑을 수 있다.",
+  "why": "without needing ~ 은 '~할 필요 없이'라는 부정 표현이라 놓치면 뜻이 정반대가 된다. Thanks to 는 '감사'가 아니라 한 덩어리로 '~ 덕분에'라는 이유다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|7.4",
+  "en": "The Roman telescope is designed to survey the universe a thousand times faster than NASA’s Hubble Space Telescope.",
+  "s": "The Roman telescope",
+  "v": "is designed",
+  "chunks": [
+   {"en": "The Roman telescope is designed", "ko": "로먼 망원경은 ~하도록 설계되어 있다", "r": "주어 + 동사(수동태)"},
+   {"en": "to survey the universe", "ko": "우주를 훑어 조사하도록", "r": "목적(설계의 내용)"},
+   {"en": "a thousand times faster than NASA’s Hubble Space Telescope.", "ko": "NASA의 허블 우주망원경보다 1,000배 빠르게", "r": "비교(속도)"}
+  ],
+  "ko": "로먼 망원경은 NASA의 허블 우주망원경보다 1,000배 빠르게 우주를 훑어 조사하도록 설계되어 있다.",
+  "why": "is designed 는 수동태라 '설계했다'가 아니라 '설계되어 있다'이고, 설계한 쪽은 문장에 나오지 않는다. a thousand times faster 는 '1,000번'이 아니라 '1,000배 빠르게'다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|8.0",
+  "en": "Throughout the rest of Roman’s three-month commissioning period, scientists will run the instruments through a series of calibrations and tests.",
+  "s": "scientists",
+  "v": "will run",
+  "chunks": [
+   {"en": "Throughout the rest of Roman’s three-month commissioning period,", "ko": "로먼의 3개월 시운전 기간 가운데 남은 기간 내내,", "r": "시간(기간)"},
+   {"en": "scientists will run the instruments", "ko": "과학자들은 그 기기들을 거치게 할 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "through a series of calibrations and tests.", "ko": "잇달아 이어지는 보정과 시험을", "r": "전치사구(무엇을 통과시키는가)"}
+  ],
+  "ko": "로먼의 3개월 시운전 기간 가운데 남은 기간 내내, 과학자들은 기기들을 여러 차례의 보정과 시험에 통과시킬 것이다.",
+  "why": "run A through B 는 'A를 B에 통과시키다'라는 뜻이라 run 을 '달리다'로 읽으면 통하지 않는다. commissioning period 는 장비를 점검·조정하는 '시운전 기간'이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|8.1",
+  "en": "NASA anticipates releasing Roman’s first images by early 2027.",
+  "s": "NASA",
+  "v": "anticipates",
+  "chunks": [
+   {"en": "NASA anticipates releasing Roman’s first images", "ko": "NASA는 로먼의 첫 영상을 공개할 것으로 보고 있다", "r": "주어 + 동사 + 목적어(동명사구)"},
+   {"en": "by early 2027.", "ko": "2027년 초까지", "r": "시간(기한)"}
+  ],
+  "ko": "NASA는 2027년 초까지 로먼의 첫 영상을 공개할 것으로 내다보고 있다.",
+  "why": "anticipate 뒤에는 to부정사가 아니라 -ing 형이 온다. by 는 '~쯤에'가 아니라 '늦어도 그때까지'라는 기한이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|9.0",
+  "en": "Roman will send back 1.4 terabytes of data every day, the highest data rate of any NASA astrophysics mission, so far.",
+  "s": "Roman",
+  "v": "will send back",
+  "chunks": [
+   {"en": "Roman will send back 1.4 terabytes of data every day,", "ko": "로먼은 날마다 1.4테라바이트의 자료를 보내올 것이다,", "r": "주어 + 동사 + 목적어 + 빈도"},
+   {"en": "the highest data rate of any NASA astrophysics mission,", "ko": "NASA의 어느 천체물리 임무보다도 높은 자료 전송률로", "r": "동격(앞 내용을 다시 말함)"},
+   {"en": "so far.", "ko": "지금까지로서는", "r": "시간(범위 한정)"}
+  ],
+  "ko": "로먼은 날마다 1.4테라바이트의 자료를 보내올 것이다. 이는 지금까지 NASA의 어떤 천체물리 임무보다도 높은 자료 전송률이다.",
+  "why": "쉼표 뒤의 the highest ~ 는 새 문장이 아니라 앞 내용(하루 1.4테라바이트)을 다시 말하는 동격이다. of any ~ 는 '어느 ~ 중에서도'라는 최상급 비교이고, 맨 끝 so far 는 '지금까지로서는'이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|9.1",
+  "en": "Machine learning, artificial intelligence, and citizen scientists will help sift through it and flag significant findings, which astronomers can then study.",
+  "s": "Machine learning, artificial intelligence, and citizen scientists",
+  "v": "will help",
+  "chunks": [
+   {"en": "Machine learning, artificial intelligence, and citizen scientists", "ko": "기계학습, 인공지능, 그리고 시민 과학자들이", "r": "주어(셋의 나열)"},
+   {"en": "will help sift through it", "ko": "그 자료를 샅샅이 훑는 일을 도울 것이다", "r": "동사 + 원형부정사"},
+   {"en": "and flag significant findings,", "ko": "그리고 의미 있는 발견에 표시를 해 둘 것이다,", "r": "동사 나열(help 에 함께 걸림)"},
+   {"en": "which astronomers can then study.", "ko": "그러면 천문학자들이 그것을 연구할 수 있다", "r": "관계절(앞 findings 설명)"}
+  ],
+  "ko": "기계학습, 인공지능, 그리고 시민 과학자들이 그 방대한 자료를 훑고 의미 있는 발견에 표시를 해 두는 일을 도울 것이다. 천문학자들은 그렇게 표시된 것을 이어서 연구하게 된다.",
+  "why": "주어가 셋이라 will help 하나에 모두 걸리고, sift 와 flag 는 둘 다 help 뒤의 원형부정사다. 맨 뒤 which 는 바로 앞의 significant findings 를 받는다 — 연구하는 쪽은 천문학자다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|10.0",
+  "en": "“We’ve never been able to view the universe with eyes like Roman’s before,” said Julie McEnery, Roman’s senior project scientist at NASA Goddard.",
+  "s": "We",
+  "v": "’ve never been able",
+  "chunks": [
+   {"en": "“We’ve never been able to view the universe", "ko": "“우리는 우주를 본 적이 한 번도 없다", "r": "주어 + 동사(부정) + 목적어"},
+   {"en": "with eyes like Roman’s before,”", "ko": "지금까지 로먼의 눈 같은 눈으로는", "r": "전치사구(수단) + 시간"},
+   {"en": "said Julie McEnery,", "ko": "라고 줄리 매케너리가 말했다", "r": "전달 동사 + 말한 사람(도치)"},
+   {"en": "Roman’s senior project scientist at NASA Goddard.", "ko": "NASA 고더드의 로먼 수석 프로젝트 과학자인", "r": "동격(앞 사람의 직책)"}
+  ],
+  "ko": "“우리는 지금까지 로먼의 눈과 같은 눈으로 우주를 본 적이 한 번도 없습니다.” NASA 고더드의 로먼 수석 프로젝트 과학자 줄리 매케너리(Julie McEnery)의 말이다.",
+  "why": "never 가 들어 있어 '~한 적이 한 번도 없다'는 부정문이다. Roman’s 뒤에는 eyes 가 생략되어 '로먼의 눈'이라는 뜻이다. 맨 뒤 쉼표 다음은 말한 사람의 직책을 밝히는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|10.1",
+  "en": "“There’s no telling what more we’ll know and have seen by this time next year.”",
+  "s": "There",
+  "v": "’s",
+  "chunks": [
+   {"en": "“There’s no telling", "ko": "“도무지 알 수가 없다", "r": "There is 구문(부정)"},
+   {"en": "what more we’ll know and have seen", "ko": "우리가 무엇을 더 알게 되고 무엇을 더 보게 될지", "r": "목적어(의문사절)"},
+   {"en": "by this time next year.”", "ko": "내년 이맘때까지", "r": "시간(기한)"}
+  ],
+  "ko": "“내년 이맘때까지 우리가 무엇을 더 알게 되고 무엇을 더 보게 될지는 아무도 알 수 없습니다.”",
+  "why": "There’s no -ing 는 '~할 도리가 없다, 아무도 알 수 없다'는 관용 표현이다. what more 는 '무엇을 더'라는 뜻이고, know 와 have seen 두 개가 will 에 함께 걸린다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|11.0",
+  "en": "Roman is the fourth primary mission NASA has launched on a Falcon Heavy rocket.",
+  "s": "Roman",
+  "v": "is",
+  "chunks": [
+   {"en": "Roman is the fourth primary mission", "ko": "로먼은 네 번째 주요 임무다", "r": "주어 + 동사 + 보어"},
+   {"en": "NASA has launched on a Falcon Heavy rocket.", "ko": "NASA가 팰컨 헤비 로켓으로 발사한", "r": "관계절(앞 명사 설명, 관계대명사 생략)"}
+  ],
+  "ko": "로먼은 NASA가 팰컨 헤비 로켓으로 발사한 네 번째 주요 임무다.",
+  "why": "mission 과 NASA 사이에 관계대명사(that)가 생략돼 있어 문장이 둘로 보인다. 발사한 쪽은 NASA이고, '네 번째'라는 범위를 정해 주는 것이 이 관계절이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|11.1",
+  "en": "Earlier this year, the agency’s Launch Services Program worked with SpaceX to accelerate the launch date to accommodate the space telescope’s early completion.",
+  "s": "the agency’s Launch Services Program",
+  "v": "worked",
+  "chunks": [
+   {"en": "Earlier this year,", "ko": "올해 초에,", "r": "시간"},
+   {"en": "the agency’s Launch Services Program worked with SpaceX", "ko": "그 기관(NASA)의 발사서비스프로그램은 스페이스X와 함께 일했다", "r": "주어 + 동사 + 전치사구(함께한 상대)"},
+   {"en": "to accelerate the launch date", "ko": "발사일을 앞당기기 위해", "r": "목적(~하기 위해)"},
+   {"en": "to accommodate the space telescope’s early completion.", "ko": "그 우주망원경이 일찍 완성된 것에 맞추기 위해", "r": "목적(앞 목적의 까닭)"}
+  ],
+  "ko": "올해 초 NASA의 발사서비스프로그램(Launch Services Program)은 스페이스X와 함께 발사일을 앞당기는 작업을 했다. 우주망원경이 예정보다 일찍 완성된 것에 맞추기 위해서였다.",
+  "why": "to 로 시작하는 목적 표현이 두 번 이어진다 — 발사일을 앞당기려고, 그리고 그렇게 한 까닭은 망원경이 일찍 완성됐기 때문이다. accommodate 는 '숙박시키다'가 아니라 '~에 맞추다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|12.0",
+  "en": "The telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena, California; the Space Telescope Science Institute in Baltimore; and a team of scientists from various research institutions.",
+  "s": "The telescope",
+  "v": "is managed",
+  "chunks": [
+   {"en": "The telescope is managed at NASA Goddard", "ko": "그 망원경은 NASA 고더드에서 관리된다", "r": "주어 + 동사(수동태) + 장소"},
+   {"en": "with participation by the agency’s Jet Propulsion Laboratory in Southern California;", "ko": "남캘리포니아에 있는 그 기관의 제트추진연구소가 참여한 가운데;", "r": "전치사구(참여 기관 1)"},
+   {"en": "Caltech/IPAC in Pasadena, California;", "ko": "캘리포니아주 패서디나의 칼텍/IPAC;", "r": "참여 기관 2"},
+   {"en": "the Space Telescope Science Institute in Baltimore;", "ko": "볼티모어의 우주망원경과학연구소;", "r": "참여 기관 3"},
+   {"en": "and a team of scientists from various research institutions.", "ko": "그리고 여러 연구 기관에서 온 과학자 팀", "r": "참여 기관 4"}
+  ],
+  "ko": "이 망원경은 NASA 고더드에서 관리되며, 남캘리포니아의 제트추진연구소(JPL), 캘리포니아주 패서디나의 칼텍/IPAC, 볼티모어의 우주망원경과학연구소, 그리고 여러 연구 기관에서 온 과학자 팀이 함께 참여한다.",
+  "why": "세미콜론(;)은 항목 안에 이미 쉼표가 들어 있을 때 쓰는 큰 구분 기호다 — 여기서는 참여 기관 네 곳을 나눈다. is managed 는 수동태라 '관리한다'가 아니라 '관리된다'이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|12.1",
+  "en": "The primary industrial partners are BAE Systems Inc., L3Harris Technologies, and Teledyne Scientific & Imaging.",
+  "s": "The primary industrial partners",
+  "v": "are",
+  "chunks": [
+   {"en": "The primary industrial partners are", "ko": "주요 산업 협력사는 다음과 같다", "r": "주어 + 동사"},
+   {"en": "BAE Systems Inc., L3Harris Technologies,", "ko": "BAE 시스템스, L3해리스 테크놀로지스,", "r": "보어(회사 나열)"},
+   {"en": "and Teledyne Scientific & Imaging.", "ko": "그리고 텔레다인 사이언티픽 앤드 이미징", "r": "보어(나열의 마지막)"}
+  ],
+  "ko": "주요 산업 협력사는 BAE 시스템스, L3해리스 테크놀로지스, 텔레다인 사이언티픽 앤드 이미징 세 곳이다.",
+  "why": "회사 이름 안에 마침표(Inc.)와 기호(&)가 들어 있어 몇 곳이 나열된 것인지 헷갈리기 쉽다. 회사는 셋이다.",
+  "st": []
+ },
+ {
+  "id": "54a55a2c|12.2",
+  "en": "Contributions to Roman also are made by ESA, JAXA, the French space agency CNES (Centre National d’Études Spatiales), and the Max Planck Institute for Astronomy in Germany.",
+  "s": "Contributions to Roman",
+  "v": "are made",
+  "chunks": [
+   {"en": "Contributions to Roman also are made", "ko": "로먼에 대한 기여도 이루어지고 있다", "r": "주어 + 동사(수동태)"},
+   {"en": "by ESA, JAXA,", "ko": "유럽우주국(ESA), 일본 우주항공연구개발기구(JAXA),", "r": "전치사구(기여하는 쪽)"},
+   {"en": "the French space agency CNES (Centre National d’Études Spatiales),", "ko": "프랑스 우주기관 CNES(국립우주연구센터),", "r": "기여 기관 나열 + 괄호 안 정식 이름"},
+   {"en": "and the Max Planck Institute for Astronomy in Germany.", "ko": "그리고 독일의 막스플랑크 천문학연구소가", "r": "기여 기관 나열(마지막)"}
+  ],
+  "ko": "로먼에는 유럽우주국(ESA), 일본 우주항공연구개발기구(JAXA), 프랑스 우주기관 CNES(Centre National d’Études Spatiales), 독일 막스플랑크 천문학연구소도 함께 기여하고 있다.",
+  "why": "are made by ~ 는 수동태라 기여를 '한' 쪽이 by 뒤에 온다. 주어인 Contributions 를 행위자로 읽으면 방향이 뒤집힌다. 괄호 안은 CNES 의 프랑스어 정식 명칭이다.",
+  "st": []
+ }
+]

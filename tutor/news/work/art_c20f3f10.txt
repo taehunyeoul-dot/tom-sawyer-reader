@@ -1,0 +1,15 @@
+NASA TechLeap Prize: Orbital Clarity Challenge
+NASA · 2026-08-19
+https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/
+
+[0.0] The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division , Flight Opportunities program , and Center of Excellence for Collaborative Innovation .
+[0.1] The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes.
+[0.2] The challenge calls for low-cost methods of measuring thermospheric density, pressure, or drag in low Earth orbit.
+[0.3] NASA is seeking approaches that are inexpensive and scalable enough to be produced in quantity and flown as hosted payloads across the commercial fleet.
+[0.4] The challenge will unfold across three phases, advancing up to four winners’ concepts to a flight-ready solution within 12 months.
+[0.5] At the conclusion of the challenge, NASA intends to offer each winning team a test flight at no cost.
+
+[1.0] Award: Up to four winners may receive up to $500,000 in prizes across three phases
+
+[2.0] Phase 1 Registration Close Date: October 28, 2026
+

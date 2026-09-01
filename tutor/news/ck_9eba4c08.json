@@ -1,0 +1,157 @@
+{
+ "9eba4c08|0.0": [
+  {"t":"mod","q":"<b>the Sun’s outer atmosphere, the corona,</b> — 여기서 말하는 것은 두 가지입니까, 한 가지입니까?","a":"한 가지입니다. the corona 는 앞의 '태양의 바깥 대기'를 다른 이름으로 부른 말입니다(동격)","tip":"쉼표로 둘러싸여 있어 별개의 것을 하나 더 든 것처럼 보입니다. 이름만 바꿔 말한 것입니다."},
+  {"t":"mod","q":"<b>is far hotter than its visible surface</b> — 더 뜨거운 쪽은 어느 쪽입니까?","a":"코로나(태양의 바깥 대기)가 눈에 보이는 표면보다 훨씬 뜨겁습니다","tip":"상식으로는 표면이 더 뜨거울 것 같아 방향을 뒤집어 읽기 쉽습니다. 바로 그 점이 '수수께끼'인 이유입니다."},
+  {"t":"pron","q":"<b>than its visible surface</b> 의 its 는 무엇을 가리킵니까?","a":"태양(the Sun)입니다 — 태양의 눈에 보이는 표면","tip":"바로 앞의 corona 로 잡기 쉽습니다. 코로나에는 '눈에 보이는 표면'이 따로 없습니다."},
+  {"t":"time","q":"<b>scientists aimed to study</b> — 이것은 앞으로의 계획입니까, 지난 일입니까?","a":"지난 일입니다 — aimed 가 과거형이고, 8월 12일 일식 때의 이야기입니다","tip":"aim to ~ 가 '~하는 것을 목표로 삼다'라서 계획처럼 들리지만, 앞에 During ~ eclipse 라는 지난 시점이 붙어 있습니다."}
+ ],
+ "9eba4c08|0.1": [
+  {"t":"mod","q":"<b>Capturing the data they needed meant</b> — 이 문장의 진짜 동사는 needed 입니까, meant 입니까?","a":"meant 입니다. needed 는 the data 를 꾸미는 절 안의 동사입니다","tip":"관계대명사(that/which)가 생략돼 있어 they needed 가 문장의 뼈대처럼 보입니다."},
+  {"t":"pron","q":"<b>they needed</b> 의 they 는 누구입니까?","a":"과학자들(앞 문장의 scientists)입니다","tip":"조종사로 잡기 쉽지만, 조종사는 다음 문단에 가서야 나옵니다. 자료가 필요한 쪽은 연구하려는 과학자들입니다."},
+  {"t":"time","q":"<b>meant</b> — 이것은 앞으로 해야 할 일을 말합니까, 지난 일을 말합니까?","a":"지난 일입니다 — 과거형이며, 8월 12일 일식 때의 이야기입니다","tip":"'~해야 한다는 뜻이었다'로 옮기면 계획처럼 들리지만 시제는 과거입니다."}
+ ],
+ "9eba4c08|1.0": [
+  {"t":"mod","q":"<b>their base for flying through the path of totality</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Iceland(아이슬란드)입니다 — 아이슬란드가 그들의 거점이라는 뜻","tip":"쉼표 뒤라 새로운 장소를 하나 더 말하는 것처럼 보이지만, 앞의 이름을 다시 설명한 동격입니다."},
+  {"t":"who","q":"<b>flew the WB-57F high altitude research aircraft</b> — 이 항공기를 몬 쪽은 누구입니까?","a":"NASA 존슨우주센터의 조종사들(Pilots)입니다","tip":"주어가 Pilots from ~ 이라 뒤의 기관 이름을 주어로 잡기 쉽습니다. 뼈대는 '조종사들이 몰고 갔다'입니다."},
+  {"t":"who","q":"<b>to give scientists a clearer view</b> — 더 또렷하게 보게 되는 쪽은 누구입니까?","a":"과학자들(scientists)입니다","tip":"give A B 는 'A에게 B를 준다'입니다. scientists 가 받는 쪽, a clearer view 가 주는 것입니다."},
+  {"t":"mod","q":"<b>from Ellington Field in Houston to Iceland</b> — 출발지와 도착지는 각각 어디입니까?","a":"출발지는 휴스턴의 엘링턴 필드, 도착지는 아이슬란드입니다","tip":"in Houston 은 아이슬란드가 아니라 Ellington Field 가 있는 곳을 밝히는 말입니다."}
+ ],
+ "9eba4c08|2.0": [
+  {"t":"who","q":"<b>the Moon temporarily blocks the Sun’s bright surface</b> — 가리는 쪽과 가려지는 쪽은 각각 무엇입니까?","a":"가리는 쪽은 달, 가려지는 쪽은 태양의 밝은 표면입니다","tip":"두 천체가 한 문장에 나오면 방향이 뒤집히기 쉽습니다. 앞에 오는 the Moon 이 가리는 쪽입니다."},
+  {"t":"pron","q":"<b>revealing its fainter outer atmosphere</b> 의 its 는 무엇을 가리킵니까?","a":"태양(the Sun)입니다 — 태양의 바깥 대기, 곧 코로나","tip":"바로 앞의 the Moon 으로 잡기 쉽습니다. 드러나는 것은 달의 대기가 아니라 태양의 코로나입니다."},
+  {"t":"mod","q":"<b>its fainter outer atmosphere</b> — 무엇보다 더 흐리다는 말입니까?","a":"태양의 밝은 표면(the Sun’s bright surface)보다 흐리다는 말입니다","tip":"fainter 는 비교급인데 than 으로 견줄 대상이 따로 적혀 있지 않습니다. 바로 앞의 bright surface 가 기준입니다."},
+  {"t":"time","q":"<b>temporarily blocks</b> — 달이 가리는 것은 잠깐입니까, 계속입니까?","a":"잠깐입니다 — temporarily 는 '일시적으로'라는 뜻입니다","tip":"이 낱말을 놓치면 코로나를 언제든 볼 수 있다는 말로 읽게 됩니다."}
+ ],
+ "9eba4c08|2.1": [
+  {"t":"mod","q":"<b>Observations collected during this brief window</b> — collected 는 이 문장의 동사입니까?","a":"아닙니다. Observations 를 꾸미는 말('모아진 관측 자료')이고, 문장의 동사는 can help 입니다","tip":"collected 를 동사로 읽으면 '관측 자료가 무엇인가를 모았다'가 되어 뜻이 뒤집힙니다."},
+  {"t":"who","q":"<b>can help scientists better understand</b> — 더 잘 이해하게 되는 쪽은 누구입니까?","a":"과학자들입니다. 도와주는 쪽은 관측 자료입니다","tip":"help 뒤의 scientists 가 understand 의 주체입니다. 관측 자료가 이해한다고 읽으면 틀립니다."},
+  {"t":"mod","q":"<b>through the corona and away from the Sun</b> 는 무엇의 움직임을 말합니까?","a":"에너지와 물질(energy and material)의 움직임입니다","tip":"and 로 이어진 두 방향이 모두 move 에 걸립니다. away from the Sun 을 따로 떼어 읽지 마세요."},
+  {"t":"time","q":"<b>this brief window</b> 는 언제를 말합니까?","a":"달이 태양의 밝은 표면을 가려 주는 짧은 시간, 곧 개기식이 이어지는 동안입니다","tip":"window 를 '창문'으로 읽으면 뜻이 통하지 않습니다. 여기서는 '기회가 열려 있는 짧은 시간'입니다."}
+ ],
+ "9eba4c08|3.0": [
+  {"t":"mod","q":"<b>that can interfere with observations</b> 는 무엇을 설명하는 말입니까?","a":"앞의 clouds, dust, and water vapor(구름·먼지·수증기) 세 가지 모두입니다","tip":"바로 앞의 water vapor 하나만 꾸민다고 읽기 쉽습니다. and 로 묶인 셋 전체에 걸립니다."},
+  {"t":"mod","q":"<b>observations from the ground</b> — from the ground 는 무엇에 붙는 말입니까?","a":"observations 에 붙습니다 — '지상에서 하는 관측'이라는 뜻입니다","tip":"항공기가 지상에서 떠올랐다는 말로 읽기 쉽지만, 이 항공기의 관측은 5만 피트 상공에서 이루어집니다."},
+  {"t":"who","q":"<b>can interfere with observations</b> — 방해하는 쪽과 방해받는 쪽은 각각 무엇입니까?","a":"방해하는 쪽은 구름·먼지·수증기이고, 방해받는 것은 지상에서 하는 관측입니다","tip":"interfere with ~ 는 '~을 방해하다'입니다. 방향을 뒤집어 읽기 쉽습니다."},
+  {"t":"time","q":"<b>flew</b> — 이 비행은 이미 한 일입니까, 앞으로 할 일입니까?","a":"이미 한 일입니다 — 과거형입니다","tip":"뒤에 나오는 can interfere(현재)에 끌려 전체를 현재 이야기로 읽기 쉽습니다."}
+ ],
+ "9eba4c08|3.1": [
+  {"t":"who","q":"<b>that are largely absorbed lower in Earth’s atmosphere</b> — 흡수하는 쪽과 흡수되는 쪽은 각각 무엇입니까?","a":"흡수되는 것은 적외선 파장이고, 흡수하는 쪽은 낮은 곳의 지구 대기입니다","tip":"수동태라 주어인 wavelengths 를 '흡수하는 쪽'으로 읽으면 통째로 뒤집힙니다. 흡수하는 쪽은 이름이 드러나 있지 않습니다."},
+  {"t":"who","q":"<b>while also allowing the science instruments</b> — 장비가 관측할 수 있게 해 준 것은 무엇입니까?","a":"그 고도(The altitude)입니다","tip":"allowing 앞에 주어가 적혀 있지 않아 과학자나 조종사가 허락했다고 읽기 쉽습니다. 주체는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>lower in Earth’s atmosphere</b> 는 무엇과 견준 말입니까?","a":"이 항공기가 난 약 5만 피트 고도보다 낮은 곳이라는 뜻입니다","tip":"lower 는 비교급인데 견줄 대상이 적혀 있지 않습니다. 앞 문장의 50,000 feet 가 기준입니다."},
+  {"t":"time","q":"<b>reduced</b> 와 <b>are</b> — 한 문장에 과거와 현재가 함께 있는 이유는 무엇입니까?","a":"reduced 는 이번 비행에서 실제로 일어난 지난 일이고, are largely absorbed 는 언제나 그러한 성질을 말하는 현재형입니다","tip":"뒤쪽 현재형을 이번 비행 때의 일로 읽으면 안 됩니다. 늘 그러한 사실을 말합니다."}
+ ],
+ "9eba4c08|4.0": [
+  {"t":"who","q":"<b>required careful coordination between scientists and the flight crew</b> — 협력해야 했던 쪽은 누구와 누구입니까?","a":"과학자들과 비행 승무원입니다","tip":"between A and B 는 'A와 B 사이'입니다. 한쪽이 다른 쪽에게 요구했다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>Capturing those observations</b> 는 이 문장에서 어떤 자리에 있습니까?","a":"주어입니다 — '그 관측 자료를 담아내는 일에는 / 담아내려면'","tip":"-ing 로 시작해 분사구문처럼 보이지만, 바로 뒤에 동사 required 가 따라오므로 이 덩어리가 주어입니다."},
+  {"t":"pron","q":"<b>those observations</b> 는 무엇을 가리킵니까?","a":"앞 문단에서 말한, 5만 피트 상공에서 적외선 파장까지 담아낸 그 관측을 가리킵니다","tip":"those 는 새로 나온 것이 아니라 앞에서 이미 말한 것을 받습니다."}
+ ],
+ "9eba4c08|4.1": [
+  {"t":"who","q":"<b>teams calculated</b> — 계산한 쪽은 누구입니까?","a":"여러 팀(과학·비행 팀들)입니다. 항공기가 스스로 계산한 것이 아닙니다","tip":"뒤에 the aircraft 가 나와 항공기를 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>where the aircraft needed to be</b> 는 이 문장에서 어떤 자리입니까?","a":"calculated 의 목적어입니다 — '항공기가 어디에 있어야 하는지를' 계산했다는 뜻","tip":"where 를 '어디에서 계산했나'라는 장소로 읽으면 틀립니다."},
+  {"t":"mod","q":"<b>as the Moon’s shadow moved across the North Atlantic</b> — 이 as 는 '~로서'입니까, '~해 갈 때'입니까?","a":"'~해 갈 때, 움직여 감에 따라'입니다","tip":"as 뒤에 주어(the Moon’s shadow)와 동사(moved)가 이어지면 접속사입니다."},
+  {"t":"time","q":"<b>Before the mission</b> — 계산은 비행보다 앞입니까, 비행 중입니까?","a":"비행보다 앞입니다 — 임무에 나서기 전에 미리 해 둔 일입니다","tip":"뒤의 as ~ moved 는 계산한 시점이 아니라 계산해 둔 '내용' 속의 시점입니다."}
+ ],
+ "9eba4c08|5.0": [
+  {"t":"who","q":"<b>takes a huge team</b> — 큰 팀을 데려간다는 뜻입니까?","a":"아닙니다. '아주 큰 팀이 필요하다'는 뜻입니다","tip":"take 를 '가져가다·데려가다'로 읽으면 뜻이 어긋납니다. 여기서는 '(무엇이) 들다, 필요하다'입니다."},
+  {"t":"mod","q":"<b>Going into a mission like this</b> 는 이 문장에서 어떤 자리에 있습니까?","a":"주어입니다 — '이런 임무에 나서는 일에는'","tip":"-ing 로 시작하지만 바로 뒤에 동사 takes 가 오므로 이 덩어리 전체가 주어입니다."},
+  {"t":"pron","q":"<b>like this</b> 의 this 는 무엇을 가리킵니까?","a":"이번 WB-57F 일식 관측 임무입니다","tip":"like 를 '좋아하다'로 읽으면 안 됩니다. 여기서는 '~와 같은'입니다."}
+ ],
+ "9eba4c08|5.1": [
+  {"t":"who","q":"<b>with the science team establishing the requirements</b> — 요구 조건을 정하는 쪽은 누구입니까?","a":"과학팀(the science team)입니다","tip":"with 뒤의 명사가 -ing 의 주체입니다. 말하는 조종사 쪽이 정한다고 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>we work closely with them</b> — we 와 them 은 각각 누구입니까?","a":"we 는 말하는 사람 쪽인 조종사·비행 팀, them 은 과학팀입니다","tip":"말한 사람이 문장 맨 끝(said Tom Parent, NASA WB-57F pilot)에 가서야 나옵니다."},
+  {"t":"mod","q":"<b>said Tom Parent, NASA WB-57F pilot</b> — 쉼표 뒤의 NASA WB-57F pilot 은 무엇입니까?","a":"Tom Parent 의 직책입니다 — 그가 NASA WB-57F 조종사라는 뜻","tip":"두 사람이 나온 것으로 읽기 쉽지만, 같은 사람을 다시 설명한 동격입니다."},
+  {"t":"time","q":"<b>for months leading up to the mission</b> — 이 몇 달은 임무 전입니까, 임무 뒤입니까?","a":"임무 전입니다 — 임무로 이어지는 몇 달 동안이라는 뜻입니다","tip":"leading up to ~ 는 '~을 앞둔, ~로 이어지는'입니다. 임무 뒤의 몇 달로 읽기 쉽습니다."}
+ ],
+ "9eba4c08|5.2": [
+  {"t":"who","q":"<b>to get the instruments serviced, prepared, loaded onto the aircraft, and flight tested</b> — 이 일들을 실제로 하는 쪽은 누구입니까?","a":"정비팀(our maintenance team)입니다","tip":"주어인 We(조종사 쪽)가 직접 한다고 읽기 쉽지만, rely on ~ 은 '~에 기대다'라 그 일을 해 주는 쪽은 정비팀입니다."},
+  {"t":"who","q":"<b>the instruments serviced, prepared, loaded onto the aircraft, and flight tested</b> — 나열된 네 가지는 장비가 하는 일입니까, 장비가 당하는 일입니까?","a":"장비가 당하는 일입니다 — 정비되고, 준비되고, 항공기에 실리고, 비행 시험을 받습니다","tip":"넷 모두 과거분사라 수동입니다. 장비가 무엇인가를 싣거나 시험한다고 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>We rely heavily on our maintenance team</b> 의 We 는 누구입니까?","a":"말하는 사람인 NASA WB-57F 조종사 Tom Parent 쪽, 곧 비행 팀입니다","tip":"앞 문장의 said Tom Parent 를 보면 알 수 있습니다. 과학팀이 아닙니다."},
+  {"t":"mod","q":"<b>and flight tested</b> 는 무엇에 걸리는 말입니까?","a":"the instruments 에 걸립니다 — 장비가 비행 시험까지 거친다는 뜻입니다","tip":"get 뒤에 나열된 네 가지가 모두 the instruments 에 걸립니다. 항공기를 시험한다는 말이 아닙니다."}
+ ],
+ "9eba4c08|5.3": [
+  {"t":"pron","q":"<b>It’s a huge team effort</b> 의 It 은 무엇을 가리킵니까?","a":"뒤에 나오는 to get an aircraft like this up there … 를 대신 받는 형식 주어입니다 — 따로 가리키는 사물이 없습니다","tip":"앞 문장의 정비팀이나 항공기로 잡기 쉽습니다. It ~ to부정사 짜임입니다."},
+  {"t":"mod","q":"<b>to image and achieve these objectives</b> — 여기서 image 는 어떤 뜻입니까?","a":"동사입니다 — '영상으로 담다, 촬영하다'","tip":"명사 '이미지'로 읽으면 문장이 통하지 않습니다. 앞의 to 에 걸리는 동사원형입니다."},
+  {"t":"who","q":"<b>to get an aircraft like this up there</b> — 항공기를 저 높은 곳까지 올려 보내는 일을 해내는 쪽은 누구입니까?","a":"팀 전체(a huge team)입니다 — 조종사 한 사람이 아닙니다","tip":"그것이 바로 이 문장이 하려는 말입니다. 앞 문장들과 같은 취지입니다."}
+ ],
+ "9eba4c08|6.0": [
+  {"t":"mod","q":"<b>NASA WB-57F pilot John Gustine</b> — 항공기 위치를 잡은 사람은 몇 명입니까?","a":"한 명입니다 — 앞의 NASA WB-57F pilot 은 John Gustine 의 직책입니다","tip":"직책과 이름이 쉼표 없이 붙어 있어 여러 사람으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>and give scientists as much opportunity as possible</b> — 이 give 는 무엇과 나란히 이어지는 말입니까?","a":"앞의 to maximize 와 나란한 목적입니다 — '시간을 최대로 늘리고, 또 기회를 주기 위해'","tip":"give 를 문장의 또 다른 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 positioned 하나뿐입니다."},
+  {"t":"who","q":"<b>give scientists as much opportunity as possible to collect data</b> — 자료를 모으는 쪽은 누구입니까?","a":"과학자들입니다. 기회를 주는 쪽은 조종사입니다","tip":"give A B 짜임이라 scientists 가 받는 쪽입니다."},
+  {"t":"time","q":"<b>During totality</b> 는 언제를 말합니까?","a":"달이 태양을 완전히 가리고 있던 짧은 시간입니다","tip":"일식 전체 기간이 아니라 '개기식'이 이어지는 몇 분입니다."}
+ ],
+ "9eba4c08|7.0": [
+  {"t":"mod","q":"<b>sensor equipment operator for NASA’s WB-57F,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Cary Klemm 입니다 — 그의 직책입니다","tip":"쉼표 사이라 또 다른 사람으로 읽기 쉽습니다. 이 문장에 나오는 사람은 한 명뿐입니다."},
+  {"t":"who","q":"<b>adjusting focus and exposure times</b> — 초점과 노출 시간을 조정한 쪽은 누구입니까?","a":"Cary Klemm 입니다 — 문장의 주어와 같습니다","tip":"분사구문에는 주어가 적혀 있지 않습니다. 앞 문장의 조종사 John Gustine 으로 잡으면 틀립니다."},
+  {"t":"mod","q":"<b>From the back seat</b> — 뒷좌석에 있었던 사람은 누구입니까?","a":"Cary Klemm 입니다","tip":"WB-57F 는 앞뒤로 두 자리인 항공기로, 앞은 조종사, 뒤는 센서 장비 운용자입니다."},
+  {"t":"time","q":"<b>while tracking features of interest throughout totality</b> — 이 일은 카메라를 다루기 전입니까, 같은 시간입니까?","a":"같은 시간입니다 — 개기식이 이어지는 내내 함께 이루어졌습니다","tip":"while 은 '~하는 동안, 동시에'입니다. 앞뒤 순서로 나누어 읽으면 안 됩니다."}
+ ],
+ "9eba4c08|8.0": [
+  {"t":"who","q":"<b>With the cameras capturing observations</b> — 관측 자료를 담아내고 있던 것은 무엇입니까?","a":"카메라들입니다","tip":"With 뒤의 명사가 -ing 의 주체입니다. 사람이 담았다고 읽지 않아도 됩니다."},
+  {"t":"mod","q":"<b>every second mattered</b> — 이 문장의 주어와 동사는 무엇입니까?","a":"주어는 every second, 동사는 mattered 입니다","tip":"앞의 With the cameras capturing ~ 덩어리를 주어·동사로 읽으면 뼈대를 놓칩니다. 쉼표 앞은 통째로 상황 설명입니다."},
+  {"t":"pron","q":"<b>the brief window</b> 는 무엇을 가리킵니까?","a":"달이 태양을 완전히 가리는 짧은 시간, 곧 개기식이 이어지는 시간입니다","tip":"the 가 붙은 것은 앞에서 이미 말한 그 시간(this brief window)을 다시 가리킨다는 신호입니다."}
+ ],
+ "9eba4c08|9.0": [
+  {"t":"time","q":"<b>could reveal</b> — 이미 드러난 것입니까, 앞으로 드러날 수 있다는 말입니까?","a":"앞으로 드러날 수도 있다는 가능성입니다","tip":"could 를 can 의 과거형('드러낼 수 있었다')으로 읽기 쉽습니다. 여기서는 '~할 수도 있다'입니다."},
+  {"t":"who","q":"<b>Klemm said</b> — 이 말을 한 사람은 누구입니까?","a":"앞 문장에 나온 센서 장비 운용자 Cary Klemm 입니다","tip":"말한 사람이 따옴표가 끝난 뒤에 나옵니다. 조종사 Tom Parent 나 John Gustine 이 아닙니다."},
+  {"t":"mod","q":"<b>another piece of data</b> — 사진과 자료는 별개의 것입니까?","a":"별개가 아닙니다 — 사진 한 장 한 장이 곧 자료 한 조각이라는 뜻입니다","tip":"another 를 '다른 종류의'로 읽으면 사진과 자료가 따로 있는 것처럼 됩니다."}
+ ],
+ "9eba4c08|10.0": [
+  {"t":"mod","q":"<b>What scientists can learn from those observations</b> 는 이 문장에서 어떤 자리입니까?","a":"주어입니다 — '과학자들이 그 관측 자료에서 배울 수 있는 것은'","tip":"What 을 의문사로 읽어 '과학자들이 무엇을 배울 수 있나'라는 질문으로 만들면 안 됩니다. 뒤에 동사 reaches 가 따로 있습니다."},
+  {"t":"who","q":"<b>reaches far beyond the eclipse itself</b> — 일식을 훨씬 넘어서는 것은 무엇입니까?","a":"과학자들이 그 관측에서 배울 수 있는 것(What 절 전체)입니다","tip":"바로 앞의 observations 를 주어로 잡기 쉽습니다. 동사가 단수형 reaches 인 것이 단서입니다."},
+  {"t":"pron","q":"<b>those observations</b> 는 무엇을 가리킵니까?","a":"WB-57F 가 개기식 동안 담아낸 관측 자료입니다","tip":"those 는 앞에서 이미 말한 것을 받습니다."}
+ ],
+ "9eba4c08|10.1": [
+  {"t":"who","q":"<b>plasma shaped by magnetic fields</b> — 모양을 잡는 쪽과 잡히는 쪽은 각각 무엇입니까?","a":"모양을 잡는 쪽은 자기장(magnetic fields), 잡히는 쪽은 플라스마입니다","tip":"shaped 는 수동입니다. 플라스마가 자기장의 모양을 잡는다고 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>shaped by magnetic fields</b> 는 이 절의 동사입니까?","a":"아닙니다 — 앞의 plasma 를 꾸미는 말이고, 이 절의 동사는 is made 입니다","tip":"과거분사가 명사 바로 뒤에 오면 '~된 …'이라는 꾸밈말입니다."},
+  {"t":"mod","q":"<b>many of the same physical processes</b> — the same 은 무엇과 같다는 말입니까?","a":"태양의 코로나에서 일어나는 물리 현상과 같다는 말입니다","tip":"the same 뒤에 견줄 대상이 적혀 있지 않습니다. 앞 절의 코로나 이야기를 받습니다."},
+  {"t":"who","q":"<b>occur elsewhere in the universe</b> — 우주의 다른 곳에서도 일어나는 것은 무엇입니까?","a":"코로나에서 일어나는 것과 같은 물리 현상들입니다","tip":"코로나 자체가 우주 곳곳에 있다는 말이 아닙니다. 같은 것은 '현상'입니다."}
+ ],
+ "9eba4c08|11.0": [
+  {"t":"mod","q":"<b>The NASA WB-57F’s unique capabilities of high-altitude flight</b> — 결정적이었던 것은 무엇입니까?","a":"WB-57F 만이 가진 고고도(높은 고도) 비행 능력입니다","tip":"of high-altitude flight 가 뒤에 붙어 주어가 길어집니다. 뼈대는 '그 능력이 결정적이었다'입니다."},
+  {"t":"mod","q":"<b>whose path crossed mostly over the ocean</b> — 누구의 path(길)입니까?","a":"바로 앞의 an eclipse — 그 일식이 지나간 길입니다","tip":"항공기의 항로로 읽기 쉽습니다. whose 는 바로 앞의 명사를 받습니다."},
+  {"t":"mod","q":"<b>in an area where clouds are common</b> 은 어디를 설명하는 말입니까?","a":"일식의 길이 지나간 바다(the ocean) 쪽 지역입니다 — 구름이 흔한 곳이라는 뜻","tip":"문장 뒤쪽에 나오는 Boulder, Colorado(연구소 소재지)를 설명하는 말로 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>said Amir Caspi, principal investigator for the study</b> — 이 말을 한 사람과 그의 직책은 무엇입니까?","a":"Amir Caspi 이고, 이 연구의 책임 연구자입니다","tip":"쉼표 뒤가 다른 사람처럼 보이지만 같은 사람을 다시 설명한 동격입니다."}
+ ],
+ "9eba4c08|11.1": [
+  {"t":"neg","q":"<b>We could not have achieved this success</b> — 결국 성공했습니까, 못 했습니까?","a":"성공했습니다. '이것이 없었다면 이루지 못했을 것'이라는 가정입니다","tip":"could not have p.p. 를 '이루지 못했다'로 읽으면 뜻이 정반대가 됩니다. without 이 붙은 가정입니다."},
+  {"t":"mod","q":"<b>and all of the efforts of the many intrepid ground, air, and science crew members</b> — 이 부분도 without 에 걸립니까?","a":"걸립니다 — '이 항공기가 없었다면, 그리고 그 모든 노력이 없었다면'이라는 뜻입니다","tip":"and 뒤가 새 문장처럼 보이지만 동사가 없습니다. 앞의 without 에 이어지는 말입니다."},
+  {"t":"pron","q":"<b>this platform</b> 은 무엇을 가리킵니까?","a":"NASA WB-57F 항공기입니다","tip":"platform 을 '승강장'이나 '기반 프로그램'으로 읽기 쉽습니다. 여기서는 장비를 싣고 나는 그 항공기를 말합니다."},
+  {"t":"mod","q":"<b>the many intrepid ground, air, and science crew members</b> — ground, air, science 는 각각 따로 떨어진 명사입니까?","a":"아닙니다 — 뒤의 crew members 를 꾸미는 말로, 지상·항공·과학 세 갈래의 요원들이라는 뜻입니다","tip":"intrepid(용감한)도 그 세 갈래 요원 모두를 꾸밉니다."}
+ ],
+ "9eba4c08|12.0": [
+  {"t":"mod","q":"<b>The data gathered during the flight</b> — gathered 는 이 문장의 동사입니까?","a":"아닙니다 — The data 를 꾸미는 말('비행 중에 모은 자료')이고, 문장의 동사는 will give 입니다","tip":"gathered 를 동사로 읽으면 '자료가 무엇인가를 모았다'가 되어 뜻이 뒤집힙니다."},
+  {"t":"mod","q":"<b>that influence the space environment around Earth</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the processes(여러 과정)입니다","tip":"the Sun 을 꾸민다고 읽기 쉽습니다. 동사가 복수에 맞춘 influence 인 것이 단서입니다."},
+  {"t":"who","q":"<b>will give scientists another opportunity</b> — 기회를 받는 쪽은 누구입니까?","a":"과학자들입니다. 기회를 주는 것은 비행에서 모은 자료입니다","tip":"give A B 짜임이라 scientists 가 받는 쪽입니다."},
+  {"t":"time","q":"<b>gathered</b> 와 <b>will give</b> — 자료를 모은 것과 연구할 기회는 어느 쪽이 먼저입니까?","a":"자료를 모은 것이 먼저입니다 — 이번 비행에서 이미 모았고, 연구는 앞으로 할 일입니다","tip":"한 문장 안에 이미 끝난 일과 앞으로 할 일이 함께 들어 있습니다."}
+ ],
+ "9eba4c08|13.0": [
+  {"t":"who","q":"<b>View images and videos</b> — 이 문장의 주어는 무엇입니까?","a":"주어가 없습니다 — 읽는 사람에게 '보라'고 하는 명령문입니다","tip":"View 를 명사 '전망·경치'로 읽으면 동사가 없는 문장이 됩니다."},
+  {"t":"mod","q":"<b>from NASA’s eclipse mission</b> 는 무엇에 붙는 말입니까?","a":"images and videos 에 붙습니다 — 그 임무에서 나온 사진과 영상이라는 뜻","tip":"'임무에서 보라'는 장소로 읽으면 안 됩니다. 사진·영상의 출처를 밝히는 말입니다."}
+ ],
+ "9eba4c08|14.0": [
+  {"t":"who","q":"<b>a total solar eclipse darkened skies</b> — 어둡게 만든 쪽과 어두워진 쪽은 각각 무엇입니까?","a":"어둡게 만든 쪽은 개기일식, 어두워진 쪽은 하늘입니다","tip":"darkened 를 '어두워졌다'로 읽으면 주어와 목적어가 뒤엉킵니다. 여기서는 목적어를 받는 타동사입니다."},
+  {"t":"mod","q":"<b>over Greenland, Iceland, and Spain</b> 는 무엇에 붙는 말입니까?","a":"skies 에 붙습니다 — 그린란드·아이슬란드·스페인 상공의 하늘이라는 뜻","tip":"일식이 세 나라 위를 지나갔다고만 읽으면 어두워진 대상이 흐려집니다."},
+  {"t":"time","q":"<b>On Aug. 12</b> — 이 일은 이미 일어난 일입니까?","a":"이미 일어난 일입니다 — darkened 가 과거형입니다","tip":"이 기사가 다루는 바로 그 일식입니다."}
+ ],
+ "9eba4c08|14.1": [
+  {"t":"mod","q":"<b>As…</b> — 이 토막만으로 뜻을 확정할 수 있습니까?","a":"확정할 수 없습니다 — 뒤가 잘려 있어 As 가 '~할 때'인지 '~ 때문에'인지 알 수 없습니다","tip":"… 는 글이 잘렸다는 표시입니다. 없는 내용을 상상해 채워 넣지 마세요."},
+  {"t":"mod","q":"<b>As…</b> 뒤에 무엇이 와야 문장이 됩니까?","a":"주어와 동사가 있는 절이 와야 합니다 — 여기서는 잘려서 없습니다","tip":"As 가 접속사로 쓰이면 뒤에 '주어 + 동사'가 따라옵니다."}
+ ],
+ "9eba4c08|15.0": [
+  {"t":"mod","q":"<b>Article 5 days ago 5 min read</b> 는 무슨 뜻입니까?","a":"기사 목록에 붙는 표시입니다 — '기사, 5일 전, 읽는 데 5분'","tip":"본문 문장이 아닙니다. 한 문장으로 이어 읽으려 하면 뜻이 통하지 않습니다."},
+  {"t":"who","q":"<b>NASA Finds</b> — 무엇을 알아낸 쪽은 누구입니까?","a":"NASA 입니다 — '~라고 NASA가 밝혔다'는 뜻으로 제목 뒤에 붙습니다","tip":"Finds 를 앞의 South Pole 에 걸어 읽으면 뜻이 엉킵니다. 제목과 출처가 붙어 있는 형태입니다."},
+  {"t":"time","q":"<b>May Survive</b> — 이미 살아남은 것이 확인됐다는 말입니까?","a":"아닙니다 — '살아남을 수도 있다'는 가능성입니다","tip":"May 를 '5월'로 읽지 않도록 주의하세요. 여기서는 조동사 '~할 수도 있다'입니다."},
+  {"t":"mod","q":"<b>Lee esta historia en español aquí.</b> 는 영어입니까?","a":"영어가 아니라 스페인어입니다 — '이 기사를 스페인어로 여기서 읽으세요'라는 안내","tip":"영어로 억지로 읽으려 하면 안 됩니다. Lee 를 사람 이름으로 읽기 쉽습니다."}
+ ],
+ "9eba4c08|15.1": [
+  {"t":"mod","q":"<b>Some of Earth’s microbes likely to hitch a ride…</b> — 이 토막에 문장의 동사가 있습니까?","a":"없습니다 — 제목 문체라 are 가 빠져 있고, 뒤도 … 에서 잘려 있습니다","tip":"likely 는 형용사입니다. 동사로 읽으면 안 됩니다."},
+  {"t":"who","q":"<b>to hitch a ride</b> — 얻어 타는 쪽은 무엇입니까?","a":"지구의 미생물 가운데 일부입니다","tip":"hitch a ride 는 '얻어 타다, 편승하다'입니다. 태워 주는 쪽이 아니라 타는 쪽이 주어입니다."},
+  {"t":"mod","q":"<b>Some of Earth’s microbes</b> — 지구의 미생물 전부를 말합니까?","a":"아닙니다 — 그 가운데 일부입니다","tip":"Some of ~ 는 '~ 가운데 일부'입니다."}
+ ],
+ "9eba4c08|16.0": [
+  {"t":"mod","q":"<b>Behind the Lens: Meet NASA Johnson’s Photographers</b> 는 무엇입니까?","a":"다른 기사 하나의 제목입니다","tip":"이 줄은 본문이 아니라 기사 목록에서 긁혀 온 토막이라 여러 조각이 한 줄로 붙어 있습니다."},
+  {"t":"who","q":"<b>Meet NASA Johnson’s Photographers</b> — 이 말의 주어는 누구입니까?","a":"주어가 없습니다 — 읽는 사람에게 '만나 보라'고 권하는 명령문(제목)입니다","tip":"Meet 을 앞의 read 와 이어 읽으면 뜻이 엉킵니다. 콜론 뒤부터가 제목의 본체입니다."},
+  {"t":"mod","q":"<b>Keep Exploring Discover More Topics From NASA Missions</b> 는 무슨 뜻입니까?","a":"웹페이지 아래쪽 안내 문구입니다 — '계속 둘러보기 / NASA 임무에서 더 많은 주제를 찾아보기'","tip":"한 문장으로 읽으려 하면 동사가 셋이나 되어 통하지 않습니다. 단추와 소제목 글씨가 붙은 것입니다."},
+  {"t":"time","q":"<b>Article 1 week ago</b> — 언제 나온 기사입니까?","a":"1주 전입니다","tip":"ago 는 지금을 기준으로 '~ 전'이라는 뜻입니다."}
+ ]
+}

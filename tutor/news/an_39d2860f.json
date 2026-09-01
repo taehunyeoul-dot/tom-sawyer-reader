@@ -1,0 +1,482 @@
+[
+ {
+  "id": "39d2860f|0.0",
+  "en": "Among the 63 U.S. national parks , few are as defined by a single river’s floodplain as Congaree National Park in South Carolina.",
+  "s": "few",
+  "v": "are",
+  "chunks": [
+   {"en": "Among the 63 U.S. national parks ,", "ko": "미국의 63개 국립공원 가운데", "r": "전치사구(범위)"},
+   {"en": "few are as defined", "ko": "그만큼 규정되는 곳은 거의 없다", "r": "주어 + 동사(비교의 앞쪽)"},
+   {"en": "by a single river’s floodplain", "ko": "강 하나가 만든 범람원에 의해", "r": "전치사구(무엇에 의해)"},
+   {"en": "as Congaree National Park in South Carolina.", "ko": "사우스캐롤라이나의 콩가리 국립공원만큼", "r": "비교 대상(as ~ 만큼)"}
+  ],
+  "ko": "미국의 63개 국립공원 가운데, 사우스캐롤라이나의 콩가리 국립공원(Congaree National Park)만큼 강 하나의 범람원(강물이 넘쳐 잠기는 땅)으로 규정되는 곳은 거의 없다.",
+  "why": "as ... as 로 두 곳을 견주는 문장인데, 앞의 few(거의 없다)를 놓치면 뜻이 정반대가 된다. 'few are as A as B' 는 'B만큼 A한 것은 거의 없다', 곧 B(콩가리)가 유별나다는 말이다. are defined 는 수동태(당하는 형태)라 '규정한다'가 아니라 '규정된다'이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|0.1",
+  "en": "While the features are also prominent in other parks , a full 80 percent of Congaree National Park lies within the Congaree River floodplain.",
+  "s": "a full 80 percent of Congaree National Park",
+  "v": "lies",
+  "chunks": [
+   {"en": "While the features are also prominent", "ko": "그런 지형이 두드러지는 것은 마찬가지지만", "r": "부사절(양보, ~이기는 하지만)"},
+   {"en": "in other parks ,", "ko": "다른 국립공원들에서도", "r": "전치사구(장소)"},
+   {"en": "a full 80 percent of Congaree National Park", "ko": "콩가리 국립공원의 꼬박 80퍼센트가", "r": "주어(주절)"},
+   {"en": "lies within the Congaree River floodplain.", "ko": "콩가리강 범람원 안에 들어 있다", "r": "동사 + 전치사구(위치)"}
+  ],
+  "ko": "그런 지형이 다른 국립공원들에서도 두드러지기는 하지만, 콩가리 국립공원은 꼬박 80퍼센트가 콩가리강(Congaree River) 범람원 안에 들어 있다.",
+  "why": "여기서 While 은 '~하는 동안'이 아니라 '~이기는 하지만'이라는 양보의 뜻이다. 앞쪽 절은 곁가지이고, 진짜 뼈대는 쉼표 뒤의 '80퍼센트가 ~ 안에 있다'이다. lies 는 '눕다'가 아니라 '(위치가) ~에 있다'는 뜻.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|1.0",
+  "en": "It’s a place home to one of the largest intact tracts of old-growth bottomland hardwood forests in the United States.",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "It’s a place", "ko": "그곳은 ~한 곳이다", "r": "주어 + 동사 + 보어"},
+   {"en": "home to one of the largest intact tracts", "ko": "가장 큰 온전한 숲 구역 가운데 하나를 품고 있는", "r": "형용사구(앞의 place 설명)"},
+   {"en": "of old-growth bottomland hardwood forests", "ko": "오래된 저지대 활엽수림 가운데", "r": "전치사구(무엇의 구역인가)"},
+   {"en": "in the United States.", "ko": "미국에서", "r": "전치사구(범위)"}
+  ],
+  "ko": "그곳은 미국에서 가장 큰, 사람 손을 타지 않은 원시 저지대 활엽수림(old-growth bottomland hardwood forest) 구역 가운데 하나를 품고 있는 곳이다.",
+  "why": "home to ~ 는 '~의 고향'이 아니라 '~가 있는 곳, ~를 품고 있는 곳'이라는 뜻이다. one of the largest ~ 는 '가장 큰 것 가운데 하나'라서 '미국에서 제일 크다'는 말이 아니다. 명사 앞에 꾸미는 말이 여러 겹 붙으면 뒤에서부터 '숲 ← 활엽수 ← 저지대 ← 원시림' 순으로 풀면 된다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|1.1",
+  "en": "In this image captured by the OLI (Operational Land Imager) on Landsat 9 , the river winds through the forested plain, along with curving bands of green that trace old channels, ridges, and swales left behind as the river gradually migrated across it.",
+  "s": "the river",
+  "v": "winds",
+  "chunks": [
+   {"en": "In this image captured by the OLI (Operational Land Imager)", "ko": "OLI(육상 관측 장비)로 찍은 이 영상에서", "r": "전치사구 + 과거분사구(영상 설명)"},
+   {"en": "on Landsat 9 ,", "ko": "랜드샛 9호에 실린", "r": "전치사구(그 장비가 어디 실려 있나)"},
+   {"en": "the river winds through the forested plain,", "ko": "강은 숲으로 덮인 평야를 굽이쳐 흐른다", "r": "주어 + 동사 + 전치사구(경로)"},
+   {"en": "along with curving bands of green", "ko": "휘어진 초록 띠들과 함께", "r": "전치사구(딸린 것)"},
+   {"en": "that trace old channels, ridges, and swales", "ko": "옛 물길과 둔덕, 얕은 골을 따라 나 있는", "r": "관계절(앞의 초록 띠 설명)"},
+   {"en": "left behind as the river gradually migrated across it.", "ko": "강이 서서히 옆으로 옮겨 가며 남긴", "r": "과거분사구 + 부사절(~함에 따라)"}
+  ],
+  "ko": "랜드샛 9호(Landsat 9)에 실린 OLI(Operational Land Imager, 육상 관측 장비)로 찍은 이 영상에서, 강은 숲으로 덮인 평야를 굽이쳐 흐른다. 그와 함께 휘어진 초록 띠들이 보이는데, 이는 강이 오랜 세월 옆으로 조금씩 자리를 옮기며 남긴 옛 물길과 둔덕, 얕은 골(swale)을 따라 나 있는 것이다.",
+  "why": "문장의 뼈대는 'the river winds(강이 굽이쳐 흐른다)' 하나뿐이다. captured 와 left behind 는 둘 다 앞 명사를 꾸미는 과거분사이지 문장의 동사가 아니다. 맨 뒤 across it 의 it 은 그 평야를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|1.2",
+  "en": "Slight differences in elevation in these paleochannels and other landforms affect how frequently they flood, producing distinct ecosystems that appear in contrasting shades of green.",
+  "s": "Slight differences in elevation",
+  "v": "affect",
+  "chunks": [
+   {"en": "Slight differences in elevation", "ko": "고도의 아주 작은 차이가", "r": "주어"},
+   {"en": "in these paleochannels and other landforms", "ko": "이 옛 물길들과 다른 지형들에서 나타나는", "r": "전치사구(어디의 차이인가)"},
+   {"en": "affect how frequently they flood,", "ko": "그 지형들이 얼마나 자주 물에 잠기는지를 좌우한다", "r": "동사 + 목적어(의문사절)"},
+   {"en": "producing distinct ecosystems", "ko": "그리하여 서로 다른 생태계를 만들어 낸다", "r": "분사구문(결과)"},
+   {"en": "that appear in contrasting shades of green.", "ko": "서로 대비되는 초록빛으로 드러나는", "r": "관계절(앞의 생태계 설명)"}
+  ],
+  "ko": "이 옛 물길(paleochannel)들과 다른 지형들에 있는 아주 작은 고도 차이가, 그 지형들이 얼마나 자주 물에 잠기는지를 좌우한다. 그 결과 서로 뚜렷이 다른 생태계가 생겨나고, 이것이 영상에서 서로 대비되는 초록빛으로 드러난다.",
+  "why": "주어가 'Slight differences … other landforms' 로 길어서 동사 affect 가 멀리 떨어진다. 뼈대는 '차이가 ~를 좌우한다'이다. how frequently they flood 는 묻는 말이 아니라 affect 의 목적어(얼마나 자주 잠기는지)이고, producing 은 '그래서 ~를 만들어 낸다'는 결과이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|2.0",
+  "en": "The river flows through flat, soft terrain, which encourages the formation of bends and meanders .",
+  "s": "The river",
+  "v": "flows",
+  "chunks": [
+   {"en": "The river flows through flat, soft terrain,", "ko": "강은 평평하고 무른 땅을 지나 흐른다", "r": "주어 + 동사 + 전치사구(경로)"},
+   {"en": "which encourages the formation", "ko": "그런 땅은 ~가 생기도록 부추긴다", "r": "관계절(앞의 땅 설명)"},
+   {"en": "of bends and meanders .", "ko": "굽이와 구불구불한 물줄기가", "r": "전치사구(무엇이 생기나)"}
+  ],
+  "ko": "강은 평평하고 무른 땅을 지나 흐르는데, 그런 땅은 물줄기가 굽이치고 구불구불해지도록(bends and meanders) 만든다.",
+  "why": "which 는 앞의 flat, soft terrain(평평하고 무른 땅)을 받는 관계사라, '어느 것'이라 묻는 말이 아니라 '그런데 그것이 ~한다'로 이어 읽으면 된다. encourage 는 사람을 격려한다는 뜻이 아니라 '~가 잘 생기게 한다'는 뜻.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|2.1",
+  "en": "Water typically flows faster on the outside of bends, leading to more rapid erosion as the channel carves into the outer riverbank.",
+  "s": "Water",
+  "v": "flows",
+  "chunks": [
+   {"en": "Water typically flows faster", "ko": "물은 보통 더 빠르게 흐른다", "r": "주어 + 동사"},
+   {"en": "on the outside of bends,", "ko": "굽이의 바깥쪽에서는", "r": "전치사구(장소)"},
+   {"en": "leading to more rapid erosion", "ko": "그래서 더 빠른 침식으로 이어진다", "r": "분사구문(결과)"},
+   {"en": "as the channel carves into the outer riverbank.", "ko": "물길이 바깥쪽 강둑을 깎아 들어가면서", "r": "부사절(~하면서)"}
+  ],
+  "ko": "물은 보통 굽이의 바깥쪽에서 더 빠르게 흐르고, 그 때문에 물길이 바깥쪽 강둑을 깎아 들어가면서 침식이 더 빠르게 일어난다.",
+  "why": "leading to ~ 는 앞 내용의 결과를 나타내는 분사구문이라 '그래서 ~로 이어진다'로 읽는다. 뒤의 as 는 '~로서'가 아니라 '~하면서, ~함에 따라'이고, 깎는 쪽은 the channel(물길)이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|2.2",
+  "en": "It moves more slowly on the inside of bends, resulting in the deposition of sediment and the growth of sandy features called point bars .",
+  "s": "It",
+  "v": "moves",
+  "chunks": [
+   {"en": "It moves more slowly", "ko": "물은 더 천천히 움직인다", "r": "주어 + 동사"},
+   {"en": "on the inside of bends,", "ko": "굽이의 안쪽에서는", "r": "전치사구(장소)"},
+   {"en": "resulting in the deposition of sediment", "ko": "그 결과 퇴적물이 쌓이고", "r": "분사구문(결과)"},
+   {"en": "and the growth of sandy features", "ko": "모래로 된 지형이 자라난다", "r": "결과 나열"},
+   {"en": "called point bars .", "ko": "포인트바라고 불리는", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "물은 굽이의 안쪽에서는 더 천천히 움직이고, 그 결과 퇴적물이 쌓이면서 포인트바(point bar)라고 부르는 모래 지형이 자라난다.",
+  "why": "It 은 앞 문장의 Water(강물)를 가리킨다. resulting in ~ 은 '그 결과 ~가 된다'는 뜻이고, 맨 뒤 called point bars 는 앞의 sandy features 를 꾸미는 말(과거분사)이라 '포인트바라고 불리는 모래 지형'으로 붙여 읽는다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|2.3",
+  "en": "Over time, this process can cut off a bend from the main river channel, forming U-shaped oxbow lakes .",
+  "s": "this process",
+  "v": "can cut off",
+  "chunks": [
+   {"en": "Over time,", "ko": "오랜 시간에 걸쳐", "r": "시간"},
+   {"en": "this process can cut off a bend", "ko": "이 과정은 굽이 하나를 끊어 낼 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from the main river channel,", "ko": "본류 물길에서 떼어 내어", "r": "전치사구(어디에서 떼어 내나)"},
+   {"en": "forming U-shaped oxbow lakes .", "ko": "그리하여 U자 모양의 우각호를 만든다", "r": "분사구문(결과)"}
+  ],
+  "ko": "오랜 시간이 지나면 이 과정이 굽이 하나를 본류 물길에서 끊어 낼 수 있고, 그러면 U자 모양의 우각호(oxbow lake)가 생긴다.",
+  "why": "cut off A from B 는 'A를 B에서 떼어 낸다'이다. 맨 뒤 forming ~ 은 그 결과를 나타내는 분사구문이라 '그래서 ~가 생긴다'로 읽는다. can 은 '할 수 있다'보다 '~하는 일이 있다'에 가깝다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|3.0",
+  "en": "The National Park Service lists Weston Lake, 1.2 miles (1.9 kilometers) from the visitor center, as one of the park’s most permanent oxbow lakes, noting that it is relatively deep and lacks the shallow clay and silt layer found in most of the park’s other oxbow lakes, such as Devil’s Elbow .",
+  "s": "The National Park Service",
+  "v": "lists",
+  "chunks": [
+   {"en": "The National Park Service lists Weston Lake,", "ko": "국립공원관리청은 웨스턴호를 ~로 꼽는다", "r": "주어 + 동사 + 목적어"},
+   {"en": "1.2 miles (1.9 kilometers) from the visitor center,", "ko": "방문자 센터에서 1.2마일(1.9킬로미터) 떨어진", "r": "동격(앞 호수의 위치)"},
+   {"en": "as one of the park’s most permanent oxbow lakes,", "ko": "공원에서 가장 오래 남아 있는 우각호 가운데 하나로", "r": "보어(as ~ 로)"},
+   {"en": "noting that it is relatively deep", "ko": "그 호수가 비교적 깊다고 덧붙이면서", "r": "분사구문(덧붙이는 말) + that절"},
+   {"en": "and lacks the shallow clay and silt layer", "ko": "그리고 얕은 점토·미사 층이 없다고", "r": "that절의 두 번째 동사"},
+   {"en": "found in most of the park’s other oxbow lakes,", "ko": "공원 안 다른 우각호 대부분에서 발견되는", "r": "과거분사구(앞의 층 설명)"},
+   {"en": "such as Devil’s Elbow .", "ko": "이를테면 데블스 엘보 같은", "r": "예시(앞의 다른 우각호)"}
+  ],
+  "ko": "국립공원관리청(National Park Service)은 방문자 센터에서 1.2마일(1.9킬로미터) 떨어진 웨스턴호(Weston Lake)를 공원에서 가장 오래 남아 있는 우각호 가운데 하나로 꼽는다. 그러면서 이 호수는 비교적 깊고, 데블스 엘보(Devil’s Elbow) 같은 공원 내 다른 우각호 대부분에 있는 얕은 점토·미사 층이 없다고 설명한다.",
+  "why": "lists A as B(A를 B로 꼽는다)라는 뼈대 사이에 쉼표로 둘러싸인 거리 정보가 끼어들어 A와 as B 가 멀리 떨어진다. 뒤쪽 lacks 는 it is 와 나란히 that절 안에 들어 있는 동사이고, found in ~ 은 바로 앞의 clay and silt layer 를 꾸미는 말이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|3.1",
+  "en": "On the right side of the image is Bates Old River, a roughly 4-mile-long abandoned channel of the Congaree River and one of the longest oxbow lakes in South Carolina.",
+  "s": "Bates Old River",
+  "v": "is",
+  "chunks": [
+   {"en": "On the right side of the image", "ko": "영상의 오른쪽에", "r": "전치사구(장소, 맨 앞으로 나옴)"},
+   {"en": "is Bates Old River,", "ko": "베이츠 올드 리버가 있다", "r": "동사 + 주어(도치)"},
+   {"en": "a roughly 4-mile-long abandoned channel of the Congaree River", "ko": "길이 약 4마일의, 콩가리강에서 떨어져 나온 옛 물길이자", "r": "동격(앞 이름 설명)"},
+   {"en": "and one of the longest oxbow lakes in South Carolina.", "ko": "사우스캐롤라이나에서 가장 긴 우각호 가운데 하나", "r": "동격 나열"}
+  ],
+  "ko": "영상 오른쪽에는 베이츠 올드 리버(Bates Old River)가 있다. 이곳은 콩가리강에서 떨어져 나온 길이 약 4마일의 옛 물길이자, 사우스캐롤라이나에서 가장 긴 우각호 가운데 하나이다.",
+  "why": "장소를 나타내는 말이 맨 앞에 오면서 동사 is 와 주어 Bates Old River 의 자리가 뒤바뀐 도치 문장이다. 쉼표 뒤의 긴 명사구 둘은 새로운 대상이 아니라 모두 Bates Old River 를 다시 설명하는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|3.2",
+  "en": "Over time, abandoned channels and oxbow lakes can fill with sediment and become shallow wetlands.",
+  "s": "abandoned channels and oxbow lakes",
+  "v": "can fill",
+  "chunks": [
+   {"en": "Over time,", "ko": "시간이 흐르면", "r": "시간"},
+   {"en": "abandoned channels and oxbow lakes", "ko": "버려진 물길과 우각호는", "r": "주어(둘을 묶음)"},
+   {"en": "can fill with sediment", "ko": "퇴적물로 메워질 수 있고", "r": "동사 + 전치사구(무엇으로)"},
+   {"en": "and become shallow wetlands.", "ko": "얕은 습지가 된다", "r": "두 번째 동사"}
+  ],
+  "ko": "시간이 흐르면 버려진 물길과 우각호는 퇴적물로 메워져 얕은 습지가 되기도 한다.",
+  "why": "fill with ~ 는 여기서 '~를 채운다'가 아니라 '~로 채워진다'는 뜻이다(주어가 스스로 메워짐). can fill 과 become 은 둘 다 맨 앞 주어에 걸리는 동사이고, can 은 뒤의 become 에도 함께 걸린다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|3.3",
+  "en": "Some of these low-lying, water-filled features are known as sloughs , where flood-tolerant cypress-tupelo forests tend to grow.",
+  "s": "Some of these low-lying, water-filled features",
+  "v": "are known",
+  "chunks": [
+   {"en": "Some of these low-lying, water-filled features", "ko": "지대가 낮고 물이 차 있는 이런 지형 가운데 일부는", "r": "주어"},
+   {"en": "are known as sloughs ,", "ko": "슬라우라고 불린다", "r": "동사(수동태) + 보어"},
+   {"en": "where flood-tolerant cypress-tupelo forests tend to grow.", "ko": "그곳에는 물에 잘 견디는 사이프러스·투펠로 숲이 잘 자란다", "r": "관계절(앞 장소 설명)"}
+  ],
+  "ko": "지대가 낮고 물이 차 있는 이런 지형 가운데 일부는 슬라우(slough)라고 불리는데, 그곳에는 홍수에 잘 견디는 사이프러스·투펠로 숲이 잘 자란다.",
+  "why": "are known as ~ 는 수동태로 '~라고 불린다'는 뜻이고, 그렇게 부르는 쪽은 문장에 나오지 않는다. where 는 '어디에서'라고 묻는 말이 아니라 앞의 sloughs 를 받아 '그곳에서는'으로 이어 주는 관계사이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|4.0",
+  "en": "While loggers targeted forests along the Congaree in the 1880s, challenges such as frequent flooding, interminably muddy roads, and mosquito-plagued conditions meant that most of the floodplain forests escaped the widespread logging that transformed other parts of the Southeast.",
+  "s": "challenges",
+  "v": "meant",
+  "chunks": [
+   {"en": "While loggers targeted forests along the Congaree", "ko": "벌목꾼들이 콩가리강변의 숲을 노리기는 했지만", "r": "부사절(양보)"},
+   {"en": "in the 1880s,", "ko": "1880년대에", "r": "시간"},
+   {"en": "challenges such as frequent flooding,", "ko": "잦은 홍수,", "r": "주어 + 예시 시작"},
+   {"en": "interminably muddy roads, and mosquito-plagued conditions", "ko": "끝없이 질척이는 길, 모기가 들끓는 환경 같은 어려움들이", "r": "예시 나열"},
+   {"en": "meant that most of the floodplain forests", "ko": "결국 범람원 숲 대부분이", "r": "동사 + that절(주어)"},
+   {"en": "escaped the widespread logging", "ko": "대규모 벌목을 피했다는 뜻이 되었다", "r": "that절의 동사 + 목적어"},
+   {"en": "that transformed other parts of the Southeast.", "ko": "남동부의 다른 지역을 바꿔 놓은", "r": "관계절(앞의 벌목 설명)"}
+  ],
+  "ko": "1880년대에 벌목꾼들이 콩가리강변의 숲을 노리기는 했지만, 잦은 홍수와 끝없이 질척이는 길, 모기가 들끓는 환경 같은 어려움 때문에 범람원 숲 대부분은 남동부의 다른 지역을 완전히 바꿔 놓은 대규모 벌목을 피할 수 있었다.",
+  "why": "주어 challenges 뒤에 such as 로 예시가 셋이나 이어져 동사 meant 가 아주 멀리 떨어진다. '어려움들이 ~를 뜻했다', 곧 '그 어려움 때문에 ~하게 되었다'로 읽으면 된다. 맨 뒤 that transformed ~ 는 the widespread logging 을 꾸미는 말이지 숲을 꾸미는 말이 아니다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|4.1",
+  "en": "By the 1950s, conservationists had begun to recognize how rare old-growth forests of this type had become in the region.",
+  "s": "conservationists",
+  "v": "had begun",
+  "chunks": [
+   {"en": "By the 1950s,", "ko": "1950년대에 이르러서는", "r": "시간"},
+   {"en": "conservationists had begun to recognize", "ko": "환경 보전 운동가들이 깨닫기 시작한 상태였다", "r": "주어 + 동사(과거완료)"},
+   {"en": "how rare old-growth forests of this type had become", "ko": "이런 유형의 원시림이 얼마나 드물어졌는지를", "r": "목적어(의문사절)"},
+   {"en": "in the region.", "ko": "그 지역에서", "r": "장소"}
+  ],
+  "ko": "1950년대에 이르러 환경 보전 운동가들은 이런 유형의 원시림이 그 지역에서 얼마나 드물어졌는지를 깨닫기 시작한 상태였다.",
+  "why": "how rare ~ had become 은 묻는 말이 아니라 recognize 의 목적어이다. 'how + 형용사'가 앞으로 나가 순서가 뒤엉켜 보이지만, 풀어 보면 'old-growth forests of this type had become rare(그런 원시림이 드물어졌다)' + '얼마나'이다. had begun, had become 은 둘 다 과거완료라서 1950년대보다 앞선 일을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|4.2",
+  "en": "Congress designated the area a national monument in 1976, and it became a national park in 2003.",
+  "s": "Congress",
+  "v": "designated",
+  "chunks": [
+   {"en": "Congress designated the area a national monument", "ko": "의회는 그 지역을 국가기념물로 지정했다", "r": "주어 + 동사 + 목적어 + 목적보어"},
+   {"en": "in 1976,", "ko": "1976년에", "r": "시간"},
+   {"en": "and it became a national park in 2003.", "ko": "그리고 그곳은 2003년에 국립공원이 되었다", "r": "대등절"}
+  ],
+  "ko": "미국 의회(Congress)는 1976년에 이 지역을 국가기념물(national monument)로 지정했고, 이곳은 2003년에 국립공원이 되었다.",
+  "why": "designate A B 는 'A를 B로 지정하다'라는 형태라, the area 와 a national monument 사이에 as 나 to be 가 없어도 '그 지역을 국가기념물로'라고 읽어야 한다. 뒤의 it 은 the area(그 지역)를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|5.0",
+  "en": "As the river snakes its way through the park’s mostly flat terrain, it overflows its banks several times per year, usually in the winter and early spring but also in the summer and fall after hurricanes and major rainstorms.",
+  "s": "it",
+  "v": "overflows",
+  "chunks": [
+   {"en": "As the river snakes its way", "ko": "강이 구불구불 나아가면서", "r": "부사절(~하면서)"},
+   {"en": "through the park’s mostly flat terrain,", "ko": "공원의 거의 평평한 땅을 지나", "r": "전치사구(경로)"},
+   {"en": "it overflows its banks several times per year,", "ko": "강은 해마다 여러 차례 자기 둑을 넘어 넘친다", "r": "주어 + 동사 + 목적어 + 횟수"},
+   {"en": "usually in the winter and early spring", "ko": "보통은 겨울과 이른 봄에", "r": "시간"},
+   {"en": "but also in the summer and fall", "ko": "하지만 여름과 가을에도", "r": "시간(덧붙임)"},
+   {"en": "after hurricanes and major rainstorms.", "ko": "허리케인과 큰 폭풍우가 지나간 뒤에", "r": "시간(조건)"}
+  ],
+  "ko": "강이 공원의 거의 평평한 땅을 구불구불 지나가면서, 해마다 여러 차례 둑을 넘어 물이 넘친다. 보통은 겨울과 이른 봄이지만, 허리케인이나 큰 폭풍우가 지나간 뒤라면 여름과 가을에도 넘친다.",
+  "why": "맨 앞 As 는 '~로서'가 아니라 '~하면서'이다. snakes 는 명사 '뱀'이 아니라 '뱀처럼 구불구불 나아가다'라는 동사이다. it 과 its 는 모두 강을 가리키고, its banks 는 '은행'이 아니라 '강둑'이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|5.1",
+  "en": "These floods distribute broad layers of nutrient-rich silt throughout the floodplain, nourishing the forests and contributing to the high concentration of unusually large trees in the park.",
+  "s": "These floods",
+  "v": "distribute",
+  "chunks": [
+   {"en": "These floods distribute broad layers", "ko": "이 홍수들은 두꺼운 층을 펼쳐 놓는다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of nutrient-rich silt throughout the floodplain,", "ko": "영양분이 풍부한 고운 흙을 범람원 전역에", "r": "전치사구(무엇의 층 + 범위)"},
+   {"en": "nourishing the forests", "ko": "그리하여 숲에 양분을 주고", "r": "분사구문(결과)"},
+   {"en": "and contributing to the high concentration", "ko": "많이 모여 있게 하는 데 한몫한다", "r": "결과 나열"},
+   {"en": "of unusually large trees in the park.", "ko": "공원 안 유난히 큰 나무들이", "r": "전치사구(무엇이 모여 있나)"}
+  ],
+  "ko": "이 홍수는 영양분이 많은 고운 흙(silt)을 범람원 전역에 두껍게 깔아 놓는다. 그 덕분에 숲에 양분이 공급되고, 공원 안에 유난히 큰 나무가 많이 모여 있게 되었다.",
+  "why": "동사는 distribute 하나뿐이고, nourishing 과 contributing 은 그 결과를 나타내는 분사구문이라 '그리하여 ~한다'로 이어 읽는다. nutrient-rich 처럼 '명사+형용사'로 붙은 말은 '영양분이 풍부한'이라는 한 덩어리다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|6.0",
+  "en": "Over the decades, Congaree National Park has harbored a remarkable array of giant “champion” trees that have held national and state size records for their species.",
+  "s": "Congaree National Park",
+  "v": "has harbored",
+  "chunks": [
+   {"en": "Over the decades,", "ko": "수십 년에 걸쳐", "r": "시간"},
+   {"en": "Congaree National Park has harbored", "ko": "콩가리 국립공원은 ~를 품어 왔다", "r": "주어 + 동사(현재완료)"},
+   {"en": "a remarkable array of giant “champion” trees", "ko": "놀랄 만큼 여러 종류의 거대한 '챔피언' 나무들을", "r": "목적어(긴 명사구)"},
+   {"en": "that have held national and state size records", "ko": "전국 기록과 주 기록을 지켜 온", "r": "관계절(앞의 나무 설명)"},
+   {"en": "for their species.", "ko": "각자의 수종에서", "r": "전치사구(어느 범위의 기록인가)"}
+  ],
+  "ko": "수십 년에 걸쳐 콩가리 국립공원은 놀라울 만큼 여러 종류의 거대한 '챔피언' 나무들을 품어 왔다. 이 나무들은 각자의 수종(나무 종류)에서 전국 기록과 주 기록을 지켜 온 나무들이다.",
+  "why": "has harbored 는 현재완료라 '옛날에 그랬다'가 아니라 '지금까지 죽 그래 왔다'는 뜻이다. an array of ~ 는 '여러 가지 ~'라는 뜻이고, 뒤의 that 절은 공원이 아니라 그 나무들을 꾸민다. champion 은 대회 우승자가 아니라 '그 수종에서 가장 큰 나무'를 가리키는 말이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|6.1",
+  "en": "Though individual trees have gained and lost champion status as they have been damaged, have died, or been surpassed by newly measured trees elsewhere, Congaree trees such as the possumhaw ( Ilex decidua ), water hickory ( Carya aquatica) , loblolly pine ( Pinus taeda ), laurel oak ( Quercus laurifolia ), swamp tupelo ( Nyssa biflora ), and sweetgum ( Liquidambar styraciflua ) have held records at times.",
+  "s": "Congaree trees",
+  "v": "have held",
+  "chunks": [
+   {"en": "Though individual trees have gained and lost champion status", "ko": "개별 나무들이 챔피언 지위를 얻었다 잃었다 해 왔지만", "r": "부사절(양보)"},
+   {"en": "as they have been damaged, have died,", "ko": "손상되거나 죽거나,", "r": "부사절 안의 이유"},
+   {"en": "or been surpassed by newly measured trees elsewhere,", "ko": "다른 곳에서 새로 측정된 나무에 기록을 빼앗기면서", "r": "이유 나열(수동태)"},
+   {"en": "Congaree trees such as the possumhaw ( Ilex decidua ),", "ko": "포섬호(학명 Ilex decidua) 같은 콩가리의 나무들,", "r": "주어 + 예시"},
+   {"en": "water hickory ( Carya aquatica) , loblolly pine ( Pinus taeda ),", "ko": "워터히커리, 테다소나무,", "r": "예시 나열"},
+   {"en": "laurel oak ( Quercus laurifolia ), swamp tupelo ( Nyssa biflora ),", "ko": "로럴참나무, 늪투펠로,", "r": "예시 나열"},
+   {"en": "and sweetgum ( Liquidambar styraciflua )", "ko": "그리고 스위트검이", "r": "예시 나열 끝"},
+   {"en": "have held records at times.", "ko": "때때로 기록을 보유해 왔다", "r": "동사 + 목적어 + 시간"}
+  ],
+  "ko": "개별 나무들은 손상되거나 죽거나, 다른 곳에서 새로 측정된 나무에 밀리면서 챔피언 지위를 얻었다 잃었다 해 왔다. 그렇지만 포섬호(possumhaw, Ilex decidua), 워터히커리(water hickory, Carya aquatica), 테다소나무(loblolly pine, Pinus taeda), 로럴참나무(laurel oak, Quercus laurifolia), 늪투펠로(swamp tupelo, Nyssa biflora), 스위트검(sweetgum, Liquidambar styraciflua) 같은 콩가리의 나무들은 때때로 기록을 보유해 왔다.",
+  "why": "주어 Congaree trees 뒤에 나무 이름과 학명이 여섯 쌍이나 이어져 동사 have held 가 문장 맨 끝까지 밀려난다. 괄호 안은 모두 학명(라틴어 이름)이니 건너뛰고 '콩가리의 나무들은 ~ 기록을 보유해 왔다'로 뼈대를 먼저 잡을 것. been surpassed by ~ 는 수동태라 '앞질렀다'가 아니라 '앞질림을 당했다'이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|7.0",
+  "en": "During this National Park Week , celebrate by exploring Earth Observatory’s U.S.",
+  "s": "",
+  "v": "celebrate",
+  "chunks": [
+   {"en": "During this National Park Week ,", "ko": "이번 국립공원 주간에는", "r": "시간"},
+   {"en": "celebrate by exploring", "ko": "둘러보며 기념해 보세요", "r": "동사(명령문) + 방법"},
+   {"en": "Earth Observatory’s U.S.", "ko": "어스 옵서버토리의 미국 ~ 을", "r": "목적어(다음 줄로 이어짐)"}
+  ],
+  "ko": "이번 국립공원 주간(National Park Week)에는 어스 옵서버토리(Earth Observatory)의 미국 ~ 을 둘러보며 기념해 보세요. — 문장이 U.S. 의 마침표에서 잘려 다음 줄로 이어진다.",
+  "why": "주어가 없는 명령문이다(celebrate = 기념하라). by -ing 는 '~함으로써, ~하며'라는 방법이다. 문장이 U.S. 의 마침표 때문에 잘렸을 뿐, 실제로는 다음 줄의 National Parks from Space collection 까지가 한 덩어리이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|7.1",
+  "en": "National Parks from Space collection .",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "National Parks from Space", "ko": "'우주에서 본 국립공원'이라는", "r": "이름(모음집 제목)"},
+   {"en": "collection .", "ko": "모음집", "r": "명사(앞 문장의 목적어 마무리)"}
+  ],
+  "ko": "'우주에서 본 국립공원(National Parks from Space)' 모음집. — 앞 줄에서 시작된 목적어가 여기서 끝난다.",
+  "why": "앞 문장이 U.S. 의 마침표에서 잘려 나온 뒷조각이라 동사가 없다. 앞 줄과 이어 붙이면 'Earth Observatory’s U.S. National Parks from Space collection(어스 옵서버토리의 「우주에서 본 미국 국립공원」 모음집)'이라는 하나의 목적어가 된다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|7.2",
+  "en": "You can also check out the offerings of Earth to Sky , a collaborative program that connects NASA science with park service rangers across the nation.",
+  "s": "You",
+  "v": "can also check out",
+  "chunks": [
+   {"en": "You can also check out the offerings", "ko": "여러분은 내놓는 것들도 살펴볼 수 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "of Earth to Sky ,", "ko": "'어스 투 스카이'가", "r": "전치사구(누구의 것인가)"},
+   {"en": "a collaborative program that connects NASA science", "ko": "NASA의 과학을 이어 주는 협력 프로그램인데", "r": "동격 + 관계절"},
+   {"en": "with park service rangers across the nation.", "ko": "전국의 국립공원 관리 요원들과", "r": "전치사구(연결 상대)"}
+  ],
+  "ko": "'어스 투 스카이(Earth to Sky)'가 내놓는 것들도 살펴볼 수 있다. 이것은 NASA의 과학을 전국의 국립공원 관리 요원(레인저)들과 이어 주는 협력 프로그램이다.",
+  "why": "쉼표 뒤의 a collaborative program ~ 은 새로운 대상이 아니라 앞의 Earth to Sky 를 다시 설명하는 동격이다. connect A with B 는 'A를 B와 이어 준다'이므로, 이어지는 두 쪽은 NASA의 과학과 공원 관리 요원들이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|8.0",
+  "en": "NASA Earth Observatory image by Michala Garrison, using Landsat data from the U.S.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "NASA Earth Observatory image by Michala Garrison,", "ko": "미컬라 개리슨이 만든 NASA 어스 옵서버토리 이미지", "r": "명사구(사진 크레딧) + 만든 사람"},
+   {"en": "using Landsat data from the U.S.", "ko": "미국 ~ 의 랜드샛 자료를 사용해", "r": "분사구문(방법, 다음 줄로 이어짐)"}
+  ],
+  "ko": "미컬라 개리슨(Michala Garrison)이 미국 ~ 의 랜드샛(Landsat) 자료를 사용해 만든 NASA 어스 옵서버토리 이미지. — the U.S. 뒤가 다음 줄로 이어진다.",
+  "why": "동사가 없는 사진 크레딧 문구다. 'X image by 사람 이름'은 '아무개가 만든 이미지'라는 뜻이고, using ~ 은 '~를 사용해'라는 방법이다. 문장이 U.S. 의 마침표에서 잘려 다음 줄의 Geological Survey 로 이어진다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|8.1",
+  "en": "Geological Survey .",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Geological Survey .", "ko": "지질조사국", "r": "명사구(앞 줄에서 이어짐)"}
+  ],
+  "ko": "지질조사국. — 앞 줄의 the U.S. 와 이어져 'U.S. Geological Survey(미국 지질조사국)'라는 기관 이름 하나가 된다.",
+  "why": "앞 줄이 U.S. 의 마침표에서 잘려 나온 뒷조각이다. 앞 줄과 붙이면 the U.S. Geological Survey(미국 지질조사국)라는 기관 이름이 되고, 이곳이 랜드샛 자료를 제공한 곳이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|9.0",
+  "en": "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+  "s": "",
+  "v": "Stay",
+  "chunks": [
+   {"en": "Stay up-to-date with the latest content", "ko": "최신 소식을 놓치지 말고 따라가세요", "r": "동사(명령문) + 전치사구"},
+   {"en": "from NASA", "ko": "NASA가 전하는", "r": "전치사구(출처)"},
+   {"en": "as we explore the universe", "ko": "우리가 우주를 탐사하고", "r": "부사절(~하는 동안)"},
+   {"en": "and discover more about our home planet.", "ko": "우리 행성에 대해 더 알아 가는 가운데", "r": "부사절의 두 번째 동사"}
+  ],
+  "ko": "우리가 우주를 탐사하고 우리 행성(지구)에 대해 더 알아 가는 가운데, NASA가 전하는 최신 소식을 놓치지 말고 따라가 보세요.",
+  "why": "주어 없이 동사로 시작하는 명령문이다(Stay = ~한 상태로 있어라). as 는 '~로서'가 아니라 '~하는 동안'이고, we 는 NASA를 가리킨다. our home planet 은 지구를 에둘러 말한 것이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|10.0",
+  "en": "Sites relevant to the start of the American Revolutionary War are interspersed throughout the modern-day Boston metropolitan region.",
+  "s": "Sites",
+  "v": "are interspersed",
+  "chunks": [
+   {"en": "Sites relevant to the start", "ko": "시작과 관련된 장소들이", "r": "주어 + 형용사구"},
+   {"en": "of the American Revolutionary War", "ko": "미국 독립 전쟁의", "r": "전치사구(무엇의 시작인가)"},
+   {"en": "are interspersed throughout the modern-day Boston metropolitan region.", "ko": "오늘날의 보스턴 대도시권 곳곳에 흩어져 있다", "r": "동사(수동태) + 전치사구(범위)"}
+  ],
+  "ko": "미국 독립 전쟁이 시작된 것과 관련된 장소들이 오늘날의 보스턴 대도시권 곳곳에 흩어져 있다.",
+  "why": "주어 Sites 뒤에 relevant to ~ 라는 긴 꾸밈말이 붙어 동사 are interspersed 가 멀리 떨어진다. are interspersed 는 수동태이지만 '누가 흩뿌렸다'는 뜻이 아니라 '여기저기 흩어져 있다'는 상태를 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|11.0",
+  "en": "The colonial communities of “America’s historic triangle” played defining roles in the road to American independence.",
+  "s": "The colonial communities",
+  "v": "played",
+  "chunks": [
+   {"en": "The colonial communities", "ko": "식민지 시대의 마을들은", "r": "주어"},
+   {"en": "of “America’s historic triangle”", "ko": "'미국의 역사 삼각지대'에 있던", "r": "전치사구(어디의 마을인가)"},
+   {"en": "played defining roles", "ko": "결정적인 구실을 했다", "r": "동사 + 목적어"},
+   {"en": "in the road to American independence.", "ko": "미국 독립으로 가는 길에서", "r": "전치사구(어느 과정에서)"}
+  ],
+  "ko": "'미국의 역사 삼각지대(America’s historic triangle)'에 있던 식민지 시대 마을들은 미국 독립으로 가는 길에서 결정적인 구실을 했다.",
+  "why": "played roles 는 '역할을 연기했다'가 아니라 '구실을 했다'는 뜻이고, defining 은 '정의하는'보다 '결정적인'에 가깝다. the road to American independence 는 실제 도로가 아니라 독립에 이르는 과정을 길에 빗댄 말이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|12.0",
+  "en": "Along the northeast side of the Capital Beltway in Maryland, green spaces weave through the developed landscape.",
+  "s": "green spaces",
+  "v": "weave",
+  "chunks": [
+   {"en": "Along the northeast side of the Capital Beltway", "ko": "캐피털 벨트웨이(순환도로)의 북동쪽을 따라", "r": "전치사구(장소)"},
+   {"en": "in Maryland,", "ko": "메릴랜드주에 있는", "r": "전치사구(앞 도로의 위치)"},
+   {"en": "green spaces weave through the developed landscape.", "ko": "녹지들이 개발된 시가지 사이를 누비며 이어진다", "r": "주어 + 동사 + 전치사구(경로)"}
+  ],
+  "ko": "메릴랜드주에 있는 캐피털 벨트웨이(Capital Beltway, 워싱턴 순환 고속도로)의 북동쪽을 따라, 녹지들이 개발된 시가지 사이를 누비며 이어져 있다.",
+  "why": "장소를 나타내는 말이 맨 앞에 길게 나와서 주어 green spaces 가 뒤로 밀린다. weave 는 '(천을) 짜다'에서 나와 여기서는 '누비며 지나간다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|13.0",
+  "en": "Subscribe to the Earth Observatory and get the Earth in your inbox.",
+  "s": "",
+  "v": "Subscribe",
+  "chunks": [
+   {"en": "Subscribe to the Earth Observatory", "ko": "어스 옵서버토리를 구독하세요", "r": "동사(명령문) + 전치사구"},
+   {"en": "and get the Earth in your inbox.", "ko": "그리고 지구 소식을 메일함으로 받아 보세요", "r": "명령문의 두 번째 동사"}
+  ],
+  "ko": "어스 옵서버토리(Earth Observatory)를 구독하고, 지구 소식을 여러분의 메일함으로 받아 보세요.",
+  "why": "주어 없이 동사로 시작하는 명령문이 and 로 둘 이어져 있다. get the Earth in your inbox 는 지구를 받는다는 말이 아니라 '지구 소식(기사)을 메일로 받아 본다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|14.0",
+  "en": "NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.",
+  "s": "NASA’s Earth Observatory",
+  "v": "brings",
+  "chunks": [
+   {"en": "NASA’s Earth Observatory brings you the Earth,", "ko": "NASA의 어스 옵서버토리는 여러분에게 지구를 전한다", "r": "주어 + 동사 + 간접목적어 + 직접목적어"},
+   {"en": "every day,", "ko": "날마다", "r": "시간"},
+   {"en": "with in-depth stories and stunning imagery.", "ko": "깊이 있는 기사와 멋진 영상으로", "r": "전치사구(수단)"}
+  ],
+  "ko": "NASA의 어스 옵서버토리(Earth Observatory)는 깊이 있는 기사와 멋진 영상으로 날마다 지구를 여러분에게 전한다.",
+  "why": "brings you the Earth 는 '여러분에게 지구를 가져다준다'는 형태(받는 사람 + 전해지는 것)로, 받는 쪽은 you 이고 전해지는 것은 the Earth 이다. 뒤의 with ~ 는 그 방법을 말한다.",
+  "st": []
+ },
+ {
+  "id": "39d2860f|15.0",
+  "en": "Open access to NASA’s archive of Earth science data",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Open access to NASA’s archive", "ko": "NASA의 보관소를 누구나 자유롭게 이용", "r": "명사구(제목)"},
+   {"en": "of Earth science data", "ko": "지구과학 자료를 모아 둔", "r": "전치사구(무엇의 보관소인가)"}
+  ],
+  "ko": "NASA의 지구과학 자료 보관소를 누구나 자유롭게 이용할 수 있음(open access).",
+  "why": "동사가 없는 제목용 명사구다. Open 은 '열어라'라는 명령이 아니라 뒤의 access 를 꾸며 '열려 있는 접근', 곧 '누구나 자유롭게 이용할 수 있음'이라는 뜻이다(open access). of Earth science data 는 바로 앞의 archive 를 꾸민다.",
+  "st": []
+ }
+]

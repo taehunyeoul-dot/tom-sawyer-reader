@@ -1,0 +1,255 @@
+[
+ {
+  "id": "f6fb5a51|0.0",
+  "en": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration.",
+  "s": "the Republic of Türkiye",
+  "v": "signed",
+  "chunks": [
+   {"en": "During a ceremony hosted by NASA Administrator Jared Isaacman", "ko": "NASA 국장 제러드 아이작먼이 주최한 행사에서", "r": "배경(어떤 자리에서)"},
+   {"en": "at the agency’s headquarters in Washington on Monday,", "ko": "월요일 워싱턴에 있는 그 기관(NASA) 본부에서", "r": "장소 + 시간"},
+   {"en": "the Republic of Türkiye signed the Artemis Accords,", "ko": "튀르키예 공화국이 아르테미스 협정에 서명했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "joining the growing international coalition of like-minded nations", "ko": "그래서 뜻을 같이하는 나라들의 점점 커지는 국제 연합에 합류하게 되었다", "r": "분사구문(그 결과)"},
+   {"en": "dedicated to peaceful, transparent space exploration.", "ko": "평화롭고 투명한 우주 탐사에 힘쓰는", "r": "과거분사구(앞 nations 설명)"}
+  ],
+  "ko": "월요일 워싱턴에 있는 NASA 본부에서 제러드 아이작먼(Jared Isaacman) NASA 국장이 주최한 행사에서, 튀르키예 공화국이 아르테미스 협정(Artemis Accords)에 서명했다. 이로써 튀르키예는 평화롭고 투명한 우주 탐사에 힘쓰는, 뜻을 같이하는 나라들의 점점 커지는 국제 연합에 합류하게 되었다.",
+  "why": "During 부터 Monday 까지가 전부 배경 설명이라 진짜 주어(the Republic of Türkiye)와 동사(signed)가 문장 한가운데에 나온다. hosted by 는 '주최한'이 아니라 '~가 주최한'(당하는 형태)이고, 뒤의 joining 과 dedicated 는 문장의 동사가 아니라 앞말을 이어 설명하는 말이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|1.0",
+  "en": "“It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the Artemis Accords,” said Isaacman.",
+  "s": "It",
+  "v": "is",
+  "chunks": [
+   {"en": "“It is my privilege", "ko": "그것은 나의 영광이다 (→ ~하게 되어 영광이다)", "r": "주어(형식) + 동사 + 보어"},
+   {"en": "to welcome the Republic of Türkiye", "ko": "튀르키예 공화국을 맞이하는 것이", "r": "진짜 주어(to부정사)"},
+   {"en": "as the 71st signatory of the Artemis Accords,”", "ko": "아르테미스 협정의 71번째 서명국으로서", "r": "자격(~로서)"},
+   {"en": "said Isaacman.", "ko": "라고 아이작먼은 말했다", "r": "인용 표시(말한 사람) — 주어·동사 도치"}
+  ],
+  "ko": "\"튀르키예 공화국을 아르테미스 협정의 71번째 서명국으로 맞이하게 되어 영광입니다.\" 아이작먼이 한 말이다.",
+  "why": "It 은 가리키는 대상이 있는 대명사가 아니라 자리만 맡아 두는 형식상의 주어이고, 진짜 주어는 뒤의 to welcome ~ 부분이다. 마지막 said Isaacman 은 주어와 동사가 뒤바뀐 형태(도치)로 '아이작먼이 말했다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|1.1",
+  "en": "“Last year, President Trump directed NASA to accelerate its return to the lunar surface and establish humanity’s first enduring presence on another world, a Moon Base, as well as lay the foundation for the manned exploration of Mars.",
+  "s": "President Trump",
+  "v": "directed",
+  "chunks": [
+   {"en": "“Last year, President Trump directed NASA", "ko": "작년에 트럼프 대통령은 NASA에 지시했다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "to accelerate its return to the lunar surface", "ko": "달 표면으로 돌아가는 일을 앞당기라고", "r": "지시 내용 ①"},
+   {"en": "and establish humanity’s first enduring presence on another world,", "ko": "그리고 다른 천체 위에 인류 최초의 오래가는 거점을 세우라고", "r": "지시 내용 ②"},
+   {"en": "a Moon Base,", "ko": "곧 달 기지를", "r": "동격(앞 명사구를 달리 부른 말)"},
+   {"en": "as well as lay the foundation for the manned exploration of Mars.", "ko": "나아가 사람이 직접 가는 화성 탐사의 토대를 놓으라고", "r": "지시 내용 ③"}
+  ],
+  "ko": "\"작년에 트럼프 대통령은 NASA에 달 표면으로의 복귀를 앞당기고, 다른 천체 위에 인류 최초의 오래가는 거점, 곧 달 기지(Moon Base)를 세우며, 나아가 사람이 직접 가는 화성 탐사의 토대를 놓으라고 지시했다.",
+  "why": "directed A to B 는 'A에게 B하라고 지시했다'라는 뜻이고, 지시 내용이 accelerate / establish / lay 세 개나 이어진다. 쉼표로 둘러싸인 a Moon Base 는 새로운 대상이 아니라 앞의 긴 명사구를 쉬운 말로 다시 부른 동격(같은 것을 달리 이른 말)이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|1.2",
+  "en": "NASA never undertakes these grand endeavors alone.",
+  "s": "NASA",
+  "v": "undertakes",
+  "chunks": [
+   {"en": "NASA never undertakes", "ko": "NASA는 결코 ~하지 않는다", "r": "주어 + 동사(부정)"},
+   {"en": "these grand endeavors alone.", "ko": "이런 원대한 사업을 혼자서 떠맡지", "r": "목적어 + 부사(혼자서)"}
+  ],
+  "ko": "NASA는 이런 원대한 사업을 결코 혼자서 하지 않는다.",
+  "why": "never 하나로 문장 전체의 뜻이 뒤집힌다. 'NASA가 혼자 한다'가 아니라 '혼자 하는 법이 없다', 즉 늘 다른 나라들과 함께한다는 말이다. alone 은 '외롭게'가 아니라 '혼자서, 단독으로'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|1.3",
+  "en": "On the Moon Base, we’re taking the Artemis Accords principles and putting them into practice on the lunar surface.",
+  "s": "we",
+  "v": "’re taking",
+  "chunks": [
+   {"en": "On the Moon Base,", "ko": "달 기지에서는", "r": "전치사구(어디에서·무엇에 대해)"},
+   {"en": "we’re taking the Artemis Accords principles", "ko": "우리는 아르테미스 협정의 원칙들을 가져다가", "r": "주어 + 동사(진행) + 목적어"},
+   {"en": "and putting them into practice", "ko": "그것들을 실제로 실행에 옮기고 있다", "r": "이어지는 동사(같은 주어)"},
+   {"en": "on the lunar surface.", "ko": "달 표면에서", "r": "장소"}
+  ],
+  "ko": "달 기지에서 우리는 아르테미스 협정의 원칙들을 가져다가 달 표면에서 실제로 실행에 옮기고 있다.",
+  "why": "are(=’re) 하나에 taking 과 putting 두 동사가 함께 걸린다. them 은 앞의 the Artemis Accords principles 를 받는 말이고, put ~ into practice 는 '실행에 옮기다'라는 굳어진 표현이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|1.4",
+  "en": "NASA has invited every signatory to take part in this endeavor, creating opportunities for nations to contribute major pieces of hardware, scientific payloads, technology demonstrations, CubeSats, and other capabilities to future Artemis missions.”",
+  "s": "NASA",
+  "v": "has invited",
+  "chunks": [
+   {"en": "NASA has invited every signatory", "ko": "NASA는 모든 서명국에 요청해 왔다", "r": "주어 + 동사(현재완료) + 목적어"},
+   {"en": "to take part in this endeavor,", "ko": "이 사업에 참여해 달라고", "r": "요청 내용"},
+   {"en": "creating opportunities for nations", "ko": "그럼으로써 각국에 기회를 만들어 주고 있다", "r": "분사구문(그 결과)"},
+   {"en": "to contribute major pieces of hardware,", "ko": "주요 하드웨어(장비)를 내놓을", "r": "기회의 내용(~할)"},
+   {"en": "scientific payloads, technology demonstrations, CubeSats, and other capabilities", "ko": "과학 탑재물, 기술 실증, 큐브샛(소형 위성), 그 밖의 역량을", "r": "내놓을 것들 나열"},
+   {"en": "to future Artemis missions.”", "ko": "앞으로의 아르테미스 임무에", "r": "전치사구(어디에 내놓나 — contribute 에 이어짐)"}
+  ],
+  "ko": "NASA는 모든 서명국에 이 사업에 참여해 달라고 요청해 왔다. 그럼으로써 각국이 주요 하드웨어(장비), 과학 탑재물, 기술 실증, 큐브샛(소형 위성)을 비롯한 여러 역량을 앞으로의 아르테미스 임무에 보탤 수 있는 기회를 만들어 주고 있다.\"",
+  "why": "creating 으로 시작하는 뒷부분은 새 문장이 아니라 앞 내용의 결과를 덧붙인 분사구문이다. contribute 의 목적어가 hardware 부터 capabilities 까지 다섯 개나 이어지고, 그것을 '어디에' 보태는지는 맨 끝의 to future Artemis missions 에 나온다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|2.0",
+  "en": "Turkish Minister of Industry and Technology Mehmet Fatih Kacır signed on behalf of Türkiye.",
+  "s": "Turkish Minister of Industry and Technology Mehmet Fatih Kacır",
+  "v": "signed",
+  "chunks": [
+   {"en": "Turkish Minister of Industry and Technology", "ko": "튀르키예 산업기술부 장관", "r": "직함(주어의 앞부분)"},
+   {"en": "Mehmet Fatih Kacır signed", "ko": "메흐메트 파티흐 카즈르가 서명했다", "r": "이름(주어) + 동사"},
+   {"en": "on behalf of Türkiye.", "ko": "튀르키예를 대신하여", "r": "전치사구(누구를 대신해)"}
+  ],
+  "ko": "튀르키예 산업기술부 장관 메흐메트 파티흐 카즈르(Mehmet Fatih Kacır)가 튀르키예를 대신해 서명했다.",
+  "why": "앞의 긴 부분은 전부 사람 한 명의 직함이고 실제 주어는 Mehmet Fatih Kacır 한 사람이다. 영어 기사는 직함을 관사 없이 이름 앞에 그대로 붙여 쓴다. on behalf of 는 '~를 위해'보다 '~를 대신하여'로 읽어야 정확하다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|2.1",
+  "en": "The President of the Turkish Space Agency Yusuf Kıraç, and the U.S.",
+  "s": "The President of the Turkish Space Agency Yusuf Kıraç",
+  "v": "",
+  "chunks": [
+   {"en": "The President of the Turkish Space Agency", "ko": "튀르키예 우주청 청장", "r": "직함"},
+   {"en": "Yusuf Kıraç, and the U.S.", "ko": "유수프 크라치, 그리고 미국의 ~", "r": "이름 + and 로 다음 사람을 잇기 시작"}
+  ],
+  "ko": "튀르키예 우주청(Turkish Space Agency) 청장 유수프 크라치(Yusuf Kıraç), 그리고 미국의 ~ (문장이 여기서 잘려 있고 다음 줄로 이어진다)",
+  "why": "이 줄은 완결된 문장이 아니라 잘린 토막이다. U.S. 의 마침표를 문장 끝으로 오해해 여기서 끊긴 것이고, 동사는 다음 줄의 also participated 다. 이 줄에서 동사를 찾으려 하면 막히니, 사람 이름 두 개를 잇는 부분으로 보고 다음 줄과 이어 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|2.2",
+  "en": "Deputy Assistant Secretary of State for Space and Environment Connor Tomlinson, also participated in the event.",
+  "s": "Deputy Assistant Secretary of State for Space and Environment Connor Tomlinson",
+  "v": "participated",
+  "chunks": [
+   {"en": "Deputy Assistant Secretary of State", "ko": "국무부 부차관보", "r": "직함"},
+   {"en": "for Space and Environment Connor Tomlinson,", "ko": "우주·환경 담당인 코너 톰린슨도", "r": "담당 분야 + 이름(주어)"},
+   {"en": "also participated in the event.", "ko": "또한 그 행사에 참석했다", "r": "동사 + 전치사구"}
+  ],
+  "ko": "우주·환경 담당 국무부 부차관보 코너 톰린슨(Connor Tomlinson)도 그 행사에 참석했다. (앞 줄의 the U.S. 가 이 직함에 붙어 '미국 국무부'가 된다.)",
+  "why": "앞 줄에서 잘린 나머지다. Connor Tomlinson 앞의 긴 부분은 통째로 그 사람 한 명의 직함이고, 동사는 participated 하나뿐이다. also 는 앞 줄의 사람(유수프 크라치)과 마찬가지로 참석했다는 신호다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|3.0",
+  "en": "Türkiye’s recent achievements in human spaceflight underscore its commitment to space exploration.",
+  "s": "Türkiye’s recent achievements in human spaceflight",
+  "v": "underscore",
+  "chunks": [
+   {"en": "Türkiye’s recent achievements in human spaceflight", "ko": "튀르키예가 유인 우주비행에서 최근 거둔 성과들은", "r": "주어(긴 명사구)"},
+   {"en": "underscore its commitment to space exploration.", "ko": "우주 탐사를 향한 그 나라의 의지를 분명히 보여 준다", "r": "동사 + 목적어"}
+  ],
+  "ko": "튀르키예가 유인 우주비행(사람이 직접 타는 우주비행) 분야에서 최근 거둔 성과들은 우주 탐사를 향한 튀르키예의 의지를 분명히 보여 준다.",
+  "why": "주어는 Türkiye 가 아니라 achievements(성과들)라서 동사가 -s 없는 underscore 로 나온다. underscore 는 '밑줄'이라는 명사가 아니라 여기서는 '분명히 보여 주다, 뒷받침하다'라는 동사다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|3.1",
+  "en": "In 2024, the country’s first astronaut, Alper Gezervaci, traveled to the International Space Station on Axiom Mission 3 and conducted scientific research alongside NASA astronauts.",
+  "s": "the country’s first astronaut",
+  "v": "traveled",
+  "chunks": [
+   {"en": "In 2024, the country’s first astronaut,", "ko": "2024년에 그 나라의 첫 우주비행사가", "r": "시간 + 주어"},
+   {"en": "Alper Gezervaci,", "ko": "곧 알페르 게제르바즈가", "r": "동격(주어의 이름)"},
+   {"en": "traveled to the International Space Station", "ko": "국제우주정거장으로 갔다", "r": "동사 + 목적지"},
+   {"en": "on Axiom Mission 3", "ko": "액시엄 미션 3를 타고", "r": "전치사구(어느 임무로)"},
+   {"en": "and conducted scientific research", "ko": "그리고 과학 연구를 수행했다", "r": "이어지는 동사(같은 주어)"},
+   {"en": "alongside NASA astronauts.", "ko": "NASA 우주비행사들과 함께", "r": "전치사구(함께한 사람들)"}
+  ],
+  "ko": "2024년에 튀르키예의 첫 우주비행사인 알페르 게제르바즈(Alper Gezervaci)가 액시엄 미션 3(Axiom Mission 3)를 타고 국제우주정거장(International Space Station)에 갔고, NASA 우주비행사들과 함께 과학 연구를 수행했다.",
+  "why": "주어와 동사 사이에 쉼표로 둘러싸인 이름(Alper Gezervaci)이 끼어들어 동사 traveled 가 멀어진다. 동사는 traveled 와 conducted 두 개이며 둘 다 같은 사람에게 걸린다. alongside 는 '옆에 나란히'보다 '~와 함께'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|3.2",
+  "en": "That same year, a second Turkish astronaut, Tuva Atasever, flew on Virgin Galactic 07 suborbital mission, conducting experiments and physiology research.",
+  "s": "a second Turkish astronaut",
+  "v": "flew",
+  "chunks": [
+   {"en": "That same year, a second Turkish astronaut,", "ko": "같은 해에 두 번째 튀르키예 우주비행사가", "r": "시간 + 주어"},
+   {"en": "Tuva Atasever,", "ko": "곧 투바 아타세베르가", "r": "동격(주어의 이름)"},
+   {"en": "flew on Virgin Galactic 07 suborbital mission,", "ko": "버진 갤럭틱 07 준궤도 비행에 올랐다", "r": "동사 + 전치사구(어느 비행으로)"},
+   {"en": "conducting experiments and physiology research.", "ko": "그러면서 실험과 생리학 연구를 수행했다", "r": "분사구문(비행하며 함께 한 일)"}
+  ],
+  "ko": "같은 해에 두 번째 튀르키예 우주비행사인 투바 아타세베르(Tuva Atasever)가 버진 갤럭틱 07(Virgin Galactic 07) 준궤도 비행에 올라 실험과 생리학 연구를 수행했다.",
+  "why": "앞 문장과 똑같은 짜임이다 — 주어(a second Turkish astronaut)와 그 이름(Tuva Atasever)이 쉼표로 이어지는 동격이다. That same year 는 앞 문장의 2024년을 되받는 말이고, conducting 은 새 문장이 아니라 비행하면서 함께 한 일을 덧붙인 것이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|4.0",
+  "en": "Türkiye will soon launch its first lunar mission, AYAP-1, joining the small but growing group of countries building and launching their own satellites to the Moon.",
+  "s": "Türkiye",
+  "v": "will soon launch",
+  "chunks": [
+   {"en": "Türkiye will soon launch its first lunar mission,", "ko": "튀르키예는 머지않아 첫 달 탐사 임무를 발사할 예정이다", "r": "주어 + 동사(미래) + 목적어"},
+   {"en": "AYAP-1,", "ko": "그 이름은 AYAP-1", "r": "동격(임무의 이름)"},
+   {"en": "joining the small but growing group of countries", "ko": "그래서 수는 적지만 점점 늘어나는 나라들의 무리에 합류하게 된다", "r": "분사구문(그 결과)"},
+   {"en": "building and launching their own satellites to the Moon.", "ko": "자기 나라 위성을 직접 만들어 달로 쏘아 올리는", "r": "현재분사구(앞 countries 설명)"}
+  ],
+  "ko": "튀르키예는 머지않아 첫 달 탐사 임무인 AYAP-1을 발사할 예정이다. 이로써 자기 나라 위성을 직접 만들어 달로 보내는, 수는 적지만 점점 늘어나는 나라들의 대열에 합류하게 된다.",
+  "why": "joining 이하는 새 문장이 아니라 발사의 결과를 덧붙이는 분사구문이다. building and launching 도 문장의 동사가 아니라 바로 앞 countries 를 꾸미는 말이라 '위성을 직접 만들어 쏘는 나라들'로 읽어야 한다. 이 문장의 동사는 will … launch 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|5.0",
+  "en": "The country’s signing also comes as the country prepares to host the International Astronautical Congress in Antalya this October.",
+  "s": "The country’s signing",
+  "v": "comes",
+  "chunks": [
+   {"en": "The country’s signing also comes", "ko": "그 나라의 이번 서명은 ~한 때에 이루어진 것이기도 하다", "r": "주어 + 동사"},
+   {"en": "as the country prepares to host", "ko": "그 나라가 개최를 준비하고 있는 가운데", "r": "부사절(~하는 시점에)"},
+   {"en": "the International Astronautical Congress in Antalya this October.", "ko": "올해 10월 안탈리아에서 열리는 국제우주대회를", "r": "목적어 + 장소 + 시간"}
+  ],
+  "ko": "튀르키예의 이번 서명은 이 나라가 올해 10월 안탈리아에서 국제우주대회(International Astronautical Congress)를 여는 준비를 하고 있는 시점에 이루어졌다.",
+  "why": "주어가 signing(서명이라는 행위)이고, comes 는 '오다'가 아니라 '(어떤 시점에) 이루어지다'라는 뜻이다. as 는 '~로서'나 '왜냐하면'이 아니라 '~하는 때에, ~하는 가운데'로 읽어야 두 사건의 관계가 맞아떨어진다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|5.1",
+  "en": "Dozens of Artemis Accords signatories are expected to attend to discuss the future of peaceful and transparent space exploration.",
+  "s": "Dozens of Artemis Accords signatories",
+  "v": "are expected",
+  "chunks": [
+   {"en": "Dozens of Artemis Accords signatories", "ko": "수십 곳의 아르테미스 협정 서명국이", "r": "주어"},
+   {"en": "are expected to attend", "ko": "참석할 것으로 예상된다", "r": "동사(수동태) + 예상되는 내용"},
+   {"en": "to discuss the future of peaceful and transparent space exploration.", "ko": "평화롭고 투명한 우주 탐사의 미래를 논의하기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "수십 곳의 아르테미스 협정 서명국이 평화롭고 투명한 우주 탐사의 미래를 논의하기 위해 참석할 것으로 예상된다.",
+  "why": "are expected 는 수동태라 '기대한다'가 아니라 '~할 것으로 예상된다'이고, 예상하는 쪽은 문장에 나오지 않는다. to 가 두 번 나오는데 앞의 to attend 는 예상되는 내용, 뒤의 to discuss 는 참석하는 목적이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|6.0",
+  "en": "In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies.",
+  "s": "NASA and the State Department",
+  "v": "joined",
+  "chunks": [
+   {"en": "In 2020, NASA and the State Department joined", "ko": "2020년에 NASA와 국무부는 손을 잡았다", "r": "시간 + 주어 + 동사"},
+   {"en": "with seven other founding nations", "ko": "다른 창립국 일곱 곳과", "r": "전치사구(함께한 쪽)"},
+   {"en": "to establish the Artemis Accords,", "ko": "아르테미스 협정을 만들기 위해", "r": "목적(~하기 위해)"},
+   {"en": "responding to the growing interest in lunar activities", "ko": "달 관련 활동에 대한 커져 가는 관심에 대응한 것이었다", "r": "분사구문(그 배경)"},
+   {"en": "by both governments and private companies.", "ko": "정부와 민간 기업 양쪽에서 나온", "r": "전치사구(관심을 보인 쪽)"}
+  ],
+  "ko": "2020년에 NASA와 미 국무부는 다른 창립국 일곱 곳과 손잡고 아르테미스 협정을 만들었다. 정부와 민간 기업 양쪽에서 달 관련 활동에 대한 관심이 커지는 데 대응한 것이었다.",
+  "why": "seven other founding nations 의 other 는 '미국 말고 다른'이라는 뜻이라 창립국은 미국까지 모두 여덟이다. 맨 뒤의 by both governments and private companies 는 협정을 만든 주체가 아니라 '관심을 보인 쪽'을 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "f6fb5a51|7.0",
+  "en": "By signing the Artemis Accords, nations open the door to opportunities for future lunar exploration with NASA, advancing humanity’s return to the Moon, and shaping the Golden Age of space exploration and innovation.",
+  "s": "nations",
+  "v": "open",
+  "chunks": [
+   {"en": "By signing the Artemis Accords,", "ko": "아르테미스 협정에 서명함으로써", "r": "수단(~함으로써)"},
+   {"en": "nations open the door to opportunities", "ko": "각국은 기회로 가는 문을 연다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for future lunar exploration with NASA,", "ko": "NASA와 함께하는 앞으로의 달 탐사라는", "r": "전치사구(어떤 기회인가)"},
+   {"en": "advancing humanity’s return to the Moon,", "ko": "그럼으로써 인류의 달 복귀를 앞당기고", "r": "분사구문(그 결과 ①)"},
+   {"en": "and shaping the Golden Age of space exploration and innovation.", "ko": "우주 탐사와 혁신의 황금기를 만들어 간다", "r": "분사구문(그 결과 ②)"}
+  ],
+  "ko": "아르테미스 협정에 서명함으로써 각국은 NASA와 함께하는 앞으로의 달 탐사 기회로 가는 문을 연다. 그럼으로써 인류의 달 복귀를 앞당기고 우주 탐사와 혁신의 황금기(Golden Age)를 만들어 간다.",
+  "why": "By -ing 는 '~함으로써'라는 수단이고, 그 행동을 하는 쪽은 뒤에 나오는 주어 nations 다. 뒤의 advancing 과 shaping 은 문장의 동사가 아니라 결과를 덧붙이는 분사구문이라, 이 문장의 동사는 open 하나뿐이다.",
+  "st": []
+ }
+]

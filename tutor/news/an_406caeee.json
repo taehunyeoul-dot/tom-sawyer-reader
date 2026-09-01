@@ -1,0 +1,105 @@
+[
+ {
+  "id": "406caeee|0.0",
+  "en": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory.",
+  "s": "Turkey",
+  "v": "will sign",
+  "chunks": [
+   {"en": "Turkey will sign", "ko": "튀르키예가 서명한다", "r": "주어 + 동사(미래)"},
+   {"en": "the Artemis Accords", "ko": "아르테미스 약정에", "r": "목적어(협정 이름)"},
+   {"en": "during a ceremony at 2:30 p.m. EDT Monday, Aug. 31,", "ko": "8월 31일 월요일 미국 동부 하절기 시간 오후 2시 30분에 열리는 행사에서", "r": "시간(행사와 그 시각)"},
+   {"en": "at NASA Headquarters in Washington,", "ko": "워싱턴에 있는 NASA 본부에서", "r": "전치사구(장소)"},
+   {"en": "becoming the 71st country signatory.", "ko": "그리하여 71번째 서명국이 된다", "r": "분사구문(서명의 결과)"}
+  ],
+  "ko": "튀르키예(Turkey)가 8월 31일 월요일 미국 동부 하절기 시간(EDT) 오후 2시 30분, 워싱턴의 NASA 본부에서 열리는 행사에서 아르테미스 약정(Artemis Accords)에 서명한다. 이로써 71번째 서명국이 된다.",
+  "why": "동사는 will sign 하나뿐이고 그 뒤에 during ~ (행사와 시각), at ~ (장소)가 줄줄이 붙는다. 맨 끝 becoming ~ 은 또 하나의 문장이 아니라 '그 결과 ~가 된다'를 덧붙이는 분사구문(-ing 로 앞 내용의 결과를 이어 붙이는 말)이다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|1.0",
+  "en": "NASA Administrator Jared Isaacman will host Turkish Minister of Industry and Technology Mehmet Fatih Kacır for the ceremony, together with U.S.",
+  "s": "NASA Administrator Jared Isaacman",
+  "v": "will host",
+  "chunks": [
+   {"en": "NASA Administrator Jared Isaacman will host", "ko": "NASA 국장 재러드 아이작먼이 맞이한다", "r": "주어(직함+이름) + 동사"},
+   {"en": "Turkish Minister of Industry and Technology Mehmet Fatih Kacır", "ko": "튀르키예 산업기술부 장관 메흐메트 파티흐 카즈르를", "r": "목적어(직함+이름, 같은 한 사람)"},
+   {"en": "for the ceremony,", "ko": "이번 행사를 위해", "r": "전치사구(무슨 자리인가)"},
+   {"en": "together with U.S.", "ko": "미국 ~와 함께 (여기서 문장이 잘림)", "r": "동반(다음 문장으로 이어짐)"}
+  ],
+  "ko": "NASA 국장(Administrator) 재러드 아이작먼이 이번 행사에서 튀르키예 산업기술부 장관 메흐메트 파티흐 카즈르(Mehmet Fatih Kacır)를 맞이한다. 미국(U.S.) …와 함께 자리하는데, U.S. 뒤에서 문장이 끊겨 나머지는 다음 문장(Department of State officials)으로 이어진다.",
+  "why": "긴 직함이 이름 앞에 그대로 붙은 표현이 둘 나온다(NASA Administrator + Jared Isaacman / Turkish Minister of Industry and Technology + Mehmet Fatih Kacır). 직함과 이름은 같은 사람을 두 번 말하는 동격이므로 사람 수를 늘려 세면 안 된다. host 는 '주최하여 맞이하다'라는 동사다. 끝의 U.S. 는 줄임말의 마침표 때문에 문장이 잘린 것이라 뜻은 다음 문장으로 이어진다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|1.1",
+  "en": "Department of State officials.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Department of State officials.", "ko": "(미국) 국무부 관계자들", "r": "앞 문장 together with U.S. 에 이어지는 명사구"}
+  ],
+  "ko": "(미국) 국무부(Department of State) 관계자들. — 앞 문장 끝의 together with U.S. 와 이어 읽으면 '미국 국무부 관계자들과 함께'라는 뜻이 된다.",
+  "why": "이 줄에는 동사가 없다. 앞 문장이 U.S. 의 마침표에서 잘린 나머지라, 앞과 붙이면 together with U.S. Department of State officials 가 된다. Department of State 는 미국의 '국무부'를 가리키는 이름이다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|2.0",
+  "en": "This event is in person only.",
+  "s": "This event",
+  "v": "is",
+  "chunks": [
+   {"en": "This event is", "ko": "이 행사는 ~이다", "r": "주어 + 동사"},
+   {"en": "in person only.", "ko": "직접 참석하는 방식으로만", "r": "보어(참석 방식)"}
+  ],
+  "ko": "이 행사는 직접 현장에 와서 참석하는 방식으로만 진행된다.",
+  "why": "in person 은 '사람 안에'가 아니라 '직접, 대면으로'라는 굳어진 표현이고, 뒤의 only 가 그것을 '그 방법뿐'으로 한정한다. is 는 '있다'가 아니라 '(그런 방식)이다'라고 성질을 말하는 동사다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|2.2",
+  "en": "NASA’s media accreditation policy is online.",
+  "s": "NASA’s media accreditation policy",
+  "v": "is",
+  "chunks": [
+   {"en": "NASA’s media accreditation policy", "ko": "NASA의 언론 취재 등록 규정은", "r": "주어(명사가 겹쳐 붙은 긴 명사구)"},
+   {"en": "is online.", "ko": "인터넷에 올라와 있다", "r": "동사 + 보어(공개된 곳)"}
+  ],
+  "ko": "NASA의 언론 취재 등록(accreditation) 규정은 인터넷에서 볼 수 있다.",
+  "why": "주어가 명사 넷이 겹쳐 붙은 덩어리라(NASA’s + media + accreditation + policy) 어디까지가 주어인지 잡기 어렵다. 중심어는 맨 뒤 policy 이므로 뒤에서부터 '규정 ← 취재 등록에 관한 ← 언론의 ← NASA의' 순으로 풀면 된다. is online 은 '온라인에 올려져 있다', 곧 인터넷에서 볼 수 있다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|3.0",
+  "en": "In 2020, during the first Trump Administration, the United States, led by NASA and the State Department, joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies.",
+  "s": "the United States",
+  "v": "joined",
+  "chunks": [
+   {"en": "In 2020, during the first Trump Administration,", "ko": "2020년, 1기 트럼프 행정부 때", "r": "시간(연도 + 어느 시기인지 다시 밝힘)"},
+   {"en": "the United States,", "ko": "미국은", "r": "주어"},
+   {"en": "led by NASA and the State Department,", "ko": "NASA와 국무부가 이끄는 가운데", "r": "과거분사구(앞 주어 설명·수동)"},
+   {"en": "joined with seven other founding nations", "ko": "다른 7개 창립국과 함께했다", "r": "동사 + 함께한 상대"},
+   {"en": "to establish the Artemis Accords,", "ko": "아르테미스 약정을 만들기 위해", "r": "목적"},
+   {"en": "responding to the growing interest in lunar activities", "ko": "달 관련 활동에 대한 커지는 관심에 대응하여", "r": "분사구문(그렇게 한 배경)"},
+   {"en": "by both governments and private companies.", "ko": "정부와 민간 기업 양쪽이 보이는", "r": "전치사구(관심을 보이는 쪽)"}
+  ],
+  "ko": "2020년, 1기 트럼프 행정부 때 미국은 NASA와 국무부(State Department)의 주도로 다른 7개 창립국과 함께 아르테미스 약정(Artemis Accords)을 만들었다. 정부와 민간 기업 양쪽에서 달 관련 활동에 대한 관심이 커지는 데 대응한 것이었다.",
+  "why": "주어 the United States 와 동사 joined 사이에 쉼표로 묶인 led by ~ 가 끼어들어 동사가 멀리 떨어진다. led 는 문장의 동사가 아니라 '~의 주도로'라는 뜻으로 앞 명사를 꾸미는 말(과거분사)이다. 맨 끝 responding to ~ 도 새 문장이 아니라 '~에 대응하여'라는 배경을 덧붙이는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "406caeee|4.0",
+  "en": "The Artemis Accords introduced the first set of practical principles aimed at enhancing the safety, transparency, and coordination of civil space exploration on the Moon, Mars, and beyond.",
+  "s": "The Artemis Accords",
+  "v": "introduced",
+  "chunks": [
+   {"en": "The Artemis Accords introduced", "ko": "아르테미스 약정은 ~을 내놓았다", "r": "주어 + 동사(과거)"},
+   {"en": "the first set of practical principles", "ko": "실질적인 원칙들을 처음으로 묶은 것을", "r": "목적어(긴 명사구)"},
+   {"en": "aimed at enhancing the safety, transparency, and coordination", "ko": "안전성과 투명성, 그리고 협력·조율을 높이는 것을 목표로 하는", "r": "과거분사구(앞 원칙들 설명)"},
+   {"en": "of civil space exploration", "ko": "민간 우주 탐사의", "r": "전치사구(무엇의 안전·투명성·조율인가)"},
+   {"en": "on the Moon, Mars, and beyond.", "ko": "달과 화성, 그리고 그 너머에서 이루어지는", "r": "전치사구(탐사가 이루어지는 범위)"}
+  ],
+  "ko": "아르테미스 약정(Artemis Accords)은 달과 화성, 그리고 그 너머에서 이루어지는 민간(군사용이 아닌) 우주 탐사의 안전성과 투명성, 그리고 협력·조율을 높이는 것을 목표로 하는, 실질적인 원칙들을 처음으로 묶어 내놓은 것이었다.",
+  "why": "동사는 introduced 하나뿐이다. aimed at ~ 은 두 번째 동사가 아니라 앞의 principles(원칙들)를 꾸미는 말(과거분사)로 '~을 목표로 하는'이라는 뜻이며, at 뒤에는 -ing 형(enhancing)이 온다. civil 은 '시민의'가 아니라 '민간의(군사용이 아닌)'로 읽어야 한다.",
+  "st": []
+ }
+]

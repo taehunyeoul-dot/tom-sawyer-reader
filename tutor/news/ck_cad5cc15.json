@@ -1,0 +1,136 @@
+{
+ "cad5cc15|0.0": [
+  {"t":"who","q":"<b>captured a series of images</b> — 사진을 찍은 쪽은 무엇입니까?","a":"NASA의 달 정찰 궤도선 LRO입니다","tip":"Between Aug. 11 and 12 로 시작해 주어가 뒤로 밀려 있습니다. 맨 앞 덩어리는 시간이지 주어가 아닙니다."},
+  {"t":"mod","q":"<b>of a new crater on the Moon</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a series of images — 무엇을 찍은 사진인지를 밝힙니다(달에 새로 생긴 충돌구)","tip":"궤도선이 달 위에 있다는 뜻으로 붙이기 쉽습니다. on the Moon 은 그 충돌구가 있는 곳입니다."},
+  {"t":"time","q":"<b>Between Aug. 11 and 12</b> — 사진을 찍은 것은 언제입니까?","a":"8월 11일과 12일 사이입니다","tip":"충돌이 일어난 날짜와 헷갈리기 쉽습니다. 이 문장이 말하는 것은 촬영한 날짜뿐입니다."}
+ ],
+ "cad5cc15|0.1": [
+  {"t":"who","q":"<b>The crater formed on Aug. 5</b> — 충돌구가 무엇을 만들었다는 뜻입니까?","a":"아닙니다 — 충돌구가 생겨났다는 뜻입니다. 그것을 만든 것은 팰컨9의 상단입니다","tip":"여기서 formed 는 목적어가 없는 자동사입니다. '형성했다'로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"time","q":"<b>following its January 2025 launch</b> — 발사와 충돌 중 어느 쪽이 먼저입니까?","a":"발사가 먼저입니다 — 2025년 1월에 발사했고, 충돌은 8월 5일에 일어났습니다","tip":"following 은 '~에 뒤이어'라는 뜻이라, following 뒤에 오는 일이 앞선 일입니다. 순서를 거꾸로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>its January 2025 launch</b> 의 its 는 무엇을 가리킵니까?","a":"SpaceX 팰컨9(a SpaceX Falcon 9 upper stage)입니다","tip":"바로 앞의 the surface(달 표면)로 잡기 쉽습니다. 발사된 쪽은 로켓입니다."},
+  {"t":"mod","q":"<b>of the Firefly Blue Ghost 1 mission</b> 는 무엇을 설명하는 말입니까?","a":"앞의 its January 2025 launch — 그 발사가 무엇을 쏘아 올린 발사였는지 밝힙니다","tip":"충돌한 것이 블루고스트 1호라고 읽으면 틀립니다. 충돌한 것은 팰컨9의 상단이고, 블루고스트 1호는 그 로켓이 실어 보낸 임무입니다."}
+ ],
+ "cad5cc15|1.0": [
+  {"t":"who","q":"<b>engineers tilted the spacecraft</b> — 기울인 쪽은 누구입니까?","a":"기술진(engineers)입니다 — 우주선이 스스로 기울어진 것이 아닙니다","tip":"뒤에 우주선과 카메라 이야기가 이어져 우주선을 주체로 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>so its cameras would point toward the crater</b> 의 its 는 무엇을 가리킵니까?","a":"the spacecraft, 곧 LRO입니다","tip":"바로 앞의 engineers 로 잡으면 '기술진의 카메라'가 되어 버립니다."},
+  {"t":"mod","q":"<b>about 60 miles above the Moon</b> 는 무엇을 나타냅니까?","a":"LRO가 지나가는 높이입니다 — 달 표면 위 약 60마일","tip":"지나간 거리로 읽기 쉽지만 above 가 붙어 있으니 고도입니다."},
+  {"t":"mod","q":"<b>traveling 1 mile per second</b> 는 무엇을 설명하는 말입니까?","a":"LRO가 그때 움직이는 속도입니다","tip":"달이나 충돌구의 속도로 붙이기 쉽습니다. 움직이고 있는 것은 그 궤도선입니다."}
+ ],
+ "cad5cc15|1.1": [
+  {"t":"who","q":"<b>The orbiter circles the Moon</b> 와 <b>the Moon slowly rotates</b> — 도는 쪽과 자전하는 쪽은 각각 무엇입니까?","a":"달 둘레를 도는 것은 궤도선이고, 자전하는 것은 달입니다","tip":"circles 는 명사 '원들'이 아니라 '~의 둘레를 돈다'는 동사입니다."},
+  {"t":"pron","q":"<b>underneath it</b> 의 it 은 무엇을 가리킵니까?","a":"그 궤도선(The orbiter)입니다","tip":"바로 앞의 the Moon 으로 잡으면 '달이 달 아래에서 돈다'는 말이 됩니다."},
+  {"t":"mod","q":"<b>from pole to pole every two hours</b> 는 무슨 뜻입니까?","a":"극에서 극으로 도는 경로를 두 시간마다 한 바퀴씩 돈다는 뜻입니다","tip":"every two hours 를 '두 시간 동안'으로 읽기 쉽습니다. 한 바퀴 도는 데 걸리는 주기입니다."}
+ ],
+ "cad5cc15|1.2": [
+  {"t":"pron","q":"<b>which took six days in this case</b> 의 which 는 무엇을 받습니까?","a":"그 지점이 보이는 자리로 돌아 들어오기를 기다리는 일입니다","tip":"바로 앞의 view 나 that location 한 단어로 잡기 쉽지만, 여기서 which 는 앞 내용 전체를 받습니다."},
+  {"t":"mod","q":"<b>until that location turns into view</b> 는 무슨 뜻입니까?","a":"그 지점이 볼 수 있는 자리로 돌아 들어올 때까지라는 뜻입니다","tip":"turns into 를 '~으로 변한다'로 읽으면 뜻이 통하지 않습니다. into view 는 '보이는 자리로'입니다."},
+  {"t":"time","q":"<b>took six days</b> — 엿새는 무엇에 걸린 시간입니까?","a":"그 지점이 보이는 자리로 들어오기를 기다린 시간입니다","tip":"사진을 찍는 데 엿새가 걸렸다고 읽기 쉽습니다. 엿새는 기다린 기간입니다."}
+ ],
+ "cad5cc15|2.0": [
+  {"t":"mod","q":"<b>Getting the pointing right</b> 는 이 문장에서 무엇에 해당합니까?","a":"이 문장의 주어입니다 — '겨누는 방향을 제대로 맞추는 일'이라는 뜻입니다","tip":"Getting 을 동사로 읽으면 주어가 사라집니다. -ing 덩어리가 통째로 주어입니다."},
+  {"t":"neg","q":"<b>was only half the challenge</b> — 이것으로 어려움이 끝났다는 뜻입니까?","a":"아닙니다 — 절반일 뿐이고 나머지 절반(타이밍)이 남아 있다는 뜻입니다","tip":"only 를 빼고 읽으면 '이것이 문제였다'로 뜻이 뒤집힙니다."},
+  {"t":"mod","q":"<b>timing had to be accurate as well</b> 의 as well 은 무엇에 더해서라는 말입니까?","a":"앞에서 말한 '겨누는 방향을 맞추는 일'에 더해서입니다","tip":"세미콜론(;)은 마침표처럼 끊어 주지만 내용은 앞 문장과 이어집니다."}
+ ],
+ "cad5cc15|2.1": [
+  {"t":"mod","q":"<b>even 10 seconds too early or too late</b> 의 even 은 무슨 뜻입니까?","a":"'단 10초라도'라는 뜻으로, 아주 짧은 시간임을 힘주어 말하는 것입니다","tip":"'심지어 10초 동안'처럼 시간의 길이로 읽으면 어긋납니다. 10초는 어긋난 정도입니다."},
+  {"t":"time","q":"<b>the target would drift off-center by 10 miles</b> — 실제로 일어난 일입니까?","a":"아닙니다 — If ~ would ~ 라는 가정으로, 그랬다면 그렇게 됐을 것이라는 말입니다","tip":"would 를 놓치면 실제로 10마일 어긋난 사진을 찍었다는 이야기가 됩니다."},
+  {"t":"mod","q":"<b>by 10 miles</b> 는 무슨 뜻입니까?","a":"10마일만큼 벗어난다는 뜻입니다 — 어긋나는 정도입니다","tip":"'10마일 지점까지 간다'로 읽기 쉽습니다. by 는 차이의 크기를 나타냅니다."}
+ ],
+ "cad5cc15|3.0": [
+  {"t":"mod","q":"<b>that revealed unique features</b> 는 무엇을 설명하는 말입니까?","a":"앞의 multiple lighting conditions(여러 조명 조건)입니다","tip":"the crater 를 꾸미는 말로 붙이기 쉽습니다. 바로 앞에 붙어 있는 명사는 conditions 입니다."},
+  {"t":"who","q":"<b>revealed unique features</b> — 남다른 특징을 드러낸 쪽은 무엇입니까?","a":"여러 조명 조건들입니다 — 과학자가 아닙니다","tip":"문장에 사람(scientists)이 나오니 사람을 주체로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>Because of the variety of viewing angles</b> 는 무엇에 대한 이유입니까?","a":"과학자들이 여러 조명 조건에서 그 충돌구를 볼 수 있었던 이유입니다","tip":"Because of 뒤에는 절이 아니라 명사가 옵니다. '보는 각도가 여러 가지였던 것' 자체가 이유입니다."}
+ ],
+ "cad5cc15|3.1": [
+  {"t":"mod","q":"<b>where the crater rim stood out</b> 는 무엇을 설명하는 말입니까?","a":"앞의 images — 어떤 사진들인지를 밝힙니다(테두리가 뚜렷하게 보인 사진들)","tip":"where 을 장소로 읽어 달 위의 어떤 지점으로 잡기 쉽습니다. 여기서는 사진을 꾸밉니다."},
+  {"t":"who","q":"<b>the crater rim stood out</b> — 뚜렷하게 드러난 것은 무엇입니까?","a":"충돌구의 테두리(the crater rim)입니다","tip":"stood out 의 주어는 과학자가 아니라 테두리입니다. stood 를 '섰다'로 읽으면 뜻이 흐려집니다."},
+  {"t":"pron","q":"<b>its 60‑foot width</b> 의 its 는 무엇을 가리킵니까?","a":"그 충돌구(the crater)입니다 — 충돌구의 폭이 60피트라는 뜻입니다","tip":"바로 앞 명사인 rim(테두리)의 두께로 읽기 쉽습니다. 잰 것은 충돌구 자체의 폭입니다."}
+ ],
+ "cad5cc15|3.2": [
+  {"t":"neg","q":"<b>less than 10 feet deep</b> — 깊이가 10피트라는 뜻입니까?","a":"아닙니다 — 10피트가 채 되지 않는다(그보다 얕다)는 뜻입니다","tip":"less than 을 놓치면 깊이를 정반대로 잡게 됩니다."},
+  {"t":"mod","q":"<b>based on the length of its shadow</b> 는 무엇을 밝히는 말입니까?","a":"과학자들이 그렇게 판단한 근거입니다 — 그림자의 길이를 보고 깊이를 알아냈습니다","tip":"충돌구가 그림자 위에 놓여 있다는 식으로 읽으면 어긋납니다. 판단의 근거를 대는 말입니다."},
+  {"t":"pron","q":"<b>the length of its shadow</b> 의 its 는 무엇을 가리킵니까?","a":"그 충돌구(the crater)입니다","tip":"Scientists 로 잡으면 '과학자들의 그림자'가 되어 버립니다."}
+ ],
+ "cad5cc15|4.0": [
+  {"t":"pron","q":"<b>To capture these details</b> 의 these details 는 무엇을 가리킵니까?","a":"앞에서 말한 충돌구의 폭과 깊이 같은 세부입니다","tip":"these 는 앞에서 이미 말한 것을 받습니다. 이 문장 안에서 새로 나온 것이 아닙니다."},
+  {"t":"pron","q":"<b>its Narrow-Angle Camera</b> 의 its 는 무엇을 가리킵니까?","a":"LRO입니다","tip":"카메라의 주인을 놓치면 다른 장비 이야기로 읽게 됩니다."},
+  {"t":"mod","q":"<b>which can spot features as small as 3 feet wide</b> 의 which 는 무엇을 설명합니까?","a":"바로 앞의 its Narrow-Angle Camera 입니다","tip":"LRO 전체를 가리키는 것으로 잡기 쉽습니다. which 바로 앞에 붙은 것은 그 카메라입니다."},
+  {"t":"mod","q":"<b>as small as 3 feet wide</b> 는 무슨 뜻입니까?","a":"폭이 3피트밖에 안 되는 작은 것까지 찾아낼 수 있다는 뜻입니다","tip":"'3피트만큼 크게 보인다'로 읽기 쉽습니다. 이 카메라가 알아볼 수 있는 가장 작은 크기입니다."}
+ ],
+ "cad5cc15|5.0": [
+  {"t":"mod","q":"<b>The images above</b> 의 above 는 무엇을 꾸밉니까?","a":"앞의 The images 입니다 — '위에 실린 사진들'이라는 뜻입니다","tip":"above 를 동사처럼 읽거나 show 에 붙이면 뼈대가 무너집니다. 이 문장의 동사는 show 하나뿐입니다."},
+  {"t":"mod","q":"<b>stretching out from the crater</b> 는 무엇을 설명하는 말입니까?","a":"앞의 bright and dark rays(밝고 어두운 줄기들)입니다","tip":"사진(The images)이 뻗어 나간다고 읽기 쉽습니다. 뻗어 나가는 것은 줄기입니다."},
+  {"t":"who","q":"<b>show bright and dark rays</b> — 보여 주는 쪽은 무엇입니까?","a":"위에 실린 그 사진들입니다","tip":"사람 주어가 없는 문장입니다. 사물이 주어로 와서 '~을 보여 준다'가 됩니다."}
+ ],
+ "cad5cc15|5.1": [
+  {"t":"who","q":"<b>altered over a long time by solar wind</b>…<b>micrometeorite impacts</b> — 바꿔 놓은 쪽과 바뀐 쪽은 각각 무엇입니까?","a":"바꿔 놓은 쪽은 태양풍·은하 우주선·미세 운석 충돌이고, 바뀐 쪽은 표면의 먼지와 암석입니다","tip":"altered 는 '바꿨다'가 아니라 '바뀐'입니다(당하는 형태). by 뒤가 바꿔 놓은 쪽입니다."},
+  {"t":"mod","q":"<b>altered over a long time</b> 는 무엇을 설명하는 말입니까?","a":"앞의 surface dust and rocks(표면의 먼지와 암석)입니다","tip":"주어인 The darker streaks 에 붙이기 쉽습니다. 바로 앞 명사에 붙는 말입니다."},
+  {"t":"time","q":"<b>over a long time</b> — 이 변화는 언제 일어난 일입니까?","a":"이번 충돌 때가 아니라, 오랜 세월에 걸쳐 조금씩 일어난 일입니다","tip":"기사 전체가 이번 충돌 이야기라 이번에 생긴 변화로 읽기 쉽습니다."}
+ ],
+ "cad5cc15|5.2": [
+  {"t":"who","q":"<b>was excavated by the collision</b> — 파낸 쪽과 파헤쳐진 쪽은 각각 무엇입니까?","a":"파낸 쪽은 그 충돌(the collision)이고, 파헤쳐진 쪽은 This weathered material(그 물질)입니다","tip":"수동태라 주어가 행위자가 아닙니다. 물질이 무엇을 팠다고 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>This weathered material</b> 은 무엇을 가리킵니까?","a":"앞 문장에 나온, 오랜 세월에 걸쳐 성질이 바뀐 표면의 먼지와 암석입니다","tip":"This 는 앞에서 이미 말한 것을 받습니다. 새로 등장한 물질이 아닙니다."},
+  {"t":"mod","q":"<b>from 1.5 feet into the lunar surface</b> 는 무슨 뜻입니까?","a":"달 표면 속 1.5피트 깊이에서라는 뜻입니다 — 파낸 깊이입니다","tip":"'1.5피트 떨어진 곳에서'처럼 수평 거리로 읽기 쉽습니다. into the lunar surface 가 붙어 있으니 표면 안쪽 깊이입니다."},
+  {"t":"time","q":"<b>was excavated</b> — 이 물질이 파헤쳐져 나온 것은 언제입니까?","a":"그 충돌이 일어났을 때입니다","tip":"앞 문장의 '오랜 세월에 걸친 변화'와 이 문장의 '충돌 때 파임'은 서로 다른 시점입니다."}
+ ],
+ "cad5cc15|5.3": [
+  {"t":"mod","q":"<b>near the crater rim</b> 는 무엇을 설명하는 말입니까?","a":"앞의 The brighter streaks — 그 밝은 줄무늬가 어디에 있는지 밝힙니다","tip":"동사 are made 에 붙여 '테두리 근처에서 만들어졌다'로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>excavated from deeper underground</b> 는 무엇을 설명하는 말입니까?","a":"앞의 fresh material(새 물질)입니다","tip":"excavated 를 문장의 동사로 읽으면 안 됩니다. 이 문장의 동사는 are made 입니다."},
+  {"t":"who","q":"<b>excavated</b> — 파낸 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다(당하는 형태만 쓰였습니다). 앞 문장에서 파낸 것은 그 충돌(the collision)이었습니다","tip":"by ~ 가 없으면 행위자는 문장에 없습니다. 새 물질이 스스로 나왔다고 읽지 않도록 주의하세요."}
+ ],
+ "cad5cc15|6.0": [
+  {"t":"who","q":"<b>Finding the impact site took global coordination</b> — 무엇이 무엇을 필요로 했습니까?","a":"충돌 지점을 찾아내는 일이 전 세계적인 공조를 필요로 했습니다","tip":"took 을 '가져갔다'로 읽으면 뜻이 통하지 않습니다. 여기서는 '~이 필요했다'입니다."},
+  {"t":"mod","q":"<b>among experts and hobbyists</b> 는 무엇을 설명하는 말입니까?","a":"앞의 global coordination — 누구들 사이의 공조인지 밝힙니다","tip":"the impact site 에 붙이면 '전문가들 사이에 있는 지점'이 되어 버립니다."},
+  {"t":"time","q":"<b>took</b> — 이 일은 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다 — 과거형이고, 충돌 지점은 이미 찾아냈습니다","tip":"이 문단부터 기사가 '어떻게 찾아냈는지'를 되짚습니다. 과거형에 주의하세요."}
+ ],
+ "cad5cc15|6.1": [
+  {"t":"who","q":"<b>Independent astronomers first identified the rocket’s trajectory</b> — 궤적을 알아낸 쪽은 누구입니까?","a":"기관에 속하지 않은(독립) 천문학자들입니다 — NASA가 아닙니다","tip":"기사 전체가 NASA 이야기라 NASA를 주체로 읽기 쉽습니다."},
+  {"t":"time","q":"<b>first</b> 는 여기서 무슨 뜻입니까?","a":"'가장 먼저'라는 순서를 나타냅니다 — 뒤에 나오는 NASA 쪽보다 먼저 알아냈다는 말입니다","tip":"'처음에는 ~했지만 나중에는 달랐다'는 식으로 읽지 않도록 주의하세요."},
+  {"t":"mod","q":"<b>using publicly available data</b> 는 무엇을 설명하는 말입니까?","a":"천문학자들이 궤적을 알아낸 방법입니다 — 공개된 자료를 이용해서라는 뜻입니다","tip":"the rocket’s trajectory 를 꾸미는 말로 붙여 '공개 자료를 쓰는 궤적'으로 읽으면 어긋납니다."}
+ ],
+ "cad5cc15|6.2": [
+  {"t":"mod","q":"<b>which tracks natural objects</b> 는 무엇을 설명하는 말입니까?","a":"주어인 NASA’s Center for Near Earth Object Studies(그 센터)입니다","tip":"which 를 문장의 동사 자리로 착각하면 안 됩니다. 쉼표 안쪽은 통째로 그 센터를 설명하는 곁가지입니다."},
+  {"t":"mod","q":"<b>that could pose hazards to Earth</b> 는 무엇을 설명하는 말입니까?","a":"앞의 natural objects(자연 천체들)입니다","tip":"센터를 꾸미는 말로 붙이면 '센터가 지구에 위험이 될 수 있다'는 말이 됩니다."},
+  {"t":"who","q":"<b>used this opportunity to test and validate tools and techniques</b> — 이번 기회를 이용한 쪽은 어디입니까?","a":"NASA의 지구근접천체연구센터입니다","tip":"주어와 동사 사이에 긴 설명이 끼어 있어, 바로 앞의 program 이나 Earth 를 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>for the agency’s Planetary Defense program</b> 는 무엇을 위한 것이라는 말입니까?","a":"그 센터가 자연 천체를 추적하는 일이 NASA의 행성 방어 계획을 위한 것이라는 뜻입니다","tip":"바로 앞 Earth 에 붙여 '지구를 위한 계획'으로 읽기 쉽습니다. 실제로 붙는 곳은 동사 tracks 입니다."}
+ ],
+ "cad5cc15|7.0": [
+  {"t":"mod","q":"<b>Based at NASA’s Jet Propulsion Laboratory in Southern California</b> 는 무엇을 설명하는 말입니까?","a":"뒤에 나오는 the center — 그 센터가 어디에 자리 잡고 있는지 밝힙니다","tip":"Based 를 '~에 근거하여'로 읽으면 궤적 계산의 근거처럼 되어 버립니다. 여기서는 '~에 자리 잡은'입니다."},
+  {"t":"pron","q":"<b>which it provided to the Republic of Korea</b> 의 which 는 무엇을 받습니까?","a":"앞의 the location of impact(충돌 지점의 위치)입니다","tip":"the trajectory(궤적)로 잡기 쉽습니다. which 바로 앞에 있는 것은 충돌 지점의 위치입니다."},
+  {"t":"who","q":"<b>it provided to the Republic of Korea</b> — 건넨 쪽과 받은 쪽은 각각 어디입니까?","a":"건넨 쪽은 the center(그 센터)이고, 받은 쪽은 대한민국입니다","tip":"it 을 한국 쪽으로 잡으면 방향이 거꾸로 됩니다. to 가 붙은 쪽이 받는 쪽입니다."},
+  {"t":"pron","q":"<b>for their Korea Pathfinder Lunar Orbiter (Danuri) team</b> 의 their 는 누구입니까?","a":"대한민국(the Republic of Korea)입니다 — 다누리 팀은 한국 팀입니다","tip":"바로 앞의 the center 로 잡으면 다누리가 NASA 팀이 되어 버립니다."}
+ ],
+ "cad5cc15|7.1": [
+  {"t":"pron","q":"<b>The team used the high-resolution LUTI camera</b> 의 The team 은 어느 팀입니까?","a":"앞 문장에 나온 한국의 다누리(Korea Pathfinder Lunar Orbiter) 팀입니다","tip":"기사가 NASA 이야기라 LRO 팀으로 잡기 쉽습니다. 다누리에 실린 카메라를 쓴 쪽입니다."},
+  {"t":"time","q":"<b>to image the crater, finding the prediction was accurate</b> — 예측이 맞았음을 안 것은 촬영 전입니까, 뒤입니까?","a":"촬영한 뒤입니다 — 찍은 사진을 보고 예측이 맞았음을 알게 되었습니다","tip":"finding 은 카메라를 쓴 결과로 알게 된 것을 말합니다. 순서는 '찍었다 → 알았다'입니다."},
+  {"t":"who","q":"<b>finding the prediction was accurate</b> — 예측이 맞았다고 확인한 쪽은 누구입니까?","a":"문장의 주어인 그 팀, 곧 다누리 팀입니다","tip":"분사구문에는 주어가 따로 없습니다. 주체는 주절의 주어입니다."},
+  {"t":"mod","q":"<b>accurate to about 0.6 miles</b> 는 무슨 뜻입니까?","a":"실제 위치와의 차이가 약 0.6마일 안쪽이었다는 뜻입니다 — 오차 범위입니다","tip":"'0.6마일까지밖에 못 봤다'거나 '0.6마일 크기'로 읽기 쉽습니다. accurate to ~ 는 오차 범위를 나타냅니다."}
+ ],
+ "cad5cc15|8.0": [
+  {"t":"who","q":"<b>the Danuri mission sent coordinates to NASA’s LRO team</b> — 보낸 쪽과 받은 쪽은 각각 어디입니까?","a":"보낸 쪽은 다누리 임무 쪽이고, 받은 쪽은 NASA의 LRO 팀입니다","tip":"to 가 붙은 쪽이 받는 쪽입니다. 방향을 뒤집으면 NASA가 좌표를 준 것이 됩니다."},
+  {"t":"pron","q":"<b>their follow-up imaging sequence</b> 의 their 는 누구입니까?","a":"NASA의 LRO 팀입니다","tip":"문장의 주어인 다누리 쪽으로 잡기 쉽습니다. 뒤이어 다시 찍는 쪽은 LRO입니다."},
+  {"t":"time","q":"<b>After capturing images of the crater</b> — 좌표를 보낸 것은 촬영 전입니까, 뒤입니까?","a":"촬영한 뒤입니다","tip":"After 를 놓치면 순서가 거꾸로 됩니다."},
+  {"t":"mod","q":"<b>follow-up imaging sequence</b> 는 무엇을 뜻합니까?","a":"LRO 팀이 뒤이어 다시 찍을 촬영 순서(계획)입니다","tip":"명사 앞에 꾸미는 말이 겹쳐 있습니다. 뒤에서부터 '순서 ← 촬영 ← 뒤이어 하는' 순으로 풀면 됩니다."}
+ ],
+ "cad5cc15|8.1": [
+  {"t":"who","q":"<b>Comparing their new crater images with the pre-impact images</b> — 견주어 본 쪽은 누구입니까?","a":"문장의 주어인 the LRO team(LRO 팀)입니다","tip":"분사구문에는 주어가 따로 없습니다. 앞 문장에 다누리가 나와 다누리 쪽으로 잡기 쉽습니다."},
+  {"t":"pron","q":"<b>their new crater images</b> 의 their 는 누구입니까?","a":"the LRO team(LRO 팀)입니다","tip":"앞 문장에 다누리가 나와 다누리가 찍은 사진으로 읽기 쉽습니다. 견주어 보는 쪽이 자기 사진을 새로 찍은 것입니다."},
+  {"t":"mod","q":"<b>the pre-impact images</b> 는 어떤 사진입니까?","a":"충돌이 일어나기 전에 찍어 둔 사진들입니다","tip":"pre- 는 '앞선'이라는 뜻입니다. 놓치면 두 사진이 모두 충돌 뒤의 사진이 되어 비교의 뜻이 사라집니다."},
+  {"t":"mod","q":"<b>the crater center coordinates: 19.4759°N, 266.7138°E, 511 meters elevation</b> — 콜론(:) 뒤의 숫자들은 무엇입니까?","a":"바로 앞에서 말한 '충돌구 중심 좌표'의 실제 값입니다","tip":"새 문장이거나 다른 지점의 좌표로 읽기 쉽습니다. 콜론은 앞말을 그대로 풀어 보이는 표시입니다."}
+ ],
+ "cad5cc15|9.0": [
+  {"t":"mod","q":"<b>that uses high-pressure experimental equipment</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a world-class laboratory(세계 정상급 실험실)입니다","tip":"that 을 '그것'으로 읽으면 문장이 끊어집니다. 앞 명사를 꾸미는 관계절입니다."},
+  {"t":"who","q":"<b>uses high-pressure experimental equipment</b> — 그 장비를 쓰는 쪽은 무엇입니까?","a":"FORCE, 곧 그 실험실입니다","tip":"이 문장에는 사람이 나오지 않습니다. 주체는 그 실험실입니다."},
+  {"t":"mod","q":"<b>high-pressure experimental equipment</b> 는 무슨 뜻입니까?","a":"고압 실험 장비입니다","tip":"명사 앞에 꾸미는 말이 겹쳐 있습니다. 뒤에서부터 '장비 ← 실험용 ← 고압' 순으로 풀면 됩니다."}
+ ],
+ "cad5cc15|10.0": [
+  {"t":"mod","q":"<b>merging with the young Milky…</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a dwarf galaxy(어떤 왜소 은하)입니다","tip":"New Hubble data 에 붙이면 '자료가 합쳐진다'는 말이 됩니다. 바로 앞 명사에 붙습니다."},
+  {"t":"who","q":"<b>New Hubble data shows</b> — 보여 주는 쪽은 무엇입니까?","a":"새로 나온 허블(Hubble) 관측 자료입니다","tip":"망원경 자체나 연구진을 주체로 읽기 쉽습니다. 주어는 그 '자료'입니다."},
+  {"t":"mod","q":"<b>definitive evidence of a dwarf galaxy</b> — 무엇에 대한 증거입니까?","a":"어떤 왜소 은하가 합쳐지고 있었다는 것에 대한 증거입니다","tip":"of a dwarf galaxy 에서 끊으면 '왜소 은하가 있다는 증거'가 됩니다. 뒤의 merging 까지 붙여 읽어야 뜻이 완성됩니다."}
+ ],
+ "cad5cc15|11.0": [
+  {"t":"mod","q":"<b>lofted high into the atmosphere</b> 는 무엇을 설명하는 말입니까?","a":"앞의 smoke(연기)입니다 — 대기 높은 곳까지 올려 보내진 연기라는 뜻입니다","tip":"NASA aircraft 에 붙여 '항공기가 높이 떠올랐다'로 읽기 쉽습니다. 높이 올라간 것은 연기입니다."},
+  {"t":"who","q":"<b>by one of the most…</b> — 연기를 대기 높은 곳까지 올려 보낸 쪽은 NASA 항공기입니까?","a":"아닙니다 — by 뒤의 무엇인가가 올려 보냈고, 문장이 …로 잘려 그 이름은 나오지 않습니다. NASA 항공기는 그 연기를 채집하는 쪽입니다","tip":"lofted 는 당하는 형태(수동)입니다. by 뒤가 올려 보낸 쪽입니다."},
+  {"t":"time","q":"<b>are sampling</b> — 이 채집은 이미 끝난 일입니까?","a":"아닙니다 — 지금 하고 있는 중입니다(현재진행)","tip":"짧게 잘린 토막이라 지난 일로 읽기 쉽습니다."}
+ ]
+}

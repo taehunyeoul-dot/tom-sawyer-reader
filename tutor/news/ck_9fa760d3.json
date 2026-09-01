@@ -1,0 +1,123 @@
+{
+ "9fa760d3|0.0": [
+  {"t":"who","q":"<b>invites collegiate teams to imagine innovative new ways</b> — 새로운 방법을 구상하는 쪽은 누구입니까?","a":"대학생 팀들입니다. 대회는 그렇게 해 보라고 청하는 쪽입니다","tip":"invite A to do 는 ‘A에게 ~해 보라고 청한다’입니다. 대회가 직접 방법을 구상한다고 읽으면 주체가 바뀝니다."},
+  {"t":"mod","q":"<b>aircraft could inspect land-based infrastructure</b> 는 무엇을 설명하는 말입니까?","a":"앞의 innovative new ways — 항공기가 기반 시설을 점검할 수 있는 ‘새로운 방법’이 어떤 것인지 설명합니다","tip":"ways 뒤에 that/in which 가 빠져 있어 문장이 하나 더 시작되는 것처럼 보입니다. 이 문장의 동사는 invites 하나뿐입니다."},
+  {"t":"mod","q":"<b>such as bridges and tunnels</b> 는 무엇의 예입니까?","a":"바로 앞의 land-based infrastructure(땅 위의 기반 시설)입니다","tip":"쉼표 사이에 끼어 있어 aircraft(항공기)나 ways(방법)의 예로 붙이기 쉽습니다."},
+  {"t":"time","q":"<b>by 2035 or sooner</b> — 안전성·비용 개선은 이미 이루어진 일입니까?","a":"아니요. 2035년까지, 또는 그보다 더 일찍 이루려는 목표입니다","tip":"by 는 ‘~까지’라는 기한입니다. ‘2035년에’ 한 번 하는 일이 아니라 그때까지 이루겠다는 뜻입니다."}
+ ],
+ "9fa760d3|1.0": [
+  {"t":"who","q":"<b>Infrastructure is the foundation of the nation’s strong economy</b> — 떠받치는 쪽과 떠받쳐지는 쪽은 각각 무엇입니까?","a":"떠받치는 쪽은 기반 시설(Infrastructure), 떠받쳐지는 쪽은 나라의 튼튼한 경제입니다","tip":"A is the foundation of B 는 ‘A가 B의 토대’입니다. 뒤집어 읽으면 경제가 기반 시설의 토대가 되어 버립니다."},
+  {"t":"mod","q":"<b>the nation’s strong economy, global competitiveness, and daily quality of life</b> — 기반 시설이 떠받치는 것은 몇 가지입니까?","a":"세 가지입니다 — 튼튼한 경제, 국제 경쟁력, 하루하루의 삶의 질","tip":"the nation’s 는 세 가지 모두에 걸립니다. of 뒤가 한 덩어리로 보이면 개수를 세어 보세요."},
+  {"t":"mod","q":"<b>daily quality of life</b> 는 무슨 뜻입니까?","a":"하루하루(일상)의 삶의 질이라는 뜻입니다","tip":"daily 가 quality of life 전체를 꾸밉니다. ‘하루의 질’이나 ‘매일의 인생’이 아닙니다."}
+ ],
+ "9fa760d3|1.1": [
+  {"t":"pron","q":"<b>it restricts</b> 의 it 은 무엇을 가리킵니까?","a":"앞 절의 that infrastructure(그 기반 시설)입니다","tip":"it 을 막연한 ‘그것’으로 넘기면 무엇이 이동을 막는지가 사라집니다. 앞 절의 주어를 그대로 받습니다."},
+  {"t":"neg","q":"<b>or in disrepair</b> — 이 기반 시설은 수리된 상태입니까, 아닙니까?","a":"수리되지 않아 낡고 망가진 채 방치된 상태입니다","tip":"repair(수리) 앞의 dis- 가 뜻을 뒤집습니다. ‘수리 중’이나 ‘수리됨’으로 읽으면 정반대가 됩니다."},
+  {"t":"who","q":"<b>it restricts the movement of people, goods, and critical resources</b> — 제한하는 쪽과 제한당하는 쪽은 각각 무엇입니까?","a":"제한하는 쪽은 망가진 기반 시설이고, 제한당하는 것은 사람·물자·중요 자원의 이동입니다","tip":"사람이 이동을 제한한다고 읽기 쉽지만, 막는 쪽은 시설입니다."},
+  {"t":"mod","q":"<b>like water and energy</b> 는 무엇의 예입니까?","a":"바로 앞의 critical resources(중요한 자원)입니다","tip":"people, goods 까지 포함한 셋 전체의 예가 아니라 마지막 자원만의 예입니다."}
+ ],
+ "9fa760d3|1.2": [
+  {"t":"pron","q":"<b>but they often come with challenges</b> 의 they 는 무엇입니까?","a":"앞의 Inspections(점검)입니다","tip":"바로 앞의 infrastructure projects 로 잡기 쉽습니다. 어려움이 따르는 것은 점검 쪽입니다."},
+  {"t":"mod","q":"<b>throughout the lifetime of infrastructure projects</b> 는 무슨 뜻입니까?","a":"기반 시설 사업이 유지되는 기간 내내(처음부터 끝까지)라는 뜻입니다","tip":"throughout 은 ‘~ 전체에 걸쳐’입니다. ‘~이 끝난 뒤’나 ‘그 기간 중 한 번’이 아닙니다."},
+  {"t":"time","q":"<b>often come with challenges</b> — 특정한 때 한 번 일어난 일을 말합니까?","a":"아니요. 늘 그런 편이라는 일반적인 사실입니다(현재시제 + often)","tip":"기사에 과거형이 섞여 있어 특정 사건으로 읽기 쉽습니다. 여기는 원래 그렇다는 설명입니다."}
+ ],
+ "9fa760d3|2.0": [
+  {"t":"mod","q":"<b>and difficult to reach</b> 는 무엇과 이어집니까?","a":"앞의 massive in size 와 이어집니다 — 둘 다 can be 의 보어입니다(구조물이 ‘크고’ 또 ‘닿기 어렵다’)","tip":"and 뒤에 새 주어가 없으면 대개 앞에 나온 같은 자리의 말과 짝을 이룹니다."},
+  {"t":"who","q":"<b>difficult to reach</b> — 닿기 어려운 쪽은 무엇입니까?","a":"구조물(Structures)입니다 — 사람이 그 구조물에 닿기 어렵다는 뜻입니다","tip":"구조물이 어딘가에 닿기 어렵다고 읽으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>Structures such as tunnels, bridges, highways, railways, and electric grids</b> — 이 중 문장의 주어는 무엇입니까?","a":"맨 앞의 Structures 입니다. 나머지 다섯은 그 예일 뿐입니다","tip":"예시가 다섯 개나 끼어들어 동사 can be 가 멀리 밀립니다. 바로 앞의 electric grids 를 주어로 잡기 쉽습니다."}
+ ],
+ "9fa760d3|2.1": [
+  {"t":"pron","q":"<b>They can require</b> 의 They 는 무엇입니까?","a":"앞 문장의 Structures — 터널·다리·고속도로·철도·전력망 같은 구조물입니다","tip":"뒤에 나오는 workers(작업자)로 잡기 쉽지만, 작업자는 이 문장에서 처음 나옵니다."},
+  {"t":"who","q":"<b>force workers to navigate extreme heights</b> — 높은 곳을 헤치고 다니는 쪽은 누구입니까?","a":"작업자(workers)입니다. 그렇게 하게 만드는 쪽이 구조물입니다","tip":"force A to B 는 ‘A가 B하게 만든다’입니다. 주어를 헤치고 다니는 쪽으로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>or force workers</b> 의 force 는 무엇과 나란히 놓입니까?","a":"앞의 require 와 나란히 놓입니다 — 둘 다 They can 에 걸립니다(요구할 수도 있고, 강요할 수도 있다)","tip":"force 를 명사 ‘힘’으로 읽으면 문장이 무너집니다. 여기서는 동사입니다."},
+  {"t":"mod","q":"<b>to access</b> 는 무엇을 하기 위한 것입니까?","a":"그 구조물에 다가가기 위한 것입니다 — 다가가려면 운영을 멈춰야 한다는 뜻입니다","tip":"shutdowns to access 를 ‘접근을 차단한다’로 읽기 쉽지만, to access 는 ‘다가가려면’이라는 목적입니다."}
+ ],
+ "9fa760d3|2.2": [
+  {"t":"who","q":"<b>As infrastructure ages and expands</b> — 낡아 가고 늘어나는 것은 무엇입니까?","a":"기반 시설(infrastructure)입니다","tip":"ages 를 명사 ‘나이·시대’로 읽으면 문장이 풀리지 않습니다. 여기서는 ‘나이를 먹다, 낡아 가다’라는 동사입니다."},
+  {"t":"mod","q":"<b>to use innovative airborne platforms</b> 는 무엇을 설명하는 말입니까?","a":"앞의 opportunities — 어떤 기회인지(공중 플랫폼을 쓸 기회)를 밝힙니다","tip":"there are 의 진짜 주어는 opportunities 입니다. 그 뒤의 to use 는 그 기회의 내용입니다."},
+  {"t":"mod","q":"<b>to improve current inspection practices</b> 는 무엇을 위한 것입니까?","a":"공중 플랫폼을 쓰는 목적입니다 — 지금의 점검 방식을 개선하기 위해서입니다","tip":"to 가 두 번 나옵니다. 앞의 to use 는 기회의 내용, 뒤의 to improve 는 그 목적입니다."},
+  {"t":"time","q":"<b>there are opportunities</b> — 이 공중 플랫폼은 이미 점검에 쓰이고 있습니까?","a":"아니요. 쓸 기회가 있다는 말일 뿐, 실제로 쓰고 있다는 뜻은 아닙니다","tip":"‘기회가 있다’를 ‘이미 그렇게 하고 있다’로 넘겨 읽기 쉽습니다."}
+ ],
+ "9fa760d3|3.0": [
+  {"t":"who","q":"<b>said Steven Holz</b> — 이 말을 한 사람은 몇 명이며, 뒤에 이어지는 쉼표 부분은 무엇입니까?","a":"한 사람(Steven Holz)이고, 뒤의 두 토막은 그의 직책과 소속입니다","tip":"쉼표마다 새 사람이나 새 기관이 말한 것으로 읽기 쉽습니다. 말한 이는 한 명뿐입니다."},
+  {"t":"mod","q":"<b>The demands … are increasing exponentially</b> — 폭발적으로 늘고 있는 것은 무엇입니까?","a":"요구(수요)입니다 — 해법이나 공중 플랫폼의 수가 아니라 그것을 바라는 요구가 늘고 있습니다","tip":"주어와 동사 사이가 아홉 단어나 떨어져 있어 바로 앞의 sector 를 주어로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>to improve the infrastructure sector</b> 는 무엇을 설명하는 말입니까?","a":"앞의 creative solutions — 기반 시설 분야를 개선할 해법이라는 뜻입니다","tip":"문장의 동사(are increasing)에 붙이면 ‘개선하려고 늘어난다’가 되어 뜻이 어긋납니다."},
+  {"t":"mod","q":"<b>Gateways to Blue Skies competition lead</b> 는 무슨 뜻입니까?","a":"Steven Holz 의 직책입니다 — Gateways to Blue Skies 대회의 책임자","tip":"lead 를 동사 ‘이끌다’로 읽으면 문장이 꼬입니다. 여기서는 ‘책임자’라는 명사입니다."}
+ ],
+ "9fa760d3|3.1": [
+  {"t":"who","q":"<b>for innovative students to transform</b> — 바꿔 놓는 쪽은 누구입니까?","a":"혁신적인 학생들입니다","tip":"for 뒤의 사람이 to부정사의 실제 주어입니다. 주어인 The time(시간)이 바꾼다고 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>the opportunity to do so</b> 의 do so 는 무엇을 가리킵니까?","a":"앞의 to transform how we work with our critical infrastructure — 중요한 기반 시설을 다루는 방식을 바꾸는 일입니다","tip":"do so 는 앞에 나온 동작을 통째로 받습니다. ‘대회에 참가하는 일’이 아닙니다."},
+  {"t":"mod","q":"<b>how we work with our critical infrastructure</b> 는 문장에서 무슨 자리입니까?","a":"transform 의 목적어입니다 — ‘우리가 중요한 기반 시설을 다루는 방식’을 바꾼다는 뜻입니다","tip":"how 를 ‘어떻게?’라는 의문으로 읽지 말고 ‘~하는 방식’이라는 하나의 명사 덩어리로 잡으세요."},
+  {"t":"time","q":"<b>The time is ripe</b> — 지금이 그때라는 말입니까, 그때가 나중에 온다는 말입니까?","a":"지금이 바로 그때라는 말입니다(때가 무르익었다)","tip":"ripe 는 ‘(과일이) 익은’에서 온 말로, 여기서는 ‘준비가 다 되었다’는 뜻입니다."}
+ ],
+ "9fa760d3|4.0": [
+  {"t":"who","q":"<b>Sponsored by NASA’s University Innovation Project</b> — 후원하는 쪽과 후원받는 쪽은 각각 무엇입니까?","a":"후원하는 쪽은 NASA의 University Innovation Project, 후원받는 쪽은 2027년 Gateways to Blue Skies 대회입니다","tip":"Sponsored 는 ‘후원했다’가 아니라 ‘후원을 받는’입니다. by 뒤가 후원하는 쪽입니다."},
+  {"t":"who","q":"<b>to conceptualize innovations</b> — 혁신을 구상하는 쪽은 누구입니까?","a":"여러 전공이 섞인 대학생 팀들입니다. 대회는 그렇게 하도록 권하는 쪽입니다","tip":"encourage A to B 에서 B 를 하는 것은 A 입니다. 대회가 구상한다고 읽으면 주체가 바뀝니다."},
+  {"t":"mod","q":"<b>multidisciplinary teams of college students</b> 는 무슨 뜻입니까?","a":"여러 전공(학문 분야)의 대학생들이 함께 모인 팀입니다","tip":"multi-(여럿) + discipline(학문 분야)입니다. ‘규율이 여러 개인 팀’이 아닙니다."},
+  {"t":"mod","q":"<b>in the world of aviation</b> 는 무엇을 꾸밉니까?","a":"앞의 innovations — 항공 분야에서의 혁신이라는 뜻입니다","tip":"the world of ~ 는 ‘~의 세계, ~ 분야’입니다. 학생들이 있는 장소가 아닙니다."}
+ ],
+ "9fa760d3|4.1": [
+  {"t":"mod","q":"<b>facing the Nation</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a complex challenge — 나라가 맞닥뜨리고 있는 복잡한 과제라는 뜻입니다","tip":"the competition 이나 a new theme 에 붙이면 뜻이 달라집니다. 바로 앞 명사에 붙는 분사입니다."},
+  {"t":"who","q":"<b>the competition selects a new theme</b> — 주제를 고르는 쪽은 누구입니까?","a":"대회(를 운영하는 쪽)입니다. 참가 학생이 고르는 것이 아닙니다","tip":"앞뒤가 온통 학생 이야기라 학생이 주제를 정한다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>Each year</b> — 주제를 정하는 일은 한 번뿐인 일입니까?","a":"아니요. 해마다 되풀이되는 일입니다","tip":"Each year 와 현재시제 selects 가 함께 쓰이면 ‘늘 그렇게 한다’는 뜻입니다."}
+ ],
+ "9fa760d3|4.2": [
+  {"t":"pron","q":"<b>It aims</b> 의 It 은 무엇을 가리킵니까?","a":"앞 문장의 the competition(그 대회)입니다","tip":"바로 앞에 나온 a complex challenge 나 the Nation 으로 잡기 쉽습니다."},
+  {"t":"mod","q":"<b>as many students as possible</b> 는 무슨 뜻입니까?","a":"가능한 한 많은 학생이라는 뜻입니다","tip":"as 를 하나씩 떼어 읽지 말고 as ~ as possible 을 통째로 ‘되도록 ~하게’로 잡으세요."},
+  {"t":"mod","q":"<b>from all backgrounds, majors, and collegiate levels</b> 는 무엇을 설명합니까?","a":"참여시키려는 students(학생들)를 설명합니다 — 배경·전공·학년을 가리지 않는다는 뜻입니다","tip":"It(대회)이 어디에서 왔는지를 말하는 것이 아닙니다."}
+ ],
+ "9fa760d3|5.0": [
+  {"t":"mod","q":"<b>and divided into two phases</b> — 두 단계로 나뉘는 것은 무엇입니까?","a":"대회(The competition)입니다. 팀이나 학생이 둘로 갈리는 것이 아닙니다","tip":"is 하나에 open 과 divided 가 함께 걸립니다(is open … and (is) divided …). and 바로 앞의 명사에 붙이면 틀립니다."},
+  {"t":"mod","q":"<b>teams of two to six students</b> 는 몇 명으로 이루어진 팀입니까?","a":"학생 2명에서 6명까지입니다","tip":"two to six 는 ‘2 대 6’이나 ‘2와 6’이 아니라 ‘2에서 6까지’라는 범위입니다."},
+  {"t":"who","q":"<b>The competition is open to teams</b> — 누가 누구에게 열려 있습니까?","a":"대회가 (2~6명으로 된) 학생 팀에게 열려 있습니다 — 그런 팀이면 참가할 수 있다는 뜻입니다","tip":"be open to A 는 ‘A에게 열려 있다, A가 참가할 수 있다’입니다."}
+ ],
+ "9fa760d3|5.1": [
+  {"t":"who","q":"<b>which will be judged by NASA and industry experts</b> — 심사하는 쪽과 심사받는 쪽은 각각 무엇입니까?","a":"심사하는 쪽은 NASA와 업계 전문가들이고, 심사받는 것은 팀이 낸 제안서와 영상입니다","tip":"be judged 는 ‘심사받다’입니다. by 뒤가 심사하는 쪽입니다."},
+  {"t":"pron","q":"<b>which will be judged</b> 의 which 가 받는 것은 사람입니까, 제출물입니까?","a":"제출물입니다 — 제안서와 2분짜리 영상. 팀이나 NASA를 받는 것이 아닙니다","tip":"which 는 사람이 아닌 것을 받습니다. 바로 앞의 명사 덩어리를 확인하세요."},
+  {"t":"mod","q":"<b>an accompanying two-minute video</b> 는 무슨 뜻입니까?","a":"제안서에 함께 딸려 내는 2분짜리 영상입니다","tip":"accompanying 은 ‘함께 딸린’입니다. 별개의 다른 과제가 아니라 제안서에 붙는 것입니다."},
+  {"t":"time","q":"<b>In Phase 1, teams will submit</b> — 팀들은 이미 제출했습니까?","a":"아니요. 1단계에서 앞으로 낼 일입니다","tip":"will 이 두 번(will submit, will be judged) 나옵니다. 둘 다 아직 하지 않은 일입니다."}
+ ],
+ "9fa760d3|5.2": [
+  {"t":"mod","q":"<b>Up to eight finalist teams</b> — 결선에 오르는 팀은 반드시 여덟입니까?","a":"아니요. 최대 여덟 팀까지라는 뜻으로, 그보다 적을 수 있습니다","tip":"up to 는 ‘~까지(최대)’입니다. ‘여덟 팀 이상’으로 읽으면 정반대가 됩니다."},
+  {"t":"mod","q":"<b>and advance to Phase 2</b> 의 advance 는 누구의 동작입니까?","a":"결선에 오른 팀들입니다 — will each receive 와 나란히 will 에 걸립니다(상금을 받고 2단계로 올라간다)","tip":"advance 를 명사 ‘진전’으로 읽거나 상금(prize)이 올라간다고 읽으면 틀립니다."},
+  {"t":"pron","q":"<b>where</b> 가 받는 것은 무엇입니까?","a":"바로 앞의 Phase 2(2단계)입니다 — ‘그 2단계에서’라는 뜻입니다","tip":"where 라고 해서 반드시 장소는 아닙니다. 여기서는 단계를 받습니다."},
+  {"t":"pron","q":"<b>where they will present their updated work</b> 의 they 는 누구입니까?","a":"결선에 오른 팀들입니다","tip":"뒤에 나오는 NASA와 업계 전문가로 잡기 쉽습니다. 전문가들은 발표를 듣는 쪽입니다."}
+ ],
+ "9fa760d3|5.3": [
+  {"t":"who","q":"<b>Winners will be offered the opportunity</b> — 기회를 주는 쪽과 받는 쪽은 각각 누구입니까?","a":"받는 쪽은 우승자(Winners)이고, 주는 쪽은 이 문장에 나오지 않습니다(수동태)","tip":"will be offered 를 ‘우승자가 기회를 제안한다’로 읽으면 방향이 뒤집힙니다."},
+  {"t":"mod","q":"<b>to intern with NASA Aeronautics</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the opportunity — 어떤 기회인지(인턴으로 일할 기회)를 밝힙니다","tip":"intern 은 여기서 명사가 아니라 ‘인턴으로 일하다’라는 동사입니다."},
+  {"t":"time","q":"<b>in the academic year following the forum</b> — 인턴 근무는 포럼보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 포럼 다음에 오는 학년도입니다","tip":"following 은 ‘그다음의’라는 뜻입니다. 포럼과 같은 때로 읽으면 시간 순서가 어긋납니다."}
+ ],
+ "9fa760d3|6.0": [
+  {"t":"mod","q":"<b>posted on the competition website</b> 는 무엇을 설명하는 말입니까?","a":"앞의 guidelines and eligibility requirements — 대회 웹사이트에 올라와 있는 지침과 자격 요건이라는 뜻입니다","tip":"posted 를 문장의 동사로 읽으면 ‘팀이 웹사이트에 올린다’가 되어 뒤집힙니다. 동사는 can review 하나뿐입니다."},
+  {"t":"mod","q":"<b>Teams interested in participating in the competition</b> — 여기까지는 문장에서 무엇입니까?","a":"문장의 주어입니다 — ‘대회 참가에 관심 있는 팀’이 한 덩어리입니다","tip":"interested 를 동사로 읽으면 안 됩니다. Teams 를 뒤에서 꾸미는 말입니다."},
+  {"t":"who","q":"<b>can review guidelines and eligibility requirements</b> — 살펴보는 쪽은 누구입니까?","a":"대회 참가에 관심이 있는 팀입니다","tip":"주어가 길어 동사가 멀리 떨어져 있습니다. 살펴보는 쪽은 대회 주최 측이 아닙니다."}
+ ],
+ "9fa760d3|6.1": [
+  {"t":"who","q":"<b>Teams are encouraged to submit</b> — 권하는 쪽과 권유받는 쪽은 각각 누구입니까?","a":"권유받고 제출하는 쪽은 팀이고, 권하는 쪽은 이 문장에 나오지 않습니다(수동태)","tip":"are encouraged 를 ‘팀이 권한다’로 읽으면 뒤집힙니다."},
+  {"t":"neg","q":"<b>a non-binding Notice of Intent</b> — 이것을 내면 반드시 참가해야 합니까?","a":"아니요. non-binding 은 구속력이 없다는 뜻이라, 내더라도 참가 의무가 생기지는 않습니다","tip":"non- 이 뜻을 뒤집습니다. binding(구속력 있는)만 보고 읽으면 정반대가 됩니다."},
+  {"t":"time","q":"<b>by Monday, Oct. 12,</b> 의 by 는 무슨 뜻입니까?","a":"10월 12일 월요일까지라는 마감 기한입니다","tip":"by 를 ‘~에 의해’로 읽으면 날짜가 행위자가 되어 버립니다. 여기서는 기한입니다."},
+  {"t":"mod","q":"<b>to stay apprised of competition news</b> 는 무엇을 위한 것입니까?","a":"의향서를 내는 목적입니다 — 대회 소식을 계속 전해 듣기 위해서입니다","tip":"stay apprised of ~ 는 ‘~에 대해 계속 알고 지내다’입니다."}
+ ],
+ "9fa760d3|6.2": [
+  {"t":"time","q":"<b>are due Feb. 22, 2027</b> — 2027년 2월 22일은 무엇입니까?","a":"제출 마감일입니다(그날까지 내야 합니다)","tip":"be due 는 ‘마감이다, 내야 한다’입니다. ‘그날 시작한다’가 아닙니다."},
+  {"t":"time","q":"<b>Feb. 22, 2027</b> — 이 마감은 앞 문장의 의향서 마감(10월 12일)보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 의향서를 먼저 내고, 제안서와 영상은 그 뒤인 2027년 2월 22일까지 냅니다","tip":"마감이 두 개입니다. 하나로 뭉뚱그리면 일정이 어긋납니다."},
+  {"t":"mod","q":"<b>Proposal and video submissions</b> 는 몇 가지 제출물을 말합니까?","a":"두 가지입니다 — 제안서와 영상","tip":"submissions 가 뒤에 한 번만 나오지만 Proposal 과 video 두 가지 모두에 걸립니다."}
+ ],
+ "9fa760d3|6.3": [
+  {"t":"who","q":"<b>is run by the Aeronautics Division</b> — 운영하는 쪽과 운영되는 쪽은 각각 무엇입니까?","a":"운영하는 쪽은 Aeronautics Division(항공 부문)이고, 운영되는 것은 이 대회입니다","tip":"is run 은 ‘달린다’가 아니라 ‘운영된다’입니다. run 이 여기서는 ‘운영하다’라는 뜻입니다."},
+  {"t":"mod","q":"<b>in NASA’s Research and Technology Mission Directorate</b> 는 무엇을 설명합니까?","a":"바로 앞의 the Aeronautics Division 이 어디에 속해 있는지를 밝힙니다","tip":"대회가 열리는 장소로 읽기 쉽지만, 그 부서의 소속을 말합니다."},
+  {"t":"who","q":"<b>is run by</b> — 여기 나온 운영 주체는 앞 문단에서 후원한다고 한 곳과 같은 곳입니까?","a":"아니요. 운영하는 곳은 Aeronautics Division 이고, 후원하는 곳은 University Innovation Project 로 서로 다릅니다","tip":"run(운영)과 sponsor(후원)는 다른 역할입니다. 기관 이름이 길어 하나로 뭉뚱그리기 쉽습니다."}
+ ],
+ "9fa760d3|6.4": [
+  {"t":"who","q":"<b>manages the challenge contract</b> — 계약 업무를 관리하는 쪽은 어디입니까?","a":"맨 앞의 NASA’s Center of Excellence for Collaborative Innovation 입니다","tip":"동사 바로 앞의 Research and Technology Mission Directorate 를 주어로 잡기 쉽습니다. 주어와 동사가 스무 단어 넘게 떨어져 있습니다."},
+  {"t":"mod","q":"<b>part of the Prizes, Challenges, and Crowdsourcing Program</b> 는 무엇을 설명하는 말입니까?","a":"앞의 NASA’s Center of Excellence for Collaborative Innovation — 그 센터가 어디에 속해 있는지를 밝히는 동격입니다","tip":"새로운 주어가 하나 더 나온 것으로 읽기 쉽습니다. 이 문장의 동사는 manages 하나뿐입니다."},
+  {"t":"mod","q":"<b>Prizes, Challenges, and Crowdsourcing Program</b> 안의 쉼표는 문장을 나누는 쉼표입니까?","a":"아니요. 프로그램 이름 안에 들어 있는 쉼표입니다(상금·챌린지·크라우드소싱 프로그램 하나)","tip":"쉼표마다 새 기관이 나온다고 세면 기관 수가 늘어납니다."},
+  {"t":"mod","q":"<b>within the Research and Technology Mission Directorate</b> 는 무엇이 어디에 속해 있다는 말입니까?","a":"앞의 Prizes, Challenges, and Crowdsourcing Program 이 그 본부 안에 있다는 말입니다","tip":"조직이 세 겹입니다 — 본부 안에 프로그램, 그 프로그램 안에 센터."}
+ ],
+ "9fa760d3|6.5": [
+  {"t":"who","q":"<b>administers the challenge on behalf of NASA</b> — 실제로 운영 실무를 맡는 쪽은 어디입니까?","a":"The National Institute of Aerospace 입니다. NASA는 그 일을 맡긴 쪽입니다","tip":"뒤에 NASA가 보인다고 NASA를 주어로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>on behalf of NASA</b> 는 무슨 뜻입니까?","a":"NASA를 대신하여(NASA를 대표해서)라는 뜻입니다","tip":"‘NASA의 뒤에서’나 ‘NASA 덕분에’가 아닙니다."},
+  {"t":"pron","q":"<b>the challenge</b> 는 무엇을 가리킵니까?","a":"앞에서 계속 이야기한 Gateways to Blue Skies 대회입니다","tip":"the 가 붙었다는 것은 앞에 이미 나온 그것을 다시 가리킨다는 신호입니다. 새로운 다른 과제가 아닙니다."}
+ ]
+}

@@ -1,0 +1,266 @@
+[
+ {
+  "id": "ea5d872b|0.0",
+  "en": "Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.",
+  "auto_s": "Some of Earth’s microbes",
+  "auto_v": "could survive"
+ },
+ {
+  "id": "ea5d872b|1.0",
+  "en": "Published on Aug. 19, 2026, in Science Advances , these findings highlight a need to better understand microbial persistence in extreme lunar environments.",
+  "auto_s": "these findings",
+  "auto_v": "highlight"
+ },
+ {
+  "id": "ea5d872b|1.1",
+  "en": "As humans build a permanent presence on the Moon, it may become difficult to distinguish ancient lunar chemistry from contamination delivered by visiting astronauts.",
+  "auto_s": "it",
+  "auto_v": "may become"
+ },
+ {
+  "id": "ea5d872b|1.2",
+  "en": "The concern extends beyond the Moon and on to Mars, scientists say.",
+  "auto_s": "The concern",
+  "auto_v": "extends"
+ },
+ {
+  "id": "ea5d872b|2.0",
+  "en": "“Humans are natural explorers, and with them come their voices, their memories … and their microbes,” said Prabal Saxena , a planetary scientist who led the study from NASA’s Goddard Space Flight Center in Greenbelt, Maryland.",
+  "auto_s": "Humans",
+  "auto_v": "are"
+ },
+ {
+  "id": "ea5d872b|2.1",
+  "en": "“For some scientists, myself included, that reality can be unsettling.",
+  "auto_s": "that reality",
+  "auto_v": "can be"
+ },
+ {
+  "id": "ea5d872b|2.2",
+  "en": "But it also creates an opportunity to turn an imperfect situation into a useful experiment.”",
+  "auto_s": "it",
+  "auto_v": "creates"
+ },
+ {
+  "id": "ea5d872b|3.0",
+  "en": "Bringing microbes along is unavoidable: Humans have, on average, 1 million bacteria living on each patch of skin the size of a pencil eraser, for example.",
+  "auto_s": "Bringing microbes along",
+  "auto_v": "is"
+ },
+ {
+  "id": "ea5d872b|3.1",
+  "en": "These bacteria vent from spacesuits and habitats.",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "ea5d872b|3.2",
+  "en": "Though the paper’s authors worry about contamination interfering with the search for chemical clues to ancient geology or biology, they also argue that the Moon should be used as a natural lab.",
+  "auto_s": "they",
+  "auto_v": "argue"
+ },
+ {
+  "id": "ea5d872b|3.3",
+  "en": "In shaded areas around the South Pole, scientists could carefully test the real-life limits of microbial survival in an environment that can’t easily be reproduced on Earth.",
+  "auto_s": "scientists",
+  "auto_v": "test"
+ },
+ {
+  "id": "ea5d872b|4.0",
+  "en": "Before any surface science can happen, scientists need a baseline measurement of what contaminants humans bring, the authors say.",
+  "auto_s": "scientists",
+  "auto_v": "need"
+ },
+ {
+  "id": "ea5d872b|5.0",
+  "en": "“We need to understand what was there before us, because when we go to Mars to search for signs of life beyond our planet, we will want to make sure it’s not stuff we brought,” said Andrew Needham , a NASA Goddard-based paper co-author who is an Artemis contamination‑control scientist for lunar samples.",
+  "auto_s": "We",
+  "auto_v": "need"
+ },
+ {
+  "id": "ea5d872b|6.0",
+  "en": "Even with strict sterilization procedures, some organisms are stubbornly resilient.",
+  "auto_s": "some organisms",
+  "auto_v": "are"
+ },
+ {
+  "id": "ea5d872b|6.1",
+  "en": "A good example is Aspergillus niger, which is a fungus that thrives in warm, damp places like household bathrooms and heating, ventilation, and air conditioning systems.",
+  "auto_s": "A good example",
+  "auto_v": "is"
+ },
+ {
+  "id": "ea5d872b|6.2",
+  "en": "Astronauts have sampled it inside the International Space Station, and experiments demonstrate that the fungus can survive outside the station as well.",
+  "auto_s": "Astronauts",
+  "auto_v": "have sampled"
+ },
+ {
+  "id": "ea5d872b|6.3",
+  "en": "Aspergillus niger was one of five microbes, including bacteria and fungi, selected for this study because of its known toughness in spaceflight environments.",
+  "auto_s": "Aspergillus niger",
+  "auto_v": "was"
+ },
+ {
+  "id": "ea5d872b|7.0",
+  "en": "That microbes survived on the space station’s exterior surprised scientists.",
+  "auto_s": "That microbes",
+  "auto_v": "survived"
+ },
+ {
+  "id": "ea5d872b|7.1",
+  "en": "These species are typically not considered “extremophiles” that can withstand harsh conditions, such as the vacuum of space, according to Aaron Regberg , a geomicrobiologist at NASA’s Johnson Space Center in Houston.",
+  "auto_s": "These species",
+  "auto_v": "not considered"
+ },
+ {
+  "id": "ea5d872b|8.0",
+  "en": "“I would have expected these microbes to have dried out,” said Regberg, who studies space station bacteria and was a co-author on the paper.",
+  "auto_s": "I",
+  "auto_v": "would have expected"
+ },
+ {
+  "id": "ea5d872b|9.0",
+  "en": "He pointed out that NASA often bakes robotic spacecraft at temperatures above 400 degrees Fahrenheit to reduce the number of living organisms on them.",
+  "auto_s": "He",
+  "auto_v": "pointed out"
+ },
+ {
+  "id": "ea5d872b|9.1",
+  "en": "But that’s not possible with astronauts, so contamination concerns take on new meaning in crewed exploration of the Moon’s south polar environment.",
+  "auto_s": "that",
+  "auto_v": "’s"
+ },
+ {
+  "id": "ea5d872b|10.0",
+  "en": "A clearer picture of where microbes might survive comes from understanding how sunlight behaves at the poles.",
+  "auto_s": "A clearer picture of where microbes might survive",
+  "auto_v": "comes"
+ },
+ {
+  "id": "ea5d872b|10.1",
+  "en": "Survival in this study means the microbe can stay alive for at least one Earth day, which does not mean that it can grow and reproduce.",
+  "auto_s": "Survival in this study",
+  "auto_v": "means"
+ },
+ {
+  "id": "ea5d872b|11.0",
+  "en": "Because the Moon has a very small tilt on its axis, the view from its poles is of a Sun that appears to hover just above the horizon, skimming the surface like a flashlight laying on a table.",
+  "auto_s": "the view from its poles",
+  "auto_v": "is"
+ },
+ {
+  "id": "ea5d872b|11.1",
+  "en": "As a result, elevated parts of the surface, including crater ridges, mountains, and even small bumps, block light from reaching low-lying terrain.",
+  "auto_s": "elevated parts",
+  "auto_v": "block"
+ },
+ {
+  "id": "ea5d872b|11.2",
+  "en": "This produces pockets of shadowed areas that can remain cold and preserve water, as well as shield fragile molecules and possible microorganisms from lethal radiation.",
+  "auto_s": "This",
+  "auto_v": "produces"
+ },
+ {
+  "id": "ea5d872b|12.0",
+  "en": "With that scientific context in mind, the team set out to test which Earth microbes could survive extreme polar conditions.",
+  "auto_s": "the team",
+  "auto_v": "set out"
+ },
+ {
+  "id": "ea5d872b|12.1",
+  "en": "They focused on organisms commonly found in spaceflight environments and those common on human skin.",
+  "auto_s": "They",
+  "auto_v": "focused"
+ },
+ {
+  "id": "ea5d872b|12.2",
+  "en": "Besides Aspergillus niger, these included Bacillus subtilis, Staphylococcus aureus, Deinococcus radiodurans, and several species of Fusarium.",
+  "auto_s": "these",
+  "auto_v": "included"
+ },
+ {
+  "id": "ea5d872b|12.3",
+  "en": "Based on an analysis of previous studies, the scientists noted the maximum amount of heat and ultraviolet (UV) radiation each organism can withstand.",
+  "auto_s": "the scientists",
+  "auto_v": "noted"
+ },
+ {
+  "id": "ea5d872b|13.0",
+  "en": "Then, the organisms were tested in simulations of three regions near the lunar South Pole — Nobile Rim, Connecting Ridge, and De Gerlache Rim.",
+  "auto_s": "the organisms",
+  "auto_v": "were tested"
+ },
+ {
+  "id": "ea5d872b|13.1",
+  "en": "Those simulations used detailed environmental maps built from elevation and temperature data collected by instruments aboard NASA’s Lunar Reconnaissance Orbiter , combined with models of how radiation strikes the surface.",
+  "auto_s": "Those simulations",
+  "auto_v": "used"
+ },
+ {
+  "id": "ea5d872b|14.0",
+  "en": "The models showed maps of “survivable niches” that range in size from a miles-wide crater floor to an astronaut’s boot print.",
+  "auto_s": "The models",
+  "auto_v": "showed"
+ },
+ {
+  "id": "ea5d872b|14.1",
+  "en": "Aspergillus niger, which was most resistant to UV radiation, was able to survive even in areas with some sunlight exposure.",
+  "auto_s": "Aspergillus niger",
+  "auto_v": "was"
+ },
+ {
+  "id": "ea5d872b|14.2",
+  "en": "UV radiation is so deadly to most microbes that it’s used for sterilization in hospitals.",
+  "auto_s": "UV radiation",
+  "auto_v": "is"
+ },
+ {
+  "id": "ea5d872b|15.0",
+  "en": "“When we think of the Moon, we don’t typically think of biology,” said Heather Graham , a paper co-author at NASA Goddard who helps develop tools and techniques for detecting biology that may look nothing like Earth’s.",
+  "auto_s": "Heather Graham",
+  "auto_v": "said"
+ },
+ {
+  "id": "ea5d872b|15.1",
+  "en": "“But the Moon is a place where a cell can survive, so our first exploration of these sites should pay extra attention to our microbial hitchhikers and work hard to characterize lunar chemistry before our visits change what we will find.”",
+  "auto_s": "our first exploration of these sites",
+  "auto_v": "should pay"
+ },
+ {
+  "id": "ea5d872b|16.0",
+  "en": "The authors note that while some microbes can survive in a dormant state in regions around the South Pole, and thereby confuse some future scientific investigations, there is no evidence the Moon has key ingredients to sustain growth and replication.",
+  "auto_s": "The authors",
+  "auto_v": "note"
+ },
+ {
+  "id": "ea5d872b|16.1",
+  "en": "Such ingredients include liquid water, which typically requires an atmosphere and moderate temperatures.",
+  "auto_s": "Such ingredients",
+  "auto_v": "include"
+ },
+ {
+  "id": "ea5d872b|17.0",
+  "en": "Each year, observers around the world come together to celebrate Earth’s Moon through direct observations, hands-on activities, lunar-themed music, artwork, readings, and more.",
+  "auto_s": "observers around the world",
+  "auto_v": "come"
+ },
+ {
+  "id": "ea5d872b|18.0",
+  "en": "From lighting up our skies to preserving evidence of our solar system’s history, Earth’s closest neighbor plays a pivotal role in the study of our planet and beyond.",
+  "auto_s": "Earth’s closest neighbor",
+  "auto_v": "plays"
+ },
+ {
+  "id": "ea5d872b|19.0",
+  "en": "Shekhtman helps communicate NASA planetary science to the world through news and feature stories on NASA.gov, videos for NASA+ and YouTube, and by working with the media.",
+  "auto_s": "Shekhtman",
+  "auto_v": "helps"
+ },
+ {
+  "id": "ea5d872b|19.1",
+  "en": "She reports on lunar and Mars science and exploration; NASA’s search for life; missions to Venus, Titan, and Jupiter’s Trojan asteroids; and many other topics related to NASA’s exploration of our solar system and beyond.",
+  "auto_s": "She",
+  "auto_v": "reports"
+ }
+]

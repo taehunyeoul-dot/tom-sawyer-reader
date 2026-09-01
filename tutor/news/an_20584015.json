@@ -1,0 +1,309 @@
+[
+ {
+  "id": "20584015|0.0",
+  "en": "The NASA Science Mission Directorate (SMD) Community of Practice for Education (SCoPE) – part of the NASA Science Activation (SciAct) Program portfolio – enables Earth and Space Science and Engineering Subject Matter Experts (SMEs) – especially NASA-funded SMEs – to efficiently and effectively share their science with support from SciAct education experts.",
+  "s": "The NASA Science Mission Directorate (SMD) Community of Practice for Education (SCoPE)",
+  "v": "enables",
+  "chunks": [
+   {"en": "The NASA Science Mission Directorate (SMD) Community of Practice for Education (SCoPE)", "ko": "NASA 과학임무국(SMD)의 교육 실천 공동체(SCoPE)는", "r": "주어(긴 기관 이름)"},
+   {"en": "– part of the NASA Science Activation (SciAct) Program portfolio –", "ko": "— NASA 과학활성화(SciAct) 프로그램 묶음의 한 부분인데 —", "r": "동격(주어를 다시 설명)"},
+   {"en": "enables Earth and Space Science and Engineering Subject Matter Experts (SMEs)", "ko": "지구·우주과학과 공학 분야 전문가(SME)들이 ~할 수 있게 해 준다", "r": "동사 + 목적어"},
+   {"en": "– especially NASA-funded SMEs –", "ko": "— 특히 NASA의 지원을 받는 전문가들이 —", "r": "동격(목적어의 범위를 좁힘)"},
+   {"en": "to efficiently and effectively share their science", "ko": "자기 과학을 효율적이고 효과적으로 알리도록", "r": "목적격 보어(무엇을 할 수 있게 하는가)"},
+   {"en": "with support from SciAct education experts.", "ko": "SciAct 교육 전문가들의 도움을 받아", "r": "전치사구(도움을 주는 쪽)"}
+  ],
+  "ko": "NASA 과학임무국(SMD)의 교육 실천 공동체 SCoPE는 — 이것은 NASA 과학활성화(SciAct) 프로그램 묶음의 한 부분이다 — 지구·우주과학과 공학 분야의 전문가(SME), 특히 NASA의 지원을 받는 전문가들이 SciAct 교육 전문가들의 도움을 받아 자기 과학을 효율적이고 효과적으로 알릴 수 있게 해 준다.",
+  "why": "대시(–)로 둘러싸인 덩어리가 두 군데 끼어 있어 뼈대가 잘 보이지 않는다. 그 두 덩어리를 괄호로 묶어 잠시 빼 보면 남는 것은 'SCoPE 가 전문가들이 ~하도록 해 준다(enables A to B)' 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|1.0",
+  "en": "In Summer 2026, NASA SCoPE partnered with Arizona State University’s Facility for Open Research in a Compressed Environment (FORCE) Summer School to help seven undergraduate student interns build the science communication skills needed to share their research with a variety of audiences.",
+  "s": "NASA SCoPE",
+  "v": "partnered",
+  "chunks": [
+   {"en": "In Summer 2026,", "ko": "2026년 여름에", "r": "시간"},
+   {"en": "NASA SCoPE partnered with", "ko": "NASA SCoPE는 ~와 손을 잡았다", "r": "주어 + 동사"},
+   {"en": "Arizona State University’s Facility for Open Research in a Compressed Environment (FORCE) Summer School", "ko": "애리조나주립대학교의 FORCE(압축 환경 개방 연구 시설) 여름학교와", "r": "전치사의 목적어(손잡은 상대, 긴 이름)"},
+   {"en": "to help seven undergraduate student interns", "ko": "학부생 인턴 일곱 명이 ~하도록 돕기 위해", "r": "목적(무엇을 위해)"},
+   {"en": "build the science communication skills", "ko": "과학 소통 능력을 기르도록", "r": "돕는 내용(원형부정사)"},
+   {"en": "needed to share their research", "ko": "자기 연구를 알리는 데 필요한", "r": "과거분사구(앞 skills 설명)"},
+   {"en": "with a variety of audiences.", "ko": "여러 종류의 청중에게", "r": "전치사구(알리는 상대)"}
+  ],
+  "ko": "2026년 여름, NASA SCoPE는 애리조나주립대학교(ASU)의 FORCE(압축 환경 개방 연구 시설) 여름학교와 손을 잡고, 학부생 인턴 일곱 명이 자기 연구를 여러 종류의 청중에게 알리는 데 필요한 과학 소통 능력을 기르도록 도왔다.",
+  "why": "partnered with 뒤에 붙은 기관 이름이 아주 길어서(Arizona State University’s … Summer School) 어디까지가 손잡은 상대인지 놓치기 쉽다. 뒤쪽 needed to share ~ 는 새 동사가 아니라 바로 앞의 skills 를 꾸미는 말(과거분사)이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|1.1",
+  "en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.",
+  "s": "FORCE",
+  "v": "is",
+  "chunks": [
+   {"en": "FORCE is a world-class laboratory", "ko": "FORCE는 세계 최고 수준의 실험실이다", "r": "주어 + 동사 + 보어"},
+   {"en": "that uses high-pressure experimental equipment", "ko": "고압 실험 장비를 사용하는", "r": "관계절(앞 laboratory 설명)"},
+   {"en": "to recreate the extreme conditions", "ko": "극한 조건을 재현하기 위해", "r": "목적(무엇을 위해 쓰는가)"},
+   {"en": "found deep within Earth and other planetary bodies,", "ko": "지구와 다른 천체의 깊은 속에서 나타나는", "r": "과거분사구(앞 conditions 설명)"},
+   {"en": "enabling researchers to better understand", "ko": "그래서 연구자들이 더 잘 이해할 수 있게 해 준다", "r": "분사구문(그 결과)"},
+   {"en": "how planets form, evolve, and behave", "ko": "행성이 어떻게 생겨나고 변해 가고 움직이는지를", "r": "목적어(무엇을 이해하는가)"},
+   {"en": "under immense pressures.", "ko": "엄청난 압력 아래에서", "r": "전치사구(어떤 상태에서)"}
+  ],
+  "ko": "FORCE는 고압 실험 장비를 써서 지구와 다른 천체의 깊은 속에서 나타나는 극한 조건을 재현하는 세계 최고 수준의 실험실이다. 덕분에 연구자들은 행성이 엄청난 압력 아래에서 어떻게 생겨나고, 변해 가고, 움직이는지를 더 잘 이해할 수 있다.",
+  "why": "동사는 is 하나뿐이다. that uses ~ 는 앞의 laboratory 를 설명하는 관계절이고, found 는 '찾아냈다'가 아니라 '(그곳에서) 나타나는'이라는 뜻으로 앞의 conditions 를 꾸민다. 맨 뒤 enabling ~ 은 '그래서 ~할 수 있게 한다'는 결과를 덧붙이는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|2.0",
+  "en": "As part of the Summer School, SCoPE facilitated two hands-on workshops on June 25 and 26, followed by office hours the following week, to help interns translate their technical research into compelling stories for non-expert audiences.",
+  "s": "SCoPE",
+  "v": "facilitated",
+  "chunks": [
+   {"en": "As part of the Summer School,", "ko": "여름학교 과정의 한 부분으로", "r": "전치사구(어떤 틀 안에서)"},
+   {"en": "SCoPE facilitated two hands-on workshops", "ko": "SCoPE는 직접 해 보는 워크숍 두 번을 열었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on June 25 and 26,", "ko": "6월 25일과 26일에", "r": "시간"},
+   {"en": "followed by office hours the following week,", "ko": "그리고 그다음 주에는 상담 시간이 이어졌다", "r": "과거분사구(뒤이어 일어난 일)"},
+   {"en": "to help interns translate their technical research", "ko": "인턴들이 자기 전문 연구를 옮기도록 돕기 위해", "r": "목적(무엇을 위해)"},
+   {"en": "into compelling stories for non-expert audiences.", "ko": "비전문가 청중을 위한 흥미로운 이야기로", "r": "전치사구(무엇으로 바꾸는가)"}
+  ],
+  "ko": "여름학교 과정의 한 부분으로, SCoPE는 6월 25일과 26일에 직접 해 보는 워크숍을 두 번 열었고, 그다음 주에는 상담 시간(office hours)이 이어졌다. 인턴들이 자기 전문 연구를 비전문가 청중을 위한 흥미로운 이야기로 바꾸도록 돕기 위해서였다.",
+  "why": "A followed by B 는 'A 다음에 B가 이어진다'는 뜻이라, 순서를 거꾸로 읽기 아주 쉽다. 맨 뒤 to help ~ 는 워크숍을 연 목적이고, translate A into B 는 'A를 B로 바꾸다'라는 짝이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|2.1",
+  "en": "The training focused on identifying the central themes of their work, developing clear and engaging messages, planning effective visitor interactions, and thinking through the logistics of public engagement.",
+  "s": "The training",
+  "v": "focused",
+  "chunks": [
+   {"en": "The training focused on", "ko": "그 교육은 ~에 초점을 맞추었다", "r": "주어 + 동사"},
+   {"en": "identifying the central themes of their work,", "ko": "자기 연구의 핵심 주제를 찾아내는 것", "r": "초점 1(동명사구)"},
+   {"en": "developing clear and engaging messages,", "ko": "분명하고 흥미를 끄는 메시지를 만드는 것", "r": "초점 2(동명사구)"},
+   {"en": "planning effective visitor interactions,", "ko": "관람객과의 효과적인 소통을 계획하는 것", "r": "초점 3(동명사구)"},
+   {"en": "and thinking through the logistics of public engagement.", "ko": "그리고 대중 참여 행사의 실무 준비를 꼼꼼히 따져 보는 것", "r": "초점 4(동명사구)"}
+  ],
+  "ko": "그 교육은 네 가지에 초점을 맞추었다. 자기 연구의 핵심 주제를 찾아내는 것, 분명하고 흥미를 끄는 메시지를 만드는 것, 관람객과의 효과적인 소통을 계획하는 것, 그리고 대중 참여 행사의 실무 준비를 꼼꼼히 따져 보는 것이다.",
+  "why": "focused on 뒤에 -ing 로 시작하는 덩어리 넷이 쉼표로 나란히 이어진다. -ing 를 새 동사로 읽지 말고 네 개 모두 focused on 에 걸린다고 보면 문장이 단숨에 쉬워진다.",
+  "st": []
+ },
+ {
+  "id": "20584015|2.2",
+  "en": "Interns also received guidance on preparing both their research posters and individual outreach stations.",
+  "s": "Interns",
+  "v": "received",
+  "chunks": [
+   {"en": "Interns also received guidance", "ko": "인턴들은 안내도 받았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on preparing both their research posters", "ko": "연구 포스터를 준비하는 일에 대해", "r": "전치사구(무엇에 대한 안내인가)"},
+   {"en": "and individual outreach stations.", "ko": "그리고 각자의 홍보 부스를 준비하는 일에 대해", "r": "나열(준비 대상 둘째)"}
+  ],
+  "ko": "인턴들은 자기 연구 포스터와 각자의 홍보 부스를 어떻게 준비할지에 대해서도 안내를 받았다.",
+  "why": "received 는 '주었다'가 아니라 '받았다'이고, 안내해 준 쪽은 이 문장에 나오지 않는다. both A and B 는 '둘 다'라는 뜻이라 준비 대상이 포스터와 부스 두 가지임을 짚어야 한다.",
+  "st": []
+ },
+ {
+  "id": "20584015|3.0",
+  "en": "The training culminated in two complementary outreach experiences.",
+  "s": "The training",
+  "v": "culminated",
+  "chunks": [
+   {"en": "The training culminated in", "ko": "그 교육은 ~로 마무리되었다", "r": "주어 + 동사"},
+   {"en": "two complementary outreach experiences.", "ko": "서로를 보완하는 두 번의 대중 참여 행사로", "r": "전치사의 목적어(무엇으로 끝났는가)"}
+  ],
+  "ko": "그 교육은 서로를 보완하는 두 번의 대중 참여 행사로 마무리되었다.",
+  "why": "culminate in ~ 은 '~로 절정에 이르다, ~로 마무리되다'라는 뜻이다. 교육이 두 행사를 '만들었다'가 아니라, 교육의 마지막이 그 두 행사였다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|3.1",
+  "en": "The first was the FORCE Open House, which welcomed approximately 50 members of the general public for an inside look at the laboratory.",
+  "s": "The first",
+  "v": "was",
+  "chunks": [
+   {"en": "The first was the FORCE Open House,", "ko": "첫 번째는 FORCE 공개 행사였다", "r": "주어 + 동사 + 보어"},
+   {"en": "which welcomed approximately 50 members of the general public", "ko": "그 행사는 일반 시민 약 50명을 맞이했다", "r": "관계절(앞 행사 설명)"},
+   {"en": "for an inside look at the laboratory.", "ko": "실험실 안을 직접 들여다볼 수 있도록", "r": "목적(무엇을 위해)"}
+  ],
+  "ko": "첫 번째는 FORCE 공개 행사(Open House)였다. 이 행사에는 일반 시민 약 50명이 찾아와 실험실 안을 직접 들여다보았다.",
+  "why": "The first 뒤에 명사가 없어서 무엇의 '첫 번째'인지는 앞 문장(두 행사)에서 받아 와야 한다. which 는 바로 앞의 the FORCE Open House 를 받고, 맞이한 쪽도 그 행사다.",
+  "st": []
+ },
+ {
+  "id": "20584015|3.2",
+  "en": "Visitors toured the facility, met the research team, explored the specialized equipment used to simulate the interiors of Earth and other planets, and interacted with interns at themed outreach stations designed to explain the science behind the experiments in accessible, engaging ways.",
+  "s": "Visitors",
+  "v": "toured",
+  "chunks": [
+   {"en": "Visitors toured the facility,", "ko": "방문객들은 그 시설을 둘러보았다", "r": "주어 + 동사1 + 목적어"},
+   {"en": "met the research team,", "ko": "연구팀을 만났다", "r": "동사2 + 목적어"},
+   {"en": "explored the specialized equipment", "ko": "특수 장비를 살펴보았다", "r": "동사3 + 목적어"},
+   {"en": "used to simulate the interiors of Earth and other planets,", "ko": "지구와 다른 행성의 내부를 재현하는 데 쓰이는", "r": "과거분사구(앞 equipment 설명)"},
+   {"en": "and interacted with interns", "ko": "그리고 인턴들과 이야기를 나누었다", "r": "동사4 + 상대"},
+   {"en": "at themed outreach stations", "ko": "주제별로 꾸민 홍보 부스에서", "r": "전치사구(장소)"},
+   {"en": "designed to explain the science behind the experiments", "ko": "실험 뒤에 숨은 과학을 설명하도록 꾸며진", "r": "과거분사구(앞 stations 설명)"},
+   {"en": "in accessible, engaging ways.", "ko": "알아듣기 쉽고 흥미로운 방식으로", "r": "부사구(설명하는 방식)"}
+  ],
+  "ko": "방문객들은 시설을 둘러보고, 연구팀을 만나고, 지구와 다른 행성의 내부를 재현하는 데 쓰이는 특수 장비를 살펴보았으며, 주제별로 꾸민 홍보 부스에서 인턴들과 이야기를 나누었다. 그 부스들은 실험 뒤에 숨은 과학을 알아듣기 쉽고 흥미로운 방식으로 설명하도록 꾸며진 것이었다.",
+  "why": "주어 Visitors 하나에 동사가 넷(toured, met, explored, interacted) 쉼표로 이어진다. 중간의 used to ~ 와 designed to ~ 는 새 동사가 아니라 각각 앞의 equipment 와 stations 를 꾸미는 말이다. 특히 used to 는 여기서 '예전에 ~하곤 했다'가 아니라 '~하는 데 쓰이는'이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|4.0",
+  "en": "At the second event, a poster session for ASU faculty, staff, and students, the interns presented their research, providing an opportunity to discuss their scientific findings with members of the university community and receive feedback on their presentations.",
+  "s": "the interns",
+  "v": "presented",
+  "chunks": [
+   {"en": "At the second event,", "ko": "두 번째 행사에서", "r": "전치사구(어디에서)"},
+   {"en": "a poster session for ASU faculty, staff, and students,", "ko": "곧 ASU의 교수·직원·학생을 위한 포스터 세션인데", "r": "동격(앞 행사가 무엇인지)"},
+   {"en": "the interns presented their research,", "ko": "인턴들이 자기 연구를 발표했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "providing an opportunity to discuss their scientific findings", "ko": "그래서 자기 연구 결과를 놓고 이야기할 기회가 생겼다", "r": "분사구문(그 결과)"},
+   {"en": "with members of the university community", "ko": "대학 구성원들과", "r": "전치사구(이야기 나눈 상대)"},
+   {"en": "and receive feedback on their presentations.", "ko": "그리고 발표에 대한 의견을 받을 (기회)", "r": "나열(기회의 둘째 내용)"}
+  ],
+  "ko": "두 번째 행사는 ASU의 교수·직원·학생을 위한 포스터 세션이었는데, 그 자리에서 인턴들은 자기 연구를 발표했다. 덕분에 인턴들은 대학 구성원들과 자기 연구 결과를 놓고 이야기하고 발표에 대한 의견도 받아 볼 기회를 얻었다.",
+  "why": "문장 앞에 쉼표로 끊긴 덩어리가 두 겹(At the second event, / a poster session ~ students,)이나 붙어 주어 the interns 가 한참 뒤에 나온다. 두 번째 덩어리는 앞의 the second event 가 무엇인지 바꿔 말한 곁말(동격)이지 또 다른 행사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "20584015|5.0",
+  "en": "By integrating science communication training into the Summer School experience, NASA SCoPE helped equip emerging planetary scientists with practical skills for engaging both scientific peers and public audiences.",
+  "s": "NASA SCoPE",
+  "v": "helped equip",
+  "chunks": [
+   {"en": "By integrating science communication training", "ko": "과학 소통 교육을 녹여 넣음으로써", "r": "방법(~함으로써)"},
+   {"en": "into the Summer School experience,", "ko": "여름학교 과정 안에", "r": "전치사구(어디에 넣었는가)"},
+   {"en": "NASA SCoPE helped equip emerging planetary scientists", "ko": "NASA SCoPE는 이제 막 시작하는 행성과학자들이 갖추도록 도왔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with practical skills", "ko": "실질적인 능력을", "r": "전치사구(무엇을 갖추게 했는가)"},
+   {"en": "for engaging both scientific peers and public audiences.", "ko": "동료 과학자와 일반 청중 양쪽을 상대하는 데 쓸", "r": "목적(무엇에 쓸 능력인가)"}
+  ],
+  "ko": "과학 소통 교육을 여름학교 과정 안에 녹여 넣음으로써, NASA SCoPE는 이제 막 시작하는 행성과학자들이 동료 과학자와 일반 청중 양쪽을 상대할 실질적인 능력을 갖추도록 도왔다.",
+  "why": "By -ing 는 '~함으로써'라는 방법을 나타내고, 그 동작을 한 쪽은 뒤에 나오는 주어(NASA SCoPE)다. equip A with B 는 'A에게 B를 갖추어 주다'라는 한 짝이라 with 를 '~와 함께'로 읽으면 대상이 흐려진다.",
+  "st": []
+ },
+ {
+  "id": "20584015|5.1",
+  "en": "The poster session and Open House demonstrated how thoughtful communication training can strengthen researchers’ confidence while building stronger connections between cutting-edge planetary science and the communities it serves.",
+  "s": "The poster session and Open House",
+  "v": "demonstrated",
+  "chunks": [
+   {"en": "The poster session and Open House demonstrated", "ko": "포스터 세션과 공개 행사는 ~을 보여 주었다", "r": "주어(둘) + 동사"},
+   {"en": "how thoughtful communication training can strengthen researchers’ confidence", "ko": "잘 짜인 소통 교육이 연구자들의 자신감을 어떻게 키워 줄 수 있는지를", "r": "목적어(무엇을 보여 주었나)"},
+   {"en": "while building stronger connections", "ko": "그러면서 동시에 더 단단한 연결을 만들어 내면서", "r": "분사구문(동시에 일어나는 일)"},
+   {"en": "between cutting-edge planetary science and the communities it serves.", "ko": "최첨단 행성과학과, 그 과학이 봉사하는 지역사회 사이에", "r": "전치사구(무엇과 무엇 사이인가)"}
+  ],
+  "ko": "포스터 세션과 공개 행사는, 잘 짜인 소통 교육이 연구자들의 자신감을 키워 주는 동시에 최첨단 행성과학과 그 과학이 봉사하는 지역사회 사이를 더 단단히 이어 줄 수 있음을 보여 주었다.",
+  "why": "demonstrated 의 목적어는 how 로 시작하는 덩어리 전체다('어떻게 ~하는지를 보여 주었다'). while building ~ 의 주체는 바로 앞의 communication training 이고, 맨 끝 it 은 planetary science 를 받는다.",
+  "st": []
+ },
+ {
+  "id": "20584015|5.2",
+  "en": "NASA SCoPE is supported by NASA cooperative agreement award number 80NSSC21M0006 and helps enrich and enhance the impact of the NASA Science Activation Program portfolio, which connects learners with authentic NASA science experiences through partnerships with educators and community organizations.",
+  "s": "NASA SCoPE",
+  "v": "is supported",
+  "chunks": [
+   {"en": "NASA SCoPE is supported by", "ko": "NASA SCoPE는 ~의 지원을 받는다", "r": "주어 + 동사(수동태)"},
+   {"en": "NASA cooperative agreement award number 80NSSC21M0006", "ko": "NASA 협력협약 지원금 번호 80NSSC21M0006", "r": "지원하는 쪽(by 뒤)"},
+   {"en": "and helps enrich and enhance the impact", "ko": "그리고 그 영향력을 풍성하게 하고 키우는 데 기여한다", "r": "대등절(같은 주어의 둘째 동사)"},
+   {"en": "of the NASA Science Activation Program portfolio,", "ko": "NASA 과학활성화 프로그램 묶음의", "r": "전치사구(무엇의 영향력인가)"},
+   {"en": "which connects learners with authentic NASA science experiences", "ko": "이 프로그램은 배우는 사람들을 진짜 NASA 과학 경험과 이어 준다", "r": "관계절(앞 프로그램 설명)"},
+   {"en": "through partnerships with educators and community organizations.", "ko": "교육자·지역 단체와 손을 잡는 방식으로", "r": "전치사구(방법)"}
+  ],
+  "ko": "NASA SCoPE는 NASA 협력협약 지원금(번호 80NSSC21M0006)의 지원을 받으며, NASA 과학활성화(Science Activation) 프로그램 묶음의 영향력을 더 풍성하게 하고 키우는 데 기여한다. 이 프로그램은 교육자와 지역 단체와 손을 잡아 배우는 사람들을 진짜 NASA 과학 경험과 이어 준다.",
+  "why": "주어 NASA SCoPE 하나에 동사가 둘(is supported / helps) 붙어 있어서 and 뒤를 새 문장으로 읽으면 주어를 잃는다. is supported by ~ 는 '~의 지원을 받는다'는 수동태이고, 맨 뒤 which 는 바로 앞의 프로그램 묶음을 받는다.",
+  "st": []
+ },
+ {
+  "id": "20584015|6.0",
+  "en": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky…",
+  "s": "Certain kinds of clouds",
+  "v": "are misbehaving",
+  "chunks": [
+   {"en": "Certain kinds of clouds are misbehaving", "ko": "어떤 종류의 구름들이 평소와 다르게 굴고 있다", "r": "주어 + 동사(현재진행)"},
+   {"en": "– appearing more often and lower in the sky…", "ko": "— 더 자주, 그리고 하늘의 더 낮은 곳에 나타나면서", "r": "분사구문(앞말을 풀어 설명)"}
+  ],
+  "ko": "어떤 종류의 구름들이 평소와 다르게 굴고 있다 — 더 자주, 그리고 하늘의 더 낮은 곳에 나타나고 있다…",
+  "why": "대시 뒤는 새로운 사실이 아니라 앞의 are misbehaving(평소와 다르게 굴다)이 무슨 뜻인지 풀어 주는 말이다. lower 는 more often 과 나란히 appearing 에 걸려 '더 낮은 곳에 나타난다'는 뜻이다. 문장이 …로 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "20584015|7.0",
+  "en": "CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation…",
+  "s": "CSDA’s assessment reports",
+  "v": "help",
+  "chunks": [
+   {"en": "CSDA’s assessment reports help inform the user community", "ko": "CSDA의 평가 보고서는 이용자 집단에게 알려 주는 데 도움이 된다", "r": "주어 + 동사 + 알려 주는 상대"},
+   {"en": "about the quality of commercial Digital Elevation…", "ko": "상업용 디지털 표고 자료의 품질에 대해", "r": "전치사구(무엇에 대해)"}
+  ],
+  "ko": "CSDA의 평가 보고서는 상업용 디지털 표고(Digital Elevation) 자료의 품질에 대해 이용자 집단이 알 수 있도록 돕는다…",
+  "why": "help 뒤에 to 없이 동사원형 inform 이 바로 온다('알려 주는 것을 돕다'). inform A about B 가 한 짝이라, 알려 주는 쪽은 보고서이고 알게 되는 쪽은 the user community 다. 문장이 …로 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "20584015|8.0",
+  "en": "Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide.",
+  "s": "Webb",
+  "v": "is",
+  "chunks": [
+   {"en": "Webb is the premier observatory", "ko": "웹(Webb) 망원경은 으뜸가는 관측 시설이다", "r": "주어 + 동사 + 보어"},
+   {"en": "of the next decade,", "ko": "앞으로 10년을 대표하는", "r": "전치사구(앞 명사 설명)"},
+   {"en": "serving thousands of astronomers worldwide.", "ko": "전 세계 수천 명의 천문학자에게 도움을 주면서", "r": "분사구문(딸린 설명)"}
+  ],
+  "ko": "웹(Webb) 망원경은 앞으로 10년을 대표하는 으뜸가는 관측 시설로, 전 세계 수천 명의 천문학자에게 도움을 준다.",
+  "why": "동사는 is 하나뿐이고 맨 뒤 serving 은 새 동사가 아니라 앞 내용에 딸린 설명(분사구문)이다. premier 는 '최초의'가 아니라 '으뜸가는'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "20584015|8.1",
+  "en": "It studies every phase in the…",
+  "s": "It",
+  "v": "studies",
+  "chunks": [
+   {"en": "It studies every phase", "ko": "그것은 모든 단계를 연구한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in the…", "ko": "~안의", "r": "전치사구(문장이 잘림)"}
+  ],
+  "ko": "그것(웹 망원경)은 ~의 모든 단계를 연구한다…",
+  "why": "It 은 앞 문장의 Webb 을 받는다. 문장이 …로 잘려 있어 in the 뒤가 무엇인지는 이 토막만으로는 알 수 없으니, 억지로 지어내지 말고 It 이 무엇인지만 정확히 잡으면 된다.",
+  "st": []
+ },
+ {
+  "id": "20584015|9.0",
+  "en": "This rover and its aerial sidekick were assigned to study the geology of Mars and seek signs of ancient microbial…",
+  "s": "This rover and its aerial sidekick",
+  "v": "were assigned",
+  "chunks": [
+   {"en": "This rover and its aerial sidekick", "ko": "이 로버와 그 공중 짝꿍은", "r": "주어(둘)"},
+   {"en": "were assigned to study the geology of Mars", "ko": "화성의 지질을 연구하라는 임무를 받았다", "r": "동사(수동태) + 임무 1"},
+   {"en": "and seek signs of ancient microbial…", "ko": "그리고 고대 미생물의 흔적을 찾으라는 (임무를)", "r": "나열(임무 2, 문장이 잘림)"}
+  ],
+  "ko": "이 로버와 그 공중 짝꿍(로버에 딸린 비행체)은 화성의 지질을 연구하고 고대 미생물의 흔적을 찾는 임무를 받았다…",
+  "why": "were assigned 는 수동태라 '임무를 맡겼다'가 아니라 '임무를 받았다'이고, 맡긴 쪽은 문장에 나오지 않는다. and seek ~ 은 앞의 to study 와 나란히 이어지는 둘째 임무다.",
+  "st": []
+ },
+ {
+  "id": "20584015|10.0",
+  "en": "On a mission to “touch the Sun,” NASA’s Parker Solar Probe became the first spacecraft to fly through the corona…",
+  "s": "NASA’s Parker Solar Probe",
+  "v": "became",
+  "chunks": [
+   {"en": "On a mission to “touch the Sun,”", "ko": "“태양을 만진다”는 임무를 띠고", "r": "전치사구(어떤 임무 중에)"},
+   {"en": "NASA’s Parker Solar Probe became", "ko": "NASA의 파커 솔라 프로브는 ~이 되었다", "r": "주어 + 동사"},
+   {"en": "the first spacecraft to fly through the corona…", "ko": "코로나를 뚫고 지나간 최초의 우주선이", "r": "보어(무엇이 되었는가, 문장이 잘림)"}
+  ],
+  "ko": "“태양을 만진다”는 임무를 띠고, NASA의 파커 솔라 프로브(Parker Solar Probe)는 태양의 코로나 속을 뚫고 지나간 최초의 우주선이 되었다…",
+  "why": "문장이 전치사구(On a mission ~)로 시작해서 주어가 쉼표 뒤로 밀려 있다. the first spacecraft to fly ~ 의 to fly 는 '~하기 위해'라는 목적이 아니라 '~한 첫 번째'라는 뜻으로 앞의 spacecraft 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "20584015|11.0",
+  "en": "NASA’s Juno spacecraft entered orbit around Jupiter in 2016, the first explorer to peer below the planet’s dense clouds to…",
+  "s": "NASA’s Juno spacecraft",
+  "v": "entered",
+  "chunks": [
+   {"en": "NASA’s Juno spacecraft entered orbit", "ko": "NASA의 주노 탐사선은 궤도에 들어섰다", "r": "주어 + 동사 + 목적어"},
+   {"en": "around Jupiter in 2016,", "ko": "2016년에 목성 둘레의", "r": "전치사구(어디 + 언제)"},
+   {"en": "the first explorer to peer below", "ko": "곧 ~아래를 들여다본 최초의 탐사선인데", "r": "동격(앞 탐사선을 다시 말함)"},
+   {"en": "the planet’s dense clouds to…", "ko": "그 행성의 짙은 구름 아래를", "r": "목적어(들여다본 대상, 문장이 잘림)"}
+  ],
+  "ko": "NASA의 주노(Juno) 탐사선은 2016년에 목성 둘레의 궤도에 들어섰다. 그 행성의 짙은 구름 아래를 들여다본 최초의 탐사선이다…",
+  "why": "쉼표 뒤의 the first explorer ~ 는 새 문장이 아니라 앞의 Juno 를 다시 말해 주는 곁말(동격)이다. the planet 은 앞에 나온 Jupiter 를 가리킨다. 문장이 …로 잘려 있다.",
+  "st": []
+ }
+]

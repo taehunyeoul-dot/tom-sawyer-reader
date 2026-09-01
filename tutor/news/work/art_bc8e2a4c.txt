@@ -1,0 +1,67 @@
+NASA Mission Studies Air Pollution Over Ethiopia
+NASA · 2026-08-17
+https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/
+
+[0.0] A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa.
+[0.1] The detailed measurements show how pollution changes by time of day and season, including increases associated with rush-hour traffic and holiday celebrations.
+[0.2] The findings are relevant to cities around the world, including in the United States.
+
+[1.0] In a new paper published in ES&T: Air , scientists analyzed data collected throughout Addis Ababa between 2022 and 2025 from 10 air-quality monitoring sites deployed by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) project.
+
+[2.0] The research comes as Ethiopia is taking steps aimed at improving air quality.
+[2.1] In 2024, the country became the first in the world to ban the import of internal combustion engine vehicles, while cities have been adding bike lanes and electric vehicle infrastructure.
+[2.2] The MAIA project’s measurements provide researchers with a baseline for understanding how air quality changes over time as Addis Ababa continues to grow and evolve.
+
+[3.0] The study focuses on particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5.
+[3.1] The 2025 State of Global Air Report, cited in the paper, estimates that exposure to PM2.5 is associated with approximately 4.9 million deaths globally each year.
+[3.2] Among the many kinds of PM2.5, black carbon has been has been studied for its potential effects on human health.
+
+[4.0] The paper found that Addis Ababa’s three-year average PM2.5 concentration was 30 micrograms per cubic meter, which is more than three times the level of the U.S.
+[4.1] Environmental Protection Agency’s health-based annual PM2.5 standard .
+[4.2] The new paper cites data from MAIA’s ground sensors indicating that average black carbon levels in Addis Ababa were approximately four to nine times higher than those measured in the three U.S. metropolitan areas the mission is monitoring.
+
+[5.0] “To our knowledge, this is the first long-term, multisite study of continuous PM2.5 and black carbon measurements in Ethiopia,” said Sina Hasheminassab, a coauthor of the paper and MAIA’s deputy principal investigator at NASA’s Jet Propulsion Laboratory in Southern California.
+[5.1] “Many rapidly growing cities have limited long-term monitoring, so these measurements provide an important baseline for understanding how pollution changes across space and time.”
+
+[6.0] The composition and sources of PM2.5 can differ substantially between cities, depending on their local geography, traffic, industries, and more.
+[6.1] Desert cities, for example, may have more dust, while those near coal-fired power plants may have higher concentrations of sulfate.
+[6.2] Long-term surface measurements remain limited in many parts of the world.
+
+[7.0] NASA is supporting MAIA’s air pollution research in a dozen metropolitan areas around the globe, including three in the U.S.: Los Angeles, Atlanta, and Boston.
+[7.1] The mission consists of a ground-based network of sensors already in operation as well as a space observatory, which uses a JPL-built camera that will be launched by the Italian Space Agency (ASI) on an ASI satellite no earlier than late 2027.
+
+[8.0] The camera is designed to identify different types of PM2.5 aerosols based on how they reflect light, making it possible to map particle concentrations over each city that the mission studies.
+[8.1] Mounted on a gimbal, the camera captures data from multiple angles using JPL-pioneered technologies that make particles stand out more prominently against the surface background to provide valuable information about their shape and size.
+
+[9.0] The MAIA mission is the first NASA project to include public health researchers among a space mission’s team.
+[9.1] These researchers will use MAIA’s PM2.5 concentration maps alongside health data to study potential relationships between different particle types and health outcomes.
+[9.2] By developing a better understanding of particulate matter pollution, researchers can potentially advance how air quality is studied and managed.
+
+[10.0] “This paper shows how valuable the air sensor data is on its own, but combining the sensor network and satellite observations will be a game-changer,” said, Kyan Shlipak, the paper’s lead author, who worked on the research while interning at JPL.
+
+[11.0] The greater Addis Ababa urban area is home to nearly 6 million people, and according to United Nations projections, that figure is expected to surpass 10 million by 2050.
+
+[12.0] “It’s a cosmopolitan city with many international communities,” said Araya Asfaw of Addis Ababa University, a coauthor of the paper and the MAIA project’s lead Ethiopian collaborator.
+[12.1] “Think of it as Africa’s version of Brussels, where the European Union is based.”
+
+[13.0] “Even at night, when traffic dies down, you see high emissions from the burning of charcoal and other fuels,” Asfaw said.
+
+[14.0] The MAIA sensor network detected increases in black carbon during two major holidays in Addis Ababa that involve bonfires and was able to distinguish between particles originating from the fires and those from fossil fuel combustion.
+[14.1] The findings demonstrate how detailed measurements can help researchers identify different sources of particulate matter and better understand how air quality varies across a city and over time.
+
+[15.0] FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions…
+
+[16.0] Article 5 hours ago 6 min read Chasing Fire Clouds in Utah NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most…
+
+[17.0] Article 18 hours ago 2 min read Volunteer Develops Machine-Learning Tool to Identify Rare Clouds Certain kinds of clouds are misbehaving – appearing more often and lower in the sky…
+
+[18.0] Article 3 days ago Keep Exploring Discover Related Topics Explore Earth Science From its origins, NASA has studied our planet in novel ways, using a fleet of satellites and ambitious airborne and ground-based…
+
+[19.0] MAIA (Multi-Angle Imager for Aerosols) will study the size, makeup, and quantity of airborne particles, to show how this pollution…
+
+[20.0] Open access to NASA’s archive of Earth science data
+
+[21.0] In order to study the Earth as a whole system and understand how it is changing, NASA develops and supports…
+
+[22.0] NASA Opens Registration for 2015 Exploration Rover Challenge
+

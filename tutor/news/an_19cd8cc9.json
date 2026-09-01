@@ -1,0 +1,833 @@
+[
+ {
+  "id": "19cd8cc9|0.0",
+  "en": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.",
+  "s": "NASA",
+  "v": "named",
+  "chunks": [
+   {
+    "en": "NASA named a team",
+    "ko": "NASA가 한 팀을 선정했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "from the Massachusetts Institute of Technology (MIT)",
+    "ko": "매사추세츠 공과대학(MIT) 소속의",
+    "r": "전치사구(앞 team 설명)"
+   },
+   {
+    "en": "as the first prize winner",
+    "ko": "1등 수상팀으로",
+    "r": "as구(자격: ~로서)"
+   },
+   {
+    "en": "for Phase 2 of the agency’s LunaRecycle Challenge,",
+    "ko": "이 기관(NASA)의 LunaRecycle Challenge 2단계에서",
+    "r": "전치사구(어느 대회의 상인가)"
+   },
+   {
+    "en": "which focused on developing solutions",
+    "ko": "그 대회는 해결책 개발에 초점을 두었다",
+    "r": "관계절(앞 대회 설명)"
+   },
+   {
+    "en": "for reducing waste during missions",
+    "ko": "임무 중에 나오는 쓰레기를 줄이기 위한",
+    "r": "목적(해결책의 용도)"
+   },
+   {
+    "en": "to the Moon or deep space",
+    "ko": "달이나 심우주로 가는",
+    "r": "전치사구(앞 missions 설명)"
+   },
+   {
+    "en": "by recycling common materials,",
+    "ko": "흔한 재료를 재활용해서",
+    "r": "방법(~함으로써)"
+   },
+   {
+    "en": "like fabrics, plastics, foam, and metals.",
+    "ko": "천, 플라스틱, 폼, 금속 같은",
+    "r": "예시(앞 재료의 예)"
+   }
+  ],
+  "ko": "NASA가 매사추세츠 공과대학(MIT)의 한 팀을 이 기관의 LunaRecycle Challenge 2단계(Phase 2) 1등 수상팀으로 선정했다. 이 대회는 천, 플라스틱, 폼, 금속처럼 흔한 재료를 재활용해 달이나 심우주로 가는 임무에서 나오는 쓰레기를 줄이는 해결책을 개발하는 데 초점을 둔 대회다.",
+  "why": "동사는 named 하나뿐인데 목적어(a team)와 as ~ 사이가 멀다. name A as B 는 'A를 B로 지명하다'라는 뜻이다. 쉼표 뒤 which 이하는 새 문장이 아니라 바로 앞의 LunaRecycle Challenge 를 설명하는 말(관계절)이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|1.0",
+  "en": "The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.",
+  "s": "The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team",
+  "v": "received",
+  "chunks": [
+   {
+    "en": "The Composites for Extraterrestrial Recycling By Engineering",
+    "ko": "'공학으로 이뤄 내는 우주 재활용용 복합재 —' (팀 이름 앞부분)",
+    "r": "주어(긴 팀 이름 ①)"
+   },
+   {
+    "en": "the Reuse and Upcycling of Zotek (CERBERUZ) team,",
+    "ko": "'Zotek 소재의 재사용과 업사이클링' 팀, 줄여서 CERBERUZ 팀은",
+    "r": "주어(긴 팀 이름 ② + 약칭)"
+   },
+   {
+    "en": "comprised of undergraduate, graduate, and doctoral students at MIT,",
+    "ko": "MIT의 학부생·석사과정생·박사과정생으로 이루어진",
+    "r": "과거분사구(앞 팀 설명)"
+   },
+   {
+    "en": "received a total of $775,000 in awards.",
+    "ko": "상금으로 모두 77만 5천 달러를 받았다",
+    "r": "동사 + 목적어"
+   }
+  ],
+  "ko": "MIT의 학부생, 석사과정생, 박사과정생으로 이루어진 CERBERUZ 팀(정식 이름은 Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek)이 상금으로 모두 77만 5천 달러를 받았다.",
+  "why": "주어가 팀의 긴 정식 이름이라 어디까지가 주어인지 잡기 어렵다. team, 까지가 주어이고, 쉼표로 둘러싸인 comprised of ~ 는 그 팀을 설명하는 말(과거분사)이지 동사가 아니다. 진짜 동사는 맨 뒤의 received 다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|2.0",
+  "en": "The technology grinds mixed trash into a fine powder, repurposing materials such as Zotek foam as reinforcement rather than treating it as contamination that needs to be sorted out.",
+  "s": "The technology",
+  "v": "grinds",
+  "chunks": [
+   {
+    "en": "The technology grinds mixed trash",
+    "ko": "이 기술은 뒤섞인 쓰레기를 갈아",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "into a fine powder,",
+    "ko": "고운 가루로 만든다",
+    "r": "전치사구(결과)"
+   },
+   {
+    "en": "repurposing materials such as Zotek foam as reinforcement",
+    "ko": "Zotek 폼 같은 재료를 보강재로 용도를 바꿔 쓰면서",
+    "r": "분사구문(그러면서 ~한다)"
+   },
+   {
+    "en": "rather than treating it as contamination",
+    "ko": "그것을 오염물로 취급하는 대신",
+    "r": "비교(~하는 대신 — 하지 않는 쪽)"
+   },
+   {
+    "en": "that needs to be sorted out.",
+    "ko": "골라내야 하는",
+    "r": "관계절(앞 contamination 설명)"
+   }
+  ],
+  "ko": "이 기술은 뒤섞인 쓰레기를 갈아 고운 가루로 만든다. Zotek(조텍) 폼 같은 재료를 골라내야 할 오염물로 취급하는 대신, 강도를 높여 주는 보강재로 용도를 바꿔 쓰는 것이다.",
+  "why": "동사는 grinds 하나다. repurposing 은 '~하면서'라는 분사구문이고, rather than treating ~ 은 '~하는 대신'이라 실제로 하는 일은 repurposing 쪽, 하지 않는 일은 treating 쪽이다. 어느 쪽이 실제인지 뒤집히기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|2.1",
+  "en": "The powder becomes feed for use as injection-mold finished parts or 3D-printing filament.",
+  "s": "The powder",
+  "v": "becomes",
+  "chunks": [
+   {
+    "en": "The powder becomes feed",
+    "ko": "이 가루는 원료(feed)가 된다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "for use as injection-mold finished parts",
+    "ko": "사출 성형으로 만든 완성 부품으로 쓰이는",
+    "r": "목적(원료의 용도 ①)"
+   },
+   {
+    "en": "or 3D-printing filament.",
+    "ko": "또는 3D 프린팅용 필라멘트로",
+    "r": "용도 나열 ②"
+   }
+  ],
+  "ko": "이 가루는 사출 성형(틀에 부어 찍어 내는 방식)으로 만든 완성 부품이나 3D 프린팅용 필라멘트(가는 실 모양 재료)로 쓰이는 원료가 된다.",
+  "why": "feed 는 '먹이'가 아니라 기계에 넣는 '원료'다. becomes 의 보어는 feed 이고, for use as ~ 는 그 원료의 쓰임새를 밝히는 말이라 가루가 곧바로 부품이 되는 것은 아니다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|2.2",
+  "en": "The MIT team won in both the competition’s prototype development track and in the track focused on developing virtual models, known as “digital twins,” of recycling systems.",
+  "s": "The MIT team",
+  "v": "won",
+  "chunks": [
+   {
+    "en": "The MIT team won",
+    "ko": "MIT 팀은 우승했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "in both the competition’s prototype development track",
+    "ko": "그 대회의 시제품 개발 부문과",
+    "r": "전치사구(우승 부문 ①)"
+   },
+   {
+    "en": "and in the track focused on developing virtual models,",
+    "ko": "가상 모형 개발에 초점을 둔 부문, 두 곳 모두에서",
+    "r": "전치사구(우승 부문 ②)"
+   },
+   {
+    "en": "known as “digital twins,”",
+    "ko": "'디지털 트윈'이라 불리는",
+    "r": "과거분사구(앞 virtual models 설명)"
+   },
+   {
+    "en": "of recycling systems.",
+    "ko": "재활용 시스템의",
+    "r": "전치사구(무엇의 모형인가)"
+   }
+  ],
+  "ko": "MIT 팀은 이 대회의 시제품(프로토타입) 개발 부문과, 재활용 시스템의 가상 모형 — 이른바 '디지털 트윈' — 을 만드는 부문 두 곳 모두에서 우승했다.",
+  "why": "both A and B 가 두 개의 전치사구(in ~ and in ~)를 묶고 있어 우승 부문이 하나가 아니라 둘이다. 맨 끝 of recycling systems 는 바로 앞의 digital twins 가 아니라 virtual models 에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|3.0",
+  "en": "“The LunaRecycle Challenge finale is the culmination of two years of innovation spurred by this competition,” said Jennifer Edmunson, program manager for Centennial Challenges at NASA’s Marshall Space Flight Center in Huntsville, Alabama.",
+  "s": "Jennifer Edmunson",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“The LunaRecycle Challenge finale",
+    "ko": "'LunaRecycle Challenge 의 최종 무대는",
+    "r": "인용문 주어"
+   },
+   {
+    "en": "is the culmination of two years of innovation",
+    "ko": "2년에 걸친 혁신이 하나로 모인 결실이다",
+    "r": "인용문 동사 + 보어"
+   },
+   {
+    "en": "spurred by this competition,”",
+    "ko": "이 대회가 자극해서 나온",
+    "r": "과거분사구(앞 innovation 설명)"
+   },
+   {
+    "en": "said Jennifer Edmunson,",
+    "ko": "라고 Jennifer Edmunson 이 말했다",
+    "r": "주절 동사 + 주어(도치)"
+   },
+   {
+    "en": "program manager for Centennial Challenges",
+    "ko": "Centennial Challenges 의 프로그램 매니저인",
+    "r": "동격(앞 사람의 직함)"
+   },
+   {
+    "en": "at NASA’s Marshall Space Flight Center",
+    "ko": "NASA 마셜 우주비행센터에 있는",
+    "r": "전치사구(일하는 기관)"
+   },
+   {
+    "en": "in Huntsville, Alabama.",
+    "ko": "앨라배마주 헌츠빌에 있는",
+    "r": "전치사구(그 센터의 소재지)"
+   }
+  ],
+  "ko": "“LunaRecycle Challenge의 최종 무대는 이 대회가 자극해 온 2년간의 혁신이 하나로 모인 결실입니다.” 앨라배마주 헌츠빌에 있는 NASA 마셜 우주비행센터에서 Centennial Challenges 프로그램을 맡고 있는 Jennifer Edmunson 매니저의 말이다.",
+  "why": "따옴표가 끝난 뒤 said Jennifer Edmunson 처럼 동사가 주어보다 먼저 나오는 도치가 일어난다. 뒤에 이어지는 program manager ~ 는 그 사람의 직함을 밝히는 말(동격)이지 또 다른 사람이 아니다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|3.1",
+  "en": "“It’s incredible to see these technologies go from concept to prototype and digital twin demonstrations in that time.",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {
+    "en": "“It’s incredible to see",
+    "ko": "'~을 보는 일은 놀랍습니다",
+    "r": "가주어 It + 동사 + 보어 + 진주어 시작"
+   },
+   {
+    "en": "these technologies go",
+    "ko": "이 기술들이 나아가는 것을",
+    "r": "목적어 + 원형부정사(see A go)"
+   },
+   {
+    "en": "from concept to prototype and digital twin demonstrations",
+    "ko": "구상 단계에서 시제품과 디지털 트윈 시연까지",
+    "r": "범위(from A to B)"
+   },
+   {
+    "en": "in that time.",
+    "ko": "그 사이(2년)에",
+    "r": "시간"
+   }
+  ],
+  "ko": "“이 기술들이 그 사이에 구상 단계에서 시제품과 디지털 트윈 시연까지 나아가는 것을 보는 일은 정말 놀랍습니다.",
+  "why": "It 은 가리키는 대상이 따로 없는 가주어이고, 진짜 주어는 뒤의 to see ~ 다. see A go 처럼 보는 동사 뒤에는 to 없는 원형(go)이 온다. in that time 의 that time 은 앞 문장의 '2년'을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|3.2",
+  "en": "Driving rapid and creative innovation is what NASA challenges are all about.”",
+  "s": "Driving rapid and creative innovation",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "Driving rapid and creative innovation is",
+    "ko": "빠르고 창의적인 혁신을 이끌어 내는 것, 그것이 바로",
+    "r": "주어(동명사구) + 동사"
+   },
+   {
+    "en": "what NASA challenges are all about.”",
+    "ko": "NASA 챌린지(공모전)가 지향하는 핵심입니다'",
+    "r": "보어(관계사절: be all about ~)"
+   }
+  ],
+  "ko": "빠르고 창의적인 혁신을 이끌어 내는 것, 그것이 바로 NASA 챌린지(NASA가 여는 공모전)가 지향하는 핵심입니다.”",
+  "why": "Driving 은 '운전하다'가 아니라 '이끌어 내다'이고, 여기서는 동명사(~하는 것)로 문장의 주어다. be all about ~ 은 '~이 전부다, ~을 핵심으로 한다'는 관용 표현이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|4.0",
+  "en": "LunaRecycle is a $3 million, two-phase competition in partnership with The University of Alabama Lee J.",
+  "s": "LunaRecycle",
+  "v": "is",
+  "chunks": [
+   {
+    "en": "LunaRecycle is a $3 million, two-phase competition",
+    "ko": "LunaRecycle 은 300만 달러 규모의 2단계 대회다",
+    "r": "주어 + 동사 + 보어"
+   },
+   {
+    "en": "in partnership with The University of Alabama Lee J.",
+    "ko": "앨라배마 대학교 Lee J. …와 손잡고 (기관 이름이 다음 문장으로 이어짐)",
+    "r": "전치사구(협력 상대)"
+   }
+  ],
+  "ko": "LunaRecycle 은 300만 달러 규모의 2단계 대회로, 앨라배마 대학교(The University of Alabama)의 Lee J. Styslinger Jr. 공과대학(이름이 다음 문장으로 이어진다)과 손잡고 진행한다.",
+  "why": "문장이 기관 이름 한가운데(Lee J.)에서 끊겨 있다. 'J.' 의 마침표를 문장 끝으로 본 것이라 다음 문장(Styslinger Jr. College of Engineering)과 이어 읽어야 뜻이 완성된다. a $3 million, two-phase competition 은 쉼표가 있어도 두 설명이 competition 하나를 꾸미는 말이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|4.1",
+  "en": "Styslinger Jr. College of Engineering.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {
+    "en": "Styslinger Jr. College of Engineering.",
+    "ko": "(앞 문장에서 이어짐) Styslinger Jr. 공과대학",
+    "r": "앞 문장 기관 이름의 뒷부분"
+   }
+  ],
+  "ko": "(앞 문장에서 이어지는 기관 이름) Styslinger Jr. 공과대학.",
+  "why": "문장이 아니라 앞 문장에서 잘려 나온 기관 이름의 뒷부분이라 주어도 동사도 없다. 앞 문장 끝의 The University of Alabama Lee J. 와 붙여 '앨라배마 대학교 Lee J. Styslinger Jr. 공과대학'으로 읽으면 된다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|4.2",
+  "en": "Phase 2 of the competition required U.S. teams to submit a prototype, with an optional digital twin serving as a virtual model of it.",
+  "s": "Phase 2 of the competition",
+  "v": "required",
+  "chunks": [
+   {
+    "en": "Phase 2 of the competition required U.S. teams",
+    "ko": "대회 2단계는 미국 팀들에게 요구했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to submit a prototype,",
+    "ko": "시제품을 제출하도록",
+    "r": "목적보어(무엇을 하도록)"
+   },
+   {
+    "en": "with an optional digital twin",
+    "ko": "선택 사항인 디지털 트윈을 곁들여서",
+    "r": "부대상황(with + 명사)"
+   },
+   {
+    "en": "serving as a virtual model of it.",
+    "ko": "그 시제품의 가상 모형 역할을 하는",
+    "r": "분사구(앞 digital twin 설명)"
+   }
+  ],
+  "ko": "대회 2단계에서는 미국 팀들이 시제품을 반드시 제출해야 했고, 그 시제품의 가상 모형 역할을 하는 디지털 트윈은 원하면 함께 낼 수 있었다(선택 사항).",
+  "why": "require A to B 는 'A에게 B하도록 요구하다'라서 제출하는 쪽은 미국 팀들이다. optional(선택)이 붙은 것은 디지털 트윈뿐이고 시제품은 의무다. 맨 끝 of it 의 it 은 그 시제품을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|5.0",
+  "en": "For Phase 2, 14 finalist teams from across the United States gathered at The University of Alabama’s Lee J.",
+  "s": "14 finalist teams from across the United States",
+  "v": "gathered",
+  "chunks": [
+   {
+    "en": "For Phase 2,",
+    "ko": "2단계에서는",
+    "r": "전치사구(어느 단계 이야기인가)"
+   },
+   {
+    "en": "14 finalist teams from across the United States",
+    "ko": "미국 전역에서 온 결선 진출 14개 팀이",
+    "r": "주어"
+   },
+   {
+    "en": "gathered at The University of Alabama’s Lee J.",
+    "ko": "앨라배마 대학교의 Lee J. …에 모였다 (이름이 다음 문장으로 이어짐)",
+    "r": "동사 + 장소"
+   }
+  ],
+  "ko": "2단계에서는 미국 전역에서 온 결선 진출 팀 14곳이 앨라배마 대학교의 Lee J. Styslinger Jr. 공과대학(이름이 다음 문장으로 이어진다)에 모였다.",
+  "why": "For Phase 2 는 '2단계를 위해'가 아니라 '2단계에서는'이라고 화제를 여는 말이다. from across the United States 는 앞의 팀들을 꾸미는 말이지 모인 장소가 아니다. 이 문장도 기관 이름 한가운데(Lee J.)에서 끊겨 다음 문장과 이어 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|5.1",
+  "en": "Styslinger Jr. College of Engineering, in Tuscaloosa, from Aug. 24 to Aug. 28 to demonstrate their technology prototypes.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {
+    "en": "Styslinger Jr. College of Engineering, in Tuscaloosa,",
+    "ko": "(앞 문장에서 이어짐) 터스컬루사에 있는 Styslinger Jr. 공과대학에",
+    "r": "앞 문장 장소 이름의 뒷부분 + 소재지"
+   },
+   {
+    "en": "from Aug. 24 to Aug. 28",
+    "ko": "8월 24일부터 28일까지",
+    "r": "시간(기간)"
+   },
+   {
+    "en": "to demonstrate their technology prototypes.",
+    "ko": "각자의 기술 시제품을 선보이기 위해",
+    "r": "목적(~하기 위해)"
+   }
+  ],
+  "ko": "(앞 문장에서 이어짐) 터스컬루사에 있는 Styslinger Jr. 공과대학에, 8월 24일부터 28일까지, 각자의 기술 시제품을 선보이려고 모인 것이다.",
+  "why": "앞 문장에서 잘려 나온 뒷부분이라 주어도 동사도 없다. 앞 문장의 gathered 에 걸리는 장소·기간·목적이 줄줄이 붙어 있고, their 는 앞 문장의 14개 팀을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|5.2",
+  "en": "The digital twin models submitted by some teams were also presented alongside their respective prototypes.",
+  "s": "The digital twin models",
+  "v": "were also presented",
+  "chunks": [
+   {
+    "en": "The digital twin models",
+    "ko": "디지털 트윈 모형들은",
+    "r": "주어"
+   },
+   {
+    "en": "submitted by some teams",
+    "ko": "일부 팀이 제출한",
+    "r": "과거분사구(앞 명사 설명)"
+   },
+   {
+    "en": "were also presented",
+    "ko": "함께 공개되기도 했다",
+    "r": "동사(수동태)"
+   },
+   {
+    "en": "alongside their respective prototypes.",
+    "ko": "각 팀의 시제품과 나란히",
+    "r": "전치사구(함께 놓인 것)"
+   }
+  ],
+  "ko": "일부 팀이 제출한 디지털 트윈 모형도 각 팀의 시제품과 나란히 함께 공개되었다.",
+  "why": "submitted 는 문장의 동사가 아니라 앞의 모형을 꾸미는 말(과거분사)이다. 진짜 동사는 were also presented 이고 수동태라 '보여 주었다'가 아니라 '보여졌다'이다. 동사처럼 보이는 자리가 둘이라 헷갈리기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|6.0",
+  "en": "The competitors’ backgrounds ranged from university students and faculty to entrepreneurs and space technology enthusiasts.",
+  "s": "The competitors’ backgrounds",
+  "v": "ranged",
+  "chunks": [
+   {
+    "en": "The competitors’ backgrounds ranged",
+    "ko": "참가자들의 배경은 ~에 걸쳐 있었다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "from university students and faculty",
+    "ko": "대학생과 교수진에서부터",
+    "r": "범위 시작(from A)"
+   },
+   {
+    "en": "to entrepreneurs and space technology enthusiasts.",
+    "ko": "창업가와 우주 기술 애호가까지",
+    "r": "범위 끝(to B)"
+   }
+  ],
+  "ko": "참가자들의 배경은 대학생과 교수진에서부터 창업가와 우주 기술 애호가에 이르기까지 다양했다.",
+  "why": "range from A to B 는 '옮겨 가다'가 아니라 'A부터 B까지 걸쳐 있다', 곧 그만큼 다양하다는 뜻이다. faculty 는 '학부'가 아니라 '교수진'이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|6.1",
+  "en": "Teams were encouraged to envision solutions that not only addressed recycling in deep space, but that also could have applications on Earth.",
+  "s": "Teams",
+  "v": "were encouraged",
+  "chunks": [
+   {
+    "en": "Teams were encouraged to envision solutions",
+    "ko": "팀들은 해결책을 구상하도록 권장받았다",
+    "r": "주어 + 동사(수동태) + 목적"
+   },
+   {
+    "en": "that not only addressed recycling in deep space,",
+    "ko": "심우주에서의 재활용 문제를 다룰 뿐 아니라",
+    "r": "관계절 ①(앞 solutions 설명)"
+   },
+   {
+    "en": "but that also could have applications on Earth.",
+    "ko": "지구에서도 활용될 수 있는",
+    "r": "관계절 ②(앞 solutions 설명)"
+   }
+  ],
+  "ko": "팀들은 심우주에서의 재활용 문제를 해결할 뿐 아니라 지구에서도 활용될 수 있는 해결책을 구상하도록 권장받았다.",
+  "why": "were encouraged 는 수동태라 권장한 쪽(대회 주최 측)이 문장에 나오지 않는다. not only A but also B 가 두 개의 that 절을 묶고 있고 둘 다 앞의 solutions 를 설명한다. applications 는 '신청서'가 아니라 '활용처'다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|8.0",
+  "en": "“This competition highlights how collaborations can lead to incredible solutions,” said Chris Frangione, who manages the LunaRecycle Challenge in support of NASA Centennial Challenges contracted through Amentum Space Exploration Division.",
+  "s": "Chris Frangione",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“This competition highlights",
+    "ko": "'이 대회는 잘 보여 준다",
+    "r": "인용문 주어 + 동사"
+   },
+   {
+    "en": "how collaborations can lead to incredible solutions,”",
+    "ko": "협업이 어떻게 놀라운 해결책으로 이어질 수 있는지를",
+    "r": "목적어(how 절)"
+   },
+   {
+    "en": "said Chris Frangione,",
+    "ko": "라고 Chris Frangione 이 말했다",
+    "r": "주절 동사 + 주어(도치)"
+   },
+   {
+    "en": "who manages the LunaRecycle Challenge",
+    "ko": "그는 LunaRecycle Challenge 운영을 맡고 있다",
+    "r": "관계절(앞 사람 설명)"
+   },
+   {
+    "en": "in support of NASA Centennial Challenges",
+    "ko": "NASA Centennial Challenges 를 지원하는 일로",
+    "r": "전치사구(어떤 자격으로)"
+   },
+   {
+    "en": "contracted through Amentum Space Exploration Division.",
+    "ko": "Amentum 우주탐사 부문을 통해 계약된",
+    "r": "과거분사구(그 업무의 계약 관계)"
+   }
+  ],
+  "ko": "“이 대회는 협업이 어떻게 놀라운 해결책으로 이어질 수 있는지를 잘 보여 줍니다.” Amentum Space Exploration Division 을 통해 계약을 맺고 NASA Centennial Challenges 를 지원하면서 LunaRecycle Challenge 운영을 맡고 있는 Chris Frangione 의 말이다.",
+  "why": "따옴표 뒤에서 said 가 주어보다 먼저 나오는 도치가 일어난다. who 이하는 Chris Frangione 이 어떤 사람인지 설명하는 말이고, 맨 끝 contracted through ~ 는 또 다른 동사가 아니라 그 업무가 어떤 계약으로 이루어지는지 밝히는 과거분사다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|8.1",
+  "en": "“Between the solver teams, The University of Alabama, and NASA, this finale showcases what can be achieved when we bring together resources and great ideas towards a common goal.”",
+  "s": "this finale",
+  "v": "showcases",
+  "chunks": [
+   {
+    "en": "“Between the solver teams, The University of Alabama, and NASA,",
+    "ko": "'참가 팀들과 앨라배마 대학교, 그리고 NASA 사이에서",
+    "r": "전치사구(배경: 누구와 누구 사이인가)"
+   },
+   {
+    "en": "this finale showcases",
+    "ko": "이번 최종 무대는 보여 준다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "what can be achieved",
+    "ko": "무엇이 이루어질 수 있는지를",
+    "r": "목적어(what 절, 수동태)"
+   },
+   {
+    "en": "when we bring together resources and great ideas",
+    "ko": "자원과 훌륭한 아이디어를 한데 모을 때",
+    "r": "부사절(~할 때)"
+   },
+   {
+    "en": "towards a common goal.”",
+    "ko": "하나의 공통된 목표를 향해",
+    "r": "전치사구(무엇을 향해 모으는가)"
+   }
+  ],
+  "ko": "“참가 팀들과 앨라배마 대학교, 그리고 NASA 사이에서 이루어진 이번 최종 무대는, 하나의 공통된 목표를 향해 자원과 좋은 아이디어를 한데 모을 때 어떤 일이 가능한지를 보여 줍니다.”",
+  "why": "맨 앞의 Between ~ 은 주어가 아니라 배경을 깔아 주는 말이라, 진짜 주어는 쉼표 뒤의 this finale 이다. what can be achieved 는 수동태라 이루는 주체가 드러나지 않고, 뒤의 we 가 그 주체에 해당한다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|9.0",
+  "en": "The Phase 2 awards follow the success of the competition’s Phase 1, which received record-breaking interest from the global innovator community with more than 1,200 registrations – more than any competition in the 20-year history of NASA Centennial Challenges .",
+  "s": "The Phase 2 awards",
+  "v": "follow",
+  "chunks": [
+   {
+    "en": "The Phase 2 awards follow the success",
+    "ko": "2단계 시상은 그 성공에 뒤이은 것이다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "of the competition’s Phase 1,",
+    "ko": "이 대회 1단계의",
+    "r": "전치사구(무엇의 성공인가)"
+   },
+   {
+    "en": "which received record-breaking interest",
+    "ko": "1단계는 기록적인 관심을 받았다",
+    "r": "관계절(앞 Phase 1 설명)"
+   },
+   {
+    "en": "from the global innovator community",
+    "ko": "전 세계 혁신가 공동체로부터",
+    "r": "전치사구(관심을 보낸 쪽)"
+   },
+   {
+    "en": "with more than 1,200 registrations",
+    "ko": "1,200건이 넘는 참가 등록과 함께",
+    "r": "전치사구(관심의 규모)"
+   },
+   {
+    "en": "– more than any competition",
+    "ko": "어떤 대회보다도 많은 수인데",
+    "r": "동격(앞 숫자 부연)"
+   },
+   {
+    "en": "in the 20-year history of NASA Centennial Challenges .",
+    "ko": "NASA Centennial Challenges 의 20년 역사에서",
+    "r": "전치사구(비교 범위)"
+   }
+  ],
+  "ko": "2단계 시상은 이 대회 1단계의 성공에 뒤이은 것이다. 1단계는 전 세계 혁신가들로부터 기록적인 관심을 받아 참가 등록이 1,200건을 넘었는데, 이는 NASA Centennial Challenges 20년 역사에서 어떤 대회보다도 많은 수다.",
+  "why": "follow 는 '따라가다'가 아니라 '~에 뒤이어 일어나다'라는 뜻이다. which 는 바로 앞의 Phase 1 을 설명하고, 대시(–) 뒤의 more than any competition ~ 은 앞의 1,200건이 얼마나 큰 수인지 덧붙이는 말이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|9.1",
+  "en": "For Phase 1, which concluded in 2025, participants from around the world could submit designs in either or both of the prototype or digital twin tracks.",
+  "s": "participants from around the world",
+  "v": "could submit",
+  "chunks": [
+   {
+    "en": "For Phase 1, which concluded in 2025,",
+    "ko": "2025년에 끝난 1단계에서는",
+    "r": "전치사구 + 관계절(Phase 1 설명)"
+   },
+   {
+    "en": "participants from around the world",
+    "ko": "전 세계에서 온 참가자들이",
+    "r": "주어"
+   },
+   {
+    "en": "could submit designs",
+    "ko": "설계안을 낼 수 있었다",
+    "r": "동사 + 목적어"
+   },
+   {
+    "en": "in either or both",
+    "ko": "한쪽에든 양쪽 모두에든",
+    "r": "범위(either or both)"
+   },
+   {
+    "en": "of the prototype or digital twin tracks.",
+    "ko": "시제품 부문과 디지털 트윈 부문 가운데",
+    "r": "전치사구(어느 부문인가)"
+   }
+  ],
+  "ko": "2025년에 끝난 1단계에서는 전 세계 참가자들이 시제품 부문과 디지털 트윈 부문 가운데 한 곳에만, 또는 두 곳 모두에 설계안을 낼 수 있었다.",
+  "why": "맨 앞 For Phase 1 뒤에 쉼표로 둘러싸인 which concluded in 2025 가 끼어들어 주어(participants)가 뒤로 밀린다. either or both of ~ 는 '둘 중 하나든 둘 다든'이라는 뜻이라 선택이 자유로웠다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|9.2",
+  "en": "A panel of 50 judges evaluated nearly 200 Phase 1 submissions, selecting 17 teams representing five countries and nine U.S. states as winners.",
+  "s": "A panel of 50 judges",
+  "v": "evaluated",
+  "chunks": [
+   {
+    "en": "A panel of 50 judges evaluated",
+    "ko": "심사위원 50명으로 이루어진 심사단이 심사했다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "nearly 200 Phase 1 submissions,",
+    "ko": "1단계 출품작 200건 가까이를",
+    "r": "목적어"
+   },
+   {
+    "en": "selecting 17 teams",
+    "ko": "그리고 17개 팀을 뽑았다",
+    "r": "분사구문(그 결과 ~하다)"
+   },
+   {
+    "en": "representing five countries and nine U.S. states as winners.",
+    "ko": "5개국과 미국 9개 주를 대표하는 (17개 팀을) 수상 팀으로",
+    "r": "분사구(앞 17 teams 설명) + as구(자격)"
+   }
+  ],
+  "ko": "심사위원 50명으로 이루어진 심사단이 1단계 출품작 200건 가까이를 심사해, 5개국과 미국 9개 주에 걸친 17개 팀을 수상 팀으로 뽑았다.",
+  "why": "숫자가 50, 200, 17, 5·9 로 이어져 각각 무엇의 수인지 붙여 읽어야 한다. selecting 은 새 문장이 아니라 앞 동작의 결과를 잇는 분사구문이고, representing ~ 은 17개 팀을 꾸미는 말이다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|9.3",
+  "en": "Phase 2 entries were required to be unrelated to Phase 1.",
+  "s": "Phase 2 entries",
+  "v": "were required",
+  "chunks": [
+   {
+    "en": "Phase 2 entries were required",
+    "ko": "2단계 출품작은 ~해야 했다",
+    "r": "주어 + 동사(수동태)"
+   },
+   {
+    "en": "to be unrelated to Phase 1.",
+    "ko": "1단계와 관련이 없어야",
+    "r": "목적보어(무엇을 하도록)"
+   }
+  ],
+  "ko": "2단계 출품작은 1단계와 관련이 없는 것이어야 했다.",
+  "why": "were required 는 수동태라 요구한 쪽(대회 주최 측)이 나오지 않는다. unrelated 는 un- 이 붙은 부정어라 '관련이 있어야 한다'가 아니라 '관련이 없어야 한다'는 뜻이다. 짧지만 방향이 뒤집히기 쉽다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|10.0",
+  "en": "The LunaRecycle Challenge is managed at NASA’s Marshall Space Flight Center by Centennial Challenges, part of the Prizes, Challenges, and Crowdsourcing program within NASA’s Research and Technology Mission Directorate.",
+  "s": "The LunaRecycle Challenge",
+  "v": "is managed",
+  "chunks": [
+   {
+    "en": "The LunaRecycle Challenge is managed",
+    "ko": "LunaRecycle Challenge 는 운영된다",
+    "r": "주어 + 동사(수동태)"
+   },
+   {
+    "en": "at NASA’s Marshall Space Flight Center",
+    "ko": "NASA 마셜 우주비행센터에서",
+    "r": "전치사구(장소)"
+   },
+   {
+    "en": "by Centennial Challenges,",
+    "ko": "Centennial Challenges 가 맡아서",
+    "r": "전치사구(운영 주체)"
+   },
+   {
+    "en": "part of the Prizes, Challenges, and Crowdsourcing program",
+    "ko": "이는 Prizes, Challenges, and Crowdsourcing 프로그램의 한 부분으로",
+    "r": "동격(앞 조직 설명)"
+   },
+   {
+    "en": "within NASA’s Research and Technology Mission Directorate.",
+    "ko": "NASA 연구·기술임무본부 안에 있는",
+    "r": "전치사구(상위 조직)"
+   }
+  ],
+  "ko": "LunaRecycle Challenge 는 NASA 마셜 우주비행센터에서 Centennial Challenges 가 맡아 운영한다. Centennial Challenges 는 NASA 연구·기술임무본부(Research and Technology Mission Directorate) 안에 있는 Prizes, Challenges, and Crowdsourcing 프로그램의 한 부분이다.",
+  "why": "is managed 는 수동태라 운영 주체는 by 뒤(Centennial Challenges)에 있고, at ~ Center 는 장소일 뿐 주체가 아니다. 쉼표 뒤 part of ~ 는 Centennial Challenges 를 다시 설명하는 말(동격)이라 새 동사가 없다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|10.1",
+  "en": "NASA’s Centennial Challenges have a legacy of more than 20 years engaging the public to solve complex problems that benefit NASA’s broader initiatives.",
+  "s": "NASA’s Centennial Challenges",
+  "v": "have",
+  "chunks": [
+   {
+    "en": "NASA’s Centennial Challenges have a legacy",
+    "ko": "NASA의 Centennial Challenges 는 ~해 온 내력이 있다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "of more than 20 years",
+    "ko": "20년이 넘는",
+    "r": "전치사구(내력의 길이)"
+   },
+   {
+    "en": "engaging the public",
+    "ko": "일반 대중을 끌어들여",
+    "r": "분사구(앞 legacy 설명)"
+   },
+   {
+    "en": "to solve complex problems",
+    "ko": "복잡한 문제를 풀게 하는",
+    "r": "목적(~하도록)"
+   },
+   {
+    "en": "that benefit NASA’s broader initiatives.",
+    "ko": "NASA의 더 큰 사업들에 도움이 되는",
+    "r": "관계절(앞 problems 설명)"
+   }
+  ],
+  "ko": "NASA의 Centennial Challenges 는 일반 대중을 끌어들여 복잡한 문제를 풀게 해 온 20년 넘는 내력을 갖고 있다. 그 문제들은 NASA의 더 넓은 사업들에 도움이 되는 문제들이다.",
+  "why": "have a legacy of ~ years -ing 는 '~년 동안 ~해 온 내력이 있다'는 뜻이다. engaging 은 새 동사가 아니라 legacy 를 설명하는 말이고, 맨 끝 that ~ 은 problems 를 꾸민다. benefit 은 명사 '이익'이 아니라 '~에 도움이 되다'라는 동사다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|10.2",
+  "en": "Past challenges have spurred advances in robotics, additive manufacturing, power and energy, textiles, chemistry, and biology.",
+  "s": "Past challenges",
+  "v": "have spurred",
+  "chunks": [
+   {
+    "en": "Past challenges have spurred advances",
+    "ko": "과거의 챌린지들은 발전을 이끌어 냈다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "in robotics, additive manufacturing,",
+    "ko": "로봇공학, 적층 제조(쌓아 만드는 방식),",
+    "r": "전치사구(발전이 일어난 분야 ①)"
+   },
+   {
+    "en": "power and energy, textiles, chemistry, and biology.",
+    "ko": "동력과 에너지, 섬유, 화학, 생물학 분야에서",
+    "r": "분야 나열 ②"
+   }
+  ],
+  "ko": "과거의 챌린지들은 로봇공학, 적층 제조(3D 프린팅처럼 재료를 쌓아 만드는 방식), 동력·에너지, 섬유, 화학, 생물학 분야의 발전을 이끌어 냈다.",
+  "why": "have spurred 는 현재완료라 예전부터 지금까지 그런 결과를 냈다는 뜻이다. in 뒤의 여섯 분야는 모두 advances(발전)에 걸리는 말이지 challenges 의 종류를 나열한 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "19cd8cc9|11.0",
+  "en": "LunaRecycle is also supported by subject matter experts at NASA’s Kennedy Space Center in Florida, NASA’s Ames Research Center in California’s Silicon Valley, and NASA’s Langley Research Center, in Hampton, Virginia.",
+  "s": "LunaRecycle",
+  "v": "is also supported",
+  "chunks": [
+   {
+    "en": "LunaRecycle is also supported",
+    "ko": "LunaRecycle 은 지원도 받는다",
+    "r": "주어 + 동사(수동태)"
+   },
+   {
+    "en": "by subject matter experts",
+    "ko": "해당 분야 전문가들의",
+    "r": "전치사구(지원하는 쪽)"
+   },
+   {
+    "en": "at NASA’s Kennedy Space Center in Florida,",
+    "ko": "플로리다주 NASA 케네디 우주센터,",
+    "r": "전문가들이 있는 곳 ①"
+   },
+   {
+    "en": "NASA’s Ames Research Center in California’s Silicon Valley,",
+    "ko": "캘리포니아 실리콘밸리의 NASA 에임스 연구센터,",
+    "r": "전문가들이 있는 곳 ②"
+   },
+   {
+    "en": "and NASA’s Langley Research Center, in Hampton, Virginia.",
+    "ko": "그리고 버지니아주 햄프턴의 NASA 랭글리 연구센터에 있는",
+    "r": "전문가들이 있는 곳 ③"
+   }
+  ],
+  "ko": "LunaRecycle 은 플로리다주 NASA 케네디 우주센터, 캘리포니아 실리콘밸리의 NASA 에임스 연구센터, 버지니아주 햄프턴의 NASA 랭글리 연구센터에 있는 해당 분야 전문가들의 지원도 받는다.",
+  "why": "is supported by ~ 는 수동태라 지원하는 쪽은 by 뒤의 전문가들이다. at 뒤에 센터 세 곳이 쉼표로 이어지는데, 이는 전문가들이 속한 곳을 나열한 것이지 대회가 열리는 장소가 아니다. subject matter expert 는 '해당 분야를 잘 아는 전문가'라는 뜻이다.",
+  "st": []
+ }
+]

@@ -1,0 +1,14 @@
+NASA Deep Space Network’s New Goldstone Antenna Goes Online
+NASA · 2026-08-30
+https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/
+
+[0.0] Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026.
+[0.1] A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come.
+
+[1.0] NASA leadership and personnel as well as dignitaries gathered at the complete DSS-23 antenna for a ceremonial ribbon cutting on Aug. 25, 2026.
+[1.1] It’s the latest antenna to be added as part of the Deep Space Network’s Aperture Enhancement Project, which began in 2009 to upgrade and expand the network by adding six new 34-meter multifrequency beam-waveguide antennas .
+[1.2] These versatile Deep Space Network dishes can enhance many missions operating over different radio frequencies.
+
+[2.0] The DSN allows missions to track, send commands to, and receive scientific data from faraway spacecraft.
+[2.1] It is managed by NASA’s Jet Propulsion Laboratory, a division of Caltech, in Southern California for the agency’s Space Communications and Navigation ( SCaN ) Program, which is located at NASA Headquarters within the Research and Technology Mission Directorate.
+

@@ -1,0 +1,707 @@
+[
+ {
+  "id": "e98f580e|0.0",
+  "en": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades.",
+  "s": "NASA’s Earth-observing satellite missions",
+  "v": "track",
+  "chunks": [
+   {"en": "NASA’s Earth-observing satellite missions", "ko": "NASA의 지구 관측 위성 임무들은", "r": "주어(긴 명사구)"},
+   {"en": "track dozens of features of a changing planet", "ko": "변해 가는 행성(지구)의 수십 가지 특성을 추적한다", "r": "동사 + 목적어"},
+   {"en": "— aerosols, sea levels, land cover, cloud cover —", "ko": "곧 에어로졸, 해수면 높이, 지표 피복, 구름 덮임 같은 것들", "r": "동격(앞의 features 를 나열)"},
+   {"en": "over years and decades.", "ko": "여러 해, 여러 십 년에 걸쳐", "r": "시간(기간)"}
+  ],
+  "ko": "NASA의 지구 관측(Earth-observing) 위성 임무들은 에어로졸, 해수면 높이, 지표 피복(땅이 무엇으로 덮여 있는지), 구름 덮임 같은, 변해 가는 지구의 수십 가지 특성을 여러 해 여러 십 년에 걸쳐 추적한다.",
+  "why": "대시 사이에 낀 목록은 새로운 목적어가 아니라 앞의 dozens of features 를 구체적으로 풀어 준 말(동격)이다. 그 부분을 괄호로 묶어 두면 뼈대는 'missions track features over years and decades' 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|0.1",
+  "en": "Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent.",
+  "s": "Sustaining that record for the scientific and operational communities who depend on it",
+  "v": "requires",
+  "chunks": [
+   {"en": "Sustaining that record", "ko": "그 기록을 계속 이어 가는 일은", "r": "주어(~하는 일)"},
+   {"en": "for the scientific and operational communities", "ko": "과학 쪽과 실무 운영 쪽 공동체들을 위해", "r": "전치사구(누구를 위해)"},
+   {"en": "who depend on it", "ko": "그 기록에 의지하고 있는", "r": "관계절(앞 communities 설명)"},
+   {"en": "requires more than engineering talent.", "ko": "공학적 재능 이상의 것을 요구한다", "r": "동사 + 목적어"}
+  ],
+  "ko": "그 기록에 의지하는 과학계와 실무 운영 공동체들을 위해 그 기록을 계속 이어 가는 일에는, 공학적 재능만으로는 부족하다.",
+  "why": "문장 맨 앞의 Sustaining 은 동사가 아니라 '~하는 일'이라는 주어다. 진짜 동사는 한참 뒤의 requires 이고, 그 사이에 for ~ communities who depend on it 이 길게 끼어 있다. more than A 는 'A만으로는 안 된다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|0.2",
+  "en": "It requires planning for an uncertain future: anticipating where a mission delay or on-orbit event might create a gap in the data those communities rely on.",
+  "s": "It",
+  "v": "requires",
+  "chunks": [
+   {"en": "It requires planning for an uncertain future:", "ko": "그 일은 불확실한 미래에 대비한 계획 세우기를 요구한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "anticipating where a mission delay or on-orbit event", "ko": "곧 임무 지연이나 궤도상의 사건이 어디서", "r": "동격(앞 planning 을 풀어 씀)"},
+   {"en": "might create a gap", "ko": "빈 구멍을 만들어 낼 수 있는지를 미리 내다보는 일", "r": "동격절의 동사"},
+   {"en": "in the data those communities rely on.", "ko": "그 공동체들이 의지하는 데이터 안에", "r": "전치사구 + 관계절(that 생략)"}
+  ],
+  "ko": "그 일은 불확실한 미래에 대비해 미리 계획을 세울 것을 요구한다. 즉 임무 지연이나 궤도에서 벌어지는 사건 때문에, 그 공동체들이 의지하는 데이터의 어느 곳에 빈 구멍이 생길 수 있는지를 미리 내다보는 일이다.",
+  "why": "콜론(:) 뒤의 anticipating 은 새 문장이 아니라 앞의 planning 이 무엇인지 풀어 준 말(동격)이다. 맨 끝 those communities rely on 은 관계대명사 that 이 생략된 채 the data 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|1.0",
+  "en": "Lindsey Jacobson’s work helps NASA anticipate those disruptions before they happen and gives senior leaders options for managing them.",
+  "s": "Lindsey Jacobson’s work",
+  "v": "helps",
+  "chunks": [
+   {"en": "Lindsey Jacobson’s work helps NASA anticipate", "ko": "린지 제이컵슨의 일은 NASA가 미리 내다보도록 돕고", "r": "주어 + 동사 + 목적어 + 동사원형"},
+   {"en": "those disruptions before they happen", "ko": "그런 차질들을, 실제로 벌어지기 전에", "r": "목적어 + 시간(부사절)"},
+   {"en": "and gives senior leaders options", "ko": "그리고 고위 지도부에게 선택지를 준다", "r": "대등절(같은 주어의 두 번째 동사)"},
+   {"en": "for managing them.", "ko": "그 차질들을 관리할", "r": "전치사구(무엇을 위한 선택지인가)"}
+  ],
+  "ko": "린지 제이컵슨(Lindsey Jacobson)의 일은 NASA가 그런 차질을 실제로 벌어지기 전에 미리 내다보도록 돕고, 고위 지도부에게는 그 차질을 관리할 선택지를 준다.",
+  "why": "주어는 하나(Jacobson’s work)인데 동사가 둘(helps … and gives …)이다. and 바로 앞에 NASA가 있어 gives 의 주어를 NASA로 잡기 쉽다. help + 목적어 + 동사원형은 '~가 …하도록 돕다'라는 뜻이라 anticipate 는 NASA가 하는 동작이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|1.1",
+  "en": "A Pathways intern in engineering, Jacobson supports NASA’s Earth Science Division through the NASA Earth Science Strategic Integration Environment (NESSIE) team within the Systems Analysis and Concepts Directorate (SACD) at NASA’s Langley Research Center in Hampton, Virginia.",
+  "s": "Jacobson",
+  "v": "supports",
+  "chunks": [
+   {"en": "A Pathways intern in engineering,", "ko": "공학 분야의 Pathways 인턴인", "r": "동격(뒤의 Jacobson 설명)"},
+   {"en": "Jacobson supports NASA’s Earth Science Division", "ko": "제이컵슨은 NASA 지구과학부를 뒷받침한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "through the NASA Earth Science Strategic Integration Environment (NESSIE) team", "ko": "NASA 지구과학 전략통합환경(NESSIE) 팀을 통해", "r": "전치사구(어느 조직을 통해)"},
+   {"en": "within the Systems Analysis and Concepts Directorate (SACD)", "ko": "시스템 분석·개념 부서(SACD) 안에 있는", "r": "전치사구(그 팀이 속한 상위 조직)"},
+   {"en": "at NASA’s Langley Research Center in Hampton, Virginia.", "ko": "버지니아주 햄프턴에 있는 NASA 랭글리 연구소의", "r": "전치사구(장소)"}
+  ],
+  "ko": "공학 분야의 Pathways 인턴인 제이컵슨은, 버지니아주 햄프턴에 있는 NASA 랭글리 연구소(Langley Research Center)의 시스템 분석·개념 부서(SACD) 안에 있는 NASA 지구과학 전략통합환경(NESSIE) 팀을 통해 NASA 지구과학부(Earth Science Division)를 뒷받침한다.",
+  "why": "맨 앞의 A Pathways intern in engineering 은 동사가 없는 조각으로, 뒤에 나오는 Jacobson 이 누구인지 설명하는 말(동격)이다. 그다음 through → within → at → in 으로 조직과 장소가 점점 큰 단위로 이어지니, 뒤에서부터 '햄프턴의 랭글리 연구소 안 SACD 안 NESSIE 팀'으로 묶어 읽으면 된다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|2.0",
+  "en": "NASA’s Pathways program connects undergraduate and graduate students with NASA centers through internships that, with satisfactory performance, can lead to full-time civil service positions.",
+  "s": "NASA’s Pathways program",
+  "v": "connects",
+  "chunks": [
+   {"en": "NASA’s Pathways program connects", "ko": "NASA의 Pathways 프로그램은 이어 준다", "r": "주어 + 동사"},
+   {"en": "undergraduate and graduate students with NASA centers", "ko": "학부생과 대학원생을 NASA 센터들과", "r": "목적어 + 이어 주는 상대"},
+   {"en": "through internships that, with satisfactory performance,", "ko": "인턴십을 통해 — 그 인턴십은 성과가 만족스러우면", "r": "수단 + 관계절 시작 + 조건 삽입구"},
+   {"en": "can lead to full-time civil service positions.", "ko": "정규 공무원 자리로 이어질 수 있다", "r": "관계절의 동사"}
+  ],
+  "ko": "NASA의 Pathways 프로그램은 학부생과 대학원생을 인턴십을 통해 NASA 센터들과 이어 준다. 그 인턴십은 성과가 만족스러우면 정규 공무원 자리로 이어질 수 있다.",
+  "why": "connect A with B 는 'A를 B와 이어 주다'이다. 뒤쪽 that 은 internships 를 받는 관계대명사인데, 바로 뒤에 쉼표로 with satisfactory performance(성과가 만족스러우면)가 끼어들어 that 과 동사 can lead 가 멀리 떨어져 있다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|2.1",
+  "en": "Jacobson has returned to NASA Langley every summer since 2022, splitting her time between the center and finishing her mechanical engineering dissertation at North Carolina State University.",
+  "s": "Jacobson",
+  "v": "has returned",
+  "chunks": [
+   {"en": "Jacobson has returned to NASA Langley", "ko": "제이컵슨은 NASA 랭글리로 돌아와 왔다", "r": "주어 + 동사(현재완료) + 장소"},
+   {"en": "every summer since 2022,", "ko": "2022년부터 해마다 여름이면", "r": "시간(빈도 + 시작 시점)"},
+   {"en": "splitting her time between the center", "ko": "그러면서 자기 시간을 그 센터에서 보내는 쪽과", "r": "분사구문(~하면서)"},
+   {"en": "and finishing her mechanical engineering dissertation", "ko": "기계공학 박사논문을 마무리하는 쪽으로 나누어 쓰면서", "r": "시간을 나누는 두 번째 쪽"},
+   {"en": "at North Carolina State University.", "ko": "노스캐롤라이나 주립대에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "제이컵슨은 2022년부터 해마다 여름이면 NASA 랭글리로 돌아왔고, 그러면서 시간을 랭글리 센터에서 보내는 쪽과 노스캐롤라이나 주립대에서 기계공학 박사논문을 마무리하는 쪽으로 나누어 써 왔다.",
+  "why": "splitting 은 문장의 본동사가 아니라 '~하면서'라는 분사구문이다. split A between B and C 는 'A를 B와 C에 나누어 쓰다'인데, 여기서 B는 the center(장소)이고 C는 finishing … dissertation(하는 일)이라 짝이 어긋나 보인다. between 이 잇는 두 가지를 먼저 찾을 것.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|3.0",
+  "en": "“The way we do Earth science is changing .",
+  "s": "The way we do Earth science",
+  "v": "is changing",
+  "chunks": [
+   {"en": "“The way we do Earth science", "ko": "우리가 지구과학을 하는 그 방식이", "r": "주어(관계사가 생략된 긴 명사구)"},
+   {"en": "is changing .", "ko": "바뀌고 있습니다", "r": "동사(현재진행)"}
+  ],
+  "ko": "“우리가 지구과학을 하는 방식이 바뀌고 있습니다. (인용을 닫는 따옴표 없이 여기서 끊겨 있다)",
+  "why": "The way we do Earth science 전체가 주어다. way 뒤에 관계사(that/in which)가 생략되고 바로 we do 가 붙어 '우리가 지구과학을 하는 방식'이 된다. is changing 은 '바꾸고 있다'가 아니라 '바뀌고 있다'로 스스로 변하는 중이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|3.1",
+  "en": "“",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "“", "ko": "(인용을 여는 따옴표 하나뿐)", "r": "본문 아님(따옴표 조각)"}
+  ],
+  "ko": "여는 따옴표 하나만 남아 있고 그 안에 든 말이 없다 — 원문을 긁어 오는 과정에서 인용문이 통째로 빠진 자리다.",
+  "why": "해석할 영어 단어가 하나도 없다. 인용을 여는 따옴표만 남은 조각이라, 앞뒤 문장에 이어 붙여 뜻을 만들어 내려 하지 말고 그냥 건너뛰면 된다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|4.0",
+  "en": "Jacobson and the NESSIE team support the Earth science satellite portfolio — dozens of missions, each measuring specific features of the planet, from clouds to sea surface temperature to land use.",
+  "s": "Jacobson and the NESSIE team",
+  "v": "support",
+  "chunks": [
+   {"en": "Jacobson and the NESSIE team support", "ko": "제이컵슨과 NESSIE 팀은 뒷받침한다", "r": "주어 + 동사"},
+   {"en": "the Earth science satellite portfolio", "ko": "지구과학 위성 포트폴리오를", "r": "목적어"},
+   {"en": "— dozens of missions,", "ko": "곧 수십 개의 임무를", "r": "동격(앞 portfolio 를 풀어 씀)"},
+   {"en": "each measuring specific features of the planet,", "ko": "임무마다 이 행성(지구)의 특정한 특성을 재면서", "r": "분사구문(각 임무가 하는 일)"},
+   {"en": "from clouds to sea surface temperature to land use.", "ko": "구름에서 해수면 온도, 토지 이용에 이르기까지", "r": "예시 나열(무엇을 재는가)"}
+  ],
+  "ko": "제이컵슨과 NESSIE 팀은 지구과학 위성 포트폴리오(여러 위성 임무를 묶은 전체)를 뒷받침한다. 그것은 수십 개의 임무로 이루어져 있고, 임무마다 구름에서 해수면 온도, 토지 이용에 이르기까지 지구의 특정한 특성을 하나씩 측정한다.",
+  "why": "대시 뒤의 dozens of missions 는 새로운 목적어가 아니라 앞의 portfolio 가 무엇인지 풀어 준 말(동격)이다. each measuring ~ 은 동사가 아니라 '임무 하나하나가 ~을 재면서'라는 분사구문이고, from A to B to C 는 예를 셋 든 것이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|4.1",
+  "en": "The goal is providing end user communities with the data products they depend on.",
+  "s": "The goal",
+  "v": "is providing",
+  "chunks": [
+   {"en": "The goal is providing end user communities", "ko": "목표는 최종 사용자 공동체들에게 주는 것이다", "r": "주어 + 동사 + 받는 쪽"},
+   {"en": "with the data products", "ko": "데이터 산출물을", "r": "무엇을 주는가"},
+   {"en": "they depend on.", "ko": "그들이 의지하고 있는", "r": "관계절(that 생략, 앞 data products 설명)"}
+  ],
+  "ko": "목표는 최종 사용자 공동체들에게 그들이 의지하는 데이터 산출물을 제공하는 것이다.",
+  "why": "provide A with B 는 'A에게 B를 주다'라는 짜임이라 with 뒤가 주는 물건이고 그 앞이 받는 쪽이다. 맨 끝 they depend on 은 관계대명사 that 이 생략된 채 the data products 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|4.2",
+  "en": "The challenge is the unknown.",
+  "s": "The challenge",
+  "v": "is",
+  "chunks": [
+   {"en": "The challenge is the unknown.", "ko": "어려운 점은 '알 수 없다는 것'이다", "r": "주어 + 동사 + 보어"}
+  ],
+  "ko": "어려운 점은 '알 수 없는 것', 곧 앞일을 알 수 없다는 사실 그 자체다.",
+  "why": "the unknown 은 the + 형용사로 '알려지지 않은 것'이라는 명사 노릇을 한다. 뒤에 명사가 빠진 것이 아니다. 바로 앞 문장의 The goal(목표)과 짝을 이루어 '목표는 ~이고, 어려운 점은 ~이다'로 대비한 것이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|5.0",
+  "en": "“There’s uncertainty about mission lifetimes and what could happen on orbit, and about schedules,” Jacobson explains.",
+  "s": "Jacobson",
+  "v": "explains",
+  "chunks": [
+   {"en": "“There’s uncertainty about mission lifetimes", "ko": "임무 수명에 대해 불확실한 부분이 있습니다", "r": "인용 시작: 유도부사 there + 동사 + 진짜 주어"},
+   {"en": "and what could happen on orbit,", "ko": "그리고 궤도에서 무슨 일이 벌어질지에 대해서도", "r": "about 에 걸리는 두 번째 대상"},
+   {"en": "and about schedules,”", "ko": "그리고 일정에 대해서도", "r": "about 에 걸리는 세 번째 대상"},
+   {"en": "Jacobson explains.", "ko": "제이컵슨은 이렇게 설명한다", "r": "주절(누가 말했는가)"}
+  ],
+  "ko": "“임무가 얼마나 오래 갈지, 궤도에서 무슨 일이 벌어질지, 그리고 일정에 대해서도 불확실한 부분이 있습니다.” 제이컵슨은 이렇게 설명한다.",
+  "why": "There’s ~ 는 '거기에 있다'가 아니라 '~이 있다'는 뜻이고 진짜 주어는 뒤의 uncertainty 다. about 이 걸리는 대상이 셋인데 마지막에만 about 이 다시 붙어 있어 목록이 끊겨 보인다. 문장 전체의 주절은 맨 끝 Jacobson explains 다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|5.1",
+  "en": "The team’s work gives NASA’s senior leadership a way to navigate that uncertainty: understanding where a gap in coverage might emerge and identifying options to mitigate or hedge against it.",
+  "s": "The team’s work",
+  "v": "gives",
+  "chunks": [
+   {"en": "The team’s work gives NASA’s senior leadership", "ko": "그 팀의 일은 NASA 고위 지도부에게 준다", "r": "주어 + 동사 + 받는 쪽"},
+   {"en": "a way to navigate that uncertainty:", "ko": "그 불확실성을 헤쳐 나갈 방법을", "r": "목적어(무엇을 주는가)"},
+   {"en": "understanding where a gap in coverage might emerge", "ko": "곧 관측 범위의 어디에 빈 구멍이 생길 수 있는지 파악하는 일", "r": "동격 ①(그 방법의 내용)"},
+   {"en": "and identifying options to mitigate or hedge against it.", "ko": "그리고 그것을 줄이거나 대비할 선택지를 찾아내는 일", "r": "동격 ②"}
+  ],
+  "ko": "그 팀의 일은 NASA 고위 지도부에게 그 불확실성을 헤쳐 나갈 방법을 준다. 즉 관측 범위의 어디에서 빈 구멍이 생길 수 있는지를 파악하고, 그것을 줄이거나 미리 대비할 선택지를 찾아내는 일이다.",
+  "why": "give A B(A에게 B를 주다) 짜임이라 NASA’s senior leadership 이 받는 쪽, a way ~ 가 주는 것이다. 콜론 뒤의 understanding … and identifying … 은 새 문장이 아니라 그 '방법'이 무엇인지 풀어 준 말(동격)이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|5.2",
+  "en": "By providing alternative pathways for meeting end-user needs, this work supports senior leaders in managing a complex, interdependent portfolio.",
+  "s": "this work",
+  "v": "supports",
+  "chunks": [
+   {"en": "By providing alternative pathways", "ko": "대안이 되는 길들을 마련해 줌으로써", "r": "수단(~함으로써)"},
+   {"en": "for meeting end-user needs,", "ko": "최종 사용자의 요구를 충족하기 위한", "r": "목적(무엇을 위한 길인가)"},
+   {"en": "this work supports senior leaders", "ko": "이 일은 고위 지도부를 돕는다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in managing a complex, interdependent portfolio.", "ko": "복잡하고 서로 얽힌 포트폴리오를 관리하는 면에서", "r": "어느 면에서 돕는가"}
+  ],
+  "ko": "최종 사용자의 요구를 충족할 대안 경로들을 마련해 줌으로써, 이 일은 복잡하고 서로 얽힌 포트폴리오를 관리하는 면에서 고위 지도부를 돕는다.",
+  "why": "문장이 By ~ing(~함으로써)로 시작해 주어가 한참 뒤(this work)에 나온다. support A in ~ing 는 'A가 ~하는 것을 돕다'라는 짜임이라, 실제로 관리하는 쪽은 senior leaders 다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|6.0",
+  "en": "Within that effort, Jacobson’s focus is building analysis tools that give the team what she calls a “foresight ability.”",
+  "s": "Jacobson’s focus",
+  "v": "is building",
+  "chunks": [
+   {"en": "Within that effort,", "ko": "그 일 안에서", "r": "범위(어디에 속한 이야기인가)"},
+   {"en": "Jacobson’s focus is building analysis tools", "ko": "제이컵슨이 집중하는 것은 분석 도구를 만드는 일이다", "r": "주어 + 동사 + 보어"},
+   {"en": "that give the team", "ko": "팀에게 ~을 주는", "r": "관계절(앞 tools 설명)"},
+   {"en": "what she calls a “foresight ability.”", "ko": "그가 '예지 능력'이라 부르는 것을", "r": "관계절의 목적어(명사 덩어리)"}
+  ],
+  "ko": "그 일 안에서 제이컵슨이 집중하는 것은, 그가 “foresight ability(앞을 내다보는 능력)”라 부르는 것을 팀에게 안겨 주는 분석 도구를 만드는 일이다.",
+  "why": "is building 은 '짓고 있는 중'이라는 진행형이 아니라 '(초점은) ~을 만드는 것이다'라고 주어를 설명하는 보어다. that 은 analysis tools 를 받는 관계대명사이고, what she calls A 는 '그가 A라고 부르는 것'이라는 명사 덩어리다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|6.1",
+  "en": "“It’s the ability to anticipate different things that might happen — changes that might occur across the portfolio of Earth-observing missions — and to have strategies in mind for how to respond, so we can keep delivering data to end users,” she says.",
+  "s": "she",
+  "v": "says",
+  "chunks": [
+   {"en": "“It’s the ability to anticipate different things", "ko": "그것은 여러 가지 일을 미리 내다보는 능력입니다", "r": "인용 시작: 주어 + 동사 + 보어"},
+   {"en": "that might happen", "ko": "벌어질 수도 있는", "r": "관계절(앞 things 설명)"},
+   {"en": "— changes that might occur across the portfolio of Earth-observing missions —", "ko": "곧 지구 관측 임무 포트폴리오 전반에서 생길 수 있는 변화들", "r": "동격(앞 things 를 다시 풀어 씀)"},
+   {"en": "and to have strategies in mind for how to respond,", "ko": "그리고 어떻게 대응할지 전략을 머릿속에 담아 두는 능력", "r": "the ability 에 걸리는 두 번째 to부정사"},
+   {"en": "so we can keep delivering data to end users,”", "ko": "그래야 최종 사용자에게 데이터를 계속 전할 수 있으니까요", "r": "목적·결과(그래서 ~할 수 있게)"},
+   {"en": "she says.", "ko": "그는 이렇게 말한다", "r": "주절(누가 말했는가)"}
+  ],
+  "ko": "“그것은 벌어질 수 있는 여러 가지 일 — 지구 관측 임무 포트폴리오 전반에서 생길 수 있는 변화들 — 을 미리 내다보고, 어떻게 대응할지 전략을 미리 마음에 담아 두는 능력입니다. 그래야 최종 사용자에게 데이터를 계속 전할 수 있으니까요.” 그는 이렇게 말한다.",
+  "why": "대시 사이에 낀 changes … missions 는 앞의 different things that might happen 을 다시 풀어 준 말(동격)이라 괄호로 묶어 두면 된다. and to have … 는 앞의 to anticipate 와 짝을 이루어 둘 다 the ability 에 걸린다. 문장 전체의 주절은 맨 끝 she says 다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|7.0",
+  "en": "Not every change is bad news.",
+  "s": "Not every change",
+  "v": "is",
+  "chunks": [
+   {"en": "Not every change is bad news.", "ko": "모든 변화가 다 나쁜 소식인 것은 아니다", "r": "부분부정: 주어 + 동사 + 보어"}
+  ],
+  "ko": "모든 변화가 나쁜 소식인 것은 아니다.",
+  "why": "Not every ~ 는 '어느 것도 ~이 아니다'가 아니라 '모두가 다 ~인 것은 아니다'라는 부분부정이다. 전부를 부정하는 말로 읽으면 뜻이 달라진다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|7.1",
+  "en": "Missions sometimes operate well beyond their planned lifespan, creating room to extend their value.",
+  "s": "Missions",
+  "v": "operate",
+  "chunks": [
+   {"en": "Missions sometimes operate", "ko": "임무들은 때때로 작동한다", "r": "주어 + 빈도부사 + 동사"},
+   {"en": "well beyond their planned lifespan,", "ko": "계획된 수명을 훨씬 넘겨서까지", "r": "얼마나 넘어서는가"},
+   {"en": "creating room to extend their value.", "ko": "그래서 그 가치를 더 늘릴 여지가 생긴다", "r": "분사구문(그 결과)"}
+  ],
+  "ko": "임무들은 때때로 계획된 수명을 훨씬 넘겨서까지 작동하고, 그 덕분에 그 가치를 더 늘릴 여지가 생긴다.",
+  "why": "여기서 well 은 '잘'이 아니라 beyond 를 강조하는 '훨씬'이다. 맨 끝 creating ~ 은 또 하나의 동사가 아니라 '그래서 ~이 생긴다'는 결과를 나타내는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|7.2",
+  "en": "But whether an adjustment is welcome or not, the principle is the same: know the options before anything happens.",
+  "s": "the principle",
+  "v": "is",
+  "chunks": [
+   {"en": "But whether an adjustment is welcome or not,", "ko": "하지만 어떤 조정이 반가운 것이든 아니든", "r": "양보(어느 쪽이든)"},
+   {"en": "the principle is the same:", "ko": "원칙은 똑같다", "r": "주어 + 동사 + 보어"},
+   {"en": "know the options before anything happens.", "ko": "곧 무슨 일이 벌어지기 전에 선택지를 알아 두라는 것", "r": "동격(원칙의 내용, 명령문 꼴)"}
+  ],
+  "ko": "하지만 어떤 조정이 반가운 것이든 아니든, 원칙은 똑같다. 무슨 일이 벌어지기 전에 선택지를 미리 알아 두라는 것이다.",
+  "why": "whether A or not 은 '~이든 아니든'이라는 양보이지 의문이 아니다. 콜론 뒤의 know 는 새 문장의 동사가 아니라, 그 '원칙'이 무엇인지 명령문 꼴로 풀어 준 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|8.0",
+  "en": "Jacobson compares it to preparing for hurricane season.",
+  "s": "Jacobson",
+  "v": "compares",
+  "chunks": [
+   {"en": "Jacobson compares it", "ko": "제이컵슨은 그것을 견준다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to preparing for hurricane season.", "ko": "허리케인 철에 대비하는 일에", "r": "비교 대상(무엇에 견주는가)"}
+  ],
+  "ko": "제이컵슨은 그것을 허리케인 철에 대비하는 일에 견준다.",
+  "why": "compare A to B 는 'A를 B에 견주다'이다. to 뒤의 preparing 은 동사원형이 아니라 명사 노릇을 하는 ~ing 라, 'to 준비하다'가 아니라 '준비하는 일에'로 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|8.1",
+  "en": "“You get the storm shutters, you buy the sandbags, and you have them pre-positioned,” she says.",
+  "s": "she",
+  "v": "says",
+  "chunks": [
+   {"en": "“You get the storm shutters,", "ko": "폭풍 대비 덧문을 마련하고", "r": "인용 ①: 주어 + 동사 + 목적어"},
+   {"en": "you buy the sandbags,", "ko": "모래주머니를 사 두고", "r": "인용 ②"},
+   {"en": "and you have them pre-positioned,”", "ko": "그리고 그것들을 미리 제자리에 놓아 둡니다", "r": "인용 ③: have + 목적어 + 과거분사"},
+   {"en": "she says.", "ko": "그는 이렇게 말한다", "r": "주절"}
+  ],
+  "ko": "“폭풍 대비 덧문을 마련하고, 모래주머니를 사 두고, 그것들을 미리 제자리에 갖다 놓는 겁니다.” 그는 이렇게 말한다.",
+  "why": "have + 목적어 + 과거분사(have them pre-positioned)는 '그것들이 미리 놓인 상태로 두다'라는 뜻이지 '가지고 있다 + 미리 놓다'가 아니다. 여기서 You 는 특정한 상대가 아니라 '사람이라면 누구나'라는 일반적인 사람이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|8.2",
+  "en": "“Then when the warning comes, you’re not scrambling, and you’re not at risk of the store selling out.",
+  "s": "you",
+  "v": "’re not scrambling",
+  "chunks": [
+   {"en": "“Then when the warning comes,", "ko": "그러면 경보가 왔을 때", "r": "시간 부사절"},
+   {"en": "you’re not scrambling,", "ko": "허둥지둥하지 않게 되고", "r": "주절 ①(부정)"},
+   {"en": "and you’re not at risk of the store selling out.", "ko": "가게가 물건을 다 팔아 버려 못 사게 될 위험도 없습니다", "r": "주절 ②(부정)"}
+  ],
+  "ko": "“그러면 경보가 왔을 때 허둥지둥하지 않아도 되고, 가게가 물건을 다 팔아 치워 못 사게 될 위험도 없습니다.",
+  "why": "부정이 둘(not scrambling / not at risk) 겹쳐 있어 하나라도 놓치면 뜻이 뒤집힌다. of the store selling out 은 'of + 의미상 주어(the store) + ~ing' 짜임이라 '가게가 다 팔아 버리는 것'이라는 뜻이고, 그것이 risk 의 내용이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|8.3",
+  "en": "You already have what you need in place.”",
+  "s": "You",
+  "v": "have",
+  "chunks": [
+   {"en": "You already have", "ko": "이미 갖추고 있는 것이다", "r": "주어 + 부사 + 동사"},
+   {"en": "what you need in place.”", "ko": "필요한 것을 제자리에", "r": "목적어(명사 덩어리) + 상태"}
+  ],
+  "ko": "“필요한 것을 이미 제자리에 갖춰 둔 상태인 겁니다.”",
+  "why": "what you need 는 '무엇이 필요한가'라는 의문이 아니라 '네가 필요로 하는 것'이라는 명사 덩어리로 have 의 목적어다. in place 는 '제자리에 갖춰진 상태로'라는 뜻이고, already 는 경보가 오기 전에 이미 끝냈다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|8.4",
+  "en": "NESSIE’s work follows the same logic for the Earth-observing portfolio by understanding ahead of time what a disruption might mean and having a set of responses ready before anything happens.",
+  "s": "NESSIE’s work",
+  "v": "follows",
+  "chunks": [
+   {"en": "NESSIE’s work follows the same logic", "ko": "NESSIE의 일도 똑같은 논리를 따른다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for the Earth-observing portfolio", "ko": "지구 관측 포트폴리오에 대해", "r": "어디에 적용하는가"},
+   {"en": "by understanding ahead of time what a disruption might mean", "ko": "차질이 무엇을 뜻하게 될지 미리 파악함으로써", "r": "수단 ①(~함으로써)"},
+   {"en": "and having a set of responses ready", "ko": "그리고 대응책 한 벌을 준비된 상태로 갖춰 둠으로써", "r": "수단 ②"},
+   {"en": "before anything happens.", "ko": "아무 일도 벌어지기 전에", "r": "시간"}
+  ],
+  "ko": "NESSIE의 일도 지구 관측 포트폴리오에 대해 같은 논리를 따른다. 차질이 무엇을 뜻하게 될지를 미리 파악해 두고, 아무 일도 벌어지기 전에 대응책 한 벌을 준비해 둠으로써 그렇게 한다.",
+  "why": "by ~ing 가 둘(understanding … and having …)이라 and 뒤의 having 도 by 에 걸린다. having a set of responses ready 는 'have + 목적어 + 형용사(ready)' 짜임으로 '대응책을 준비된 상태로 두다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|9.0",
+  "en": "“We proactively suggest the strategies and alternatives that could be enacted if there’s a change,” Jacobson says.",
+  "s": "Jacobson",
+  "v": "says",
+  "chunks": [
+   {"en": "“We proactively suggest", "ko": "저희는 미리 나서서 제안합니다", "r": "인용: 주어 + 부사 + 동사"},
+   {"en": "the strategies and alternatives", "ko": "전략과 대안들을", "r": "목적어"},
+   {"en": "that could be enacted if there’s a change,”", "ko": "변화가 생길 경우 실행될 수 있는", "r": "관계절(수동태) + 조건절"},
+   {"en": "Jacobson says.", "ko": "제이컵슨은 이렇게 말한다", "r": "주절"}
+  ],
+  "ko": "“저희는 변화가 생길 경우 실행될 수 있는 전략과 대안을 미리 나서서 제안합니다.” 제이컵슨은 이렇게 말한다.",
+  "why": "that could be enacted 는 수동태라 '실행할 수 있다'가 아니라 '실행될 수 있다'이고, 실제로 실행하는 주체는 문장에 나오지 않는다. proactively 는 '일이 터진 뒤가 아니라 먼저 나서서'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|9.1",
+  "en": "“We do that ahead of time, so people understand what options might exist.”",
+  "s": "We",
+  "v": "do",
+  "chunks": [
+   {"en": "“We do that ahead of time,", "ko": "저희는 그 일을 미리 해 둡니다", "r": "주어 + 동사 + 목적어 + 시간"},
+   {"en": "so people understand", "ko": "그래야 사람들이 알 수 있으니까요", "r": "목적(그러도록)"},
+   {"en": "what options might exist.”", "ko": "어떤 선택지가 있을 수 있는지를", "r": "understand 의 목적어(명사 덩어리)"}
+  ],
+  "ko": "“저희는 그 일을 미리 해 둡니다. 그래야 사람들이 어떤 선택지가 있을 수 있는지 알 수 있으니까요.”",
+  "why": "do that 의 that 은 앞 문장의 '전략과 대안을 제안하는 일'을 받는다. so 는 여기서 '그래야 ~하도록'이라는 목적이다. what options might exist 는 의문문이 아니라 understand 의 목적어인 명사 덩어리다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|10.0",
+  "en": "Her approach carries echoes of her graduate research, which examines how complex systems — infrastructure that can’t simply be torn down and rebuilt, like the electric grid — must evolve deliberately instead.",
+  "s": "Her approach",
+  "v": "carries",
+  "chunks": [
+   {"en": "Her approach carries echoes of her graduate research,", "ko": "그의 접근법에는 대학원 연구의 자취가 배어 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "which examines how complex systems", "ko": "그 연구는 복잡한 시스템이 어떻게 ~하는지를 살핀다", "r": "관계절(앞 research 설명)"},
+   {"en": "— infrastructure that can’t simply be torn down and rebuilt, like the electric grid —", "ko": "곧 전력망처럼 그냥 헐고 다시 지을 수 없는 기반시설", "r": "동격(앞 complex systems 를 풀어 씀)"},
+   {"en": "must evolve deliberately instead.", "ko": "그 대신 신중하게 진화해 가야 하는지를", "r": "how 절의 동사"}
+  ],
+  "ko": "그의 접근법에는 대학원 연구의 자취가 배어 있다. 그 연구는 복잡한 시스템 — 전력망처럼 그냥 헐고 다시 지을 수 없는 기반시설 — 이 그 대신 어떻게 신중하게 진화해 가야 하는지를 살핀다.",
+  "why": "대시 사이에 낀 infrastructure … the electric grid 는 앞의 complex systems 를 풀어 준 말(동격)이라, 그 부분을 건너뛰면 how complex systems must evolve 로 이어진다. can’t … be torn down and rebuilt 는 수동태 부정이라 '헐고 다시 지을 수 없는'이라는 뜻이고, instead 는 '헐고 다시 짓는 대신'이라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|10.1",
+  "en": "“We designed a grid, and now we live with that grid forever,” she says.",
+  "s": "she",
+  "v": "says",
+  "chunks": [
+   {"en": "“We designed a grid,", "ko": "우리는 전력망을 설계했고", "r": "인용 ①: 주어 + 동사(과거) + 목적어"},
+   {"en": "and now we live with that grid forever,”", "ko": "이제 그 전력망과 영원히 함께 살아갑니다", "r": "인용 ②: 현재 + 부사"},
+   {"en": "she says.", "ko": "그는 이렇게 말한다", "r": "주절"}
+  ],
+  "ko": "“우리는 한번 전력망을 설계했고, 이제 그 전력망과 영원히 함께 살아갑니다.” 그는 이렇게 말한다.",
+  "why": "앞은 과거(designed), 뒤는 현재(live)로 시제가 갈린다. live with ~ 는 '~와 함께 산다'에서 나아가 '(바꿀 수 없으니) 그대로 안고 간다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|10.2",
+  "en": "“We can’t tear it down and build a new one.",
+  "s": "We",
+  "v": "can’t tear",
+  "chunks": [
+   {"en": "“We can’t tear it down", "ko": "우리는 그것을 헐 수 없고", "r": "주어 + 부정 조동사 + 동사 + 목적어"},
+   {"en": "and build a new one.", "ko": "새것을 지을 수도 없습니다", "r": "두 번째 동사(역시 can’t 에 걸림)"}
+  ],
+  "ko": "“우리는 그것을 헐고 새것을 지을 수 없습니다.",
+  "why": "can’t 하나가 tear it down 과 build a new one 둘 다에 걸린다. 뒤쪽을 긍정으로 읽어 '헐 수는 없지만 새로 짓는다'로 이해하면 뜻이 어긋난다. one 은 grid 를 대신 받는 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|10.3",
+  "en": "What we can do is modify, expand, and improve upon what we have.”",
+  "s": "What we can do",
+  "v": "is",
+  "chunks": [
+   {"en": "What we can do is modify,", "ko": "우리가 할 수 있는 일은 고치고", "r": "주어(명사절) + 동사 + 보어 ①"},
+   {"en": "expand, and improve upon", "ko": "넓히고, 더 낫게 만드는 것입니다", "r": "보어 ②③"},
+   {"en": "what we have.”", "ko": "우리가 지금 가진 것을", "r": "목적어(명사 덩어리)"}
+  ],
+  "ko": "“우리가 할 수 있는 일은 지금 가진 것을 고치고, 넓히고, 더 낫게 만드는 것입니다.”",
+  "why": "문장 맨 앞의 What we can do 는 의문문이 아니라 '우리가 할 수 있는 것'이라는 주어(명사절)다. is 뒤의 modify, expand, improve upon 셋은 모두 보어이고, 그 목적어는 맨 끝의 what we have 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|10.4",
+  "en": "It’s the same instinct for working with what exists, rather than starting from scratch, that shapes how she approaches her work at NASA.",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "It’s the same instinct", "ko": "바로 그 같은 본능이다", "r": "강조 구문의 앞부분(It is ~ that …)"},
+   {"en": "for working with what exists,", "ko": "이미 있는 것을 가지고 일하려는", "r": "어떤 본능인가"},
+   {"en": "rather than starting from scratch,", "ko": "맨바닥에서 새로 시작하기보다는", "r": "대비(~하는 대신)"},
+   {"en": "that shapes how she approaches her work at NASA.", "ko": "그가 NASA에서 일에 다가가는 방식을 만들어 내는 것은", "r": "강조 구문의 뒷부분"}
+  ],
+  "ko": "그가 NASA에서 자기 일에 다가가는 방식을 만들어 내는 것도 바로 그 같은 본능, 곧 맨바닥에서 새로 시작하기보다 이미 있는 것을 가지고 일하려는 본능이다.",
+  "why": "It’s … that … 은 가운데 낀 말을 강조하는 짜임이라 It 이 무엇을 가리키는 대명사가 아니다. that shapes 의 주어는 the same instinct 인데, 그 사이에 for ~ 와 rather than ~ 이 길게 끼어 있다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|11.0",
+  "en": "Engineers arriving at NASA for the first time might expect the hardest part of the job to be technical.",
+  "s": "Engineers arriving at NASA for the first time",
+  "v": "might expect",
+  "chunks": [
+   {"en": "Engineers arriving at NASA for the first time", "ko": "NASA에 처음 오는 엔지니어들은", "r": "주어(분사구가 꾸미는 긴 명사구)"},
+   {"en": "might expect the hardest part of the job", "ko": "그 일에서 가장 어려운 부분이 ~이리라 짐작할지 모른다", "r": "동사 + 목적어"},
+   {"en": "to be technical.", "ko": "기술적인 것이라고", "r": "목적격 보어(무엇이라고 예상하는가)"}
+  ],
+  "ko": "NASA에 처음 오는 엔지니어들은 이 일에서 가장 어려운 부분이 기술적인 것이리라 짐작할지 모른다.",
+  "why": "arriving ~ 은 동사가 아니라 앞의 Engineers 를 꾸미는 말이라, 진짜 동사는 might expect 다. expect A to be B 는 'A가 B일 것이라 예상하다'라는 짜임이고, 다음 문장에서 그 예상이 빗나갔다는 이야기가 이어진다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|11.1",
+  "en": "Jacobson found something else: the landscape itself is what demands the most adaptability.",
+  "s": "Jacobson",
+  "v": "found",
+  "chunks": [
+   {"en": "Jacobson found something else:", "ko": "제이컵슨은 다른 것을 알게 됐다", "r": "주어 + 동사 + 목적어"},
+   {"en": "the landscape itself is what demands the most adaptability.", "ko": "가장 큰 적응력을 요구하는 것은 그 판 자체였다", "r": "동격(그 '다른 것'의 내용)"}
+  ],
+  "ko": "제이컵슨이 알게 된 것은 다른 것이었다. 가장 큰 적응력을 요구하는 것은 그 일이 놓인 판(landscape), 곧 지구과학을 둘러싼 환경 그 자체였다.",
+  "why": "콜론 뒤는 새 문장이 아니라 앞의 something else 가 무엇인지 밝힌 말이다. itself 는 '그 자체'라는 강조이고, what demands ~ 는 '~을 요구하는 것'이라는 명사 덩어리다. 여기서 landscape 은 눈에 보이는 풍경이 아니라 일이 놓인 판·환경을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|12.0",
+  "en": "“The way we do Earth science is changing,” she says.",
+  "s": "she",
+  "v": "says",
+  "chunks": [
+   {"en": "“The way we do Earth science", "ko": "우리가 지구과학을 하는 그 방식이", "r": "인용 안의 주어(관계사 생략)"},
+   {"en": "is changing,”", "ko": "바뀌고 있습니다", "r": "인용 안의 동사(현재진행)"},
+   {"en": "she says.", "ko": "그는 이렇게 말한다", "r": "주절"}
+  ],
+  "ko": "“우리가 지구과학을 하는 방식이 바뀌고 있습니다.” 그는 이렇게 말한다.",
+  "why": "인용문 안의 주어는 The way we do Earth science 전체다(way 뒤에 관계사가 생략됨). 문장 전체의 주절은 맨 끝 she says 이고, is changing 은 '바꾸고 있다'가 아니라 '바뀌고 있다'이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|12.1",
+  "en": "Commercial companies are increasingly contributing data alongside government agencies.",
+  "s": "Commercial companies",
+  "v": "are increasingly contributing",
+  "chunks": [
+   {"en": "Commercial companies are increasingly contributing data", "ko": "민간 기업들이 점점 더 많은 데이터를 내놓고 있다", "r": "주어 + 동사(현재진행) + 목적어"},
+   {"en": "alongside government agencies.", "ko": "정부 기관들과 나란히", "r": "전치사구(누구와 함께)"}
+  ],
+  "ko": "민간 기업들이 정부 기관들과 나란히 점점 더 많은 데이터를 내놓고 있다.",
+  "why": "alongside 는 '~ 옆에'라는 위치가 아니라 '~와 나란히, ~와 함께'라는 뜻이다. 정부 기관을 밀어내고 대신하는 것이 아니라 함께 데이터를 내놓는다는 말이고, increasingly 는 '점점 더'로 변화가 진행 중임을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|12.2",
+  "en": "New space agencies are entering the field.",
+  "s": "New space agencies",
+  "v": "are entering",
+  "chunks": [
+   {"en": "New space agencies are entering the field.", "ko": "새로운 우주 기관들이 이 분야에 들어오고 있다", "r": "주어 + 동사(현재진행) + 목적어"}
+  ],
+  "ko": "새로운 우주 기관들이 이 분야에 들어오고 있다.",
+  "why": "the field 는 '들판'이 아니라 '(지구 관측·우주라는) 분야'를 뜻한다. 앞 문장의 민간 기업과는 다른 쪽, 곧 나라가 세운 우주 기관들을 하나 더 든 것이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|12.3",
+  "en": "Innovative technologies and architectures are emerging all the time.",
+  "s": "Innovative technologies and architectures",
+  "v": "are emerging",
+  "chunks": [
+   {"en": "Innovative technologies and architectures", "ko": "혁신적인 기술과 구성 방식이", "r": "주어(둘을 묶은 명사구)"},
+   {"en": "are emerging all the time.", "ko": "끊임없이 새로 나오고 있다", "r": "동사(현재진행) + 빈도"}
+  ],
+  "ko": "혁신적인 기술과 (시스템을 짜 맞추는) 구성 방식이 끊임없이 새로 나오고 있다.",
+  "why": "all the time 은 '항상 그 시간에'가 아니라 '늘, 끊임없이'라는 뜻이다. architectures 는 '건축물'이 아니라 시스템을 어떻게 짜 맞추는가 하는 구성 방식을 가리키고, Innovative 는 뒤의 두 명사 모두에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|12.4",
+  "en": "Keeping pace with that shift — understanding how NASA’s own capabilities are evolving and how to best serve the communities that depend on the data — is as much a part of the job as any calculation.",
+  "s": "Keeping pace with that shift",
+  "v": "is",
+  "chunks": [
+   {"en": "Keeping pace with that shift", "ko": "그 변화에 발맞추는 일은", "r": "주어(~하는 일)"},
+   {"en": "— understanding how NASA’s own capabilities are evolving", "ko": "곧 NASA 자신의 역량이 어떻게 달라지고 있는지 아는 일", "r": "동격 ①(그 일의 내용)"},
+   {"en": "and how to best serve the communities that depend on the data —", "ko": "그리고 그 데이터에 의지하는 공동체들을 어떻게 가장 잘 섬길지 아는 일", "r": "동격 ②"},
+   {"en": "is as much a part of the job as any calculation.", "ko": "어떤 계산 못지않게 이 일의 한 부분이다", "r": "동사 + 보어(비교)"}
+  ],
+  "ko": "그 변화에 발맞추는 일 — NASA 자신의 역량이 어떻게 달라지고 있는지, 그리고 그 데이터에 의지하는 공동체들을 어떻게 하면 가장 잘 섬길 수 있는지를 아는 일 — 도 어떤 계산 못지않게 이 일의 한 부분이다.",
+  "why": "주어(Keeping pace with that shift)와 동사(is)가 대시로 둘러싸인 긴 설명 때문에 멀리 떨어져 있다. 대시 안쪽을 괄호로 묶으면 'Keeping pace … is … a part of the job' 이 뼈대다. as much A as B 는 'B 못지않게 A이다'라는 비교다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|13.0",
+  "en": "Some of that adaptability shows up in smaller ways too, like the growing role of AI tools in her team’s own workflow.",
+  "s": "Some of that adaptability",
+  "v": "shows up",
+  "chunks": [
+   {"en": "Some of that adaptability shows up", "ko": "그런 적응력의 일부는 드러난다", "r": "주어 + 동사"},
+   {"en": "in smaller ways too,", "ko": "더 작은 방식으로도", "r": "어떻게 드러나는가"},
+   {"en": "like the growing role of AI tools", "ko": "예를 들면 점점 커지는 AI 도구의 역할처럼", "r": "예시"},
+   {"en": "in her team’s own workflow.", "ko": "그의 팀이 실제로 일하는 방식 안에서", "r": "전치사구(어디에서)"}
+  ],
+  "ko": "그런 적응력은 더 작은 방식으로도 드러난다. 예를 들어 그의 팀이 실제로 일하는 방식 안에서 AI 도구가 차지하는 역할이 점점 커지고 있는 것이 그렇다.",
+  "why": "show up 은 '나타나다, 드러나다'라는 뜻이다. like 는 '좋아하다'라는 동사가 아니라 '예를 들면'이라는 뜻으로 뒤에 예가 온다. the growing role 은 '역할이 점점 커지고 있다'는 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|13.1",
+  "en": "“Langley has done a lot of firsts,” Jacobson says, echoing something she heard recently from Trina Dyal, NASA Langley’s director, at an intern event.",
+  "s": "Jacobson",
+  "v": "says",
+  "chunks": [
+   {"en": "“Langley has done a lot of firsts,”", "ko": "랭글리는 '최초'를 많이 해냈습니다", "r": "인용문(주어 + 현재완료 + 목적어)"},
+   {"en": "Jacobson says,", "ko": "제이컵슨은 이렇게 말한다", "r": "주절"},
+   {"en": "echoing something she heard recently", "ko": "최근에 들은 말을 그대로 옮기면서", "r": "분사구문(~하면서)"},
+   {"en": "from Trina Dyal, NASA Langley’s director,", "ko": "NASA 랭글리 소장인 트리나 다이얼에게서", "r": "들은 상대 + 동격(그가 누구인지)"},
+   {"en": "at an intern event.", "ko": "인턴 행사에서", "r": "장소·상황"}
+  ],
+  "ko": "“랭글리는 ‘최초’를 많이 해냈습니다.” 제이컵슨은 이렇게 말한다. 최근 인턴 행사에서 NASA 랭글리 소장인 트리나 다이얼(Trina Dyal)에게서 들은 말을 그대로 옮긴 것이다.",
+  "why": "firsts 는 '첫 번째'가 아니라 '최초로 해낸 일들'이라는 셀 수 있는 명사다. echoing ~ 은 분사구문으로 제이컵슨이 하는 동작이고, NASA Langley’s director 는 앞의 Trina Dyal 이 누구인지 밝히는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|13.2",
+  "en": "“And we want to continue to be the first.",
+  "s": "we",
+  "v": "want",
+  "chunks": [
+   {"en": "“And we want to continue", "ko": "그리고 저희는 계속 이어 가고 싶습니다", "r": "접속 + 주어 + 동사"},
+   {"en": "to be the first.", "ko": "맨 처음 해내는 쪽이 되는 것을", "r": "무엇을 계속하려는가"}
+  ],
+  "ko": "“그리고 저희는 앞으로도 계속 ‘최초’이고 싶습니다.",
+  "why": "want to continue to be ~ 는 to부정사가 두 번 겹쳐 '~인 상태를 계속 이어 가고 싶다'는 뜻이다. the first 는 앞 문장의 firsts(최초로 해낸 일)를 받아 '맨 처음 해내는 쪽'을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|13.3",
+  "en": "That means learning new things and figuring out how to bring them into how we work.”",
+  "s": "That",
+  "v": "means",
+  "chunks": [
+   {"en": "That means learning new things", "ko": "그러려면 새로운 것을 배워야 하고", "r": "주어 + 동사 + 목적어 ①"},
+   {"en": "and figuring out how to bring them", "ko": "그것들을 어떻게 들여올지 알아내야 합니다", "r": "목적어 ②"},
+   {"en": "into how we work.”", "ko": "우리가 일하는 방식 안으로", "r": "도착점(bring 의 방향)"}
+  ],
+  "ko": "“그러려면 새로운 것을 배우고, 그것들을 우리가 일하는 방식 안으로 어떻게 들여올지 알아내야 합니다.”",
+  "why": "That 은 앞 문장의 '계속 최초이고 싶다'는 말을 받는다. mean + ~ing 는 '~하는 것을 뜻한다', 곧 '그러려면 ~해야 한다'는 말이다. how we work 는 의문문이 아니라 '우리가 일하는 방식'이라는 명사 덩어리로 into 의 목적어다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|14.0",
+  "en": "Jacobson received this novel in high school, let it sit on her shelf for years, and finally picked it up during the pandemic.",
+  "s": "Jacobson",
+  "v": "received",
+  "chunks": [
+   {"en": "Jacobson received this novel in high school,", "ko": "제이컵슨은 고등학생 때 이 소설을 받았고", "r": "주어 + 동사 ① + 목적어 + 시간"},
+   {"en": "let it sit on her shelf for years,", "ko": "여러 해 동안 책꽂이에 그대로 두었다가", "r": "동사 ②(~하도록 내버려 두다)"},
+   {"en": "and finally picked it up during the pandemic.", "ko": "팬데믹 동안에야 마침내 집어 들었다", "r": "동사 ③ + 시간"}
+  ],
+  "ko": "제이컵슨은 고등학생 때 이 소설을 받았고, 여러 해 동안 책꽂이에 그대로 꽂아 두었다가, 팬데믹 때가 되어서야 마침내 집어 들었다.",
+  "why": "주어 하나(Jacobson)에 동사가 셋(received … let … picked up …) 이어진다. let it sit 은 'let + 목적어 + 동사원형'으로 '그것이 그대로 있게 두다'라는 뜻이지 '앉으라고 시켰다'가 아니다. 세 동작은 쓰인 순서 그대로 시간 순서다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|15.0",
+  "en": "“It was very special.",
+  "s": "It",
+  "v": "was",
+  "chunks": [
+   {"en": "“It was very special.", "ko": "그것은 아주 특별했습니다", "r": "주어 + 동사 + 보어"}
+  ],
+  "ko": "“그건 아주 특별했습니다.",
+  "why": "It 은 앞 문장에 나온 그 소설책을 받는다. 짧은 문장이지만 여기서 대명사를 잘못 짚으면 이어지는 인용 전체가 어긋난다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|15.1",
+  "en": "It touches a lot on the meaning of life, and that connects to some of the reasons I was motivated by space in the first place.",
+  "s": "It",
+  "v": "touches",
+  "chunks": [
+   {"en": "It touches a lot on the meaning of life,", "ko": "그 책은 삶의 의미를 많이 다루는데", "r": "주어 + 동사 + 다루는 주제"},
+   {"en": "and that connects to some of the reasons", "ko": "그 점이 이유들 가운데 얼마와 이어집니다", "r": "대등절: 주어 + 동사 + 목적어"},
+   {"en": "I was motivated by space in the first place.", "ko": "애초에 제가 우주에 마음이 끌렸던", "r": "관계절(관계사 생략, 앞 reasons 설명)"}
+  ],
+  "ko": "“그 책은 삶의 의미를 많이 다루는데, 그 점이 애초에 제가 우주에 마음이 끌렸던 이유들 가운데 얼마와 이어집니다.",
+  "why": "touch on ~ 은 '만지다'가 아니라 '~을 다루다, 언급하다'인데 사이에 a lot 이 끼어 있어 짝이 잘 보이지 않는다. the reasons I was motivated ~ 는 관계사가 생략된 채 reasons 를 꾸미고, I was motivated by space 는 수동태로 '우주에 마음이 끌렸다'는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|15.2",
+  "en": "The idea that space exploration can bring humanity together.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "The idea that space exploration", "ko": "우주 탐사가 ~라는 생각", "r": "중심 명사 + 동격절의 주어"},
+   {"en": "can bring humanity together.", "ko": "인류를 하나로 모을 수 있다는", "r": "동격절의 동사(그 생각의 내용)"}
+  ],
+  "ko": "“우주 탐사가 인류를 하나로 모을 수 있다는 생각 말이지요.",
+  "why": "주절의 동사가 없는 조각이다(앞말에 던지듯 덧붙인 명사구). that 은 관계대명사가 아니라 The idea 의 내용을 밝히는 동격 접속사라 '~라는 생각'으로 읽는다. bring A together 는 'A를 하나로 모으다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|15.3",
+  "en": "That cosmic perspective.”",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "That cosmic perspective.”", "ko": "그 우주적인 시각 말이지요", "r": "동사가 없는 명사구 조각"}
+  ],
+  "ko": "“그 우주적인 시각 말이지요.”",
+  "why": "동사가 없는 명사구 조각이다. That 은 '저것'이라는 대명사가 아니라 뒤의 perspective 를 꾸미는 지시형용사라 '그 ~'로 읽는다. cosmic 은 '우주의', perspective 는 '시각·관점'이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|16.0",
+  "en": "Part of the Systems Analysis and Concepts Directorate at NASA’s Langley Research Center.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Part of the Systems Analysis and Concepts Directorate", "ko": "시스템 분석·개념 부서(SACD)의 일부", "r": "소속을 밝히는 명사구"},
+   {"en": "at NASA’s Langley Research Center.", "ko": "NASA 랭글리 연구소에 있는", "r": "전치사구(그 부서가 있는 곳)"}
+  ],
+  "ko": "NASA 랭글리 연구소(Langley Research Center)의 시스템 분석·개념 부서(SACD) 소속.",
+  "why": "동사가 없는 조각으로, 기사 끝에 붙는 소속 안내다. '(이 팀은) ~ 소속이다' 정도가 생략된 것이라 동사를 찾으려 애쓸 필요가 없다. Part of ~ 는 '~의 일부', 곧 '~에 속함'이라는 말이다.",
+  "st": []
+ },
+ {
+  "id": "e98f580e|16.1",
+  "en": "Learn more about our work by visiting our website.",
+  "s": "",
+  "v": "Learn",
+  "chunks": [
+   {"en": "Learn more about our work", "ko": "저희가 하는 일에 대해 더 알아보세요", "r": "명령문: 동사 + 목적어"},
+   {"en": "by visiting our website.", "ko": "저희 웹사이트를 방문해서", "r": "수단(~함으로써)"}
+  ],
+  "ko": "저희 웹사이트를 방문해 저희가 하는 일에 대해 더 알아보세요.",
+  "why": "주어가 없는 명령문이라 Learn 이 문장의 첫 동사다. 주어를 찾으려 하지 말 것. by ~ing 는 '~함으로써, ~해서'라는 수단이다.",
+  "st": []
+ }
+]

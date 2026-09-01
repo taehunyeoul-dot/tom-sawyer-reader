@@ -1,0 +1,54 @@
+Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming
+NASA · 2026-08-23
+https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/
+
+[0.0] News and Features Multimedia Mars Missions Mars Home 3 min read
+
+[1.0] By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems
+
+[2.0] This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.”
+[2.1] After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp.
+[2.2] As we transition into fall in Gale Crater, temperatures and the likelihood of dust storms begins to drop, but Curiosity is still on the lookout for the last gasp of late-season local and regional dust storms.
+
+[3.0] Monday’s plan for Sols 4982 to 4985 began with Curiosity standing face to face with a unique geologic feature just above the erosional supersurface contact.
+[3.1] As you might have read in the previous blog , the team was fortunate enough to spend two planning cycles at this amazing location.
+[3.2] MAHLI used this opportunity to reacquire selected images for the mosaic of target “Tres Morros.”
+[3.3] This will allow the science team to have a detailed and focused view of the underside of this feature.
+[3.4] APXS took measurements of the bedrock target “El Motacusal” after it had been brushed with the DRT.
+[3.5] APXS took a second measurement on the “as is” bedrock target “Alto de Carmen.”
+[3.6] Both of these APXS targets were documented with high-resolution images taken by MAHLI.
+[3.7] ChemCam activities include LIBS spectroscopy on bedrock targets “Lagunas Bravas” and “Parququcha” and ChemCam Remote Micro-Imaging on Mishe Mokwa.
+[3.8] I had the pleasure to be on the Mastcam uplink shift for this plan.
+[3.9] Mastcam took a near-field mosaic of the erosional ridge, dubbed “Los Toldos,” as well as a mosaic on further away bedrock exposure above the erosional surface, named “Los Ladrillos.”
+[3.10] In addition to these mosaics, Mastcam also provided color documentation of the previous plan’s ChemCam Remote Micro-Imaging on Cordillera and the ChemCam LIBS activities taken in this plan.
+
+[4.0] Curiosity then drove 100 feet (30 meters) to take us to our location for Friday’s plan for Sols 4985 to 4987.
+[4.1] Although we had plenty of flat and tasty bedrock in this new location, we could not place the robotic arm in a safe position to DRT the bedrock.
+[4.2] The left-front wheel was perched on a small rock, and we had to account for a risk the rover could slip off this rock as we move the arm around.
+[4.3] MAHLI and APXS were still able to safely perform contact science on two bedrock targets, “Mamorecillo” and “Aguas Claras.”
+[4.4] MAHLI had an additional housekeeping activity to image the calibration target.
+[4.5] ChemCam plans to use its laser spectrometer to gather geochemistry on three targets in this vicinity, followed by Mastcam documentation.
+[4.6] Today’s ChemCam LIBS targets include a dark-toned resistant layer in the bedrock “Yura Kasa.”
+[4.7] Mastcam is planning a series of mosaics to continue imaging the stratigraphy in the unit above the erosional contact.
+
+[5.0] Today’s plan was packed with environmental monitoring activities to monitor for dust storms.
+[5.1] Mastcam took a flurry of dust-imaging observations to measure optical depth, or “tau,” of the atmosphere.
+[5.2] A higher tau value is associated with an increased amount of dust in the atmosphere.
+[5.3] APXS joined in on the action by planning an overnight atmospheric measurement.
+[5.4] Navcam took on most of the heavy lifting to monitor for dust storms.
+[5.5] These activities include multiple large dust-devil surveys, zenith observation, in-crater line-of-sight observations, and suprahorizon cloud movies.
+
+[6.0] Curiosity will then continue to climb Mount Sharp; the planned drive distance of 150 feet (47 meters) will take the rover southwest of our current location.
+[6.1] We will return Monday to start a new week full of contact science, remote sensing, and driving on Mars.
+
+[7.0] Mars is the fourth planet from the Sun, and the seventh largest.
+[7.1] It’s the only planet we know of inhabited…
+
+[8.0] Explore this collection of Mars images, videos, resources, PDFs, and toolkits.
+[8.1] Discover valuable content designed to inform, educate, and inspire,…
+
+[9.0] Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science.
+[9.1] Many attributes of a…
+
+[10.0] The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+

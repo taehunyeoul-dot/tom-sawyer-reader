@@ -1,0 +1,152 @@
+{
+ "8e1ec71e|0.0": [
+  {
+   "t": "who",
+   "q": "<b>NASA has selected four companies</b> — 고른 쪽과 뽑힌 쪽은 각각 누구입니까?",
+   "a": "고른 쪽은 NASA, 뽑힌 쪽은 업체 네 곳입니다",
+   "tip": "select 는 \"선정하다\"입니다. 방향을 뒤집어 읽으면 NASA가 업체에 뽑힌 것이 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to provide payload processing facilities</b> — 시설을 제공하는 쪽은 누구입니까?",
+   "a": "선정된 업체 네 곳입니다 — NASA가 아닙니다",
+   "tip": "to부정사 앞에 목적어(four companies)가 있으면, 그 동작을 하는 주체는 문장의 주어가 아니라 그 목적어입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>under the Spacecraft Processing Operations Contract on‑ramp provision</b> 은 무엇을 밝히는 말입니까?",
+   "a": "이번 선정의 근거가 된 조항입니다 — 그 계약의 온램프(on-ramp) 조항에 따라 뽑았다는 뜻입니다",
+   "tip": "명사가 여섯 개나 이어 붙어 있습니다. 이 덩어리의 중심 명사는 맨 끝의 provision(조항)이고, 앞의 말들은 모두 그것을 꾸밉니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>has selected</b> — 업체 선정은 앞으로 할 일입니까, 이미 한 일입니까?",
+   "a": "이미 한 일입니다 — 현재완료라 선정이 끝난 상태입니다",
+   "tip": "will select 가 아닙니다. 뒤의 to provide 는 앞으로 할 일이지만, 고르는 일 자체는 끝났습니다."
+  }
+ ],
+ "8e1ec71e|0.1": [
+  {
+   "t": "who",
+   "q": "<b>enables qualified providers to offer commercial payload processing services</b> — 서비스를 제공하는 쪽은 누구입니까?",
+   "a": "자격을 갖춘 업체들(qualified providers)입니다 — 조항이 서비스를 제공하는 것이 아닙니다",
+   "tip": "enable A to B 는 \"A가 B할 수 있게 하다\"입니다. 주어(The provision)를 제공하는 쪽으로 읽으면 뒤집힙니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>where capabilities were not available</b> — 그 장소들에는 처리 능력이 있었습니까, 없었습니까?",
+   "a": "없었습니다",
+   "tip": "not 하나로 뜻이 정반대가 됩니다. \"능력이 있던 곳\"으로 읽으면 이 조항을 새로 만든 이유 자체가 사라집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>launching from multiple locations</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 agency missions(NASA의 임무들)입니다 — 여러 장소에서 발사되는 임무라는 뜻",
+   "tip": "services 나 providers 에 붙이면 \"업체가 발사한다\"가 되어 버립니다. -ing 는 바로 앞 명사를 꾸밉니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>at the time of the initial contract award</b> — 처리 능력이 없었던 것은 언제입니까?",
+   "a": "처음 계약을 맺던(수주하던) 시점입니다 — 지금도 없다는 말이 아닙니다",
+   "tip": "were 라는 과거형이 가리키는 시점이 바로 이 구절입니다. 그 뒤로 사정이 달라졌기 때문에 이 조항이 필요해진 것입니다."
+  }
+ ],
+ "8e1ec71e|1.0": [
+  {
+   "t": "who",
+   "q": "<b>NASA procures facilities and services</b> — NASA는 시설을 마련해 주는 쪽입니까, 사들이는 쪽입니까?",
+   "a": "사들이는(조달하는) 쪽입니다 — 업체가 내놓고 NASA가 사 옵니다",
+   "tip": "procure 는 \"조달하다, 사서 확보하다\"입니다. \"제공하다\"로 읽으면 돈을 내는 쪽과 받는 쪽이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>required to perform prelaunch processing</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 facilities and services(시설과 서비스)입니다 — 발사 전 처리를 하는 데 필요한 시설·서비스라는 뜻",
+   "tip": "required 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 procures 하나뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>of spacecraft and associated rocket hardware</b> 는 무엇에 걸리는 말입니까?",
+   "a": "바로 앞의 prelaunch processing 입니다 — 우주선과 그에 딸린 로켓 장비를 대상으로 하는 발사 전 처리",
+   "tip": "멀리 있는 facilities and services 에 붙여 \"우주선의 시설\"로 읽기 쉽습니다. 바로 앞 명사는 processing 입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>prelaunch processing</b> 과 <b>for delivery to the launch pad</b> — 어느 쪽이 먼저입니까?",
+   "a": "발사 전 처리가 먼저이고, 그다음 발사대로 보냅니다",
+   "tip": "pre- 는 \"~보다 앞선\"이라는 뜻입니다. 발사대에 올린 뒤에 처리하는 것이 아닙니다."
+  }
+ ],
+ "8e1ec71e|2.0": [
+  {
+   "t": "mod",
+   "q": "<b>a multiple-award, commercial, firm-fixed-price, indefinite-delivery/indefinite-quantity</b> — 쉼표로 나열된 이 말들은 무엇을 꾸밉니까?",
+   "a": "뒤에 나오는 contract vehicle(계약 틀) 하나입니다 — 네 가지 모두 이 계약 하나의 성격입니다",
+   "tip": "쉼표가 이어져 서로 다른 것 네 가지를 나열한 것으로 읽기 쉽지만, 모두 한 명사를 꾸미는 형용사입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that has an aggregate ceiling price of $100 million</b> 은 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 contract vehicle, 곧 이 계약 자체입니다",
+   "tip": "that 을 새 문장의 시작으로 읽으면 안 됩니다. 앞 명사를 설명하는 관계절이고, 문장의 동사는 is 하나뿐입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>an aggregate ceiling price of $100 million</b> — 1억 달러는 업체 한 곳당 금액입니까, 계약 전체를 합친 금액입니까?",
+   "a": "계약 전체를 합친 금액이며, 그것도 넘을 수 없는 상한선입니다",
+   "tip": "aggregate 는 \"합쳐서\", ceiling 은 \"천장\", 곧 상한입니다. 반드시 다 쓰기로 한 금액이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>with an ordering period through Feb. 1, 2033</b> — 2033년 2월 1일은 무엇의 기한입니까?",
+   "a": "발주(주문)를 낼 수 있는 기간의 끝입니다",
+   "tip": "작업이 모두 끝나는 날이나 돈을 다 쓰는 날로 읽기 쉽습니다. ordering period 는 주문을 낼 수 있는 기간입니다."
+  }
+ ],
+ "8e1ec71e|3.0": [
+  {
+   "t": "who",
+   "q": "<b>will manage the contract</b> — 계약을 관리하는 쪽은 어디입니까?",
+   "a": "NASA의 발사서비스프로그램(Launch Services Program)입니다",
+   "tip": "동사 바로 앞의 Florida 나 Kennedy Space Center 를 주어로 잡기 쉽습니다. 주어는 맨 앞의 Program 입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>the agency’s Kennedy Space Center</b> 에서 the agency 는 무엇을 가리킵니까?",
+   "a": "NASA입니다",
+   "tip": "기사에서는 NASA를 되풀이하지 않으려고 the agency(그 기관)로 바꿔 부릅니다. 다른 기관이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>will manage</b> — 이 관리는 이미 시작된 일입니까?",
+   "a": "아니요 — 앞으로 관리하게 된다는 뜻입니다",
+   "tip": "will 을 놓치면 이미 진행 중인 일로 읽게 됩니다."
+  }
+ ],
+ "8e1ec71e|3.1": [
+  {
+   "t": "pron",
+   "q": "<b>The program</b> 은 무엇을 가리킵니까?",
+   "a": "앞 문장에 나온 NASA의 발사서비스프로그램(Launch Services Program)입니다",
+   "tip": "앞 문장에 기관 이름이 여럿 나와 헷갈리기 쉽습니다. the 가 붙었으니 앞에서 이미 나온 그것입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>private industry, mission, and international partners</b> — 몇 가지를 나열한 것이고, 각각 무엇입니까?",
+   "a": "세 가지입니다 — 민간 산업계 파트너, 임무 파트너, 국제 파트너. 앞의 둘에는 partners 가 생략되어 있습니다",
+   "tip": "mission 을 홀로 선 명사(\"임무\")로 읽으면 \"산업계와 임무와 국제 파트너\"라는 이상한 나열이 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to launch science payloads</b> — 발사하는 쪽은 누구입니까?",
+   "a": "The program, 곧 발사서비스프로그램입니다(파트너들과 함께)",
+   "tip": "바로 앞의 partners 만 주체로 잡기 쉽습니다. to부정사가 나타내는 동작의 주체는 문장의 주어입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>ranging from small satellites … to NASA’s highest-priority missions</b> 는 무엇의 범위를 말합니까?",
+   "a": "바로 앞의 science payloads(과학 탑재체)의 범위입니다",
+   "tip": "partners 의 범위로 읽기 쉽습니다. -ing 는 바로 앞 명사인 payloads 를 꾸밉니다."
+  }
+ ]
+}

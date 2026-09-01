@@ -1,0 +1,215 @@
+{
+ "bc8e2a4c|0.0": [
+  {"t":"mod","q":"<b>or soot produced by fires, diesel vehicles, and other combustion sources</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 black carbon 입니다 — 그것이 무엇인지 다시 풀어 준 말입니다","tip":"or 를 ‘또는’으로 읽어 black carbon 과 별개인 다른 물질로 보면 틀립니다. 여기서 or 는 ‘즉, 다시 말해’입니다."},
+  {"t":"who","q":"<b>NASA-funded</b> — NASA가 이 관측망에 한 일은 무엇입니까?","a":"자금을 댔습니다. NASA가 관측망을 직접 운영했다는 말은 이 문장에 없습니다","tip":"-funded 는 ‘자금을 지원받은’이라는 수동 표현입니다. 앞에 붙은 이름이 돈을 댄 쪽입니다."},
+  {"t":"mod","q":"<b>in Ethiopia’s capital, Addis Ababa</b> — 여기 나오는 곳은 몇 군데입니까?","a":"한 곳입니다 — 에티오피아의 수도가 곧 아디스아바바입니다","tip":"쉼표로 이어진 두 이름을 서로 다른 두 곳으로 읽기 쉽습니다. 같은 곳을 두 번 부른 것(동격)입니다."},
+  {"t":"time","q":"<b>has provided</b> — 이 관측 결과는 앞으로 나올 것입니까, 이미 나온 것입니까?","a":"이미 나왔습니다","tip":"yet 이 붙어 있어 ‘아직’으로 읽기 쉽지만, 최상급 뒤의 yet 은 ‘지금까지 중 가장 ~한’이라는 뜻입니다."}
+ ],
+ "bc8e2a4c|0.1": [
+  {"t":"mod","q":"<b>associated with rush-hour traffic and holiday celebrations</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 increases(오염이 늘어난 것)입니다 — 혼잡 시간대 교통·명절 행사와 관련된 증가라는 뜻","tip":"associated 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 show 하나뿐입니다."},
+  {"t":"who","q":"<b>The detailed measurements show</b> — 보여 주는 쪽은 누구입니까?","a":"측정값(측정 결과) 자체입니다. 사람이 아닙니다","tip":"주어가 사람이 아닌 사물일 때 show 는 ‘~를 보면 …을 알 수 있다’로 읽으면 자연스럽습니다."},
+  {"t":"mod","q":"<b>by time of day and season</b> 는 무슨 뜻입니까?","a":"하루 중 시간대에 따라, 그리고 계절에 따라 — 오염이 달라지는 기준입니다","tip":"by 를 ‘~에 의해’로 읽으면 시간대가 오염을 일으킨다는 말이 됩니다. 여기서는 ‘~별로, ~에 따라’입니다."}
+ ],
+ "bc8e2a4c|0.2": [
+  {"t":"pron","q":"<b>The findings</b> 는 무엇을 가리킵니까?","a":"앞에서 말한 관측망의 측정으로 밝혀진 것들입니다","tip":"the 가 붙었다는 것은 앞에서 이미 나온 것을 다시 받는다는 신호입니다."},
+  {"t":"mod","q":"<b>including in the United States</b> 는 무엇에 붙는 말입니까?","a":"앞의 cities around the world 입니다 — 미국에 있는 도시들도 여기에 든다는 뜻","tip":"including 뒤에 in 이 붙은 것이 단서입니다. 미국이라는 나라 자체가 아니라 ‘미국 안의 도시들’을 가리킵니다."}
+ ],
+ "bc8e2a4c|1.0": [
+  {"t":"who","q":"<b>deployed by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) project</b> — 관측 지점을 설치한 쪽은 어디입니까?","a":"NASA의 MAIA 사업입니다. 논문을 쓴 과학자들이 설치했다는 말은 없습니다","tip":"수동(deployed) 표현이라 by 뒤가 설치한 쪽입니다. 주체가 뒤로 밀려 있어 놓치기 쉽습니다."},
+  {"t":"mod","q":"<b>collected throughout Addis Ababa between 2022 and 2025</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 data(자료)입니다 — 2022~2025년에 아디스아바바 전역에서 수집된 자료라는 뜻","tip":"collected 를 analyzed 와 나란한 동사로 읽으면 뼈대가 흐트러집니다. 이 문장의 동사는 analyzed 하나뿐입니다."},
+  {"t":"time","q":"<b>between 2022 and 2025</b> 는 무엇을 한 기간입니까?","a":"자료를 수집한 기간입니다. 논문이 나온 시점이 아닙니다","tip":"분석은 그 뒤에 이루어졌고, 논문은 새로(new) 나온 것입니다."},
+  {"t":"mod","q":"<b>In a new paper published in ES&T: Air</b> — 여기서 ES&T: Air 는 무엇입니까?","a":"논문이 실린 학술지 이름입니다","tip":"published in ~ 은 ‘~에 실린’입니다. 논문 제목이나 연구 기관 이름이 아닙니다."}
+ ],
+ "bc8e2a4c|2.0": [
+  {"t":"mod","q":"<b>aimed at improving air quality</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 steps(조치)입니다 — 대기질 개선을 겨냥한 조치라는 뜻","tip":"aimed 를 또 하나의 동사로 읽으면 ‘에티오피아가 겨냥되었다’는 이상한 말이 됩니다."},
+  {"t":"who","q":"<b>Ethiopia is taking steps</b> — 조치를 취하는 쪽은 어디입니까?","a":"에티오피아입니다. 연구진이나 NASA가 아닙니다","tip":"앞 절의 주어는 The research 이고 as 뒤에 새 주어 Ethiopia 가 나옵니다. 두 주어를 섞지 마세요."},
+  {"t":"time","q":"<b>The research comes as Ethiopia is taking steps</b> — 연구와 에티오피아의 조치는 시간상 어떤 관계입니까?","a":"같은 시기입니다 — 조치가 진행되는 가운데 연구 결과가 나왔습니다","tip":"comes as ~ 는 ‘~하는 때에 나왔다’입니다. 어느 한쪽이 앞선다는 말이 아닙니다."}
+ ],
+ "bc8e2a4c|2.1": [
+  {"t":"pron","q":"<b>the country</b> 는 어느 나라입니까?","a":"에티오피아입니다","tip":"앞 문장의 Ethiopia 를 받는 말입니다. 미국이나 다른 나라가 아닙니다."},
+  {"t":"mod","q":"<b>to ban the import of internal combustion engine vehicles</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the first in the world 입니다 — ‘내연기관 차량 수입을 금지한’ 세계 최초의 나라라는 뜻","tip":"to ban 을 ‘금지하기 위해’라는 목적으로 읽으면 ‘세계 최초가 되려고 금지했다’로 뒤집힙니다."},
+  {"t":"neg","q":"<b>ban the import of internal combustion engine vehicles</b> — 금지한 것은 정확히 무엇입니까?","a":"내연기관 차량을 수입하는 것입니다. 이미 굴러다니는 차를 없앴다거나 모든 차를 금지한 것이 아닙니다","tip":"ban 자체가 ‘금지’라는 부정의 뜻이고, 그 대상은 the import(수입)로 한정되어 있습니다."},
+  {"t":"time","q":"<b>have been adding</b> — 도시들이 자전거 도로를 늘리는 일은 이미 끝났습니까?","a":"아니요 — 계속해 오고 있고 지금도 진행 중입니다","tip":"have been -ing 는 과거부터 지금까지 이어지는 일입니다. 앞의 became(끝난 일)과 시제가 다릅니다."}
+ ],
+ "bc8e2a4c|2.2": [
+  {"t":"who","q":"<b>provide researchers with a baseline</b> — 주는 쪽과 받는 쪽은 각각 무엇입니까?","a":"주는 것은 MAIA 사업의 측정값이고, 받는 쪽은 연구자들입니다","tip":"provide A with B 는 ‘A에게 B를 준다’입니다. researchers 를 주는 쪽으로 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>for understanding how air quality changes over time</b> 는 무엇에 붙는 말입니까?","a":"앞의 a baseline 입니다 — 그 기준점이 무엇에 쓰이는지 밝히는 말","tip":"provide 에 곧바로 붙는 목적으로 읽어도 비슷해 보이지만, 실제로는 baseline 의 쓰임을 밝히는 말입니다."},
+  {"t":"time","q":"<b>as Addis Ababa continues to grow and evolve</b> — 아디스아바바의 성장은 이미 끝난 일입니까?","a":"아니요 — 지금도 계속 커지고 변해 가는 중입니다","tip":"continues to ~ 는 ‘계속 ~해 간다’입니다. 여기 as 는 ‘~로서’가 아니라 ‘~해 감에 따라’입니다."}
+ ],
+ "bc8e2a4c|3.0": [
+  {"t":"mod","q":"<b>that is 2.5 micrometers or less in diameter</b> 는 무엇을 설명하는 말입니까?","a":"앞의 particulate matter(입자물질)입니다 — 지름이 2.5마이크로미터 이하인 입자라는 뜻","tip":"that 을 ‘그것은’이라는 새 문장의 주어로 읽지 마세요. 앞 명사를 좁혀 주는 관계절입니다."},
+  {"t":"neg","q":"<b>2.5 micrometers or less</b> — 2.5마이크로미터보다 큰 것도 여기에 들어갑니까?","a":"아니요 — 2.5마이크로미터이거나 그보다 작은 것만입니다","tip":"or less 를 놓치면 딱 2.5마이크로미터짜리만 가리키는 줄 알게 됩니다. 범위를 아래쪽으로 여는 말입니다."},
+  {"t":"mod","q":"<b>also known as PM2.5</b> 는 무엇을 가리키는 이름입니까?","a":"앞에서 말한 ‘지름 2.5마이크로미터 이하인 입자물질’입니다 — 같은 것의 다른 이름입니다","tip":"새로 등장한 또 다른 물질로 읽기 쉽습니다. known as 는 ‘~라고 불리는’입니다."}
+ ],
+ "bc8e2a4c|3.1": [
+  {"t":"mod","q":"<b>cited in the paper</b> 는 무엇을 설명하는 말입니까?","a":"앞의 The 2025 State of Global Air Report 입니다 — 그 보고서가 논문에 인용되었다는 뜻","tip":"쉼표 둘 사이에 끼어 있는 말입니다. cited 를 문장의 동사로 읽으면 진짜 동사 estimates 를 놓칩니다."},
+  {"t":"who","q":"<b>estimates</b> — 약 490만 명이라고 추정한 쪽은 어디입니까?","a":"The 2025 State of Global Air Report(2025년 세계 대기 현황 보고서)입니다. 이 NASA 논문이 직접 낸 추정치가 아닙니다","tip":"논문은 그 보고서를 인용했을 뿐입니다. 인용한 쪽과 추정한 쪽을 섞지 마세요."},
+  {"t":"neg","q":"<b>is associated with approximately 4.9 million deaths</b> — 이 문장은 PM2.5가 490만 명을 죽였다고 말합니까?","a":"아니요 — ‘관련이 있다’고 추정했을 뿐, 원인이라고 단정하지 않았습니다","tip":"be associated with 는 ‘관련이 있다’입니다. cause(일으키다)로 바꿔 읽으면 원문보다 세게 말하는 것이 됩니다."},
+  {"t":"time","q":"<b>globally each year</b> — 490만 명은 몇 년치 숫자입니까?","a":"한 해 치입니다 — 전 세계에서 해마다 그만큼입니다","tip":"each year 를 놓치면 여러 해를 합친 누적 숫자로 읽게 됩니다."}
+ ],
+ "bc8e2a4c|3.2": [
+  {"t":"who","q":"<b>black carbon has been has been studied</b> — 연구한 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다. 블랙카본은 연구되는 대상입니다","tip":"주어 black carbon 을 ‘연구하는 쪽’으로 읽으면 주체와 대상이 뒤집힙니다. 수동태입니다."},
+  {"t":"pron","q":"<b>its potential effects</b> 의 its 는 무엇을 가리킵니까?","a":"black carbon 입니다","tip":"바로 뒤의 human health 나 PM2.5 전체로 잡기 쉽습니다. 영향을 미치는 쪽은 블랙카본입니다."},
+  {"t":"neg","q":"<b>its potential effects on human health</b> — 건강에 해롭다는 것이 이미 밝혀졌다는 말입니까?","a":"아니요 — potential 은 ‘그럴 가능성이 있는’이라는 뜻으로, 확정된 사실로 말하지 않았습니다","tip":"potential 을 빼고 읽으면 원문보다 훨씬 단정적인 말이 됩니다."}
+ ],
+ "bc8e2a4c|4.0": [
+  {"t":"who","q":"<b>The paper found</b> — 밝혀낸 쪽은 무엇입니까?","a":"그 논문입니다","tip":"found 를 ‘찾았다’로만 알면 어색합니다. 여기서는 연구를 통해 ‘~라는 것을 알아냈다’입니다."},
+  {"t":"mod","q":"<b>which is more than three times the level of the U.S.</b> 의 which 는 무엇을 받습니까?","a":"앞의 30 micrograms per cubic meter(세제곱미터당 30마이크로그램)라는 농도 수치입니다","tip":"바로 앞의 cubic meter 하나만 받는 것으로 읽기 쉽습니다. 농도 수치 전체를 받습니다."},
+  {"t":"neg","q":"<b>more than three times the level</b> — 아디스아바바의 농도는 미국 기준보다 낮습니까, 높습니까?","a":"높습니다 — 세 배가 넘습니다","tip":"three times the level of ~ 는 ‘~의 세 배’입니다. of 뒤가 비교의 기준(낮은 쪽)입니다."},
+  {"t":"mod","q":"<b>Addis Ababa’s three-year average PM2.5 concentration</b> 는 무슨 뜻입니까?","a":"아디스아바바의 3년치 평균 PM2.5 농도입니다","tip":"명사 앞에 꾸미는 말이 여러 겹 붙어 있습니다. 뒤에서부터 ‘농도 ← PM2.5 ← 평균 ← 3년’ 순으로 풀면 됩니다."}
+ ],
+ "bc8e2a4c|4.1": [
+  {"t":"mod","q":"<b>health-based annual PM2.5 standard</b> 는 무엇을 뜻합니까?","a":"건강에 미치는 영향을 근거로 정한 연평균 PM2.5 기준치입니다","tip":"-based 는 ‘~을 바탕으로 한’입니다. ‘건강한 기준’이 아니라 ‘건강을 근거로 삼은 기준’입니다."},
+  {"t":"who","q":"<b>Environmental Protection Agency’s</b> — 이 기준을 정한 곳은 어디입니까?","a":"미국 환경보호청입니다 — 앞 문장 끝의 the U.S. 가 여기에 이어집니다","tip":"이 토막만 보면 어느 나라 기관인지 알 수 없습니다. 앞 문장 마지막과 붙여 읽어야 합니다."}
+ ],
+ "bc8e2a4c|4.2": [
+  {"t":"pron","q":"<b>than those measured in the three U.S. metropolitan areas</b> 의 those 는 무엇을 가리킵니까?","a":"black carbon levels(블랙카본 농도 수치)입니다. 사람이 아닙니다","tip":"those 를 ‘그 사람들’로 읽으면 문장이 통째로 어그러집니다. 앞에 나온 복수 명사를 대신 받는 말입니다."},
+  {"t":"mod","q":"<b>the three U.S. metropolitan areas the mission is monitoring</b> — the mission is monitoring 은 무엇을 설명합니까?","a":"앞의 the three U.S. metropolitan areas 입니다 — 이 임무가 관측하고 있는 미국 세 대도시권이라는 뜻","tip":"areas 와 the mission 사이에 관계대명사 that 이 생략돼 있습니다. 명사 뒤에 곧바로 ‘주어+동사’가 오면 대개 그 명사를 꾸미는 말입니다."},
+  {"t":"who","q":"<b>indicating that average black carbon levels</b>…<b>were approximately four to nine times higher</b> — 이 내용을 보여 주는 쪽은 무엇입니까?","a":"MAIA의 지상 센서에서 나온 자료(data)입니다. 논문은 그 자료를 인용한 것입니다","tip":"indicating 은 바로 앞의 data 에 붙습니다. cites 와 나란한 동사가 아닙니다."},
+  {"t":"mod","q":"<b>approximately four to nine times higher than those measured in the three U.S. metropolitan areas</b> — 더 높은 쪽은 어디입니까?","a":"아디스아바바입니다 — 미국 세 대도시권에서 측정된 값보다 4~9배 높습니다","tip":"than 뒤가 비교의 기준(낮은 쪽)입니다. 방향을 뒤집으면 정반대 뜻이 됩니다."}
+ ],
+ "bc8e2a4c|5.0": [
+  {"t":"who","q":"<b>said Sina Hasheminassab</b> — 따옴표 안의 말을 한 사람은 누구입니까?","a":"시나 하셰미나사브(Sina Hasheminassab)입니다","tip":"인용문이 앞에 오고 said 가 뒤에 오는 도치입니다. said 뒤에 나오는 사람이 말한 쪽입니다."},
+  {"t":"pron","q":"<b>this is the first long-term, multisite study</b> 의 this 는 무엇을 가리킵니까?","a":"이 논문에서 한 연구입니다","tip":"앞에 나온 다른 보고서나 센서로 잡기 쉽습니다. 저자가 자기 연구를 가리켜 말한 것입니다."},
+  {"t":"mod","q":"<b>a coauthor of the paper and MAIA’s deputy principal investigator</b> 는 누구를 설명하는 말입니까?","a":"바로 앞의 Sina Hasheminassab 한 사람입니다 — 두 사람이 아닙니다","tip":"and 로 이어져 있어 두 사람으로 읽기 쉽지만, 한 사람의 두 가지 직함입니다."},
+  {"t":"mod","q":"<b>at NASA’s Jet Propulsion Laboratory in Southern California</b> 는 무엇에 붙는 말입니까?","a":"앞의 직함입니다 — 그가 그 연구소에서 맡고 있는 자리라는 뜻","tip":"연구가 이루어진 장소로 읽기 쉽지만, 말한 사람의 소속을 밝히는 말입니다. 관측은 에티오피아에서 했습니다."}
+ ],
+ "bc8e2a4c|5.1": [
+  {"t":"neg","q":"<b>Many rapidly growing cities have limited long-term monitoring</b> — 장기 관측이 넉넉하다는 말입니까, 모자란다는 말입니까?","a":"모자란다는 말입니다","tip":"limited 는 not 이 없어도 ‘충분하지 않다’는 뜻을 담습니다. ‘도시들이 관측을 제한했다’로 읽으면 뜻이 어그러집니다."},
+  {"t":"pron","q":"<b>these measurements</b> 는 무엇을 가리킵니까?","a":"MAIA 관측망이 아디스아바바에서 얻은 이번 측정값입니다","tip":"these 는 앞에서 말한 것을 받습니다. 다른 도시들의 관측이 아닙니다."},
+  {"t":"mod","q":"<b>for understanding how pollution changes across space and time</b> 는 무엇에 붙는 말입니까?","a":"앞의 an important baseline 입니다 — 그 기준점이 무엇에 쓰이는지 밝히는 말","tip":"provide 에 곧바로 붙는 목적으로 읽어도 비슷해 보이지만, 실제로는 baseline 의 쓰임을 밝히는 말입니다."}
+ ],
+ "bc8e2a4c|6.0": [
+  {"t":"pron","q":"<b>depending on their local geography</b> 의 their 는 무엇을 가리킵니까?","a":"앞의 cities(도시들)입니다","tip":"PM2.5 를 가리킨다고 읽기 쉽습니다. 지형·교통·산업을 가진 쪽은 도시입니다."},
+  {"t":"mod","q":"<b>The composition and sources of PM2.5</b> — 도시마다 다른 것은 몇 가지입니까?","a":"두 가지입니다 — PM2.5의 구성 성분과 발생원","tip":"of PM2.5 는 composition 과 sources 둘 다에 걸립니다. sources 에만 걸린다고 읽지 마세요."},
+  {"t":"mod","q":"<b>between cities</b> 는 무엇과 무엇 사이를 말합니까?","a":"서로 다른 도시들 사이입니다 — 한 도시 안에서의 차이가 아닙니다","tip":"between cities 를 ‘도시 안에서’로 읽으면 뜻이 달라집니다. 도시와 도시를 견주는 말입니다."}
+ ],
+ "bc8e2a4c|6.1": [
+  {"t":"pron","q":"<b>those near coal-fired power plants</b> 의 those 는 무엇을 가리킵니까?","a":"cities(도시들)입니다 — 석탄화력발전소 가까이에 있는 도시들","tip":"those 를 ‘그 사람들’이나 ‘그 먼지들’로 읽으면 문장이 어그러집니다. 앞의 복수 명사 cities 를 대신 받습니다."},
+  {"t":"mod","q":"<b>near coal-fired power plants</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 those, 곧 도시들입니다 — 그 도시들이 발전소 가까이에 있다는 뜻","tip":"황산염이 발전소 근처에 있다는 말로 붙이기 쉽습니다. 위치를 밝히는 대상은 도시입니다."},
+  {"t":"mod","q":"<b>Desert cities, for example,</b> — 이 문장의 주어와 동사는 무엇입니까?","a":"주어는 Desert cities, 동사는 may have 입니다","tip":"쉼표 둘 사이의 for example 이 주어와 동사를 갈라놓습니다. 삽입구를 괄호로 묶어 두고 읽으세요."}
+ ],
+ "bc8e2a4c|6.2": [
+  {"t":"neg","q":"<b>remain limited</b> — 측정이 넉넉해졌다는 말입니까, 아직 부족하다는 말입니까?","a":"아직 부족하다는 말입니다","tip":"remain 은 ‘여전히 ~인 상태다’입니다. ‘남아 있다’로 읽으면 오히려 넉넉하다는 뜻으로 뒤집힙니다."},
+  {"t":"mod","q":"<b>Long-term surface measurements</b> 는 어떤 측정입니까?","a":"땅 위(지상)에서 오랜 기간에 걸쳐 하는 측정입니다","tip":"surface 를 ‘표면 오염’으로 읽기 쉽습니다. 여기서는 인공위성이 아니라 지상에서 잰다는 뜻입니다."},
+  {"t":"mod","q":"<b>in many parts of the world</b> 는 어디를 말합니까?","a":"에티오피아만이 아니라 세계 여러 지역입니다","tip":"앞뒤가 아디스아바바 이야기라 그 도시로 좁혀 읽기 쉽습니다. 범위를 세계로 넓히는 말입니다."}
+ ],
+ "bc8e2a4c|7.0": [
+  {"t":"mod","q":"<b>including three in the U.S.: Los Angeles, Atlanta, and Boston</b> — 미국의 세 도시는 열두 곳에 포함됩니까, 따로 더해집니까?","a":"포함됩니다 — 열두 곳 가운데 셋이 미국에 있습니다","tip":"including 은 ‘~을 포함해’입니다. 12 + 3 = 15가 아닙니다."},
+  {"t":"who","q":"<b>NASA is supporting MAIA’s air pollution research</b> — 지원하는 쪽과 지원받는 쪽은 각각 어디입니까?","a":"지원하는 쪽은 NASA, 지원받는 쪽은 MAIA의 대기오염 연구입니다","tip":"MAIA 가 NASA의 사업이라는 것과, 이 문장이 말하는 ‘NASA가 그 연구를 뒷받침한다’는 것은 다른 이야기입니다."},
+  {"t":"time","q":"<b>is supporting</b> — 지원은 이미 끝났습니까, 지금 하고 있습니까?","a":"지금 하고 있습니다","tip":"현재진행형은 지금 이어지고 있는 일입니다. 지난 일로 읽지 마세요."}
+ ],
+ "bc8e2a4c|7.1": [
+  {"t":"who","q":"<b>that will be launched by the Italian Space Agency (ASI)</b> — 카메라를 발사하는 쪽은 어디입니까?","a":"이탈리아우주국(ASI)입니다. NASA나 JPL이 아닙니다","tip":"수동태(will be launched)라 by 뒤가 발사하는 쪽입니다. 만든 곳(JPL)과 쏘는 곳(ASI)이 다릅니다."},
+  {"t":"neg","q":"<b>no earlier than late 2027</b> 는 언제라는 뜻입니까?","a":"빨라야 2027년 말이라는 뜻입니다 — 그보다 늦어질 수는 있어도 이를 수는 없습니다","tip":"no earlier than 을 ‘2027년 말보다 이전에’로 뒤집어 읽기 쉽습니다. 정반대입니다."},
+  {"t":"mod","q":"<b>which uses a JPL-built camera</b> 의 which 는 무엇을 받습니까?","a":"바로 앞의 a space observatory(우주 관측 장비)입니다","tip":"지상 센서망(ground-based network)으로 잡기 쉽습니다. 카메라를 쓰는 것은 우주 쪽입니다."},
+  {"t":"mod","q":"<b>a ground-based network of sensors already in operation</b> — already in operation 은 무엇을 설명합니까?","a":"그 지상 센서망입니다 — 이미 가동 중이라는 뜻","tip":"우주 관측 장비까지 가동 중인 것으로 읽기 쉽습니다. 우주 쪽은 아직 발사도 하지 않았습니다."}
+ ],
+ "bc8e2a4c|8.0": [
+  {"t":"pron","q":"<b>based on how they reflect light</b> 의 they 는 무엇을 가리킵니까?","a":"PM2.5 aerosols(PM2.5 에어로졸 입자)입니다. 카메라가 아닙니다","tip":"바로 앞의 The camera 로 잡기 쉽습니다. 빛을 반사하는 쪽은 입자입니다."},
+  {"t":"who","q":"<b>The camera is designed to identify</b> — 설계한 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다. 카메라는 설계된 쪽이고, 가려내는 일을 하는 것은 그 카메라입니다","tip":"is designed 를 ‘설계한다’로 읽으면 카메라가 설계자가 됩니다. 수동태입니다."},
+  {"t":"mod","q":"<b>each city that the mission studies</b> — that the mission studies 는 무엇을 설명합니까?","a":"앞의 each city 입니다 — 이 임무가 연구 대상으로 삼는 도시들이라는 뜻","tip":"세상의 모든 도시가 아니라 임무가 다루는 도시로 범위를 좁히는 말입니다."},
+  {"t":"pron","q":"<b>making it possible to map particle concentrations</b> 의 it 은 무엇을 가리킵니까?","a":"뒤의 to map particle concentrations 를 미리 받는 말입니다 — 따로 가리키는 사물이 없습니다","tip":"카메라나 빛으로 잡으면 막힙니다. make it possible to ~ 는 ‘~을 할 수 있게 만든다’라는 통째 표현입니다."}
+ ],
+ "bc8e2a4c|8.1": [
+  {"t":"who","q":"<b>Mounted on a gimbal</b> — 짐벌에 얹힌 것은 무엇입니까?","a":"그 카메라입니다","tip":"분사구문의 주체는 뒤에 나오는 문장의 주어입니다. 쉼표 뒤 the camera 가 그것입니다."},
+  {"t":"pron","q":"<b>information about their shape and size</b> 의 their 는 무엇을 가리킵니까?","a":"particles(입자들)입니다. 기술이나 카메라가 아닙니다","tip":"바로 앞의 technologies 로 잡기 쉽습니다. 모양과 크기를 알아내려는 대상은 입자입니다."},
+  {"t":"mod","q":"<b>that make particles stand out more prominently</b> 는 무엇을 설명하는 말입니까?","a":"앞의 JPL-pioneered technologies(JPL이 개척한 기술)입니다","tip":"that 을 ‘그것은’이라는 새 주어로 읽지 마세요. 앞 명사를 꾸미는 관계절입니다."},
+  {"t":"who","q":"<b>JPL-pioneered technologies</b> — 이 기술을 처음 개척한 쪽은 어디입니까?","a":"JPL(제트추진연구소)입니다","tip":"-pioneered 는 ‘~가 처음 개척한’이라는 수동 표현입니다. 앞에 붙은 이름이 개척한 쪽입니다."}
+ ],
+ "bc8e2a4c|9.0": [
+  {"t":"mod","q":"<b>to include public health researchers</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the first NASA project 입니다 — 공중보건 연구자를 포함시킨 최초의 NASA 사업이라는 뜻","tip":"to include 를 ‘포함시키기 위해’라는 목적으로 읽으면 ‘최초가 되려고 포함시켰다’로 뒤집힙니다."},
+  {"t":"who","q":"<b>public health researchers</b> 는 어떤 사람들입니까?","a":"사람들의 건강(공중보건)을 연구하는 사람들입니다 — 우주 과학자가 아닙니다","tip":"space mission 이야기 속에 있어 우주 연구자로 뭉뚱그리기 쉽습니다. 다른 분야 사람들이 한 팀에 들어갔다는 것이 이 문장의 핵심입니다."},
+  {"t":"time","q":"<b>is the first NASA project</b> — 이 일은 앞으로 할 계획입니까?","a":"아니요 — 이미 그런 사업입니다","tip":"first 와 to include 때문에 앞으로의 계획으로 읽기 쉽지만, 현재 그렇다는 서술입니다."}
+ ],
+ "bc8e2a4c|9.1": [
+  {"t":"pron","q":"<b>These researchers</b> 는 누구입니까?","a":"앞 문장에 나온 공중보건 연구자들입니다","tip":"MAIA 임무 연구진 전체로 넓혀 읽기 쉽습니다. 앞 문장이 새로 소개한 그 사람들입니다."},
+  {"t":"time","q":"<b>will use</b> — 이 연구는 이미 한 것입니까, 앞으로 할 것입니까?","a":"앞으로 할 것입니다","tip":"will 을 놓치면 이미 나온 결과로 읽게 됩니다. 위성은 아직 발사도 되지 않았습니다."},
+  {"t":"mod","q":"<b>potential relationships</b> — potential 은 무엇을 꾸미며 어떤 뜻입니까?","a":"relationships(관계)를 꾸미며 ‘있을 수 있는, 아직 확인되지 않은’이라는 뜻입니다","tip":"potential 을 빼고 읽으면 이미 밝혀진 관계로 오해하게 됩니다."},
+  {"t":"mod","q":"<b>alongside health data</b> 는 무슨 뜻입니까?","a":"건강 자료와 함께 (나란히 놓고) 쓴다는 뜻입니다","tip":"alongside 를 자리를 나타내는 ‘~ 옆에’로 읽으면 어색해집니다. 여기서는 ‘~와 함께’입니다."}
+ ],
+ "bc8e2a4c|9.2": [
+  {"t":"who","q":"<b>how air quality is studied and managed</b> — 연구하고 관리하는 쪽은 이 문장에 나옵니까?","a":"나오지 않습니다. 대기질은 연구·관리되는 대상입니다","tip":"air quality 를 ‘연구하는 쪽’으로 읽으면 주체와 대상이 뒤집힙니다. 수동태입니다."},
+  {"t":"who","q":"<b>By developing a better understanding</b> — 더 잘 이해하게 되는 쪽은 누구입니까?","a":"연구자들(researchers)입니다 — 쉼표 뒤의 주어입니다","tip":"By -ing 로 시작하면 그 동작의 주체는 뒤에 나오는 문장의 주어입니다."},
+  {"t":"time","q":"<b>can potentially advance</b> — 대기질 연구 방식이 이미 발전했다는 말입니까?","a":"아니요 — 앞으로 그렇게 될 수 있다는 가능성을 말합니다","tip":"can 과 potentially 가 겹쳐 조심스럽게 말하고 있습니다. 둘 다 빼고 읽으면 이미 이룬 일처럼 됩니다."}
+ ],
+ "bc8e2a4c|10.0": [
+  {"t":"who","q":"<b>said, Kyan Shlipak, the paper’s lead author</b> — 따옴표 안의 말을 한 사람은 누구입니까?","a":"카이안 슐리팩(Kyan Shlipak), 이 논문의 제1저자입니다","tip":"인용문이 먼저 오고 said 가 뒤에 오는 도치입니다. 앞 문단의 다른 인용자와 섞지 마세요."},
+  {"t":"mod","q":"<b>who worked on the research while interning at JPL</b> 는 누구를 설명하는 말입니까?","a":"카이안 슐리팩입니다 — 그가 JPL에서 인턴으로 일하며 이 연구에 참여했다는 뜻","tip":"who 를 ‘누가?’라는 물음으로 읽지 마세요. 바로 앞 사람을 꾸미는 관계절입니다."},
+  {"t":"pron","q":"<b>how valuable the air sensor data is on its own</b> — on its own 은 무엇이 ‘그것만으로’라는 말입니까?","a":"대기 센서 자료(the air sensor data)입니다 — 위성 관측 없이 그 자료만으로도 값지다는 뜻","tip":"its 를 논문이나 임무로 잡기 쉽습니다. 바로 앞의 자료를 받습니다."},
+  {"t":"time","q":"<b>combining the sensor network and satellite observations will be a game-changer</b> — 센서망과 위성 관측을 합치는 일은 이미 이루어졌습니까?","a":"아니요 — 앞으로의 일입니다","tip":"한 문장 안에 shows(현재)와 will be(미래)가 함께 있습니다. 위성은 아직 발사 전입니다."}
+ ],
+ "bc8e2a4c|11.0": [
+  {"t":"who","q":"<b>that figure is expected to surpass 10 million</b> — 이렇게 내다본 쪽은 어디입니까?","a":"유엔(United Nations)의 전망입니다","tip":"수동태(is expected)라 내다본 쪽이 드러나지 않지만, 바로 앞 according to ~ 가 출처를 밝혀 줍니다."},
+  {"t":"pron","q":"<b>that figure</b> 는 무엇을 가리킵니까?","a":"앞에 나온 ‘600만 명 가까이’라는 인구 숫자입니다","tip":"2050이나 다른 수치로 잡기 쉽습니다. 앞 절에 나온 인구 수를 받는 말입니다."},
+  {"t":"mod","q":"<b>is home to nearly 6 million people</b> 는 무슨 뜻입니까?","a":"600만 명에 조금 못 미치는 사람이 그곳에 살고 있다는 뜻입니다","tip":"home 을 ‘집’으로 읽으면 어색해집니다. nearly 는 ‘거의’, 곧 아직 600만에 이르지는 않았다는 뜻입니다."},
+  {"t":"time","q":"<b>by 2050</b> — 1,000만 명을 넘어서는 것은 언제의 일입니까?","a":"2050년까지의 일로 내다본 것입니다 — 이미 넘은 것이 아닙니다","tip":"by 는 ‘~까지’입니다. ‘2050년에’가 아니라 ‘2050년이 되기 전 어느 시점까지’입니다."}
+ ],
+ "bc8e2a4c|12.0": [
+  {"t":"pron","q":"<b>It’s a cosmopolitan city</b> 의 It 은 무엇을 가리킵니까?","a":"아디스아바바입니다","tip":"날씨·시간을 말할 때의 형식적인 It 이 아니라, 앞에서 이야기해 온 그 도시를 받는 말입니다."},
+  {"t":"mod","q":"<b>a coauthor of the paper and the MAIA project’s lead Ethiopian collaborator</b> 는 누구를 설명하는 말입니까?","a":"바로 앞의 Araya Asfaw 한 사람입니다 — 두 사람이 아닙니다","tip":"and 로 이어져 있어 두 사람으로 읽기 쉽지만, 한 사람의 두 가지 자격입니다."},
+  {"t":"who","q":"<b>said Araya Asfaw of Addis Ababa University</b> — 말한 사람은 어디 소속입니까?","a":"아디스아바바대학교입니다 — NASA나 JPL이 아닙니다","tip":"앞 문단의 인용자(JPL 소속)와 섞이기 쉽습니다. of ~ 가 소속을 밝힙니다."}
+ ],
+ "bc8e2a4c|12.1": [
+  {"t":"pron","q":"<b>Think of it as Africa’s version of Brussels</b> 의 it 은 무엇을 가리킵니까?","a":"아디스아바바입니다","tip":"브뤼셀이나 아프리카로 잡기 쉽습니다. 브뤼셀에 견주어지는 쪽이 아디스아바바입니다."},
+  {"t":"mod","q":"<b>where the European Union is based</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 Brussels 입니다 — 유럽연합 본부가 자리 잡은 도시라는 뜻","tip":"아디스아바바에 유럽연합이 있다는 말로 읽으면 정반대가 됩니다. where 는 바로 앞의 지명을 받습니다."},
+  {"t":"who","q":"<b>Think</b> — 이 말은 누구에게 하는 말입니까?","a":"듣는 사람에게 하는 말입니다 — 주어가 없는 명령문입니다","tip":"주어가 없어 앞 문장의 주어를 끌어다 붙이기 쉽습니다. 명령문은 듣는 사람을 향합니다."}
+ ],
+ "bc8e2a4c|13.0": [
+  {"t":"who","q":"<b>you see high emissions</b> 의 you 는 누구를 가리킵니까?","a":"특정한 사람이 아니라 ‘누구든지’라는 일반적인 사람입니다","tip":"듣고 있는 기자 한 사람을 가리키는 것이 아닙니다. ‘가서 보면 ~가 보인다’는 뜻으로 쓴 you 입니다."},
+  {"t":"mod","q":"<b>from the burning of charcoal and other fuels</b> 는 무엇을 설명하는 말입니까?","a":"앞의 high emissions 입니다 — 그 배출이 어디에서 나오는지 밝히는 말","tip":"you see 에 붙여 ‘연료 태우는 곳에서 본다’는 장소로 읽기 쉽습니다. 배출의 출처를 밝히는 말입니다."},
+  {"t":"neg","q":"<b>Even at night, when traffic dies down</b> — 밤에는 오염도 줄어든다는 말입니까?","a":"아니요 — 차량 통행은 줄어도 배출은 여전히 많다는 말입니다","tip":"Even(~에도)이 앞뒤를 뒤집습니다. 잦아드는 것은 traffic 이지 emissions 가 아닙니다."}
+ ],
+ "bc8e2a4c|14.0": [
+  {"t":"who","q":"<b>and was able to distinguish between particles</b> — 구별해 낸 쪽은 무엇입니까?","a":"The MAIA sensor network(MAIA 센서망)입니다 — 앞의 detected 와 주어가 같습니다","tip":"and 뒤에 주어가 없습니다. 문장 맨 앞의 주어가 동사 둘을 함께 거느립니다."},
+  {"t":"mod","q":"<b>that involve bonfires</b> 는 무엇을 설명하는 말입니까?","a":"앞의 two major holidays(두 큰 명절)입니다 — 모닥불을 피우는 명절이라는 뜻","tip":"바로 앞의 Addis Ababa 를 꾸미는 것으로 붙이기 쉽습니다. 모닥불이 딸린 쪽은 명절입니다."},
+  {"t":"pron","q":"<b>and those from fossil fuel combustion</b> 의 those 는 무엇을 가리킵니까?","a":"particles(입자들)입니다 — 화석연료를 태워 나온 입자","tip":"those 를 ‘그 사람들’이나 ‘그 명절들’로 읽으면 어그러집니다. 앞의 particles 를 대신 받는 말입니다."},
+  {"t":"pron","q":"<b>originating from the fires</b> 의 the fires 는 무엇입니까?","a":"명절에 피운 모닥불(bonfires)입니다","tip":"산불이나 다른 화재로 읽기 쉽습니다. the 가 붙어 앞에 나온 bonfires 를 받습니다."}
+ ],
+ "bc8e2a4c|14.1": [
+  {"t":"who","q":"<b>can help researchers identify different sources of particulate matter</b> — 발생원을 가려내는 쪽은 누구입니까?","a":"연구자들(researchers)입니다. 측정이 스스로 가려내는 것이 아니라 연구자를 돕는 것입니다","tip":"help + 사람 + 동사원형 은 ‘~가 …하도록 돕다’입니다. 주체를 measurements 로 잡으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>and better understand how air quality varies</b> — 더 잘 이해하는 쪽은 누구입니까?","a":"연구자들입니다 — identify 와 나란히 researchers 가 하는 일입니다","tip":"이 and 를 The findings 나 measurements 쪽에 붙이면 주체가 바뀝니다. help 뒤에 이어지는 두 번째 동사입니다."},
+  {"t":"mod","q":"<b>across a city and over time</b> 는 무슨 뜻입니까?","a":"한 도시 안 여러 곳에 걸쳐, 그리고 시간이 지나면서 라는 뜻입니다","tip":"a city 는 단수입니다. ‘여러 도시 사이’가 아니라 한 도시 안에서의 차이를 말합니다."},
+  {"t":"pron","q":"<b>The findings</b> 는 무엇을 가리킵니까?","a":"앞 문장에서 말한 MAIA 센서망의 관측 결과입니다","tip":"the 가 붙었다는 것은 앞에서 이미 나온 것을 다시 받는다는 신호입니다."}
+ ],
+ "bc8e2a4c|15.0": [
+  {"t":"mod","q":"<b>that uses high-pressure experimental equipment</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a world-class laboratory 입니다 — 고압 실험 장비를 쓰는 실험실이라는 뜻","tip":"that 을 ‘그것은’이라는 새 주어로 읽지 마세요. 앞 명사를 꾸미는 관계절입니다."},
+  {"t":"who","q":"<b>FORCE is a world-class laboratory</b> — FORCE 는 무엇입니까?","a":"실험실(연구 시설)의 이름입니다","tip":"대문자로만 쓰인 말은 대개 이름이나 줄임말입니다. 보통 명사 force(힘)로 읽지 마세요."},
+  {"t":"mod","q":"<b>to recreate the extreme conditions</b> 는 무엇을 위한 것입니까?","a":"고압 실험 장비를 쓰는 목적입니다 — 극한 조건을 다시 만들어 내기 위해서","tip":"recreate 를 ‘휴식(recreation)’과 잇지 마세요. re + create, 곧 ‘다시 만들어 내다’입니다."}
+ ],
+ "bc8e2a4c|16.0": [
+  {"t":"who","q":"<b>NASA aircraft are sampling smoke</b> — 연기를 채집하는 쪽은 무엇입니까?","a":"NASA 항공기들입니다","tip":"앞에 붙은 목록 표시를 주어로 잡지 마세요. 진짜 주어는 NASA aircraft 입니다."},
+  {"t":"mod","q":"<b>lofted high into the atmosphere by one of the most…</b> 는 무엇을 설명하는 말입니까?","a":"앞의 smoke(연기)입니다 — 대기 높이 띄워 올려진 연기라는 뜻","tip":"lofted 를 또 하나의 동사로 읽으면 항공기가 띄워 올린 것이 됩니다. 과거분사라 by 뒤가 띄워 올린 쪽입니다."},
+  {"t":"time","q":"<b>Article 5 hours ago 6 min read</b> — 여기 붙은 5 hours ago 와 6 min 은 각각 무엇을 뜻합니까?","a":"5시간 전에 올라온 글이고, 읽는 데 6분쯤 걸린다는 표시입니다","tip":"문장의 일부가 아니라 웹페이지의 기사 목록 표시가 섞여 들어온 것입니다."}
+ ],
+ "bc8e2a4c|17.0": [
+  {"t":"who","q":"<b>Volunteer Develops Machine-Learning Tool to Identify Rare Clouds</b> — 이 부분은 문장입니까, 제목입니까?","a":"다른 기사의 제목입니다 — 뒤의 Certain kinds of clouds 부터가 본문 문장입니다","tip":"낱말 첫 글자가 대문자로 이어지면 제목입니다. Develops 를 이 문장의 동사로 잡지 마세요."},
+  {"t":"mod","q":"<b>appearing more often and lower in the sky…</b> 는 무엇을 설명하는 말입니까?","a":"앞의 are misbehaving(이상하게 굴고 있다)을 구체적으로 풀어 주는 말입니다 — 더 자주, 더 낮게 나타난다는 뜻","tip":"대시 뒤에 오는 -ing 는 앞 내용을 이어받아 설명합니다. 새 문장이 아닙니다."},
+  {"t":"time","q":"<b>are misbehaving</b> — 이 일은 지난 일입니까, 요즘 벌어지고 있는 일입니까?","a":"요즘 벌어지고 있는 일입니다","tip":"현재진행형은 지금 이어지고 있는 상태를 말합니다."}
+ ],
+ "bc8e2a4c|18.0": [
+  {"t":"pron","q":"<b>From its origins</b> 의 its 는 무엇을 가리킵니까?","a":"NASA 입니다 — NASA가 처음 생긴 때부터라는 뜻입니다","tip":"our planet(지구)으로 잡기 쉽습니다. 지구의 기원이 아니라 NASA의 시작입니다."},
+  {"t":"mod","q":"<b>in novel ways</b> 는 무슨 뜻입니까?","a":"새로운 방식으로 라는 뜻입니다","tip":"novel 을 명사 ‘소설’로 읽지 마세요. 여기서는 ‘새로운’이라는 형용사입니다."},
+  {"t":"who","q":"<b>Keep Exploring Discover Related Topics Explore Earth Science</b> — 이 부분은 문장입니까?","a":"아닙니다 — 웹페이지의 메뉴·안내 문구가 섞여 들어온 것입니다. 문장은 From its origins 부터입니다","tip":"동사처럼 보이는 Keep, Discover, Explore 가 이어져 있어 헷갈립니다. 이 문장의 동사는 has studied 입니다."},
+  {"t":"time","q":"<b>has studied our planet in novel ways</b> — 이 연구는 끝난 일입니까?","a":"아니요 — 처음부터 지금까지 해 온 일입니다","tip":"has + 과거분사는 과거의 어느 때부터 지금까지 이어지는 일을 말합니다."}
+ ],
+ "bc8e2a4c|19.0": [
+  {"t":"mod","q":"<b>the size, makeup, and quantity of airborne particles</b> — of airborne particles 는 앞의 셋 가운데 어디에 걸립니까?","a":"size, makeup, quantity 셋 모두에 걸립니다 — 입자의 크기·구성·양","tip":"바로 앞의 quantity 에만 걸리는 것으로 읽기 쉽습니다. 나열된 명사 전체가 of ~ 를 나눠 씁니다."},
+  {"t":"mod","q":"<b>MAIA (Multi-Angle Imager for Aerosols)</b> — 괄호 안의 말은 무엇입니까?","a":"MAIA 라는 줄임말을 풀어 쓴 정식 이름입니다 — 둘은 같은 것입니다","tip":"MAIA 와 괄호 안의 이름을 서로 다른 둘로 읽지 마세요."},
+  {"t":"time","q":"<b>will study</b> — 이 연구는 이미 이루어졌습니까?","a":"아니요 — 앞으로 할 일입니다","tip":"will 을 놓치면 이미 나온 결과로 읽게 됩니다."}
+ ],
+ "bc8e2a4c|20.0": [
+  {"t":"who","q":"<b>Open access to NASA’s archive of Earth science data</b> — 여기서 Open 은 ‘열어라’라는 명령입니까?","a":"아닙니다 — Open access 로 묶여 ‘누구나 제한 없이 이용할 수 있는 접근’을 뜻하는 명사구입니다","tip":"문장이 아니라 링크에 붙은 안내 문구입니다. 주어도 동사도 없습니다."},
+  {"t":"mod","q":"<b>of Earth science data</b> 는 무엇을 설명하는 말입니까?","a":"앞의 archive(보관소)입니다 — 지구과학 자료를 모아 둔 보관소라는 뜻","tip":"access 에 걸린다고 읽으면 archive 가 붕 뜹니다. 바로 앞 명사에 붙는 말입니다."}
+ ],
+ "bc8e2a4c|21.0": [
+  {"t":"pron","q":"<b>and understand how it is changing</b> 의 it 은 무엇을 가리킵니까?","a":"the Earth(지구)입니다","tip":"NASA 나 system 으로 잡기 쉽습니다. 변하고 있는 것은 지구입니다."},
+  {"t":"mod","q":"<b>and understand how it is changing</b> — understand 는 무엇에 이어지는 말입니까?","a":"앞의 In order to 에 이어집니다 — ‘연구하기 위해, 그리고 이해하기 위해’라는 두 번째 목적입니다","tip":"understand 를 NASA 의 동사로 잡으면 뼈대가 어그러집니다. NASA 의 동사는 develops and supports 입니다."},
+  {"t":"who","q":"<b>NASA develops and supports…</b> — 개발하고 지원하는 쪽은 어디입니까?","a":"NASA 입니다 — 쉼표 앞의 긴 부분은 그 목적을 밝히는 말입니다","tip":"문장이 In order to 로 시작해 주어가 한참 뒤에 나옵니다. 쉼표 뒤에서 주어를 찾으세요."}
+ ],
+ "bc8e2a4c|22.0": [
+  {"t":"time","q":"<b>NASA Opens Registration</b> — 현재형인데 언제 일어난 일입니까?","a":"이미 일어난 일입니다 — 기사 제목의 현재형은 방금 일어난 일을 가리킵니다","tip":"제목에서는 짧게 쓰려고 지난 일도 현재형으로 씁니다. ‘늘 그렇다’는 뜻이 아닙니다."},
+  {"t":"who","q":"<b>NASA Opens Registration for 2015 Exploration Rover Challenge</b> — 등록을 받는 쪽은 어디입니까?","a":"NASA 입니다","tip":"제목은 관사와 조동사를 덜어 내 짜임이 성기지만, 주어–동사–목적어 순서는 그대로입니다."},
+  {"t":"mod","q":"<b>for 2015 Exploration Rover Challenge</b> 는 무엇을 설명하는 말입니까?","a":"앞의 Registration 입니다 — 2015 탐사 로버 챌린지에 참가하기 위한 등록이라는 뜻","tip":"NASA 가 무엇을 위해 열었는지가 아니라, 어떤 등록인지를 밝히는 말입니다."}
+ ]
+}

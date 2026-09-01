@@ -1,0 +1,668 @@
+[
+ {
+  "id": "5fc10179|0.0",
+  "en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned.",
+  "s": "NASA and Katalyst Space",
+  "v": "announced",
+  "chunks": [
+   {
+    "en": "Due to an ongoing commercial spacecraft attitude control issue,",
+    "ko": "계속되고 있는 상업 우주선의 자세 제어 문제 때문에",
+    "r": "이유"
+   },
+   {
+    "en": "NASA and Katalyst Space announced Wednesday",
+    "ko": "NASA와 Katalyst Space는 수요일에 발표했다",
+    "r": "주어 + 동사 + 시간"
+   },
+   {
+    "en": "the LINK spacecraft will not capture or boost",
+    "ko": "LINK 우주선이 붙잡지도, 밀어 올리지도 않을 것이라고",
+    "r": "목적어절(발표 내용) — 주어 + 동사(부정)"
+   },
+   {
+    "en": "an agency satellite to a higher altitude",
+    "ko": "그 기관의 위성을 더 높은 고도로",
+    "r": "목적어 + 도달점"
+   },
+   {
+    "en": "to extend its science mission as planned.",
+    "ko": "원래 계획대로 그 위성의 과학 임무를 연장하기 위해",
+    "r": "목적"
+   }
+  ],
+  "ko": "계속되고 있는 상업 우주선의 자세 제어(우주선이 어느 쪽을 향할지 잡아 주는 기능) 문제 때문에, NASA와 Katalyst Space는 수요일, LINK 우주선이 애초 계획대로 NASA 위성을 붙잡아 더 높은 고도로 밀어 올려 그 위성의 과학 임무를 연장하는 일은 하지 않게 되었다고 발표했다.",
+  "why": "announced 뒤에 that 이 생략된 채 문장 하나(the LINK spacecraft will not …)가 통째로 목적어로 들어와 있다. 부정어 not 은 그 안쪽 문장에 있으므로 ‘발표하지 않았다’가 아니라 ‘~하지 않을 것이라고 발표했다’이다. not 은 or 로 이어진 capture 와 boost 둘 다에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|0.1",
+  "en": "However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to demonstrate key capabilities for the future of space exploration.",
+  "s": "LINK",
+  "v": "will attempt",
+  "chunks": [
+   {
+    "en": "However, LINK still will attempt",
+    "ko": "그러나 LINK는 그래도 시도할 것이다",
+    "r": "대조 + 주어 + 동사"
+   },
+   {
+    "en": "to conduct rendezvous and proximity operations",
+    "ko": "랑데부(우주에서 만나기)와 근접 운용을 수행하는 것을",
+    "r": "목적어(시도할 내용)"
+   },
+   {
+    "en": "with NASA’s Neil Gehrels Swift Observatory",
+    "ko": "NASA의 닐 게렐스 스위프트 관측위성을 상대로",
+    "r": "전치사구(만나는 상대)"
+   },
+   {
+    "en": "to demonstrate key capabilities",
+    "ko": "핵심 능력을 보여 주기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "for the future of space exploration.",
+    "ko": "우주 탐사의 미래에 쓰일",
+    "r": "전치사구(앞 capabilities 설명)"
+   }
+  ],
+  "ko": "그러나 LINK는 NASA의 닐 게렐스 스위프트 관측위성(Neil Gehrels Swift Observatory)과 랑데부(우주에서 만나기) 및 근접 운용은 그래도 시도할 예정이다. 우주 탐사의 미래에 필요한 핵심 능력을 보여 주기 위해서다.",
+  "why": "still 이 will 앞에 놓여 ‘(취소된 것이 있어도) 그래도’라는 뜻이다. to 가 두 번 나오는데, 앞의 to conduct 는 attempt 의 목적어(시도할 내용)이고 뒤의 to demonstrate 는 ‘보여 주기 위해’라는 목적이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|1.0",
+  "en": "“NASA should be willing to move quickly and take smart risks when the potential return is worth it, and that is exactly what we did with this mission,” said NASA Administrator Jared Isaacman.",
+  "s": "NASA Administrator Jared Isaacman",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“NASA should be willing to move quickly",
+    "ko": "NASA는 빠르게 움직이려는 자세를 가져야 한다",
+    "r": "인용 시작: 주어 + 동사"
+   },
+   {
+    "en": "and take smart risks",
+    "ko": "그리고 계산된 위험도 감수하려는 자세를",
+    "r": "대등(willing to 에 이어짐)"
+   },
+   {
+    "en": "when the potential return is worth it,",
+    "ko": "돌아올 성과가 그럴 만한 값어치가 있을 때에는",
+    "r": "부사절(조건·때)"
+   },
+   {
+    "en": "and that is exactly what we did with this mission,”",
+    "ko": "그리고 우리가 이번 임무에서 한 일이 바로 그것이다",
+    "r": "대등절"
+   },
+   {
+    "en": "said NASA Administrator Jared Isaacman.",
+    "ko": "라고 NASA 청장 재러드 아이잭먼이 말했다",
+    "r": "전달 동사 + 말한 사람(도치)"
+   }
+  ],
+  "ko": "‘NASA는 돌아올 성과가 그럴 만한 값어치가 있을 때에는 빠르게 움직이고 계산된 위험도 감수하려는 자세를 가져야 한다. 우리가 이번 임무에서 한 일이 바로 그것이다.’ NASA 청장 재러드 아이잭먼(Jared Isaacman)이 이렇게 말했다.",
+  "why": "따옴표 안이 통째로 said 의 목적어이고, 맨 뒤 said NASA Administrator Jared Isaacman 은 주어와 동사가 뒤집힌 전달 부분이다(말한 사람은 아이잭먼). willing to 뒤에 move 와 take 두 동사가 나란히 걸려 있어서, take 를 새 문장의 동사로 읽으면 구조가 무너진다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|1.1",
+  "en": "“This is not the outcome we were working toward, but it does not change why this mission was worth attempting.",
+  "s": "This",
+  "v": "is not",
+  "chunks": [
+   {
+    "en": "“This is not the outcome",
+    "ko": "이것은 결과가 아니다",
+    "r": "주어 + 동사(부정) + 보어"
+   },
+   {
+    "en": "we were working toward,",
+    "ko": "우리가 목표로 삼고 일해 온",
+    "r": "관계절(앞 outcome 설명, 관계대명사 생략)"
+   },
+   {
+    "en": "but it does not change",
+    "ko": "그러나 그것이 바꾸지는 않는다",
+    "r": "대등절(주어 + 동사, 부정)"
+   },
+   {
+    "en": "why this mission was worth attempting.",
+    "ko": "이 임무가 시도해 볼 값어치가 있었던 이유를",
+    "r": "목적어(의문사절)"
+   }
+  ],
+  "ko": "‘이것은 우리가 목표로 삼고 일해 온 결과가 아니다. 하지만 그렇다고 해서 이 임무를 시도해 볼 값어치가 있었던 이유까지 달라지는 것은 아니다.",
+  "why": "부정어가 두 번(is not, does not) 나오는데 부정하는 대상이 서로 다르다. 앞은 ‘바라던 결과가 아니다’이고, 뒤는 ‘시도할 값어치가 있었다는 판단은 그대로다’라는 뜻이다. the outcome we were working toward 는 관계대명사(that)가 생략된 형태라 outcome 과 we 가 붙어 있다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|1.2",
+  "en": "The team moved with extraordinary speed to give Swift a chance to carry out more science while advancing capabilities America will need for satellite servicing in the future.",
+  "s": "The team",
+  "v": "moved",
+  "chunks": [
+   {
+    "en": "The team moved with extraordinary speed",
+    "ko": "그 팀은 대단히 빠른 속도로 움직였다",
+    "r": "주어 + 동사 + 방식"
+   },
+   {
+    "en": "to give Swift a chance",
+    "ko": "Swift에게 기회를 주기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "to carry out more science",
+    "ko": "과학 관측을 더 해 볼 (기회)",
+    "r": "형용사적 용법(앞 a chance 설명)"
+   },
+   {
+    "en": "while advancing capabilities",
+    "ko": "그러면서 능력을 발전시키면서",
+    "r": "분사구문(동시에 일어나는 일)"
+   },
+   {
+    "en": "America will need for satellite servicing in the future.",
+    "ko": "미국이 앞으로 위성 정비에 필요로 할",
+    "r": "관계절(앞 capabilities 설명, 관계대명사 생략)"
+   }
+  ],
+  "ko": "그 팀은 Swift에게 과학 관측을 더 해 볼 기회를 주기 위해 대단히 빠른 속도로 움직였다. 그와 동시에 미국이 앞으로 위성 정비(satellite servicing)에 필요로 할 능력도 함께 끌어올렸다.",
+  "why": "이 문장의 동사는 moved 하나뿐이다. to give ~ 는 ‘주기 위해’라는 목적, to carry out ~ 은 앞의 a chance 가 무슨 기회인지 설명하는 말이다. 맨 뒤 capabilities America will need 는 관계대명사가 생략된 형태라 capabilities 와 America 가 붙어 있다 — America 를 새 문장의 주어로 읽지 말 것.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|1.3",
+  "en": "We are going to learn everything we can from LINK’s rendezvous attempt and put those lessons to work on the missions that follow.”",
+  "s": "We",
+  "v": "are going to learn",
+  "chunks": [
+   {
+    "en": "We are going to learn everything we can",
+    "ko": "우리는 배울 수 있는 모든 것을 배울 것이다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "from LINK’s rendezvous attempt",
+    "ko": "LINK의 랑데부 시도로부터",
+    "r": "전치사구(출처)"
+   },
+   {
+    "en": "and put those lessons to work",
+    "ko": "그리고 그 교훈을 실제로 써먹을 것이다",
+    "r": "대등(are going to 에 이어지는 두 번째 동사)"
+   },
+   {
+    "en": "on the missions that follow.”",
+    "ko": "뒤이어 올 임무들에",
+    "r": "전치사구 + 관계절(앞 missions 설명)"
+   }
+  ],
+  "ko": "‘우리는 LINK의 랑데부 시도에서 배울 수 있는 모든 것을 배울 것이다. 그리고 그 교훈을 뒤이어 올 임무들에 실제로 써먹을 것이다.’",
+  "why": "and 뒤의 put 은 과거형이 아니라 앞의 are going to 에 이어지는 원형이다(are going to learn … and (are going to) put …). everything we can 은 everything we can learn 에서 learn 이 생략된 형태다. put ~ to work 는 ‘~을 실제로 활용하다’라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.0",
+  "en": "NASA and Katalyst are working closely to assess next steps for rendezvous and gather as much data as possible to inform future satellite servicing operations.",
+  "s": "NASA and Katalyst",
+  "v": "are working",
+  "chunks": [
+   {
+    "en": "NASA and Katalyst are working closely",
+    "ko": "NASA와 Katalyst는 긴밀히 협력하고 있다",
+    "r": "주어 + 동사 + 방식"
+   },
+   {
+    "en": "to assess next steps for rendezvous",
+    "ko": "랑데부의 다음 단계를 판단하기 위해",
+    "r": "목적 1"
+   },
+   {
+    "en": "and gather as much data as possible",
+    "ko": "그리고 가능한 한 많은 자료를 모으기 위해",
+    "r": "목적 2(앞의 to 가 이어짐)"
+   },
+   {
+    "en": "to inform future satellite servicing operations.",
+    "ko": "앞으로의 위성 정비 작업에 판단의 바탕이 되도록",
+    "r": "목적(모은 자료의 쓰임)"
+   }
+  ],
+  "ko": "NASA와 Katalyst는 랑데부의 다음 단계를 판단하고 가능한 한 많은 자료를 모으기 위해 긴밀히 협력하고 있다. 그렇게 모은 자료는 앞으로의 위성 정비 작업에 바탕이 된다.",
+  "why": "to assess 와 (to) gather 두 개가 나란히 목적으로 걸려 있다 — and 뒤의 gather 를 새 문장의 동사로 읽지 말 것. 이 문장의 동사는 are working 하나뿐이다. inform 은 ‘알리다’보다 ‘~에 정보를 주어 판단의 바탕이 되게 하다’에 가깝다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.1",
+  "en": "“We knew this was a high-risk, high-reward mission – a first-of-its kind attempt, developed on an unprecedented timeline driven by the Sun’s activity,” said Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters in Washington.",
+  "s": "Shawn Domagal-Goldman",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“We knew this was a high-risk, high-reward mission",
+    "ko": "우리는 이것이 위험도 크고 성과도 큰 임무임을 알고 있었다",
+    "r": "인용: 주어 + 동사 + 목적어절"
+   },
+   {
+    "en": "– a first-of-its kind attempt,",
+    "ko": "곧, 그런 종류로는 처음인 시도였다",
+    "r": "동격(앞 mission 을 다시 설명)"
+   },
+   {
+    "en": "developed on an unprecedented timeline",
+    "ko": "유례없이 짧은 일정으로 개발된",
+    "r": "과거분사구(앞 attempt 설명)"
+   },
+   {
+    "en": "driven by the Sun’s activity,”",
+    "ko": "태양 활동에 떠밀려 정해진",
+    "r": "과거분사구(앞 timeline 설명)"
+   },
+   {
+    "en": "said Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters in Washington.",
+    "ko": "라고 워싱턴 NASA 본부 천체물리국장 숀 도마갈골드먼이 말했다",
+    "r": "전달 동사 + 말한 사람 + 직책(도치)"
+   }
+  ],
+  "ko": "‘우리는 이것이 위험도 크고 돌아올 것도 큰 임무, 곧 그런 종류로는 처음인 시도라는 것을 알고 있었다. 태양 활동에 떠밀려 유례없이 짧은 일정으로 개발한 시도였다.’ 워싱턴 NASA 본부 천체물리국(Astrophysics Division) 국장 숀 도마갈골드먼(Shawn Domagal-Goldman)이 이렇게 말했다.",
+  "why": "대시(–) 뒤는 새 문장이 아니라 앞의 mission 을 다른 말로 바꿔 부르는 동격이다. developed 와 driven 은 둘 다 과거분사로 각각 바로 앞의 attempt 와 timeline 을 꾸미는 말이지 문장의 동사가 아니다. 문장의 뼈대는 맨 뒤의 said + 말한 사람이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.2",
+  "en": "“We were all hoping for more science from Swift.",
+  "s": "We",
+  "v": "were all hoping",
+  "chunks": [
+   {
+    "en": "“We were all hoping",
+    "ko": "우리 모두 바라고 있었다",
+    "r": "주어 + 동사(과거진행)"
+   },
+   {
+    "en": "for more science from Swift.",
+    "ko": "Swift에서 과학 성과가 더 나오기를",
+    "r": "전치사구(바라던 내용)"
+   }
+  ],
+  "ko": "‘우리 모두 Swift에서 과학 성과가 더 나오기를 바라고 있었다.",
+  "why": "hope for 는 ‘~을 바라다’라는 한 덩어리라 for 를 ‘~를 위해’로 읽으면 안 된다. all 은 주어 We 를 강조하는 말이지 동사의 일부가 아니다. more science 는 ‘더 많은 과학 관측·성과’를 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.3",
+  "en": "But we knew the takeaways from this mission would be worthwhile either way, and we have gained so much through the series of accomplishments up to this point.”",
+  "s": "we",
+  "v": "knew",
+  "chunks": [
+   {
+    "en": "But we knew the takeaways from this mission",
+    "ko": "그러나 우리는 이 임무에서 얻는 것들이",
+    "r": "대등 접속 + 주어 + 동사 + 목적어절의 주어"
+   },
+   {
+    "en": "would be worthwhile either way,",
+    "ko": "어느 쪽이 되든 값어치가 있으리라는 것을 (알고 있었다)",
+    "r": "목적어절의 동사 + 보어"
+   },
+   {
+    "en": "and we have gained so much",
+    "ko": "그리고 우리는 아주 많은 것을 얻었다",
+    "r": "대등절"
+   },
+   {
+    "en": "through the series of accomplishments up to this point.”",
+    "ko": "여기까지 이룬 일련의 성과를 통해",
+    "r": "전치사구(수단)"
+   }
+  ],
+  "ko": "‘하지만 우리는 이 임무에서 얻는 것이 어느 쪽으로 결론이 나든 값어치가 있으리라는 것을 알고 있었다. 그리고 여기까지 이뤄 온 일련의 성과를 통해 우리는 이미 아주 많은 것을 얻었다.’",
+  "why": "knew 뒤에 that 이 생략돼 있어 the takeaways 가 그 절의 주어이면서 절 전체가 knew 의 목적어다. either way 는 ‘어느 쪽이든(잘되든 안 되든)’이라는 뜻이다. 뒤 절은 현재완료(have gained)라 ‘이미 얻어 놓았다’는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.4",
+  "en": "Without intervention, NASA anticipates Swift is likely to re-enter Earth’s atmosphere later this year.",
+  "s": "NASA",
+  "v": "anticipates",
+  "chunks": [
+   {
+    "en": "Without intervention,",
+    "ko": "손을 쓰지 않으면",
+    "r": "조건(전치사구)"
+   },
+   {
+    "en": "NASA anticipates",
+    "ko": "NASA는 예상한다",
+    "r": "주어 + 동사"
+   },
+   {
+    "en": "Swift is likely to re-enter Earth’s atmosphere",
+    "ko": "Swift가 지구 대기권으로 다시 들어올 가능성이 크다고",
+    "r": "목적어절(예상 내용)"
+   },
+   {
+    "en": "later this year.",
+    "ko": "올해 안으로",
+    "r": "시간"
+   }
+  ],
+  "ko": "손을 쓰지 않으면 Swift가 올해 안에 지구 대기권으로 다시 들어올(그래서 타 없어질) 가능성이 크다고 NASA는 예상한다.",
+  "why": "Without ~ 는 여기서 ‘~ 없이’가 아니라 ‘~하지 않으면’이라는 조건이다. anticipates 뒤에 that 이 생략돼 문장 하나가 통째로 목적어다. re-enter 는 대기권 재진입, 곧 위성이 타서 사라진다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|2.5",
+  "en": "As part of the agency’s previous planning for Swift’s end of life, NASA will continue to prioritize finding new options to react rapidly to cosmic events, using current missions to help fill the gap in the meantime.",
+  "s": "NASA",
+  "v": "will continue",
+  "chunks": [
+   {
+    "en": "As part of the agency’s previous planning",
+    "ko": "그 기관이 전부터 세워 둔 계획의 일환으로",
+    "r": "전치사구(무엇의 일부인지)"
+   },
+   {
+    "en": "for Swift’s end of life,",
+    "ko": "Swift의 임무 종료에 대비한",
+    "r": "전치사구(앞 planning 설명)"
+   },
+   {
+    "en": "NASA will continue to prioritize finding new options",
+    "ko": "NASA는 새로운 방안을 찾는 일을 계속 우선순위에 둘 것이다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to react rapidly to cosmic events,",
+    "ko": "우주에서 일어나는 사건에 빠르게 대응할",
+    "r": "형용사적 용법(앞 options 설명)"
+   },
+   {
+    "en": "using current missions to help fill the gap",
+    "ko": "지금 운영 중인 임무들을 활용해 빈자리를 메우면서",
+    "r": "분사구문(방법)"
+   },
+   {
+    "en": "in the meantime.",
+    "ko": "그 사이에는",
+    "r": "시간"
+   }
+  ],
+  "ko": "NASA는 Swift의 임무 종료에 대비해 전부터 세워 둔 계획의 일환으로, 우주에서 벌어지는 사건에 빠르게 대응할 새로운 방안을 찾는 일을 계속 우선순위에 둘 것이다. 그 사이에는 지금 운영 중인 임무들을 활용해 빈자리를 메운다.",
+  "why": "맨 앞 As part of ~ 는 길지만 통째로 ‘~의 일환으로’라는 부사구일 뿐 주어가 아니다. 주어와 동사는 쉼표 뒤의 NASA will continue 이다. 맨 뒤 using ~ 은 ‘~을 써서’라는 방법을 덧붙이는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|3.0",
+  "en": "“Building, testing, and operating this mission has already strengthened America’s space industry pipeline, advancing in-space servicing capabilities in completely new ways,” Domagal-Goldman said.",
+  "s": "Domagal-Goldman",
+  "v": "said",
+  "chunks": [
+   {
+    "en": "“Building, testing, and operating this mission",
+    "ko": "이 임무를 만들고, 시험하고, 운용한 일은",
+    "r": "인용문의 주어(동명사 셋이 한 덩어리)"
+   },
+   {
+    "en": "has already strengthened America’s space industry pipeline,",
+    "ko": "이미 미국의 우주 산업 기반을 튼튼하게 만들었다",
+    "r": "동사(현재완료) + 목적어"
+   },
+   {
+    "en": "advancing in-space servicing capabilities in completely new ways,”",
+    "ko": "궤도상 정비 능력을 완전히 새로운 방식으로 끌어올리면서",
+    "r": "분사구문(그와 함께 일어난 일)"
+   },
+   {
+    "en": "Domagal-Goldman said.",
+    "ko": "라고 도마갈골드먼이 말했다",
+    "r": "전달 부분(주어 + 동사)"
+   }
+  ],
+  "ko": "‘이 임무를 만들고, 시험하고, 운용한 일은 궤도에서 위성을 정비하는 능력을 완전히 새로운 방식으로 끌어올리면서, 이미 미국의 우주 산업 기반(pipeline)을 튼튼하게 만들었다.’ 도마갈골드먼이 이렇게 말했다.",
+  "why": "-ing 로 시작하는 세 낱말(Building, testing, operating)이 나란히 묶여 하나의 주어 노릇을 한다. 그래서 동사가 단수인 has 로 받는다. 뒤의 advancing 은 또 하나의 동사가 아니라 ‘~하면서’라는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|3.1",
+  "en": "“NASA is committed to supporting our commercial vendors as they take on difficult tasks with the agency, to push the boundaries of what’s possible.",
+  "s": "NASA",
+  "v": "is committed",
+  "chunks": [
+   {
+    "en": "“NASA is committed to supporting our commercial vendors",
+    "ko": "NASA는 우리 상업 협력업체들을 지원하는 데 전념하고 있다",
+    "r": "주어 + 동사 + 지원 대상"
+   },
+   {
+    "en": "as they take on difficult tasks with the agency,",
+    "ko": "그들이 NASA와 함께 어려운 일을 떠맡는 동안",
+    "r": "부사절(때·상황)"
+   },
+   {
+    "en": "to push the boundaries of what’s possible.",
+    "ko": "가능한 것의 한계를 넓히기 위해",
+    "r": "목적"
+   }
+  ],
+  "ko": "‘NASA는 가능한 것의 한계를 넓히기 위해, 상업 협력업체들이 NASA와 함께 어려운 일을 떠맡는 동안 그들을 지원하는 데 전념하고 있다.",
+  "why": "be committed to 의 to 는 to부정사가 아니라 전치사라서 뒤에 supporting(-ing)이 온다. as 는 ‘~로서’가 아니라 ‘~하는 동안, ~할 때’라는 뜻이고, they 는 앞의 our commercial vendors 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|3.2",
+  "en": "We’re so proud of this team for: getting to the launch pad in record time, in a record-setting year for NASA astrophysics launches; its innovative problem-solving up to this point; and the dedication to the exciting capabilities this mission will attempt to demonstrate next.”",
+  "s": "We",
+  "v": "’re",
+  "chunks": [
+   {
+    "en": "We’re so proud of this team for:",
+    "ko": "우리는 이 팀이 무척 자랑스럽다. 그 이유는 이렇다",
+    "r": "주어 + 동사 + 보어 + 이유를 여는 콜론"
+   },
+   {
+    "en": "getting to the launch pad in record time,",
+    "ko": "기록적으로 짧은 시간 안에 발사대까지 이른 것",
+    "r": "이유 1(동명사)"
+   },
+   {
+    "en": "in a record-setting year for NASA astrophysics launches;",
+    "ko": "그것도 NASA 천체물리 분야 발사가 기록을 세운 해에",
+    "r": "전치사구(그해가 어떤 해였는지)"
+   },
+   {
+    "en": "its innovative problem-solving up to this point;",
+    "ko": "여기까지 보여 준 그 팀의 창의적인 문제 해결",
+    "r": "이유 2"
+   },
+   {
+    "en": "and the dedication to the exciting capabilities",
+    "ko": "그리고 그 놀라운 능력을 향한 헌신",
+    "r": "이유 3"
+   },
+   {
+    "en": "this mission will attempt to demonstrate next.”",
+    "ko": "이번 임무가 이제부터 보여 주려 하는",
+    "r": "관계절(앞 capabilities 설명, 관계대명사 생략)"
+   }
+  ],
+  "ko": "‘우리는 이 팀이 무척 자랑스럽다. 기록적으로 짧은 시간 안에, 그것도 NASA 천체물리 분야 발사가 기록을 세운 해에 발사대까지 이르렀다는 점, 여기까지 보여 준 창의적인 문제 해결, 그리고 이번 임무가 이제부터 보여 주려 하는 놀라운 능력을 향한 헌신 — 이 세 가지가 자랑스러운 이유다.’",
+  "why": "콜론(:) 뒤에 자랑스러운 이유 세 가지가 세미콜론(;)으로 나뉘어 나열된다 — ① 발사대까지 이른 것 ② 창의적인 문제 해결 ③ 헌신. 세미콜론을 문장 끝으로 읽으면 뼈대가 흩어진다. 맨 뒤 this mission will attempt to demonstrate next 는 관계대명사가 생략된 채 앞의 capabilities 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.0",
+  "en": "Swift was launched in 2004 to study gamma-ray bursts, the most powerful explosions in the universe, and other cosmic objects and events.",
+  "s": "Swift",
+  "v": "was launched",
+  "chunks": [
+   {
+    "en": "Swift was launched in 2004",
+    "ko": "Swift는 2004년에 발사되었다",
+    "r": "주어 + 동사(수동태) + 시간"
+   },
+   {
+    "en": "to study gamma-ray bursts,",
+    "ko": "감마선 폭발을 연구하기 위해",
+    "r": "목적(연구 대상 1)"
+   },
+   {
+    "en": "the most powerful explosions in the universe,",
+    "ko": "곧 우주에서 가장 강력한 폭발 현상인",
+    "r": "동격(앞 gamma-ray bursts 설명)"
+   },
+   {
+    "en": "and other cosmic objects and events.",
+    "ko": "그리고 그 밖의 우주 천체와 현상을",
+    "r": "연구 대상 2(gamma-ray bursts 와 나란함)"
+   }
+  ],
+  "ko": "Swift는 우주에서 가장 강력한 폭발 현상인 감마선 폭발(gamma-ray bursts)과 그 밖의 여러 우주 천체·현상을 연구하기 위해 2004년에 발사되었다.",
+  "why": "was launched 는 수동태라 ‘발사했다’가 아니라 ‘발사되었다’이고, 발사한 쪽은 문장에 나오지 않는다. 쉼표로 둘러싸인 the most powerful explosions in the universe 는 앞의 gamma-ray bursts 를 풀어 준 동격이라 별개의 연구 대상이 아니다. 맨 뒤 and other ~ 가 두 번째 연구 대상이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.1",
+  "en": "It was designed for a two-year prime mission.",
+  "s": "It",
+  "v": "was designed",
+  "chunks": [
+   {
+    "en": "It was designed",
+    "ko": "그것은 설계되었다",
+    "r": "주어 + 동사(수동태)"
+   },
+   {
+    "en": "for a two-year prime mission.",
+    "ko": "2년짜리 주 임무를 위해",
+    "r": "전치사구(목적)"
+   }
+  ],
+  "ko": "Swift는 원래 2년짜리 주 임무(prime mission)를 하도록 설계되었다.",
+  "why": "was designed 도 수동태라 ‘설계했다’가 아니라 ‘설계되었다’이고 설계한 쪽은 나오지 않는다. It 은 앞 문장의 Swift 를 가리킨다. prime mission 은 원래 계획한 기본 임무 기간을 말한다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.2",
+  "en": "After 21 years of science operations, Swift’s low Earth orbit began to rapidly decay because of increased solar activity.",
+  "s": "Swift’s low Earth orbit",
+  "v": "began",
+  "chunks": [
+   {
+    "en": "After 21 years of science operations,",
+    "ko": "21년에 걸친 과학 관측 끝에",
+    "r": "시간"
+   },
+   {
+    "en": "Swift’s low Earth orbit began to rapidly decay",
+    "ko": "Swift의 지구 저궤도가 빠르게 낮아지기 시작했다",
+    "r": "주어 + 동사 + 무엇을 시작했는지"
+   },
+   {
+    "en": "because of increased solar activity.",
+    "ko": "태양 활동이 활발해진 탓에",
+    "r": "이유"
+   }
+  ],
+  "ko": "21년에 걸쳐 과학 관측을 이어 온 끝에, Swift의 지구 저궤도(low Earth orbit)가 태양 활동이 강해진 탓에 빠르게 낮아지기 시작했다.",
+  "why": "주어는 Swift 가 아니라 Swift’s low Earth orbit(스위프트의 궤도)이다 — 낮아지고 있는 것은 위성이 아니라 그 궤도다. decay 는 ‘썩다’가 아니라 궤도가 점점 낮아진다는 뜻이다. because of 뒤에는 문장이 아니라 명사가 온다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.3",
+  "en": "NASA used this opportunity to advance U.S. spacecraft servicing technology, awarding a contract to Katalyst in September 2025 to mount a robotic servicing mission for Swift in less than a year.",
+  "s": "NASA",
+  "v": "used",
+  "chunks": [
+   {
+    "en": "NASA used this opportunity",
+    "ko": "NASA는 이 기회를 활용했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "to advance U.S. spacecraft servicing technology,",
+    "ko": "미국의 우주선 정비 기술을 발전시키기 위해",
+    "r": "목적"
+   },
+   {
+    "en": "awarding a contract to Katalyst in September 2025",
+    "ko": "2025년 9월 Katalyst에 계약을 주면서",
+    "r": "분사구문(구체적으로 한 일)"
+   },
+   {
+    "en": "to mount a robotic servicing mission for Swift",
+    "ko": "Swift를 위한 로봇 정비 임무를 꾸리도록",
+    "r": "목적(계약의 내용)"
+   },
+   {
+    "en": "in less than a year.",
+    "ko": "1년도 안 되는 기간 안에",
+    "r": "기간"
+   }
+  ],
+  "ko": "NASA는 이 기회를 활용해 미국의 우주선 정비 기술을 끌어올리기로 하고, 2025년 9월 Katalyst에 계약을 맡겨 1년도 안 되는 기간 안에 Swift를 위한 로봇 정비 임무를 꾸리게 했다.",
+  "why": "awarding 은 또 하나의 동사가 아니라 ‘~하면서’로 앞의 used 를 구체적으로 풀어 주는 분사구문이다. award a contract to A 는 ‘A에 계약을 주다’이므로 방향을 뒤집지 말 것. 맨 뒤 in less than a year 는 계약을 준 시점이 아니라 임무를 꾸리는 데 주어진 기간이다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.4",
+  "en": "The LINK spacecraft launched July 3 on a Northrop Grumman Pegasus XL rocket from Kwajalein Atoll in the South Pacific Ocean.",
+  "s": "The LINK spacecraft",
+  "v": "launched",
+  "chunks": [
+   {
+    "en": "The LINK spacecraft launched July 3",
+    "ko": "LINK 우주선은 7월 3일에 발사되었다",
+    "r": "주어 + 동사 + 시간"
+   },
+   {
+    "en": "on a Northrop Grumman Pegasus XL rocket",
+    "ko": "노스럽 그러먼의 페가수스 XL 로켓에 실려",
+    "r": "전치사구(수단)"
+   },
+   {
+    "en": "from Kwajalein Atoll in the South Pacific Ocean.",
+    "ko": "남태평양 콰절레인 환초에서",
+    "r": "전치사구(발사 장소)"
+   }
+  ],
+  "ko": "LINK 우주선은 7월 3일 남태평양 콰절레인 환초(Kwajalein Atoll)에서 노스럽 그러먼(Northrop Grumman)의 페가수스 XL 로켓에 실려 발사되었다.",
+  "why": "여기서 launched 는 ‘무엇을 발사했다’가 아니라 ‘(우주선이) 발사되었다’는 뜻이다 — 뒤에 목적어가 없고 날짜가 바로 온다. 앞 문단의 Swift was launched(수동태)와 뜻은 같지만 형태가 다르다.",
+  "st": []
+ },
+ {
+  "id": "5fc10179|4.5",
+  "en": "Teams established communications with LINK and conducted in-orbit checkouts over the following weeks, before the spacecraft experienced attitude control issues.",
+  "s": "Teams",
+  "v": "established",
+  "chunks": [
+   {
+    "en": "Teams established communications with LINK",
+    "ko": "관제팀들은 LINK와 교신을 확립했다",
+    "r": "주어 + 동사 + 목적어"
+   },
+   {
+    "en": "and conducted in-orbit checkouts",
+    "ko": "그리고 궤도상 점검을 수행했다",
+    "r": "대등절(같은 주어의 두 번째 동사)"
+   },
+   {
+    "en": "over the following weeks,",
+    "ko": "그 뒤 몇 주에 걸쳐",
+    "r": "시간"
+   },
+   {
+    "en": "before the spacecraft experienced attitude control issues.",
+    "ko": "그 우주선에 자세 제어 문제가 생기기 전까지",
+    "r": "부사절(시간 순서)"
+   }
+  ],
+  "ko": "관제팀들은 LINK와 교신을 확립하고 그 뒤 몇 주에 걸쳐 궤도상 점검을 진행했다. 그러다 그 우주선에 자세 제어 문제가 생겼다.",
+  "why": "동사가 established 와 conducted 둘인데 주어는 Teams 하나다. before 절은 ‘~하기 전에’로, 교신·점검이 먼저였고 자세 제어 문제가 나중이라는 순서를 말한다. the spacecraft 는 LINK 를 가리킨다.",
+  "st": []
+ }
+]

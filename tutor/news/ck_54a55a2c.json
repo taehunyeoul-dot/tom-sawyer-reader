@@ -1,0 +1,201 @@
+{
+ "54a55a2c|0.0": [
+  {"t":"who","q":"<b>will soon reveal</b> — 우주의 비밀을 밝혀낼 쪽은 무엇입니까?","a":"NASA의 낸시 그레이스 로먼 우주망원경입니다","tip":"문장 맨 앞에 긴 부사구가 놓여 있어 journey(여정)나 orbit(궤도)을 주어로 잡기 쉽습니다. 진짜 주어는 쉼표 뒤에 나옵니다."},
+  {"t":"mod","q":"<b>Now on a three-month, million-mile journey to its final orbit,</b> 는 무엇을 설명하는 말입니까?","a":"뒤에 나오는 로먼 우주망원경입니다 — 그 망원경이 지금 어떤 상태인지를 밝힙니다","tip":"쉼표 앞이 통째로 부사구입니다. 여기에 동사가 없다는 점을 확인하면 뼈대를 놓치지 않습니다."},
+  {"t":"time","q":"<b>will soon reveal</b> — 비밀은 이미 밝혀졌습니까, 아직입니까?","a":"아직입니다 — 앞으로 밝혀낼 일입니다","tip":"맨 앞의 Now(지금) 때문에 이미 벌어진 일로 읽기 쉽지만, Now 는 '여정 중'이라는 현재 상태에만 걸립니다."},
+  {"t":"pron","q":"<b>its final orbit</b> 의 its 는 무엇을 가리킵니까?","a":"로먼 우주망원경입니다","tip":"앞에 나온 명사가 journey 뿐이라 '여정의 궤도'로 붙이기 쉽습니다. 궤도로 가는 것은 망원경입니다."}
+ ],
+ "54a55a2c|0.1": [
+  {"t":"who","q":"<b>The mission launched</b> — 임무가 무엇을 발사했다는 뜻입니까?","a":"아닙니다. 임무(우주선)가 발사되었다는 뜻이고, 발사한 주체는 문장에 나오지 않습니다","tip":"launched 는 형태는 능동이지만 여기서는 '발사되었다'입니다. 임무가 무언가를 쏘아 올렸다고 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>at the agency’s Kennedy Space Center in Florida</b> 는 무엇의 위치를 말합니까?","a":"바로 앞의 Launch Complex 39A(39A 발사대)가 있는 곳입니다","tip":"발사 시각이나 로켓에 붙이기 쉽습니다. 장소 표현이 발사대 → 우주센터 → 주(州) 순으로 점점 넓어지고 있습니다."},
+  {"t":"pron","q":"<b>the agency’s</b> 의 the agency 는 어디입니까?","a":"NASA입니다","tip":"바로 앞에 SpaceX 가 나와 헷갈립니다. 기사에서 the agency 는 그 기사가 다루는 기관, 곧 NASA를 되받는 말입니다."},
+  {"t":"time","q":"<b>launched</b> — 발사는 이미 이루어진 일입니까, 예정된 일입니까?","a":"이미 이루어졌습니다 — 일요일 오전 7시 26분에 발사되었습니다","tip":"앞 문장이 미래형(will soon reveal)이라 이어서 미래로 읽기 쉽습니다. 여기서는 과거형입니다."}
+ ],
+ "54a55a2c|1.0": [
+  {"t":"mod","q":"<b>and probe deeply into cosmic history</b> 의 probe 는 앞의 어느 말과 나란히 놓였습니까?","a":"앞의 to explore 와 나란합니다 — 'to explore ~ and (to) probe ~'로 둘 다 목적을 나타냅니다","tip":"probe 를 문장의 두 번째 본동사로 읽으면 뼈대가 어긋납니다. 이 문장의 본동사는 pairs 하나뿐입니다."},
+  {"t":"mod","q":"<b>Roman pairs a large field of view with crisp infrared vision</b> — 짝지어 갖춘 두 가지는 무엇입니까?","a":"넓은 시야(a large field of view)와 선명한 적외선 관측 능력(crisp infrared vision)입니다","tip":"with 를 '~와 함께'로 흘려 읽으면 적외선 관측 능력이 로먼의 두 번째 장점이라는 점을 놓칩니다."},
+  {"t":"who","q":"<b>to explore vast swaths of the sky</b> — 탐사하는 쪽은 무엇입니까?","a":"로먼(Roman)입니다","tip":"to부정사가 나타내는 동작의 주체는 문장의 주어입니다. 앞의 vision(관측 능력)이 탐사한다고 읽지 않도록 주의하세요."}
+ ],
+ "54a55a2c|1.1": [
+  {"t":"who","q":"<b>will help astronomers explore</b> — 탐구하는 쪽은 누구입니까?","a":"천문학자들(astronomers)입니다 — 임무는 그들을 돕는 역할입니다","tip":"help 뒤에 to 없이 동사원형이 와서 explore 를 임무가 하는 동작으로 읽기 쉽습니다. explore 의 주체는 바로 앞의 astronomers 입니다."},
+  {"t":"mod","q":"<b>known as exoplanets</b> 는 앞의 무엇을 설명합니까?","a":"worlds outside of our solar system(우리 태양계 바깥의 세계들)만 설명합니다","tip":"나열된 셋 전체(암흑물질·암흑에너지까지)에 걸린다고 읽기 쉽습니다. 외계행성이라 불리는 것은 태양계 밖의 '세계들'뿐입니다."},
+  {"t":"pron","q":"<b>This flagship mission</b> 은 무엇을 가리킵니까?","a":"앞 문단에 나온 로먼 우주망원경 임무입니다","tip":"flagship 은 '배'가 아니라 '간판이 되는, 대표가 되는'이라는 뜻입니다."}
+ ],
+ "54a55a2c|1.2": [
+  {"t":"mod","q":"<b>extending far beyond the mission’s main science goals</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a broad range of research(폭넓은 범위의 연구)입니다","tip":"surveys(관측 조사)가 목표를 넘어선다고 붙이기 쉽습니다. 목표를 넘어 뻗어 있는 것은 '연구'입니다."},
+  {"t":"pron","q":"<b>Its surveys</b> 의 Its 는 무엇을 가리킵니까?","a":"로먼(앞 문장의 This flagship mission)입니다","tip":"앞 문장에 astronomers·exoplanets 등 명사가 여럿 나와 헷갈립니다. 관측 조사를 하는 것은 로먼입니다."},
+  {"t":"mod","q":"<b>the mission’s main science goals</b> 를 넘어선다는 것은 무슨 뜻입니까?","a":"원래 정한 주요 과학 목표 바깥의 연구에까지 이 자료가 쓰인다는 뜻입니다","tip":"beyond 를 '~보다 뛰어나다'로 읽기 쉽지만, 여기서는 '범위를 벗어나서'입니다."}
+ ],
+ "54a55a2c|2.0": [
+  {"t":"who","q":"<b>said NASA Administrator Jared Isaacman</b> — 이 말을 한 사람은 누구입니까?","a":"NASA 청장 재러드 아이작먼입니다","tip":"주어와 동사가 뒤바뀐 도치입니다. 말한 사람이 said 앞이 아니라 뒤에 옵니다."},
+  {"t":"mod","q":"<b>we want to see across NASA</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the kind of success story(그런 종류의 성공 사례)입니다","tip":"관계대명사 that 이 생략돼 있어 새 문장이 시작되는 것처럼 보입니다. 사이에 '~하는'을 넣어 앞 명사에 이어 붙이면 됩니다."},
+  {"t":"pron","q":"<b>we</b> 는 누구를 가리킵니까?","a":"말하는 사람인 아이작먼 청장을 포함한 NASA 쪽 사람들입니다","tip":"따옴표 안의 we 는 기사를 쓴 기자나 독자가 아니라 말한 사람 쪽입니다."}
+ ],
+ "54a55a2c|2.1": [
+  {"t":"who","q":"<b>Delivered ahead of schedule and on budget,</b> — 인도된 것은 무엇이고, 인도한 쪽은 문장에 나옵니까?","a":"인도된 것은 this mission(이 임무, 곧 로먼)이고, 인도한 쪽은 문장에 나오지 않습니다","tip":"Delivered 로 문장이 시작해 '전달했다'는 능동으로 읽기 쉽지만, 과거분사라 '인도되어'라는 당하는 뜻입니다."},
+  {"t":"who","q":"<b>from the NASA workforce and our industry partners</b> — 헌신을 한 쪽은 누구입니까?","a":"NASA 직원들과 산업 협력사들입니다","tip":"from 을 '~에게서 받은'으로 읽어 임무가 헌신을 받았다고 옮기기 쉽습니다. 헌신을 쏟은 쪽이 from 뒤에 있습니다."},
+  {"t":"time","q":"<b>ahead of schedule</b> — 예정보다 이릅니까, 늦습니까?","a":"이릅니다 — 예정보다 앞서 인도되었다는 뜻입니다","tip":"ahead of 는 '~보다 앞서'입니다. 늦었다고 읽으면 칭찬하는 말이 비판이 됩니다."},
+  {"t":"mod","q":"<b>on budget</b> 은 무슨 뜻입니까?","a":"예산을 넘기지 않고 정해진 예산 안에서 해냈다는 뜻입니다","tip":"'예산에 대해서'로 흘려 읽기 쉽습니다. on budget 은 한 덩어리로 쓰이는 관용 표현입니다."}
+ ],
+ "54a55a2c|2.2": [
+  {"t":"who","q":"<b>push the boundaries of discovery</b> — 이 일을 하는 것은 무엇입니까?","a":"로먼(Roman)입니다 — give, push, demonstrate 세 동사가 모두 Roman 에 걸립니다","tip":"push 앞에 will 이 다시 나오지 않아 앞의 목적어(a new atlas)가 미는 것처럼 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>when America’s space program pairs bold ambition with disciplined execution</b> 는 무엇을 설명합니까?","a":"바로 앞의 what is possible — '무엇이 가능한가'가 언제 가능한지를 밝힙니다","tip":"문장 전체의 시간으로 붙이면 '그때 로먼이 지도를 준다'가 되어 뜻이 달라집니다."},
+  {"t":"time","q":"<b>Now, Roman will give us</b> — 새 지도책은 이미 나왔습니까?","a":"아직입니다 — 앞으로 줄 것입니다","tip":"Now 가 앞에 있어도 동사는 will give(미래)입니다. 여기서 Now 는 '이제부터는'이라는 뜻입니다."},
+  {"t":"mod","q":"<b>pairs bold ambition with disciplined execution</b> — 짝지어지는 두 가지는 무엇입니까?","a":"대담한 야망(bold ambition)과 절제된 실행(disciplined execution)입니다","tip":"앞 문단의 pairs 와 같은 쓰임입니다. with 뒤가 짝이 되는 나머지 한쪽입니다."}
+ ],
+ "54a55a2c|3.0": [
+  {"t":"who","q":"<b>began receiving telemetry data from Roman</b> — 자료를 받은 쪽과 보낸 쪽은 각각 무엇입니까?","a":"받은 쪽은 지상 관제팀, 보낸 쪽은 로먼입니다","tip":"from 뒤가 보낸 쪽입니다. 방향을 뒤집으면 관제팀이 망원경에 자료를 보낸 것이 됩니다."},
+  {"t":"mod","q":"<b>at NASA’s Goddard Space Flight Center in Greenbelt, Maryland,</b> 는 무엇을 설명하는 말입니까?","a":"앞의 The ground control team — 그 팀이 어디에 있는지를 밝힙니다","tip":"여기에 무엇이 끼어 있는지 알아야 저 멀리 있는 동사 began 을 찾을 수 있습니다."},
+  {"t":"time","q":"<b>seven minutes after launch</b> — 자료 수신은 발사 전입니까, 후입니까?","a":"발사 7분 뒤입니다","tip":"after 앞의 시간은 '얼마나 지나서'입니다. 'launch 7분 전'으로 뒤집어 읽지 않도록 주의하세요."}
+ ],
+ "54a55a2c|3.1": [
+  {"t":"who","q":"<b>separating from the observatory</b> — 이 동작을 한 쪽은 무엇입니까?","a":"팰컨 헤비 로켓입니다 — 로켓이 관측선에서 떨어져 나갔습니다","tip":"분사구문의 주체는 앞 문장의 주어입니다. observatory 를 주체로 잡으면 뒤집힙니다."},
+  {"t":"time","q":"<b>31 minutes into the flight</b> 는 언제입니까?","a":"비행이 시작된 지 31분이 지난 시점입니다","tip":"into 를 '~ 안으로'로 읽으면 통하지 않습니다. '시간 + into + 기간'은 '그 기간이 그만큼 지난 때'입니다."},
+  {"t":"mod","q":"<b>as expected</b> 는 무슨 뜻입니까?","a":"예상한 대로라는 뜻입니다 — 로켓이 계획대로 작동했습니다","tip":"as 를 '~로서'로 읽으면 '예상된 것으로서'가 되어 어색합니다. 여기서는 '~한 대로'입니다."},
+  {"t":"pron","q":"<b>the observatory</b> 는 무엇을 가리킵니까?","a":"로먼 우주망원경입니다","tip":"observatory 를 지상의 천문대로 읽기 쉽지만, 여기서는 로켓에 실려 올라간 우주 관측선, 곧 로먼입니다."}
+ ],
+ "54a55a2c|3.2": [
+  {"t":"who","q":"<b>After separating from the center core,</b> — 분리된 쪽은 무엇입니까?","a":"the rocket’s boosters(로켓의 보조 추진체들)입니다","tip":"앞에 주어가 없는 분사구문이라 주체는 쉼표 뒤의 주어입니다. center core 를 주체로 읽지 않도록 주의하세요."},
+  {"t":"time","q":"<b>After separating</b> — 분리와 귀환 중 무엇이 먼저입니까?","a":"분리가 먼저입니다 — 분리된 뒤에 발사장으로 돌아왔습니다","tip":"After 가 붙은 쪽이 먼저 일어난 일입니다."},
+  {"t":"mod","q":"<b>for refurbishment</b> 는 무엇을 위한 것입니까?","a":"부스터를 다시 손질해 쓰기 위해서입니다 — 발사장으로 돌아온 목적입니다","tip":"for 를 '~ 동안'으로 읽으면 뜻이 무너집니다. 여기서는 '~을 위해'입니다."}
+ ],
+ "54a55a2c|4.0": [
+  {"t":"mod","q":"<b>to answering humanity’s most profound questions</b> 의 to 는 앞의 어느 말과 짝을 이룹니까?","a":"closer 와 짝을 이룹니다 — closer to answering(답하는 일에 더 가까이)","tip":"사이에 than ever before 가 끼어 있어 to 가 멀어 보입니다. 또 이 to 는 전치사라 뒤에 동사원형이 아니라 -ing 가 옵니다."},
+  {"t":"who","q":"<b>said Nicky Fox, associate administrator for the Science Mission Directorate</b> — 이 말을 한 사람과 그 직책은 무엇입니까?","a":"니키 폭스이고, NASA 과학임무본부의 부본부장입니다","tip":"쉼표 뒤는 새로 등장한 인물이 아니라 앞사람의 직책을 밝히는 동격입니다."},
+  {"t":"mod","q":"<b>that will bring us closer than ever before</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a discovery machine(발견의 기계)입니다","tip":"that 은 바로 앞 명사를 받습니다. 여기서 관계절이 시작된다는 것을 놓치면 동사가 둘로 보입니다."},
+  {"t":"pron","q":"<b>bring us closer</b> 의 us 는 누구입니까?","a":"인류, 곧 우리 모두입니다","tip":"뒤에 humanity’s(인류의)가 나오는 것으로 보아 NASA 직원만 가리키는 말이 아닙니다."}
+ ],
+ "54a55a2c|4.1": [
+  {"t":"mod","q":"<b>make the invisible visible</b> 은 무슨 뜻입니까?","a":"보이지 않던 것을 보이게 만든다는 뜻입니다","tip":"the invisible 은 'the + 형용사 = ~한 것'이라 '보이지 않는 것'입니다. 뒤의 visible 은 그것이 어떻게 되는지를 나타내는 보어입니다."},
+  {"t":"who","q":"<b>setting the foundation for humanity’s search for life</b> — 토대를 놓는 쪽은 무엇입니까?","a":"로먼(Roman)입니다","tip":"분사구문의 주체는 앞 문장의 주어입니다. humanity(인류)가 놓는다고 읽으면 뒤집힙니다."},
+  {"t":"who","q":"<b>will usher us into a new era of discovery</b> — 이끄는 쪽과 이끌리는 쪽은 각각 누구/무엇입니까?","a":"이끄는 쪽은 로먼, 이끌리는 쪽은 us(우리, 인류)입니다","tip":"usher 는 '안내해 들이다'입니다. 목적어 us 가 이끌려 가는 쪽입니다."},
+  {"t":"mod","q":"<b>With its large field of view and fast survey speeds</b> 는 무슨 뜻으로 쓰였습니까?","a":"'그것을 갖춘 덕분에'라는 수단·이유입니다","tip":"With 를 '~와 함께'로 읽으면 시야·속도가 로먼과 나란히 있는 다른 것처럼 됩니다. 로먼이 가진 성질입니다."}
+ ],
+ "54a55a2c|5.0": [
+  {"t":"mod","q":"<b>tracking, telemetry, and command data</b> 는 몇 가지를 말합니까?","a":"세 가지입니다 — 추적 자료, 원격 측정 자료, 명령 자료","tip":"tracking 과 telemetry 를 따로 떨어진 명사로 읽기 쉽지만, 셋 모두 뒤의 data 를 꾸밉니다."},
+  {"t":"who","q":"<b>to exchange tracking, telemetry, and command data with ground controllers</b> — 자료를 주고받는 두 쪽은 누구/무엇입니까?","a":"로먼과 지상 관제원들입니다","tip":"exchange 의 주체는 문장의 주어인 Roman 입니다. 지상국과 중계 위성은 그 사이를 잇는 수단일 뿐입니다."},
+  {"t":"mod","q":"<b>the Near Space Network’s ground stations and relay satellites</b> — 근우주망의 것은 지상국뿐입니까, 중계 위성도 포함됩니까?","a":"둘 다 포함됩니다 — 지상국과 중계 위성 모두 근우주망의 것입니다","tip":"’s 가 바로 뒤 명사 하나에만 걸린다고 보기 쉽지만, and 로 묶인 둘 다에 걸립니다."}
+ ],
+ "54a55a2c|5.1": [
+  {"t":"who","q":"<b>takes over communications</b> — 통신을 넘겨받는 쪽과 넘겨주는 쪽은 각각 무엇입니까?","a":"넘겨받는 쪽은 Deep Space Network(심우주망), 넘겨주는 쪽은 앞 문장의 Near Space Network(근우주망)입니다","tip":"take over 는 '인계받다'입니다. 로먼이 넘겨받는다고 읽지 않도록 주의하세요."},
+  {"t":"mod","q":"<b>or L2,</b> 의 or 는 무슨 뜻입니까?","a":"'또는'이 아니라 '즉, 다시 말해'입니다 — 제2 라그랑주점의 다른 이름이 L2입니다","tip":"선택지 둘로 읽으면 목적지가 두 곳인 것처럼 됩니다. 같은 곳을 달리 부른 것입니다."},
+  {"t":"mod","q":"<b>about one million miles from Earth</b> 는 무엇의 거리입니까?","a":"L2(제2 태양-지구 라그랑주점)가 지구에서 떨어져 있는 거리입니다","tip":"로먼이 이미 이동한 거리로 읽기 쉽지만, 바로 앞 지점의 위치를 밝히는 말입니다."}
+ ],
+ "54a55a2c|5.2": [
+  {"t":"pron","q":"<b>that network</b> 는 어느 망입니까?","a":"앞 문장의 Deep Space Network(심우주망)입니다","tip":"앞 문단에 Near Space Network 도 나왔습니다. that 은 바로 앞 문장에서 통신을 넘겨받은 쪽을 가리킵니다."},
+  {"t":"mod","q":"<b>in Australia first</b> 의 first 는 무엇을 뜻합니까?","a":"'먼저, 처음에는'이라는 뜻입니다 — 호주 단지를 가장 먼저 쓴다는 말입니다","tip":"'호주의 첫 번째 단지'로 앞 명사에 붙여 읽기 쉽습니다. first 는 문장 전체에 걸리는 부사입니다."},
+  {"t":"mod","q":"<b>through the Canberra Deep Space Communication Complex</b> 의 through 는 무슨 역할을 합니까?","a":"접속이 거쳐 가는 곳을 나타냅니다","tip":"through 를 '뚫고 지나가'로 읽지 말고 '~를 거쳐서'로 읽으면 됩니다."}
+ ],
+ "54a55a2c|5.3": [
+  {"t":"pron","q":"<b>Approximately six hours later it will transfer</b> 의 it 은 무엇을 가리킵니까?","a":"로먼과의 교신(접속)입니다 — 로먼 자신이 아닙니다","tip":"뒤에 contact with Roman(로먼과의 연락)이 따로 나오므로 it 이 로먼이면 말이 되지 않습니다. 옮겨 가는 것은 어느 단지가 교신을 맡느냐입니다."},
+  {"t":"mod","q":"<b>and then to the Goldstone Deep Space Communication Complex in California</b> — 앞의 어느 말이 생략되어 있습니까?","a":"will transfer(옮겨 간다)가 생략되어 있습니다","tip":"to 만 남아 있어 마드리드 단지가 골드스톤에 속한 것처럼 읽기 쉽습니다."},
+  {"t":"who","q":"<b>ensuring continuous contact with Roman</b> — 연락이 끊이지 않게 하는 쪽은 무엇입니까?","a":"세 단지를 차례로 넘겨 가며 교신하는 심우주망 쪽입니다 — 로먼이 아닙니다","tip":"with Roman 이 붙어 있어 로먼이 주체처럼 보이지만, 로먼은 연락의 상대입니다."},
+  {"t":"time","q":"<b>Approximately six hours later</b> — 무엇으로부터 여섯 시간 뒤입니까?","a":"앞 문장에서 캔버라 단지에 접속한 시점으로부터입니다","tip":"발사 시각으로부터로 읽기 쉽습니다. later 는 바로 앞에서 말한 일을 기준으로 삼습니다."}
+ ],
+ "54a55a2c|6.0": [
+  {"t":"who","q":"<b>The Roman team also confirmed successful deployment</b> — 로먼 팀이 직접 펼친 것입니까?","a":"아닙니다. 팀이 한 일은 잘 펼쳐졌음을 '확인'한 것입니다","tip":"confirmed 의 목적어는 deployment(펼쳐짐)입니다. 확인과 실행을 섞어 읽지 마세요."},
+  {"t":"mod","q":"<b>the observatory’s solar panels and lower instrument sun shade</b> — 펼쳐진 것은 몇 가지입니까?","a":"두 가지입니다 — 태양전지판과 하부 기기 차광막","tip":"of 뒤에서 and 로 두 가지가 묶여 있습니다. 하나로 읽으면 차광막을 놓칩니다."},
+  {"t":"time","q":"<b>an hour and 23 minutes after launch</b> 는 무엇의 시점입니까?","a":"태양전지판과 차광막이 펼쳐지고 그것이 확인된 시점입니다 — 발사 1시간 23분 뒤","tip":"시간 표현이 문장 맨 끝으로 밀려나 있어 바로 앞 명사(sun shade)에 붙여 읽기 쉽습니다."}
+ ],
+ "54a55a2c|6.1": [
+  {"t":"who","q":"<b>ground controllers will initiate the first of two-mid-course corrections</b> — 궤도 수정을 시작하는 쪽은 누구입니까?","a":"지상 관제원들(ground controllers)입니다 — 로먼이 아닙니다","tip":"쉼표로 이어진 세 절의 주어가 각각 다릅니다. 첫 절의 주어(안테나·덮개)를 끝까지 끌고 가면 틀립니다."},
+  {"t":"mod","q":"<b>the first of two-mid-course corrections</b> — 몇 번을 시작한다는 뜻입니까?","a":"두 번 예정된 중간 궤도 수정 가운데 첫 번째 한 번입니다","tip":"'처음 두 번'으로 읽기 쉽습니다. the first of two 는 '둘 중 첫째'입니다."},
+  {"t":"time","q":"<b>Within the upcoming days</b> — 이 일들은 이미 벌어졌습니까?","a":"아직입니다 — 앞으로 며칠 안에 벌어질 일입니다","tip":"바로 앞 문장이 과거형(confirmed)이라 이어서 과거로 읽기 쉽지만, 여기부터는 모두 will 입니다."},
+  {"t":"mod","q":"<b>visor-like deployable aperture cover</b> 는 무엇입니까?","a":"챙(차양)처럼 생긴, 펼쳐지는 조리개 덮개입니다","tip":"명사 앞에 꾸미는 말이 세 겹 붙어 있습니다. 뒤에서부터 '덮개 ← 조리개의 ← 펼쳐지는 ← 챙처럼 생긴' 순으로 읽습니다."}
+ ],
+ "54a55a2c|6.2": [
+  {"t":"mod","q":"<b>that future missions like NASA’s Habitable Worlds Observatory concept could use</b> — 미래 임무들이 쓸 수 있는 것은 무엇입니까?","a":"앞의 the technology(그 기술)입니다","tip":"that 뒤에 긴 주어가 이어져 that 을 주어로 읽기 쉽지만, 여기서는 목적격 관계대명사입니다."},
+  {"t":"who","q":"<b>to image Earth-like planets</b> — 촬영하는 쪽은 무엇입니까?","a":"future missions(미래의 임무들)입니다 — 그 기술을 써서 촬영합니다","tip":"This instrument(이 기기)가 촬영한다고 읽기 쉽습니다. 이 기기가 하는 일은 기술을 '시연'하는 데까지입니다."},
+  {"t":"time","q":"<b>could use</b> — 그 미래 임무들은 이미 진행 중입니까?","a":"아닙니다 — 아직 구상 단계이고, 앞으로 쓸 수 있을 것이라는 뜻입니다","tip":"concept(구상)이라는 말과 could(~할 수 있을)가 아직 실현되지 않았음을 알려 줍니다."},
+  {"t":"pron","q":"<b>This instrument</b> 는 무엇을 가리킵니까?","a":"앞 문장에 나온 Coronagraph Instrument(코로나그래프 관측기기)입니다","tip":"앞 문장에 안테나·덮개 등 여러 장비가 나와 헷갈립니다. 바로 앞에서 전원이 켜진다고 한 기기입니다."}
+ ],
+ "54a55a2c|6.3": [
+  {"t":"pron","q":"<b>in that direction</b> 의 that direction 은 무엇을 가리킵니까?","a":"앞 문장의 '지구 같은 행성을 촬영해 생명을 찾는 일'입니다","tip":"하늘의 어느 쪽이라는 물리적 방향으로 읽기 쉽습니다. 여기서는 목표를 향한 진전을 뜻합니다."},
+  {"t":"mod","q":"<b>by snapping pictures of Jupiter-like planets</b> — 코로나그래프가 찍는 것은 어떤 행성입니까?","a":"목성 같은(크고 무거운) 행성들입니다 — 지구 같은 행성이 아닙니다","tip":"앞 문장의 Earth-like planets 에 끌려 지구형으로 읽기 쉽습니다. 지금 단계에서 찍는 것은 목성형입니다."},
+  {"t":"who","q":"<b>will take a giant step</b> — 큰 걸음을 내딛는 것은 무엇입니까?","a":"로먼의 코로나그래프입니다","tip":"바로 앞 문장의 주어(This instrument)와 같은 것을 이름을 바꿔 부른 것입니다."}
+ ],
+ "54a55a2c|7.0": [
+  {"t":"mod","q":"<b>its primary instrument, the Wide Field Instrument</b> — 여기 나온 기기는 몇 개입니까?","a":"하나입니다 — 주력 기기가 곧 광시야 관측기기(Wide Field Instrument)입니다","tip":"쉼표로 이어져 두 기기가 나열된 것처럼 보이지만, 뒤엣것은 앞엣것의 이름을 밝히는 동격입니다."},
+  {"t":"time","q":"<b>A few weeks into Roman’s voyage</b> 는 언제입니까?","a":"로먼의 항해가 시작되고 몇 주가 지난 시점입니다","tip":"into 를 '~ 안으로'로 읽으면 통하지 않습니다. '기간 + into + 여정'은 '그 여정이 그만큼 지난 때'입니다."},
+  {"t":"pron","q":"<b>its primary instrument</b> 의 its 는 무엇을 가리킵니까?","a":"로먼(Roman) 우주망원경입니다","tip":"바로 앞의 voyage(항해)로 잡기 쉽습니다. 기기를 가진 쪽은 망원경입니다."},
+  {"t":"who","q":"<b>will activate</b> — 켜지는 것은 무엇이고, 켜는 쪽이 문장에 나옵니까?","a":"켜지는 것은 광시야 관측기기이고, 켜는 쪽은 문장에 나오지 않습니다","tip":"activate 가 여기서는 '~을 작동시키다'가 아니라 '작동을 시작하다'로 쓰였습니다."}
+ ],
+ "54a55a2c|7.1": [
+  {"t":"mod","q":"<b>18 4K detectors</b> 는 무슨 뜻입니까?","a":"4K 해상도 감지기가 18개 있다는 뜻입니다","tip":"숫자 둘이 붙어 있어 헷갈립니다. 18은 개수, 4K는 감지기 한 개의 해상도입니다."},
+  {"t":"mod","q":"<b>each about the size of a saltine cracker</b> — 크래커만 한 것은 무엇입니까?","a":"감지기 하나하나입니다 — 카메라 전체가 아닙니다","tip":"each 는 '각각'이라 앞의 detectors 를 하나씩 가리킵니다. 카메라나 망원경 크기로 읽으면 틀립니다."},
+  {"t":"pron","q":"<b>This 300-megapixel infrared camera</b> 는 무엇을 가리킵니까?","a":"앞 문장의 the Wide Field Instrument(광시야 관측기기)입니다","tip":"새 장비가 등장한 것이 아니라, 바로 앞에서 말한 주력 기기를 다른 말로 부른 것입니다."}
+ ],
+ "54a55a2c|7.2": [
+  {"t":"who","q":"<b>that will be decoded into crisp cosmic panoramas</b> — 해독하는 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 문장에 나오는 것은 해독되는 대상뿐입니다","tip":"감지기가 해독한다고 읽기 쉽습니다. 감지기가 하는 일은 collect(모으기)까지입니다."},
+  {"t":"mod","q":"<b>that will be decoded</b> — that 은 앞의 무엇을 받습니까?","a":"photons of light(감지기가 모은 빛의 광자)입니다","tip":"관계절 앞에 명사가 여럿(detectors, photons, light) 있어 헷갈립니다. 파노라마가 되는 것은 감지기가 아니라 모아들인 빛입니다."},
+  {"t":"time","q":"<b>collect</b> 와 <b>that will be decoded</b> — 어느 쪽이 먼저입니까?","a":"모으는 것이 먼저이고, 해독은 그 뒤에 이루어집니다","tip":"현재형과 미래 수동형이 한 문장에 들어 있습니다. 시제가 순서를 알려 줍니다."}
+ ],
+ "54a55a2c|7.3": [
+  {"t":"neg","q":"<b>without needing substantial time between separate observations</b> — 관측과 관측 사이에 시간이 많이 걸립니까?","a":"걸리지 않습니다 — 많은 시간이 필요 없다는 뜻입니다","tip":"without 을 놓치면 '관측 사이에 상당한 시간이 필요하다'가 되어 뜻이 정반대가 됩니다."},
+  {"t":"pron","q":"<b>it will rapidly scan the sky</b> 의 it 은 무엇을 가리킵니까?","a":"the observatory, 곧 로먼 우주망원경입니다","tip":"바로 앞의 performance(성능)나 design(설계)으로 잡기 쉽습니다. 하늘을 훑는 것은 망원경입니다."},
+  {"t":"mod","q":"<b>Thanks to the observatory’s rigid design and stable optical performance</b> 는 무슨 뜻입니까?","a":"'~ 덕분에'라는 이유입니다 — 단단한 설계와 안정된 광학 성능 덕에 빠르게 훑을 수 있습니다","tip":"Thanks 를 '감사한다'로 읽으면 문장이 엉킵니다. Thanks to 는 한 덩어리입니다."}
+ ],
+ "54a55a2c|7.4": [
+  {"t":"who","q":"<b>is designed to survey the universe</b> — 설계한 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 문장에 나오는 것은 설계된 대상인 로먼 망원경뿐입니다","tip":"주어를 설계하는 쪽으로 읽으면 '망원경이 우주를 설계한다'는 이상한 뜻이 됩니다."},
+  {"t":"mod","q":"<b>a thousand times faster than NASA’s Hubble Space Telescope</b> — 무엇과 무엇을 견주고 있습니까?","a":"로먼이 하늘을 훑는 속도와 허블의 속도입니다 — 로먼이 1,000배 빠릅니다","tip":"times 를 '번'으로 읽어 '1,000번'으로 옮기기 쉽습니다. 여기서는 '배(倍)'입니다."},
+  {"t":"time","q":"<b>is designed</b> — 아직 설계하는 중입니까?","a":"아닙니다 — 이미 그렇게 설계되어 완성된 상태입니다","tip":"be designed 는 '설계되어 있다'는 상태를 나타냅니다. 앞 문단에서 이미 발사되었다는 점도 단서입니다."}
+ ],
+ "54a55a2c|8.0": [
+  {"t":"who","q":"<b>scientists will run the instruments through a series of calibrations and tests</b> — 검사를 거치는 쪽과 시키는 쪽은 각각 누구/무엇입니까?","a":"거치는 쪽은 기기들(the instruments), 시키는 쪽은 과학자들입니다","tip":"run 을 '달리다'로 읽으면 과학자가 달리는 것이 됩니다. run A through B 는 'A를 B에 통과시키다'입니다."},
+  {"t":"time","q":"<b>Throughout the rest of Roman’s three-month commissioning period</b> — 이 기간은 언제까지입니까?","a":"3개월 시운전 기간 가운데 아직 남아 있는 기간 내내입니다","tip":"the rest of(~의 나머지)를 놓치면 '3개월 내내'가 됩니다. 이미 일부는 지나갔습니다."},
+  {"t":"mod","q":"<b>a series of calibrations and tests</b> 는 몇 번을 뜻합니까?","a":"한 번이 아니라 잇달아 이어지는 여러 번입니다","tip":"a 가 붙어 한 번으로 읽기 쉽지만, a series of 는 '연속된 여러 번의'라는 뜻입니다."}
+ ],
+ "54a55a2c|8.1": [
+  {"t":"time","q":"<b>by early 2027</b> — 첫 영상은 이미 공개되었습니까?","a":"아직입니다 — 2027년 초까지 공개할 것으로 보고 있습니다","tip":"by 는 '늦어도 그때까지'라는 기한입니다. 이미 나온 것으로 읽으면 시점이 어긋납니다."},
+  {"t":"who","q":"<b>NASA anticipates releasing Roman’s first images</b> — 영상을 공개하는 쪽은 누구입니까?","a":"NASA입니다 — 예상하는 쪽과 공개하는 쪽이 모두 NASA입니다","tip":"anticipate 뒤의 -ing 에는 따로 주어가 없어, 그 동작의 주체는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>anticipates</b> 는 무슨 뜻입니까?","a":"'예상한다, ~할 것으로 보고 있다'는 뜻입니다 — 확정된 발표가 아닙니다","tip":"'기대한다'로만 읽으면 이미 정해진 일정처럼 들립니다. 아직 예상 단계입니다."}
+ ],
+ "54a55a2c|9.0": [
+  {"t":"mod","q":"<b>the highest data rate of any NASA astrophysics mission</b> 는 무엇을 설명하는 말입니까?","a":"앞의 '날마다 1.4테라바이트'라는 전송량입니다 — 그것이 가장 높은 전송률이라는 뜻","tip":"쉼표 뒤에 동사가 없어 문장이 끊긴 것처럼 보입니다. 앞 내용을 바꿔 말한 동격입니다."},
+  {"t":"mod","q":"<b>of any NASA astrophysics mission</b> — 견주는 범위는 어디까지입니까?","a":"NASA의 천체물리 임무들입니다 — 그 가운데 가장 높다는 뜻","tip":"any 를 '아무 ~나'로 읽으면 뜻이 흐려집니다. 최상급 뒤의 of any 는 '어느 ~ 중에서도'입니다."},
+  {"t":"time","q":"<b>so far</b> 는 무슨 뜻입니까?","a":"'지금까지는'이라는 뜻입니다 — 앞으로 더 높은 임무가 나올 수 있음을 남겨 둡니다","tip":"'멀리'로 읽지 않도록 주의하세요. so far 는 한 덩어리로 '지금까지'입니다."}
+ ],
+ "54a55a2c|9.1": [
+  {"t":"pron","q":"<b>will help sift through it</b> 의 it 은 무엇을 가리킵니까?","a":"앞 문장의 자료, 곧 로먼이 날마다 보내오는 1.4테라바이트의 데이터입니다","tip":"바로 앞의 주어(인공지능 등)로 잡기 쉽습니다. 훑어야 할 대상은 방대한 자료입니다."},
+  {"t":"who","q":"<b>and flag significant findings</b> — 표시를 해 두는 쪽은 누구입니까?","a":"기계학습, 인공지능, 시민 과학자들입니다 — 천문학자가 아닙니다","tip":"바로 뒤에 astronomers 가 나와 헷갈립니다. 천문학자는 표시된 것을 나중에 연구하는 쪽입니다."},
+  {"t":"mod","q":"<b>which astronomers can then study</b> 는 무엇을 설명하는 말입니까?","a":"앞의 significant findings(의미 있는 발견들)입니다","tip":"천문학자가 연구하는 것은 자료 전체가 아니라 걸러 낸 '발견들'입니다."},
+  {"t":"time","q":"<b>can then study</b> — 천문학자의 연구는 표시보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 걸러서 표시한 다음에 연구합니다","tip":"then(그다음에)이 순서를 알려 줍니다."}
+ ],
+ "54a55a2c|10.0": [
+  {"t":"neg","q":"<b>We’ve never been able to view the universe with eyes like Roman’s</b> — 지금까지 그렇게 본 적이 있습니까?","a":"없습니다 — 한 번도 그런 눈으로 본 적이 없다는 뜻입니다","tip":"never 를 놓치면 '우리는 이렇게 볼 수 있었다'가 되어 뜻이 정반대가 됩니다."},
+  {"t":"mod","q":"<b>with eyes like Roman’s</b> — Roman’s 뒤에는 무슨 말이 생략되어 있습니까?","a":"eyes 입니다 — '로먼의 눈'이라는 뜻","tip":"’s 로 끝나 소유격만 덩그러니 남은 것처럼 보이지만, 앞에 나온 eyes 를 되풀이하지 않으려고 생략한 것입니다."},
+  {"t":"who","q":"<b>said Julie McEnery, Roman’s senior project scientist at NASA Goddard</b> — 말한 사람과 그 직책은 무엇입니까?","a":"줄리 매케너리이고, NASA 고더드의 로먼 수석 프로젝트 과학자입니다","tip":"쉼표 뒤는 새 인물이 아니라 앞사람의 직책을 밝히는 동격입니다."},
+  {"t":"time","q":"<b>before</b> 는 여기서 무엇을 뜻합니까?","a":"'전에는, 지금까지는'이라는 뜻입니다 — 로먼 이전에는 그럴 수 없었다는 말","tip":"뒤에 '~보다 앞서'의 대상이 없는 before 는 단독 부사로 '이전에는'입니다."}
+ ],
+ "54a55a2c|10.1": [
+  {"t":"neg","q":"<b>There’s no telling</b> 은 무슨 뜻입니까?","a":"'알 수가 없다, 아무도 예측할 수 없다'는 뜻입니다","tip":"no 를 놓치면 '말해 줄 것이 있다'로 정반대가 됩니다. There is no -ing 는 '~할 도리가 없다'는 관용 표현입니다."},
+  {"t":"time","q":"<b>by this time next year</b> 는 언제입니까?","a":"내년 이맘때까지입니다","tip":"this time 을 '이번'으로만 읽으면 시점이 흐려집니다. next year 와 붙어 '내년 이 시기'가 됩니다."},
+  {"t":"mod","q":"<b>what more we’ll know and have seen</b> — will 에 걸리는 동사는 몇 개입니까?","a":"둘입니다 — know(알게 될)와 have seen(보게 되었을)","tip":"have seen 앞에 will 이 다시 나오지 않아 별개의 완료형으로 읽기 쉽습니다. 둘 다 내년 이맘때를 기준으로 한 미래입니다."}
+ ],
+ "54a55a2c|11.0": [
+  {"t":"who","q":"<b>NASA has launched on a Falcon Heavy rocket</b> — 발사한 쪽은 누구입니까?","a":"NASA입니다 — 로먼이 무언가를 발사한 것이 아닙니다","tip":"mission 과 NASA 사이에 관계대명사 that 이 생략돼 있어 문장이 둘로 보입니다."},
+  {"t":"mod","q":"<b>the fourth primary mission</b> — 무엇 가운데 네 번째입니까?","a":"NASA가 팰컨 헤비 로켓으로 발사한 주요 임무 가운데 네 번째입니다","tip":"'NASA의 네 번째 임무'로 넓게 읽으면 틀립니다. 범위를 정해 주는 것은 뒤에 붙은 관계절입니다."},
+  {"t":"time","q":"<b>has launched</b> — 앞선 세 번은 언제 일입니까?","a":"이미 지난 일입니다 — 지금까지 발사해 온 것을 현재완료로 나타냈습니다","tip":"현재완료는 '지금까지 ~해 왔다'는 누적을 나타냅니다."}
+ ],
+ "54a55a2c|11.1": [
+  {"t":"who","q":"<b>worked with SpaceX to accelerate the launch date</b> — 발사일을 앞당기려고 함께 일한 쪽은 누구입니까?","a":"NASA의 발사서비스프로그램과 스페이스X 두 쪽입니다","tip":"with 를 흘려 읽으면 스페이스X 혼자 한 일처럼 됩니다. 두 쪽이 함께 한 일입니다."},
+  {"t":"mod","q":"<b>to accommodate the space telescope’s early completion</b> 는 무엇을 위한 것입니까?","a":"발사일을 앞당긴 까닭입니다 — 망원경이 예정보다 일찍 완성됐기 때문","tip":"accommodate 를 '숙박시키다, 수용하다'로 읽으면 통하지 않습니다. 여기서는 '~에 맞추다'입니다."},
+  {"t":"pron","q":"<b>the agency’s Launch Services Program</b> 의 the agency 는 어디입니까?","a":"NASA입니다","tip":"바로 뒤에 SpaceX 가 나와 헷갈립니다. the agency 는 기사에서 NASA를 되받는 말입니다."}
+ ],
+ "54a55a2c|12.0": [
+  {"t":"who","q":"<b>The telescope is managed at NASA Goddard</b> — 관리하는 쪽은 어디입니까?","a":"NASA 고더드입니다 — 망원경이 무언가를 관리하는 것이 아닙니다","tip":"is managed 는 수동태라 주어는 '관리되는 쪽'입니다."},
+  {"t":"mod","q":"<b>with participation by the agency’s Jet Propulsion Laboratory in Southern California;</b> — 세미콜론으로 나뉜 참여 기관은 모두 몇 곳입니까?","a":"네 곳입니다 — 제트추진연구소, 칼텍/IPAC, 우주망원경과학연구소, 그리고 여러 연구 기관에서 온 과학자 팀","tip":"세미콜론은 항목 안에 이미 쉼표가 있을 때 쓰는 큰 구분 기호입니다. 문장이 끝난 것이 아닙니다."},
+  {"t":"mod","q":"<b>Caltech/IPAC in Pasadena, California;</b> — 이 기관은 무엇을 하는 것으로 나옵니까?","a":"망원경 관리에 참여합니다 — 앞의 with participation by 에 함께 걸립니다","tip":"by 가 다시 나오지 않아 앞과 끊어 읽기 쉽지만, 네 항목 모두 participation by 에 걸립니다."},
+  {"t":"pron","q":"<b>the agency’s</b> 의 the agency 는 어디입니까?","a":"NASA입니다","tip":"제트추진연구소가 속한 곳을 묻는 말입니다. 칼텍이 아니라 NASA입니다."}
+ ],
+ "54a55a2c|12.1": [
+  {"t":"mod","q":"<b>The primary industrial partners are</b> — 뒤에 나열된 회사는 모두 몇 곳입니까?","a":"세 곳입니다 — BAE 시스템스, L3해리스 테크놀로지스, 텔레다인 사이언티픽 앤드 이미징","tip":"회사 이름 안에 마침표와 기호가 섞여 있어 개수를 세기 어렵습니다. and 앞뒤로 끊어 세면 됩니다."},
+  {"t":"mod","q":"<b>BAE Systems Inc., L3Harris Technologies</b> 사이의 쉼표는 무엇을 나눕니까?","a":"두 회사를 나눕니다 — Inc. 까지가 첫 회사의 이름입니다","tip":"회사 이름 끝의 Inc. 에도 마침표가 있어 문장이 끝난 것처럼 보입니다."},
+  {"t":"mod","q":"<b>The primary industrial partners</b> 의 primary 는 무슨 뜻입니까?","a":"'주요한, 으뜸가는'이라는 뜻입니다 — 가장 중심이 되는 협력사라는 말","tip":"'첫 번째'로만 읽으면 순서를 말하는 것처럼 보입니다. 여기서는 '주된'입니다."}
+ ],
+ "54a55a2c|12.2": [
+  {"t":"who","q":"<b>Contributions to Roman also are made by ESA, JAXA,</b> — 기여를 하는 쪽은 어디입니까?","a":"ESA, JAXA, 프랑스 CNES, 독일 막스플랑크 천문학연구소입니다 — by 뒤가 기여한 쪽입니다","tip":"수동태라 주어(Contributions)는 '이루어지는 것'이지 행위자가 아닙니다. 방향을 뒤집으면 로먼이 이들에게 기여한 것이 됩니다."},
+  {"t":"mod","q":"<b>the French space agency CNES (Centre National d’Études Spatiales)</b> — 여기 나온 기관은 몇 곳입니까?","a":"한 곳입니다 — 괄호 안은 CNES 의 프랑스어 정식 이름입니다","tip":"괄호 안 이름을 다른 기관으로 세면 기여 기관 수가 늘어납니다."},
+  {"t":"time","q":"<b>also are made</b> — 이 기여는 끝난 일입니까, 지금도 이어지는 일입니까?","a":"현재형이므로 지금도 이어지는 일입니다","tip":"앞 문단들이 과거형이라 이어서 과거로 읽기 쉽지만, 여기는 were 가 아니라 are 입니다."}
+ ]
+}

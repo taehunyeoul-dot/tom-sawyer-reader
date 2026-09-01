@@ -1,0 +1,550 @@
+[
+ {
+  "id": "f606def7|0.0",
+  "en": "NASA astronaut L.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "NASA astronaut L.", "ko": "NASA 우주비행사 L.", "r": "이름의 앞부분(문장이 아님)"}
+  ],
+  "ko": "NASA 우주비행사 L. (…이어서 다음 문장의 Gordon Cooper, Jr. 로 연결된다)",
+  "why": "이 토막에는 동사가 없다. 자동 문장 나누기가 이름 약자 L. 의 마침표를 문장 끝으로 잘못 보아 잘린 자리다. 원래는 다음 문장과 이어져 'NASA astronaut L. Gordon Cooper, Jr. took…' 한 문장이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|0.1",
+  "en": "Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963.",
+  "s": "Gordon Cooper, Jr.",
+  "v": "took",
+  "chunks": [
+   {"en": "Gordon Cooper, Jr. took", "ko": "고든 쿠퍼 주니어는 ~을 찍었다", "r": "주어 + 동사"},
+   {"en": "29 color photographs of the Earth", "ko": "지구를 담은 컬러 사진 29장을", "r": "목적어(긴 명사구)"},
+   {"en": "with a 70mm camera", "ko": "70mm 카메라로", "r": "전치사구(도구)"},
+   {"en": "as he orbited our planet", "ko": "그가 우리 행성의 궤도를 도는 동안", "r": "부사절(~하는 동안)"},
+   {"en": "during the Mercury-Atlas 9 mission", "ko": "머큐리-아틀라스 9호 임무 중에", "r": "시간(어느 임무 때)"},
+   {"en": "in May 1963.", "ko": "1963년 5월에", "r": "시간"}
+  ],
+  "ko": "고든 쿠퍼 주니어(L. Gordon Cooper, Jr.)는 1963년 5월 머큐리-아틀라스 9호(Mercury-Atlas 9) 임무 때 지구 궤도를 도는 동안 70mm 카메라로 지구의 컬러 사진 29장을 찍었다.",
+  "why": "동사 took 뒤에 목적어(사진 29장) → 도구(카메라) → 때(궤도를 도는 동안, 임무 중, 1963년 5월) 순으로 길게 이어진다. 여기서 as 는 '~로서'가 아니라 '~하는 동안'이고, our planet 은 앞의 the Earth 를 다시 부르는 말이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|0.2",
+  "en": "Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belching trains, and the tops of houses.",
+  "s": "Cooper’s view",
+  "v": "was",
+  "chunks": [
+   {"en": "Cooper’s view from the window", "ko": "창문으로 내다본 쿠퍼의 시야는", "r": "주어 + 전치사구"},
+   {"en": "of his Faith 7 spacecraft", "ko": "그가 탄 페이스 7 우주선의 (창문)", "r": "전치사구(앞 창문 설명)"},
+   {"en": "was spectacular,", "ko": "장관이었다", "r": "동사 + 보어"},
+   {"en": "and he reported that", "ko": "그리고 그는 ~라고 보고했다", "r": "대등절"},
+   {"en": "he could see vehicles motoring on dirt roads,", "ko": "비포장도로를 달리는 차량들을 볼 수 있었다고", "r": "that절(보고 내용)"},
+   {"en": "smoke-belching trains, and the tops of houses.", "ko": "연기를 내뿜는 기차들, 그리고 집 지붕들까지도", "r": "본 것 나열"}
+  ],
+  "ko": "페이스 7(Faith 7) 우주선 창문으로 내다본 쿠퍼의 시야는 장관이었고, 그는 비포장도로를 달리는 차량, 연기를 내뿜는 기차, 집 지붕까지 볼 수 있었다고 보고했다.",
+  "why": "and 로 이어진 두 문장인데 주어가 서로 다르다 — 앞은 Cooper’s view(쿠퍼의 시야), 뒤는 he(쿠퍼)다. motoring 과 smoke-belching 은 앞뒤 명사를 꾸미는 말이지 문장의 동사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.0",
+  "en": "Researchers and members of the public had their doubts.",
+  "s": "Researchers and members of the public",
+  "v": "had",
+  "chunks": [
+   {"en": "Researchers and members of the public", "ko": "연구자들과 일반 대중은", "r": "주어(둘을 묶은 명사구)"},
+   {"en": "had their doubts.", "ko": "미심쩍어했다", "r": "동사 + 목적어"}
+  ],
+  "ko": "연구자들도 일반 대중도 그 말을 미심쩍어했다.",
+  "why": "have one’s doubts 는 '자기 의심을 가졌다'가 아니라 '미심쩍어하다, 의심을 품다'라는 굳어진 표현이다. members of the public 은 '공무원'이 아니라 '일반 대중'이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.1",
+  "en": "Could Cooper actually see objects on the Earth’s surface in such fine detail while orbiting 100 miles above the planet?",
+  "s": "Cooper",
+  "v": "see",
+  "chunks": [
+   {"en": "Could Cooper actually see objects", "ko": "쿠퍼가 정말 물체를 볼 수 있었을까", "r": "의문문(조동사 + 주어 + 동사 + 목적어)"},
+   {"en": "on the Earth’s surface", "ko": "지구 표면에 있는", "r": "전치사구(앞 objects 설명)"},
+   {"en": "in such fine detail", "ko": "그렇게 세세한 부분까지", "r": "부사구(어느 정도로)"},
+   {"en": "while orbiting 100 miles above the planet?", "ko": "행성 위 100마일 상공을 도는 동안", "r": "분사구문(~하는 동안)"}
+  ],
+  "ko": "쿠퍼가 지구에서 100마일(약 160km) 위 궤도를 도는 동안, 지구 표면의 물체를 정말 그렇게 세세히 볼 수 있었을까?",
+  "why": "의문문이라 조동사 Could 가 주어 Cooper 앞으로 나가 있어 동사(see)가 멀리 떨어진다. while orbiting 은 주어가 생략된 분사구문으로, 궤도를 도는 것은 문장의 주어인 쿠퍼다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.2",
+  "en": "Some vision experts assumed that astronauts with 20/20 vision could not clearly see objects with sides less than 150 feet long at orbital altitudes.",
+  "s": "Some vision experts",
+  "v": "assumed",
+  "chunks": [
+   {"en": "Some vision experts assumed that", "ko": "일부 시각 전문가들은 ~라고 여겼다", "r": "주어 + 동사 + that절 시작"},
+   {"en": "astronauts with 20/20 vision", "ko": "시력이 20/20인(정상 시력의) 우주비행사라도", "r": "that절의 주어"},
+   {"en": "could not clearly see objects", "ko": "물체를 또렷이 볼 수 없다고", "r": "that절 동사(부정) + 목적어"},
+   {"en": "with sides less than 150 feet long", "ko": "한 변이 150피트가 안 되는", "r": "전치사구(앞 objects 설명)"},
+   {"en": "at orbital altitudes.", "ko": "궤도 높이에서는", "r": "조건·장소"}
+  ],
+  "ko": "일부 시각 전문가들은 시력이 20/20(정상 시력)인 우주비행사라 해도 궤도 높이에서는 한 변의 길이가 150피트(약 46m)가 안 되는 물체를 또렷이 볼 수 없다고 생각했다.",
+  "why": "부정어 not 은 that절 안에 있어서 '여기지 않았다'가 아니라 '볼 수 없다고 여겼다'가 된다. with sides less than 150 feet long 은 바로 앞의 objects 를 꾸며 그 물체의 크기를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.3",
+  "en": "Although Cooper reportedly had exceptional 20/12 vision, certainly he could not see a white automobile kicking up a dust cloud near the U.S.-Mexico border as he claimed.",
+  "s": "he",
+  "v": "could not see",
+  "chunks": [
+   {"en": "Although Cooper reportedly had exceptional 20/12 vision,", "ko": "쿠퍼가 20/12라는 남다른 시력을 가졌다고 전해지기는 하지만", "r": "부사절(양보)"},
+   {"en": "certainly he could not see a white automobile", "ko": "그가 흰 자동차를 보았을 리는 분명 없다", "r": "주절: 주어 + 동사(부정) + 목적어"},
+   {"en": "kicking up a dust cloud", "ko": "먼지 구름을 일으키며 달리는", "r": "분사구(앞 automobile 설명)"},
+   {"en": "near the U.S.-Mexico border", "ko": "미국-멕시코 국경 근처에서", "r": "장소"},
+   {"en": "as he claimed.", "ko": "그가 주장한 대로", "r": "부사절(~라고 한 대로)"}
+  ],
+  "ko": "쿠퍼가 20/12라는 남다른 시력을 가졌다고 전해지기는 하지만, 그가 주장한 대로 미국-멕시코 국경 근처에서 먼지 구름을 일으키며 달리는 흰 자동차를 보았을 리는 분명 없다.",
+  "why": "Although 로 시작하는 양보절이 먼저 오고, 주절은 certainly he could not see 다. 이 문장은 앞 문단에 나온 회의론자들의 생각을 그대로 옮겨 놓은 것이라 단정하는 말투를 쓴다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.4",
+  "en": "Cooper, however, was not alone in his assertions.",
+  "s": "Cooper",
+  "v": "was not",
+  "chunks": [
+   {"en": "Cooper, however, was not alone", "ko": "그러나 쿠퍼만 그런 것은 아니었다", "r": "주어 + 삽입어 + 동사(부정) + 보어"},
+   {"en": "in his assertions.", "ko": "그런 주장을 한 데 있어서는", "r": "전치사구(어떤 점에서)"}
+  ],
+  "ko": "그러나 그런 주장을 한 사람이 쿠퍼 혼자만은 아니었다.",
+  "why": "was not alone in ~ 는 '~하는 데 있어 혼자가 아니었다', 곧 '그렇게 한 사람이 그만은 아니었다'는 뜻이다. however 는 쉼표 사이에 끼어든 '그러나'로, 글의 방향이 여기서 바뀐다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|1.5",
+  "en": "Other Mercury astronauts also reported seeing objects on the Earth in striking detail.",
+  "s": "Other Mercury astronauts",
+  "v": "reported",
+  "chunks": [
+   {"en": "Other Mercury astronauts also reported", "ko": "다른 머큐리 우주비행사들도 ~라고 보고했다", "r": "주어 + 동사"},
+   {"en": "seeing objects on the Earth", "ko": "지구에 있는 물체를 보았다고", "r": "동명사구(보고한 내용)"},
+   {"en": "in striking detail.", "ko": "놀랄 만큼 또렷하게", "r": "부사구(어느 정도로)"}
+  ],
+  "ko": "다른 머큐리(Mercury) 우주비행사들도 지구의 물체를 놀랄 만큼 또렷하게 보았다고 보고했다.",
+  "why": "reported seeing 은 '보는 것을 보고했다'가 아니라 '보았다고 보고했다'다. -ing 형이 보고한 내용을 담는다. striking 은 '때리는'이 아니라 '눈에 확 띄는, 놀라운'이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|2.0",
+  "en": "These claims caused mental health professionals to question the sanity of NASA’s first astronauts.",
+  "s": "These claims",
+  "v": "caused",
+  "chunks": [
+   {"en": "These claims caused mental health professionals", "ko": "이런 주장들 때문에 정신건강 전문가들이", "r": "주어 + 동사 + 목적어"},
+   {"en": "to question the sanity", "ko": "정신이 온전한지 의심하게 되었다", "r": "목적격 보어(~하게 만들다)"},
+   {"en": "of NASA’s first astronauts.", "ko": "NASA 최초 우주비행사들의", "r": "전치사구(앞 sanity 설명)"}
+  ],
+  "ko": "이런 주장들 때문에 정신건강 전문가들은 NASA 최초 우주비행사들의 정신이 온전한지 의심하게 되었다.",
+  "why": "cause A to B 는 'A가 B하게 만들다'다. 의심한 쪽은 정신건강 전문가들이고 의심받은 쪽은 우주비행사들이다. 여기서 question 은 '질문하다'가 아니라 '의심하다'다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|2.1",
+  "en": "A story in Air Force and Space Digest noted that some psychiatrists speculated that “weightlessness was causing the astronauts to hallucinate and that the space program was in for serious trouble.”",
+  "s": "A story",
+  "v": "noted",
+  "chunks": [
+   {"en": "A story in Air Force and Space Digest noted that", "ko": "『Air Force and Space Digest』에 실린 한 기사는 ~라고 전했다", "r": "주어 + 전치사구 + 동사"},
+   {"en": "some psychiatrists speculated that", "ko": "일부 정신과 의사들이 ~라고 추측했다는 것을", "r": "that절(기사가 전한 내용)"},
+   {"en": "“weightlessness was causing the astronauts to hallucinate", "ko": "무중력이 우주비행사들에게 환각을 일으키고 있고", "r": "추측 내용 ①(인용)"},
+   {"en": "and that the space program was in for serious trouble.”", "ko": "우주 계획이 심각한 곤경을 겪게 될 참이라고", "r": "추측 내용 ②(인용)"}
+  ],
+  "ko": "『Air Force and Space Digest』에 실린 한 기사는, 일부 정신과 의사들이 “무중력이 우주비행사들에게 환각을 일으키고 있고 우주 계획이 심각한 곤경에 빠질 참”이라고 추측했다고 전했다.",
+  "why": "that 이 세 번 겹친다 — noted that … speculated that … and that …. 안으로 들어갈수록 '누구의 말인가'가 바뀌므로 기사 → 정신과 의사들 → 그 추측 내용 순으로 껍질을 벗겨 읽어야 한다. be in for ~ 는 '(안 좋은 일을) 겪게 될 참이다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|2.2",
+  "en": "While mental health experts considered the effects of space flight on the brain, visual acuity experts mulled over the Mercury astronauts’ assertions and developed an experiment to determine what they could see on Earth from space.",
+  "s": "visual acuity experts",
+  "v": "mulled over",
+  "chunks": [
+   {"en": "While mental health experts considered the effects", "ko": "정신건강 전문가들이 영향을 따져 보는 동안", "r": "부사절(~하는 동안)"},
+   {"en": "of space flight on the brain,", "ko": "우주 비행이 뇌에 미치는 (영향을)", "r": "전치사구(앞 effects 설명)"},
+   {"en": "visual acuity experts mulled over the Mercury astronauts’ assertions", "ko": "시력 전문가들은 머큐리 우주비행사들의 주장을 곱씹어 보았고", "r": "주절: 주어 + 동사 + 목적어"},
+   {"en": "and developed an experiment", "ko": "그리고 실험을 하나 고안했다", "r": "대등한 동사 + 목적어"},
+   {"en": "to determine what they could see on Earth from space.", "ko": "그들이 우주에서 지구의 무엇을 볼 수 있는지 알아내기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "정신건강 전문가들이 우주 비행이 뇌에 미치는 영향을 따져 보는 동안, 시력 전문가들은 머큐리 우주비행사들의 주장을 곱씹어 보고 우주에서 지구의 무엇을 볼 수 있는지 알아낼 실험을 고안했다.",
+  "why": "While 절이 앞에 와서 전문가가 두 무리(정신건강 / 시력)로 갈린다. 주절의 주어는 visual acuity experts 이고 동사는 mulled over 와 developed 둘이다. mull over 는 '곰곰이 생각하다'다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|3.0",
+  "en": "NASA and its partners developed two visual acuity experiments and conducted them during the crewed Gemini V and Gemini VII missions.",
+  "s": "NASA and its partners",
+  "v": "developed",
+  "chunks": [
+   {"en": "NASA and its partners developed", "ko": "NASA와 협력 기관들은 ~을 만들었다", "r": "주어 + 동사"},
+   {"en": "two visual acuity experiments", "ko": "시력 실험 두 가지를", "r": "목적어"},
+   {"en": "and conducted them", "ko": "그리고 그것들을 실시했다", "r": "대등한 동사 + 목적어"},
+   {"en": "during the crewed Gemini V and Gemini VII missions.", "ko": "사람이 탑승한 제미니 5호·7호 임무 때", "r": "시간(언제)"}
+  ],
+  "ko": "NASA와 협력 기관들은 시력 실험 두 가지를 고안해, 사람이 탑승한 제미니(Gemini) 5호와 7호 임무 때 실시했다.",
+  "why": "동사가 developed 와 conducted 둘인데 주어는 NASA and its partners 하나다. crewed 는 '승무원이 탄', 곧 사람이 직접 타고 간 유인 비행이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|3.1",
+  "en": "The first experiment involved looking through an optical device reminiscent of binoculars.",
+  "s": "The first experiment",
+  "v": "involved",
+  "chunks": [
+   {"en": "The first experiment involved", "ko": "첫 번째 실험은 ~하는 것이었다", "r": "주어 + 동사"},
+   {"en": "looking through an optical device", "ko": "광학 장치를 들여다보는 일을", "r": "동명사구(목적어)"},
+   {"en": "reminiscent of binoculars.", "ko": "쌍안경을 닮은", "r": "형용사구(앞 device 설명)"}
+  ],
+  "ko": "첫 번째 실험은 쌍안경을 닮은 광학 장치를 들여다보는 것이었다.",
+  "why": "involve 는 '~을 포함하다'인데, 여기서는 '(실험 내용이) ~하는 것이었다'로 읽으면 자연스럽다. reminiscent of ~ 는 '~를 떠올리게 하는, ~와 비슷한'으로 바로 앞의 장치를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|3.2",
+  "en": "Test subjects looked through the eyepieces to see an assortment of rectangles in various positions and levels of contrast.",
+  "s": "Test subjects",
+  "v": "looked",
+  "chunks": [
+   {"en": "Test subjects looked through the eyepieces", "ko": "피험자들은 접안렌즈를 들여다보았다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "to see an assortment of rectangles", "ko": "여러 가지 직사각형을 보기 위해", "r": "목적(~하기 위해)"},
+   {"en": "in various positions and levels of contrast.", "ko": "여러 방향으로 놓이고 명암 대비도 제각각인", "r": "전치사구(앞 rectangles 설명)"}
+  ],
+  "ko": "피험자들은 접안렌즈를 들여다보며, 여러 방향으로 놓이고 명암 대비도 제각각인 직사각형들을 보았다.",
+  "why": "Test subjects 는 '시험 과목'이 아니라 '실험 대상자(피험자)'다. an assortment of ~ 는 '여러 가지 ~의 모음'이고, in various positions and levels of contrast 는 그 직사각형들이 어떤 상태였는지를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|3.3",
+  "en": "They were then asked to identify the directional orientation of the rectangles.",
+  "s": "They",
+  "v": "were then asked",
+  "chunks": [
+   {"en": "They were then asked", "ko": "그런 다음 그들은 요청을 받았다", "r": "주어 + 동사(수동태)"},
+   {"en": "to identify the directional orientation", "ko": "어느 방향으로 놓였는지 짚어 내도록", "r": "요청받은 내용"},
+   {"en": "of the rectangles.", "ko": "그 직사각형들이", "r": "전치사구(앞 orientation 설명)"}
+  ],
+  "ko": "그런 다음 피험자들은 그 직사각형들이 어느 방향으로 놓여 있는지 알아맞히도록 요청받았다.",
+  "why": "were asked 는 수동태라 '요청했다'가 아니라 '요청받았다'다. 요청한 쪽은 문장에 나오지 않는다. directional orientation 은 '어느 쪽을 향해 놓였는가', 곧 방향이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|4.0",
+  "en": "Another part of the experiment involved creating two enormous terrestrial eye charts composed of gigantic white rectangles.",
+  "s": "Another part of the experiment",
+  "v": "involved",
+  "chunks": [
+   {"en": "Another part of the experiment involved", "ko": "실험의 또 다른 부분은 ~하는 것이었다", "r": "주어 + 동사"},
+   {"en": "creating two enormous terrestrial eye charts", "ko": "땅 위에 거대한 시력검사표 두 개를 만드는 일을", "r": "동명사구(목적어)"},
+   {"en": "composed of gigantic white rectangles.", "ko": "거대한 흰색 직사각형들로 이루어진", "r": "과거분사구(앞 charts 설명)"}
+  ],
+  "ko": "실험의 또 다른 부분은 거대한 흰색 직사각형들로 이루어진 어마어마한 크기의 지상 시력검사표 두 개를 만드는 일이었다.",
+  "why": "terrestrial 은 '땅 위의·지구의'로, 우주에서 내려다보라고 땅에 만든 시력검사표라는 뜻이다. composed of ~ 는 '~로 이루어진'이며 앞의 eye charts 를 꾸미는 말이지 문장의 동사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|4.1",
+  "en": "The rectangles, created by the Dow Chemical Corporation, ranged in size from roughly 150 to 600 feet long.",
+  "s": "The rectangles",
+  "v": "ranged",
+  "chunks": [
+   {"en": "The rectangles,", "ko": "그 직사각형들은", "r": "주어"},
+   {"en": "created by the Dow Chemical Corporation,", "ko": "다우 케미컬사가 만든 것으로", "r": "과거분사구(주어 설명)"},
+   {"en": "ranged in size", "ko": "크기가 ~에 걸쳐 있었다", "r": "동사 + 전치사구"},
+   {"en": "from roughly 150 to 600 feet long.", "ko": "대략 150피트에서 600피트 길이까지", "r": "범위(어디부터 어디까지)"}
+  ],
+  "ko": "그 직사각형들은 다우 케미컬(Dow Chemical Corporation)이 만든 것으로, 크기가 대략 150피트(약 46m)에서 600피트(약 180m) 길이에 이르렀다.",
+  "why": "쉼표 사이에 끼어든 created by ~ 가 주어와 동사(ranged)를 갈라놓는다. 이 부분은 수동의 뜻이라 '직사각형이 만들었다'가 아니라 '만들어진'이다. range from A to B 는 '범위가 A부터 B까지'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|4.2",
+  "en": "The experiment team placed one set of rectangles on dark tilled soil in Laredo, Texas and another near Carnarvon, Australia, and asked Gemini V and VII astronauts to identify their directional orientation from orbit.",
+  "s": "The experiment team",
+  "v": "placed",
+  "chunks": [
+   {"en": "The experiment team placed one set of rectangles", "ko": "실험팀은 직사각형 한 벌을 놓았고", "r": "주어 + 동사 + 목적어"},
+   {"en": "on dark tilled soil in Laredo, Texas", "ko": "텍사스주 러레이도의 검게 갈아엎은 흙 위에", "r": "전치사구(장소)"},
+   {"en": "and another near Carnarvon, Australia,", "ko": "또 한 벌은 오스트레일리아 카나번 근처에", "r": "두 번째 목적어 + 장소"},
+   {"en": "and asked Gemini V and VII astronauts", "ko": "그리고 제미니 5호·7호 우주비행사들에게 요청했다", "r": "대등한 동사 + 목적어"},
+   {"en": "to identify their directional orientation from orbit.", "ko": "궤도에서 그것들의 방향을 알아맞혀 보라고", "r": "요청받은 내용"}
+  ],
+  "ko": "실험팀은 직사각형 한 벌은 텍사스주 러레이도(Laredo)의 검게 갈아엎은 흙 위에, 또 한 벌은 오스트레일리아 카나번(Carnarvon) 근처에 놓고, 제미니 5호와 7호 우주비행사들에게 궤도에서 그 방향을 알아맞혀 보라고 요청했다.",
+  "why": "동사가 placed 와 asked 둘이고 주어는 The experiment team 하나다. another 는 another set of rectangles 에서 뒷말이 생략된 것이고, their 는 우주비행사가 아니라 직사각형을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|4.3",
+  "en": "This visual acuity tool was nicknamed the “Eye-Q” chart.",
+  "s": "This visual acuity tool",
+  "v": "was nicknamed",
+  "chunks": [
+   {"en": "This visual acuity tool", "ko": "이 시력 검사 도구에는", "r": "주어"},
+   {"en": "was nicknamed the “Eye-Q” chart.", "ko": "“Eye-Q” 차트라는 별명이 붙었다", "r": "동사(수동태) + 보어"}
+  ],
+  "ko": "이 시력 검사 도구에는 “Eye-Q” 차트라는 별명이 붙었다.",
+  "why": "was nicknamed 는 수동태라 '별명을 붙였다'가 아니라 '별명이 붙었다'이고, 붙인 쪽은 문장에 나오지 않는다. visual acuity 는 이 기사 전체의 열쇠말인 '시력'이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|5.0",
+  "en": "Cloudy conditions, sunlight scattered by the window of the Gemini spacecraft, and unfavorable orbital orientations during overflight all impacted the astronauts’ views of the ground-based experiments.",
+  "s": "Cloudy conditions, sunlight scattered by the window of the Gemini spacecraft, and unfavorable orbital orientations during overflight",
+  "v": "impacted",
+  "chunks": [
+   {"en": "Cloudy conditions,", "ko": "흐린 날씨,", "r": "주어 ①"},
+   {"en": "sunlight scattered by the window of the Gemini spacecraft,", "ko": "제미니 우주선 창문에 부딪혀 흩어진 햇빛,", "r": "주어 ②(분사구가 붙은 명사구)"},
+   {"en": "and unfavorable orbital orientations during overflight", "ko": "그리고 상공을 지날 때의 불리한 궤도 자세 —", "r": "주어 ③"},
+   {"en": "all impacted the astronauts’ views", "ko": "이 셋 모두가 우주비행사들의 시야에 영향을 주었다", "r": "동사 + 목적어"},
+   {"en": "of the ground-based experiments.", "ko": "지상에 마련된 실험 시설을 보는 (시야)", "r": "전치사구(앞 views 설명)"}
+  ],
+  "ko": "흐린 날씨, 제미니 우주선 창문에 부딪혀 흩어진 햇빛, 상공 통과 때의 불리한 궤도 자세 — 이 세 가지 모두가 우주비행사들이 지상 실험 시설을 보는 데 영향을 주었다.",
+  "why": "주어가 세 덩어리로 길게 나열되고, all(모두)이 그것을 받아 준 다음에야 동사 impacted 가 나온다. all 앞까지를 통째로 주어로 묶어야 한다. scattered by ~ 는 '~에 의해 흩어진'으로 앞의 sunlight 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|5.1",
+  "en": "Nevertheless, during some orbital revolutions, astronauts on both missions were able to see portions of the ground site near Laredo.",
+  "s": "astronauts on both missions",
+  "v": "were able to see",
+  "chunks": [
+   {"en": "Nevertheless, during some orbital revolutions,", "ko": "그럼에도 불구하고, 몇몇 궤도 회전 때에는", "r": "접속부사 + 시간"},
+   {"en": "astronauts on both missions were able to see", "ko": "두 임무의 우주비행사들이 볼 수 있었다", "r": "주어 + 동사"},
+   {"en": "portions of the ground site near Laredo.", "ko": "러레이도 근처 지상 시설의 일부를", "r": "목적어"}
+  ],
+  "ko": "그럼에도 불구하고 몇몇 궤도 회전 구간에서는 두 임무의 우주비행사들이 러레이도 근처 지상 시설의 일부를 볼 수 있었다.",
+  "why": "Nevertheless 는 앞 문장의 방해 요소들에도 '그럼에도'라는 반전이다. some(몇몇)과 portions(일부)가 '전부는 아니었다'는 한계를 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|6.0",
+  "en": "Their reports on the Laredo “Eye-Q” site, combined with the results of the binocular-like vision tester experiments conducted before, during, and after the flight, revealed that astronauts could in fact see roads and ships with following wakes from orbit.",
+  "s": "Their reports",
+  "v": "revealed",
+  "chunks": [
+   {"en": "Their reports on the Laredo “Eye-Q” site,", "ko": "러레이도 “Eye-Q” 시설에 대한 그들의 보고는", "r": "주어 + 전치사구"},
+   {"en": "combined with the results of the binocular-like vision tester experiments", "ko": "쌍안경 비슷한 시력 측정 장치 실험 결과와 합쳐 보면", "r": "분사구(주어 설명)"},
+   {"en": "conducted before, during, and after the flight,", "ko": "비행 전·중·후에 실시된", "r": "과거분사구(앞 experiments 설명)"},
+   {"en": "revealed that astronauts could in fact see roads and ships", "ko": "우주비행사들이 실제로 도로와 배를 볼 수 있었음을 보여 주었다", "r": "동사 + that절"},
+   {"en": "with following wakes from orbit.", "ko": "뒤로 항적을 끌며 가는 (배를), 궤도에서", "r": "전치사구(앞 ships 설명) + 장소"}
+  ],
+  "ko": "러레이도 “Eye-Q” 시설에 대한 우주비행사들의 보고는, 비행 전·중·후에 실시된 쌍안경 비슷한 시력 측정 장치 실험 결과와 합쳐 볼 때, 우주비행사들이 실제로 궤도에서 도로와 뒤로 항적을 남기며 가는 배를 볼 수 있었음을 보여 주었다.",
+  "why": "주어(Their reports…)와 동사(revealed) 사이에 쉼표로 둘러싸인 긴 분사구가 끼어 있다. 그 안쪽을 괄호로 묶어 내면 'Their reports … revealed that …' 이라는 뼈대가 드러난다. wake 는 '깨어나다'가 아니라 배가 지나간 뒤 물에 남는 '항적'이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|6.1",
+  "en": "The experiments also determined that an astronaut’s vision did not deteriorate during a two-week spaceflight. 1",
+  "s": "The experiments",
+  "v": "determined",
+  "chunks": [
+   {"en": "The experiments also determined that", "ko": "그 실험들은 ~라는 것도 밝혀냈다", "r": "주어 + 동사"},
+   {"en": "an astronaut’s vision did not deteriorate", "ko": "우주비행사의 시력이 나빠지지 않는다는", "r": "that절: 주어 + 동사(부정)"},
+   {"en": "during a two-week spaceflight. 1", "ko": "2주짜리 우주 비행 동안 (끝의 1 은 각주 번호)", "r": "시간 + 각주 표시"}
+  ],
+  "ko": "그 실험들은 2주짜리 우주 비행 동안에는 우주비행사의 시력이 나빠지지 않는다는 것도 밝혀냈다. (문장 끝의 1 은 각주 번호다.)",
+  "why": "부정어 not 이 that절 안에 있어 '밝혀내지 못했다'가 아니라 '나빠지지 않았음을 밝혀냈다'가 된다. deteriorate 는 '나빠지다, 악화되다'다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|7.0",
+  "en": "Determining what features on Earth astronauts could accurately see from orbit was about much more than sanity checking astronaut reports.",
+  "s": "Determining what features on Earth astronauts could accurately see from orbit",
+  "v": "was",
+  "chunks": [
+   {"en": "Determining what features on Earth", "ko": "지구의 어떤 것들을 ~ 알아내는 일은", "r": "주어(동명사구) 시작"},
+   {"en": "astronauts could accurately see from orbit", "ko": "우주비행사들이 궤도에서 정확히 볼 수 있는지", "r": "의문사절 안의 주어 + 동사"},
+   {"en": "was about much more than", "ko": "~보다 훨씬 큰 문제였다", "r": "동사 + 보어"},
+   {"en": "sanity checking astronaut reports.", "ko": "우주비행사들의 보고가 제정신인지 확인하는 일", "r": "비교 대상"}
+  ],
+  "ko": "우주비행사들이 궤도에서 지구의 어떤 것들을 정확히 볼 수 있는지 알아내는 일은, 그들의 보고가 제정신에서 나온 것인지 확인하는 것보다 훨씬 큰 의미가 있었다.",
+  "why": "문장의 주어가 Determining … from orbit 까지로 아주 길고, 그 안에 what features … could see 라는 의문사절이 또 들어 있다. 동사는 was 하나뿐이니 was 앞까지를 통째로 주어로 묶어 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|7.1",
+  "en": "Understanding what human eyes could see from space, as well as seeing the photographs taken on NASA’s early crewed missions had huge implications for geologists, geographers, oceanographers, and others studying our planet.",
+  "s": "Understanding what human eyes could see from space",
+  "v": "had",
+  "chunks": [
+   {"en": "Understanding what human eyes could see from space,", "ko": "사람의 눈이 우주에서 무엇을 볼 수 있는지 알아내는 일,", "r": "주어 ①(동명사구)"},
+   {"en": "as well as seeing the photographs", "ko": "그리고 그 사진들을 직접 보는 일까지", "r": "주어 ②(~뿐 아니라)"},
+   {"en": "taken on NASA’s early crewed missions", "ko": "NASA 초기 유인 임무에서 찍힌", "r": "과거분사구(앞 photographs 설명)"},
+   {"en": "had huge implications for geologists, geographers, oceanographers,", "ko": "지질학자, 지리학자, 해양학자에게 큰 의미가 있었다", "r": "동사 + 목적어 + 대상"},
+   {"en": "and others studying our planet.", "ko": "그리고 우리 행성을 연구하는 다른 이들에게도", "r": "대상 나열 + 현재분사구"}
+  ],
+  "ko": "사람의 눈이 우주에서 무엇을 볼 수 있는지 알아내는 일, 그리고 NASA 초기 유인 임무에서 찍힌 사진들을 직접 보는 일은 지질학자·지리학자·해양학자를 비롯해 지구를 연구하는 이들에게 큰 의미가 있었다.",
+  "why": "동명사 두 개(Understanding …, seeing …)가 as well as 로 묶여 통째로 주어이고, 동사는 had 하나다. taken 과 studying 은 앞 명사를 꾸미는 말이지 동사가 아니다. implications 는 '뜻하는 바·파급 효과'다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|8.0",
+  "en": "The scientific community’s interest in the recollections and photographs of the Earth’s surface as seen by the Mercury and Gemini astronauts motivated NASA and its partners to advocate for new Earth-observing instruments.",
+  "s": "The scientific community’s interest",
+  "v": "motivated",
+  "chunks": [
+   {"en": "The scientific community’s interest", "ko": "과학계의 관심이", "r": "주어"},
+   {"en": "in the recollections and photographs of the Earth’s surface", "ko": "지구 표면에 대한 회상과 사진에 쏠린", "r": "전치사구(관심의 대상)"},
+   {"en": "as seen by the Mercury and Gemini astronauts", "ko": "머큐리·제미니 우주비행사들 눈에 보인 그대로의", "r": "분사구(앞 표면 설명)"},
+   {"en": "motivated NASA and its partners", "ko": "NASA와 협력 기관들을 움직여", "r": "동사 + 목적어"},
+   {"en": "to advocate for new Earth-observing instruments.", "ko": "새로운 지구 관측 장비를 갖추자고 목소리 내게 했다", "r": "목적격 보어(~하게 만들다)"}
+  ],
+  "ko": "머큐리·제미니 우주비행사들이 직접 본 지구 표면에 대한 회상과 사진에 과학계의 관심이 쏠렸고, 그 관심이 NASA와 협력 기관들로 하여금 새로운 지구 관측 장비를 갖추자고 목소리를 내게 만들었다.",
+  "why": "주어(The scientific community’s interest)와 동사(motivated) 사이에 in ~ 과 as seen by ~ 두 개의 긴 수식어가 끼어 있다. motivate A to B 는 'A가 B하도록 만들다'이므로, 움직인 쪽은 '관심'이고 움직여진 쪽은 NASA와 협력 기관들이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|8.1",
+  "en": "NASA, the U.S.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "NASA, the U.S.", "ko": "NASA, 미국의…", "r": "긴 주어 나열의 앞부분(문장이 아님)"}
+  ],
+  "ko": "NASA, 미국의… (다음 두 토막과 이어져 하나의 주어를 이룬다)",
+  "why": "자동 문장 나누기가 약자 U.S. 의 마침표를 문장 끝으로 잘못 보아 잘린 자리다. 원래는 다음 두 토막과 이어져 'NASA, the U.S. Geological Survey, the Office of Naval Research, and the U.S. Department of Agriculture noted that …' 한 문장이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|8.2",
+  "en": "Geological Survey, the Office of Naval Research, and the U.S.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Geological Survey, the Office of Naval Research, and the U.S.", "ko": "(미국) 지질조사국, 해군연구청, 그리고 미국의…", "r": "긴 주어 나열의 가운데 부분(문장이 아님)"}
+  ],
+  "ko": "(미국) 지질조사국, 해군연구청, 그리고 미국의…",
+  "why": "앞 토막 끝의 the U.S. 와 이어 붙여야 the U.S. Geological Survey(미국 지질조사국)가 되고, 이 토막 끝의 the U.S. 는 다음 토막의 Department of Agriculture 와 이어져 미국 농무부가 된다. 마침표가 든 약자 때문에 두 번 잘린 자리다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|8.3",
+  "en": "Department of Agriculture noted that surface images of the Earth captured from above could be used to inventory crops, map geological features, monitor natural disasters, and better understand the ocean’s processes.",
+  "s": "Department of Agriculture",
+  "v": "noted",
+  "chunks": [
+   {"en": "Department of Agriculture noted that", "ko": "(미국) 농무부는 ~라고 밝혔다", "r": "주어 + 동사"},
+   {"en": "surface images of the Earth captured from above", "ko": "위에서 찍은 지구 표면 사진이", "r": "that절의 주어(분사구가 붙은 명사구)"},
+   {"en": "could be used to inventory crops,", "ko": "농작물 현황을 조사하는 데 쓰일 수 있다고", "r": "that절 동사(수동태) + 쓰임새 ①"},
+   {"en": "map geological features, monitor natural disasters,", "ko": "지질 구조를 지도로 만들고, 자연재해를 감시하며", "r": "쓰임새 ②③"},
+   {"en": "and better understand the ocean’s processes.", "ko": "바다에서 일어나는 작용을 더 잘 이해하는 데", "r": "쓰임새 ④"}
+  ],
+  "ko": "미국 농무부는 — 앞 토막의 NASA, 미국 지질조사국, 해군연구청과 함께 — 위에서 찍은 지구 표면 사진이 농작물 현황 조사, 지질 구조 지도 작성, 자연재해 감시, 바다에서 일어나는 작용을 더 깊이 이해하는 데 쓰일 수 있다고 밝혔다.",
+  "why": "inventory, map, monitor, understand 네 개가 모두 앞의 to 하나에 걸리는 동사 원형이다. map 은 '지도'가 아니라 '지도로 만들다', inventory 는 '목록'이 아니라 '조사해 목록을 만들다'라는 동사다. captured from above 는 앞의 images 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|9.0",
+  "en": "The promise of these real-world applications motivated the creation of the Earth Resources Technology Satellite (ERTS), later renamed Landsat 1.",
+  "s": "The promise of these real-world applications",
+  "v": "motivated",
+  "chunks": [
+   {"en": "The promise of these real-world applications", "ko": "이런 실제 쓰임새들이 보여 준 가능성이", "r": "주어"},
+   {"en": "motivated the creation", "ko": "만들어 내는 계기가 되었다", "r": "동사 + 목적어"},
+   {"en": "of the Earth Resources Technology Satellite (ERTS),", "ko": "지구자원기술위성(ERTS)을", "r": "전치사구(무엇을 만들었나)"},
+   {"en": "later renamed Landsat 1.", "ko": "훗날 랜드샛 1호로 이름이 바뀐", "r": "과거분사구(앞 위성 설명)"}
+  ],
+  "ko": "이런 실제 쓰임새들이 보여 준 가능성이 지구자원기술위성(Earth Resources Technology Satellite, ERTS)을 만드는 계기가 되었고, 이 위성은 훗날 랜드샛 1호(Landsat 1)로 이름이 바뀌었다.",
+  "why": "promise 는 '약속'이 아니라 '가능성·전망'이다. later renamed ~ 는 수동의 뜻을 담은 분사구로 '나중에 ~로 이름이 바뀐'이며, 문장의 동사가 아니라 앞의 위성을 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|9.1",
+  "en": "Launched by NASA in 1972, the data from Landsat 1’s camera and multi-spectral scanner were used along with data from the agency’s Earth Resources Aircraft Program to monitor the oceans, agricultural fields, natural disaster sites, and more.",
+  "s": "the data",
+  "v": "were used",
+  "chunks": [
+   {"en": "Launched by NASA in 1972,", "ko": "1972년 NASA가 쏘아 올린", "r": "분사구문(발사된 것 = 랜드샛 1호)"},
+   {"en": "the data from Landsat 1’s camera and multi-spectral scanner", "ko": "랜드샛 1호의 카메라와 다중분광 주사기에서 나온 자료는", "r": "주어"},
+   {"en": "were used along with data", "ko": "다른 자료와 함께 쓰였다", "r": "동사(수동태) + 전치사구"},
+   {"en": "from the agency’s Earth Resources Aircraft Program", "ko": "그 기관, 곧 NASA의 지구자원 항공기 계획에서 얻은 (자료)", "r": "전치사구(앞 data 설명)"},
+   {"en": "to monitor the oceans, agricultural fields, natural disaster sites, and more.", "ko": "바다, 농경지, 자연재해 현장 등을 살피기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "1972년 NASA가 쏘아 올린 랜드샛 1호의 카메라와 다중분광 주사기(multi-spectral scanner)에서 나온 자료는, NASA의 지구자원 항공기 계획(Earth Resources Aircraft Program)에서 얻은 자료와 함께 바다, 농경지, 자연재해 현장 등을 살피는 데 쓰였다.",
+  "why": "맨 앞의 Launched by NASA in 1972 는 뜻으로는 랜드샛 1호를 가리키는데 바로 뒤에 오는 주어는 the data(자료)라 형태가 어긋난다. 발사된 것은 자료가 아니라 위성이다. the agency 는 NASA를 다시 부르는 말이다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|10.0",
+  "en": "In the six decades since America’s first pioneering human spaceflights, NASA has continued to observe the Earth from orbit, aircraft, and even ground level in a continuing quest to help solve problems here on Earth.",
+  "s": "NASA",
+  "v": "has continued",
+  "chunks": [
+   {"en": "In the six decades since America’s first pioneering human spaceflights,", "ko": "미국이 처음으로 사람을 우주로 보낸 이래 60년 동안", "r": "시간"},
+   {"en": "NASA has continued to observe the Earth", "ko": "NASA는 계속해서 지구를 관측해 왔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from orbit, aircraft, and even ground level", "ko": "궤도에서, 항공기에서, 심지어 지상에서까지", "r": "전치사구(어디에서 보는가)"},
+   {"en": "in a continuing quest to help solve problems", "ko": "문제를 푸는 데 보탬이 되려는 끊임없는 노력의 하나로", "r": "목적"},
+   {"en": "here on Earth.", "ko": "바로 이곳 지구의", "r": "장소(앞 problems 설명)"}
+  ],
+  "ko": "미국이 처음으로 사람을 우주로 보낸 뒤 60년 동안, NASA는 궤도에서, 항공기에서, 심지어 지상에서까지 계속 지구를 관측해 왔다. 바로 이곳 지구의 문제를 푸는 데 보탬이 되려는 끊임없는 노력의 하나였다.",
+  "why": "has continued 는 현재완료로 '예전부터 지금까지 죽 그래 왔다'는 뜻이다. six decades 는 60년이고 since ~ 는 '~한 이래'다. quest 는 '탐구·추구'다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|11.0",
+  "en": "[1] In subsequent years, scientists have documented that roughly 70% of astronauts experience Spaceflight Associated Neuro-ocular Syndrome (SANS) during longer spaceflights.",
+  "s": "scientists",
+  "v": "have documented",
+  "chunks": [
+   {"en": "[1] In subsequent years,", "ko": "[각주 1] 그 뒤 여러 해에 걸쳐", "r": "각주 번호 + 시간"},
+   {"en": "scientists have documented that", "ko": "과학자들은 ~라는 사실을 기록해 왔다", "r": "주어 + 동사"},
+   {"en": "roughly 70% of astronauts experience", "ko": "우주비행사의 약 70%가 겪는다는", "r": "that절: 주어 + 동사"},
+   {"en": "Spaceflight Associated Neuro-ocular Syndrome (SANS)", "ko": "우주비행 연관 신경-안구 증후군(SANS)을", "r": "목적어(긴 이름)"},
+   {"en": "during longer spaceflights.", "ko": "더 긴 우주 비행 동안", "r": "시간·조건"}
+  ],
+  "ko": "[각주 1] 그 뒤 여러 해에 걸쳐 과학자들은 더 긴 우주 비행 중에 우주비행사의 약 70%가 우주비행 연관 신경-안구 증후군(Spaceflight Associated Neuro-ocular Syndrome, SANS)을 겪는다는 사실을 기록해 왔다.",
+  "why": "맨 앞의 [1] 은 본문 '2주 비행에서는 시력이 나빠지지 않았다'는 문장에 달린 각주 번호다. longer(더 긴)는 그 2주와 견주는 말로, 더 긴 비행에서는 이야기가 달라진다는 단서를 단다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|12.0",
+  "en": "In the 1960s, NASA was pioneering a new era of human spaceflight—and astronaut photography—that would…",
+  "s": "NASA",
+  "v": "was pioneering",
+  "chunks": [
+   {"en": "In the 1960s, NASA was pioneering a new era", "ko": "1960년대에 NASA는 새로운 시대를 열어 가고 있었다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "of human spaceflight—and astronaut photography—that would…", "ko": "유인 우주비행의, 그리고 우주비행사 사진 촬영의 — …하게 될 시대를", "r": "전치사구 + 삽입어(대시) + 관계절(뒤가 잘림)"}
+  ],
+  "ko": "1960년대에 NASA는 유인 우주비행의 — 그리고 우주비행사 사진 촬영의 — 새 시대를 열어 가고 있었고, 그 시대는 …(뒤가 잘려 있다)",
+  "why": "대시(—) 두 개 사이에 낀 and astronaut photography 는 괄호처럼 곁들인 말이라 떼어 놓고 읽으면 된다. 그러면 a new era of human spaceflight … that would… 라는 뼈대가 보인다. 다른 기사로 넘어가는 소개 문구라 뒤가 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|13.0",
+  "en": "Article 11 months ago 2 min read Observing Storms from Skylab Article 1 year ago 4 min read Playing the Moon Game Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten Thousand…",
+  "s": "Apollo astronauts",
+  "v": "previewed",
+  "chunks": [
+   {"en": "Article 11 months ago 2 min read", "ko": "기사 · 11개월 전 · 읽는 데 2분", "r": "기사 목록 표시(문장이 아님)"},
+   {"en": "Observing Storms from Skylab", "ko": "「스카이랩에서 폭풍 관측하기」", "r": "다른 기사 제목 ①"},
+   {"en": "Article 1 year ago 4 min read", "ko": "기사 · 1년 전 · 읽는 데 4분", "r": "기사 목록 표시"},
+   {"en": "Playing the Moon Game", "ko": "「달 놀이 하기」", "r": "다른 기사 제목 ②"},
+   {"en": "Apollo astronauts previewed their roles", "ko": "아폴로 우주비행사들은 자기 역할을 미리 익혔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "as lunar field geologists", "ko": "달 표면 현장 지질학자로서의", "r": "전치사구(어떤 역할인가)"},
+   {"en": "in Alaska’s Valley of Ten Thousand…", "ko": "알래스카의 '만 개의 …' 계곡에서", "r": "장소(뒤가 잘림)"}
+  ],
+  "ko": "기사 · 11개월 전 · 읽는 데 2분 — 「스카이랩에서 폭풍 관측하기(Observing Storms from Skylab)」 / 기사 · 1년 전 · 읽는 데 4분 — 「달 놀이 하기(Playing the Moon Game)」: 아폴로 우주비행사들은 알래스카의 '만 개의 …' 계곡에서 달 표면 현장 지질학자로서 할 일을 미리 익혔다…",
+  "why": "한 문장이 아니라 기사 아래에 붙은 '다른 기사 목록'이 통째로 긁혀 들어온 토막이다. Article / 11 months ago / 2 min read 는 목록 표시이고 그 뒤가 기사 제목, 다시 그 뒤가 소개 문장이다. 이런 자리에서는 문장 뼈대를 억지로 찾을 필요가 없다.",
+  "st": []
+ },
+ {
+  "id": "f606def7|14.0",
+  "en": "Article 2 months ago Keep Exploring Discover More Topics From NASA NASA History",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Article 2 months ago", "ko": "기사 · 2개월 전", "r": "기사 목록 표시"},
+   {"en": "Keep Exploring Discover More Topics From NASA", "ko": "「계속 탐험하기」 「더 많은 주제 알아보기」 「NASA에서」", "r": "웹페이지 안내 문구·버튼 글"},
+   {"en": "NASA History", "ko": "「NASA 역사」", "r": "분류 이름"}
+  ],
+  "ko": "기사 · 2개월 전 — '계속 탐험하기 / 더 많은 주제 알아보기 / NASA에서 / NASA 역사'. (기사 아래에 붙은 웹페이지 안내 문구가 그대로 들어온 토막이다.)",
+  "why": "문장이 아니라 웹페이지 아래쪽의 버튼 글·분류 이름이 이어 붙은 토막이라 주어도 동사도 없다. 뜻을 억지로 지어내지 말고 '목록·버튼 글'로 알아보고 넘어가면 된다.",
+  "st": []
+ }
+]

@@ -1,0 +1,536 @@
+{
+ "5fc10179|0.0": [
+  {
+   "t": "neg",
+   "q": "<b>will not capture or boost</b> — 하지 않게 된 것은 무엇이고, 발표 자체는 있었습니까?",
+   "a": "발표는 했습니다. 하지 않게 된 것은 LINK가 위성을 붙잡아(capture) 더 높은 고도로 밀어 올리는(boost) 일이고, 두 가지 모두 하지 않습니다",
+   "tip": "not 은 announced 가 아니라 뒤에 딸린 문장의 will 에 붙어 있습니다. or 로 이어진 두 동사 모두에 걸립니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>NASA and Katalyst Space announced Wednesday</b> — 발표한 쪽은 어디이고, 위성을 붙잡으려던 쪽은 무엇입니까?",
+   "a": "발표한 쪽은 NASA와 Katalyst Space 두 곳이고, 붙잡으려던 쪽은 LINK 우주선입니다",
+   "tip": "맨 앞의 긴 Due to … 구절을 주어로 잡으면 주어를 놓칩니다. 주어는 첫 쉼표 뒤에 나옵니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>to extend its science mission</b> 의 its 는 무엇을 가리킵니까?",
+   "a": "an agency satellite, 곧 NASA의 위성입니다",
+   "tip": "바로 앞에 나온 LINK 로 잡기 쉽습니다. 임무를 연장하려던 대상은 밀어 올릴 위성 쪽입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>announced Wednesday</b> 와 <b>will not capture or boost</b> — 포획은 이미 시도했다가 실패한 것입니까?",
+   "a": "아닙니다. 발표는 수요일에 이미 있었고, 포획·고도 상승은 앞으로 하지 않기로 한 앞일입니다",
+   "tip": "will 이 있으면 아직 일어나지 않은 일입니다. 문제가 생긴 것은 자세 제어이지 포획 실패가 아닙니다."
+  }
+ ],
+ "5fc10179|0.1": [
+  {
+   "t": "neg",
+   "q": "앞 문장의 취소와 <b>However, LINK still will attempt</b> — LINK는 이제 아무것도 하지 않습니까?",
+   "a": "아닙니다. 포획과 고도 상승만 하지 않고, 랑데부와 근접 운용은 그대로 시도합니다",
+   "tip": "앞 문장의 not 을 이 문장까지 끌고 오면 정반대가 됩니다. still 이 ‘그래도 한다’는 신호입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to demonstrate key capabilities</b> — 능력을 보여 주는 쪽은 무엇입니까?",
+   "a": "LINK 우주선입니다",
+   "tip": "바로 앞에 Swift Observatory 가 있어 그쪽이 보여 준다고 읽기 쉽습니다. to부정사가 나타내는 동작의 주체는 문장의 주어(LINK)입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>with NASA’s Neil Gehrels Swift Observatory</b> 는 무엇에 붙는 말입니까?",
+   "a": "앞의 rendezvous and proximity operations 입니다 — 그 관측위성을 상대로 하는 랑데부·근접 운용이라는 뜻입니다",
+   "tip": "will attempt 에 붙여 ‘관측위성과 함께 시도한다’로 읽기 쉽습니다. 만나는 상대가 Swift 입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>will attempt</b> — 이 랑데부는 이미 끝난 일입니까, 앞으로 할 일입니까?",
+   "a": "앞으로 할 일입니다 — 아직 하지 않았습니다",
+   "tip": "취소 소식과 함께 나와서 이미 끝난 일로 읽기 쉽습니다."
+  }
+ ],
+ "5fc10179|1.0": [
+  {
+   "t": "who",
+   "q": "<b>said NASA Administrator Jared Isaacman</b> — 이 말을 한 사람은 누구입니까?",
+   "a": "NASA 청장(Administrator) 재러드 아이잭먼입니다 — NASA라는 기관이 말한 것이 아닙니다",
+   "tip": "said 가 먼저 오고 말한 사람이 뒤에 오는 뒤집힌 어순입니다. 문장 맨 앞의 NASA 를 말한 주체로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>when the potential return is worth it</b> 는 어디에 걸리는 말입니까?",
+   "a": "앞의 move quickly and take smart risks 입니다 — 성과가 값어치 있을 때에 한해 빠르게 움직이고 위험을 감수하라는 뜻입니다",
+   "tip": "문장 전체에 걸어 읽으면 조건이 흐려집니다. 조건이 붙는 것은 ‘빨리 움직이고 위험을 감수하는’ 쪽입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that is exactly what we did with this mission</b> 의 that 은 무엇을 가리킵니까?",
+   "a": "앞에서 말한 것 — 빠르게 움직이고 계산된 위험을 감수한 태도를 가리킵니다",
+   "tip": "뒤의 what we did 와 헷갈리기 쉽습니다. ‘그것이 곧 우리가 이번 임무에서 한 일’이라는 뜻입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>that is exactly what we did with this mission</b> — 그렇게 한 것은 이미 한 일입니까, 앞으로 할 일입니까?",
+   "a": "이미 한 일입니다 — did(과거)로 되어 있습니다",
+   "tip": "앞부분이 should be willing(~해야 한다)이라 문장 전체를 앞일로 읽기 쉽습니다."
+  }
+ ],
+ "5fc10179|1.1": [
+  {
+   "t": "neg",
+   "q": "<b>it does not change why this mission was worth attempting</b> — 이 임무는 시도할 값어치가 있었습니까, 없었습니까?",
+   "a": "있었습니다 — 값어치가 있었다는 판단은 그대로라는 뜻입니다",
+   "tip": "not 을 ‘값어치가 없다’로 옮기면 정반대가 됩니다. 부정되는 것은 change(달라진다)입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>but it does not change</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "앞 절에서 말한 것 — 바라던 결과가 나오지 않았다는 이번 사태입니다",
+   "tip": "this mission 이나 the outcome 하나로 좁혀 잡기 쉽습니다. it 은 ‘이렇게 된 상황’을 통째로 가리킵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>we were working toward</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 the outcome 입니다 — ‘우리가 목표로 삼고 일해 온 결과’라는 뜻입니다",
+   "tip": "관계대명사(that/which)가 생략돼 the outcome we 가 붙어 있어서, we 를 새 문장의 주어로 읽기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>we were working toward</b> 와 <b>was worth attempting</b> — 지금 이야기입니까, 지난 이야기입니까?",
+   "a": "지난 이야기입니다 — 둘 다 과거형입니다",
+   "tip": "were working 은 그때까지 계속해 오던 일을 가리킵니다."
+  }
+ ],
+ "5fc10179|1.2": [
+  {
+   "t": "mod",
+   "q": "<b>capabilities America will need for satellite servicing</b> — America will need 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 capabilities 입니다 — ‘미국이 앞으로 위성 정비에 필요로 할 능력’이라는 뜻입니다",
+   "tip": "관계대명사(that)가 생략돼 있어 America 를 새 문장의 주어로 읽기 쉽습니다. 이 문장의 동사는 moved 하나뿐입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to give Swift a chance to carry out more science</b> — 과학 관측을 더 하게 되는 쪽은 무엇입니까?",
+   "a": "Swift(위성)입니다 — 팀이 Swift에게 그 기회를 주려 한 것입니다",
+   "tip": "the team 이 과학 관측을 한다고 읽기 쉽습니다. 기회를 받는 쪽은 Swift 입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>while advancing capabilities</b> — 능력을 발전시키고 있는 쪽은 누구입니까?",
+   "a": "The team(그 팀)입니다 — 분사구문의 주체는 문장의 주어입니다",
+   "tip": "바로 앞의 Swift 나 뒤의 America 로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>The team moved</b> 와 <b>America will need</b> — 두 일의 시점은 같습니까?",
+   "a": "다릅니다 — 팀이 빠르게 움직인 것은 이미 있었던 일(과거)이고, 미국이 그 능력을 필요로 하는 것은 앞으로의 일(미래)입니다",
+   "tip": "한 문장 안에 과거와 미래가 섞여 있습니다."
+  }
+ ],
+ "5fc10179|1.3": [
+  {
+   "t": "time",
+   "q": "<b>and put those lessons to work</b> — put 은 이미 한 일입니까, 앞으로 할 일입니까?",
+   "a": "앞으로 할 일입니다 — 앞의 are going to 가 put 에도 이어집니다",
+   "tip": "put 은 과거형과 모양이 같아 ‘이미 써먹었다’로 읽기 쉽습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>those lessons</b> 는 무엇을 가리킵니까?",
+   "a": "LINK의 랑데부 시도에서 배우게 될 것들입니다",
+   "tip": "앞에 lesson 이라는 단어가 직접 나오지 않아 찾기 어렵습니다. learn everything we can 의 내용이 곧 those lessons 입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>on the missions that follow</b> 의 that follow 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 the missions 입니다 — ‘뒤이어 올(앞으로 있을) 임무들’이라는 뜻입니다",
+   "tip": "follow 를 문장의 동사로 읽으면 뼈대가 무너집니다. 여기서 that 은 관계대명사입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>We are going to learn everything we can</b> — 배우는 쪽은 누구입니까?",
+   "a": "말하고 있는 NASA 쪽(아이잭먼 청장과 NASA 팀)입니다",
+   "tip": "인용문 안의 we 이므로 말한 사람 쪽을 가리킵니다. Katalyst 나 LINK 가 아닙니다."
+  }
+ ],
+ "5fc10179|2.0": [
+  {
+   "t": "mod",
+   "q": "<b>and gather as much data as possible</b> — gather 는 어디에 이어지는 말입니까?",
+   "a": "앞의 to assess 와 나란히 to 에 이어집니다 — ‘판단하기 위해, 그리고 모으기 위해’라는 뜻입니다",
+   "tip": "and 뒤의 동사원형을 새 문장의 동사로 읽기 쉽습니다. 이 문장의 동사는 are working 하나뿐입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to inform future satellite servicing operations</b> — 판단의 바탕이 되어 주는 것은 무엇입니까?",
+   "a": "모은 자료(as much data as possible)입니다",
+   "tip": "inform 을 ‘알리다’로만 알고 있으면 사람이 주어라고 생각하기 쉽습니다. 여기서는 자료가 앞으로의 작업에 바탕이 된다는 뜻입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>are working closely</b> — 협력은 이미 끝났습니까, 지금 진행 중입니까?",
+   "a": "지금 진행 중입니다",
+   "tip": "앞 문단이 과거 인용이라 끝난 일로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>next steps for rendezvous</b> 는 무엇의 다음 단계입니까?",
+   "a": "랑데부(우주에서 만나는 일)의 다음 단계입니다 — 취소된 포획·고도 상승이 아닙니다",
+   "tip": "앞 문단에서 포획이 취소되었으므로, 다음 단계가 포획이라고 잘못 이을 수 있습니다."
+  }
+ ],
+ "5fc10179|2.1": [
+  {
+   "t": "mod",
+   "q": "<b>driven by the Sun’s activity</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 an unprecedented timeline(유례없는 일정)입니다 — 태양 활동 때문에 일정이 그렇게 정해졌다는 뜻입니다",
+   "tip": "attempt 나 mission 에 붙여 읽기 쉽습니다. 태양 활동에 떠밀린 것은 ‘일정’입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>– a first-of-its kind attempt</b> 는 무엇을 가리킵니까?",
+   "a": "바로 앞의 a high-risk, high-reward mission, 곧 이번 임무 자체입니다(같은 것을 다시 부르는 말)",
+   "tip": "대시 뒤를 새로운 이야기로 읽기 쉽습니다. 여기서는 앞말을 바꿔 부르는 동격입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>said Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters in Washington</b> — 여기 나오는 사람은 몇 명입니까?",
+   "a": "한 명입니다 — 도마갈골드먼이 말했고, 뒤의 director 이하는 모두 그의 직책과 소속입니다",
+   "tip": "쉼표로 이어진 director, Astrophysics Division, NASA Headquarters 를 여러 사람이나 여러 발언자로 읽기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>We knew this was</b> — 위험이 크다는 것은 일이 잘못된 뒤에 알게 된 것입니까?",
+   "a": "아닙니다 — 이 임무를 시작하기 전부터 알고 있었다는 뜻입니다",
+   "tip": "knew 는 과거형이고, 문제가 생기기 전 시점의 판단을 말합니다."
+  }
+ ],
+ "5fc10179|2.2": [
+  {
+   "t": "time",
+   "q": "<b>were all hoping</b> — 지금도 바라고 있습니까, 지난 이야기입니까?",
+   "a": "지난 이야기입니다 — 그때는 바라고 있었지만 이제는 어렵게 되었다는 뜻입니다",
+   "tip": "과거진행형은 ‘그때 그러고 있었다’는 뜻이라, 지금은 사정이 달라졌다는 뉘앙스를 담습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>for more science from Swift</b> — 과학 성과를 내 주는 쪽은 무엇입니까?",
+   "a": "Swift(위성)입니다 — Swift가 더 오래 관측해 주기를 바랐다는 뜻입니다",
+   "tip": "from 을 ‘~에게서 받다’로만 보면 헷갈립니다. 성과가 나오는 출처가 Swift 입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>We were all hoping</b> 의 We 는 누구입니까?",
+   "a": "말하고 있는 도마갈골드먼과 NASA 쪽 사람들입니다",
+   "tip": "인용문 안의 we 이므로 앞 문장에서 말한 사람 쪽을 가리킵니다."
+  }
+ ],
+ "5fc10179|2.3": [
+  {
+   "t": "mod",
+   "q": "<b>the takeaways from this mission would be worthwhile</b> — the takeaways 는 knew 의 목적어입니까, would be 의 주어입니까?",
+   "a": "둘 다입니다 — knew 뒤에 that 이 생략돼 있어, the takeaways 가 그 절의 주어이고 절 전체가 knew 의 목적어입니다",
+   "tip": "the takeaways 를 knew 의 목적어로만 보면 뒤의 would be 가 갈 곳이 없어집니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>we have gained so much</b> — 앞으로 얻을 것입니까, 이미 얻은 것입니까?",
+   "a": "이미 얻은 것입니다 — 현재완료(have gained)입니다",
+   "tip": "앞 절의 would be(~일 것이다)에 끌려 앞일로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>either way</b> 는 무슨 뜻입니까?",
+   "a": "잘되든 안 되든 어느 쪽으로 결론이 나든이라는 뜻입니다",
+   "tip": "way 를 ‘길’로 읽어 장소로 옮기면 뜻이 어긋납니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>up to this point</b> 는 어느 시점까지를 말합니까?",
+   "a": "지금, 곧 이 발언 시점까지입니다",
+   "tip": "임무가 끝난 시점으로 잡기 쉽지만, 임무는 아직 진행 중입니다."
+  }
+ ],
+ "5fc10179|2.4": [
+  {
+   "t": "neg",
+   "q": "<b>Without intervention</b> — 이 문장은 손을 쓴 경우의 이야기입니까, 쓰지 않은 경우의 이야기입니까?",
+   "a": "손을 쓰지 않은 경우의 이야기입니다 — ‘아무 조치가 없다면’이라는 조건입니다",
+   "tip": "without 을 그냥 ‘~ 없이’로 지나치면 조건이라는 것을 놓칩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>NASA anticipates Swift is likely to re-enter</b> — 대기권으로 다시 들어오는 것은 무엇입니까?",
+   "a": "Swift(위성)입니다 — NASA가 아닙니다",
+   "tip": "anticipates 바로 뒤에 Swift 가 붙어 있어 목적어처럼 보이지만, 실제로는 뒤에 이어지는 절의 주어입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>later this year</b> — 재진입은 이미 일어난 일입니까, 앞으로 예상되는 일입니까?",
+   "a": "앞으로 예상되는 일입니다 — 올해 안에 그렇게 될 가능성이 크다는 예상입니다",
+   "tip": "anticipates 는 현재형이지만 내용은 앞일에 대한 예상입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Swift is likely to re-enter Earth’s atmosphere</b> — 이것은 확정된 사실입니까?",
+   "a": "아닙니다 — is likely to, 곧 ‘그럴 가능성이 크다’는 예상입니다",
+   "tip": "likely 를 빼고 읽으면 이미 정해진 일처럼 됩니다."
+  }
+ ],
+ "5fc10179|2.5": [
+  {
+   "t": "who",
+   "q": "<b>using current missions to help fill the gap</b> — 지금 운영 중인 임무들을 활용하는 쪽은 누구입니까?",
+   "a": "NASA입니다 — 분사구문의 주체는 문장의 주어입니다",
+   "tip": "바로 앞의 cosmic events 나 new options 에 붙여 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>As part of the agency’s previous planning for Swift’s end of life</b> — 이 긴 구절이 이 문장의 주어입니까?",
+   "a": "아닙니다 — ‘~의 일환으로’라는 부사구이고, 주어는 쉼표 뒤의 NASA 입니다",
+   "tip": "문장 맨 앞에 긴 명사가 나오면 주어로 잡기 쉽습니다. 첫 쉼표까지가 통째로 부사구입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>the agency’s previous planning</b> 와 <b>will continue</b> — 이 계획은 이번 일 때문에 새로 세운 것입니까?",
+   "a": "아닙니다 — previous, 곧 전부터 세워 둔 계획입니다",
+   "tip": "이번 취소 뒤에 급히 만든 대책으로 읽기 쉽습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>the agency</b> 는 어디를 가리킵니까?",
+   "a": "NASA입니다",
+   "tip": "기사에서 the agency 는 NASA를 다시 가리키는 말로 자주 쓰입니다. Katalyst 로 잡지 않도록 주의하세요."
+  }
+ ],
+ "5fc10179|3.0": [
+  {
+   "t": "who",
+   "q": "<b>Building, testing, and operating this mission has already strengthened</b> — 미국의 우주 산업 기반을 튼튼하게 만든 것은 무엇입니까?",
+   "a": "이 임무를 만들고 시험하고 운용한 일 자체입니다 — 사람이나 기관이 아니라 그 과정이 주어입니다",
+   "tip": "-ing 세 개를 진행형 동사로 읽으면 주어가 사라집니다. 셋이 묶여 하나의 주어라서 단수인 has 로 받습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>has already strengthened</b> — 앞으로의 기대입니까, 이미 일어난 일입니까?",
+   "a": "이미 일어난 일입니다 — already 가 붙은 현재완료입니다",
+   "tip": "임무가 목표를 이루지 못했다는 앞 내용 때문에 ‘앞으로 그럴 것이다’로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>advancing in-space servicing capabilities in completely new ways</b> — advancing 은 이 문장의 동사입니까?",
+   "a": "아닙니다 — ‘~하면서’로 앞 내용에 덧붙는 분사구문이고, 동사는 has already strengthened 입니다",
+   "tip": "쉼표 뒤의 -ing 는 새 문장의 시작이 아니라 앞말에 덧붙는 설명인 경우가 많습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>Domagal-Goldman said</b> — 이 말을 한 사람은 누구입니까?",
+   "a": "도마갈골드먼(앞 문단에 나온 NASA 천체물리국장)입니다",
+   "tip": "따옴표가 끝난 뒤에야 말한 사람이 나옵니다. 인용문 안의 내용을 기사 본문의 서술로 읽지 않도록 주의하세요."
+  }
+ ],
+ "5fc10179|3.1": [
+  {
+   "t": "pron",
+   "q": "<b>as they take on difficult tasks with the agency</b> 의 they 는 누구입니까?",
+   "a": "our commercial vendors(상업 협력업체들)입니다",
+   "tip": "바로 앞의 NASA 로 잡기 쉽습니다. NASA는 이 절 안에서 the agency 로 다시 나옵니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>with the agency</b> 의 the agency 는 어디를 가리킵니까?",
+   "a": "NASA입니다",
+   "tip": "업체가 또 다른 제3의 기관과 일한다는 뜻이 아닙니다. the agency 는 NASA를 다시 부르는 말입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to push the boundaries of what’s possible</b> — 이것은 무엇의 목적입니까?",
+   "a": "NASA가 협력업체를 지원하는 일의 목적입니다",
+   "tip": "바로 앞의 difficult tasks 에만 붙여 읽기 쉽습니다. 쉼표 앞의 부사절이 아니라 주절(NASA is committed to supporting)에 걸립니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>is committed to supporting</b> — 이 지원은 이미 끝난 것입니까, 계속되는 것입니까?",
+   "a": "계속되는 것입니다 — 앞으로도 지원하겠다는 현재의 다짐입니다",
+   "tip": "committed 가 과거분사 모양이라 끝난 일로 읽기 쉽지만, be committed to 는 ‘~에 전념하고 있다’는 현재의 상태입니다."
+  }
+ ],
+ "5fc10179|3.2": [
+  {
+   "t": "mod",
+   "q": "<b>this mission will attempt to demonstrate next</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 the exciting capabilities 입니다 — 이번 임무가 다음으로 보여 주려 하는 능력이라는 뜻입니다",
+   "tip": "관계대명사(that)가 생략돼 capabilities 와 this mission 이 붙어 있어, 새 문장이 시작된 것으로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>in a record-setting year for NASA astrophysics launches</b> 는 무엇을 설명합니까?",
+   "a": "앞의 getting to the launch pad in record time — 발사대에 이른 그때가 어떤 해였는지를 덧붙인 말입니다",
+   "tip": "record time 과 record-setting year 는 다른 것입니다. 앞은 준비에 걸린 시간, 뒤는 그해 전체의 발사 실적입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>its innovative problem-solving up to this point</b> 의 its 는 무엇을 가리킵니까?",
+   "a": "this team(이 팀)입니다",
+   "tip": "바로 앞의 year 나 NASA 로 잡기 쉽습니다. 자랑스러워하는 대상은 팀입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>this mission will attempt to demonstrate next</b> — 이 능력은 이미 보여 준 것입니까, 아직 보여 주지 않은 것입니까?",
+   "a": "아직 보여 주지 않았습니다 — will attempt … next, 곧 이제부터 해 볼 일입니다",
+   "tip": "앞에 나열된 두 가지(발사대 도착, 문제 해결)는 이미 한 일이라 마지막도 끝난 일로 읽기 쉽습니다."
+  }
+ ],
+ "5fc10179|4.0": [
+  {
+   "t": "who",
+   "q": "<b>Swift was launched in 2004</b> — 발사한 쪽은 이 문장에 나옵니까?",
+   "a": "나오지 않습니다 — 수동태라 Swift가 발사되었다는 사실만 말합니다",
+   "tip": "주어 Swift 를 ‘발사한 쪽’으로 읽으면 주체와 대상이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the most powerful explosions in the universe</b> 는 무엇을 설명하는 말입니까?",
+   "a": "앞의 gamma-ray bursts 입니다 — 감마선 폭발이 곧 우주에서 가장 강력한 폭발이라는 뜻입니다",
+   "tip": "쉼표로 둘러싸여 있으면 앞말을 바꿔 부르는 동격인 경우가 많습니다. 별개의 연구 대상으로 세면 대상이 하나 늘어납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and other cosmic objects and events</b> 는 무엇과 나란히 놓인 말입니까?",
+   "a": "gamma-ray bursts 입니다 — 감마선 폭발과 그 밖의 천체·현상을 연구한다는 뜻입니다",
+   "tip": "바로 앞의 explosions 에 이어 붙이면 동격 안에 들어가 버립니다. 연구 대상 목록은 to study 뒤에서 이어집니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>was launched in 2004</b> — 이 문장은 최근 일입니까, 오래전 일입니까?",
+   "a": "오래전 일입니다 — 2004년의 일로, 기사 앞부분보다 훨씬 전입니다",
+   "tip": "기사가 시간 순서대로 쓰여 있지 않습니다. 이 문단부터 지난 이야기로 되돌아갑니다."
+  }
+ ],
+ "5fc10179|4.1": [
+  {
+   "t": "pron",
+   "q": "<b>It was designed</b> 의 It 은 무엇을 가리킵니까?",
+   "a": "앞 문장의 Swift(위성)입니다",
+   "tip": "It 이 문장 맨 앞에 있으면 가주어로 착각하기 쉽지만, 여기서는 앞에 나온 것을 다시 가리키는 대명사입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>was designed</b> — 설계한 쪽은 이 문장에 나옵니까?",
+   "a": "나오지 않습니다 — 수동태입니다",
+   "tip": "‘그것이 설계했다’로 읽으면 주체와 대상이 뒤집힙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>for a two-year prime mission</b> — Swift는 2년만 운영되었습니까?",
+   "a": "아닙니다 — 원래 계획이 2년이었을 뿐, 실제로는 21년 동안 관측했습니다(다음 문장)",
+   "tip": "설계 수명과 실제 운영 기간은 다릅니다. 이 문장만으로 ‘2년 만에 끝났다’고 읽지 않도록 주의하세요."
+  }
+ ],
+ "5fc10179|4.2": [
+  {
+   "t": "who",
+   "q": "<b>Swift’s low Earth orbit began to rapidly decay</b> — 빠르게 낮아지기 시작한 것은 무엇입니까?",
+   "a": "Swift의 지구 저궤도입니다 — 위성 자체가 아니라 그 궤도입니다",
+   "tip": "주어가 소유격으로 시작하면 앞말(Swift)을 주어로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>because of increased solar activity</b> — increased 는 무엇이 늘었다는 말입니까?",
+   "a": "태양 활동(solar activity)이 활발해졌다는 뜻입니다",
+   "tip": "increased 를 문장의 동사로 읽으면 뼈대가 무너집니다. 여기서는 solar activity 를 꾸미는 말입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>After 21 years of science operations</b> — 궤도가 낮아지기 시작한 것은 21년의 관측 앞입니까, 뒤입니까?",
+   "a": "뒤입니다 — 21년 동안 관측한 뒤의 일입니다",
+   "tip": "After 는 ‘~한 뒤에’입니다. 앞 문장의 2년짜리 계획과 헷갈리지 마세요."
+  },
+  {
+   "t": "time",
+   "q": "<b>began to rapidly decay</b> — 궤도가 이미 다 내려앉았다는 뜻입니까?",
+   "a": "아닙니다 — 낮아지기 시작했다는 뜻입니다",
+   "tip": "begin to 는 그 일이 시작되었다는 것이지 끝났다는 것이 아닙니다."
+  }
+ ],
+ "5fc10179|4.3": [
+  {
+   "t": "who",
+   "q": "<b>awarding a contract to Katalyst</b> — 계약을 준 쪽과 받은 쪽은 각각 어디입니까?",
+   "a": "준 쪽은 NASA, 받은 쪽은 Katalyst 입니다",
+   "tip": "to 가 붙은 쪽이 받는 쪽입니다. 방향을 뒤집으면 Katalyst가 NASA에 계약을 준 것이 됩니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>in September 2025</b> 와 <b>in less than a year</b> — in less than a year 는 무엇에 걸리는 기간입니까?",
+   "a": "로봇 정비 임무를 꾸리는 데 주어진 기간입니다 — 계약을 준 시점은 2025년 9월입니다",
+   "tip": "두 시간 표현이 한 문장에 있어 섞이기 쉽습니다. ‘1년 안’은 임무를 준비하는 기간입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to advance U.S. spacecraft servicing technology</b> — 이것은 무엇의 목적입니까?",
+   "a": "NASA used this opportunity — 그 기회를 활용한 목적입니다",
+   "tip": "바로 뒤의 awarding 에 붙이면 앞뒤 순서가 뒤바뀝니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>this opportunity</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장의 상황 — Swift의 궤도가 빠르게 낮아진 일입니다",
+   "tip": "좋은 일처럼 들리지만, 가리키는 것은 위성이 떨어지고 있다는 문제 상황입니다."
+  }
+ ],
+ "5fc10179|4.4": [
+  {
+   "t": "who",
+   "q": "<b>The LINK spacecraft launched July 3</b> — LINK가 무언가를 발사했다는 뜻입니까?",
+   "a": "아닙니다 — LINK 자신이 발사되었다는 뜻입니다",
+   "tip": "launched 뒤에 목적어가 없고 날짜가 바로 옵니다. 능동형이지만 뜻은 ‘발사되었다’입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>on a Northrop Grumman Pegasus XL rocket</b> 는 무슨 뜻입니까?",
+   "a": "노스럽 그러먼사의 페가수스 XL 로켓에 실려 올라갔다는 뜻입니다",
+   "tip": "on 을 ‘위에서’라는 장소로 읽으면 어색해집니다. 발사에 쓰인 로켓을 가리킵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>from Kwajalein Atoll in the South Pacific Ocean</b> — 여기는 어디를 가리킵니까?",
+   "a": "발사가 이루어진 곳(남태평양의 콰절레인 환초)입니다",
+   "tip": "LINK가 향한 목적지로 읽지 않도록 주의하세요. from 은 출발점입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>July 3</b> — 이 발사는 기사가 전하는 자세 제어 문제보다 앞입니까, 뒤입니까?",
+   "a": "앞입니다 — 7월 3일에 발사되었고, 문제는 그 뒤 몇 주 사이에 생겼습니다",
+   "tip": "이 문단은 지난 일을 순서대로 정리하는 대목입니다."
+  }
+ ],
+ "5fc10179|4.5": [
+  {
+   "t": "time",
+   "q": "<b>before the spacecraft experienced attitude control issues</b> — 교신과 점검은 문제가 생기기 전입니까, 뒤입니까?",
+   "a": "전입니다 — 먼저 교신·점검을 했고, 그 뒤에 자세 제어 문제가 생겼습니다",
+   "tip": "before 절이 문장 뒤에 오면 순서를 뒤집어 읽기 쉽습니다. 주절 쪽이 먼저 일어난 일입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>the spacecraft</b> 는 어느 우주선입니까?",
+   "a": "LINK입니다",
+   "tip": "Swift 로 잡기 쉽습니다. 자세 제어 문제가 생긴 것은 LINK 쪽입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>Teams established communications with LINK and conducted in-orbit checkouts</b> — 점검을 한 쪽은 누구입니까?",
+   "a": "Teams(지상의 관제팀들)입니다 — LINK가 아닙니다",
+   "tip": "and 뒤의 conducted 도 같은 주어 Teams 를 받습니다. LINK를 두 번째 동사의 주어로 읽지 않도록 주의하세요."
+  },
+  {
+   "t": "mod",
+   "q": "<b>over the following weeks</b> — 어느 시점부터의 몇 주입니까?",
+   "a": "LINK가 발사된 뒤(7월 3일 이후)의 몇 주입니다",
+   "tip": "following 은 ‘따라오는’, 곧 앞에서 말한 일 뒤에 이어지는 기간을 뜻합니다."
+  }
+ ]
+}

@@ -1,0 +1,641 @@
+[
+ {
+  "id": "d34a2d9a|0.0",
+  "en": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky.",
+  "s": "Many of NASA’s most important aerospace breakthroughs",
+  "v": "were ultimately proven",
+  "chunks": [
+   {"en": "Many of NASA’s most important aerospace breakthroughs", "ko": "NASA의 가장 중요한 항공우주 성과들 가운데 상당수는", "r": "주어(긴 명사구)"},
+   {"en": "that began in the laboratory", "ko": "실험실에서 시작된", "r": "관계절(앞 명사 설명)"},
+   {"en": "were ultimately proven in the sky.", "ko": "결국 하늘에서 입증되었다", "r": "동사(수동태) + 장소"}
+  ],
+  "ko": "NASA의 가장 중요한 항공우주 성과들 가운데 상당수는 실험실에서 시작되었지만, 결국 하늘에서(실제로 날려 보면서) 그 값어치가 입증되었다.",
+  "why": "주어(Many of ~ breakthroughs)와 동사(were ultimately proven) 사이에 관계절 that began in the laboratory 가 끼어들어 있어 began 을 문장의 동사로 잘못 잡기 쉽다. 진짜 동사는 were ultimately proven 이고 수동태(당하는 형태)라 '입증했다'가 아니라 '입증되었다'이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|0.1",
+  "en": "For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes.",
+  "s": "experts at NASA’s Glenn Research Center in Cleveland",
+  "v": "conducted",
+  "chunks": [
+   {"en": "For decades,", "ko": "수십 년 동안", "r": "시간"},
+   {"en": "experts at NASA’s Glenn Research Center in Cleveland", "ko": "클리블랜드에 있는 NASA 글렌 연구센터의 전문가들은", "r": "주어 + 소속"},
+   {"en": "conducted flight tests", "ko": "비행 시험을 수행했다", "r": "동사 + 목적어"},
+   {"en": "— piloting aircraft into targeted environments", "ko": "곧 항공기를 목표로 정한 환경 속으로 몰고 들어가면서", "r": "분사구문(앞 내용을 구체적으로 풀이)"},
+   {"en": "such as icing clouds and carefully defined atmospheric routes.", "ko": "착빙 구름이나 정밀하게 정해 둔 대기 항로 같은 곳으로", "r": "예시(앞 환경의 구체적 예)"}
+  ],
+  "ko": "수십 년 동안 클리블랜드에 있는 NASA 글렌 연구센터(Glenn Research Center)의 전문가들은 비행 시험을 수행했다. 착빙 구름(기체에 얼음이 어는 구름)이나 정밀하게 정해 둔 대기 항로처럼 목표로 삼은 환경 속으로 항공기를 직접 몰고 들어가는 방식이었다.",
+  "why": "주어 experts 뒤에 at ~ in Cleveland 가 길게 붙어 동사 conducted 가 멀어진다. 대시(—) 뒤의 piloting 은 또 하나의 동사가 아니라 앞의 '비행 시험을 수행했다'를 구체적으로 풀어 주는 분사구문(~하면서)이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|0.2",
+  "en": "This approach allowed them to collect measurements directly in flight, providing critical data that linked laboratory theories to practical performance.",
+  "s": "This approach",
+  "v": "allowed",
+  "chunks": [
+   {"en": "This approach allowed them", "ko": "이 방식은 그들이 ~할 수 있게 해 주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to collect measurements directly in flight,", "ko": "비행 중에 곧바로 측정값을 모으는 일을", "r": "목적격보어(무엇을 하게 했는가)"},
+   {"en": "providing critical data", "ko": "그리하여 결정적인 자료를 내놓으면서", "r": "분사구문(그 결과)"},
+   {"en": "that linked laboratory theories to practical performance.", "ko": "실험실의 이론과 실제 성능을 이어 준", "r": "관계절(앞 data 설명)"}
+  ],
+  "ko": "이 방식 덕분에 그들은 비행 중에 곧바로 측정값을 모을 수 있었고, 그렇게 해서 실험실의 이론과 실제 성능을 이어 주는 결정적인 자료를 얻었다.",
+  "why": "allow A to B 는 'A가 B할 수 있게 해 주다'라는 뜻이라, 주어 This approach 는 사람이 아니라 '방법' 자체다. 뒤의 providing 은 새 동사가 아니라 앞 내용의 결과를 잇는 분사구문이고, that 이하는 바로 앞의 critical data 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|1.0",
+  "en": "The center’s flight research dates to the 1940s , when NASA Glenn was known as the Aircraft Engine Research Laboratory for the National Advisory Committee for Aeronautics, NASA’s predecessor agency.",
+  "s": "The center’s flight research",
+  "v": "dates",
+  "chunks": [
+   {"en": "The center’s flight research dates to the 1940s", "ko": "그 센터의 비행 연구는 1940년대까지 거슬러 올라간다", "r": "주어 + 동사 + 시간"},
+   {"en": ", when NASA Glenn was known as", "ko": "그 시절 NASA 글렌은 ~라는 이름으로 불렸다", "r": "관계절(그 시기 설명)"},
+   {"en": "the Aircraft Engine Research Laboratory", "ko": "'항공기 엔진 연구소'라고", "r": "보어(당시 이름)"},
+   {"en": "for the National Advisory Committee for Aeronautics,", "ko": "미국 항공자문위원회 산하의", "r": "전치사구(소속 기관)"},
+   {"en": "NASA’s predecessor agency.", "ko": "곧 NASA의 전신 기관인", "r": "동격(앞 기관을 다시 설명)"}
+  ],
+  "ko": "그 센터의 비행 연구는 1940년대까지 거슬러 올라간다. 그때 NASA 글렌은 NASA의 전신 기관인 미국 항공자문위원회(National Advisory Committee for Aeronautics, NACA) 산하의 '항공기 엔진 연구소(Aircraft Engine Research Laboratory)'라는 이름으로 불렸다.",
+  "why": "dates to 는 '날짜를 정하다'가 아니라 '(시기가) ~까지 거슬러 올라간다'는 뜻이다. 맨 끝 NASA’s predecessor agency 는 새로운 기관이 아니라 바로 앞의 National Advisory Committee for Aeronautics 를 다시 부르는 말(동격)이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|1.1",
+  "en": "During World War II, engineers and pilots worked to improve aircraft performance and increase high-altitude reliability.",
+  "s": "engineers and pilots",
+  "v": "worked",
+  "chunks": [
+   {"en": "During World War II,", "ko": "제2차 세계대전 동안", "r": "시간"},
+   {"en": "engineers and pilots worked", "ko": "기술자들과 조종사들은 힘썼다", "r": "주어 + 동사"},
+   {"en": "to improve aircraft performance", "ko": "항공기 성능을 높이고", "r": "목적(~하기 위해)"},
+   {"en": "and increase high-altitude reliability.", "ko": "높은 고도에서의 신뢰성을 끌어올리기 위해", "r": "목적 나열(to 가 생략됨)"}
+  ],
+  "ko": "제2차 세계대전 동안 기술자들과 조종사들은 항공기 성능을 높이고 높은 고도에서의 신뢰성(고장 없이 제대로 작동하는 정도)을 끌어올리는 일에 힘썼다.",
+  "why": "worked to ~ 는 '~하려고 애썼다'는 뜻이다. 뒤의 and increase 는 앞의 to improve 와 나란한 것으로, to 가 한 번 더 나오지 않았을 뿐 목적이 두 개다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|1.2",
+  "en": "In the mid-to-late-1940s, flight research helped make early jet and ramjet engines practical.",
+  "s": "flight research",
+  "v": "helped make",
+  "chunks": [
+   {"en": "In the mid-to-late-1940s,", "ko": "1940년대 중후반에", "r": "시간"},
+   {"en": "flight research helped make", "ko": "비행 연구는 ~을 만드는 데 도움이 되었다", "r": "주어 + 동사(~하는 데 도움이 되다)"},
+   {"en": "early jet and ramjet engines practical.", "ko": "초기 제트 엔진과 램제트 엔진을 실제로 쓸 만한 것으로", "r": "목적어 + 보어(어떤 상태로)"}
+  ],
+  "ko": "1940년대 중후반에 비행 연구는 초기의 제트 엔진과 램제트(ramjet) 엔진을 실제로 쓸 수 있는 것으로 만드는 데 도움이 되었다.",
+  "why": "help + 동사원형(make)은 '~하는 데 도움이 되다'이고, make A B 는 'A를 B한 상태로 만들다'이다. 맨 끝 practical 은 engines 를 꾸미는 말이 아니라 'A를 실용적으로 만들다'의 B 자리다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|1.3",
+  "en": "Later, Glenn’s flight programs helped improve the efficiency and environmental performance of aircraft engines — primarily conventional jet engines.",
+  "s": "Glenn’s flight programs",
+  "v": "helped improve",
+  "chunks": [
+   {"en": "Later, Glenn’s flight programs helped improve", "ko": "그 뒤 글렌의 비행 프로그램들은 ~을 개선하는 데 도움이 되었다", "r": "시간 + 주어 + 동사"},
+   {"en": "the efficiency and environmental performance of aircraft engines", "ko": "항공기 엔진의 효율과 환경 성능을", "r": "목적어(긴 명사구)"},
+   {"en": "— primarily conventional jet engines.", "ko": "그 엔진이란 주로 기존 방식의 제트 엔진을 말한다", "r": "동격(앞 엔진을 좁혀 말함)"}
+  ],
+  "ko": "그 뒤 글렌의 비행 프로그램들은 항공기 엔진, 그중에서도 주로 기존 방식(재래식)의 제트 엔진의 효율과 환경 성능을 높이는 데 도움이 되었다.",
+  "why": "대시(—) 뒤의 primarily conventional jet engines 는 새로운 내용이 아니라 바로 앞의 aircraft engines 가 구체적으로 무엇인지 좁혀 주는 말이다. helped improve 는 '개선했다'가 아니라 '개선하는 데 도움이 되었다'이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|2.0",
+  "en": "Behind those early flight programs was a pioneering group of pilots who helped establish NASA Glenn’s reputation for airborne research.",
+  "s": "a pioneering group of pilots",
+  "v": "was",
+  "chunks": [
+   {"en": "Behind those early flight programs", "ko": "그 초기 비행 프로그램들 뒤에는", "r": "전치사구(앞으로 나온 배경)"},
+   {"en": "was a pioneering group of pilots", "ko": "선구적인 조종사 집단이 있었다", "r": "동사 + 주어(도치)"},
+   {"en": "who helped establish NASA Glenn’s reputation", "ko": "NASA 글렌의 명성을 세우는 데 힘을 보탠", "r": "관계절(앞 조종사들 설명)"},
+   {"en": "for airborne research.", "ko": "공중 연구로 얻은", "r": "전치사구(무엇으로 얻은 명성인가)"}
+  ],
+  "ko": "그 초기 비행 프로그램들 뒤에는 선구적인 조종사 집단이 있었다. 이들은 NASA 글렌이 공중 연구(비행기를 타고 하는 연구)로 이름을 얻는 데 힘을 보탠 사람들이다.",
+  "why": "전치사구(Behind ~)가 맨 앞으로 나오면서 동사 was 와 주어 a pioneering group of pilots 의 자리가 뒤바뀐 도치 문장이다. 맨 앞 덩어리를 주어로 읽으면 안 된다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|2.1",
+  "en": "The center’s first generation of pilots , including Howard Lilly , Joseph Walker, William Swann, and William “Ed” Gough, helped lay the groundwork for more than two dozen other Glenn pilots, including future astronauts Neil A.",
+  "s": "The center’s first generation of pilots",
+  "v": "helped lay",
+  "chunks": [
+   {"en": "The center’s first generation of pilots", "ko": "그 센터의 1세대 조종사들은", "r": "주어"},
+   {"en": ", including Howard Lilly", "ko": "곧 하워드 릴리", "r": "삽입(예시 시작)"},
+   {"en": ", Joseph Walker, William Swann, and William “Ed” Gough,", "ko": "조지프 워커, 윌리엄 스원, 윌리엄 '에드' 고프 같은 사람들인데", "r": "예시 나열"},
+   {"en": "helped lay the groundwork", "ko": "기틀을 놓는 데 힘을 보탰다", "r": "동사 + 목적어"},
+   {"en": "for more than two dozen other Glenn pilots,", "ko": "스물네 명이 넘는 다른 글렌 조종사들을 위한", "r": "전치사구(누구를 위한 기틀인가)"},
+   {"en": "including future astronauts Neil A.", "ko": "훗날 우주비행사가 되는 닐 A.(다음 문장으로 이어짐)", "r": "예시(뒷문장으로 이어짐)"}
+  ],
+  "ko": "그 센터의 1세대 조종사들, 곧 하워드 릴리(Howard Lilly), 조지프 워커(Joseph Walker), 윌리엄 스원(William Swann), 윌리엄 '에드' 고프(William “Ed” Gough) 같은 사람들은 스물네 명이 넘는 다른 글렌 조종사들을 위한 기틀을 놓는 데 힘을 보탰다. 그 뒤를 이은 조종사 중에는 훗날 우주비행사가 되는 닐 A.(다음 문장으로 이어진다)",
+  "why": "주어(The center’s first generation of pilots)와 동사(helped lay) 사이에 including ~ Gough, 라는 예시가 길게 끼어 있다. 쉼표 안쪽을 괄호로 묶어 두고 '1세대 조종사들이 기틀을 놓았다'로 뼈대를 먼저 잡을 것. 맨 끝 Neil A. 는 이름 중간에서 잘려 다음 문장으로 이어진다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|2.2",
+  "en": "Armstrong and Fred Haise .",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Armstrong and Fred Haise .", "ko": "(닐 A.) 암스트롱과 프레드 헤이즈", "r": "앞 문장에서 이어진 이름 조각"}
+  ],
+  "ko": "(앞 문장에서 이어짐) 닐 A. 암스트롱(Neil A. Armstrong)과 프레드 헤이즈(Fred Haise)이다.",
+  "why": "앞 문장 끝의 Neil A. 뒤에 찍힌 마침표 때문에 문장이 잘렸다. 원래는 'including future astronauts Neil A. Armstrong and Fred Haise'가 한 덩어리이며, 이 조각에는 동사가 없다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|3.0",
+  "en": "Together with Glenn’s researchers, engineers, and support staff, these pilots established airborne research capabilities that NASA continues to rely on today.",
+  "s": "these pilots",
+  "v": "established",
+  "chunks": [
+   {"en": "Together with Glenn’s researchers, engineers, and support staff,", "ko": "글렌의 연구자·기술자·지원 인력과 함께", "r": "전치사구(함께한 사람들)"},
+   {"en": "these pilots established airborne research capabilities", "ko": "이 조종사들은 공중 연구 역량을 세웠다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that NASA continues to rely on today.", "ko": "NASA가 오늘날에도 계속 기대고 있는", "r": "관계절(앞 역량 설명)"}
+  ],
+  "ko": "글렌의 연구자, 기술자, 지원 인력과 함께 이 조종사들은 공중 연구 역량을 세웠고, NASA는 오늘날에도 그 역량에 계속 기대고 있다.",
+  "why": "맨 앞의 Together with ~ 는 주어가 아니라 '~와 함께'라는 곁들임이고, 진짜 주어는 쉼표 뒤의 these pilots 다. 맨 끝 관계절은 rely on 의 on 뒤에 올 말이 앞으로 빠져나가 문장이 on 으로 끝난다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|3.1",
+  "en": "Their work demonstrated how flight testing could bridge the gap between laboratory research and real-world performance.",
+  "s": "Their work",
+  "v": "demonstrated",
+  "chunks": [
+   {"en": "Their work demonstrated", "ko": "그들의 작업은 보여 주었다", "r": "주어 + 동사"},
+   {"en": "how flight testing could bridge the gap", "ko": "비행 시험이 어떻게 그 간극을 메울 수 있는지를", "r": "목적어(의문사절)"},
+   {"en": "between laboratory research and real-world performance.", "ko": "실험실 연구와 실제 현장의 성능 사이의", "r": "전치사구(무엇 사이의 간극인가)"}
+  ],
+  "ko": "그들의 작업은 비행 시험이 실험실 연구와 실제 현장에서의 성능 사이에 벌어진 간극을 어떻게 메울 수 있는지를 보여 주었다.",
+  "why": "how 이하 전체가 demonstrated 의 목적어(한 덩어리)다. bridge 는 명사 '다리'가 아니라 '(간극을) 잇다·메우다'라는 동사이고, between A and B 는 the gap 이 무엇과 무엇 사이의 것인지를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|4.0",
+  "en": "“These missions transformed aircraft into flying laboratories,” said Mark Russell, a NASA safety officer and pilot who served as the former acting chief of Aircraft Operations at Glenn.",
+  "s": "Mark Russell",
+  "v": "said",
+  "chunks": [
+   {"en": "“These missions transformed aircraft", "ko": "\"이 임무들은 항공기를 ~로 바꾸어 놓았다", "r": "인용문의 주어 + 동사 + 목적어"},
+   {"en": "into flying laboratories,”", "ko": "날아다니는 실험실로\"", "r": "전치사구(무엇으로 바뀌었나)"},
+   {"en": "said Mark Russell,", "ko": "라고 마크 러셀은 말했다", "r": "전달 동사 + 말한 사람(도치)"},
+   {"en": "a NASA safety officer and pilot", "ko": "NASA의 안전 담당관이자 조종사이며", "r": "동격(러셀이 누구인가)"},
+   {"en": "who served as the former acting chief of Aircraft Operations at Glenn.", "ko": "글렌의 항공기 운영 부문 전 직무대행 책임자를 지낸 사람이다", "r": "관계절(앞 사람 설명)"}
+  ],
+  "ko": "\"이 임무들은 항공기를 날아다니는 실험실로 바꾸어 놓았습니다.\" NASA의 안전 담당관이자 조종사이며 글렌의 항공기 운영(Aircraft Operations) 부문 전 직무대행 책임자를 지낸 마크 러셀(Mark Russell)의 말이다.",
+  "why": "said 뒤에 말한 사람이 오는 도치 형태(said Mark Russell)다. 그 뒤 쉼표로 이어진 a NASA safety officer and pilot 은 또 다른 사람이 아니라 러셀이 누구인지 다시 설명하는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|4.1",
+  "en": "“They bridged the gap between ground testing and full-scale flight, proving the measurements needed to connect theory with performance.",
+  "s": "They",
+  "v": "bridged",
+  "chunks": [
+   {"en": "“They bridged the gap", "ko": "\"그 임무들은 간극을 메웠다", "r": "주어 + 동사 + 목적어"},
+   {"en": "between ground testing and full-scale flight,", "ko": "지상 시험과 실제 규모의 비행 사이의", "r": "전치사구(무엇 사이의 간극인가)"},
+   {"en": "proving the measurements", "ko": "측정값을 확보해 내면서", "r": "분사구문(~하면서)"},
+   {"en": "needed to connect theory with performance.", "ko": "이론과 성능을 잇는 데 필요한", "r": "과거분사구(앞 measurements 설명)"}
+  ],
+  "ko": "\"그 임무들은 지상 시험과 실제 규모의 비행 사이에 있던 간극을 메웠고, 이론과 성능을 이어 주는 데 필요한 측정값을 확보해 냈습니다.",
+  "why": "맨 끝 needed 는 두 번째 동사가 아니라 바로 앞 the measurements 를 꾸미는 과거분사(필요한)다. 이 문장의 동사는 bridged 하나뿐이고, proving 은 분사구문(~하면서)이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|4.2",
+  "en": "The testing also helped validate technologies and procedures later used aboard spacecraft and orbital missions.”",
+  "s": "The testing",
+  "v": "helped validate",
+  "chunks": [
+   {"en": "The testing also helped validate", "ko": "그 시험은 또 ~을 검증하는 데 도움이 되었다", "r": "주어 + 동사"},
+   {"en": "technologies and procedures", "ko": "기술과 절차를", "r": "목적어"},
+   {"en": "later used aboard spacecraft and orbital missions.”", "ko": "훗날 우주선과 궤도 임무에서 쓰이게 된", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "\"그 시험은 훗날 우주선과 궤도 임무에서 쓰이게 되는 기술과 절차를 검증하는 데도 도움이 되었습니다.\"",
+  "why": "맨 끝 later used ~ 는 또 하나의 동사가 아니라 앞의 technologies and procedures 를 꾸미는 과거분사구(나중에 쓰인)다. help + 동사원형(validate)은 '~하는 데 도움이 되다'.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|5.0",
+  "en": "From the start, NASA put its aircraft to work on a wide range of research challenges.",
+  "s": "NASA",
+  "v": "put",
+  "chunks": [
+   {"en": "From the start,", "ko": "처음부터", "r": "시간"},
+   {"en": "NASA put its aircraft to work", "ko": "NASA는 자기네 항공기를 일에 투입했다", "r": "주어 + 동사(일에 투입하다)"},
+   {"en": "on a wide range of research challenges.", "ko": "폭넓은 연구 과제에", "r": "전치사구(어떤 일인가)"}
+  ],
+  "ko": "처음부터 NASA는 자기네 항공기를 폭넓은 연구 과제에 투입해 일하게 했다.",
+  "why": "put A to work 는 'A를 일에 투입하다·부려 쓰다'라는 굳어진 표현이라, put 을 '놓다'로만 읽으면 뜻이 나오지 않는다. work on ~ 이 '~에 매달려 일하다'로 이어진다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|6.0",
+  "en": "For decades, NASA Glenn aircraft have been used to study in-flight icing hazards, collecting data that has helped make commercial aviation safer.",
+  "s": "NASA Glenn aircraft",
+  "v": "have been used",
+  "chunks": [
+   {"en": "For decades,", "ko": "수십 년 동안", "r": "시간"},
+   {"en": "NASA Glenn aircraft have been used", "ko": "NASA 글렌의 항공기들은 쓰여 왔다", "r": "주어 + 동사(수동태·현재완료)"},
+   {"en": "to study in-flight icing hazards,", "ko": "비행 중 착빙 위험을 연구하는 데", "r": "목적(무엇을 위해)"},
+   {"en": "collecting data", "ko": "그러면서 자료를 모으며", "r": "분사구문(~하면서)"},
+   {"en": "that has helped make commercial aviation safer.", "ko": "민간 항공을 더 안전하게 만드는 데 도움이 된", "r": "관계절(앞 data 설명)"}
+  ],
+  "ko": "수십 년 동안 NASA 글렌의 항공기들은 비행 중 착빙(기체에 얼음이 어는 것) 위험을 연구하는 데 쓰여 왔고, 그러면서 민간 항공을 더 안전하게 만드는 데 도움이 된 자료를 모아 왔다.",
+  "why": "have been used 는 수동태 + 현재완료라 '써 왔다'가 아니라 '쓰여 왔다'이고, 쓴 주체는 문장에 나오지 않는다. 맨 끝 that 절은 바로 앞의 data 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|6.1",
+  "en": "For nearly 40 years, NASA Glenn’s De Havilland DHC-6 Twin Otter served as the center’s workhorse for icing research, gathering data that helped shape modern aviation safety standards.",
+  "s": "NASA Glenn’s De Havilland DHC-6 Twin Otter",
+  "v": "served",
+  "chunks": [
+   {"en": "For nearly 40 years,", "ko": "거의 40년 동안", "r": "시간"},
+   {"en": "NASA Glenn’s De Havilland DHC-6 Twin Otter", "ko": "NASA 글렌의 드 하빌랜드 DHC-6 트윈 오터는", "r": "주어(항공기 이름)"},
+   {"en": "served as the center’s workhorse for icing research,", "ko": "그 센터의 착빙 연구 주력기 노릇을 했다", "r": "동사 + 보어"},
+   {"en": "gathering data", "ko": "자료를 모으면서", "r": "분사구문(~하면서)"},
+   {"en": "that helped shape modern aviation safety standards.", "ko": "오늘날의 항공 안전 기준을 세우는 데 도움이 된", "r": "관계절(앞 data 설명)"}
+  ],
+  "ko": "거의 40년 동안 NASA 글렌의 드 하빌랜드 DHC-6 트윈 오터(De Havilland DHC-6 Twin Otter)는 그 센터의 착빙 연구 주력 항공기 노릇을 했고, 그러면서 오늘날의 항공 안전 기준을 세우는 데 도움이 된 자료를 모았다.",
+  "why": "주어가 항공기 이름이라 길다. workhorse 는 '짐말'에서 온 말로 '궂은일을 도맡는 주력'이라는 뜻이고, serve as ~ 는 '~ 노릇을 하다'이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|7.0",
+  "en": "Beyond improving aviation safety, Glenn’s flight research also explored new propulsion technologies that could transform the future of flight.",
+  "s": "Glenn’s flight research",
+  "v": "explored",
+  "chunks": [
+   {"en": "Beyond improving aviation safety,", "ko": "항공 안전을 높이는 일에서 더 나아가", "r": "전치사구(~에 그치지 않고)"},
+   {"en": "Glenn’s flight research also explored", "ko": "글렌의 비행 연구는 ~도 파고들었다", "r": "주어 + 동사"},
+   {"en": "new propulsion technologies", "ko": "새로운 추진 기술을", "r": "목적어"},
+   {"en": "that could transform the future of flight.", "ko": "비행의 미래를 바꿔 놓을 수도 있는", "r": "관계절(앞 기술 설명)"}
+  ],
+  "ko": "항공 안전을 높이는 일에서 더 나아가, 글렌의 비행 연구는 비행의 미래를 바꿔 놓을 수도 있는 새로운 추진 기술도 파고들었다.",
+  "why": "Beyond + -ing 는 장소가 아니라 '~하는 데 그치지 않고'라는 뜻이다. 맨 끝 that 절은 앞의 new propulsion technologies 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|7.1",
+  "en": "Today, researchers are exploring hydrogen as an aviation fuel.",
+  "s": "researchers",
+  "v": "are exploring",
+  "chunks": [
+   {"en": "Today, researchers are exploring hydrogen", "ko": "오늘날 연구자들은 수소를 파고들고 있다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "as an aviation fuel.", "ko": "항공 연료로서", "r": "전치사구(무엇으로서)"}
+  ],
+  "ko": "오늘날 연구자들은 수소를 항공 연료로 쓸 수 있을지 파고들고 있다.",
+  "why": "as 는 여기서 '~로서'라는 자격의 뜻이라, hydrogen as an aviation fuel 은 '항공 연료로서의 수소'다. 현재진행형(are exploring)이라 지금 하고 있는 일이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|7.2",
+  "en": "But NASA Glenn helped show its potential viability decades ago using its Martin B-57B Canberra aircraft.",
+  "s": "NASA Glenn",
+  "v": "helped show",
+  "chunks": [
+   {"en": "But NASA Glenn helped show", "ko": "그러나 NASA 글렌은 ~을 보여 주는 데 힘을 보탰다", "r": "대등절 시작 + 주어 + 동사"},
+   {"en": "its potential viability decades ago", "ko": "이미 수십 년 전에, 그것이 쓸 만할 수 있다는 가능성을", "r": "목적어 + 시간"},
+   {"en": "using its Martin B-57B Canberra aircraft.", "ko": "자기네 마틴 B-57B 캔버라 항공기를 써서", "r": "분사구문(수단)"}
+  ],
+  "ko": "그러나 NASA 글렌은 이미 수십 년 전에 자기네 마틴 B-57B 캔버라(Martin B-57B Canberra) 항공기를 써서, 수소가 항공 연료로 쓸 만하다는 가능성을 보여 주는 데 힘을 보탰다.",
+  "why": "its 가 두 번 나오는데 가리키는 것이 다르다. its potential viability 의 its 는 앞 문장의 hydrogen(수소)이고, its Martin B-57B ~ 의 its 는 NASA Glenn 이다. decades ago 때문에 앞 문장의 '오늘날'과 시점이 정반대다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|7.3",
+  "en": "After developing a hydrogen fuel system for the B-57B, a team tested it safely from February to April 1957.",
+  "s": "a team",
+  "v": "tested",
+  "chunks": [
+   {"en": "After developing a hydrogen fuel system", "ko": "수소 연료 계통을 개발한 뒤", "r": "시간(먼저 한 일)"},
+   {"en": "for the B-57B,", "ko": "B-57B에 달 목적으로", "r": "전치사구(무엇을 위한 것인가)"},
+   {"en": "a team tested it safely", "ko": "한 팀이 그것을 안전하게 시험했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from February to April 1957.", "ko": "1957년 2월부터 4월까지", "r": "시간"}
+  ],
+  "ko": "B-57B에 쓸 수소 연료 계통을 개발한 뒤, 한 팀이 1957년 2월부터 4월까지 그것을 안전하게 시험했다.",
+  "why": "After + -ing 의 주체는 뒤에 나오는 주어(a team)와 같다 — 개발한 쪽과 시험한 쪽이 같은 팀이다. it 은 앞의 a hydrogen fuel system 을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|7.4",
+  "en": "The flights showed the system’s reliable operation and advanced efficiency, marking a major milestone in aviation technology.",
+  "s": "The flights",
+  "v": "showed",
+  "chunks": [
+   {"en": "The flights showed", "ko": "그 비행들은 보여 주었다", "r": "주어 + 동사"},
+   {"en": "the system’s reliable operation and advanced efficiency,", "ko": "그 계통이 안정적으로 작동한다는 것과 뛰어난 효율을", "r": "목적어(긴 명사구 둘)"},
+   {"en": "marking a major milestone in aviation technology.", "ko": "그리하여 항공 기술의 큰 이정표가 되면서", "r": "분사구문(그 결과)"}
+  ],
+  "ko": "그 비행들은 그 연료 계통이 안정적으로 작동한다는 것과 뛰어난 효율을 보여 주었고, 그리하여 항공 기술에서 큰 이정표가 되었다.",
+  "why": "the system’s 가 reliable operation 과 advanced efficiency 둘 다에 걸린다. 맨 끝 marking 은 새 동사가 아니라 '그 결과 ~이 되었다'를 잇는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|8.0",
+  "en": "Flight testing also supported technologies destined for use beyond Earth, helping researchers evaluate hardware under conditions that closely resembled space.",
+  "s": "Flight testing",
+  "v": "supported",
+  "chunks": [
+   {"en": "Flight testing also supported technologies", "ko": "비행 시험은 기술들도 뒷받침했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "destined for use beyond Earth,", "ko": "지구 밖에서 쓰이도록 정해진", "r": "과거분사구(앞 technologies 설명)"},
+   {"en": "helping researchers evaluate hardware", "ko": "연구자들이 장비를 평가할 수 있게 도우면서", "r": "분사구문(~함으로써)"},
+   {"en": "under conditions that closely resembled space.", "ko": "우주와 아주 비슷한 조건에서", "r": "전치사구 + 관계절"}
+  ],
+  "ko": "비행 시험은 지구 밖에서 쓰일 기술들도 뒷받침했다. 우주와 아주 비슷한 조건에서 연구자들이 장비를 평가할 수 있게 도운 것이다.",
+  "why": "destined for ~ 는 앞의 technologies 를 꾸미는 과거분사구(쓰이도록 정해진)라 동사가 아니다. help + 사람 + 동사원형(evaluate)은 '~가 …하도록 돕다'이고, 맨 끝 that 절은 conditions 를 꾸민다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|8.1",
+  "en": "Beginning in 1963, the center began a program to test and measure how well solar cells worked under conditions similar to those in space.",
+  "s": "the center",
+  "v": "began",
+  "chunks": [
+   {"en": "Beginning in 1963,", "ko": "1963년에 시작해", "r": "시간(분사구문)"},
+   {"en": "the center began a program", "ko": "그 센터는 하나의 프로그램을 시작했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to test and measure", "ko": "시험하고 측정하기 위한", "r": "목적(무엇을 위한 프로그램인가)"},
+   {"en": "how well solar cells worked", "ko": "태양전지가 얼마나 잘 작동하는지를", "r": "목적어(의문사절)"},
+   {"en": "under conditions similar to those in space.", "ko": "우주에서의 조건과 비슷한 조건에서", "r": "전치사구(어떤 조건에서)"}
+  ],
+  "ko": "1963년부터 그 센터는 우주에서와 비슷한 조건에서 태양전지가 얼마나 잘 작동하는지를 시험하고 측정하는 프로그램을 시작했다.",
+  "why": "to test and measure 는 프로그램의 목적이고, 그 목적어가 how well ~ 절 전체다. 맨 끝 those 는 conditions 를 대신 받는 말이라 those in space 는 '우주에서의 조건들'이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|8.2",
+  "en": "Using specially modified airplanes, including Learjets, NASA conducted flights to help recreate some of the sunlight and atmospheric conditions that solar cells would experience outside Earth’s atmosphere.",
+  "s": "NASA",
+  "v": "conducted",
+  "chunks": [
+   {"en": "Using specially modified airplanes, including Learjets,", "ko": "리어제트를 비롯해 특별히 개조한 비행기들을 써서", "r": "분사구문(수단) + 예시"},
+   {"en": "NASA conducted flights", "ko": "NASA는 비행을 실시했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to help recreate some of the sunlight and atmospheric conditions", "ko": "햇빛과 대기 조건의 일부를 재현하는 데 도움이 되도록", "r": "목적(~하기 위해)"},
+   {"en": "that solar cells would experience outside Earth’s atmosphere.", "ko": "태양전지가 지구 대기 밖에서 겪게 될", "r": "관계절(앞 조건 설명)"}
+  ],
+  "ko": "NASA는 리어제트(Learjet)를 비롯해 특별히 개조한 비행기들을 이용해, 태양전지가 지구 대기 밖에서 겪게 될 햇빛과 대기 조건의 일부를 재현하는 데 도움이 되도록 비행을 실시했다.",
+  "why": "맨 앞의 Using ~ 은 주어가 아니라 '~을 써서'라는 수단을 말하는 분사구문이고, 그 주체는 쉼표 뒤의 NASA다. 맨 끝 that 절은 앞의 sunlight and atmospheric conditions 를 꾸미며, 그 절의 주어는 solar cells 다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|8.3",
+  "en": "The program lasted decades, supporting space technology calibration through numerous high-altitude flights and adapting to newer aircraft over time.",
+  "s": "The program",
+  "v": "lasted",
+  "chunks": [
+   {"en": "The program lasted decades,", "ko": "그 프로그램은 수십 년 동안 이어졌다", "r": "주어 + 동사 + 기간"},
+   {"en": "supporting space technology calibration", "ko": "우주 기술의 교정 작업을 뒷받침하면서", "r": "분사구문(~하면서)"},
+   {"en": "through numerous high-altitude flights", "ko": "수많은 고고도 비행을 통해", "r": "전치사구(수단)"},
+   {"en": "and adapting to newer aircraft over time.", "ko": "그리고 시간이 흐르며 더 새로운 항공기에 맞춰 가면서", "r": "분사구문 나열"}
+  ],
+  "ko": "그 프로그램은 수십 년 동안 이어지면서 수많은 고고도 비행을 통해 우주 기술의 교정(보정) 작업을 뒷받침했고, 시간이 흐르며 더 새로운 항공기로 갈아타 갔다.",
+  "why": "lasted 는 '마지막'이 아니라 '(기간이) 이어지다'라는 동사이고, decades 는 목적어가 아니라 기간이다. 뒤의 supporting 과 adapting 은 둘 다 앞 내용에 딸린 분사구문으로 and 로 나란히 이어져 있다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|9.0",
+  "en": "Researchers later applied these airborne capabilities to environmental science, extending their value beyond aviation and space technology.",
+  "s": "Researchers",
+  "v": "applied",
+  "chunks": [
+   {"en": "Researchers later applied these airborne capabilities", "ko": "연구자들은 나중에 이 공중 연구 역량을 가져다 썼다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to environmental science,", "ko": "환경 과학에", "r": "전치사구(어디에 적용했나)"},
+   {"en": "extending their value beyond aviation and space technology.", "ko": "그리하여 그 역량의 쓸모를 항공과 우주 기술 너머로 넓히면서", "r": "분사구문(그 결과)"}
+  ],
+  "ko": "연구자들은 나중에 이 공중 연구 역량을 환경 과학에도 적용했고, 그렇게 해서 그 역량의 쓸모를 항공과 우주 기술 너머로 넓혔다.",
+  "why": "apply A to B 는 'A를 B에 적용하다'라는 짝이다. their value 의 their 는 사람이 아니라 앞의 these airborne capabilities 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|9.1",
+  "en": "Using the Twin Otter and S-3B Viking over the Great Lakes, researchers tracked harmful algal blooms on Lake Erie by measuring changes in water color and composition.",
+  "s": "researchers",
+  "v": "tracked",
+  "chunks": [
+   {"en": "Using the Twin Otter and S-3B Viking over the Great Lakes,", "ko": "오대호 상공에서 트윈 오터와 S-3B 바이킹을 이용해", "r": "분사구문(수단) + 장소"},
+   {"en": "researchers tracked harmful algal blooms", "ko": "연구자들은 유해 조류 대발생을 추적했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on Lake Erie", "ko": "이리호에서 일어난", "r": "전치사구(장소)"},
+   {"en": "by measuring changes in water color and composition.", "ko": "물의 색과 성분 변화를 측정하는 방법으로", "r": "전치사구(방법)"}
+  ],
+  "ko": "연구자들은 오대호 상공에서 트윈 오터와 S-3B 바이킹을 이용해, 물의 색과 성분 변화를 측정하는 방법으로 이리호(Lake Erie)의 유해 조류 대발생(녹조 같은 것)을 추적했다.",
+  "why": "맨 앞 Using ~ 은 주어가 아니라 수단을 말하는 분사구문이고 그 주체는 researchers 다. by + -ing 는 '~하는 방법으로'라는 뜻이라, 색과 성분을 측정한 것이 추적한 방법이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|9.2",
+  "en": "The data improved satellite systems used to monitor water quality and ecosystem health.",
+  "s": "The data",
+  "v": "improved",
+  "chunks": [
+   {"en": "The data improved satellite systems", "ko": "그 자료는 위성 시스템을 개선했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "used to monitor water quality and ecosystem health.", "ko": "수질과 생태계 건강을 감시하는 데 쓰이는", "r": "과거분사구(앞 systems 설명)"}
+  ],
+  "ko": "그 자료 덕분에 수질과 생태계 건강을 감시하는 데 쓰이는 위성 시스템이 개선되었다.",
+  "why": "used to 를 '예전에는 ~했다'로 읽으면 안 된다. 여기서는 앞의 satellite systems 를 꾸미는 과거분사구로 '~하는 데 쓰이는'이라는 뜻이고, 문장의 동사는 improved 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|10.0",
+  "en": "Glenn’s research aircraft also played an important role in preparing technologies and experiments for spaceflight through microgravity testing.",
+  "s": "Glenn’s research aircraft",
+  "v": "played",
+  "chunks": [
+   {"en": "Glenn’s research aircraft also played an important role", "ko": "글렌의 연구용 항공기들은 중요한 역할도 했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in preparing technologies and experiments for spaceflight", "ko": "우주비행에 쓸 기술과 실험을 준비하는 데서", "r": "전치사구(어떤 역할인가)"},
+   {"en": "through microgravity testing.", "ko": "미소중력 시험을 통해", "r": "전치사구(수단)"}
+  ],
+  "ko": "글렌의 연구용 항공기들은 미소중력(중력이 거의 없는 상태) 시험을 통해 우주비행에 쓸 기술과 실험을 준비하는 데서도 중요한 역할을 했다.",
+  "why": "play a role in -ing 는 '~하는 데 역할을 하다'라는 굳어진 짝이다. play 를 '놀다·연주하다'로 읽으면 뜻이 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|10.1",
+  "en": "NASA Glenn advanced microgravity research through in-flight testing using specially modified aircraft, such as its DC-9, to create short periods of weightlessness during parabolic maneuvers.",
+  "s": "NASA Glenn",
+  "v": "advanced",
+  "chunks": [
+   {"en": "NASA Glenn advanced microgravity research", "ko": "NASA 글렌은 미소중력 연구를 발전시켰다", "r": "주어 + 동사 + 목적어"},
+   {"en": "through in-flight testing", "ko": "비행 중 시험을 통해", "r": "전치사구(수단)"},
+   {"en": "using specially modified aircraft, such as its DC-9,", "ko": "자기네 DC-9 같은 특별히 개조한 항공기를 써서", "r": "분사구문(수단) + 예시"},
+   {"en": "to create short periods of weightlessness", "ko": "짧은 무중력 상태를 만들어 내기 위해", "r": "목적(~하기 위해)"},
+   {"en": "during parabolic maneuvers.", "ko": "포물선을 그리는 비행 동작을 하는 동안", "r": "시간(언제)"}
+  ],
+  "ko": "NASA 글렌은 자기네 DC-9 같은 특별히 개조한 항공기를 써서 비행 중 시험을 했고, 포물선을 그리는 비행 동작 중에 짧게 무중력 상태를 만들어 내는 방식으로 미소중력 연구를 발전시켰다.",
+  "why": "advanced 는 여기서 '진보한'이라는 형용사가 아니라 '발전시켰다'는 동사다. its DC-9 의 its 는 NASA Glenn 을 가리키고, to create ~ 는 개조 항공기를 쓴 목적이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|10.2",
+  "en": "These flights allowed researchers to study how fluids, combustion, materials, and experimental equipment behaved in near-zero gravity before experiments were conducted in space.",
+  "s": "These flights",
+  "v": "allowed",
+  "chunks": [
+   {"en": "These flights allowed researchers", "ko": "이 비행들은 연구자들이 ~할 수 있게 해 주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to study how fluids, combustion, materials,", "ko": "유체, 연소, 재료,", "r": "목적격보어 + 의문사절의 주어 나열"},
+   {"en": "and experimental equipment behaved in near-zero gravity", "ko": "그리고 실험 장비가 거의 무중력 상태에서 어떻게 움직이는지를 살펴보도록", "r": "나열 마무리 + 그 절의 동사"},
+   {"en": "before experiments were conducted in space.", "ko": "실험이 우주에서 이루어지기 전에", "r": "부사절(시간)"}
+  ],
+  "ko": "이 비행들 덕분에 연구자들은 실험을 실제로 우주에서 하기 전에, 유체와 연소, 재료, 실험 장비가 거의 무중력에 가까운 상태에서 어떻게 움직이는지를 미리 살펴볼 수 있었다.",
+  "why": "how 절의 주어가 fluids, combustion, materials, and experimental equipment 로 넷이나 되어 그 절의 동사 behaved 가 멀리 떨어진다. 맨 끝 before 절은 수동태(were conducted)라 '실험이 이루어지기 전에'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|11.0",
+  "en": "Other significant accomplishments enabled by Glenn’s flight research include supporting the development and testing of sustainable aviation technologies, including research related to more fuel-efficient engines and sustainable aviation fuels, and advancing in-flight instrumentation and measurement techniques used across aeronautics research.",
+  "s": "Other significant accomplishments",
+  "v": "include",
+  "chunks": [
+   {"en": "Other significant accomplishments", "ko": "그 밖의 중요한 성과들에는", "r": "주어"},
+   {"en": "enabled by Glenn’s flight research", "ko": "글렌의 비행 연구가 있어 가능해진", "r": "과거분사구(앞 명사 설명)"},
+   {"en": "include supporting the development and testing", "ko": "~을 개발하고 시험하는 일을 뒷받침한 것이 들어간다", "r": "동사 + 목적어(동명사)"},
+   {"en": "of sustainable aviation technologies,", "ko": "지속가능 항공 기술의", "r": "전치사구(무엇의 개발·시험인가)"},
+   {"en": "including research related to more fuel-efficient engines", "ko": "연료 효율이 더 좋은 엔진과 관련된 연구", "r": "예시 + 과거분사구"},
+   {"en": "and sustainable aviation fuels,", "ko": "그리고 지속가능 항공 연료에 관한 연구를 포함해", "r": "예시 나열"},
+   {"en": "and advancing in-flight instrumentation and measurement techniques", "ko": "그리고 비행 중 계측 장비와 측정 기법을 발전시킨 것도 들어간다", "r": "목적어 나열(두 번째 동명사)"},
+   {"en": "used across aeronautics research.", "ko": "항공학 연구 전반에서 쓰이는", "r": "과거분사구(앞 기법 설명)"}
+  ],
+  "ko": "글렌의 비행 연구 덕분에 가능해진 그 밖의 중요한 성과로는 두 가지가 더 있다. 하나는 지속가능 항공 기술의 개발과 시험을 뒷받침한 일로, 여기에는 연료 효율이 더 좋은 엔진과 지속가능 항공 연료에 관한 연구도 들어간다. 다른 하나는 항공학 연구 전반에서 쓰이는 비행 중 계측 장비와 측정 기법을 발전시킨 일이다.",
+  "why": "주어(Other significant accomplishments)와 동사(include) 사이에 enabled by ~ 라는 과거분사구가 끼어 있어 enabled 를 동사로 잡기 쉽다. include 의 목적어는 supporting ~ 과 advancing ~ 두 개이고, 그 사이에 including ~ 이라는 예시가 길게 끼어 있다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|12.0",
+  "en": "In 2024, Glenn’s Flight Operations participated in an optical communications study using the center’s Pilatus PC-12 NG aircraft.",
+  "s": "Glenn’s Flight Operations",
+  "v": "participated",
+  "chunks": [
+   {"en": "In 2024,", "ko": "2024년에", "r": "시간"},
+   {"en": "Glenn’s Flight Operations participated in an optical communications study", "ko": "글렌의 비행 운영 부서는 광통신 연구에 참여했다", "r": "주어 + 동사 + 참여 대상"},
+   {"en": "using the center’s Pilatus PC-12 NG aircraft.", "ko": "그 센터의 필라투스 PC-12 NG 항공기를 써서", "r": "분사구문(수단)"}
+  ],
+  "ko": "2024년에 글렌의 비행 운영(Flight Operations) 부서는 그 센터의 필라투스 PC-12 NG(Pilatus PC-12 NG) 항공기를 이용해 광통신(빛으로 정보를 주고받는 통신) 연구에 참여했다.",
+  "why": "participate in ~ 은 '~에 참여하다'라는 짝이라 in 을 빼고 읽으면 안 된다. 맨 끝 using ~ 은 새 동사가 아니라 '~을 써서'라는 수단을 말하는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|12.1",
+  "en": "This mission successfully demonstrated the ability to transmit large volumes of data through a laser communication system across NASA’s legacy infrastructure.",
+  "s": "This mission",
+  "v": "demonstrated",
+  "chunks": [
+   {"en": "This mission successfully demonstrated the ability", "ko": "이 임무는 ~할 수 있음을 성공적으로 보여 주었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to transmit large volumes of data", "ko": "많은 양의 자료를 보낼 수 있다는 것을", "r": "to부정사구(앞 ability 설명)"},
+   {"en": "through a laser communication system", "ko": "레이저 통신 시스템을 통해", "r": "전치사구(수단)"},
+   {"en": "across NASA’s legacy infrastructure.", "ko": "NASA가 예전부터 써 온 기반 설비를 거쳐", "r": "전치사구(어디를 거쳐)"}
+  ],
+  "ko": "이 임무는 NASA가 예전부터 써 온 기존 설비를 거쳐 레이저 통신 시스템으로 많은 양의 자료를 보낼 수 있다는 것을 성공적으로 보여 주었다.",
+  "why": "the ability to transmit ~ 는 '~할 수 있는 능력'이라는 한 덩어리다. legacy 는 '유산'보다 '예전부터 쓰던, 기존의'라는 뜻으로 쓰였다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|12.2",
+  "en": "The work contributed to NASA’s broader effort to advance optical communications for future missions.",
+  "s": "The work",
+  "v": "contributed",
+  "chunks": [
+   {"en": "The work contributed to NASA’s broader effort", "ko": "이 작업은 NASA의 더 큰 노력에 보탬이 되었다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "to advance optical communications", "ko": "광통신을 발전시키려는", "r": "to부정사구(앞 effort 설명)"},
+   {"en": "for future missions.", "ko": "앞으로의 임무를 위해", "r": "전치사구(무엇을 위한 것인가)"}
+  ],
+  "ko": "이 작업은 앞으로의 임무에 대비해 광통신을 발전시키려는 NASA의 더 큰 노력에 보탬이 되었다.",
+  "why": "to 가 두 번 나오는데 쓰임이 다르다. contributed to 의 to 는 전치사(~에 기여하다)이고, effort to advance 의 to 는 '~하려는'이라는 to부정사다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|12.3",
+  "en": "NASA further tested optical communications on the Artemis II mission and effectively transmitted substantial amounts of data from the Orion capsule to multiple ground stations over the course of the 10-day journey.",
+  "s": "NASA",
+  "v": "tested",
+  "chunks": [
+   {"en": "NASA further tested optical communications", "ko": "NASA는 광통신을 한 걸음 더 시험했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on the Artemis II mission", "ko": "아르테미스 II 임무에서", "r": "전치사구(어디에서)"},
+   {"en": "and effectively transmitted substantial amounts of data", "ko": "그리고 상당한 양의 자료를 효과적으로 전송했다", "r": "대등절(두 번째 동사)"},
+   {"en": "from the Orion capsule to multiple ground stations", "ko": "오리온 캡슐에서 여러 지상국으로", "r": "전치사구(어디에서 어디로)"},
+   {"en": "over the course of the 10-day journey.", "ko": "10일간의 여정 내내", "r": "시간(기간)"}
+  ],
+  "ko": "NASA는 아르테미스 II(Artemis II) 임무에서 광통신을 한 걸음 더 시험했고, 10일간의 여정 내내 오리온(Orion) 캡슐에서 여러 지상국으로 상당한 양의 자료를 효과적으로 전송했다.",
+  "why": "동사가 tested 와 transmitted 두 개이고 주어는 둘 다 NASA다. from A to B 가 방향을 말하므로 자료는 오리온 캡슐에서 지상국 쪽으로 갔다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|13.0",
+  "en": "As NASA’s flight research enterprise evolved, the agency also restructured how it manages its research aircraft.",
+  "s": "the agency",
+  "v": "restructured",
+  "chunks": [
+   {"en": "As NASA’s flight research enterprise evolved,", "ko": "NASA의 비행 연구 사업이 발전해 감에 따라", "r": "부사절(~함에 따라)"},
+   {"en": "the agency also restructured", "ko": "그 기관은 ~도 다시 짰다", "r": "주어 + 동사"},
+   {"en": "how it manages its research aircraft.", "ko": "연구용 항공기를 관리하는 방식을", "r": "목적어(의문사절)"}
+  ],
+  "ko": "NASA의 비행 연구 사업이 발전해 감에 따라, NASA는 연구용 항공기를 관리하는 방식도 다시 짰다.",
+  "why": "맨 앞의 As 는 '~로서'가 아니라 '~함에 따라'라는 뜻이다. the agency 는 새 기관이 아니라 앞에 나온 NASA를 다시 부르는 말이고, it 과 its 도 모두 NASA를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|13.1",
+  "en": "In October 2025, NASA streamlined its aircraft flight operations, relocating its aircraft from Glenn to NASA’s Armstrong Flight Research Center in Edwards, California.",
+  "s": "NASA",
+  "v": "streamlined",
+  "chunks": [
+   {"en": "In October 2025,", "ko": "2025년 10월에", "r": "시간"},
+   {"en": "NASA streamlined its aircraft flight operations,", "ko": "NASA는 항공기 비행 운영을 간소화했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "relocating its aircraft from Glenn", "ko": "항공기를 글렌에서 옮기면서", "r": "분사구문(구체적 내용)"},
+   {"en": "to NASA’s Armstrong Flight Research Center in Edwards, California.", "ko": "캘리포니아주 에드워즈에 있는 NASA 암스트롱 비행연구센터로", "r": "전치사구(옮겨 간 곳)"}
+  ],
+  "ko": "2025년 10월에 NASA는 항공기 비행 운영을 간소화하면서, 항공기를 글렌에서 캘리포니아주 에드워즈에 있는 NASA 암스트롱 비행연구센터(Armstrong Flight Research Center)로 옮겼다.",
+  "why": "relocating 은 새 문장이 아니라 앞의 '간소화했다'가 구체적으로 무엇이었는지를 풀어 주는 분사구문이다. from Glenn to Armstrong 이 방향을 말하므로 항공기는 글렌에서 빠져나갔다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|13.2",
+  "en": "NASA Glenn continues its important icing and propulsion research and communications technology development in collaboration with Armstrong.",
+  "s": "NASA Glenn",
+  "v": "continues",
+  "chunks": [
+   {"en": "NASA Glenn continues", "ko": "NASA 글렌은 계속하고 있다", "r": "주어 + 동사"},
+   {"en": "its important icing and propulsion research", "ko": "중요한 착빙 연구와 추진 연구를", "r": "목적어 1"},
+   {"en": "and communications technology development", "ko": "그리고 통신 기술 개발을", "r": "목적어 2"},
+   {"en": "in collaboration with Armstrong.", "ko": "암스트롱과 협력해", "r": "전치사구(누구와 함께)"}
+  ],
+  "ko": "NASA 글렌은 암스트롱과 협력해 중요한 착빙 연구와 추진 연구, 그리고 통신 기술 개발을 계속하고 있다.",
+  "why": "continues 의 목적어가 셋(착빙 연구·추진 연구·통신 기술 개발)이라 and 가 두 번 나온다. 항공기는 암스트롱으로 옮겨 갔지만 연구 자체는 글렌이 계속한다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|14.0",
+  "en": "From its historical roots in wartime engine development to modern work on aircraft safety, Glenn’s airborne research has consistently moved innovative ideas from the laboratory to real-world application.",
+  "s": "Glenn’s airborne research",
+  "v": "has consistently moved",
+  "chunks": [
+   {"en": "From its historical roots in wartime engine development", "ko": "전시의 엔진 개발이라는 역사적 뿌리에서부터", "r": "전치사구(범위의 출발점)"},
+   {"en": "to modern work on aircraft safety,", "ko": "오늘날의 항공기 안전 연구에 이르기까지", "r": "전치사구(범위의 끝점)"},
+   {"en": "Glenn’s airborne research has consistently moved innovative ideas", "ko": "글렌의 공중 연구는 혁신적인 아이디어를 한결같이 옮겨 왔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from the laboratory to real-world application.", "ko": "실험실에서 실제 현장의 적용으로", "r": "전치사구(이동 방향)"}
+  ],
+  "ko": "전시의 엔진 개발이라는 역사적 뿌리에서부터 오늘날의 항공기 안전 연구에 이르기까지, 글렌의 공중 연구는 혁신적인 아이디어를 실험실에서 실제 현장의 적용으로 한결같이 옮겨 왔다.",
+  "why": "한 문장에 from ~ to ~ 가 두 번 나오는데 뜻이 다르다. 앞의 것은 '(시기가) ~부터 ~까지'라는 범위이고, 뒤의 것은 '~에서 ~로'라는 이동 방향이다.",
+  "st": []
+ },
+ {
+  "id": "d34a2d9a|14.1",
+  "en": "For more than eight decades, NASA Glenn has transformed ideas first proven in the laboratory into innovations validated in the sky — a legacy that continues to shape the future of aviation and space exploration.",
+  "s": "NASA Glenn",
+  "v": "has transformed",
+  "chunks": [
+   {"en": "For more than eight decades,", "ko": "80년이 넘는 세월 동안", "r": "시간"},
+   {"en": "NASA Glenn has transformed ideas", "ko": "NASA 글렌은 아이디어를 바꾸어 왔다", "r": "주어 + 동사 + 목적어"},
+   {"en": "first proven in the laboratory", "ko": "먼저 실험실에서 입증된", "r": "과거분사구(앞 ideas 설명)"},
+   {"en": "into innovations validated in the sky", "ko": "하늘에서 검증된 혁신으로", "r": "전치사구(무엇으로) + 과거분사구"},
+   {"en": "— a legacy that continues to shape the future of aviation and space exploration.", "ko": "이는 항공과 우주 탐사의 미래를 계속 빚어 가는 유산이다", "r": "동격(앞 내용 전체를 받음)"}
+  ],
+  "ko": "80년이 넘는 세월 동안 NASA 글렌은 실험실에서 먼저 입증된 아이디어를 하늘에서 검증된 혁신으로 바꾸어 왔다. 이는 항공과 우주 탐사의 미래를 계속 빚어 가고 있는 유산이다.",
+  "why": "transform A into B 는 'A를 B로 바꾸다'라는 짝인데, A와 B 각각에 과거분사구(first proven ~, validated ~)가 붙어 사이가 멀어진다. 대시(—) 뒤의 a legacy 는 새 주어가 아니라 앞 내용 전체를 한 단어로 받는 동격이다.",
+  "st": []
+ }
+]

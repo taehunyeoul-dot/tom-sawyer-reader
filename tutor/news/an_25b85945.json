@@ -1,0 +1,144 @@
+[
+ {
+  "id": "25b85945|0.0",
+  "en": "Five antennas soak in the summer sun at the Deep Space Network ’s Goldstone complex near Barstow, California, in August 2026.",
+  "s": "Five antennas",
+  "v": "soak",
+  "chunks": [
+   {"en": "Five antennas soak", "ko": "안테나 다섯 대가 (햇볕을) 쬐고 있다", "r": "주어 + 동사"},
+   {"en": "in the summer sun", "ko": "여름 햇볕 속에서", "r": "전치사구(무엇을 쬐나)"},
+   {"en": "at the Deep Space Network ’s Goldstone complex", "ko": "심우주통신망(DSN)의 골드스톤 단지에서", "r": "전치사구(장소)"},
+   {"en": "near Barstow, California,", "ko": "캘리포니아주 바스토 근처에 있는", "r": "전치사구(앞 단지의 소재지)"},
+   {"en": "in August 2026.", "ko": "2026년 8월에", "r": "시간"}
+  ],
+  "ko": "안테나 다섯 대가 2026년 8월, 캘리포니아주 바스토 근처에 있는 심우주통신망(Deep Space Network, DSN)의 골드스톤(Goldstone) 단지에서 여름 햇볕을 쬐고 있다.",
+  "why": "soak 는 '흠뻑 젖다'라 물을 떠올리기 쉽지만 soak in the sun 은 '햇볕을 쬐다'라는 뜻이다. 사진 설명이라 뼈대는 '안테나 다섯 대가 햇볕을 쬔다' 하나뿐이고, 그 뒤 at ~ / near ~ / in ~ 이 차례로 붙어 어디의 어디에서, 언제인지를 좁혀 준다. near Barstow, California 는 안테나가 아니라 바로 앞 골드스톤 단지가 있는 곳이다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|0.1",
+  "en": "The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground.",
+  "s": "The recently completed Deep Space Station 23",
+  "v": "can be seen",
+  "chunks": [
+   {"en": "The recently completed Deep Space Station 23,", "ko": "최근 완공된 심우주통신소 23호(DSS-23)는", "r": "주어"},
+   {"en": "a 34-meter (114-foot) beam-waveguide antenna,", "ko": "34미터(114피트)짜리 빔 도파관 안테나인데", "r": "동격(앞 주어를 다시 설명)"},
+   {"en": "can be seen to the right of the frame", "ko": "사진 화면의 오른쪽에 보인다", "r": "동사(수동태) + 위치"},
+   {"en": "in the foreground.", "ko": "앞쪽(가까운 쪽)에", "r": "전치사구(위치)"}
+  ],
+  "ko": "최근 완공된 심우주통신소 23호(Deep Space Station 23, DSS-23)는 34미터(114피트)짜리 빔 도파관(beam-waveguide) 안테나로, 사진 화면의 오른쪽 앞쪽에 보인다.",
+  "why": "쉼표 두 개 사이에 낀 a 34-meter (114-foot) beam-waveguide antenna 는 새로 나온 다른 안테나가 아니라 앞의 DSS-23 을 다시 말한 것(동격)이다. 그 부분을 괄호로 묶으면 뼈대는 'DSS-23 은 ~ 보인다' 하나뿐이고, can be seen 은 '볼 수 있다'가 아니라 '(우리 눈에) 보인다'는 수동 표현이다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|0.2",
+  "en": "The other three 34-meter antennas are, from left, DSS-26, DSS-25, and DSS-24.",
+  "s": "The other three 34-meter antennas",
+  "v": "are",
+  "chunks": [
+   {"en": "The other three 34-meter antennas are,", "ko": "나머지 34미터 안테나 세 대는 ~이다", "r": "주어 + 동사"},
+   {"en": "from left,", "ko": "왼쪽에서부터 차례로", "r": "삽입구(나열 순서 안내)"},
+   {"en": "DSS-26, DSS-25, and DSS-24.", "ko": "DSS-26, DSS-25, DSS-24", "r": "보어(이름 나열)"}
+  ],
+  "ko": "나머지 34미터 안테나 세 대는 왼쪽에서부터 차례로 DSS-26, DSS-25, DSS-24이다.",
+  "why": "are 뒤에 곧바로 이름이 오지 않고 from left(왼쪽에서부터)라는 안내가 쉼표로 끼어든다. 그 부분을 빼고 '나머지 세 대는 DSS-26, DSS-25, DSS-24이다'로 읽으면 된다. The other three 는 '앞에서 말한 것 말고 나머지 세 대'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|0.3",
+  "en": "At farthest right is a smaller 26-meter (85-foot) antenna, the retired “Apollo Antenna” that was built in 1967 as part of the Manned Space Flight Network and earned its nickname for providing tracking for the Apollo Program.",
+  "s": "a smaller 26-meter (85-foot) antenna",
+  "v": "is",
+  "chunks": [
+   {"en": "At farthest right is", "ko": "맨 오른쪽에 있는 것은", "r": "장소 + 동사(주어와 자리가 뒤바뀜)"},
+   {"en": "a smaller 26-meter (85-foot) antenna,", "ko": "그보다 작은 26미터(85피트) 안테나다", "r": "주어(동사 뒤로 밀려남)"},
+   {"en": "the retired “Apollo Antenna”", "ko": "은퇴한 '아폴로 안테나'인데", "r": "동격(앞 안테나를 다시 설명)"},
+   {"en": "that was built in 1967", "ko": "1967년에 지어졌고", "r": "관계절(앞 안테나 설명·수동태)"},
+   {"en": "as part of the Manned Space Flight Network", "ko": "유인우주비행망(MSFN)의 일부로", "r": "전치사구(무엇의 일부로)"},
+   {"en": "and earned its nickname", "ko": "그리고 그 별명을 얻었다", "r": "관계절의 두 번째 동사"},
+   {"en": "for providing tracking for the Apollo Program.", "ko": "아폴로 계획의 추적을 맡아 준 덕분에", "r": "이유(별명을 얻은 까닭)"}
+  ],
+  "ko": "맨 오른쪽에 있는 것은 그보다 작은 26미터(85피트) 안테나로, 은퇴한 '아폴로 안테나(Apollo Antenna)'다. 이 안테나는 1967년에 유인우주비행망(Manned Space Flight Network)의 일부로 지어졌고, 아폴로 계획(Apollo Program)의 추적을 맡아 준 덕분에 그 별명을 얻었다.",
+  "why": "At farthest right is ~ 는 장소를 앞으로 빼고 주어를 동사 뒤로 보낸 문장이라, 진짜 주어는 is 뒤의 a smaller 26-meter (85-foot) antenna 다. 뒤쪽 that 이하에는 동사가 둘(was built ~ and earned ~)인데 둘 다 같은 안테나를 설명하므로, and 를 보고 새 주어를 찾지 말 것.",
+  "st": []
+ },
+ {
+  "id": "25b85945|1.0",
+  "en": "NASA leadership and personnel as well as dignitaries gathered at the complete DSS-23 antenna for a ceremonial ribbon-cutting on Aug. 25, 2026.",
+  "s": "NASA leadership and personnel as well as dignitaries",
+  "v": "gathered",
+  "chunks": [
+   {"en": "NASA leadership and personnel", "ko": "NASA 지도부와 직원들이", "r": "주어"},
+   {"en": "as well as dignitaries", "ko": "그리고 주요 인사들까지 함께", "r": "주어에 덧붙는 말(A뿐 아니라 B도)"},
+   {"en": "gathered at the complete DSS-23 antenna", "ko": "완공된 DSS-23 안테나 앞에 모였다", "r": "동사 + 장소"},
+   {"en": "for a ceremonial ribbon-cutting", "ko": "기념 테이프 커팅 행사를 위해", "r": "목적"},
+   {"en": "on Aug. 25, 2026.", "ko": "2026년 8월 25일에", "r": "시간"}
+  ],
+  "ko": "NASA 지도부와 직원들, 그리고 주요 인사들이 2026년 8월 25일 완공된 DSS-23 안테나 앞에 모여 기념 테이프 커팅 행사를 열었다.",
+  "why": "A as well as B 는 'B는 물론 A도'라는 뜻이라 모인 사람은 NASA 쪽 사람들과 주요 인사들 모두다. 동사는 gathered 하나뿐이고 그 뒤에 at(장소) · for(목적) · on(날짜)이 차례로 붙는다. gathered 는 뒤에 목적어가 없으므로 '모았다'가 아니라 '모였다'이다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|1.1",
+  "en": "It’s the latest antenna to be added as part of the Deep Space Network’s Aperture Enhancement Project, which began in 2009 to upgrade and expand the network by adding six new 34-meter multifrequency beam-waveguide antennas .",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "It’s the latest antenna", "ko": "그것은 가장 최근에 더해진 안테나다", "r": "주어 + 동사 + 보어"},
+   {"en": "to be added as part of", "ko": "~의 일환으로 더해진", "r": "to부정사(앞 antenna 설명·수동)"},
+   {"en": "the Deep Space Network’s Aperture Enhancement Project,", "ko": "심우주통신망(DSN)의 개구 확장 사업", "r": "of 의 목적어(사업 이름)"},
+   {"en": "which began in 2009", "ko": "이 사업은 2009년에 시작되었다", "r": "관계절(앞 사업 설명)"},
+   {"en": "to upgrade and expand the network", "ko": "통신망을 개선하고 넓히기 위해", "r": "목적"},
+   {"en": "by adding six new 34-meter multifrequency beam-waveguide antennas .", "ko": "34미터짜리 다중주파수 빔 도파관 안테나 여섯 대를 새로 더하는 방법으로", "r": "수단(어떤 방법으로)"}
+  ],
+  "ko": "이것은 심우주통신망(Deep Space Network)의 개구 확장 사업(Aperture Enhancement Project)의 일환으로 가장 최근에 더해진 안테나다. 이 사업은 34미터짜리 다중주파수 빔 도파관 안테나 여섯 대를 새로 더해 통신망을 개선하고 넓히려고 2009년에 시작되었다.",
+  "why": "to be added 는 '앞으로 더하기 위해'가 아니라 앞의 antenna 를 꾸미는 말(수동)이라 '더해진 안테나'라는 뜻이다. 쉼표 뒤 which 는 바로 앞의 Project 를 받으므로 2009년에 시작된 것은 안테나가 아니라 사업이다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|1.2",
+  "en": "These versatile Deep Space Network (DSN) dishes can enhance many missions operating over different radio frequencies.",
+  "s": "These versatile Deep Space Network (DSN) dishes",
+  "v": "can enhance",
+  "chunks": [
+   {"en": "These versatile Deep Space Network (DSN) dishes", "ko": "쓰임새가 많은 이 심우주통신망(DSN) 접시 안테나들은", "r": "주어(긴 명사구)"},
+   {"en": "can enhance many missions", "ko": "여러 임무를 더 잘 뒷받침할 수 있다", "r": "동사 + 목적어"},
+   {"en": "operating over different radio frequencies.", "ko": "서로 다른 무선 주파수로 이루어지는", "r": "현재분사구(앞 missions 설명)"}
+  ],
+  "ko": "쓰임새가 많은 이 심우주통신망(DSN) 접시 안테나들은 서로 다른 무선 주파수로 이루어지는 여러 임무를 더 잘 뒷받침할 수 있다.",
+  "why": "dishes 는 '접시'가 아니라 접시 모양 안테나를 말한다. 맨 뒤 operating ~ 은 문장의 동사가 아니라 바로 앞 many missions 를 꾸미는 말(현재분사)이라, '주파수가 서로 다른 여러 임무'라는 뜻이 된다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|2.0",
+  "en": "The DSN allows missions to track, send commands to, and receive scientific data from faraway spacecraft.",
+  "s": "The DSN",
+  "v": "allows",
+  "chunks": [
+   {"en": "The DSN allows missions", "ko": "DSN은 여러 임무가 ~ 할 수 있게 해 준다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to track, send commands to,", "ko": "추적하고, 명령을 보내고,", "r": "임무가 할 수 있게 되는 일들"},
+   {"en": "and receive scientific data", "ko": "그리고 과학 데이터를 받을 수 있게", "r": "세 번째 동작"},
+   {"en": "from faraway spacecraft.", "ko": "멀리 있는 우주선으로부터", "r": "전치사구(세 동작이 함께 쓰는 대상)"}
+  ],
+  "ko": "DSN(심우주통신망)은 여러 임무가 멀리 있는 우주선을 추적하고, 그 우주선에 명령을 보내고, 그 우주선에서 과학 데이터를 받을 수 있게 해 준다.",
+  "why": "allow A to B(A가 B하게 해 주다) 구조인데 to 뒤에 동작이 셋(track / send commands to / receive) 나란히 붙는다. 맨 끝의 faraway spacecraft 하나를 이 셋이 나눠 쓰므로, 추적하는 상대도 · 명령을 보내는 상대도 · 데이터를 받는 상대도 모두 그 먼 우주선이다. send commands to 의 to 는 뒤 단어와 붙지 않고 쉼표에서 끊긴 채 맨 끝 명사를 받는다.",
+  "st": []
+ },
+ {
+  "id": "25b85945|2.1",
+  "en": "It is managed by NASA’s Jet Propulsion Laboratory in Southern California, a division of Caltech, for the agency’s Space Communications and Navigation ( SCaN ) Program, which is located at NASA Headquarters within the Research and Technology Mission Directorate.",
+  "s": "It",
+  "v": "is managed",
+  "chunks": [
+   {"en": "It is managed by NASA’s Jet Propulsion Laboratory", "ko": "그것은 NASA 제트추진연구소가 운영한다", "r": "주어 + 동사(수동태) + 행위자"},
+   {"en": "in Southern California,", "ko": "캘리포니아 남부에 있는", "r": "전치사구(앞 연구소의 소재지)"},
+   {"en": "a division of Caltech,", "ko": "칼텍(Caltech)의 한 부서인", "r": "동격(앞 연구소를 다시 설명)"},
+   {"en": "for the agency’s Space Communications and Navigation ( SCaN ) Program,", "ko": "그 기관, 곧 NASA의 우주통신항법(SCaN) 프로그램을 위해", "r": "전치사구(누구를 위해)"},
+   {"en": "which is located at NASA Headquarters", "ko": "이 프로그램은 NASA 본부에 있다", "r": "관계절(앞 프로그램 설명)"},
+   {"en": "within the Research and Technology Mission Directorate.", "ko": "연구·기술 임무 부문 안에", "r": "전치사구(어디 소속인가)"}
+  ],
+  "ko": "이 심우주통신망은 캘리포니아 남부에 있는 NASA 제트추진연구소(Jet Propulsion Laboratory)가 운영하며, 이 연구소는 칼텍(Caltech)의 한 부서다. 운영은 NASA의 우주통신항법(Space Communications and Navigation, SCaN) 프로그램을 위해 이루어지는데, 이 프로그램은 연구·기술 임무 부문(Research and Technology Mission Directorate) 소속으로 NASA 본부에 있다.",
+  "why": "is managed by ~ 는 수동태라 운영하는 쪽은 by 뒤의 제트추진연구소이고 운영되는 쪽은 앞의 It(=DSN)이다. 쉼표로 묶인 a division of Caltech 은 그 연구소를 다시 설명하는 말(동격)이고, 맨 뒤 which 는 바로 앞의 SCaN Program 을 받는다. 기관 이름이 셋이나 나오므로 무엇이 무엇 안에 들어 있는지를 하나씩 짚어야 한다.",
+  "st": []
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "bc8e2a4c|0.0",
+  "en": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa.",
+  "auto_s": "A NASA-funded air pollution monitoring network",
+  "auto_v": "has provided"
+ },
+ {
+  "id": "bc8e2a4c|0.1",
+  "en": "The detailed measurements show how pollution changes by time of day and season, including increases associated with rush-hour traffic and holiday celebrations.",
+  "auto_s": "The detailed measurements",
+  "auto_v": "show"
+ },
+ {
+  "id": "bc8e2a4c|0.2",
+  "en": "The findings are relevant to cities around the world, including in the United States.",
+  "auto_s": "The findings",
+  "auto_v": "are"
+ },
+ {
+  "id": "bc8e2a4c|1.0",
+  "en": "In a new paper published in ES&T: Air , scientists analyzed data collected throughout Addis Ababa between 2022 and 2025 from 10 air-quality monitoring sites deployed by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) project.",
+  "auto_s": "scientists",
+  "auto_v": "analyzed"
+ },
+ {
+  "id": "bc8e2a4c|2.0",
+  "en": "The research comes as Ethiopia is taking steps aimed at improving air quality.",
+  "auto_s": "The research",
+  "auto_v": "comes"
+ },
+ {
+  "id": "bc8e2a4c|2.1",
+  "en": "In 2024, the country became the first in the world to ban the import of internal combustion engine vehicles, while cities have been adding bike lanes and electric vehicle infrastructure.",
+  "auto_s": "the country",
+  "auto_v": "became"
+ },
+ {
+  "id": "bc8e2a4c|2.2",
+  "en": "The MAIA project’s measurements provide researchers with a baseline for understanding how air quality changes over time as Addis Ababa continues to grow and evolve.",
+  "auto_s": "The MAIA project’s measurements",
+  "auto_v": "provide"
+ },
+ {
+  "id": "bc8e2a4c|3.0",
+  "en": "The study focuses on particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5.",
+  "auto_s": "The study",
+  "auto_v": "focuses"
+ },
+ {
+  "id": "bc8e2a4c|3.1",
+  "en": "The 2025 State of Global Air Report, cited in the paper, estimates that exposure to PM2.5 is associated with approximately 4.9 million deaths globally each year.",
+  "auto_s": "The 2025 State of Global Air Report,",
+  "auto_v": "cited"
+ },
+ {
+  "id": "bc8e2a4c|3.2",
+  "en": "Among the many kinds of PM2.5, black carbon has been has been studied for its potential effects on human health.",
+  "auto_s": "black carbon",
+  "auto_v": "has been has been studied"
+ },
+ {
+  "id": "bc8e2a4c|4.0",
+  "en": "The paper found that Addis Ababa’s three-year average PM2.5 concentration was 30 micrograms per cubic meter, which is more than three times the level of the U.S.",
+  "auto_s": "The paper",
+  "auto_v": "found"
+ },
+ {
+  "id": "bc8e2a4c|4.1",
+  "en": "Environmental Protection Agency’s health-based annual PM2.5 standard .",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "bc8e2a4c|4.2",
+  "en": "The new paper cites data from MAIA’s ground sensors indicating that average black carbon levels in Addis Ababa were approximately four to nine times higher than those measured in the three U.S. metropolitan areas the mission is monitoring.",
+  "auto_s": "The new paper",
+  "auto_v": "cites"
+ },
+ {
+  "id": "bc8e2a4c|5.0",
+  "en": "“To our knowledge, this is the first long-term, multisite study of continuous PM2.5 and black carbon measurements in Ethiopia,” said Sina Hasheminassab, a coauthor of the paper and MAIA’s deputy principal investigator at NASA’s Jet Propulsion Laboratory in Southern California.",
+  "auto_s": "this",
+  "auto_v": "is"
+ },
+ {
+  "id": "bc8e2a4c|5.1",
+  "en": "“Many rapidly growing cities have limited long-term monitoring, so these measurements provide an important baseline for understanding how pollution changes across space and time.”",
+  "auto_s": "Many rapidly growing cities",
+  "auto_v": "have limited"
+ },
+ {
+  "id": "bc8e2a4c|6.0",
+  "en": "The composition and sources of PM2.5 can differ substantially between cities, depending on their local geography, traffic, industries, and more.",
+  "auto_s": "The composition and sources of PM2.5",
+  "auto_v": "can differ"
+ },
+ {
+  "id": "bc8e2a4c|6.1",
+  "en": "Desert cities, for example, may have more dust, while those near coal-fired power plants may have higher concentrations of sulfate.",
+  "auto_s": "Desert cities",
+  "auto_v": "may have"
+ },
+ {
+  "id": "bc8e2a4c|6.2",
+  "en": "Long-term surface measurements remain limited in many parts of the world.",
+  "auto_s": "Long-term surface measurements",
+  "auto_v": "remain"
+ },
+ {
+  "id": "bc8e2a4c|7.0",
+  "en": "NASA is supporting MAIA’s air pollution research in a dozen metropolitan areas around the globe, including three in the U.S.: Los Angeles, Atlanta, and Boston.",
+  "auto_s": "NASA is supporting MAIA’s air pollution research in a dozen metropolitan areas around the globe, including three in the U.S.: Los Angeles, Atlanta, and Boston",
+  "auto_v": "is supporting"
+ },
+ {
+  "id": "bc8e2a4c|7.1",
+  "en": "The mission consists of a ground-based network of sensors already in operation as well as a space observatory, which uses a JPL-built camera that will be launched by the Italian Space Agency (ASI) on an ASI satellite no earlier than late 2027.",
+  "auto_s": "The mission",
+  "auto_v": "consists"
+ },
+ {
+  "id": "bc8e2a4c|8.0",
+  "en": "The camera is designed to identify different types of PM2.5 aerosols based on how they reflect light, making it possible to map particle concentrations over each city that the mission studies.",
+  "auto_s": "The camera",
+  "auto_v": "is designed"
+ },
+ {
+  "id": "bc8e2a4c|8.1",
+  "en": "Mounted on a gimbal, the camera captures data from multiple angles using JPL-pioneered technologies that make particles stand out more prominently against the surface background to provide valuable information about their shape and size.",
+  "auto_s": "the camera",
+  "auto_v": "captures"
+ },
+ {
+  "id": "bc8e2a4c|9.0",
+  "en": "The MAIA mission is the first NASA project to include public health researchers among a space mission’s team.",
+  "auto_s": "The MAIA mission",
+  "auto_v": "is"
+ },
+ {
+  "id": "bc8e2a4c|9.1",
+  "en": "These researchers will use MAIA’s PM2.5 concentration maps alongside health data to study potential relationships between different particle types and health outcomes.",
+  "auto_s": "These researchers",
+  "auto_v": "will use"
+ },
+ {
+  "id": "bc8e2a4c|9.2",
+  "en": "By developing a better understanding of particulate matter pollution, researchers can potentially advance how air quality is studied and managed.",
+  "auto_s": "researchers",
+  "auto_v": "advance"
+ },
+ {
+  "id": "bc8e2a4c|10.0",
+  "en": "“This paper shows how valuable the air sensor data is on its own, but combining the sensor network and satellite observations will be a game-changer,” said, Kyan Shlipak, the paper’s lead author, who worked on the research while interning at JPL.",
+  "auto_s": "This paper",
+  "auto_v": "shows"
+ },
+ {
+  "id": "bc8e2a4c|11.0",
+  "en": "The greater Addis Ababa urban area is home to nearly 6 million people, and according to United Nations projections, that figure is expected to surpass 10 million by 2050.",
+  "auto_s": "The greater Addis Ababa urban area",
+  "auto_v": "is"
+ },
+ {
+  "id": "bc8e2a4c|12.0",
+  "en": "“It’s a cosmopolitan city with many international communities,” said Araya Asfaw of Addis Ababa University, a coauthor of the paper and the MAIA project’s lead Ethiopian collaborator.",
+  "auto_s": "It",
+  "auto_v": "’s"
+ },
+ {
+  "id": "bc8e2a4c|12.1",
+  "en": "“Think of it as Africa’s version of Brussels, where the European Union is based.”",
+  "auto_s": "",
+  "auto_v": "Think"
+ },
+ {
+  "id": "bc8e2a4c|13.0",
+  "en": "“Even at night, when traffic dies down, you see high emissions from the burning of charcoal and other fuels,” Asfaw said.",
+  "auto_s": "you",
+  "auto_v": "see"
+ },
+ {
+  "id": "bc8e2a4c|14.0",
+  "en": "The MAIA sensor network detected increases in black carbon during two major holidays in Addis Ababa that involve bonfires and was able to distinguish between particles originating from the fires and those from fossil fuel combustion.",
+  "auto_s": "The MAIA sensor network",
+  "auto_v": "detected"
+ },
+ {
+  "id": "bc8e2a4c|14.1",
+  "en": "The findings demonstrate how detailed measurements can help researchers identify different sources of particulate matter and better understand how air quality varies across a city and over time.",
+  "auto_s": "The findings",
+  "auto_v": "demonstrate"
+ },
+ {
+  "id": "bc8e2a4c|15.0",
+  "en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions…",
+  "auto_s": "FORCE",
+  "auto_v": "is"
+ },
+ {
+  "id": "bc8e2a4c|16.0",
+  "en": "Article 5 hours ago 6 min read Chasing Fire Clouds in Utah NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most…",
+  "auto_s": "Article 5 hours ago 6 min read",
+  "auto_v": "are sampling"
+ },
+ {
+  "id": "bc8e2a4c|17.0",
+  "en": "Article 18 hours ago 2 min read Volunteer Develops Machine-Learning Tool to Identify Rare Clouds Certain kinds of clouds are misbehaving – appearing more often and lower in the sky…",
+  "auto_s": "2 min",
+  "auto_v": "read"
+ },
+ {
+  "id": "bc8e2a4c|18.0",
+  "en": "Article 3 days ago Keep Exploring Discover Related Topics Explore Earth Science From its origins, NASA has studied our planet in novel ways, using a fleet of satellites and ambitious airborne and ground-based…",
+  "auto_s": "NASA",
+  "auto_v": "has studied"
+ },
+ {
+  "id": "bc8e2a4c|19.0",
+  "en": "MAIA (Multi-Angle Imager for Aerosols) will study the size, makeup, and quantity of airborne particles, to show how this pollution…",
+  "auto_s": "MAIA",
+  "auto_v": "will study"
+ },
+ {
+  "id": "bc8e2a4c|20.0",
+  "en": "Open access to NASA’s archive of Earth science data",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "bc8e2a4c|21.0",
+  "en": "In order to study the Earth as a whole system and understand how it is changing, NASA develops and supports…",
+  "auto_s": "NASA",
+  "auto_v": "develops"
+ },
+ {
+  "id": "bc8e2a4c|22.0",
+  "en": "NASA Opens Registration for 2015 Exploration Rover Challenge",
+  "auto_s": "",
+  "auto_v": ""
+ }
+]

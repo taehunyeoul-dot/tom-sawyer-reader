@@ -1,0 +1,242 @@
+[
+ {
+  "id": "e248034c|0.0",
+  "en": "Every month, NASA Earth Observatory features a puzzling satellite image.",
+  "s": "NASA Earth Observatory",
+  "v": "features",
+  "chunks": [
+   {"en": "Every month,", "ko": "매달", "r": "시간"},
+   {"en": "NASA Earth Observatory features", "ko": "NASA Earth Observatory(NASA 지구관측소)는 ~을 (골라) 싣는다", "r": "주어 + 동사"},
+   {"en": "a puzzling satellite image.", "ko": "어디인지 알기 어려운 위성 사진을 한 장", "r": "목적어"}
+  ],
+  "ko": "매달 NASA Earth Observatory(NASA 지구관측소)는 보는 사람을 갸웃하게 만드는 위성 사진을 한 장 골라 싣는다.",
+  "why": "features 를 명사 '특징'으로 읽으면 동사가 사라져 문장이 풀리지 않는다. 여기서는 '(특별히) 다루다, 싣다'라는 동사다. 현재시제 + Every month 는 '매달 되풀이하는 일'을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|0.1",
+  "en": "The September 2026 puzzler appears above.",
+  "s": "The September 2026 puzzler",
+  "v": "appears",
+  "chunks": [
+   {"en": "The September 2026 puzzler", "ko": "2026년 9월치 퍼즐 문제는", "r": "주어(긴 명사구)"},
+   {"en": "appears above.", "ko": "위쪽에 나와 있다", "r": "동사 + 위치"}
+  ],
+  "ko": "2026년 9월의 퍼즐 문제(그 위성 사진)는 이 글 위쪽에 실려 있다.",
+  "why": "September 2026 은 뒤의 puzzler 를 꾸미는 말이라 '9월치 문제'라는 뜻이다. above 는 '앞에서 말했듯이'가 아니라 화면상 '위쪽에'라는 자리를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|1.0",
+  "en": "Your Challenge I dentify the location shown in this satellite image.",
+  "s": "",
+  "v": "I dentify",
+  "chunks": [
+   {"en": "Your Challenge", "ko": "[소제목] 당신이 풀 문제", "r": "소제목"},
+   {"en": "I dentify the location", "ko": "그 장소가 어디인지 알아내 보라", "r": "동사(명령문) + 목적어"},
+   {"en": "shown in this satellite image.", "ko": "이 위성 사진에 나와 있는", "r": "과거분사구(앞 명사 설명)"}
+  ],
+  "ko": "[소제목: 당신이 풀 문제] 이 위성 사진에 나와 있는 장소가 어디인지 알아맞혀 보세요.",
+  "why": "원래 웹페이지의 소제목 Your Challenge 가 본문과 한 줄로 붙었고, 명령문 Identify 가 'I dentify' 로 잘못 띄어져 있다. 여기 I 는 '나'가 아니다. Your Challenge 를 주어로 붙이지 말고 소제목으로 떼어 놓은 뒤, '(당신이) 알아내라'는 명령문으로 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|1.1",
+  "en": "Share what clues you see, where you think it is, and what makes this place interesting or unique to you.",
+  "s": "",
+  "v": "Share",
+  "chunks": [
+   {"en": "Share what clues you see,", "ko": "어떤 단서가 보이는지 알려 달라", "r": "동사(명령문) + 목적어절1"},
+   {"en": "where you think it is,", "ko": "그곳이 어디라고 생각하는지", "r": "목적어절2"},
+   {"en": "and what makes this place interesting or unique to you.", "ko": "그리고 무엇이 이곳을 당신에게 흥미롭거나 특별하게 만드는지", "r": "목적어절3"}
+  ],
+  "ko": "어떤 단서가 보이는지, 그곳이 어디라고 생각하는지, 그리고 무엇 때문에 이곳이 당신에게 흥미롭거나 특별한지를 알려 주세요.",
+  "why": "동사 Share 하나에 what… / where… / and what… 세 개의 절이 나란히 목적어로 붙어 있다. 셋째 절은 what 자체가 주어라 '무엇이 ~하게 만드는가'로 읽는다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|2.0",
+  "en": "How to Answer Submit your response using this form and select “Puzzler Answer” as the topic.",
+  "s": "",
+  "v": "Submit",
+  "chunks": [
+   {"en": "How to Answer", "ko": "[소제목] 답을 보내는 방법", "r": "소제목"},
+   {"en": "Submit your response using this form", "ko": "이 양식을 이용해 답변을 제출하라", "r": "동사(명령문) + 목적어 + 방법"},
+   {"en": "and select “Puzzler Answer” as the topic.", "ko": "그리고 주제로는 ‘Puzzler Answer’를 고르라", "r": "대등절(두 번째 명령문)"}
+  ],
+  "ko": "[소제목: 답을 보내는 방법] 이 양식을 이용해 답변을 제출하고, 주제(topic) 항목에서는 ‘Puzzler Answer’를 고르세요.",
+  "why": "How to Answer 는 소제목이고 그 뒤부터가 본문이다. Submit … and select … 두 개의 명령문이 and 로 이어져 있고, using this form 은 제출하는 방법을 말한다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|2.1",
+  "en": "Please include your preferred name or alias.",
+  "s": "",
+  "v": "include",
+  "chunks": [
+   {"en": "Please include", "ko": "~을 함께 적어 주세요", "r": "동사(정중한 명령문)"},
+   {"en": "your preferred name or alias.", "ko": "당신이 불리기를 원하는 이름이나 별명을", "r": "목적어"}
+  ],
+  "ko": "당신이 불리고 싶은 이름이나 별명(본명 대신 쓰는 이름)을 함께 적어 주세요.",
+  "why": "Please + 동사원형이라 주어 you 가 보이지 않는 명령문이다. preferred 는 '(당신이) 선호하는', alias 는 본명 대신 쓰는 별명·필명을 뜻한다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|3.0",
+  "en": "You can keep it simple and just guess the location.",
+  "s": "You",
+  "v": "can keep",
+  "chunks": [
+   {"en": "You can keep it simple", "ko": "간단하게 해도 된다", "r": "주어 + 동사 + 목적어 + 보어"},
+   {"en": "and just guess the location.", "ko": "그리고 그냥 장소만 맞혀 봐도 된다", "r": "대등절(can 이 이어서 걸림)"}
+  ],
+  "ko": "간단하게 해도 됩니다. 그냥 그곳이 어디인지 짐작만 말해도 괜찮습니다.",
+  "why": "keep it simple 은 'it(당신의 답변)을 간단한 상태로 두다', 곧 '간단하게 해도 된다'는 관용 표현이다. and 뒤에 can 이 다시 나오지 않지만 guess 에도 can 이 그대로 걸린다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|3.1",
+  "en": "Want to impress us?",
+  "s": "",
+  "v": "Want",
+  "chunks": [
+   {"en": "Want to impress us?", "ko": "우리를 감탄하게 만들고 싶은가요?", "r": "동사 + 목적(앞의 Do you 가 빠진 의문문)"}
+  ],
+  "ko": "우리를 감탄하게 만들고 싶은가요?",
+  "why": "구어체라 앞의 Do you 가 통째로 빠졌다. 주어가 안 보인다고 글쓴이 이야기로 읽으면 안 되고, '(당신이) ~하고 싶은가?'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|3.2",
+  "en": "Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area.",
+  "s": "",
+  "v": "Tell",
+  "chunks": [
+   {"en": "Tell us which satellite and instrument captured the image,", "ko": "어느 위성과 어느 관측 장비가 그 사진을 찍었는지 알려 달라", "r": "동사(명령문) + 대상 + 목적어절1"},
+   {"en": "which spectral bands were used,", "ko": "어떤 분광 대역이 쓰였는지", "r": "목적어절2(수동태)"},
+   {"en": "or point out a subtle detail", "ko": "아니면 눈에 잘 안 띄는 사실 하나를 짚어 달라", "r": "대등절(두 번째 명령문)"},
+   {"en": "about the geology or history of the area.", "ko": "그 지역의 지질이나 역사에 관한", "r": "전치사구(앞 detail 설명)"}
+  ],
+  "ko": "어느 위성과 어느 관측 장비가 그 사진을 찍었는지, 어떤 분광 대역(spectral bands, 빛의 파장 구간)이 쓰였는지 알려 주세요. 아니면 그 지역의 지질이나 역사에 관해 눈에 잘 띄지 않는 사실 하나를 짚어 주어도 좋습니다.",
+  "why": "Tell us 뒤에 which… 로 시작하는 절이 두 개 이어지고, or 뒤의 point out 은 Tell 과 나란한 또 하나의 명령문이다. were used 는 수동태라 '쓰인' 쪽만 나오고 사용한 주체는 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|3.3",
+  "en": "If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.",
+  "s": "we",
+  "v": "’d love",
+  "chunks": [
+   {"en": "If something catches your eye,", "ko": "무언가 당신의 눈길을 끈다면", "r": "조건절1"},
+   {"en": "or if this is your home", "ko": "또는 이곳이 당신이 사는 곳이거나", "r": "조건절2"},
+   {"en": "or means something to you,", "ko": "당신에게 어떤 의미가 있는 곳이라면", "r": "조건절2에 이어지는 두 번째 동사"},
+   {"en": "we’d love to hear about it.", "ko": "우리는 그 이야기를 꼭 듣고 싶다", "r": "주절"}
+  ],
+  "ko": "무언가 눈길을 끄는 것이 있거나, 이곳이 당신이 사는 곳이거나 당신에게 어떤 의미가 있는 곳이라면, 우리는 그 이야기를 꼭 듣고 싶습니다.",
+  "why": "if 절이 둘 이어지고 두 번째 if 절 안에서 다시 is 와 means 두 동사가 or 로 묶여 있다. 주절은 맨 뒤 we’d love to hear about it 하나뿐이다. catch one’s eye 는 '눈길을 끌다'라는 관용 표현.",
+  "st": []
+ },
+ {
+  "id": "e248034c|4.0",
+  "en": "The Prize We can’t offer prize money or a trip to space to see Earth like satellites and astronauts do .",
+  "s": "We",
+  "v": "can’t offer",
+  "chunks": [
+   {"en": "The Prize", "ko": "[소제목] 상품", "r": "소제목"},
+   {"en": "We can’t offer prize money", "ko": "우리는 상금을 줄 수 없다", "r": "주어 + 동사(부정) + 목적어"},
+   {"en": "or a trip to space", "ko": "우주로 가는 여행도 (줄 수 없다)", "r": "목적어 나열(부정이 이어서 걸림)"},
+   {"en": "to see Earth like satellites and astronauts do .", "ko": "위성과 우주비행사가 보듯이 지구를 보러 가는", "r": "목적(앞 여행의 용도) + 비교"}
+  ],
+  "ko": "[소제목: 상품] 우리는 상금도 줄 수 없고, 위성과 우주비행사가 보듯이 지구를 내려다볼 수 있는 우주여행도 보내 줄 수 없습니다.",
+  "why": "부정어 can’t 가 prize money 와 a trip to space 두 가지 모두에 걸린다. 맨 뒤의 do 는 앞의 see 를 대신하는 말이라 '위성과 우주비행사가 (지구를) 보는 것처럼'이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|4.1",
+  "en": "But we can offer something almost as rewarding: puzzler bragging rights.",
+  "s": "we",
+  "v": "can offer",
+  "chunks": [
+   {"en": "But we can offer something", "ko": "하지만 우리는 ~한 것은 줄 수 있다", "r": "대등 접속 + 주어 + 동사 + 목적어"},
+   {"en": "almost as rewarding:", "ko": "그에 거의 못지않게 보람 있는", "r": "앞 something 을 꾸미는 말"},
+   {"en": "puzzler bragging rights.", "ko": "곧 퍼즐을 맞혔다고 자랑할 권리", "r": "동격(something 의 정체)"}
+  ],
+  "ko": "하지만 그에 거의 못지않게 보람 있는 것은 줄 수 있습니다. 바로 퍼즐을 맞혔다고 자랑할 권리입니다.",
+  "why": "almost as rewarding 은 앞의 something 을 뒤에서 꾸미는 말이고, 견주는 대상(as ~ as 의 뒤쪽)은 앞 문장의 상금·우주여행이라 생략됐다. 콜론(:) 뒤는 그 something 이 무엇인지 밝히는 동격이다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|5.0",
+  "en": "About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail.",
+  "s": "we",
+  "v": "’ll post",
+  "chunks": [
+   {"en": "About a week after the challenge,", "ko": "문제를 낸 지 약 일주일 뒤에", "r": "시간"},
+   {"en": "we’ll post the answer", "ko": "우리는 정답을 올릴 것이다", "r": "주어 + 동사(미래) + 목적어"},
+   {"en": "at the top of this page,", "ko": "이 페이지 맨 위에", "r": "전치사구(장소)"},
+   {"en": "along with a link", "ko": "링크도 함께 붙여서", "r": "전치사구(함께 올릴 것)"},
+   {"en": "to an Earth Observatory Image of the Day story", "ko": "Earth Observatory 의 ‘Image of the Day(오늘의 사진)’ 기사로 이어지는", "r": "링크가 가리키는 곳"},
+   {"en": "that explains the image in more detail.", "ko": "그 사진을 더 자세히 설명해 주는", "r": "관계절(앞 story 설명)"}
+  ],
+  "ko": "문제를 낸 지 약 일주일 뒤에, 우리는 이 페이지 맨 위에 정답을 올릴 것입니다. 그 사진을 더 자세히 설명해 주는 Earth Observatory 의 ‘Image of the Day(오늘의 사진)’ 기사로 가는 링크도 함께 올립니다.",
+  "why": "시간 → 주어·동사 → 장소 → 덧붙이는 것 순으로 길게 이어진다. Image of the Day 는 코너 이름이라 통째로 하나의 이름으로 묶어야 하고, 맨 뒤 that 절은 바로 앞의 story 를 설명한다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|5.1",
+  "en": "We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers.",
+  "s": "We",
+  "v": "’ll recognize",
+  "chunks": [
+   {"en": "We’ll recognize the first person", "ko": "우리는 그 사람을 (이름을 밝혀) 알려 줄 것이다", "r": "주어 + 동사(미래) + 목적어"},
+   {"en": "who correctly guesses the location,", "ko": "그 장소를 정확히 맞힌 첫 번째 사람을", "r": "관계절(앞 person 설명)"},
+   {"en": "and we may also highlight readers", "ko": "그리고 독자들을 함께 소개할 수도 있다", "r": "대등절: 주어 + 동사 + 목적어"},
+   {"en": "who share especially thoughtful or interesting answers.", "ko": "특히 생각이 깊거나 흥미로운 답을 보내 준", "r": "관계절(앞 readers 설명)"}
+  ],
+  "ko": "우리는 그 장소를 정확히 맞힌 첫 번째 사람의 이름을 밝혀 소개할 것입니다. 또 특히 생각이 깊거나 흥미로운 답을 보내 준 독자들을 함께 소개할 수도 있습니다.",
+  "why": "who 로 시작하는 관계절이 두 번 나오는데 각각 바로 앞의 the first person, readers 를 설명한다. recognize 는 '알아보다'보다 '공로를 인정해 이름을 밝히다'에 가깝고, may 는 '그럴 수도 있다'는 뜻이라 will 과 확정 정도가 다르다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|5.2",
+  "en": "By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.",
+  "s": "you",
+  "v": "acknowledge",
+  "chunks": [
+   {"en": "By submitting a response,", "ko": "답변을 보냄으로써", "r": "전치사구(~함으로써)"},
+   {"en": "you acknowledge that", "ko": "당신은 ~라는 데 동의하는 것이 된다", "r": "주어 + 동사 + that절 시작"},
+   {"en": "your comments may be edited,", "ko": "당신의 글이 편집될 수도 있고", "r": "that절의 주어 + 동사(수동태)"},
+   {"en": "excerpted, and published on this page.", "ko": "일부만 발췌되거나 이 페이지에 실릴 수도 있다는", "r": "수동태 나열(may be 가 이어서 걸림)"}
+  ],
+  "ko": "답변을 보내면, 당신의 글이 편집되거나 일부만 발췌되거나 이 페이지에 실릴 수 있다는 데 동의하는 것이 됩니다.",
+  "why": "edited, excerpted, published 세 낱말이 모두 앞의 may be 에 걸리는 수동태다. 편집하고 싣는 쪽은 문장에 나오지 않는다. By -ing 는 '~함으로써'라, 답변을 보내는 그 순간 동의한 것이 된다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|6.0",
+  "en": "Until then, zoom in, look closely, and enjoy the challenge.",
+  "s": "",
+  "v": "zoom in",
+  "chunks": [
+   {"en": "Until then,", "ko": "그때까지는", "r": "시간"},
+   {"en": "zoom in, look closely,", "ko": "확대해 보고, 자세히 들여다보라", "r": "명령문 둘"},
+   {"en": "and enjoy the challenge.", "ko": "그리고 이 문제를 즐기라", "r": "명령문 셋"}
+  ],
+  "ko": "그때까지는 사진을 확대해 보고, 자세히 들여다보고, 이 문제 풀이를 즐겨 보세요.",
+  "why": "주어 없이 동사원형 셋이 나란히 놓인 명령문이다. then 은 앞 문장에서 말한 때, 곧 정답을 올리는 시점을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "e248034c|6.1",
+  "en": "See you at the reveal!",
+  "s": "",
+  "v": "See",
+  "chunks": [
+   {"en": "See you", "ko": "그때 봅시다", "r": "작별 인사(명령문 형태)"},
+   {"en": "at the reveal!", "ko": "정답을 공개할 때", "r": "시점"}
+  ],
+  "ko": "정답을 공개할 때 다시 만나요!",
+  "why": "See you … 는 '~에서 보자'는 작별 인사다. reveal 은 여기서 동사 '드러내다'가 아니라 the 가 붙은 명사로 '(정답) 공개'를 뜻한다.",
+  "st": []
+ }
+]

@@ -1,0 +1,613 @@
+[
+ {
+  "id": "bc8e2a4c|0.0",
+  "en": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa.",
+  "s": "A NASA-funded air pollution monitoring network",
+  "v": "has provided",
+  "chunks": [
+   {"en": "A NASA-funded air pollution monitoring network", "ko": "NASA가 자금을 댄 대기오염 관측망이", "r": "주어(긴 명사구)"},
+   {"en": "has provided one of the most detailed long-term views yet", "ko": "지금까지 나온 것 중 가장 자세한 장기 관측 결과 하나를 내놓았다", "r": "동사 + 목적어"},
+   {"en": "of the role of black carbon,", "ko": "블랙카본이 어떤 역할을 하는지에 대한", "r": "전치사구(무엇에 대한 관측인가)"},
+   {"en": "or soot produced by fires, diesel vehicles, and other combustion sources,", "ko": "곧 화재, 디젤 차량, 그 밖의 연소원에서 나오는 그을음", "r": "동격(black carbon 을 풀어 준 말)"},
+   {"en": "in Ethiopia’s capital, Addis Ababa.", "ko": "에티오피아의 수도 아디스아바바에서", "r": "전치사구(장소) + 동격"}
+  ],
+  "ko": "NASA가 자금을 댄 대기오염 관측망이, 에티오피아 수도 아디스아바바에서 블랙카본(black carbon), 곧 화재와 디젤 차량, 그 밖의 연소원에서 나오는 그을음이 어떤 역할을 하는지에 대해 지금까지 나온 것 중 가장 자세한 장기 관측 결과를 내놓았다.",
+  "why": "주어인 network 앞에 꾸미는 말이 여러 겹(NASA-funded / air pollution / monitoring) 붙어 있고, 동사 has provided 뒤로 of ~ 가 이어지다가 쉼표로 둘러싸인 or soot ~ sources 가 끼어들어 문장이 길게 늘어진다. 여기서 or 는 ‘또는’이 아니라 ‘즉, 다시 말해’로 앞말을 다시 풀어 주는 말(동격)이다. 맨 끝 in ~ 은 관측이 이루어진 곳이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|0.1",
+  "en": "The detailed measurements show how pollution changes by time of day and season, including increases associated with rush-hour traffic and holiday celebrations.",
+  "s": "The detailed measurements",
+  "v": "show",
+  "chunks": [
+   {"en": "The detailed measurements show", "ko": "이 정밀한 측정값들은 보여 준다", "r": "주어 + 동사"},
+   {"en": "how pollution changes", "ko": "오염이 어떻게 달라지는지를", "r": "목적어(명사절)"},
+   {"en": "by time of day and season,", "ko": "하루 중 시간대에 따라, 또 계절에 따라", "r": "전치사구(변화의 기준)"},
+   {"en": "including increases", "ko": "여기에는 오염이 늘어나는 경우도 들어 있다", "r": "전치사구(포함되는 것)"},
+   {"en": "associated with rush-hour traffic and holiday celebrations.", "ko": "출퇴근 혼잡 시간대의 교통, 그리고 명절 행사와 관련된", "r": "과거분사구(앞 increases 설명)"}
+  ],
+  "ko": "이 정밀한 측정값들은 오염이 하루 중 시간대와 계절에 따라 어떻게 달라지는지를 보여 준다. 여기에는 출퇴근 혼잡 시간대의 교통, 그리고 명절 행사와 관련된 오염 증가도 들어 있다.",
+  "why": "show 의 목적어가 명사가 아니라 how 로 시작하는 절(how pollution changes ~)이다. 여기서 how 는 ‘어떻게’라는 뜻이다. 맨 뒤 associated with ~ 는 앞의 increases 를 꾸미는 말(과거분사)이라 또 하나의 동사가 아니다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|0.2",
+  "en": "The findings are relevant to cities around the world, including in the United States.",
+  "s": "The findings",
+  "v": "are",
+  "chunks": [
+   {"en": "The findings are relevant", "ko": "이 연구 결과는 관련이 있다", "r": "주어 + 동사 + 보어"},
+   {"en": "to cities around the world,", "ko": "전 세계의 여러 도시에", "r": "전치사구(관련 대상)"},
+   {"en": "including in the United States.", "ko": "미국에 있는 도시들까지 포함해서", "r": "전치사구(포함되는 곳)"}
+  ],
+  "ko": "이 연구 결과는 미국에 있는 도시들을 포함해 전 세계 여러 도시에 의미가 있다.",
+  "why": "짧지만 relevant to ~ 가 ‘~와 관련이 있다, ~에 해당된다’라는 뜻임을 알아야 한다. 맨 끝 including in the United States 는 앞의 cities 에 붙는 말로, ‘미국에 있는 도시들도 여기 든다’는 뜻이지 미국이라는 나라 자체를 가리키는 것이 아니다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|1.0",
+  "en": "In a new paper published in ES&T: Air , scientists analyzed data collected throughout Addis Ababa between 2022 and 2025 from 10 air-quality monitoring sites deployed by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) project.",
+  "s": "scientists",
+  "v": "analyzed",
+  "chunks": [
+   {"en": "In a new paper published in ES&T: Air ,", "ko": "학술지 ES&T: Air 에 실린 새 논문에서", "r": "전치사구(논문이 실린 곳)"},
+   {"en": "scientists analyzed data", "ko": "과학자들은 자료를 분석했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "collected throughout Addis Ababa between 2022 and 2025", "ko": "2022년부터 2025년까지 아디스아바바 전역에서 수집된", "r": "과거분사구(앞 data 설명)"},
+   {"en": "from 10 air-quality monitoring sites", "ko": "10곳의 대기질 관측 지점에서 얻은", "r": "전치사구(자료의 출처)"},
+   {"en": "deployed by NASA’s Multi-Angle Imager for Aerosols ( MAIA ) project.", "ko": "NASA의 MAIA(다각도 에어로졸 관측기) 사업이 설치한", "r": "과거분사구(앞 sites 설명 · 설치 주체)"}
+  ],
+  "ko": "학술지 ES&T: Air 에 실린 새 논문에서, 과학자들은 2022년부터 2025년까지 아디스아바바 전역에서 수집된 자료를 분석했다. 그 자료는 NASA의 다각도 에어로졸 관측기(Multi-Angle Imager for Aerosols, MAIA) 사업이 설치한 10곳의 대기질 관측 지점에서 나온 것이다.",
+  "why": "동사처럼 보이는 말이 published, analyzed, collected, deployed 넷이나 되지만 문장의 진짜 동사는 analyzed 하나뿐이다. published 는 앞의 paper 를, collected 는 data 를, deployed 는 sites 를 각각 꾸미는 과거분사다. 뼈대는 ‘scientists analyzed data’ 이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|2.0",
+  "en": "The research comes as Ethiopia is taking steps aimed at improving air quality.",
+  "s": "The research",
+  "v": "comes",
+  "chunks": [
+   {"en": "The research comes", "ko": "이 연구는 나온 것이다", "r": "주어 + 동사"},
+   {"en": "as Ethiopia is taking steps", "ko": "에티오피아가 조치를 취하고 있는 가운데", "r": "부사절(~하는 가운데)"},
+   {"en": "aimed at improving air quality.", "ko": "대기질을 개선하는 것을 겨냥한", "r": "과거분사구(앞 steps 설명)"}
+  ],
+  "ko": "이 연구는 에티오피아가 대기질을 개선하려는 조치를 취하고 있는 가운데 나온 것이다.",
+  "why": "comes as ~ 는 ‘~하는 때에 맞춰 나왔다’라는 기사 특유의 표현으로 ‘오다’가 아니다. 여기 as 도 ‘~로서’가 아니라 ‘~하는 가운데’다. 끝의 aimed at ~ 은 steps 를 꾸미는 말(과거분사)이라 ‘~을 겨냥한 조치’라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|2.1",
+  "en": "In 2024, the country became the first in the world to ban the import of internal combustion engine vehicles, while cities have been adding bike lanes and electric vehicle infrastructure.",
+  "s": "the country",
+  "v": "became",
+  "chunks": [
+   {"en": "In 2024,", "ko": "2024년에", "r": "시간"},
+   {"en": "the country became the first in the world", "ko": "이 나라는 세계에서 첫 번째 나라가 되었다", "r": "주어 + 동사 + 보어"},
+   {"en": "to ban the import of internal combustion engine vehicles,", "ko": "내연기관 차량의 수입을 금지한", "r": "to부정사구(앞 the first 설명)"},
+   {"en": "while cities have been adding", "ko": "한편 도시들은 늘려 오고 있다", "r": "대등절(한편 ~)"},
+   {"en": "bike lanes and electric vehicle infrastructure.", "ko": "자전거 도로와 전기차 기반 시설을", "r": "목적어"}
+  ],
+  "ko": "2024년에 이 나라(에티오피아)는 내연기관 차량의 수입을 금지한 세계 최초의 나라가 되었고, 한편 도시들은 자전거 도로와 전기차 기반 시설을 늘려 오고 있다.",
+  "why": "the first in the world to ban ~ 은 ‘~을 금지한 세계 최초(의 나라)’라는 뜻으로, to ban 은 목적이 아니라 앞의 the first 를 설명하는 말이다. while 은 여기서 앞뒤를 나란히 견주는 ‘한편’이다. internal combustion engine vehicles 는 ‘내연기관 차량’, 곧 휘발유·경유차다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|2.2",
+  "en": "The MAIA project’s measurements provide researchers with a baseline for understanding how air quality changes over time as Addis Ababa continues to grow and evolve.",
+  "s": "The MAIA project’s measurements",
+  "v": "provide",
+  "chunks": [
+   {"en": "The MAIA project’s measurements provide researchers", "ko": "MAIA 사업의 측정값은 연구자들에게 준다", "r": "주어 + 동사 + 받는 쪽"},
+   {"en": "with a baseline for understanding", "ko": "이해하는 데 쓸 기준점을", "r": "전치사구(주는 것)"},
+   {"en": "how air quality changes over time", "ko": "대기질이 시간이 지나면서 어떻게 달라지는지를", "r": "명사절(무엇을 이해하는가)"},
+   {"en": "as Addis Ababa continues to grow and evolve.", "ko": "아디스아바바가 계속 커지고 변해 가는 가운데", "r": "부사절(~해 감에 따라)"}
+  ],
+  "ko": "MAIA 사업의 측정값은, 아디스아바바가 계속 커지고 변해 가는 가운데 대기질이 시간이 지나면서 어떻게 달라지는지를 이해할 기준점을 연구자들에게 제공한다.",
+  "why": "provide A with B 는 ‘A에게 B를 제공하다’라는 짜임이라 받는 쪽은 researchers 이고 주는 것은 a baseline 이다. baseline 은 나중에 견주어 볼 ‘기준점’이다. 끝의 as 는 ‘~로서’가 아니라 ‘~해 감에 따라’다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|3.0",
+  "en": "The study focuses on particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5.",
+  "s": "The study",
+  "v": "focuses",
+  "chunks": [
+   {"en": "The study focuses on particulate matter", "ko": "이 연구는 입자물질에 초점을 맞춘다", "r": "주어 + 동사 + 전치사구(목적어 구실)"},
+   {"en": "that is 2.5 micrometers or less in diameter,", "ko": "지름이 2.5마이크로미터이거나 그보다 작은", "r": "관계절(앞 particulate matter 설명)"},
+   {"en": "also known as PM2.5.", "ko": "PM2.5라고도 불리는", "r": "과거분사구(같은 것의 다른 이름)"}
+  ],
+  "ko": "이 연구는 지름이 2.5마이크로미터 이하인 입자물질, 곧 PM2.5라고도 불리는 것에 초점을 맞춘다.",
+  "why": "that is ~ in diameter 는 앞의 particulate matter 가 어떤 것인지 좁혀 주는 관계절이다. or less 는 ‘또는 그보다 작은’, 곧 ‘이하’라는 뜻이다. 맨 끝 also known as PM2.5 는 그것을 부르는 다른 이름을 알려 주는 말이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|3.1",
+  "en": "The 2025 State of Global Air Report, cited in the paper, estimates that exposure to PM2.5 is associated with approximately 4.9 million deaths globally each year.",
+  "s": "The 2025 State of Global Air Report",
+  "v": "estimates",
+  "chunks": [
+   {"en": "The 2025 State of Global Air Report,", "ko": "2025년 세계 대기 현황 보고서는", "r": "주어(보고서 이름)"},
+   {"en": "cited in the paper,", "ko": "그 논문에 인용된", "r": "과거분사구(앞 보고서 설명)"},
+   {"en": "estimates that exposure to PM2.5", "ko": "PM2.5에 노출되는 것이 ~라고 추정한다", "r": "동사 + 목적절의 주어"},
+   {"en": "is associated with approximately 4.9 million deaths", "ko": "약 490만 명의 사망과 관련이 있다고", "r": "목적절의 동사(수동) + 관련 대상"},
+   {"en": "globally each year.", "ko": "전 세계에서 해마다", "r": "부사(범위 + 빈도)"}
+  ],
+  "ko": "논문에 인용된 2025년 세계 대기 현황 보고서(The 2025 State of Global Air Report)는, PM2.5에 노출되는 것이 전 세계에서 해마다 약 490만 명의 사망과 관련이 있다고 추정한다.",
+  "why": "주어(보고서 이름)와 동사 estimates 사이에 쉼표로 둘러싸인 cited in the paper 가 끼어들어 있다. cited 는 동사가 아니라 앞 보고서를 꾸미는 과거분사고, 진짜 동사는 estimates 다. is associated with ~ 는 ‘~와 관련이 있다’이지 ‘~를 일으킨다’는 단정이 아니다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|3.2",
+  "en": "Among the many kinds of PM2.5, black carbon has been has been studied for its potential effects on human health.",
+  "s": "black carbon",
+  "v": "has been studied",
+  "chunks": [
+   {"en": "Among the many kinds of PM2.5,", "ko": "PM2.5의 여러 종류 가운데", "r": "전치사구(범위)"},
+   {"en": "black carbon has been has been studied", "ko": "블랙카본은 연구되어 왔다", "r": "주어 + 동사(수동태 · 현재완료)"},
+   {"en": "for its potential effects on human health.", "ko": "사람 건강에 미칠 수 있는 영향 때문에", "r": "전치사구(연구된 이유)"}
+  ],
+  "ko": "PM2.5의 여러 종류 가운데 블랙카본(black carbon)은 사람 건강에 미칠 수 있는 영향 때문에 연구되어 왔다.",
+  "why": "has been studied 는 수동태(당하는 형태)라 ‘연구했다’가 아니라 ‘연구되어 왔다’이고, 연구한 사람은 문장에 나오지 않는다. 원문에 has been 이 두 번 겹쳐 찍힌 것은 기사 쪽 오타다. its 는 black carbon 을 가리키고, potential 은 ‘아직 확실하지는 않은, 그럴 가능성이 있는’이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|4.0",
+  "en": "The paper found that Addis Ababa’s three-year average PM2.5 concentration was 30 micrograms per cubic meter, which is more than three times the level of the U.S.",
+  "s": "The paper",
+  "v": "found",
+  "chunks": [
+   {"en": "The paper found that", "ko": "그 논문은 ~라는 것을 밝혀냈다", "r": "주어 + 동사 + 접속사"},
+   {"en": "Addis Ababa’s three-year average PM2.5 concentration", "ko": "아디스아바바의 3년 평균 PM2.5 농도가", "r": "목적절의 주어(긴 명사구)"},
+   {"en": "was 30 micrograms per cubic meter,", "ko": "세제곱미터당 30마이크로그램이었다는", "r": "목적절의 동사 + 보어"},
+   {"en": "which is more than three times the level of the U.S.", "ko": "그리고 그것은 미국 ~ 수준의 세 배가 넘는다", "r": "관계절(앞 수치 설명)"}
+  ],
+  "ko": "그 논문은 아디스아바바의 3년 평균 PM2.5 농도가 세제곱미터당 30마이크로그램으로, 미국의 ~ 수준보다 세 배 넘게 높다는 것을 밝혀냈다. (문장이 the U.S. 에서 끊겨 있어 무엇의 수준인지는 바로 다음 문장으로 이어진다.)",
+  "why": "the U.S. 의 마침표를 문장 끝으로 잘못 본 탓에 문장이 여기서 잘렸고, 실제 내용은 다음 문장(Environmental Protection Agency’s ~ standard)까지 이어진다. which 는 바로 앞의 ‘세제곱미터당 30마이크로그램’이라는 수치를 받는다. three times the level of A 는 ‘A의 세 배’다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|4.1",
+  "en": "Environmental Protection Agency’s health-based annual PM2.5 standard .",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Environmental Protection Agency’s", "ko": "환경보호청의", "r": "소유격(어느 기관의 것인가)"},
+   {"en": "health-based annual PM2.5 standard .", "ko": "건강을 근거로 정한 연평균 PM2.5 기준치", "r": "명사구"}
+  ],
+  "ko": "(미국) 환경보호청(Environmental Protection Agency)이 건강을 근거로 정한 연평균 PM2.5 기준치.",
+  "why": "앞 문장 끝의 the U.S. 에서 잘려 나온 토막이라 주어도 동사도 없다. 앞 문장과 이어 붙여 ‘the U.S. Environmental Protection Agency’s health-based annual PM2.5 standard’(미국 환경보호청의 건강 기준 연평균 PM2.5 기준치)로 읽어야 뜻이 통한다. health-based 는 ‘건강에 미치는 영향을 근거로 삼은’이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|4.2",
+  "en": "The new paper cites data from MAIA’s ground sensors indicating that average black carbon levels in Addis Ababa were approximately four to nine times higher than those measured in the three U.S. metropolitan areas the mission is monitoring.",
+  "s": "The new paper",
+  "v": "cites",
+  "chunks": [
+   {"en": "The new paper cites data", "ko": "그 새 논문은 자료를 인용한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from MAIA’s ground sensors", "ko": "MAIA의 지상 센서에서 나온", "r": "전치사구(자료의 출처)"},
+   {"en": "indicating that average black carbon levels in Addis Ababa", "ko": "그 자료가 보여 주기를, 아디스아바바의 평균 블랙카본 농도는", "r": "현재분사구(앞 data 설명) + 그 절의 주어"},
+   {"en": "were approximately four to nine times higher", "ko": "약 4배에서 9배까지 더 높았다", "r": "동사 + 보어(비교)"},
+   {"en": "than those measured in the three U.S. metropolitan areas", "ko": "미국의 세 대도시권에서 측정된 값보다", "r": "비교 대상"},
+   {"en": "the mission is monitoring.", "ko": "이 임무가 관측하고 있는", "r": "관계절(앞 세 대도시권 설명)"}
+  ],
+  "ko": "그 새 논문은 MAIA의 지상 센서에서 나온 자료를 인용하는데, 그 자료에 따르면 아디스아바바의 평균 블랙카본 농도는 이 임무가 관측하고 있는 미국 세 대도시권에서 측정된 값보다 약 4~9배 높았다.",
+  "why": "indicating 은 앞의 data 를 꾸미는 말(현재분사)이라 ‘그 자료가 ~을 보여 준다’는 뜻이고, 문장의 동사는 cites 하나다. those 는 ‘그 사람들’이 아니라 black carbon levels(농도 수치)를 대신 받는 말이다. 맨 끝 the mission is monitoring 앞에는 관계대명사 that 이 생략돼 있다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|5.0",
+  "en": "“To our knowledge, this is the first long-term, multisite study of continuous PM2.5 and black carbon measurements in Ethiopia,” said Sina Hasheminassab, a coauthor of the paper and MAIA’s deputy principal investigator at NASA’s Jet Propulsion Laboratory in Southern California.",
+  "s": "this",
+  "v": "is",
+  "chunks": [
+   {"en": "“To our knowledge,", "ko": "우리가 아는 한", "r": "삽입구(말의 세기를 낮추는 표현)"},
+   {"en": "this is the first long-term, multisite study", "ko": "이것은 여러 지점에서 장기간에 걸쳐 한 최초의 연구입니다", "r": "주어 + 동사 + 보어"},
+   {"en": "of continuous PM2.5 and black carbon measurements", "ko": "PM2.5와 블랙카본을 끊이지 않고 측정한 것에 대한", "r": "전치사구(무엇에 대한 연구인가)"},
+   {"en": "in Ethiopia,”", "ko": "에티오피아에서", "r": "전치사구(장소) + 인용 끝"},
+   {"en": "said Sina Hasheminassab,", "ko": "시나 하셰미나사브가 말했다", "r": "인용 동사 + 말한 사람"},
+   {"en": "a coauthor of the paper", "ko": "그 논문의 공저자이자", "r": "동격(말한 사람 설명)"},
+   {"en": "and MAIA’s deputy principal investigator", "ko": "MAIA의 부수석연구책임자인", "r": "동격(이어지는 직함)"},
+   {"en": "at NASA’s Jet Propulsion Laboratory in Southern California.", "ko": "남캘리포니아에 있는 NASA 제트추진연구소의", "r": "전치사구(소속 기관 · 소재지)"}
+  ],
+  "ko": "“우리가 아는 한, 이것은 에티오피아에서 PM2.5와 블랙카본을 끊이지 않고 측정한 자료를 여러 지점에서 장기간에 걸쳐 다룬 최초의 연구입니다.” 남캘리포니아에 있는 NASA 제트추진연구소(Jet Propulsion Laboratory)의 MAIA 부수석연구책임자이자 이 논문의 공저자인 시나 하셰미나사브(Sina Hasheminassab)의 말이다.",
+  "why": "인용문이 먼저 나오고 said + 말한 사람이 뒤에 오는 도치 짜임이다. 사람 이름 뒤 쉼표부터 끝까지는 그가 누구인지 밝히는 말(동격)이라 새 문장이 아니다. To our knowledge 는 ‘우리가 아는 한’이라는 조심스러운 표현이라, first(최초)라는 말도 그만큼 한정된다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|5.1",
+  "en": "“Many rapidly growing cities have limited long-term monitoring, so these measurements provide an important baseline for understanding how pollution changes across space and time.”",
+  "s": "Many rapidly growing cities",
+  "v": "have",
+  "chunks": [
+   {"en": "“Many rapidly growing cities", "ko": "빠르게 커지고 있는 많은 도시들은", "r": "주어"},
+   {"en": "have limited long-term monitoring,", "ko": "장기 관측 자료가 얼마 없습니다", "r": "동사 + 목적어"},
+   {"en": "so these measurements provide an important baseline", "ko": "그래서 이번 측정값은 중요한 기준점이 됩니다", "r": "대등절(그래서 ~)"},
+   {"en": "for understanding how pollution changes", "ko": "오염이 어떻게 달라지는지를 이해하는 데 쓸", "r": "전치사구(무엇을 위한 기준점인가)"},
+   {"en": "across space and time.”", "ko": "장소에 따라, 또 시간에 따라", "r": "전치사구(변화의 범위)"}
+  ],
+  "ko": "“빠르게 커지고 있는 많은 도시들은 장기 관측 자료가 얼마 없습니다. 그래서 이번 측정값은 오염이 장소와 시간에 따라 어떻게 달라지는지를 이해하는 데 중요한 기준점이 됩니다.”",
+  "why": "have limited ~ 의 limited 는 ‘제한했다’라는 동사가 아니라 ‘얼마 안 되는, 부족한’이라는 형용사다. 그래서 ‘도시들이 관측을 제한했다’가 아니라 ‘도시들에는 장기 관측 자료가 부족하다’는 뜻이고, 문장의 동사는 have 다. so 는 ‘그래서’로 앞이 이유, 뒤가 결과다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|6.0",
+  "en": "The composition and sources of PM2.5 can differ substantially between cities, depending on their local geography, traffic, industries, and more.",
+  "s": "The composition and sources of PM2.5",
+  "v": "can differ",
+  "chunks": [
+   {"en": "The composition and sources of PM2.5", "ko": "PM2.5의 구성 성분과 발생원은", "r": "주어(둘을 묶은 명사구)"},
+   {"en": "can differ substantially between cities,", "ko": "도시마다 크게 다를 수 있다", "r": "동사 + 부사 + 전치사구"},
+   {"en": "depending on their local geography, traffic, industries, and more.", "ko": "그 도시의 지형, 교통, 산업 등에 따라", "r": "분사구문(무엇에 따라 달라지는가)"}
+  ],
+  "ko": "PM2.5의 구성 성분과 발생원은 그 도시의 지형, 교통, 산업 등에 따라 도시마다 크게 다를 수 있다.",
+  "why": "주어가 The composition and sources 로 둘이고 그 뒤에 of PM2.5 가 붙어 길다. depending on ~ 은 ‘~에 따라’라는 뜻의 분사구문이지 새 동사가 아니다. their 는 앞의 cities 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|6.1",
+  "en": "Desert cities, for example, may have more dust, while those near coal-fired power plants may have higher concentrations of sulfate.",
+  "s": "Desert cities",
+  "v": "may have",
+  "chunks": [
+   {"en": "Desert cities, for example,", "ko": "예를 들어 사막에 있는 도시들은", "r": "주어 + 삽입구"},
+   {"en": "may have more dust,", "ko": "먼지가 더 많을 수 있다", "r": "동사 + 목적어"},
+   {"en": "while those near coal-fired power plants", "ko": "한편 석탄화력발전소 가까이에 있는 도시들은", "r": "대등절 접속사 + 주어"},
+   {"en": "may have higher concentrations of sulfate.", "ko": "황산염 농도가 더 높을 수 있다", "r": "동사 + 목적어"}
+  ],
+  "ko": "예를 들어 사막에 있는 도시는 먼지가 더 많을 수 있고, 한편 석탄화력발전소 가까이에 있는 도시는 황산염 농도가 더 높을 수 있다.",
+  "why": "those 는 ‘그 사람들’이 아니라 앞의 cities 를 대신 받는 말이라, those near ~ plants 는 ‘~ 가까이에 있는 도시들’이라는 뜻이다. while 은 ‘~하는 동안’이 아니라 앞뒤를 견주는 ‘한편’이다. coal-fired 는 ‘석탄을 때는’이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|6.2",
+  "en": "Long-term surface measurements remain limited in many parts of the world.",
+  "s": "Long-term surface measurements",
+  "v": "remain",
+  "chunks": [
+   {"en": "Long-term surface measurements remain limited", "ko": "지상에서 장기간 하는 측정은 여전히 부족하다", "r": "주어 + 동사 + 보어"},
+   {"en": "in many parts of the world.", "ko": "세계의 많은 지역에서", "r": "전치사구(장소)"}
+  ],
+  "ko": "땅 위에서 장기간에 걸쳐 이루어지는 측정은 세계 여러 지역에서 여전히 부족하다.",
+  "why": "remain 은 ‘남다’가 아니라 뒤에 형용사를 데리고 ‘여전히 ~인 상태다’라는 뜻으로 쓰였다. limited 는 ‘제한된’보다 ‘얼마 없는, 부족한’에 가깝다. surface 는 인공위성이 아니라 땅 위에서 잰다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|7.0",
+  "en": "NASA is supporting MAIA’s air pollution research in a dozen metropolitan areas around the globe, including three in the U.S.: Los Angeles, Atlanta, and Boston.",
+  "s": "NASA",
+  "v": "is supporting",
+  "chunks": [
+   {"en": "NASA is supporting MAIA’s air pollution research", "ko": "NASA는 MAIA의 대기오염 연구를 지원하고 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "in a dozen metropolitan areas around the globe,", "ko": "전 세계 열두 곳의 대도시권에서", "r": "전치사구(장소 · 범위)"},
+   {"en": "including three in the U.S.:", "ko": "그중 셋은 미국에 있는데", "r": "전치사구(포함되는 것)"},
+   {"en": "Los Angeles, Atlanta, and Boston.", "ko": "로스앤젤레스, 애틀랜타, 보스턴이다", "r": "나열(그 셋의 이름)"}
+  ],
+  "ko": "NASA는 전 세계 열두 곳의 대도시권에서 MAIA의 대기오염 연구를 지원하고 있으며, 그중 셋은 미국의 로스앤젤레스, 애틀랜타, 보스턴이다.",
+  "why": "a dozen 은 ‘열둘’이다. including three in the U.S. 는 그 열두 곳 가운데 셋이 미국에 있다는 말이지, 미국에 셋을 더한다는 뜻이 아니다. 콜론(:) 뒤는 그 셋의 이름을 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|7.1",
+  "en": "The mission consists of a ground-based network of sensors already in operation as well as a space observatory, which uses a JPL-built camera that will be launched by the Italian Space Agency (ASI) on an ASI satellite no earlier than late 2027.",
+  "s": "The mission",
+  "v": "consists",
+  "chunks": [
+   {"en": "The mission consists of", "ko": "이 임무는 ~로 이루어진다", "r": "주어 + 동사"},
+   {"en": "a ground-based network of sensors already in operation", "ko": "이미 가동 중인 지상 센서망", "r": "구성 요소 1"},
+   {"en": "as well as a space observatory,", "ko": "그리고 우주 관측 장비까지", "r": "구성 요소 2"},
+   {"en": "which uses a JPL-built camera", "ko": "그 우주 관측 장비는 JPL이 만든 카메라를 쓰는데", "r": "관계절(앞 우주 관측 장비 설명)"},
+   {"en": "that will be launched by the Italian Space Agency (ASI)", "ko": "그 카메라는 이탈리아우주국(ASI)이 발사할 예정이다", "r": "관계절(앞 카메라 설명 · 발사 주체)"},
+   {"en": "on an ASI satellite no earlier than late 2027.", "ko": "ASI 위성에 실어, 빨라야 2027년 말에", "r": "전치사구(어디에 실려) + 시기"}
+  ],
+  "ko": "이 임무는 이미 가동 중인 지상 센서망과 우주 관측 장비로 이루어진다. 우주 관측 장비에는 JPL(제트추진연구소)이 만든 카메라가 쓰이는데, 이 카메라는 빨라야 2027년 말에 이탈리아우주국(ASI)이 ASI 위성에 실어 발사할 예정이다.",
+  "why": "consists of A as well as B 는 ‘A뿐 아니라 B로도 이루어진다’라는 뜻이라 이 임무는 두 부분(지상 센서망 + 우주 관측 장비)이다. which 는 space observatory 를, that 은 camera 를 받는다. no earlier than late 2027 은 ‘2027년 말보다 이르지는 않게’, 곧 ‘빨라야 2027년 말’이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|8.0",
+  "en": "The camera is designed to identify different types of PM2.5 aerosols based on how they reflect light, making it possible to map particle concentrations over each city that the mission studies.",
+  "s": "The camera",
+  "v": "is designed",
+  "chunks": [
+   {"en": "The camera is designed to identify", "ko": "이 카메라는 가려내도록 설계되어 있다", "r": "주어 + 동사(수동) + to부정사"},
+   {"en": "different types of PM2.5 aerosols", "ko": "여러 종류의 PM2.5 에어로졸을", "r": "목적어"},
+   {"en": "based on how they reflect light,", "ko": "그 입자들이 빛을 어떻게 반사하는지를 근거로", "r": "전치사구(가려내는 근거)"},
+   {"en": "making it possible to map particle concentrations", "ko": "그 덕분에 입자 농도를 지도로 그릴 수 있게 된다", "r": "분사구문(그 결과)"},
+   {"en": "over each city that the mission studies.", "ko": "이 임무가 연구하는 도시마다 그 위에", "r": "전치사구(범위) + 관계절"}
+  ],
+  "ko": "이 카메라는 PM2.5 에어로졸이 빛을 어떻게 반사하는지를 근거로 그 종류를 가려내도록 설계되어 있다. 그 덕분에 이 임무가 연구하는 도시마다 입자 농도를 지도로 그릴 수 있게 된다.",
+  "why": "is designed to ~ 는 ‘~하도록 설계되었다’는 수동태로, 설계한 사람은 문장에 나오지 않는다. they 는 앞의 PM2.5 aerosols 를 가리킨다. making 앞의 쉼표부터는 앞 내용 전체의 결과를 말하는 분사구문이고, it 은 뒤의 to map ~ 을 미리 받는 가짜 목적어다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|8.1",
+  "en": "Mounted on a gimbal, the camera captures data from multiple angles using JPL-pioneered technologies that make particles stand out more prominently against the surface background to provide valuable information about their shape and size.",
+  "s": "the camera",
+  "v": "captures",
+  "chunks": [
+   {"en": "Mounted on a gimbal,", "ko": "짐벌(방향을 돌려 주는 받침대)에 얹힌 채", "r": "분사구문(주어의 상태)"},
+   {"en": "the camera captures data from multiple angles", "ko": "이 카메라는 여러 각도에서 자료를 얻는다", "r": "주어 + 동사 + 목적어"},
+   {"en": "using JPL-pioneered technologies", "ko": "JPL이 처음 개척한 기술을 써서", "r": "분사구문(수단)"},
+   {"en": "that make particles stand out more prominently", "ko": "그 기술은 입자들이 더 뚜렷하게 드러나게 만든다", "r": "관계절(앞 기술 설명)"},
+   {"en": "against the surface background", "ko": "지표면 배경 위에서", "r": "전치사구(무엇을 배경으로)"},
+   {"en": "to provide valuable information about their shape and size.", "ko": "입자의 모양과 크기에 관한 값진 정보를 주기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "짐벌(gimbal, 방향을 자유롭게 돌려 주는 받침대)에 얹힌 이 카메라는 여러 각도에서 자료를 얻는다. 이때 JPL이 처음 개척한 기술을 쓰는데, 그 기술은 지표면 배경 위에서 입자들이 더 뚜렷하게 드러나게 만들어 입자의 모양과 크기에 관한 값진 정보를 준다.",
+  "why": "맨 앞 Mounted on a gimbal 은 주어(the camera)의 상태를 앞세운 분사구문이라 ‘짐벌에 얹힌 채로’라는 뜻이지 새 문장이 아니다. that 은 technologies 를 받고, make particles stand out 은 ‘입자들이 두드러지게 만든다’는 짜임이다. their 는 particles 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|9.0",
+  "en": "The MAIA mission is the first NASA project to include public health researchers among a space mission’s team.",
+  "s": "The MAIA mission",
+  "v": "is",
+  "chunks": [
+   {"en": "The MAIA mission is the first NASA project", "ko": "MAIA 임무는 최초의 NASA 사업이다", "r": "주어 + 동사 + 보어"},
+   {"en": "to include public health researchers", "ko": "공중보건 연구자를 포함시킨", "r": "to부정사구(앞 the first ~ project 설명)"},
+   {"en": "among a space mission’s team.", "ko": "우주 임무 연구진 안에", "r": "전치사구(어디에 넣는가)"}
+  ],
+  "ko": "MAIA 임무는 우주 임무 연구진 안에 공중보건 연구자를 포함시킨 최초의 NASA 사업이다.",
+  "why": "the first NASA project to include ~ 는 ‘~을 포함시킨 최초의 NASA 사업’이라는 뜻으로, to include 는 목적이 아니라 앞의 the first ~ project 를 설명하는 말이다. public health researchers 는 우주가 아니라 사람들의 건강을 연구하는 사람들이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|9.1",
+  "en": "These researchers will use MAIA’s PM2.5 concentration maps alongside health data to study potential relationships between different particle types and health outcomes.",
+  "s": "These researchers",
+  "v": "will use",
+  "chunks": [
+   {"en": "These researchers will use", "ko": "이 연구자들은 ~을 쓸 것이다", "r": "주어 + 동사(미래)"},
+   {"en": "MAIA’s PM2.5 concentration maps", "ko": "MAIA의 PM2.5 농도 지도를", "r": "목적어"},
+   {"en": "alongside health data", "ko": "건강 자료와 함께", "r": "전치사구(같이 쓰는 것)"},
+   {"en": "to study potential relationships", "ko": "있을 수 있는 관계를 연구하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "between different particle types and health outcomes.", "ko": "서로 다른 입자 종류와 건강 결과 사이의", "r": "전치사구(무엇과 무엇 사이인가)"}
+  ],
+  "ko": "이 연구자들은 MAIA의 PM2.5 농도 지도를 건강 자료와 함께 써서, 서로 다른 입자 종류와 건강 결과 사이에 어떤 관계가 있을 수 있는지를 연구할 것이다.",
+  "why": "These researchers 는 앞 문장에 나온 공중보건 연구자들을 받는다. alongside 는 ‘~ 옆에’라는 자리보다 ‘~와 함께, ~와 나란히’라는 뜻으로 쓰였다. potential relationships 는 아직 밝혀진 관계가 아니라 ‘있을 수 있는 관계’다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|9.2",
+  "en": "By developing a better understanding of particulate matter pollution, researchers can potentially advance how air quality is studied and managed.",
+  "s": "researchers",
+  "v": "can potentially advance",
+  "chunks": [
+   {"en": "By developing a better understanding", "ko": "더 잘 이해하게 됨으로써", "r": "전치사구(수단)"},
+   {"en": "of particulate matter pollution,", "ko": "입자물질 오염을", "r": "전치사구(무엇에 대한 이해인가)"},
+   {"en": "researchers can potentially advance", "ko": "연구자들은 ~을 한 단계 끌어올릴 수 있을지도 모른다", "r": "주어 + 동사"},
+   {"en": "how air quality is studied and managed.", "ko": "대기질이 연구되고 관리되는 방식을", "r": "목적어(명사절)"}
+  ],
+  "ko": "입자물질 오염을 더 잘 이해하게 됨으로써, 연구자들은 대기질을 연구하고 관리하는 방식을 한 단계 끌어올릴 수 있을지도 모른다.",
+  "why": "맨 앞 By -ing 는 ‘~함으로써’라는 수단이고, 진짜 주어는 쉼표 뒤의 researchers 다. advance 는 ‘앞으로 나아가다’가 아니라 ‘~을 발전시키다’라는 타동사로 쓰였고 그 목적어는 how ~ 절이다. is studied and managed 는 수동태라 ‘연구되고 관리되는’이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|10.0",
+  "en": "“This paper shows how valuable the air sensor data is on its own, but combining the sensor network and satellite observations will be a game-changer,” said, Kyan Shlipak, the paper’s lead author, who worked on the research while interning at JPL.",
+  "s": "This paper",
+  "v": "shows",
+  "chunks": [
+   {"en": "“This paper shows", "ko": "이 논문은 보여 줍니다", "r": "주어 + 동사"},
+   {"en": "how valuable the air sensor data is on its own,", "ko": "대기 센서 자료가 그것만으로도 얼마나 값진지를", "r": "목적어(명사절)"},
+   {"en": "but combining the sensor network and satellite observations", "ko": "하지만 센서망과 위성 관측을 합치는 것은", "r": "대등절 + 주어(동명사구)"},
+   {"en": "will be a game-changer,”", "ko": "판도를 바꿔 놓을 것입니다", "r": "동사 + 보어"},
+   {"en": "said, Kyan Shlipak,", "ko": "카이안 슐리팩이 말했다", "r": "인용 동사 + 말한 사람"},
+   {"en": "the paper’s lead author,", "ko": "그 논문의 제1저자이자", "r": "동격(말한 사람 설명)"},
+   {"en": "who worked on the research while interning at JPL.", "ko": "JPL에서 인턴으로 일하며 이 연구에 참여한 사람", "r": "관계절(앞 사람 설명)"}
+  ],
+  "ko": "“이 논문은 대기 센서 자료가 그것만으로도 얼마나 값진지를 보여 줍니다. 하지만 센서망과 위성 관측을 합치면 판도가 바뀔 것입니다.” JPL에서 인턴으로 일하며 이 연구에 참여한 논문 제1저자 카이안 슐리팩(Kyan Shlipak)의 말이다.",
+  "why": "how valuable the air sensor data is 는 ‘그 자료가 얼마나 값진지’라는 뜻으로, 형용사(valuable)가 how 뒤로 끌려 나온 어순이다. but 뒤의 주어는 combining ~ (합치는 것)이라는 동명사구다. game-changer 는 ‘판도를 바꾸는 것’이라는 관용 표현이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|11.0",
+  "en": "The greater Addis Ababa urban area is home to nearly 6 million people, and according to United Nations projections, that figure is expected to surpass 10 million by 2050.",
+  "s": "The greater Addis Ababa urban area",
+  "v": "is",
+  "chunks": [
+   {"en": "The greater Addis Ababa urban area", "ko": "아디스아바바 대도시권에는", "r": "주어"},
+   {"en": "is home to nearly 6 million people,", "ko": "600만 명 가까운 사람이 살고 있다", "r": "동사 + 보어"},
+   {"en": "and according to United Nations projections,", "ko": "그리고 유엔의 전망에 따르면", "r": "대등절 + 전치사구(출처)"},
+   {"en": "that figure is expected to surpass 10 million", "ko": "그 숫자는 1,000만 명을 넘어설 것으로 보인다", "r": "주어 + 동사(수동) + 목적"},
+   {"en": "by 2050.", "ko": "2050년까지", "r": "시간"}
+  ],
+  "ko": "아디스아바바 대도시권에는 600만 명에 가까운 사람이 살고 있으며, 유엔(United Nations)의 전망에 따르면 이 숫자는 2050년까지 1,000만 명을 넘어설 것으로 보인다.",
+  "why": "be home to ~ 는 ‘~가 살고 있다, ~를 품고 있다’라는 표현이지 ‘집’을 말하는 것이 아니다. greater + 도시 이름 + urban area 는 그 도시와 둘레를 합친 ‘대도시권’이다. is expected to ~ 는 수동태라 ‘~할 것으로 예상된다’이고, 그렇게 내다본 쪽은 앞의 유엔 전망이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|12.0",
+  "en": "“It’s a cosmopolitan city with many international communities,” said Araya Asfaw of Addis Ababa University, a coauthor of the paper and the MAIA project’s lead Ethiopian collaborator.",
+  "s": "It",
+  "v": "’s",
+  "chunks": [
+   {"en": "“It’s a cosmopolitan city", "ko": "이곳은 국제적인 도시입니다", "r": "주어 + 동사 + 보어"},
+   {"en": "with many international communities,”", "ko": "여러 나라 사람들의 공동체가 많은", "r": "전치사구(어떤 도시인가)"},
+   {"en": "said Araya Asfaw of Addis Ababa University,", "ko": "아디스아바바대학교의 아라야 아스파우가 말했다", "r": "인용 동사 + 말한 사람 + 소속"},
+   {"en": "a coauthor of the paper", "ko": "그 논문의 공저자이자", "r": "동격(말한 사람 설명)"},
+   {"en": "and the MAIA project’s lead Ethiopian collaborator.", "ko": "MAIA 사업의 에티오피아 측 대표 협력자인", "r": "동격(이어지는 자격)"}
+  ],
+  "ko": "“이곳은 여러 나라 사람들의 공동체가 많은 국제적인 도시입니다.” 아디스아바바대학교(Addis Ababa University)의 아라야 아스파우(Araya Asfaw)가 한 말이다. 그는 이 논문의 공저자이자 MAIA 사업의 에티오피아 측 대표 협력자다.",
+  "why": "It 은 앞에서 이야기해 온 아디스아바바를 가리킨다. 사람 이름 뒤 쉼표부터 끝까지는 그가 누구인지 밝히는 말(동격)이고, and 로 이어져 있어도 두 사람이 아니라 한 사람의 두 가지 자격이다. cosmopolitan 은 ‘여러 나라 사람과 문화가 섞인’이라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|12.1",
+  "en": "“Think of it as Africa’s version of Brussels, where the European Union is based.”",
+  "s": "",
+  "v": "Think",
+  "chunks": [
+   {"en": "“Think of it as Africa’s version of Brussels,", "ko": "이곳을 아프리카판 브뤼셀이라고 생각해 보세요", "r": "동사(명령문) + 목적어 + 비유"},
+   {"en": "where the European Union is based.”", "ko": "브뤼셀은 유럽연합 본부가 자리 잡은 곳입니다", "r": "관계절(앞 Brussels 설명)"}
+  ],
+  "ko": "“이 도시를 아프리카판 브뤼셀이라고 생각하시면 됩니다. 브뤼셀은 유럽연합(European Union) 본부가 자리 잡은 곳이지요.”",
+  "why": "주어 없이 동사로 시작하는 명령문이라 ‘~라고 생각해 보라’는 뜻이다. think of A as B 는 ‘A를 B로 여기다’라는 짜임이고, it 은 아디스아바바를 가리킨다. where 는 바로 앞의 Brussels 를 설명하는 관계절이다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|13.0",
+  "en": "“Even at night, when traffic dies down, you see high emissions from the burning of charcoal and other fuels,” Asfaw said.",
+  "s": "you",
+  "v": "see",
+  "chunks": [
+   {"en": "“Even at night,", "ko": "밤에도", "r": "시간"},
+   {"en": "when traffic dies down,", "ko": "차량 통행이 잦아드는 때인데도", "r": "부사절(때)"},
+   {"en": "you see high emissions", "ko": "배출이 많은 것이 보입니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "from the burning of charcoal and other fuels,”", "ko": "숯이나 다른 연료를 태우는 데서 나오는", "r": "전치사구(배출의 출처)"},
+   {"en": "Asfaw said.", "ko": "아스파우가 말했다", "r": "말한 사람 + 인용 동사"}
+  ],
+  "ko": "“차량 통행이 잦아드는 밤에도, 숯이나 다른 연료를 태우는 데서 나오는 배출이 많은 것이 보입니다.” 아스파우의 말이다.",
+  "why": "Even at night 와 when traffic dies down 이 잇달아 나오면서 주어 you 가 뒤로 밀린다. dies down 은 ‘죽는다’가 아니라 ‘잦아든다, 수그러든다’는 뜻이다. 여기 you 는 특정한 상대가 아니라 ‘누구든 보면’이라는 일반적인 사람을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|14.0",
+  "en": "The MAIA sensor network detected increases in black carbon during two major holidays in Addis Ababa that involve bonfires and was able to distinguish between particles originating from the fires and those from fossil fuel combustion.",
+  "s": "The MAIA sensor network",
+  "v": "detected",
+  "chunks": [
+   {"en": "The MAIA sensor network detected increases in black carbon", "ko": "MAIA 센서망은 블랙카본이 늘어난 것을 잡아냈다", "r": "주어 + 동사 + 목적어"},
+   {"en": "during two major holidays in Addis Ababa", "ko": "아디스아바바의 두 큰 명절 동안", "r": "시간"},
+   {"en": "that involve bonfires", "ko": "모닥불을 피우는", "r": "관계절(앞 두 명절 설명)"},
+   {"en": "and was able to distinguish between particles", "ko": "그리고 입자들을 구별해 낼 수 있었다", "r": "대등한 두 번째 동사"},
+   {"en": "originating from the fires", "ko": "그 불에서 나온", "r": "현재분사구(앞 particles 설명)"},
+   {"en": "and those from fossil fuel combustion.", "ko": "그리고 화석연료를 태워 나온 입자를", "r": "구별의 다른 한쪽"}
+  ],
+  "ko": "MAIA 센서망은 모닥불을 피우는 아디스아바바의 두 큰 명절 동안 블랙카본이 늘어난 것을 잡아냈고, 그 불에서 나온 입자와 화석연료를 태워 나온 입자를 구별해 낼 수 있었다.",
+  "why": "주어 하나(The MAIA sensor network)에 동사가 둘(detected ~ and was able to distinguish ~)이라, 뒤쪽 and 를 명사 나열로 오해하면 뼈대를 놓친다. that involve bonfires 는 앞의 two major holidays 를 꾸미고, those 는 particles 를 대신 받는다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|14.1",
+  "en": "The findings demonstrate how detailed measurements can help researchers identify different sources of particulate matter and better understand how air quality varies across a city and over time.",
+  "s": "The findings",
+  "v": "demonstrate",
+  "chunks": [
+   {"en": "The findings demonstrate", "ko": "이번 결과는 보여 준다", "r": "주어 + 동사"},
+   {"en": "how detailed measurements can help researchers", "ko": "정밀한 측정이 연구자들을 어떻게 도울 수 있는지를", "r": "목적어 절(주어 + 동사)"},
+   {"en": "identify different sources of particulate matter", "ko": "입자물질의 여러 발생원을 가려내도록", "r": "연구자가 하는 일 1"},
+   {"en": "and better understand how air quality varies", "ko": "그리고 대기질이 어떻게 달라지는지를 더 잘 이해하도록", "r": "연구자가 하는 일 2"},
+   {"en": "across a city and over time.", "ko": "한 도시 안 여기저기에서, 또 시간이 지나면서", "r": "전치사구(변화의 범위)"}
+  ],
+  "ko": "이번 결과는, 정밀한 측정이 연구자들로 하여금 입자물질의 여러 발생원을 가려내고 대기질이 한 도시 안에서 또 시간에 따라 어떻게 달라지는지를 더 잘 이해하도록 도울 수 있음을 보여 준다.",
+  "why": "help + 사람 + 동사원형 은 ‘~가 …하도록 돕다’라는 짜임이라 identify 와 (better) understand 둘 다 researchers 가 하는 일이다. 두 번째 and 를 measurements 쪽에 붙이면 주체가 뒤바뀐다. across a city 는 ‘여러 도시 사이’가 아니라 ‘한 도시 안 여기저기’다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|15.0",
+  "en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions…",
+  "s": "FORCE",
+  "v": "is",
+  "chunks": [
+   {"en": "FORCE is a world-class laboratory", "ko": "FORCE는 세계적 수준의 실험실이다", "r": "주어 + 동사 + 보어"},
+   {"en": "that uses high-pressure experimental equipment", "ko": "고압 실험 장비를 쓰는", "r": "관계절(앞 실험실 설명)"},
+   {"en": "to recreate the extreme conditions…", "ko": "극한 조건을 다시 만들어 내기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "FORCE는 극한 조건을 다시 만들어 내기 위해 고압 실험 장비를 쓰는 세계적 수준의 실험실이다…",
+  "why": "기사 본문이 아니라 아래쪽에 딸린 다른 글의 소개 토막이라 문장이 …로 잘려 있다. that 은 laboratory 를 받는 관계절이고, to recreate 는 ‘재현하기 위해’라는 목적이다. recreate 는 re + create, 곧 ‘다시 만들어 내다’다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|16.0",
+  "en": "Article 5 hours ago 6 min read Chasing Fire Clouds in Utah NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most…",
+  "s": "NASA aircraft",
+  "v": "are sampling",
+  "chunks": [
+   {"en": "Article 5 hours ago 6 min read", "ko": "기사 · 5시간 전 · 읽는 데 6분", "r": "목록 표시(문장 아님)"},
+   {"en": "Chasing Fire Clouds in Utah", "ko": "유타의 화재 구름을 쫓다", "r": "다른 기사 제목"},
+   {"en": "NASA aircraft are sampling smoke", "ko": "NASA 항공기들이 연기를 채집하고 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "lofted high into the atmosphere", "ko": "대기 높이 띄워 올려진", "r": "과거분사구(앞 smoke 설명)"},
+   {"en": "by one of the most…", "ko": "가장 ~한 것 가운데 하나에 의해", "r": "전치사구(띄워 올린 쪽) · 잘림"}
+  ],
+  "ko": "기사 · 5시간 전 · 읽는 데 6분 — 「유타의 화재 구름을 쫓다」. NASA 항공기들이 가장 ~한 것 가운데 하나가 대기 높이 띄워 올린 연기를 채집하고 있다…",
+  "why": "웹페이지의 다른 기사 목록이 섞여 들어온 토막이라, 앞부분(Article 5 hours ago 6 min read)은 문장이 아니라 표시고 그다음이 제목, 그다음부터가 본문 첫 문장이다. lofted 는 smoke 를 꾸미는 과거분사이며 by ~ 가 띄워 올린 쪽인데, 문장이 …로 잘려 있다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|17.0",
+  "en": "Article 18 hours ago 2 min read Volunteer Develops Machine-Learning Tool to Identify Rare Clouds Certain kinds of clouds are misbehaving – appearing more often and lower in the sky…",
+  "s": "Certain kinds of clouds",
+  "v": "are misbehaving",
+  "chunks": [
+   {"en": "Article 18 hours ago 2 min read", "ko": "기사 · 18시간 전 · 읽는 데 2분", "r": "목록 표시(문장 아님)"},
+   {"en": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds", "ko": "자원봉사자가 희귀 구름을 찾아내는 기계학습 도구를 개발하다", "r": "다른 기사 제목"},
+   {"en": "Certain kinds of clouds are misbehaving –", "ko": "어떤 종류의 구름들이 이상하게 굴고 있다", "r": "주어 + 동사"},
+   {"en": "appearing more often and lower in the sky…", "ko": "전보다 더 자주, 그리고 더 낮은 하늘에 나타나면서", "r": "분사구(앞 내용을 풀어 줌) · 잘림"}
+  ],
+  "ko": "기사 · 18시간 전 · 읽는 데 2분 — 「자원봉사자가 희귀 구름을 찾아내는 기계학습 도구를 개발하다」. 어떤 종류의 구름들이 이상하게 굴고 있다 — 전보다 더 자주, 그리고 더 낮은 하늘에 나타나면서…",
+  "why": "제목(Volunteer Develops ~ Clouds)과 본문 첫 문장(Certain kinds of clouds ~)이 마침표 없이 이어 붙어 있어, 어디가 제목이고 어디가 문장인지 가르는 것이 먼저다. 제목 속 Develops 가 동사처럼 보이지만 본문의 동사는 are misbehaving 이다. 대시 뒤 appearing ~ 은 앞 내용을 풀어 주는 분사구다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|18.0",
+  "en": "Article 3 days ago Keep Exploring Discover Related Topics Explore Earth Science From its origins, NASA has studied our planet in novel ways, using a fleet of satellites and ambitious airborne and ground-based…",
+  "s": "NASA",
+  "v": "has studied",
+  "chunks": [
+   {"en": "Article 3 days ago", "ko": "기사 · 3일 전", "r": "목록 표시(문장 아님)"},
+   {"en": "Keep Exploring Discover Related Topics Explore Earth Science", "ko": "계속 살펴보기 · 관련 주제 알아보기 · 지구과학 탐구", "r": "웹페이지 메뉴 문구"},
+   {"en": "From its origins, NASA has studied our planet", "ko": "처음 생겨났을 때부터 NASA는 우리 행성을 연구해 왔다", "r": "시간 + 주어 + 동사 + 목적어"},
+   {"en": "in novel ways,", "ko": "새로운 방식으로", "r": "전치사구(방식)"},
+   {"en": "using a fleet of satellites", "ko": "여러 대의 위성을 써서", "r": "분사구문(수단)"},
+   {"en": "and ambitious airborne and ground-based…", "ko": "그리고 야심 찬 항공·지상 ~ 을 써서", "r": "나열(이어지는 수단) · 잘림"}
+  ],
+  "ko": "기사 · 3일 전 — 「계속 살펴보기 · 관련 주제 알아보기 · 지구과학 탐구」. NASA는 처음 생겨났을 때부터 여러 대의 위성과 야심 찬 항공·지상 ~ 을 써서 우리 행성을 새로운 방식으로 연구해 왔다…",
+  "why": "웹페이지의 메뉴 문구(Keep Exploring ~ Explore Earth Science)가 본문 앞에 붙어 있어 문장의 시작을 찾기 어렵다. 진짜 문장은 From its origins 부터다. its 는 NASA 를 가리키고, novel 은 ‘소설’이 아니라 ‘새로운’이라는 형용사다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|19.0",
+  "en": "MAIA (Multi-Angle Imager for Aerosols) will study the size, makeup, and quantity of airborne particles, to show how this pollution…",
+  "s": "MAIA",
+  "v": "will study",
+  "chunks": [
+   {"en": "MAIA (Multi-Angle Imager for Aerosols) will study", "ko": "MAIA(다각도 에어로졸 관측기)는 연구할 것이다", "r": "주어(줄임말 + 풀어 쓴 이름) + 동사"},
+   {"en": "the size, makeup, and quantity of airborne particles,", "ko": "공중에 떠 있는 입자의 크기, 구성, 양을", "r": "목적어(셋을 나열)"},
+   {"en": "to show how this pollution…", "ko": "이 오염이 어떻게 ~ 하는지를 보이기 위해", "r": "목적(~하기 위해) · 잘림"}
+  ],
+  "ko": "MAIA(Multi-Angle Imager for Aerosols, 다각도 에어로졸 관측기)는 공중에 떠 있는 입자의 크기, 구성, 양을 연구할 것이다. 이 오염이 어떻게 ~ 하는지를 보이기 위해서다…",
+  "why": "괄호 안은 MAIA 라는 줄임말을 풀어 쓴 정식 이름이라 주어는 하나다. makeup 은 ‘화장품’이 아니라 ‘구성, 이루어진 성분’이다. of airborne particles 는 size, makeup, quantity 셋 모두에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|20.0",
+  "en": "Open access to NASA’s archive of Earth science data",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Open access to NASA’s archive", "ko": "NASA의 보관소에 누구나 열려 있는 접근", "r": "명사구"},
+   {"en": "of Earth science data", "ko": "지구과학 자료를 모아 둔", "r": "전치사구(앞 archive 설명)"}
+  ],
+  "ko": "NASA의 지구과학 자료 보관소를 누구나 제한 없이 이용할 수 있게 열어 둔 것.",
+  "why": "주어도 동사도 없는 안내 문구다. Open access 는 ‘열어라’라는 명령이 아니라 ‘누구나 제한 없이 이용할 수 있는 것’을 뜻하는 굳어진 표현이고, archive 는 자료를 모아 둔 보관소다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|21.0",
+  "en": "In order to study the Earth as a whole system and understand how it is changing, NASA develops and supports…",
+  "s": "NASA",
+  "v": "develops",
+  "chunks": [
+   {"en": "In order to study the Earth as a whole system", "ko": "지구를 하나의 통째 시스템으로 연구하기 위해", "r": "목적(~하기 위해)"},
+   {"en": "and understand how it is changing,", "ko": "그리고 그것이 어떻게 변해 가는지를 이해하기 위해", "r": "목적(이어지는 두 번째)"},
+   {"en": "NASA develops and supports…", "ko": "NASA는 ~을 개발하고 지원한다", "r": "주어 + 동사 둘 · 잘림"}
+  ],
+  "ko": "지구를 하나의 통째 시스템으로 연구하고 그것이 어떻게 변해 가는지를 이해하기 위해, NASA는 ~ 을 개발하고 지원한다…",
+  "why": "In order to ~ 로 시작하는 긴 목적 부분이 먼저 나오고, 진짜 주어 NASA 는 쉼표 뒤에 나온다. and understand 는 In order to 에 이어지는 두 번째 목적이라 ‘이해하기 위해’라는 뜻이지 새 동사가 아니다. it 은 the Earth 를 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "bc8e2a4c|22.0",
+  "en": "NASA Opens Registration for 2015 Exploration Rover Challenge",
+  "s": "NASA",
+  "v": "Opens",
+  "chunks": [
+   {"en": "NASA Opens Registration", "ko": "NASA가 등록을 연다(참가 신청을 받기 시작한다)", "r": "주어 + 동사 + 목적어"},
+   {"en": "for 2015 Exploration Rover Challenge", "ko": "2015 탐사 로버 챌린지 참가를 위한", "r": "전치사구(어떤 등록인가)"}
+  ],
+  "ko": "NASA, 2015 탐사 로버 챌린지 참가 등록을 시작하다",
+  "why": "기사 제목이라 관사(the)가 빠지고 동사가 현재형(Opens)으로 쓰였다. 제목의 현재형은 ‘늘 그렇다’가 아니라 ‘방금 그렇게 했다’는 뜻으로 읽는다. Opens Registration 은 ‘등록을 연다’, 곧 참가 신청을 받기 시작한다는 말이다.",
+  "st": []
+ }
+]

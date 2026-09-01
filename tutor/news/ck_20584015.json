@@ -1,0 +1,111 @@
+{
+ "20584015|0.0": [
+  {"t":"mod","q":"<b>– part of the NASA Science Activation (SciAct) Program portfolio –</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 SCoPE 입니다 — SCoPE가 SciAct 프로그램 묶음의 한 부분이라는 뜻입니다","tip":"대시 사이에 낀 말은 문장의 뼈대가 아니라 앞 이름을 다시 설명하는 곁말입니다. 괄호로 묶어 빼고 읽으면 뼈대가 드러납니다."},
+  {"t":"who","q":"<b>enables</b> … <b>to efficiently and effectively share their science</b> — 과학을 알리는 쪽은 누구입니까?","a":"전문가(SME)들입니다. SCoPE는 그들이 그렇게 할 수 있게 해 주는 쪽입니다","tip":"enables A to B 는 'A가 B하게 해 준다'입니다. SCoPE 자신이 과학을 알린다고 읽으면 주체가 바뀝니다."},
+  {"t":"mod","q":"<b>– especially NASA-funded SMEs –</b> 는 무엇을 좁혀 말한 것입니까?","a":"바로 앞의 Earth and Space Science and Engineering Subject Matter Experts (SMEs) 입니다 — 그중에서도 특히 NASA 지원을 받는 전문가라는 뜻입니다","tip":"새로운 대상을 하나 더 더한 것이 아니라, 앞에 나온 전문가들 중 일부를 콕 집어 말한 것입니다."},
+  {"t":"who","q":"<b>with support from SciAct education experts.</b> — 도움을 주는 쪽은 누구입니까?","a":"SciAct 교육 전문가들입니다","tip":"from 뒤가 도움을 주는 쪽입니다. 전문가(SME)들이 도움을 주는 것으로 방향을 뒤집어 읽기 쉽습니다."}
+ ],
+ "20584015|1.0": [
+  {"t":"who","q":"<b>to help seven undergraduate student interns build the science communication skills</b> — 능력을 기르는 쪽은 누구입니까?","a":"학부생 인턴 일곱 명입니다. NASA SCoPE는 그것을 돕는 쪽입니다","tip":"help A build B 에서 기르는 주체는 A(인턴)입니다. SCoPE가 능력을 기른다고 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>needed to share their research with a variety of audiences.</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the science communication skills(과학 소통 능력)입니다","tip":"needed 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 주된 동사는 partnered 하나뿐입니다."},
+  {"t":"mod","q":"<b>Arizona State University’s Facility for Open Research in a Compressed Environment (FORCE) Summer School</b> — SCoPE가 손잡은 상대는 정확히 무엇입니까?","a":"FORCE 시설이 운영하는 Summer School(여름학교)입니다","tip":"이름이 길어 '대학과 손잡았다'로 뭉뚱그리기 쉽지만, 맨 끝의 Summer School 이 실제 상대입니다."},
+  {"t":"time","q":"<b>In Summer 2026, NASA SCoPE partnered with</b> — 이 협력은 이미 한 일입니까, 앞으로 할 일입니까?","a":"이미 한 일입니다 — partnered 가 과거형입니다","tip":"기사가 나온 2026년 8월보다 앞선 그해 여름의 일입니다."}
+ ],
+ "20584015|1.1": [
+  {"t":"who","q":"<b>that uses high-pressure experimental equipment</b> — 장비를 쓰는 쪽은 무엇입니까?","a":"FORCE 실험실입니다","tip":"that 은 바로 앞의 a world-class laboratory, 곧 FORCE를 받습니다."},
+  {"t":"mod","q":"<b>found deep within Earth and other planetary bodies,</b> 는 무엇을 설명하는 말입니까?","a":"앞의 the extreme conditions(극한 조건)입니다 — 지구와 다른 천체의 깊은 속에서 나타나는 조건이라는 뜻입니다","tip":"found 를 '찾아냈다'는 동사로 읽으면 문장이 둘로 쪼개져 버립니다. 여기서는 앞 명사를 꾸미는 과거분사입니다."},
+  {"t":"who","q":"<b>enabling researchers to better understand</b> — 더 잘 이해하게 되는 쪽은 누구입니까?","a":"연구자들(researchers)입니다. 그렇게 해 주는 쪽은 FORCE 실험실입니다","tip":"enable A to B 는 'A가 B할 수 있게 한다'입니다. 이해하는 주체는 실험실이 아니라 연구자입니다."},
+  {"t":"mod","q":"<b>a world-class laboratory</b> 는 무엇을 가리킵니까?","a":"FORCE 자신입니다 — FORCE가 곧 그 실험실이라는 뜻입니다","tip":"is 로 이어진 보어라 주어와 같은 것을 가리킵니다. FORCE가 쓰는 다른 실험실이 아닙니다."}
+ ],
+ "20584015|2.0": [
+  {"t":"time","q":"<b>followed by office hours the following week,</b> — 워크숍과 상담 시간 중 어느 것이 먼저입니까?","a":"워크숍이 먼저입니다 — 6월 25·26일 워크숍 뒤 그다음 주에 상담 시간이 있었습니다","tip":"A followed by B 는 'A 다음에 B가 이어진다'입니다. 순서를 거꾸로 읽기 아주 쉬운 표현입니다."},
+  {"t":"who","q":"<b>to help interns translate their technical research</b> — 연구를 이야기로 바꾸는 쪽은 누구입니까?","a":"인턴들입니다. SCoPE는 그것을 돕는 쪽입니다","tip":"help A translate B 에서 옮기는 주체는 A(인턴)입니다."},
+  {"t":"mod","q":"<b>As part of the Summer School,</b> 는 무엇을 두고 한 말입니까?","a":"SCoPE가 연 워크숍이 여름학교 과정의 한 부분이었다는 뜻입니다","tip":"SCoPE라는 조직이 여름학교의 일부라는 뜻이 아닙니다. 이 문장이 말하는 활동이 여름학교 안에서 이루어졌다는 말입니다."},
+  {"t":"pron","q":"<b>their technical research</b> 의 their 는 누구입니까?","a":"인턴들(interns)입니다","tip":"바로 앞의 interns 를 받습니다. SCoPE의 연구로 읽으면 주인이 바뀝니다."}
+ ],
+ "20584015|2.1": [
+  {"t":"mod","q":"<b>focused on identifying</b> … <b>and thinking through the logistics of public engagement.</b> — focused on 에 걸리는 항목은 몇 개입니까?","a":"네 개입니다 — identifying / developing / planning / thinking through 이 모두 focused on 에 걸립니다","tip":"-ing 로 시작하는 덩어리가 줄줄이 나오면 새 동사가 아니라 나열된 항목일 때가 많습니다. 나열의 시작점(focused on)까지 되짚어 가세요."},
+  {"t":"pron","q":"<b>the central themes of their work</b> 의 their 는 누구입니까?","a":"인턴들입니다 — 인턴들 자신의 연구입니다","tip":"앞 문장의 interns 를 받습니다. 교육하는 쪽(SCoPE)의 연구가 아닙니다."},
+  {"t":"who","q":"<b>planning effective visitor interactions,</b> — 관람객과의 소통을 계획하게 되는 쪽은 누구입니까?","a":"교육을 받는 인턴들입니다","tip":"주어가 The training(교육)이라 교육 자체가 계획한다고 읽기 쉽지만, 이것은 인턴이 배워서 직접 하는 일입니다."}
+ ],
+ "20584015|2.2": [
+  {"t":"who","q":"<b>Interns also received guidance</b> — 안내를 해 준 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다. 받은 쪽(인턴)만 나옵니다 — 앞 문맥으로 보면 안내한 쪽은 SCoPE입니다","tip":"received 는 '주었다'가 아니라 '받았다'입니다. 주는 쪽으로 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>both their research posters and individual outreach stations.</b> — 준비할 대상은 몇 가지입니까?","a":"두 가지입니다 — 연구 포스터와 각자의 홍보 부스","tip":"both A and B 는 'A와 B 둘 다'입니다. 한 가지로 뭉뚱그려 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>their research posters</b> 의 their 는 누구입니까?","a":"인턴들입니다","tip":"문장의 주어인 Interns 를 받습니다."}
+ ],
+ "20584015|3.0": [
+  {"t":"time","q":"<b>The training culminated in two complementary outreach experiences.</b> — 두 행사는 교육보다 먼저입니까, 교육의 마지막입니까?","a":"교육의 마지막입니다 — 교육이 그 두 행사로 마무리되었습니다","tip":"culminate in 은 '~로 절정에 이르다, ~로 마무리되다'입니다. '두 행사에서 교육이 시작되었다'로 읽으면 순서가 뒤집힙니다."},
+  {"t":"pron","q":"<b>two complementary outreach experiences.</b> 가 가리키는 두 행사는 무엇입니까?","a":"뒤에 나오는 FORCE Open House(공개 행사)와 포스터 세션입니다","tip":"여기서는 '둘'이라고만 해 두고 다음 문장부터 하나씩 이름을 밝힙니다. 뒤를 읽어야 채워지는 자리입니다."},
+  {"t":"who","q":"<b>The training</b> — 여기서 말하는 교육은 누가 누구에게 한 것입니까?","a":"SCoPE가 인턴들에게 한 과학 소통 교육입니다","tip":"The 가 붙었다는 것은 앞 문단에 나온 그 교육을 다시 가리킨다는 신호입니다."}
+ ],
+ "20584015|3.1": [
+  {"t":"pron","q":"<b>The first</b> 는 무엇의 첫 번째입니까?","a":"앞 문장의 두 행사(two complementary outreach experiences) 중 첫 번째 행사입니다","tip":"The first 뒤에 명사가 없습니다. 앞 문장에서 받아 와야 무엇의 '첫 번째'인지 알 수 있습니다."},
+  {"t":"who","q":"<b>which welcomed approximately 50 members of the general public</b> — 맞이한 쪽과 찾아온 쪽은 각각 누구입니까?","a":"맞이한 쪽은 FORCE Open House(행사 쪽), 찾아온 쪽은 일반 시민 약 50명입니다","tip":"which 는 바로 앞의 the FORCE Open House 를 받습니다. 시민이 맞이했다고 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>for an inside look at the laboratory.</b> — 실험실 안을 들여다보는 쪽은 누구입니까?","a":"찾아온 일반 시민들입니다","tip":"for 가 붙어 목적을 나타냅니다. 실험실이 무언가를 들여다본다는 뜻이 아닙니다."},
+  {"t":"time","q":"<b>The first was the FORCE Open House,</b> — 이 행사는 이미 열렸습니까, 앞으로 열립니까?","a":"이미 열렸습니다 — was, welcomed 모두 과거형입니다","tip":"앞으로 열릴 행사 안내로 읽기 쉽지만, 기사는 이미 끝난 여름 프로그램을 전하고 있습니다."}
+ ],
+ "20584015|3.2": [
+  {"t":"mod","q":"<b>used to simulate the interiors of Earth and other planets,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the specialized equipment(특수 장비)입니다 — 그 장비가 행성 내부를 재현하는 데 쓰인다는 뜻입니다","tip":"used to 를 '예전에 ~하곤 했다'로 읽으면 뜻이 완전히 달라집니다. 여기서는 'be used to do(~하는 데 쓰이다)'의 분사형입니다."},
+  {"t":"mod","q":"<b>designed to explain the science behind the experiments</b> 는 무엇을 설명하는 말입니까?","a":"앞의 themed outreach stations(주제별 홍보 부스)입니다","tip":"가까이 있는 interns 에 붙이기 쉽지만, 그렇게 꾸며진 것은 사람이 아니라 부스입니다."},
+  {"t":"who","q":"<b>Visitors toured the facility, met the research team, explored the specialized equipment</b> — 이 세 가지를 한 쪽은 누구입니까?","a":"방문객들(Visitors)입니다 — 이어지는 interacted 까지 동사 넷 모두 주어가 Visitors 입니다","tip":"쉼표로 이어진 동사가 넷이라 중간에서 주어가 바뀐 것처럼 보이기 쉽습니다."},
+  {"t":"mod","q":"<b>in accessible, engaging ways.</b> 는 무엇의 방식을 말합니까?","a":"앞의 explain — 부스가 과학을 설명하는 방식입니다","tip":"방문객이 그런 식으로 행동했다는 뜻이 아니라, 설명이 알아듣기 쉽고 흥미롭다는 뜻입니다."}
+ ],
+ "20584015|4.0": [
+  {"t":"mod","q":"<b>a poster session for ASU faculty, staff, and students,</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the second event(두 번째 행사)입니다 — 그 행사가 곧 포스터 세션이라는 뜻입니다","tip":"행사가 둘이라고 읽으면 틀립니다. 쉼표 사이에 끼어 앞의 이름을 바꿔 말한 곁말(동격)입니다."},
+  {"t":"who","q":"<b>the interns presented their research,</b> — 발표한 쪽과 들은 쪽은 각각 누구입니까?","a":"발표한 쪽은 인턴들, 들은 쪽은 ASU의 교수·직원·학생입니다","tip":"앞에 쉼표 덩어리가 둘이나 붙어 주어가 멀리 밀려 있습니다. 문장 앞머리의 ASU 사람들을 주어로 잡으면 뒤집힙니다."},
+  {"t":"who","q":"<b>and receive feedback on their presentations.</b> — 의견을 받는 쪽은 누구입니까?","a":"인턴들입니다 — 대학 구성원들에게서 의견을 받습니다","tip":"receive 는 '주다'가 아니라 '받다'입니다. 또 이 부분은 앞의 to discuss 와 나란히 an opportunity 에 걸립니다."},
+  {"t":"pron","q":"<b>their scientific findings</b> 의 their 는 누구입니까?","a":"인턴들입니다","tip":"앞머리의 ASU faculty, staff, and students 로 잡기 쉽지만, 발표한 쪽인 인턴들의 연구 결과입니다."}
+ ],
+ "20584015|5.0": [
+  {"t":"who","q":"<b>By integrating science communication training into the Summer School experience,</b> — 이렇게 한 쪽은 누구입니까?","a":"NASA SCoPE입니다","tip":"By -ing 앞에는 주어가 없습니다. 그 동작의 주체는 뒤에 나오는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>helped equip emerging planetary scientists with practical skills</b> — practical skills 를 갖추게 되는 쪽은 누구입니까?","a":"emerging planetary scientists(이제 막 시작하는 행성과학자들)입니다","tip":"equip A with B 는 'A에게 B를 갖추어 주다'입니다. with 를 '~와 함께'로 읽으면 대상이 흐려집니다."},
+  {"t":"pron","q":"<b>emerging planetary scientists</b> 는 이 기사에서 누구를 가리킵니까?","a":"FORCE 여름학교에 참가한 학부생 인턴 일곱 명입니다","tip":"새로 등장한 다른 집단이 아니라, 앞에서 계속 말해 온 인턴들을 다르게 부른 것입니다."},
+  {"t":"mod","q":"<b>for engaging both scientific peers and public audiences.</b> — 이 능력은 몇 종류의 상대를 위한 것입니까?","a":"두 종류입니다 — 동료 과학자와 일반 청중 양쪽","tip":"both A and B 는 '둘 다'입니다. 일반 대중 한쪽만 떠올리기 쉽습니다."}
+ ],
+ "20584015|5.1": [
+  {"t":"who","q":"<b>while building stronger connections</b> — 더 단단히 이어 주는 쪽은 무엇입니까?","a":"thoughtful communication training(잘 짜인 소통 교육)입니다","tip":"while -ing 의 주체는 앞 절의 주어입니다. 여기서는 researchers 가 아니라 training 입니다."},
+  {"t":"pron","q":"<b>the communities it serves.</b> 의 it 은 무엇을 가리킵니까?","a":"cutting-edge planetary science(최첨단 행성과학)입니다","tip":"가까운 communities 나 training 으로 잡기 쉽습니다. 과학이 지역사회에 봉사한다는 방향입니다."},
+  {"t":"who","q":"<b>can strengthen researchers’ confidence</b> — 자신감이 커지는 쪽과 키워 주는 쪽은 각각 무엇입니까?","a":"자신감이 커지는 쪽은 연구자들, 키워 주는 쪽은 소통 교육입니다","tip":"researchers’ 는 소유격입니다. 연구자가 무언가를 강화한다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>between cutting-edge planetary science and the communities it serves.</b> — 무엇과 무엇 사이의 연결입니까?","a":"최첨단 행성과학과, 그 과학이 봉사하는 지역사회 사이입니다","tip":"between A and B 에서 B는 the communities it serves 전체입니다. it serves 까지 묶어야 합니다."}
+ ],
+ "20584015|5.2": [
+  {"t":"who","q":"<b>NASA SCoPE is supported by NASA cooperative agreement award number 80NSSC21M0006</b> — 지원을 받는 쪽과 지원하는 쪽은 각각 무엇입니까?","a":"받는 쪽은 NASA SCoPE, 지원하는 쪽은 협력협약 지원금 80NSSC21M0006 입니다","tip":"is supported by 는 수동태입니다. SCoPE가 무언가를 지원한다고 뒤집어 읽기 쉽습니다."},
+  {"t":"who","q":"<b>and helps enrich and enhance the impact</b> — 이 helps 의 주어는 무엇입니까?","a":"앞의 NASA SCoPE 입니다","tip":"and 뒤에 새 주어가 없습니다. 앞 주어가 그대로 이어집니다. 바로 앞의 지원금이 돕는다고 읽기 쉽습니다."},
+  {"t":"pron","q":"<b>which connects learners with authentic NASA science experiences</b> 의 which 는 무엇을 받습니까?","a":"바로 앞의 the NASA Science Activation Program portfolio 입니다","tip":"문장 맨 앞의 NASA SCoPE 로 잡기 쉽지만, 관계대명사는 바로 앞의 명사를 받습니다."},
+  {"t":"mod","q":"<b>through partnerships with educators and community organizations.</b> 는 무엇의 방법입니까?","a":"앞의 connects — 그 프로그램이 배우는 사람들을 과학 경험과 이어 주는 방법입니다","tip":"지원금을 받는 방법으로 붙이면 틀립니다. 문장 맨 뒤에 있어도 걸리는 곳은 바로 앞의 관계절입니다."}
+ ],
+ "20584015|6.0": [
+  {"t":"mod","q":"<b>appearing more often and lower in the sky…</b> 는 무엇을 풀어 주는 말입니까?","a":"앞의 are misbehaving 입니다 — 구름이 어떻게 '평소와 다른지'를 설명합니다","tip":"대시 뒤를 새로운 사실로 읽지 말고, 앞말을 다시 풀어 준 것으로 보세요."},
+  {"t":"mod","q":"<b>more often and lower in the sky…</b> — lower 는 무엇이 더 낮다는 말입니까?","a":"구름이 나타나는 높이입니다 — 하늘의 더 낮은 곳에 나타난다는 뜻입니다","tip":"more often 과 나란히 appearing 에 걸립니다. 구름의 수가 줄었다는 뜻이 아닙니다."},
+  {"t":"time","q":"<b>Certain kinds of clouds are misbehaving</b> — 지금 벌어지고 있는 일입니까, 예전에 있었던 일입니까?","a":"지금 벌어지고 있는 일입니다 — 현재진행형입니다","tip":"be + -ing 는 지금 진행 중이라는 신호입니다."}
+ ],
+ "20584015|7.0": [
+  {"t":"who","q":"<b>help inform the user community</b> — 알려 주는 쪽과 알게 되는 쪽은 각각 누구입니까?","a":"알려 주는 쪽은 CSDA의 평가 보고서, 알게 되는 쪽은 이용자 집단(the user community)입니다","tip":"inform A about B 는 'A에게 B를 알려 준다'입니다. 이용자 집단이 알려 준다고 뒤집어 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>about the quality of commercial Digital Elevation…</b> 는 어느 말에 걸립니까?","a":"앞의 inform 입니다 — 무엇에 대해 알려 주는지를 나타냅니다","tip":"inform … about … 이 한 짝입니다. the user community 를 꾸미는 말이 아닙니다."},
+  {"t":"mod","q":"<b>CSDA’s assessment reports</b> — 이 문장의 주어는 어디까지입니까?","a":"CSDA’s assessment reports 전체입니다 — CSDA가 아니라 'CSDA의 평가 보고서'가 주어입니다","tip":"’s 가 붙은 앞말은 주어 자체가 아니라 주어를 꾸미는 말입니다."}
+ ],
+ "20584015|8.0": [
+  {"t":"who","q":"<b>serving thousands of astronomers worldwide.</b> — 도움을 주는 쪽은 무엇입니까?","a":"Webb(웹 망원경)입니다","tip":"-ing 로 시작하는 분사구문의 주체는 문장의 주어입니다. 천문학자들이 무언가를 제공한다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>of the next decade,</b> 는 무엇을 꾸미는 말입니까?","a":"바로 앞의 the premier observatory 입니다 — 앞으로 10년을 대표하는 으뜸 관측 시설이라는 뜻입니다","tip":"동사 is 에 걸리는 시간 표현으로 읽으면 어색해집니다. 바로 앞 명사에 붙습니다."},
+  {"t":"time","q":"<b>the next decade</b> — 앞으로의 10년입니까, 지나간 10년입니까?","a":"앞으로의 10년입니다","tip":"next 는 '다음, 앞으로 올'입니다. last(지난)로 읽으면 시점이 정반대가 됩니다."}
+ ],
+ "20584015|8.1": [
+  {"t":"pron","q":"<b>It studies every phase</b> 의 It 은 무엇을 가리킵니까?","a":"앞 문장의 Webb(웹 망원경)입니다","tip":"바로 앞 문장의 주어를 받습니다. astronomers 는 복수라 It 이 될 수 없습니다."},
+  {"t":"time","q":"<b>studies</b> — 이미 끝난 일입니까, 지금도 계속하는 일입니까?","a":"지금도 계속하는 일입니다 — 현재형입니다","tip":"studied(과거형)가 아닙니다. 현재형은 지금도 이어지는 활동을 나타냅니다."}
+ ],
+ "20584015|9.0": [
+  {"t":"who","q":"<b>were assigned to study the geology of Mars</b> — 임무를 맡긴 쪽이 이 문장에 나옵니까?","a":"나오지 않습니다. 임무를 받은 쪽(로버와 그 공중 짝꿍)만 나옵니다","tip":"were assigned 는 수동태입니다. '임무를 맡겼다'로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"mod","q":"<b>and seek signs of ancient microbial…</b> 는 무엇과 나란히 이어지는 말입니까?","a":"앞의 to study the geology of Mars 입니다 — 임무가 두 가지라는 뜻입니다","tip":"and 앞뒤를 짝지어 보세요. (to) study 와 (to) seek 이 나란한 짝입니다."},
+  {"t":"pron","q":"<b>its aerial sidekick</b> 의 its 는 무엇을 가리킵니까?","a":"앞의 This rover(이 로버)입니다","tip":"sidekick 은 '짝꿍, 곁을 지키는 동료'입니다. 로버에 딸린 비행체를 그렇게 부른 것입니다."}
+ ],
+ "20584015|10.0": [
+  {"t":"who","q":"<b>On a mission to “touch the Sun,”</b> — 이 임무를 띤 쪽은 무엇입니까?","a":"NASA’s Parker Solar Probe 입니다","tip":"문장 앞에 붙은 전치사구에는 주어가 없습니다. 주어는 쉼표 뒤에 나옵니다."},
+  {"t":"mod","q":"<b>the first spacecraft to fly through the corona…</b> — to fly 는 무엇을 꾸밉니까?","a":"앞의 the first spacecraft 입니다 — '코로나를 뚫고 지나간 최초의 우주선'이라는 뜻입니다","tip":"'~하기 위해'라는 목적으로 읽으면 어색해집니다. the first 뒤의 to부정사는 '~한 첫 번째'라는 뜻입니다."},
+  {"t":"time","q":"<b>became the first spacecraft to fly through the corona…</b> — 이미 이룬 일입니까, 앞으로 할 일입니까?","a":"이미 이룬 일입니다 — became 이 과거형입니다","tip":"mission(임무)이라는 말 때문에 계획으로 읽기 쉽지만, 이미 해낸 일입니다."}
+ ],
+ "20584015|11.0": [
+  {"t":"mod","q":"<b>the first explorer to peer below the planet’s dense clouds to…</b> 는 무엇을 가리킵니까?","a":"앞의 NASA’s Juno spacecraft 입니다 — 주노를 다시 말한 곁말(동격)입니다","tip":"쉼표 뒤에 명사가 툭 나오면 새 주어가 아니라 앞말을 바꿔 말한 것일 때가 많습니다."},
+  {"t":"pron","q":"<b>the planet’s dense clouds</b> 의 the planet 은 무엇입니까?","a":"Jupiter(목성)입니다","tip":"the 가 붙었다는 것은 앞에 이미 나온 것을 다시 가리킨다는 신호입니다."},
+  {"t":"time","q":"<b>entered orbit around Jupiter in 2016,</b> — 궤도 진입은 언제 일입니까?","a":"2016년, 이미 지나간 일입니다","tip":"기사가 나온 시점보다 훨씬 앞선 일입니다. 앞으로의 계획으로 읽지 않도록 주의하세요."}
+ ]
+}

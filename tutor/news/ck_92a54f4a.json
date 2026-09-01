@@ -1,0 +1,1030 @@
+{
+ "92a54f4a|0.0": [
+  {
+   "t": "pron",
+   "q": "<b>that orbits it.</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "the Sun(태양)입니다",
+   "tip": "바로 앞의 every planet 으로 잡기 쉽습니다. 도는 쪽이 행성이고, 그 둘레의 중심이 태양입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that orbits it.</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 every planet(모든 행성)입니다",
+   "tip": "the Sun 을 설명하는 말로 붙이면 '태양이 행성을 돈다'가 되어 정반대가 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>the Sun influences every planet</b> — 영향을 주는 쪽과 받는 쪽은 각각 무엇입니까?",
+   "a": "주는 쪽은 태양, 받는 쪽은 태양 둘레를 도는 모든 행성입니다",
+   "tip": "influence 는 '영향을 주다'입니다. 목적어가 영향을 받는 쪽입니다."
+  }
+ ],
+ "92a54f4a|0.1": [
+  {
+   "t": "who",
+   "q": "<b>may have helped create Earth’s unique climate</b> — 지구 기후를 만드는 데 도움을 준 쪽은 무엇입니까?",
+   "a": "ancient events in the Sun’s history(태양의 역사 속 먼 옛날의 사건들)입니다",
+   "tip": "문장의 주어인 scientists 로 잡기 쉽습니다. 과학자들은 그것을 '밝혀낸' 쪽입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and driven previously unexplained climatic shifts.</b> — driven 은 무엇과 나란히 걸립니까?",
+   "a": "앞의 helped 와 나란히 may have 에 걸립니다 — 같은 주어가 한 또 하나의 일입니다",
+   "tip": "새로운 절의 동사로 읽으면 주어가 뒤바뀝니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>previously unexplained climatic shifts</b> — 이미 설명이 된 변화입니까, 설명되지 않던 변화입니까?",
+   "a": "지금까지 설명되지 않던 변화입니다",
+   "tip": "unexplained 의 un- 을 놓치면 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>In two recent NASA-funded studies,</b> — NASA-funded 는 무슨 뜻입니까?",
+   "a": "NASA가 자금을 댄(지원한) 연구라는 뜻입니다",
+   "tip": "NASA가 직접 수행했다는 말이 아니라 자금을 댔다는 뜻입니다."
+  }
+ ],
+ "92a54f4a|1.0": [
+  {
+   "t": "mod",
+   "q": "<b>— one of NASA’s DRIVE … Science Centers —</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 NASA’s SHIELD … center — SHIELD 센터가 DRIVE 과학센터 가운데 하나라는 뜻입니다",
+   "tip": "대시 안쪽을 주어로 읽으면 동사 trace 의 주어를 놓칩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>trace the trajectory of the heliosphere,</b> — 경로를 되짚는 쪽은 누구입니까?",
+   "a": "NASA SHIELD 센터의 과학자들(scientists)입니다",
+   "tip": "대시로 낀 설명 때문에 DRIVE Science Centers 를 주어로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the massive bubble created by our Sun</b> 는 무엇을 가리킵니까?",
+   "a": "바로 앞의 the heliosphere 를 다시 말한 것입니다 — 별개의 대상이 아닙니다",
+   "tip": "새로운 것이 하나 더 나온 줄 알면 대상이 둘로 늘어납니다. created by our Sun 은 '태양이 만든'이라는 수동입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>as it moved through our galaxy</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "the heliosphere(태양권)입니다",
+   "tip": "scientists 나 our Sun 으로 잡기 쉽습니다. 은하 속을 지나간 것은 태양권입니다."
+  }
+ ],
+ "92a54f4a|1.1": [
+  {
+   "t": "who",
+   "q": "<b>by seeding the production of potent greenhouse gases.</b> — 온실가스가 만들어지도록 씨를 뿌린 쪽은 무엇입니까?",
+   "a": "the younger, dimmer Sun(더 젊고 어두웠던 태양)입니다",
+   "tip": "과학자들이 한 일로 읽기 쉽습니다. by ~ing 는 앞 절의 주체가 쓴 수단입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the younger, dimmer Sun</b> — 무엇에 견주어 더 젊고 더 어둡습니까?",
+   "a": "오늘날의 태양에 견주어서입니다",
+   "tip": "비교급이므로 견줄 대상이 있어야 합니다. 여기서는 지금의 태양입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>managed to heat Earth</b> — 앞으로 할 일입니까, 이미 일어난 일입니까?",
+   "a": "이미 먼 옛날에 일어난 일입니다(과거형 managed)",
+   "tip": "investigate(현재)와 managed(과거)의 시점이 다릅니다. 살펴보는 것은 지금, 데운 것은 옛날입니다."
+  }
+ ],
+ "92a54f4a|2.0": [
+  {
+   "t": "mod",
+   "q": "<b>in which the global average temperature temporarily dropped by several degrees.</b> 는 무엇을 설명합니까?",
+   "a": "바로 앞의 notable ice ages(뚜렷한 빙하기들)입니다",
+   "tip": "Earth’s climate 전체를 설명하는 말로 붙이면 범위가 어긋납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>including notable ice ages</b> — 빙하기는 무엇의 예로 든 것입니까?",
+   "a": "지구 기후가 겪은 significant shifts(큰 변화)의 예입니다",
+   "tip": "including 은 앞의 명사에서 일부를 뽑아 보이는 말입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>temporarily dropped by several degrees.</b> — 그 기온 하락은 계속 이어졌습니까?",
+   "a": "아니요, 일시적이었습니다(temporarily)",
+   "tip": "temporarily 를 놓치면 기온이 그대로 낮아진 채 머문 것처럼 읽힙니다."
+  }
+ ],
+ "92a54f4a|2.1": [
+  {
+   "t": "who",
+   "q": "<b>led Earth to warm and cool.</b> — 따뜻해졌다 식었다 한 쪽과 그렇게 만든 쪽은 각각 무엇입니까?",
+   "a": "그렇게 된 쪽은 Earth(지구), 그렇게 만든 쪽은 more frequent climate swings(더 잦아진 기후 요동)입니다",
+   "tip": "led 를 '이끌었다'로만 읽으면 주체와 대상이 섞입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>During these periods,</b> 의 these periods 는 언제를 가리킵니까?",
+   "a": "앞 문장에 나온, 지구 기후가 큰 변화를 겪은 시기 — 빙하기를 포함한 그 시기들입니다",
+   "tip": "these 는 앞에서 이미 말한 것을 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>more frequent climate swings</b> — more 는 무엇을 꾸밉니까?",
+   "a": "뒤의 frequent 를 꾸며 '더 잦은'이라는 뜻입니다",
+   "tip": "'더 많은 요동'으로 읽기 쉽지만 횟수가 아니라 잦은 정도를 말합니다."
+  }
+ ],
+ "92a54f4a|2.2": [
+  {
+   "t": "who",
+   "q": "<b>To explain these periods of warming and cooling,</b> — 설명하려 한 쪽은 누구입니까?",
+   "a": "scientists(과학자들)입니다",
+   "tip": "to부정사가 나타내는 동작의 주체는 문장의 주어입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>including orbital changes, greenhouse gases, and ice.</b> 는 무엇의 예입니까?",
+   "a": "factors internal to Earth(지구 내부의 요인들)의 예입니다",
+   "tip": "these periods 의 예로 붙이면 어긋납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>factors internal to Earth,</b> — 지구 안쪽의 요인입니까, 바깥의 요인입니까?",
+   "a": "지구 안쪽(내부)의 요인입니다",
+   "tip": "internal to Earth 가 앞의 factors 를 뒤에서 꾸밉니다. 다음 문장의 태양 쪽(바깥) 요인과 맞세운 말입니다."
+  }
+ ],
+ "92a54f4a|2.3": [
+  {
+   "t": "mod",
+   "q": "<b>changes to the Sun’s environment</b> — 태양이 일으킨 변화입니까, 태양이 놓인 환경이 겪은 변화입니까?",
+   "a": "태양이 놓인 환경(주변)이 겪은 변화입니다",
+   "tip": "changes to X 는 'X에 생긴 변화'입니다. 태양 자체가 변했다는 말이 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>may be key to understanding Earth’s temperature swings.</b> — 무엇이 열쇠라는 것입니까?",
+   "a": "changes to the Sun’s environment(태양이 놓인 환경의 변화)입니다",
+   "tip": "new research 를 열쇠로 읽으면 어긋납니다. 연구는 그렇게 말하는 쪽입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>But new research suggests</b> — 이것이 열쇠라고 말하는 쪽은 무엇입니까?",
+   "a": "new research(새 연구)입니다 — 기사가 단정하는 것이 아니라 연구가 내놓은 제안입니다",
+   "tip": "suggests 를 빼고 읽으면 확정된 사실처럼 됩니다."
+  }
+ ],
+ "92a54f4a|3.0": [
+  {
+   "t": "who",
+   "q": "<b>so our entire solar system is encased</b> — 둘러싸는 쪽과 둘러싸이는 쪽은 각각 무엇입니까?",
+   "a": "둘러싸이는 쪽은 우리 태양계 전체, 둘러싸는 것은 태양이 만든 일종의 '대기'입니다",
+   "tip": "is encased 는 수동이라 주어가 당하는 쪽입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>created by the Sun.</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 a kind of “atmosphere”(일종의 '대기')입니다",
+   "tip": "our entire solar system 을 꾸미는 말로 붙이면 '태양이 태양계를 만들었다'는 다른 말이 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Just as</b> 와 <b>so</b> 로 이어진 앞뒤 두 절은 원인과 결과의 관계입니까?",
+   "a": "아니요. 'A인 것과 꼭 마찬가지로 B이다'라는 비교(대응) 관계입니다",
+   "tip": "so 를 '그래서'로 읽으면 '행성이 대기에 싸여 있어서 태양계도 싸여 있다'는 없는 인과가 생깁니다."
+  }
+ ],
+ "92a54f4a|3.1": [
+  {
+   "t": "who",
+   "q": "<b>is formed by a continuous solar wind</b> — 만드는 쪽과 만들어지는 쪽은 각각 무엇입니까?",
+   "a": "만드는 쪽은 끊임없는 태양풍, 만들어지는 쪽은 이 보호 거품(헬리오스피어)입니다",
+   "tip": "수동태에서 by 뒤가 행위자입니다. 주어를 행위자로 읽으면 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>streaming out from the Sun in all directions.</b> 는 무엇을 설명합니까?",
+   "a": "앞의 charged particles(전하를 띤 입자들)입니다",
+   "tip": "문장의 두 번째 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 is formed 하나입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>This protective bubble,</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장의, 태양이 만들어 태양계 전체를 감싸는 일종의 '대기'입니다",
+   "tip": "This 는 앞에서 말한 것을 받습니다. 새로 나온 다른 것이 아닙니다."
+  }
+ ],
+ "92a54f4a|4.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript,</b> — 켜라고 하는 대상은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자)입니다 — 주어가 생략된 명령문입니다",
+   "tip": "명령문은 주어(you)가 드러나지 않습니다. 주어를 찾으려 하면 헤맵니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명합니까?",
+   "a": "앞의 a web browser(웹 브라우저)입니다",
+   "tip": "upgrading 을 꾸미는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>and consider upgrading to a web browser</b> — 이미 업그레이드했다는 말입니까?",
+   "a": "아니요, 앞으로 해 보라고 권하는 말입니다",
+   "tip": "consider ~ing 는 '~하는 것을 생각해 보라'는 권유입니다."
+  }
+ ],
+ "92a54f4a|5.0": [
+  {
+   "t": "mod",
+   "q": "<b>the Milky Way.</b> 는 무엇을 다시 말한 것입니까?",
+   "a": "바로 앞의 our galaxy(우리 은하)입니다",
+   "tip": "도는 대상이 은하 중심과 은하수 둘이라고 읽으면 하나가 늘어납니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>Our heliosphere orbits</b> — 도는 쪽과 그 중심이 되는 쪽은 각각 무엇입니까?",
+   "a": "도는 쪽은 우리 태양권, 중심이 되는 쪽은 우리 은하의 중심입니다",
+   "tip": "orbits 를 명사 '궤도'로 읽으면 문장의 동사가 사라집니다."
+  }
+ ],
+ "92a54f4a|5.1": [
+  {
+   "t": "time",
+   "q": "<b>Throughout the Sun’s 4.6-billion-year existence,</b> 는 얼마 동안을 말합니까?",
+   "a": "태양이 생긴 뒤 46억 년 내내입니다",
+   "tip": "billion 은 10억입니다. 4.6 billion = 46억."
+  },
+  {
+   "t": "who",
+   "q": "<b>has traversed various regions within our galaxy.</b> — 가로질러 온 쪽은 무엇입니까?",
+   "a": "our heliosphere(우리 태양권)입니다",
+   "tip": "앞에 나온 the Sun 을 주어로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>our heliosphere has traversed</b> — 한 번 있었던 일입니까, 지금까지 이어져 온 일입니까?",
+   "a": "현재완료라 46억 년에 걸쳐 계속 이어져 온 일입니다",
+   "tip": "has p.p. 를 단순 과거로 읽으면 한 번의 사건처럼 좁아집니다."
+  }
+ ],
+ "92a54f4a|5.2": [
+  {
+   "t": "pron",
+   "q": "<b>revealing that the environments it passed through</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "the heliosphere(태양권)입니다",
+   "tip": "researchers 나 the paper 로 잡기 쉽습니다. 여러 환경을 지나온 것은 태양권입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>In a paper published on Aug. 21</b> — 8월 21일은 무엇을 한 날입니까?",
+   "a": "그 논문이 실린(발표된) 날입니다",
+   "tip": "연구를 한 날이나 모형을 돌린 날이 아닙니다. published 가 앞의 a paper 를 꾸밉니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>revealing that the environments … may have triggered changes on Earth.</b> — 이 사실을 드러낸 것은 무엇입니까?",
+   "a": "연구진이 컴퓨터 모형으로 경로를 되짚은 그 작업입니다",
+   "tip": "분사구문의 주체는 앞 주절의 내용입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>it passed through</b> 와 <b>used computer modeling</b> — 어느 쪽이 먼저 일어난 일입니까?",
+   "a": "태양권이 그 환경들을 지나간 것이 먼저(먼 옛날)이고, 연구진이 모형을 돌린 것은 최근입니다",
+   "tip": "한 문장 안에 시점이 크게 다른 두 일이 들어 있습니다."
+  }
+ ],
+ "92a54f4a|6.0": [
+  {
+   "t": "mod",
+   "q": "<b>SHIELD’s principal investigator at Boston University,</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 Merav Opher(사람 이름)입니다 — 그의 직함과 소속입니다",
+   "tip": "새로운 사람이 하나 더 있다고 읽으면 주어가 셋이 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>and her team ran simulations</b> — 모의실험을 돌린 쪽은 누구입니까?",
+   "a": "메라브 오퍼와 그의 연구진입니다",
+   "tip": "쉼표 안 직함이 길어 주어를 놓치기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that showed the Sun has encountered</b> — 이 that 절은 무엇을 설명합니까?",
+   "a": "앞의 simulations(모의실험)입니다 — 그 모의실험이 보여 준 내용입니다",
+   "tip": "her team 을 설명하는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>at least three different times in the past few million years.</b> — 언제 몇 번입니까?",
+   "a": "지난 수백만 년 사이에 적어도 세 번입니다",
+   "tip": "three different times 는 '세 가지 다른 시각'이 아니라 '서로 다른 세 시기에, 세 번'입니다."
+  }
+ ],
+ "92a54f4a|6.1": [
+  {
+   "t": "pron",
+   "q": "<b>to such an extent that it shrank</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "the heliosphere(태양권)입니다",
+   "tip": "바로 앞의 “cold clouds” 로 잡으면 쪼그라든 대상이 뒤바뀝니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>pushed against the heliosphere</b> — 미는 쪽과 밀리는 쪽은 각각 무엇입니까?",
+   "a": "미는 쪽은 거대한 성간 '차가운 구름', 밀리는 쪽은 태양권입니다",
+   "tip": "against 뒤가 밀림을 당하는 쪽입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>stranding our planet outside the Sun’s protective shield.</b> — 지구는 태양의 보호막 안에 있게 됩니까, 바깥에 있게 됩니까?",
+   "a": "바깥입니다 — 태양권이 지구 궤도보다 작아져 지구가 보호막 밖에 남겨졌습니다",
+   "tip": "outside 를 놓치면 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to smaller than Earth’s orbit,</b> — 무엇과 견준 크기입니까?",
+   "a": "지구의 공전 궤도입니다 — 태양권이 그보다도 더 작아졌다는 뜻입니다",
+   "tip": "지구 자체의 크기와 견준 것이 아닙니다."
+  }
+ ],
+ "92a54f4a|7.0": [
+  {
+   "t": "mod",
+   "q": "<b>— approximately 2 to 3 million years, … and 13 to 14 million years ago —</b> 는 무엇을 설명합니까?",
+   "a": "앞의 These exposures — 그 노출이 언제 있었는지입니다",
+   "tip": "대시 안쪽을 주어로 읽으면 동사 would have exposed 의 주어를 놓칩니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>and 13 to 14 million years ago —</b> 는 언제를 말합니까?",
+   "a": "1,300만~1,400만 년 전입니다",
+   "tip": "million 은 100만입니다. 13 million = 1,300만."
+  },
+  {
+   "t": "who",
+   "q": "<b>would have exposed Earth’s atmosphere</b> — 노출시킨 쪽과 노출된 쪽은 각각 무엇입니까?",
+   "a": "노출시킨 것은 These exposures(태양권 밖에 드러났던 그 사건들), 노출된 것은 지구의 대기입니다",
+   "tip": "exposures 와 exposed 가 겹쳐 나와 주어와 목적어를 섞기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>would have exposed</b> — 확인된 사실입니까, 그랬을 것이라는 추측입니까?",
+   "a": "추측입니다 — 모의실험대로라면 그랬을 것이라는 뜻입니다",
+   "tip": "would have p.p. 는 과거에 대한 추측입니다."
+  }
+ ],
+ "92a54f4a|7.1": [
+  {
+   "t": "mod",
+   "q": "<b>Elements prevalent in interstellar dust appear</b> — prevalent in interstellar dust 는 무엇을 설명합니까?",
+   "a": "앞의 Elements(원소들)입니다 — 성간 먼지에 많이 들어 있는 원소라는 뜻입니다",
+   "tip": "prevalent 를 동사로 읽으면 이 절의 동사 appear 를 놓칩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>in deep-sea sediment core samples, Antarctic snow, and lunar samples</b> — 이 셋은 무엇의 자리입니까?",
+   "a": "그 원소들이 발견된 곳 세 군데입니다",
+   "tip": "셋 다 appear in 에 나란히 걸립니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>The simulation results match geologic evidence:</b> — 무엇과 무엇이 들어맞는다는 것입니까?",
+   "a": "모의실험 결과와 지질학적 증거입니다",
+   "tip": "match 는 '맞서다'가 아니라 '서로 들어맞다'입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>during these timelines.</b> 의 these timelines 는 언제입니까?",
+   "a": "앞 문장에 나온 세 시기 — 약 200만~300만 년 전, 600만~700만 년 전, 1,300만~1,400만 년 전입니다",
+   "tip": "these 는 앞에서 말한 시기를 받습니다."
+  }
+ ],
+ "92a54f4a|8.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript,</b> — 켜라고 하는 대상은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자)입니다 — 주어가 생략된 명령문입니다",
+   "tip": "명령문은 주어(you)가 드러나지 않습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명합니까?",
+   "a": "앞의 a web browser(웹 브라우저)입니다",
+   "tip": "upgrading 을 꾸미는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>and consider upgrading to a web browser</b> — 이미 업그레이드했다는 말입니까?",
+   "a": "아니요, 앞으로 해 보라고 권하는 말입니다",
+   "tip": "consider ~ing 는 '~하는 것을 생각해 보라'는 권유입니다."
+  }
+ ],
+ "92a54f4a|9.0": [
+  {
+   "t": "pron",
+   "q": "<b>These heliosphere collapse events</b> 는 무엇을 가리킵니까?",
+   "a": "앞에서 말한, 차가운 구름에 밀려 태양권이 지구 궤도보다 작게 쪼그라들었던 사건들입니다",
+   "tip": "These 는 앞에서 이미 말한 것을 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>These heliosphere collapse events</b> — 명사가 겹쳐 있는 이 덩어리는 어떻게 풀어야 합니까?",
+   "a": "뒤에서부터 '사건들 ← 붕괴(수축) ← 태양권' 순으로 풀어 '태양권이 무너진(쪼그라든) 사건들'이 됩니다",
+   "tip": "collapse 를 동사로 읽으면 문장의 동사 may also explain 을 놓칩니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>may also explain</b> — 설명이 이미 끝났다는 뜻입니까?",
+   "a": "아니요, 설명해 줄 수 있을지 모른다는 가능성입니다",
+   "tip": "may 를 빼고 읽으면 확정된 결론으로 바뀝니다."
+  }
+ ],
+ "92a54f4a|9.1": [
+  {
+   "t": "who",
+   "q": "<b>when Earth’s atmosphere was exposed</b> — 노출된 쪽과 그 상대는 각각 무엇입니까?",
+   "a": "노출된 쪽은 지구의 대기, 맞닥뜨린 상대는 차갑고 빽빽한 은하 수소 구름입니다",
+   "tip": "was exposed 는 수동이라 주어가 당하는 쪽입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>In the simulations,</b> 의 the simulations 는 무엇을 가리킵니까?",
+   "a": "앞에서 말한, 오퍼 연구진이 돌린 컴퓨터 모의실험입니다",
+   "tip": "the 가 붙었다는 것은 앞에서 이미 나온 그것을 다시 가리킨다는 신호입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>a cold, dense galactic hydrogen cloud,</b> — cold 와 dense 는 무엇을 꾸밉니까?",
+   "a": "뒤의 hydrogen cloud(수소 구름)입니다",
+   "tip": "Earth’s atmosphere 를 꾸미는 말로 붙이면 대기가 차가워졌다는 다른 말이 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>ultimately altering the conditions at the surface.</b> — 무엇의 표면입니까?",
+   "a": "지구의 지표면입니다",
+   "tip": "태양이나 구름의 표면이 아닙니다. 이 문단은 내내 지구 대기에 대해 말하고 있습니다."
+  }
+ ],
+ "92a54f4a|9.2": [
+  {
+   "t": "mod",
+   "q": "<b>including possible ice ages.</b> 는 무엇의 예입니까?",
+   "a": "Earth’s ancient changes in climate(지구의 옛 기후 변화)의 예입니다",
+   "tip": "colder regions 의 예로 붙이면 어긋납니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>our heliosphere’s trips through colder regions in our galaxy</b> — 더 차가운 지역을 지나간 것은 무엇입니까?",
+   "a": "우리 태양권입니다",
+   "tip": "주어가 길어 동사 may be 를 놓치기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>may be a key factor</b> — 확정된 결론입니까?",
+   "a": "아니요, '핵심 요인일 수 있다'는 가능성입니다",
+   "tip": "may 를 빼고 읽으면 단정이 됩니다."
+  }
+ ],
+ "92a54f4a|10.0": [
+  {
+   "t": "who",
+   "q": "<b>that NASA funds</b> — 자금을 대는 쪽과 받는 쪽은 각각 어디입니까?",
+   "a": "대는 쪽은 NASA, 받는 쪽은 SHIELD를 비롯한 여러 센터입니다",
+   "tip": "funds 를 명사 '자금'으로 읽으면 관계절의 동사가 사라집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>The SHIELD center is one of several</b> — several 뒤에 생략된 말은 무엇입니까?",
+   "a": "centers(센터들)입니다 — NASA가 지원하는 여러 센터 가운데 하나라는 뜻입니다",
+   "tip": "several 을 '여러 연구'로 읽기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to unlock the next generation of heliospheric research.</b> 는 무엇의 목적입니까?",
+   "a": "NASA가 이런 센터들에 자금을 대는 목적입니다",
+   "tip": "SHIELD 가 하는 일 하나만의 목적으로 좁히면 어긋납니다."
+  }
+ ],
+ "92a54f4a|10.1": [
+  {
+   "t": "mod",
+   "q": "<b>that helps reveal how the heliosphere interacts with its surroundings,</b> 는 무엇을 설명합니까?",
+   "a": "앞의 a model, or “digital twin,” of the heliosphere(태양권의 모형)입니다",
+   "tip": "a team of researchers 를 설명하는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>with its surroundings,</b> 의 its 는 무엇을 가리킵니까?",
+   "a": "the heliosphere(태양권)입니다",
+   "tip": "SHIELD 나 the model 로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>with differing expertise, approaches, and opinions</b> 는 무엇을 설명합니까?",
+   "a": "앞의 a team of researchers — 전문 분야와 접근 방식, 견해가 서로 다른 연구자들이라는 뜻입니다",
+   "tip": "'다른 의견을 가지고 팀을 꾸린다'가 아니라, 서로 다른 연구자들을 모은다는 말입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>including dense interstellar clouds.</b> 는 무엇의 예입니까?",
+   "a": "its surroundings(태양권의 주변 환경)의 예입니다",
+   "tip": "researchers 나 model 의 예가 아닙니다."
+  }
+ ],
+ "92a54f4a|10.2": [
+  {
+   "t": "who",
+   "q": "<b>Understanding our unique, habitable solar system will help</b> — 도움이 되는 쪽(주어)은 사람입니까, 이해하는 그 일 자체입니까?",
+   "a": "이해하는 일 자체입니다 — 동명사구가 주어입니다",
+   "tip": "사람을 주어로 넣어 읽으면 동사 will help 의 자리를 놓칩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>and potentially uncover other habitable star systems.</b> — uncover 는 무엇에 걸립니까?",
+   "a": "앞의 will help 에 unravel 과 나란히 걸립니다",
+   "tip": "새 문장의 동사로 읽으면 뼈대가 둘로 갈라집니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the mysteries of life’s evolution on Earth</b> — on Earth 는 무엇에 붙는 말입니까?",
+   "a": "life’s evolution 에 붙습니다 — 지구에서 생명이 진화해 온 과정이라는 뜻입니다",
+   "tip": "태양계를 이해하는 일이 지구에서 이루어진다는 말이 아닙니다."
+  }
+ ],
+ "92a54f4a|11.0": [
+  {
+   "t": "mod",
+   "q": "<b>a scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland,</b> 는 무엇을 설명합니까?",
+   "a": "바로 앞의 Vladimir Airapetian(사람 이름)입니다 — 그의 직함과 소속입니다",
+   "tip": "또 다른 사람이 있다고 읽으면 주어가 둘이 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>how the ancient Sun warmed early Earth</b> — 데운 쪽과 데워진 쪽은 각각 무엇입니까?",
+   "a": "데운 것은 the ancient Sun(먼 옛날의 태양), 데워진 것은 early Earth(초기 지구)입니다",
+   "tip": "순서를 뒤집으면 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>enough to sustain life.</b> — 무엇이 '생명을 지탱할 만큼'입니까?",
+   "a": "태양이 초기 지구를 데운 정도(따뜻함)입니다",
+   "tip": "태양 자체를 꾸미는 말이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>focuses on a long-standing mystery</b> 와 <b>warmed early Earth</b> — 두 일의 시점은 같습니까?",
+   "a": "다릅니다 — 주목하는 것은 지금(현재), 데운 것은 먼 옛날(과거)입니다",
+   "tip": "한 문장 안에 현재와 과거가 함께 들어 있습니다."
+  }
+ ],
+ "92a54f4a|11.1": [
+  {
+   "t": "mod",
+   "q": "<b>the young Sun was 70% as bright as it is today.</b> — 그때 태양은 지금보다 밝았습니까, 어두웠습니까?",
+   "a": "어두웠습니다 — 지금 밝기의 70%였습니다",
+   "tip": "'70% 더 밝다'로 읽으면 뜻이 정반대가 됩니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>as it is today.</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "the Sun(태양)입니다 — 오늘날의 태양입니다",
+   "tip": "Earth 로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>Three billion years ago,</b> 는 언제입니까?",
+   "a": "30억 년 전입니다",
+   "tip": "billion 은 10억입니다. 3 billion = 30억."
+  }
+ ],
+ "92a54f4a|11.2": [
+  {
+   "t": "time",
+   "q": "<b>Earth should have been frozen solid.</b> — 지구가 실제로 꽁꽁 얼어 있었다는 말입니까?",
+   "a": "아니요. 이론대로라면 얼어 있었어야 한다는 말이고, 실제로는 그렇지 않았습니다",
+   "tip": "should have p.p. 는 '~했어야 했다(그런데 실제로는 아니었다)'입니다. 다음 문장에서 뒤집힙니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>Under these dimmer conditions,</b> 의 these dimmer conditions 는 무엇을 가리킵니까?",
+   "a": "앞 문장의, 태양이 지금의 70% 밝기밖에 안 되던 상황입니다",
+   "tip": "these 는 앞에서 말한 것을 받습니다."
+  }
+ ],
+ "92a54f4a|11.3": [
+  {
+   "t": "pron",
+   "q": "<b>long before that.</b> 의 that 은 무엇을 가리킵니까?",
+   "a": "앞에서 말한 30억 년 전이라는 시점입니다",
+   "tip": "'그 증거'나 '그 얼어붙음'으로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>stable liquid water already existed long before that.</b> — 액체 상태의 물은 그 시점보다 앞입니까, 뒤입니까?",
+   "a": "훨씬 앞입니다 — 그전부터 이미 있었습니다",
+   "tip": "before 를 놓치면 시간 순서가 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>Yet geological evidence shows</b> — 문장 맨 앞의 Yet 은 '아직'이라는 뜻입니까?",
+   "a": "아니요, '그런데도, 그러나'라는 뜻으로 앞 문장을 뒤집는 말입니다",
+   "tip": "'아직'으로 읽으면 앞뒤가 이어지지 않습니다."
+  }
+ ],
+ "92a54f4a|11.4": [
+  {
+   "t": "mod",
+   "q": "<b>— a balmy Earth under a cooler, dimmer Sun —</b> 는 무엇을 설명합니까?",
+   "a": "앞의 This puzzle — 그 수수께끼가 무엇인지입니다",
+   "tip": "대시 안쪽을 주어로 읽으면 동사 is known 의 주어를 놓칩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>is known as the Faint Young Sun paradox.</b> — 그렇게 부르는 쪽이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태) — 그렇게 불린다는 사실만 말합니다",
+   "tip": "수동태는 행위자를 감춥니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>a cooler, dimmer Sun</b> — 무엇에 견주어 더 차갑고 더 어둡습니까?",
+   "a": "오늘날의 태양에 견주어서입니다",
+   "tip": "비교급이므로 견줄 대상이 있어야 하는데, 그 대상은 지금의 태양입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>a balmy Earth</b> — 지구는 추웠습니까, 따뜻했습니까?",
+   "a": "따뜻했습니다(balmy = 포근한)",
+   "tip": "태양은 어두운데 지구는 따뜻했다는 어긋남이 이 역설의 핵심입니다."
+  }
+ ],
+ "92a54f4a|12.0": [
+  {
+   "t": "mod",
+   "q": "<b>One clue to resolving the paradox</b> — 이 문장의 주어는 어디까지이고 동사는 무엇입니까?",
+   "a": "주어는 One clue to resolving the paradox 까지이고 동사는 comes 입니다",
+   "tip": "to resolving 을 동사로 읽으면 뼈대가 무너집니다. to 가 전치사라 뒤에 -ing 가 왔습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>young Sun-like stars</b> 는 어떤 별들입니까?",
+   "a": "우리 태양을 닮았고 나이가 어린 별들입니다",
+   "tip": "'태양처럼 젊은 별'이 아니라 '태양을 닮은, 젊은 별'입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>elsewhere in the galaxy.</b> 는 무엇을 설명합니까?",
+   "a": "앞의 young Sun-like stars — 은하의 다른 곳에 있는 별들이라는 뜻입니다",
+   "tip": "실마리가 나온 장소가 아니라 별들이 있는 곳입니다."
+  }
+ ],
+ "92a54f4a|12.1": [
+  {
+   "t": "pron",
+   "q": "<b>These “toddler” stars</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장의 young Sun-like stars(태양을 닮은 젊은 별들)입니다",
+   "tip": "진짜 아기가 아니라 어린아이에 빗대어 부른 말입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>are prone to throwing fits.</b> 는 무슨 뜻입니까?",
+   "a": "걸핏하면 성질을 부린다 — 곧 갑자기 크게 폭발한다는 뜻입니다",
+   "tip": "be prone to 뒤에는 동사원형이 아니라 -ing 가 옵니다."
+  }
+ ],
+ "92a54f4a|12.2": [
+  {
+   "t": "who",
+   "q": "<b>flinging high-energy particles in all directions</b> — 뿜어내는 쪽은 무엇입니까?",
+   "a": "young Sun-like stars(태양을 닮은 젊은 별들)입니다",
+   "tip": "분사구문의 주체는 앞 절의 주어인 별들이지 자료나 망원경이 아닙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>data from NASA’s retired Kepler space telescope shows</b> — retired 는 무엇을 설명합니까?",
+   "a": "Kepler space telescope(케플러 우주망원경)입니다 — 이미 임무를 마친 망원경이라는 뜻입니다",
+   "tip": "사람이 은퇴했다는 말이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>on a daily basis.</b> — 얼마나 자주 일어나는 일입니까?",
+   "a": "날마다(매일)입니다",
+   "tip": "'언젠가 한 번'이 아니라 일상적으로 되풀이된다는 뜻입니다."
+  }
+ ],
+ "92a54f4a|12.3": [
+  {
+   "t": "who",
+   "q": "<b>Airapetian proposes,</b> — 이 문장은 확인된 사실입니까, 누가 내놓은 제안입니까?",
+   "a": "아이라페티안이 내놓은 제안입니다",
+   "tip": "쉼표 사이에 낀 삽입절을 빼먹으면 확정된 사실처럼 읽힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that were key to warming early Earth.</b> 는 무엇을 설명합니까?",
+   "a": "앞의 chemical reactions(화학 반응들)입니다",
+   "tip": "solar particles 를 설명하는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>these other stars,</b> 는 무엇을 가리킵니까?",
+   "a": "앞에서 말한, 태양을 닮은 젊은 별들('걸음마쟁이' 별들)입니다",
+   "tip": "these 는 앞에서 말한 것을 받습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>could have triggered chemical reactions</b> — 실제로 일어났다고 확인된 일입니까?",
+   "a": "아니요, 먼 옛날에 그랬을 수 있다는 추측입니다",
+   "tip": "could have p.p. 는 과거에 대한 추측입니다."
+  }
+ ],
+ "92a54f4a|13.0": [
+  {
+   "t": "who",
+   "q": "<b>mixing molecular nitrogen, ammonia,</b> — 섞은 쪽은 누구입니까?",
+   "a": "Airapetian’s team(아이라페티안의 연구진)입니다",
+   "tip": "분사구문의 주체는 앞 절의 주어입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>in a sealed chamber,</b> — 이 일은 어디에서 이루어졌습니까?",
+   "a": "밀폐된 실험 용기(챔버) 안입니다 — 실제 지구 대기가 아니라 실험실에서 재현한 것입니다",
+   "tip": "simulated 는 '재현했다'는 뜻입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>carbon dioxide, and carbon monoxide.</b> — 이 둘은 같은 기체입니까?",
+   "a": "아니요. 이산화탄소와 일산화탄소로 서로 다른 기체입니다",
+   "tip": "di-(2)와 mono-(1)의 차이입니다. 이름이 비슷해 하나로 뭉뚱그리기 쉽습니다."
+  }
+ ],
+ "92a54f4a|13.1": [
+  {
+   "t": "pron",
+   "q": "<b>They then fired protons into the mixture,</b> 의 They 는 누구입니까?",
+   "a": "앞 문장의 아이라페티안 연구진입니다",
+   "tip": "별이나 입자로 잡기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>then</b> 은 여기서 무슨 뜻입니까?",
+   "a": "'그런 다음'입니다 — 앞 문장에서 기체를 섞은 뒤에 한 일입니다",
+   "tip": "'그때'로 읽으면 앞뒤 순서가 사라집니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>simulating the onslaught of particles from superflares.</b> — 무엇을 흉내 낸 것입니까?",
+   "a": "초대형 플레어에서 쏟아져 나오는 입자의 세례입니다 — 연구진이 쏜 양성자가 그것을 흉내 낸 것입니다",
+   "tip": "분사구문의 주체는 앞 절의 주어 They 입니다."
+  }
+ ],
+ "92a54f4a|13.2": [
+  {
+   "t": "mod",
+   "q": "<b>a greenhouse gas 300 times more potent than carbon dioxide.</b> 는 무엇을 설명합니까?",
+   "a": "바로 앞의 nitrous oxide(아산화질소)입니다",
+   "tip": "또 다른 기체가 하나 더 나온 줄 알면 대상이 늘어납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>300 times more potent than carbon dioxide.</b> — 어느 쪽이 더 강합니까?",
+   "a": "아산화질소가 이산화탄소보다 300배 강합니다",
+   "tip": "than 뒤가 견주는 기준(덜 강한 쪽)입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>This proton bombardment</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 연구진이 혼합 기체에 양성자를 쏘아 넣은 일입니다",
+   "tip": "This 는 앞에서 말한 것을 받습니다."
+  }
+ ],
+ "92a54f4a|13.3": [
+  {
+   "t": "who",
+   "q": "<b>The research was published</b> — 발표한 쪽이 이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태). 실린 곳만 in 뒤에 나옵니다",
+   "tip": "주어 The research 를 발표한 쪽으로 읽으면 주체와 대상이 뒤집힙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>was published</b> — 앞으로 실릴 예정입니까?",
+   "a": "아니요, 이미 실렸습니다(과거)",
+   "tip": "수동태의 과거형입니다."
+  }
+ ],
+ "92a54f4a|14.0": [
+  {
+   "t": "who",
+   "q": "<b>could help Earth hold onto heat.</b> — 열을 붙잡아 두는 쪽은 무엇입니까?",
+   "a": "Earth(지구)입니다. 아산화질소는 그것을 돕는 쪽입니다",
+   "tip": "help + 목적어 + 동사원형에서, 동사원형의 주체는 목적어입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>This nitrous oxide</b> 는 무엇을 가리킵니까?",
+   "a": "앞 문장에서 양성자를 쏘았을 때 만들어진 아산화질소입니다",
+   "tip": "This 는 앞에서 말한 것을 받습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>This nitrous oxide could help</b> — 확인된 사실입니까?",
+   "a": "아니요, '도움이 될 수 있다'는 가능성입니다",
+   "tip": "could 를 빼고 읽으면 단정이 됩니다."
+  }
+ ],
+ "92a54f4a|14.1": [
+  {
+   "t": "neg",
+   "q": "<b>But not all the nitrous oxide would last.</b> — 아산화질소가 하나도 남지 않았다는 뜻입니까?",
+   "a": "아니요. 전부가 남지는 않았다는 뜻(부분 부정)으로, 일부는 남았습니다",
+   "tip": "not all 은 부분 부정입니다. '하나도 없다'는 none 입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>would last.</b> — last 는 여기서 무슨 뜻입니까?",
+   "a": "'지속되다, 그대로 남아 있다'는 동사입니다",
+   "tip": "'마지막의'라는 형용사로 읽으면 문장의 동사가 사라집니다."
+  }
+ ],
+ "92a54f4a|14.2": [
+  {
+   "t": "pron",
+   "q": "<b>would break some of it down,</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "앞 문장의 the nitrous oxide(아산화질소)입니다",
+   "tip": "the molecule 이나 태양으로 잡기 쉽습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>The young Sun’s intense ultraviolet radiation</b> — 분해하는 쪽은 무엇입니까?",
+   "a": "젊은 태양이 내뿜는 강한 자외선입니다",
+   "tip": "주어가 길어 놓치기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>some of it</b> — 아산화질소 전부가 분해되었다는 뜻입니까?",
+   "a": "아니요, 일부입니다",
+   "tip": "some 을 놓치면 전부 사라진 것이 되어 다음 문장과 어긋납니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>splitting the molecule back into nitrogen and oxygen.</b> — 쪼개진 결과 무엇이 됩니까?",
+   "a": "질소와 산소가 됩니다",
+   "tip": "back into 는 '원래대로 되돌려'라는 뜻입니다."
+  }
+ ],
+ "92a54f4a|14.3": [
+  {
+   "t": "mod",
+   "q": "<b>observed in the experiment survived,</b> — observed in the experiment 는 무엇을 설명합니까?",
+   "a": "앞의 the nitrous(그 아산화질소)입니다 — 실험에서 관측된 양이라는 뜻입니다",
+   "tip": "문장의 동사로 읽으면 뒤의 survived 와 뒤엉킵니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>Airapetian’s team’s computer simulations confirmed,</b> — 확인한 쪽은 무엇입니까?",
+   "a": "아이라페티안 연구진의 컴퓨터 모의실험입니다",
+   "tip": "쉼표 사이에 낀 삽입절이라 자칫 주절의 주어로 잘못 잡습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>it would still warm Earth’s equatorial regions</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "살아남은 그 아산화질소(10%만 남은 아산화질소)입니다",
+   "tip": "모의실험이나 태양으로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>above water’s freezing point.</b> 는 무엇을 설명합니까?",
+   "a": "앞의 41도(섭씨 5도)라는 온도입니다 — 물이 어는 온도보다 높다는 뜻입니다",
+   "tip": "지구 적도 지역이 물 어는점 위에 있다는 말이 아닙니다."
+  }
+ ],
+ "92a54f4a|14.4": [
+  {
+   "t": "who",
+   "q": "<b>have been found</b> — 밝혀낸 쪽이 이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태) — '~인 것으로 밝혀졌다'고만 말합니다",
+   "tip": "주어인 온도를 밝혀낸 쪽으로 읽으면 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to be more efficient for building complex chains of amino acids than warmer temperatures.</b> — 어느 쪽이 더 효율적입니까?",
+   "a": "어는점을 갓 넘긴 온도(just-above-freezing)입니다",
+   "tip": "than 뒤가 견주는 대상(덜한 쪽)입니다. 따뜻할수록 좋은 것이 아닙니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>This smaller amount of nitrous</b> 는 무엇을 가리킵니까?",
+   "a": "자외선에 일부가 분해되고 남은, 앞 문장의 10% 정도의 아산화질소입니다",
+   "tip": "This 는 앞에서 말한 것을 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>just-above-freezing temperatures</b> 는 어느 정도의 온도입니까?",
+   "a": "어는점(물이 어는 온도)을 갓 넘긴, 아주 차가운 온도입니다",
+   "tip": "'얼기 직전'이 아니라 '어는점 바로 위'입니다."
+  }
+ ],
+ "92a54f4a|15.0": [
+  {
+   "t": "pron",
+   "q": "<b>these two studies</b> 는 어느 연구 둘을 가리킵니까?",
+   "a": "SHIELD의 태양권 이동 연구와 아이라페티안의 아산화질소 연구입니다",
+   "tip": "these 는 앞에서 말한 것을 받습니다. 기사 전체가 다룬 두 연구입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>the Sun can lead to surprising implications for Earth.</b> — 영향을 주는 쪽과 받는 쪽은 각각 무엇입니까?",
+   "a": "주는 쪽은 태양, 받는 쪽은 지구입니다",
+   "tip": "for Earth 는 '지구에게'라는 뜻입니다."
+  }
+ ],
+ "92a54f4a|15.1": [
+  {
+   "t": "pron",
+   "q": "<b>it was formed and has always existed</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "our planet(우리 행성, 곧 지구)입니다",
+   "tip": "a star-planet system 으로 잡기 쉽습니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>it was formed</b> — 만든 쪽이 이 문장에 나옵니까?",
+   "a": "나오지 않습니다(수동태). 지구는 만들어진 쪽입니다",
+   "tip": "'지구가 만들었다'로 읽으면 주체와 대상이 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>While our planet stands alone in many ways,</b> — 여기서 While 은 '~하는 동안'입니까?",
+   "a": "아니요, '~이기는 하지만'이라는 양보입니다",
+   "tip": "시간으로 읽으면 뒤 절과 이어지지 않습니다."
+  }
+ ],
+ "92a54f4a|15.2": [
+  {
+   "t": "pron",
+   "q": "<b>that sustains it.</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "Earth(지구)입니다",
+   "tip": "the star 로 잡으면 별이 자기 자신을 떠받친다는 말이 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that sustains it.</b> 는 무엇을 설명합니까?",
+   "a": "앞의 the star(그 별, 곧 태양)입니다",
+   "tip": "both Earth and ~ 의 Earth 를 꾸미는 말이 아닙니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>Understanding that unique relationship promises new insights</b> — 새로운 통찰을 가져다주는 쪽은 무엇입니까?",
+   "a": "그 남다른 관계를 이해하는 일 자체입니다(동명사구가 주어)",
+   "tip": "사람을 주어로 넣어 읽으면 동사 promises 의 자리를 놓칩니다."
+  }
+ ],
+ "92a54f4a|16.0": [
+  {
+   "t": "who",
+   "q": "<b>By Desiree Apodaca and Miles Hatfield</b> — 이 두 사람은 무엇을 한 사람들입니까?",
+   "a": "이 기사를 쓴 사람들(필자)입니다",
+   "tip": "연구를 한 과학자가 아닙니다. By ~ 는 '~가 씀'이라는 표시입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>NASA’s Goddard Space Flight Center, Greenbelt, Md.</b> 는 무엇을 밝힌 말입니까?",
+   "a": "두 필자의 소속 기관과 그 소재지입니다",
+   "tip": "앞의 이름들에 이어 붙은 표시이지 새 문장이 아닙니다."
+  }
+ ],
+ "92a54f4a|17.0": [
+  {
+   "t": "who",
+   "q": "<b>The drying of the massive lake exposed playas</b> — 드러낸 쪽과 드러난 쪽은 각각 무엇입니까?",
+   "a": "드러낸 것은 그 거대한 호수가 마른 일, 드러난 것은 playas(마른 호수 바닥)입니다",
+   "tip": "exposed 를 '드러났다'로 읽으면 주어와 목적어가 뒤바뀝니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that became the setting for feats of…</b> 는 무엇을 설명합니까?",
+   "a": "앞의 playas(드러난 호수 바닥)입니다",
+   "tip": "the massive lake 를 설명하는 말로 붙이면 어긋납니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>exposed playas</b> — 호수는 지금 마르는 중입니까, 이미 마른 것입니까?",
+   "a": "이미 일어난 일입니다 — exposed 와 became 이 모두 과거형입니다",
+   "tip": "The drying 이라는 -ing 형태 때문에 진행 중으로 읽기 쉽습니다."
+  }
+ ],
+ "92a54f4a|18.0": [
+  {
+   "t": "mod",
+   "q": "<b>and taking a toll in…</b> — 이 말은 무엇에 걸립니까?",
+   "a": "앞의 is 에 breaking 과 나란히 걸립니다(is breaking … and (is) taking …)",
+   "tip": "분사구문으로 따로 떼어 읽으면 두 번째 동사를 놓칩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>A series of heat waves in 2026 is breaking records</b> — 기록을 갈아 치우는 쪽은 무엇입니까?",
+   "a": "2026년에 잇따른 폭염입니다",
+   "tip": "주어의 핵심이 A series 라서 동사가 단수 is 입니다. heat waves 에 끌려 복수로 보기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>is breaking records and taking a toll in…</b> — 이미 끝난 일입니까, 지금 벌어지는 일입니까?",
+   "a": "지금 벌어지고 있는 일입니다(현재진행)",
+   "tip": "현재진행형이므로 아직 이어지는 중입니다."
+  }
+ ]
+}

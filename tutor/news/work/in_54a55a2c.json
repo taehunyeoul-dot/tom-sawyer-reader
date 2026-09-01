@@ -1,0 +1,224 @@
+[
+ {
+  "id": "54a55a2c|0.0",
+  "en": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
+  "auto_s": "NASA’s Nancy Grace Roman Space Telescope",
+  "auto_v": "reveal"
+ },
+ {
+  "id": "54a55a2c|0.1",
+  "en": "The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida.",
+  "auto_s": "The mission",
+  "auto_v": "launched"
+ },
+ {
+  "id": "54a55a2c|1.0",
+  "en": "Roman pairs a large field of view with crisp infrared vision to explore vast swaths of the sky and probe deeply into cosmic history.",
+  "auto_s": "Roman",
+  "auto_v": "pairs"
+ },
+ {
+  "id": "54a55a2c|1.1",
+  "en": "This flagship mission will help astronomers explore dark matter , dark energy , and worlds outside of our solar system , known as exoplanets.",
+  "auto_s": "This flagship mission",
+  "auto_v": "will help"
+ },
+ {
+  "id": "54a55a2c|1.2",
+  "en": "Its surveys will support a broad range of research extending far beyond the mission’s main science goals.",
+  "auto_s": "Its surveys",
+  "auto_v": "will support"
+ },
+ {
+  "id": "54a55a2c|2.0",
+  "en": "“Roman is exactly the kind of success story we want to see across NASA,” said NASA Administrator Jared Isaacman.",
+  "auto_s": "Roman",
+  "auto_v": "is"
+ },
+ {
+  "id": "54a55a2c|2.1",
+  "en": "“Delivered ahead of schedule and on budget, this mission reflects more than a decade of dedication from the NASA workforce and our industry partners.",
+  "auto_s": "this mission",
+  "auto_v": "reflects"
+ },
+ {
+  "id": "54a55a2c|2.2",
+  "en": "Now, Roman will give us a new atlas of the universe, push the boundaries of discovery, and demonstrate what is possible when America’s space program pairs bold ambition with disciplined execution.”",
+  "auto_s": "Roman",
+  "auto_v": "will give"
+ },
+ {
+  "id": "54a55a2c|3.0",
+  "en": "The ground control team at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, began receiving telemetry data from Roman seven minutes after launch.",
+  "auto_s": "The ground control team",
+  "auto_v": "began"
+ },
+ {
+  "id": "54a55a2c|3.1",
+  "en": "The Falcon Heavy rocket performed as expected, separating from the observatory 31 minutes into the flight.",
+  "auto_s": "The Falcon Heavy rocket",
+  "auto_v": "performed"
+ },
+ {
+  "id": "54a55a2c|3.2",
+  "en": "After separating from the center core, the rocket’s boosters safely returned to the launch site for refurbishment.",
+  "auto_s": "the rocket’s boosters",
+  "auto_v": "returned"
+ },
+ {
+  "id": "54a55a2c|4.0",
+  "en": "“Roman will be a discovery machine that will bring us closer than ever before to answering humanity’s most profound questions about our cosmic history,” said Nicky Fox, associate administrator for the Science Mission Directorate at NASA Headquarters in Washington.",
+  "auto_s": "Roman",
+  "auto_v": "will be"
+ },
+ {
+  "id": "54a55a2c|4.1",
+  "en": "“With its large field of view and fast survey speeds, Roman will usher us into a new era of discovery and make the invisible visible, setting the foundation for humanity’s search for life beyond our solar system.”",
+  "auto_s": "Roman",
+  "auto_v": "will usher"
+ },
+ {
+  "id": "54a55a2c|5.0",
+  "en": "During launch and early orbit, Roman uses the Near Space Network’s ground stations and relay satellites to exchange tracking, telemetry, and command data with ground controllers.",
+  "auto_s": "Roman",
+  "auto_v": "uses"
+ },
+ {
+  "id": "54a55a2c|5.1",
+  "en": "About 70 minutes after launch, the Deep Space Network takes over communications and guides Roman toward the second Sun-Earth Lagrange point, or L2, about one million miles from Earth.",
+  "auto_s": "the Deep Space Network",
+  "auto_v": "takes over"
+ },
+ {
+  "id": "54a55a2c|5.2",
+  "en": "Roman connects to that network through the Canberra Deep Space Communication Complex in Australia first.",
+  "auto_s": "Roman",
+  "auto_v": "connects"
+ },
+ {
+  "id": "54a55a2c|5.3",
+  "en": "Approximately six hours later it will transfer to the Madrid Deep Space Communication Complex in Spain and then to the Goldstone Deep Space Communication Complex in California, ensuring continuous contact with Roman throughout its journey.",
+  "auto_s": "it",
+  "auto_v": "will transfer"
+ },
+ {
+  "id": "54a55a2c|6.0",
+  "en": "The Roman team also confirmed successful deployment of the observatory’s solar panels and lower instrument sun shade an hour and 23 minutes after launch.",
+  "auto_s": "The Roman team",
+  "auto_v": "confirmed"
+ },
+ {
+  "id": "54a55a2c|6.1",
+  "en": "Within the upcoming days, Roman’s high-gain antenna and visor-like deployable aperture cover will deploy, ground controllers will initiate the first of two-mid-course corrections, and the Coronagraph Instrument will power on.",
+  "auto_s": "Roman’s high-gain antenna and visor-like deployable aperture cover",
+  "auto_v": "will deploy"
+ },
+ {
+  "id": "54a55a2c|6.2",
+  "en": "This instrument will demonstrate the technology that future missions like NASA’s Habitable Worlds Observatory concept could use to image Earth-like planets in the search for life in the universe.",
+  "auto_s": "This instrument",
+  "auto_v": "will demonstrate"
+ },
+ {
+  "id": "54a55a2c|6.3",
+  "en": "Roman’s Coronagraph will take a giant step in that direction by snapping pictures of Jupiter-like planets.",
+  "auto_s": "Roman’s Coronagraph",
+  "auto_v": "will take"
+ },
+ {
+  "id": "54a55a2c|7.0",
+  "en": "A few weeks into Roman’s voyage, its primary instrument, the Wide Field Instrument , will activate.",
+  "auto_s": "its primary instrument, the Wide Field Instrument",
+  "auto_v": "will activate"
+ },
+ {
+  "id": "54a55a2c|7.1",
+  "en": "This 300-megapixel infrared camera has 18 4K detectors, each about the size of a saltine cracker.",
+  "auto_s": "This 300-megapixel infrared camera",
+  "auto_v": "has"
+ },
+ {
+  "id": "54a55a2c|7.2",
+  "en": "These detectors collect photons of light that will be decoded into crisp cosmic panoramas.",
+  "auto_s": "These detectors",
+  "auto_v": "collect"
+ },
+ {
+  "id": "54a55a2c|7.3",
+  "en": "Thanks to the observatory’s rigid design and stable optical performance, it will rapidly scan the sky without needing substantial time between separate observations.",
+  "auto_s": "it",
+  "auto_v": "scan"
+ },
+ {
+  "id": "54a55a2c|7.4",
+  "en": "The Roman telescope is designed to survey the universe a thousand times faster than NASA’s Hubble Space Telescope.",
+  "auto_s": "The Roman telescope",
+  "auto_v": "is designed"
+ },
+ {
+  "id": "54a55a2c|8.0",
+  "en": "Throughout the rest of Roman’s three-month commissioning period, scientists will run the instruments through a series of calibrations and tests.",
+  "auto_s": "scientists",
+  "auto_v": "will run"
+ },
+ {
+  "id": "54a55a2c|8.1",
+  "en": "NASA anticipates releasing Roman’s first images by early 2027.",
+  "auto_s": "NASA",
+  "auto_v": "anticipates"
+ },
+ {
+  "id": "54a55a2c|9.0",
+  "en": "Roman will send back 1.4 terabytes of data every day, the highest data rate of any NASA astrophysics mission, so far.",
+  "auto_s": "Roman",
+  "auto_v": "will send"
+ },
+ {
+  "id": "54a55a2c|9.1",
+  "en": "Machine learning, artificial intelligence, and citizen scientists will help sift through it and flag significant findings, which astronomers can then study.",
+  "auto_s": "Machine learning",
+  "auto_v": "will help"
+ },
+ {
+  "id": "54a55a2c|10.0",
+  "en": "“We’ve never been able to view the universe with eyes like Roman’s before,” said Julie McEnery, Roman’s senior project scientist at NASA Goddard.",
+  "auto_s": "We",
+  "auto_v": "’ve never been"
+ },
+ {
+  "id": "54a55a2c|10.1",
+  "en": "“There’s no telling what more we’ll know and have seen by this time next year.”",
+  "auto_s": "There",
+  "auto_v": "’s"
+ },
+ {
+  "id": "54a55a2c|11.0",
+  "en": "Roman is the fourth primary mission NASA has launched on a Falcon Heavy rocket.",
+  "auto_s": "Roman",
+  "auto_v": "is"
+ },
+ {
+  "id": "54a55a2c|11.1",
+  "en": "Earlier this year, the agency’s Launch Services Program worked with SpaceX to accelerate the launch date to accommodate the space telescope’s early completion.",
+  "auto_s": "the agency’s Launch Services Program",
+  "auto_v": "worked"
+ },
+ {
+  "id": "54a55a2c|12.0",
+  "en": "The telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena, California; the Space Telescope Science Institute in Baltimore; and a team of scientists from various research institutions.",
+  "auto_s": "The telescope",
+  "auto_v": "is managed"
+ },
+ {
+  "id": "54a55a2c|12.1",
+  "en": "The primary industrial partners are BAE Systems Inc., L3Harris Technologies, and Teledyne Scientific & Imaging.",
+  "auto_s": "The primary industrial partners",
+  "auto_v": "are"
+ },
+ {
+  "id": "54a55a2c|12.2",
+  "en": "Contributions to Roman also are made by ESA, JAXA, the French space agency CNES (Centre National d’Études Spatiales), and the Max Planck Institute for Astronomy in Germany.",
+  "auto_s": "Contributions to Roman",
+  "auto_v": "are made"
+ }
+]

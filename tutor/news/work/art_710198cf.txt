@@ -1,0 +1,42 @@
+NASA Selects University Teams to Help Advance Aviation Research
+NASA · 2026-08-20
+https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/
+
+[0.0] NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities.
+
+[1.0] The agency made awards through its University Leadership Initiative , which offers student teams the opportunity to contribute to real-world flight research that advances NASA’s goals in aeronautics.
+
+[2.0] This year’s awardees are pursuing projects that align with NASA strategic objectives, including innovation in commercial high-speed aircraft, the development of new tools that can lead to transformational aviation breakthroughs, safer and more efficient air traffic management, and the integration of new air transportation options into the national airspace.
+
+[3.0] “With these four new awards, the University Innovation project is leaning in on NASA’s aeronautics mission priorities,” said Andrew Provenza, project manager, NASA’s Glenn Research Center in Cleveland.
+[3.1] “These teams will research new propulsion concepts for supersonic flight, novel engineering methods that can revolutionize aerospace system design and certification, and learning-enabled avionics for new advanced and urban air mobility flight vehicle platforms, which could enhance air traffic control modernization.”
+
+[4.0] The awards represent the ninth round of NASA University Leadership Initiative funding.
+
+[5.0] Totaling about $30 million, NASA’s awards will provide multiyear support for awardee universities to build their teams and conduct research.
+[5.1] The initiative provides hands-on experiences for students, developing the U.S. aeronautics research workforce while also producing findings that will help drive aviation forward.
+
+[6.0] University Leadership Initiative awards go to teams comprised of graduate and undergraduate students and led by faculty members.
+[6.1] Recipients form academic partnerships with other universities and community colleges, as well as industry.
+[6.2] Experts from NASA, the Federal Aviation Administration, and other organizations provide support and guidance.
+
+[7.0] Led by Terrence Meyer, the project will work over four years to develop a fuel-flexible propulsion system that uses a traditional jet turbofan during takeoff and subsonic flight, but would transition to a new type of ramjet engine for supersonic flight.
+[7.1] In ramjet mode, the system would cruise at Mach 4, or more than 3,000 mph.
+[7.2] The project aims to enable efficient, faster-than-sound flight, including flight at high-supersonic speeds.
+
+[8.0] Led by Somil Bansal, this four-year project aims to develop an avionics system to control an aircraft’s communications, navigation, and other electronics that incorporates machine learning.
+[8.1] The system would take an approach that ensures safety is continuously reinforced throughout its operations.
+[8.2] This research could help create a framework for the aviation sector to safely integrate artificial intelligence-enabled avionics into the national airspace.
+
+[9.0] Led by Juan Alonso, the center created through this award will work over four years to develop a high-fidelity simulation framework focused on developing low-noise flight paths in urban environments for future small aircraft.
+[9.1] Developers are envisioning urban air mobility aircraft as ways to move people and cargo over populated areas.
+[9.2] This center would integrate realistic models of how sound travels in cities to enable vehicle flight paths that would reduce community noise exposure from new air traffic.
+
+[10.0] Led by Darshan Sarojini, this three-year project proposes to transform next-generation aircraft design while integrating powerful new computer modeling tools: model-based systems engineering, multidisciplinary design, analysis and optimization, and high-dimensional uncertainty quantification.
+[10.1] The goal is safe, faster, and more efficient modeling that results in fewer costly redesigns later in the aircraft development cycle.
+
+[11.0] For more than 10 years , NASA’s University Leadership Initiative has fostered bold ideas, collaborative research, and team-led solutions.
+[11.1] The initiative is part of NASA’s Research and Technology Mission Directorate.
+
+[12.0] @NASA @NASAaero @NASAes @NASA @NASAaero @NASA_es Instagram logo @NASA @NASAaero @NASA_es Linkedin logo @NASA Explore More 3 min read NASA Student Aviation Challenge Focuses on Nation’s Infrastructure Article 2 days ago 6 min read NASA Glenn’s Legacy Forged Through Decades of Flight Research Article 2 days ago 3 min read NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies Article 6 days ago Keep Exploring Discover More Topics From NASA Missions
+

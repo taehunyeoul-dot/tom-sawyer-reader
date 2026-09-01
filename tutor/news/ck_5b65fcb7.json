@@ -1,0 +1,181 @@
+{
+ "5b65fcb7|0.0": [
+  {"t":"who","q":"<b>President Donald J.</b> — 이 조각 안에 '누가 무엇을 했다'는 동사가 들어 있습니까?","a":"없습니다. 사람 이름만 있고, 그 사람이 한 일(awarded)은 다음 문장에 나옵니다","tip":"동사가 보이지 않으면 문장이 아직 끝나지 않은 것입니다. 다음 문장 첫머리와 붙여 읽어야 합니다."},
+  {"t":"mod","q":"<b>J.</b> 뒤의 마침표는 문장이 끝났다는 표시입니까?","a":"아니요 — 가운데 이름의 약자 뒤에 찍는 점입니다. 이름은 다음 문장 첫머리의 Trump 로 이어집니다","tip":"영어 이름의 가운데 글자 약자 뒤에도 마침표를 찍습니다. 마침표가 곧 문장 끝은 아닙니다."}
+ ],
+ "5b65fcb7|0.1": [
+  {"t":"who","q":"<b>awarded</b> … <b>with the Congressional Space Medal of Honor</b> — 훈장을 준 쪽과 받은 쪽은 각각 누구입니까?","a":"준 쪽은 Trump(트럼프 대통령), 받은 쪽은 우주비행사 네 명입니다","tip":"award A with B 는 'A에게 B를 준다'입니다. with 뒤를 받는 사람으로 읽으면 주는 것과 받는 사람이 뒤바뀝니다."},
+  {"t":"mod","q":"<b>with the Congressional Space Medal of Honor</b> 는 받는 사람입니까, 주는 물건입니까?","a":"주는 물건(훈장)입니다. 받는 사람은 with 앞에 줄줄이 나온 우주비행사 네 명입니다","tip":"with 를 '~와 함께'로 읽으면 훈장이 동행하는 사람처럼 보입니다. 여기서는 '무엇을 주며'라는 뜻입니다."},
+  {"t":"mod","q":"<b>CSA (Canadian Space Agency) astronaut Jeremy Hansen</b> — 핸슨은 NASA 소속입니까?","a":"아니요 — 캐나다 우주국(CSA) 소속입니다. NASA 소속은 앞의 세 사람입니다","tip":"이름 앞에 붙은 기관 이름이 그 사람의 소속입니다. 넷을 한 무리로 뭉뚱그리면 소속이 뒤섞입니다."},
+  {"t":"time","q":"<b>Friday</b> 는 무엇이 있었던 날입니까? 임무가 있었던 날입니까?","a":"훈장을 수여한 날입니다. 임무는 그보다 앞에 있었습니다","tip":"Friday 는 전치사 없이 홀로 '금요일에'라는 때를 나타냅니다. 바로 뒤 during the Artemis II mission 은 훈장의 이유이지 수여한 때가 아닙니다."}
+ ],
+ "5b65fcb7|0.2": [
+  {"t":"pron","q":"<b>He</b> 는 누구입니까?","a":"트럼프 대통령입니다","tip":"바로 앞 문장 끝에 Jeremy Hansen 이 나와 그를 가리킨다고 읽기 쉽습니다. 상을 준 쪽이 He 입니다."},
+  {"t":"who","q":"<b>honoring the first medal recipients</b> — 기리는 쪽은 누구입니까?","a":"He, 곧 트럼프 대통령입니다","tip":"분사구문(-ing)의 주체는 앞 문장의 주어와 같습니다. 기념식이 기린다고 읽기 쉽습니다."},
+  {"t":"time","q":"<b>the first medal recipients since 2023</b> — 이 사람들이 2023년에 훈장을 받았다는 뜻입니까?","a":"아니요 — 2023년 이후로 처음 받는 사람들이라는 뜻입니다","tip":"since 는 '~이후로 줄곧'입니다. 2023년이 지난번 수여 시점이고, 이번이 그다음입니다."},
+  {"t":"mod","q":"<b>in Houston</b> 은 무엇의 위치를 밝히는 말입니까?","a":"바로 앞의 NASA’s Johnson Space Center(존슨우주센터)의 위치입니다","tip":"He 나 the awards 에 붙이지 마십시오. 맨 끝 전치사구는 바로 앞 명사에 붙는 경우가 많습니다."}
+ ],
+ "5b65fcb7|1.0": [
+  {"t":"time","q":"<b>on April 1</b> 과 <b>on April 10</b> — 각각 무엇이 있었던 날입니까?","a":"4월 1일은 발사, 4월 10일은 태평양 착수(귀환)입니다","tip":"날짜가 둘 나오면 어느 것이 어느 일인지 반드시 짝지어 두십시오."},
+  {"t":"who","q":"<b>launched</b> — 이 임무가 무엇인가를 쏘아 올렸다는 뜻입니까?","a":"아니요 — 그 임무(우주선)가 발사되었다는 뜻입니다","tip":"launch 는 '~을 쏘아 올리다'로도, '(로켓이) 발사되다'로도 씁니다. 뒤에 목적어가 없으면 뒤쪽 뜻입니다."},
+  {"t":"mod","q":"<b>NASA’s historic Artemis II mission</b> — 이 긴 명사구에서 중심이 되는 말은 무엇입니까?","a":"mission(임무)입니다. NASA’s / historic / Artemis II 는 모두 그 앞을 꾸미는 말입니다","tip":"명사 앞에 말이 여러 겹 붙으면 맨 끝 명사가 중심입니다. 뒤에서부터 '임무 ← 아르테미스 II ← 역사적인 ← NASA의' 순으로 풀면 됩니다."}
+ ],
+ "5b65fcb7|1.1": [
+  {"t":"mod","q":"<b>which the crew named Integrity</b> — Integrity 라는 이름이 붙은 것은 무엇입니까?","a":"NASA’s Orion spacecraft(오리온 우주선)입니다. SLS 로켓이 아닙니다","tip":"관계사 which 는 바로 앞의 명사를 받습니다. 한 문장에 로켓과 우주선이 함께 나와 헷갈리기 쉽습니다."},
+  {"t":"who","q":"<b>which the crew named Integrity</b> — 이름을 붙인 쪽은 누구입니까?","a":"the crew(승무원들)입니다","tip":"which 바로 뒤에 주어 the crew 가 나옵니다. 순서를 뒤집어 '승무원이 이름 지어졌다'로 읽지 마십시오."},
+  {"t":"pron","q":"<b>the agency’s SLS (Space Launch System) rocket</b> — the agency 는 어디를 가리킵니까?","a":"NASA입니다","tip":"기사에서 the agency 는 그 기사가 다루는 기관, 곧 NASA를 다시 가리키는 말로 자주 씁니다."},
+  {"t":"mod","q":"<b>the first astronauts to launch on the agency’s SLS</b> … <b>rocket</b> — 무엇에서 '첫 번째'라는 것입니까?","a":"SLS 로켓을 타고 발사된 첫 우주비행사라는 뜻입니다","tip":"first 를 '우주에 간 첫 사람'으로 넓게 읽으면 안 됩니다. 범위는 뒤의 to launch on ~ rocket 이 정합니다."}
+ ],
+ "5b65fcb7|1.2": [
+  {"t":"who","q":"<b>a previous record</b> <b>set by Apollo 13 astronauts in 1970</b> — 이 기록을 세운 쪽과 넘어선 쪽은 각각 누구입니까?","a":"세운 쪽은 1970년 아폴로 13호 우주비행사들, 넘어선 쪽은 이번 아르테미스 II 우주비행사들입니다","tip":"set by ~ 는 '~가 세운'이라는 수동입니다. 아폴로 13호가 이번에 기록을 세웠다고 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>farther than any humans have traveled before</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 252,756 miles, 곧 이번에 간 거리입니다","tip":"새 절로 보고 '다른 사람들이 더 멀리 갔다'로 읽지 마십시오. 앞의 거리를 '그보다 더 멀다'고 부연하는 말입니다."},
+  {"t":"time","q":"<b>in 1970</b> 은 언제 있었던 일을 가리킵니까?","a":"아폴로 13호가 이전 기록을 세운 때입니다. 이번 아르테미스 II 임무의 때가 아닙니다","tip":"문장 맨 끝의 연도가 문장 전체의 때라고 넘겨짚기 쉽습니다. 바로 앞 명사구에 붙는 때입니다."},
+  {"t":"pron","q":"<b>their record-setting mission</b> 의 their 는 누구를 가리킵니까?","a":"the astronauts, 곧 아르테미스 II 승무원들입니다","tip":"뒤에 나오는 주어를 앞의 their 가 미리 받는 꼴입니다. 아폴로 13호 승무원이 아닙니다."}
+ ],
+ "5b65fcb7|1.3": [
+  {"t":"pron","q":"<b>they</b> 는 누구입니까?","a":"앞 문장의 the astronauts, 곧 아르테미스 II 승무원들입니다","tip":"바로 앞 문장에서 이어지는 대명사입니다."},
+  {"t":"mod","q":"<b>In total</b> — 695,081마일은 앞 문장의 252,756마일에 더해지는 별개의 거리입니까?","a":"아니요 — 임무 전체를 합친 거리입니다. 252,756마일은 지구에서 가장 멀리 떨어졌던 거리입니다","tip":"숫자가 잇달아 나오면 더하기 쉽습니다. In total 은 '다 합쳐서'라는 뜻입니다."},
+  {"t":"mod","q":"<b>including a lunar flyby</b> 는 무엇에 딸린 말입니까?","a":"앞의 695,081 miles 에 딸린 말로, 그 비행 안에 달 근접 통과가 들어 있다는 뜻입니다","tip":"including 은 '~을 포함하여'입니다. 따로 더해지는 것이 아니라 안에 들어 있는 것입니다."}
+ ],
+ "5b65fcb7|2.0": [
+  {"t":"who","q":"<b>whose sense of daring and adventure led them further from Earth</b> — 이끈 쪽과 이끌린 쪽은 각각 무엇입니까?","a":"이끈 쪽은 그들의 대담함과 모험심(sense of daring and adventure), 이끌린 쪽은 네 명의 우주 영웅들(them)입니다","tip":"led 앞의 명사가 주어인데, 그것이 사람이 아니라 '마음가짐'입니다. 사람이 주어라고 넘겨짚기 쉽습니다."},
+  {"t":"pron","q":"<b>them</b> 은 누구를 가리킵니까?","a":"four intrepid space heroes, 곧 아르테미스 II 승무원 네 명입니다","tip":"바로 앞의 daring and adventure 를 받는다고 읽으면 뜻이 통하지 않습니다."},
+  {"t":"pron","q":"<b>“We gather on these historic grounds</b> — We 는 우주비행사 네 명을 가리킵니까?","a":"아니요 — 말하는 트럼프 대통령을 포함해 그 자리에 모인 사람들입니다. 우주비행사들은 뒤에 four intrepid space heroes 로 따로 나옵니다","tip":"기리는 쪽(We)과 기려지는 쪽(네 영웅)이 다릅니다. 따옴표 안의 We 는 늘 말하는 쪽입니다."}
+ ],
+ "5b65fcb7|2.1": [
+  {"t":"who","q":"<b>awarding the Congressional Space Medal of Honor to the remarkable crew of Artemis II</b> — 받는 쪽은 누구입니까?","a":"아르테미스 II 승무원들입니다. to 뒤가 받는 쪽입니다","tip":"앞의 0.1 문장은 'award 사람 with 훈장' 꼴이었고 여기는 'award 훈장 to 사람' 꼴입니다. 자리는 달라도 받는 쪽은 사람입니다."},
+  {"t":"time","q":"<b>Today we’re proudly awarding</b> — 수여는 앞으로 할 일입니까, 지금 하고 있는 일입니까?","a":"지금(그날) 하고 있는 일입니다","tip":"-ing 진행형이지만 Today 가 붙어 '오늘 이 자리에서'라는 뜻입니다. 예정으로 읽으면 시점이 어긋납니다."},
+  {"t":"pron","q":"<b>we</b> 는 누구입니까?","a":"상을 주는 쪽, 곧 말하는 트럼프 대통령 쪽입니다","tip":"바로 뒤에 받는 쪽(the remarkable crew of Artemis II)이 따로 나옵니다. 둘을 한데 뭉뚱그리면 안 됩니다."}
+ ],
+ "5b65fcb7|2.2": [
+  {"t":"neg","q":"<b>did not do it alone</b> — 우주비행사들이 그 일을 해냈습니까, 해내지 못했습니까?","a":"해냈습니다. 다만 그들만의 힘으로 한 것이 아니라는 뜻입니다","tip":"not 이 부정하는 것은 do 가 아니라 alone(혼자서)입니다. 부정어가 걸리는 자리를 놓치면 뜻이 정반대가 됩니다."},
+  {"t":"pron","q":"<b>it</b> 은 무엇을 가리킵니까?","a":"아르테미스 II 임무를 해낸 일입니다","tip":"앞에서 내내 말해 온 그 임무를 받는 말입니다."}
+ ],
+ "5b65fcb7|2.3": [
+  {"t":"who","q":"<b>who helped make this mission a great success</b> — 임무를 큰 성공으로 만드는 데 힘을 보탠 쪽은 누구입니까?","a":"앞에 나열된 엔지니어·과학자·발사와 착륙 전문가들, 곧 NASA의 모든 사람들입니다","tip":"who 가 바로 앞의 everyone at NASA 만 받는다고 보아도 되지만, 뜻은 앞에 나열된 사람들 전체입니다. 우주비행사들이 아닙니다."},
+  {"t":"mod","q":"<b>everyone at NASA</b> 는 앞에 나온 사람들과 다른 새로운 무리입니까?","a":"아니요 — 앞에 나열한 사람들을 한데 묶어 다시 말한 것입니다(동격)","tip":"쉼표로 이어진 마지막 항목이 앞의 것들을 한데 묶는 말일 때가 있습니다."},
+  {"t":"pron","q":"<b>I want to salute</b> — 말하는 I 는 누구입니까?","a":"트럼프 대통령입니다","tip":"이 따옴표는 앞에서 said President Trump 로 밝혀진 말이 이어지는 것입니다."}
+ ],
+ "5b65fcb7|3.0": [
+  {"t":"who","q":"<b>was authorized by Congress in 1969</b> — 이 훈장을 만든 쪽은 누구입니까?","a":"미국 의회(Congress)입니다. 훈장은 만들어진 쪽입니다","tip":"was authorized 는 수동태입니다. 주어인 훈장을 행위자로 읽으면 '훈장이 의회를 승인했다'가 되어 버립니다."},
+  {"t":"mod","q":"<b>who in the performance of duties has distinguished himself or herself</b> — 이 관계절은 무엇을 설명합니까?","a":"앞의 an astronaut(우주비행사)입니다","tip":"who 와 동사 has distinguished 사이에 in the performance of duties 가 끼어 있어 동사 찾기가 어렵습니다. 끼어든 부분은 괄호로 묶고 넘어가면 됩니다."},
+  {"t":"time","q":"<b>in 1969</b> — 이 훈장이 만들어진 해입니까, 처음 수여된 해입니까?","a":"만들어진(의회가 승인한) 해입니다","tip":"authorize 는 '수여하다'가 아니라 '(제도를) 승인해 두다'입니다."},
+  {"t":"mod","q":"<b>and contributions to the welfare of the nation and humanity</b> 는 무엇에 이어지는 말입니까?","a":"앞의 by exceptionally brave and meritorious efforts 에 이어집니다 — 둘 다 '무엇으로 두각을 나타냈는가'를 나타냅니다","tip":"and 가 무엇과 무엇을 잇는지 놓치면 이 부분이 어디에도 걸리지 않고 떠 버립니다."}
+ ],
+ "5b65fcb7|3.1": [
+  {"t":"who","q":"<b>who received the award posthumously</b> — 세상을 떠난 뒤에 상을 받은 사람은 누구입니까?","a":"아폴로 1호, 챌린저, 컬럼비아의 승무원들입니다. 34명 전부가 아닙니다","tip":"관계절이 바로 앞의 the crews of Apollo 1, Challenger, and Columbia 만 꾸밉니다. 34명 전체로 넓히면 틀립니다."},
+  {"t":"mod","q":"<b>There now are 34 recipients of the award</b> — 34명은 이번 수여 인원입니까, 지금까지의 전체 수입니까?","a":"지금까지의 전체 수입니다","tip":"There are 의 진짜 주어는 34 recipients 입니다. There 를 '거기에'로 읽으면 없는 장소를 찾게 됩니다."},
+  {"t":"time","q":"<b>since the beginning of the space program</b> — 34명은 언제부터 센 것입니까?","a":"우주 계획이 처음 시작된 때부터입니다","tip":"since 는 세기 시작하는 시점을 잡아 주는 말입니다."}
+ ],
+ "5b65fcb7|4.0": [
+  {"t":"who","q":"<b>said NASA Administrator Jared Isaacman</b> — 따옴표 안의 말을 한 사람은 누구입니까?","a":"NASA 국장 제러드 아이작먼입니다. 트럼프 대통령이 아닙니다","tip":"따옴표 안에 President Trump 가 나와 대통령이 말한 것으로 읽기 쉽습니다. 말한 사람은 said 뒤에 있습니다."},
+  {"t":"who","q":"<b>has put America back on a path</b> — 미국을 그 길 위에 다시 올려놓은 것은 무엇입니까?","a":"President Trump’s leadership(트럼프 대통령의 지도력)입니다","tip":"주어가 사람이 아니라 '지도력'이라는 성질입니다. 사람을 찾으려 하면 주어를 놓칩니다."},
+  {"t":"mod","q":"<b>from creating the Artemis program to giving NASA the resources and mandate</b> — from 과 to 는 무엇과 무엇을 잇습니까?","a":"'아르테미스 계획을 만든 일'에서부터 'NASA에 자원과 권한을 준 일'까지의 범위를 나타냅니다","tip":"to giving 의 to 는 '~에게'가 아니라 from ~ to ~ 짝의 to 입니다. 뒤에 -ing 가 오는 것이 그 신호입니다."},
+  {"t":"time","q":"<b>has put</b> — 이미 일어난 일입니까, 앞으로 할 일입니까?","a":"이미 일어나 지금도 이어지는 일입니다","tip":"has + 과거분사는 '이미 그렇게 해 놓았다'는 뜻입니다. 뒤의 to lead, to win 이 미래처럼 보여 전체를 앞일로 읽기 쉽습니다."}
+ ],
+ "5b65fcb7|4.1": [
+  {"t":"who","q":"<b>showing the world the Moon again</b> — 보여 준 쪽과 보여 준 상대는 각각 누구입니까?","a":"보여 준 쪽은 아르테미스 II 승무원들, 보여 준 상대는 the world(세계)입니다","tip":"show A B 는 'A에게 B를 보여 주다'입니다. the world 를 보여 준 물건으로 읽으면 뜻이 어긋납니다."},
+  {"t":"mod","q":"<b>and what American leadership and exploration look like</b> 는 무엇에 이어지는 말입니까?","a":"앞의 showing 에 이어지는 두 번째 목적어입니다 — 달과 함께 '이것도' 보여 주었다는 뜻입니다","tip":"and 뒤를 새 문장으로 보면 걸릴 곳을 잃습니다. 앞의 the Moon again 과 나란한 자리입니다."},
+  {"t":"pron","q":"<b>their best</b> 의 their 는 무엇을 가리킵니까?","a":"American leadership and exploration(미국의 지도력과 탐사)입니다","tip":"사람(승무원)으로 잡기 쉽습니다. 바로 앞의 두 명사를 받습니다."}
+ ],
+ "5b65fcb7|4.2": [
+  {"t":"who","q":"<b>Their achievement was made possible by the exceptional NASA workforce</b> — 성취를 가능하게 한 쪽은 누구입니까?","a":"뛰어난 NASA 인력입니다. 주어인 Their achievement 는 가능해진 쪽입니다","tip":"was made possible by ~ 는 '~덕분에 가능해졌다'입니다. 주어를 행위자로 읽으면 뒤집힙니다."},
+  {"t":"pron","q":"<b>Their achievement</b> 의 Their 는 누구를 가리킵니까?","a":"앞 문장의 아르테미스 II 승무원들입니다","tip":"NASA 인력이 아닙니다 — 그들은 뒤의 by 뒤에 따로 나옵니다."},
+  {"t":"who","q":"<b>who showed once again what can be accomplished</b> — 보여 준 쪽은 누구입니까?","a":"NASA 인력과 산업계·국제 협력 상대들입니다","tip":"who 가 바로 앞의 international partners 만 받는다고 보면 좁아집니다. by 뒤에 나온 사람들 전체가 대상입니다."},
+  {"t":"mod","q":"<b>alongside our industry and international partners</b> — 이들도 성취를 가능하게 한 쪽에 들어갑니까?","a":"네 — NASA 인력과 나란히 함께한 쪽입니다","tip":"alongside 는 '~와 나란히, 함께'입니다. 빼고 읽으면 공로가 NASA에만 돌아갑니다."}
+ ],
+ "5b65fcb7|4.3": [
+  {"t":"time","q":"<b>We will build on this success as we return to the lunar surface</b> — 달 표면으로 돌아가는 것은 이미 한 일입니까?","a":"아니요 — 앞으로 할 일입니다","tip":"as 뒤가 현재형(return)이지만 will 이 걸려 있어 앞일을 말합니다. 아르테미스 II는 달에 내려앉지 않았습니다."},
+  {"t":"mod","q":"<b>and establish an enduring presence on the Moon</b> — 이 동사는 무엇에 이어집니까?","a":"앞의 as we return ~ 에 이어집니다 — 돌아가서 거점을 마련한다는 한 묶음입니다","tip":"We will build 에 이어진다고 보면 시점과 뼈대가 흐트러집니다."},
+  {"t":"pron","q":"<b>this success</b> 는 무엇을 가리킵니까?","a":"아르테미스 II 임무의 성공입니다","tip":"this 는 앞에서 말한 것을 받습니다. 앞으로 있을 달 착륙의 성공이 아닙니다."}
+ ],
+ "5b65fcb7|5.0": [
+  {"t":"mod","q":"<b>and the Artemis IV mission in 2028</b> — 이 말은 무엇에 이어집니까?","a":"앞의 paved the way for ~ 에 이어집니다 — 길을 닦아 준 대상이 아르테미스 III 시험비행과 아르테미스 IV 임무 둘이라는 뜻입니다","tip":"and 앞이 너무 길어서, and 가 바로 앞의 commercial human landing systems 에 이어진다고 보기 쉽습니다."},
+  {"t":"mod","q":"<b>which will return American astronauts to the lunar surface</b> — 이 관계절은 무엇을 설명합니까?","a":"바로 앞의 the Artemis IV mission in 2028(2028년 아르테미스 IV 임무)입니다","tip":"아르테미스 III 시험비행에 붙이면 안 됩니다. 그것은 지구 저궤도에서 이루어집니다."},
+  {"t":"time","q":"<b>the 2027 Artemis III test flight</b> 와 <b>the Artemis IV mission in 2028</b> — 사람을 달 표면에 내려놓는 것은 어느 쪽입니까?","a":"2028년 아르테미스 IV 임무입니다. 2027년 아르테미스 III는 지구 저궤도에서 도킹 시험을 합니다","tip":"두 임무가 한 문장에 붙어 나와 뒤섞기 쉽습니다. 연도와 하는 일을 짝지어 두십시오."},
+  {"t":"mod","q":"<b>The first crewed mission under NASA’s Artemis program</b> 은 어느 임무를 가리킵니까?","a":"아르테미스 II 임무입니다","tip":"crewed 는 '사람을 태운'이라는 뜻입니다. 이 기사가 내내 말해 온 그 임무를 다시 가리키는 말입니다."}
+ ],
+ "5b65fcb7|6.0": [
+  {"t":"pron","q":"<b>It was the honor of my lifetime</b> — It 은 무엇을 가리킵니까?","a":"뒤에 나오는 to fly on Integrity around the Moon(Integrity를 타고 달 주위를 돈 것)입니다","tip":"앞 문장에서 It 이 가리키는 것을 찾으면 헛수고입니다. 뒤의 to부정사를 대신 세워 둔 가주어입니다."},
+  {"t":"mod","q":"<b>on Integrity</b> — Integrity 는 무엇입니까?","a":"승무원들이 이름 붙인 오리온(Orion) 우주선입니다","tip":"사람 이름이나 '성실함'이라는 뜻으로 읽기 쉽습니다. 앞에서 which the crew named Integrity 라고 밝혀 두었습니다."},
+  {"t":"who","q":"<b>with Victor, Christina, and Jeremy</b> — 이 말을 하고 있는 사람은 누구입니까?","a":"이름이 빠진 나머지 한 사람, 곧 와이즈먼(Wiseman)입니다","tip":"승무원 넷 중 셋의 이름만 나옵니다. 빠진 한 사람이 말하는 사람이고, 바로 뒤 문장 끝의 said Wiseman 으로 확인됩니다."}
+ ],
+ "5b65fcb7|6.1": [
+  {"t":"mod","q":"<b>Having President Trump here at the agency’s Johnson Space Center to honor NASA and my crew</b> — 이 긴 덩어리는 문장에서 무슨 구실을 합니까?","a":"문장 전체의 주어입니다 — 뒤의 동사 underscores 의 주어입니다","tip":"-ing 로 시작해 동사처럼 보이지만, 이 덩어리 전체가 '~라는 사실은'이라는 주어입니다."},
+  {"t":"who","q":"<b>to honor NASA and my crew</b> — 기리러 온 쪽은 누구입니까?","a":"트럼프 대통령입니다","tip":"to부정사가 나타내는 동작의 주체는 바로 앞의 President Trump 입니다. 말하는 와이즈먼이 아닙니다."},
+  {"t":"who","q":"<b>who served as commander of the mission</b> — 선장을 맡은 사람은 누구입니까?","a":"와이즈먼(Wiseman)입니다","tip":"바로 앞의 Wiseman 을 받습니다. 트럼프 대통령이 아닙니다."},
+  {"t":"time","q":"<b>what our teams accomplished</b> — 팀들이 이룬 일은 이미 끝난 일입니까?","a":"네 — 이미 끝난 일입니다","tip":"앞의 underscores 는 현재형이라 '지금 보여 준다'이고, 이룬 일(accomplished)은 그보다 앞선 과거입니다."}
+ ],
+ "5b65fcb7|6.2": [
+  {"t":"neg","q":"<b>I can’t wait to see</b> — 보고 싶다는 뜻입니까, 보고 싶지 않다는 뜻입니까?","a":"어서 보고 싶다는 뜻입니다 — 기대가 크다는 말입니다","tip":"can’t 가 들어 있어 부정으로 읽기 쉽습니다. can’t wait to ~ 는 통째로 '어서 ~하고 싶다'입니다."},
+  {"t":"who","q":"<b>see my friends continue this legacy on Artemis III</b> — 아르테미스 III에서 이 일을 이어 가는 쪽은 누구입니까?","a":"my friends(제 동료들)입니다. 말하는 사람 자신이 아닙니다","tip":"see + 사람 + 동사원형 꼴이라 continue 의 주체는 바로 앞의 my friends 입니다."},
+  {"t":"pron","q":"<b>this legacy</b> 는 무엇을 가리킵니까?","a":"아르테미스 II가 이뤄 놓은 것, 곧 앞에서 말해 온 이 임무의 성과입니다","tip":"legacy 를 '유산(재산)'으로만 읽으면 뜻이 좁아집니다. 이어받아 계속해 갈 일을 가리킵니다."}
+ ],
+ "5b65fcb7|7.0": [
+  {"t":"who","q":"<b>Glover served as pilot of the Orion spacecraft</b> — 글로버가 맡은 자리는 무엇입니까?","a":"오리온 우주선의 조종사(pilot)입니다","tip":"앞 문장에서 와이즈먼이 commander(선장)였습니다. 두 자리를 뒤섞지 마십시오."},
+  {"t":"mod","q":"<b>of the Orion spacecraft</b> 는 무엇에 붙는 말입니까?","a":"바로 앞의 pilot 에 붙습니다 — '오리온 우주선의 조종사'라는 뜻입니다","tip":"served 에 붙여 '우주선을 위해 일했다'로 읽으면 맡은 자리가 흐려집니다."}
+ ],
+ "5b65fcb7|8.0": [
+  {"t":"who","q":"<b>Piloting Orion for the first time in space</b> — 조종한 사람은 누구입니까?","a":"말하는 사람인 글로버입니다","tip":"주어 자리에 사람 이름이 없어 헷갈리기 쉽습니다. 문장 끝의 said Glover 가 말하는 사람이자 조종한 사람입니다."},
+  {"t":"who","q":"<b>made possible because of the years of hard work, dedication, and expertise by countless individuals</b> — 가능하게 한 쪽은 누구입니까?","a":"수많은 사람들(countless individuals)의 여러 해에 걸친 노고·헌신·전문 지식입니다","tip":"made possible 은 '가능해진'이라는 수동입니다. 글로버 자신이 가능하게 했다고 읽으면 뒤집힙니다."},
+  {"t":"mod","q":"<b>dedicating their time and talents to the mission</b> — 이 말은 누구를 설명합니까?","a":"바로 앞의 countless individuals(수많은 사람들)입니다","tip":"-ing 를 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 was 하나뿐입니다."},
+  {"t":"time","q":"<b>for the first time in space</b> — 무슨 뜻입니까?","a":"우주에서 오리온을 조종한 것이 이번이 처음이라는 뜻입니다","tip":"for the first time 은 '처음으로'입니다. '한동안'으로 읽으면 뜻이 달라집니다."}
+ ],
+ "5b65fcb7|8.1": [
+  {"t":"who","q":"<b>who launched us around the Moon and brought us safely back to Earth</b> — 쏘아 올리고 데려온 쪽은 누구입니까?","a":"the thousands of people(지상의 수천 명)입니다. 우주비행사들은 그렇게 된 쪽(us)입니다","tip":"관계절의 주어는 who, 곧 그 수천 명입니다. 승무원이 스스로 날아갔다고 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>and brought us safely back to Earth</b> — 이 동사는 무엇에 이어집니까?","a":"앞의 who launched us ~ 에 이어집니다 — 같은 사람들이 한 일 두 가지입니다","tip":"and 를 새 문장의 시작으로 보면 주어를 잃습니다."},
+  {"t":"pron","q":"<b>We</b> 와 <b>us</b> 는 각각 누구입니까?","a":"둘 다 아르테미스 II 승무원들입니다","tip":"말하는 사람은 글로버이고, 승무원 전체를 We/us 로 말하고 있습니다."}
+ ],
+ "5b65fcb7|9.0": [
+  {"t":"mod","q":"<b>here on Earth</b> 는 무엇을 꾸미는 말입니까?","a":"앞의 The response 입니다 — 반응이 나온 곳이 지구라는 뜻입니다","tip":"our mission 에 붙여 '지구에서의 임무'로 읽으면 안 됩니다. 임무는 달까지 갔습니다."},
+  {"t":"who","q":"<b>The response to our mission</b> — 반응을 보인 쪽은 누구입니까?","a":"지구에 있는 사람들입니다. 승무원들이 보인 반응이 아닙니다","tip":"our 는 임무의 임자를 밝힐 뿐, 반응을 보인 쪽이 아닙니다."},
+  {"t":"mod","q":"<b>and all we ever hoped for</b> 는 무엇에 이어지는 말입니까?","a":"앞의 was beyond 에 이어집니다 — 상상했던 것도, 바랐던 것도 모두 넘어섰다는 뜻입니다","tip":"and 뒤에 동사가 없으면 앞의 어느 자리에 나란히 걸리는지 찾아야 합니다."},
+  {"t":"time","q":"<b>was beyond anything we ever imagined</b> — 이 반응은 앞으로 기대하는 것입니까, 이미 받은 것입니까?","a":"이미 받은 것입니다","tip":"동사가 was(과거)입니다. 임무를 마친 뒤 돌아보며 하는 말입니다."}
+ ],
+ "5b65fcb7|9.1": [
+  {"t":"who","q":"<b>we hear from people who followed along with our journey</b> — 소식을 보내온 쪽은 누구입니까?","a":"여정을 지켜봐 준 사람들입니다. 승무원들은 받는 쪽입니다","tip":"hear from ~ 은 '~에게서 소식을 받다'입니다. '사람들에 대해 듣다'로 읽으면 방향이 뒤집힙니다."},
+  {"t":"time","q":"<b>every time we hear from people</b> — 한 번 있었던 일입니까, 그럴 때마다입니까?","a":"그럴 때마다입니다 — 되풀이되는 일입니다","tip":"every time 은 '~할 때마다'라는 뜻으로 뒤에 문장이 통째로 옵니다."},
+  {"t":"mod","q":"<b>who followed along with our journey</b> 는 무엇을 설명합니까?","a":"앞의 people(사람들)입니다","tip":"followed 를 문장의 동사로 읽지 마십시오. 이 문장의 뼈대 동사는 are 입니다."}
+ ],
+ "5b65fcb7|9.2": [
+  {"t":"who","q":"<b>those who made it happen</b> — 이 일을 이뤄지게 만든 사람들은 누구입니까?","a":"공장 작업장에서 클린룸과 관제실까지 곳곳에서 일한 사람들입니다. 승무원 자신이 아닙니다","tip":"바로 뒤의 from ~ to ~ 가 그 사람들이 누구인지 밝혀 줍니다."},
+  {"t":"pron","q":"<b>made it happen</b> 의 it 은 무엇을 가리킵니까?","a":"this shared mission, 곧 아르테미스 II 임무입니다","tip":"앞의 this award 로 잡기 쉽습니다. 이뤄지게 만든 것은 상이 아니라 임무입니다."},
+  {"t":"mod","q":"<b>from factory floors to clean rooms and mission control rooms</b> 는 무엇에 붙는 말입니까?","a":"앞의 those who made it happen 에 붙어, 그 사람들이 일한 자리의 범위를 밝힙니다","tip":"accept this award 에 붙여 '상을 받는 장소'로 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>As team members on this shared mission</b> — 여기서 As 는 무슨 뜻입니까?","a":"'~로서'라는 자격을 나타냅니다 — '함께한 이 임무의 한 팀원으로서'라는 뜻입니다","tip":"As 를 '~할 때, ~때문에'로 읽으면 문장의 뜻이 흐려집니다."}
+ ],
+ "5b65fcb7|10.0": [
+  {"t":"pron","q":"<b>It is a privilege</b> — It 은 무엇을 가리킵니까?","a":"뒤의 to receive the Congressional Space Medal of Honor ~ (훈장을 받는 것)입니다","tip":"앞 문장에서 찾지 마십시오. 뒤의 to부정사를 대신 세워 둔 가주어입니다."},
+  {"t":"who","q":"<b>said Hansen</b> — 이 말을 한 사람은 어느 기관 소속입니까?","a":"캐나다 우주국(CSA) 소속 우주비행사 제러미 핸슨입니다","tip":"첫 문단에서 CSA (Canadian Space Agency) astronaut Jeremy Hansen 이라고 밝혀 두었습니다. NASA 소속이 아닙니다."},
+  {"t":"mod","q":"<b>alongside my Artemis II crewmates</b> 는 무슨 뜻입니까?","a":"아르테미스 II의 동료 승무원들과 함께 받는다는 뜻입니다","tip":"alongside 는 '~의 옆에'라는 위치가 아니라 '~와 함께'라는 뜻으로 쓰였습니다."}
+ ],
+ "5b65fcb7|10.1": [
+  {"t":"who","q":"<b>who made the mission possible</b> — 임무를 가능하게 만든 쪽은 누구입니까?","a":"캐나다와 미국의 헌신적인 팀들, 그리고 국제 협력 상대들입니다","tip":"관계절이 바로 앞의 our international partners 만 꾸민다고 보면 좁아집니다. 앞에 나열된 팀들 전체를 받습니다."},
+  {"t":"mod","q":"<b>the dedicated teams in Canada, the United States, and our international partners</b> — 영예를 함께 나누는 상대는 몇 갈래입니까?","a":"세 갈래입니다 — 캐나다의 팀, 미국의 팀, 그리고 국제 협력 상대들","tip":"쉼표와 and 가 무엇을 잇는지 세어 두면 뒤의 who 가 누구를 받는지도 보입니다."},
+  {"t":"pron","q":"<b>this recognition</b> 은 무엇을 가리킵니까?","a":"의회 우주 명예훈장을 받은 일입니다","tip":"바로 앞 문장에서 말한 그 훈장을 받은 일을 받는 말입니다."}
+ ],
+ "5b65fcb7|10.2": [
+  {"t":"mod","q":"<b>when we set ambitious goals and work together</b> — 이 부분은 무엇에 걸리는 말입니까?","a":"앞의 what we can accomplish, 곧 '무엇을 이룰 수 있는가'의 조건입니다","tip":"showed 에 붙여 '보여 준 때'로 읽으면 뜻이 달라집니다."},
+  {"t":"who","q":"<b>and work together</b> 의 주어는 무엇입니까?","a":"앞의 we 입니다 — when 절 안에서 set 과 work 가 같은 주어를 씁니다","tip":"and 뒤에 주어가 없으면 앞 절의 주어를 그대로 씁니다. 문장의 주어 Artemis II 가 아닙니다."},
+  {"t":"time","q":"<b>when we set ambitious goals</b> — 여기서 set 은 과거입니까, 현재입니까?","a":"현재입니다 — '우리가 큰 목표를 세울 때(면)'이라는 뜻입니다","tip":"set 은 꼴이 바뀌지 않는 동사라 헷갈립니다. 옆의 work 가 원형인 것을 보면 현재임을 알 수 있습니다."}
+ ],
+ "5b65fcb7|10.3": [
+  {"t":"mod","q":"<b>the mission and the Artemis program as a whole</b> — 이 문장의 주어는 무엇이고, as a whole 은 무엇에 붙는 말입니까?","a":"주어는 the mission 과 the Artemis program 둘이고, as a whole 은 앞의 the Artemis program 에 붙어 '계획 전체로 보아'라는 뜻입니다","tip":"as a whole 이 끼어 있어 단수처럼 보이지만 동사가 are 인 까닭은 주어가 둘이기 때문입니다."},
+  {"t":"mod","q":"<b>much more than just going back to the Moon</b> — 달로 다시 가지 않는다는 뜻입니까?","a":"아니요 — 달로 다시 가는 데 그치지 않고 그 이상의 뜻이 있다는 말입니다","tip":"more than just ~ 는 '~만이 아니라 그 이상'입니다. 앞의 것을 부정하는 말이 아닙니다."},
+  {"t":"pron","q":"<b>the mission</b> 은 어느 임무를 가리킵니까?","a":"아르테미스 II 임무입니다","tip":"the 가 붙었다는 것은 앞에서 내내 말해 온 그 임무를 다시 가리킨다는 신호입니다."}
+ ],
+ "5b65fcb7|10.4": [
+  {"t":"pron","q":"<b>It</b> 은 무엇을 가리킵니까?","a":"앞 문장의 the mission and the Artemis program, 곧 이 임무와 아르테미스 계획입니다","tip":"뒤에 to부정사가 없으므로 가주어가 아니라, 앞에서 말한 것을 받는 대명사입니다."},
+  {"t":"mod","q":"<b>is about the pursuit of excellence and collaboration</b> — 여기서 be about ~ 은 무슨 뜻입니까?","a":"'~에 관한 것이다', 곧 '그 뜻·목적이 ~에 있다'는 뜻입니다","tip":"about 을 '주위에, 약'으로 읽으면 뜻이 통하지 않습니다."}
+ ],
+ "5b65fcb7|11.0": [
+  {"t":"mod","q":"<b>and establish a Moon Base on the lunar surface</b> — 이 동사는 무엇과 나란히 놓입니까?","a":"앞의 to explore more of the Moon 과 나란히 놓입니다 — 둘 다 '~하기 위해'라는 목적입니다","tip":"to 가 한 번만 나와 establish 를 will send 와 나란한 동사로 읽기 쉽습니다."},
+  {"t":"time","q":"<b>NASA will send Artemis astronauts</b> — 이미 보낸 것입니까, 앞으로 보낼 것입니까?","a":"앞으로 보낼 것입니다","tip":"앞 문단들이 과거형이라 이미 한 일로 넘어가기 쉽습니다. will 이 시점을 바꿉니다."},
+  {"t":"who","q":"<b>establish a Moon Base on the lunar surface</b> — 기지를 세우는 쪽은 누구입니까?","a":"NASA입니다","tip":"목적을 나타내는 to부정사의 주체는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>for long-term exploration</b> 는 무엇에 붙는 말입니까?","a":"앞의 a Moon Base ~ 에 붙어, 그 기지가 오랜 기간의 탐사를 위한 것임을 밝힙니다","tip":"문장 맨 끝의 전치사구는 바로 앞에 걸리는 경우가 많습니다."}
+ ],
+ "5b65fcb7|11.1": [
+  {"t":"mod","q":"<b>— Americans —</b> 는 무엇을 다시 말한 것입니까?","a":"앞의 the first astronauts(첫 우주비행사들)입니다 — 그들이 미국인이라는 뜻입니다","tip":"대시 사이에 낀 말은 앞의 명사를 다시 말하는 자리입니다. 새로 등장한 다른 사람들이 아닙니다."},
+  {"t":"time","q":"<b>These missions will set the stage for sending the first astronauts</b> … <b>to Mars</b> — 화성에 사람을 보낸 적이 있습니까?","a":"아직 없습니다 — 앞으로 보낼 일을 위한 발판을 마련한다는 뜻입니다","tip":"will set 과 the first 가 모두 아직 하지 않은 일임을 알려 줍니다."},
+  {"t":"pron","q":"<b>These missions</b> 는 무엇을 가리킵니까?","a":"앞 문장의 a series of challenging missions, 곧 NASA가 아르테미스 우주비행사들을 내보낼 잇따른 달 임무들입니다","tip":"These 는 앞에서 말한 것을 받습니다. 화성 임무를 가리키는 것이 아닙니다."}
+ ]
+}

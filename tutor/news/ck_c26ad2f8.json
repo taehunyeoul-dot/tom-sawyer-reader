@@ -1,0 +1,196 @@
+{
+ "c26ad2f8|0.0": [
+  {"t":"mod","q":"<b>Mars Missions Mars Home</b> 는 하나로 이어진 구절입니까, 따로따로인 항목입니까?","a":"따로따로인 차림표(메뉴) 항목입니다 — ‘화성 임무’와 ‘화성 홈’","tip":"쉼표가 없어 한 덩어리로 읽기 쉽지만, 웹사이트 메뉴 이름이 나란히 붙어 있을 뿐입니다."},
+  {"t":"mod","q":"<b>3 min read</b> 는 무엇을 알려 주는 말입니까?","a":"이 기사를 읽는 데 걸리는 시간(약 3분)입니다","tip":"read 를 동사 ‘읽다’로 읽으면 안 됩니다. ‘3분짜리 읽을거리’라는 뜻의 명사 표현입니다."}
+ ],
+ "c26ad2f8|1.0": [
+  {"t":"mod","q":"<b>Missions Operations Specialist at Malin Space Science Systems</b> 는 누구를 설명하는 말입니까?","a":"바로 앞의 Allison Dries-Padilla — 글쓴이의 직함과 소속입니다","tip":"쉼표 뒤에 또 다른 사람이 나온 것으로 읽기 쉽지만, 이 줄에 나오는 사람은 한 명뿐입니다."},
+  {"t":"mod","q":"<b>at Malin Space Science Systems</b> — 글쓴이가 일하는 곳은 어디입니까?","a":"Malin Space Science Systems 입니다","tip":"at 뒤는 소속 기관입니다. NASA 블로그에 실린 글이라고 해서 글쓴이가 NASA 소속인 것은 아닙니다."}
+ ],
+ "c26ad2f8|2.0": [
+  {"t":"mod","q":"<b>This week of Curiosity Mars rover operations</b> — 이 문장의 주어는 무엇입니까?","a":"This week(이번 주)입니다 — of 이하는 어떤 이번 주인지를 밝히는 말입니다","tip":"끝에 붙은 operations 를 주어로 잡기 쉽습니다. 동사가 takes 로 단수형인 것이 주어가 This week 임을 알려 줍니다."},
+  {"t":"pron","q":"<b>takes us back to</b> 의 us 는 누구입니까?","a":"글쓴이를 포함한 큐리오시티 운영·과학 팀입니다","tip":"독자를 가리키는 말로 읽기 쉽지만, 뒤에 이어지는 our·we 와 같은 사람들 — 탐사차를 운영하는 팀입니다."},
+  {"t":"mod","q":"<b>our “regularly scheduled programming.”</b> 는 실제로 방송 이야기입니까?","a":"아닙니다 — 원래 하던 정규 작업(일과)으로 돌아간다는 비유입니다","tip":"programming 은 여기서 ‘프로그래밍(코딩)’이 아니라 방송 ‘편성’입니다."}
+ ],
+ "c26ad2f8|2.1": [
+  {"t":"who","q":"<b>After taking a slight detour</b> — 길을 벗어나 돌아간 것은 누구(무엇)입니까?","a":"뒤에 나오는 we, 곧 큐리오시티 운영 팀(과 탐사차)입니다","tip":"-ing 로 시작하는 앞 덩어리에는 주어가 없습니다. 그 주체는 주절의 주어와 같습니다."},
+  {"t":"time","q":"<b>to investigate the “erosional surface”</b> — 이 조사는 앞으로 할 일입니까, 이미 한 일입니까?","a":"이미 한 일입니다 — 조사를 마치고 원래 경로로 돌아왔습니다","tip":"After taking 이 ‘~한 뒤에’이므로 우회와 조사는 모두 끝난 일입니다."},
+  {"t":"mod","q":"<b>to ascend Mount Sharp</b> 는 무엇을 설명하는 말입니까?","a":"앞의 course — 샤프산을 오르는 그 경로라는 뜻입니다","tip":"‘돌아와서 이제 오른다’는 순서로 읽기 쉽지만, 여기서는 어떤 경로인지를 밝히는 말입니다."}
+ ],
+ "c26ad2f8|2.2": [
+  {"t":"who","q":"<b>As we transition into fall in Gale Crater</b> — 실제로 가을로 바뀌는 것은 무엇입니까?","a":"게일 분화구(화성의 그 지역)의 계절입니다","tip":"‘우리가 이동한다’로 읽으면 안 됩니다. transition into fall 은 ‘가을로 접어들다’이고, we 는 그곳에서 일하는 팀을 넣어 말한 것입니다."},
+  {"t":"mod","q":"<b>temperatures and the likelihood of dust storms</b> — 떨어지는 것은 몇 가지입니까?","a":"두 가지입니다 — 기온과, 먼지 폭풍이 일어날 가능성","tip":"동사가 begins 로 단수형이라 한 가지로 보기 쉽지만 and 로 이어진 두 가지입니다."},
+  {"t":"time","q":"<b>begins to drop</b> — 먼지 폭풍의 위험이 이미 다 사라졌다는 뜻입니까?","a":"아닙니다 — 이제 낮아지기 시작했을 뿐이고, 뒤 절에서 아직 경계 중이라고 말합니다","tip":"begins to drop 은 ‘떨어지기 시작한다’이지 ‘다 떨어졌다’가 아닙니다."},
+  {"t":"mod","q":"<b>the last gasp of late-season local and regional dust storms</b> 는 무슨 뜻입니까?","a":"철 늦은 국지·광역 먼지 폭풍이 마지막으로 한 차례 몰아치는 것입니다","tip":"last gasp 는 ‘마지막 숨’, 곧 사그라들기 직전의 마지막 한 번을 뜻하는 비유입니다."}
+ ],
+ "c26ad2f8|3.0": [
+  {"t":"who","q":"<b>began with Curiosity standing face to face</b> — 마주 서 있는 것은 무엇입니까?","a":"큐리오시티(탐사차)입니다","tip":"standing 의 주체는 바로 앞의 Curiosity 입니다. 주어인 Monday’s plan 이 서 있는 것이 아닙니다."},
+  {"t":"mod","q":"<b>just above the erosional supersurface contact</b> 는 무엇의 위치를 말합니까?","a":"바로 앞의 a unique geologic feature(그 독특한 지질 구조물)의 위치입니다","tip":"계획이나 큐리오시티의 위치로 붙이기 쉽습니다. 이런 전치사구는 대개 바로 앞 명사에 붙습니다."},
+  {"t":"time","q":"<b>Monday’s plan for Sols 4982 to 4985</b> — 이 계획이 다루는 날은 며칠치입니까?","a":"솔 4982일부터 4985일까지입니다","tip":"월요일은 계획을 세운 날이고, for 뒤가 그 계획이 다루는 날짜입니다. 둘을 섞지 마세요."}
+ ],
+ "c26ad2f8|3.1": [
+  {"t":"who","q":"<b>As you might have read in the previous blog</b> — 읽었을 수도 있는 사람은 누구입니까?","a":"이 글을 읽는 독자(you)입니다","tip":"글쓴이나 팀이 읽었다고 읽기 쉽습니다. you 는 독자를 부르는 말입니다."},
+  {"t":"time","q":"<b>might have read</b> — 이것은 앞으로 읽어 보라는 뜻입니까?","a":"아닙니다 — 지난 글에서 이미 읽었을지도 모른다는, 과거에 대한 추측입니다","tip":"might 만 보고 미래로 읽기 쉽지만, have read 가 붙으면 지난 일에 대한 추측이 됩니다."},
+  {"t":"mod","q":"<b>fortunate enough to spend two planning cycles</b> — 무엇이 운이 좋았다는 것입니까?","a":"같은 장소에서 계획 주기를 두 번이나 쓸 수 있었던 것입니다","tip":"enough 를 ‘충분히’로만 읽으면 뜻이 흐려집니다. fortunate enough to ~ 는 ‘운 좋게도 ~했다’입니다."}
+ ],
+ "c26ad2f8|3.2": [
+  {"t":"who","q":"<b>MAHLI used this opportunity</b> — MAHLI는 사람입니까?","a":"아닙니다 — 큐리오시티에 실린 카메라(관측 장비)의 이름입니다","tip":"이 기사의 MAHLI, APXS, ChemCam, Mastcam, Navcam 은 모두 탐사차에 실린 장비 이름입니다."},
+  {"t":"mod","q":"<b>selected images</b> 는 무슨 뜻입니까?","a":"(모자이크에 필요해) 골라 둔 사진들이라는 뜻입니다","tip":"selected 는 images 를 꾸미는 말입니다. ‘선택했다’는 동사로 읽으면 문장에 동사가 둘이 됩니다."},
+  {"t":"time","q":"<b>to reacquire selected images</b> — 이 사진들은 처음 찍는 것입니까?","a":"아닙니다 — 앞서 찍은 것을 다시 찍는 것입니다(re- = 다시)","tip":"re- 가 붙으면 앞서 한 번 한 일을 되풀이한다는 뜻입니다."}
+ ],
+ "c26ad2f8|3.3": [
+  {"t":"pron","q":"<b>This will allow</b> 의 This 는 무엇을 가리킵니까?","a":"앞 문장의 일 — MAHLI가 모자이크용 사진을 다시 찍은 것입니다","tip":"This 는 앞 문장 전체(방금 한 일)를 받는 경우가 많습니다. 사물 하나로 좁혀 잡지 마세요."},
+  {"t":"who","q":"<b>allow the science team to have a detailed and focused view</b> — 실제로 보게 되는 쪽은 누구입니까?","a":"과학 팀입니다","tip":"to have 의 주체는 바로 앞의 the science team 입니다. 주어인 This 가 보는 것이 아닙니다."},
+  {"t":"time","q":"<b>will allow</b> — 이 자세한 관찰은 이미 이뤄졌습니까?","a":"아닙니다 — 앞으로 가능해질 일입니다","tip":"사진은 이미 찍었지만, 그것으로 자세히 들여다보는 것은 그다음 일입니다."},
+  {"t":"mod","q":"<b>of the underside of this feature</b> 는 무엇에 붙는 말입니까?","a":"앞의 a detailed and focused view — ‘이 구조물 아랫면의 모습’이라는 뜻입니다","tip":"of 가 두 번 겹칩니다. 뒤에서부터 ‘이 구조물 → 의 아랫면 → 의 모습’으로 풀면 됩니다."}
+ ],
+ "c26ad2f8|3.4": [
+  {"t":"who","q":"<b>after it had been brushed with the DRT</b> — 솔질을 한 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 솔질을 당한 것은 그 기반암 목표 지점입니다","tip":"brushed 를 ‘~이 솔질했다’로 읽으면 주체와 대상이 뒤집힙니다. with the DRT 는 도구이지 행위자가 아닙니다."},
+  {"t":"pron","q":"<b>after it had been brushed</b> 의 it 은 무엇입니까?","a":"the bedrock target “El Motacusal”(그 기반암 목표 지점)입니다","tip":"APXS로 받기 쉽지만, 솔질을 당한 것은 장비가 아니라 암석 표면입니다."},
+  {"t":"time","q":"<b>took measurements</b> 와 <b>had been brushed</b> — 어느 쪽이 먼저입니까?","a":"솔질이 먼저이고 측정이 나중입니다","tip":"had + 과거분사는 다른 과거보다 한 발 더 앞선 일임을 나타냅니다."}
+ ],
+ "c26ad2f8|3.5": [
+  {"t":"mod","q":"<b>the “as is” bedrock target</b> — “as is” 는 무슨 뜻입니까?","a":"솔질 같은 손질을 하지 않고 있는 그대로 둔 상태라는 뜻입니다","tip":"앞 문장에서 DRT로 먼지를 턴 목표와 대비됩니다. 따옴표는 이 말이 굳어진 표현임을 알리는 표시입니다."},
+  {"t":"mod","q":"<b>a second measurement</b> — 무엇이 두 번째입니까?","a":"APXS의 측정입니다 — 앞 문장의 측정에 이은 두 번째 측정","tip":"second 를 시간 단위 ‘초’로 읽으면 안 됩니다. 여기서는 ‘두 번째’입니다."},
+  {"t":"who","q":"<b>“Alto de Carmen.”</b> 은 무엇의 이름입니까?","a":"측정 대상인 기반암 목표 지점의 이름입니다","tip":"사람 이름이나 지명처럼 보이지만, 팀이 그 암석에 붙인 이름입니다."}
+ ],
+ "c26ad2f8|3.6": [
+  {"t":"who","q":"<b>were documented</b> — 기록을 한 쪽은 무엇입니까?","a":"문장에 직접 나오지 않습니다(수동태). 기록된 것은 두 APXS 목표이고, 사진은 MAHLI가 찍었습니다","tip":"주어인 Both of these APXS targets 를 ‘기록한 쪽’으로 읽으면 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>taken by MAHLI.</b> 는 무엇을 꾸미는 말입니까?","a":"바로 앞의 high-resolution images(고해상도 사진)입니다","tip":"taken 을 문장의 동사로 읽으면 동사가 둘이 됩니다. 이 문장의 동사는 were documented 하나뿐입니다."},
+  {"t":"mod","q":"<b>Both of these APXS targets</b> — 몇 곳을 말합니까?","a":"두 곳입니다 — 앞의 “El Motacusal”과 “Alto de Carmen”","tip":"both 는 ‘둘 다’입니다. 셋 이상이면 all 을 씁니다."}
+ ],
+ "c26ad2f8|3.7": [
+  {"t":"mod","q":"<b>“Lagunas Bravas” and “Parququcha”</b> 의 and 와 <b>“Parququcha” and ChemCam Remote Micro-Imaging</b> 의 and — 각각 무엇을 잇습니까?","a":"앞의 and 는 기반암 목표 두 곳을 잇고, 뒤의 and 는 ChemCam 작업 두 가지(LIBS 분광 분석과 원격 미세 촬영)를 잇습니다","tip":"and 가 겹칠 때는 잇는 것끼리 종류가 같은지를 보면 됩니다."},
+  {"t":"mod","q":"<b>on Mishe Mokwa</b> 는 어느 작업에 붙는 말입니까?","a":"ChemCam Remote Micro-Imaging(원격 미세 촬영)의 대상입니다","tip":"LIBS 분광 분석의 대상으로 붙이기 쉽지만, LIBS의 대상은 “Lagunas Bravas”와 “Parququcha”입니다."},
+  {"t":"mod","q":"<b>on bedrock targets “Lagunas Bravas” and “Parququcha”</b> — LIBS 분석 대상은 몇 곳입니까?","a":"두 곳입니다","tip":"targets 가 복수형이고 뒤에 이름 두 개가 나란히 놓여 있습니다."}
+ ],
+ "c26ad2f8|3.8": [
+  {"t":"pron","q":"<b>I had the pleasure</b> 의 I 는 누구입니까?","a":"이 글을 쓴 Allison Dries-Padilla입니다","tip":"기사에서 I 가 나오면 글쓴이 본인입니다. 큐리오시티나 팀 전체가 아닙니다."},
+  {"t":"mod","q":"<b>the Mastcam uplink shift</b> 의 shift 는 무슨 뜻입니까?","a":"근무 당번(교대 근무조)이라는 뜻입니다","tip":"shift 를 ‘이동·전환’으로 읽기 쉽습니다. 여기서는 누가 그 시간대를 맡느냐는 근무조입니다."},
+  {"t":"time","q":"<b>I had the pleasure</b> — 이 당번 근무는 이미 한 일입니까?","a":"이미 한 일입니다 — had 로 과거형입니다","tip":"have the pleasure to ~ 가 앞날의 약속처럼 들릴 수 있지만 had 이므로 지난 일입니다."}
+ ],
+ "c26ad2f8|3.9": [
+  {"t":"mod","q":"<b>dubbed “Los Toldos,”</b> 는 무엇에 붙은 이름입니까?","a":"바로 앞의 the erosional ridge(그 침식 능선)입니다","tip":"모자이크 사진의 이름으로 읽기 쉽지만, 이름이 붙은 것은 촬영 대상인 능선입니다."},
+  {"t":"mod","q":"<b>named “Los Ladrillos.”</b> 는 무엇의 이름입니까?","a":"further away bedrock exposure(더 멀리 있는 기반암 노출부)의 이름입니다","tip":"바로 앞의 the erosional surface 에 붙이기 쉽습니다. 이름을 받는 것은 촬영 대상인 그 노출부입니다."},
+  {"t":"mod","q":"<b>as well as</b> — Mastcam이 찍은 모자이크는 몇 장입니까?","a":"두 장입니다 — 침식 능선의 근거리 모자이크와, 더 멀리 있는 기반암 노출부의 모자이크","tip":"as well as 는 ‘~뿐 아니라 ~도’입니다. 앞의 것과 견주는 말이 아니라 더하는 말입니다."},
+  {"t":"mod","q":"<b>near-field</b> 와 <b>further away</b> 는 무엇을 갈라 줍니까?","a":"두 모자이크의 촬영 거리입니다 — 하나는 가까운 곳, 다른 하나는 더 먼 곳","tip":"같은 대상을 두 번 찍었다고 읽기 쉽지만, 거리도 대상도 서로 다릅니다."}
+ ],
+ "c26ad2f8|3.10": [
+  {"t":"time","q":"<b>the previous plan’s ChemCam Remote Micro-Imaging</b> 과 <b>the ChemCam LIBS activities taken in this plan</b> — 두 작업은 같은 때에 한 것입니까?","a":"아닙니다 — 앞의 것은 지난 계획, 뒤의 것은 이번 계획에서 한 작업입니다","tip":"previous plan’s 와 in this plan 이 시점을 갈라 줍니다."},
+  {"t":"mod","q":"<b>and the ChemCam LIBS activities taken in this plan.</b> 는 무엇에 이어지는 말입니까?","a":"앞의 color documentation of ~ 에 이어집니다 — 두 작업 모두의 컬러 기록이라는 뜻입니다","tip":"and 가 새 문장을 시작한다고 읽기 쉽지만, 뒤에 새 동사가 없습니다."},
+  {"t":"who","q":"<b>Mastcam also provided color documentation</b> — 컬러 기록을 남긴 장비는 무엇입니까?","a":"Mastcam입니다","tip":"of 뒤에 ChemCam이 두 번 나와 ChemCam이 한 일로 읽기 쉽습니다. 찍어서 남긴 쪽은 Mastcam입니다."}
+ ],
+ "c26ad2f8|4.0": [
+  {"t":"pron","q":"<b>to take us to our location</b> 의 us 는 누구입니까?","a":"글쓴이를 포함한 운영·과학 팀입니다","tip":"탐사차가 사람을 태우고 가는 것이 아닙니다. 지구에서 조종하는 팀을 ‘우리’라고 부른 것입니다."},
+  {"t":"mod","q":"<b>100 feet (30 meters)</b> — 괄호 안의 숫자는 무엇입니까?","a":"같은 거리를 미터로 바꾼 값입니다 — 100피트 = 약 30미터","tip":"두 값을 더해 130이라고 읽으면 안 됩니다. 하나의 거리를 두 단위로 적은 것입니다."},
+  {"t":"time","q":"<b>Curiosity then drove</b> — 이 주행은 월요일 계획의 작업보다 앞입니까, 뒤입니까?","a":"뒤입니다 — 월요일 계획의 작업을 마친 다음에 주행했습니다","tip":"then 은 ‘그러면’이 아니라 ‘그다음에’라는 순서를 나타냅니다."}
+ ],
+ "c26ad2f8|4.1": [
+  {"t":"neg","q":"<b>we could not place the robotic arm in a safe position</b> — 로봇 팔을 안전한 자세로 놓았습니까?","a":"놓지 못했습니다 — could not 이므로 실패했습니다","tip":"앞의 ‘좋은 기반암이 많았다’에 끌려 성공한 것으로 읽기 쉽습니다. not 하나가 뜻을 뒤집습니다."},
+  {"t":"neg","q":"<b>Although we had plenty of flat and tasty bedrock</b> — 이 앞부분은 뒷부분과 같은 방향입니까, 반대입니까?","a":"반대입니다 — 좋은 암석은 많았지만 그래도 하지 못했다는 뜻입니다","tip":"Although 는 ‘~이지만’입니다. ‘~때문에’로 읽으면 이유와 결과가 뒤바뀝니다."},
+  {"t":"mod","q":"<b>to DRT the bedrock.</b> 는 무엇을 설명하는 말입니까?","a":"앞의 a safe position — 기반암을 DRT로 솔질하기에 안전한 자세라는 뜻입니다","tip":"여기서 DRT 는 동사처럼 쓰였습니다(‘DRT로 솔질하다’). 별개의 새 작업이 아닙니다."}
+ ],
+ "c26ad2f8|4.2": [
+  {"t":"mod","q":"<b>a risk the rover could slip off this rock</b> — the rover 이하는 무엇을 설명합니까?","a":"앞의 a risk 의 내용입니다 — ‘탐사차가 이 바위에서 미끄러질 수 있다는 위험’","tip":"risk 와 the rover 사이에 that 이 생략돼 있습니다. 명사 뒤에 갑자기 ‘주어+동사’가 오면 그 명사의 내용을 푸는 말입니다."},
+  {"t":"who","q":"<b>The left-front wheel was perched on a small rock</b> — 무엇이 무엇 위에 있습니까?","a":"탐사차의 왼쪽 앞바퀴가 작은 바위 위에 올라앉아 있습니다","tip":"was perched 는 수동태 모양이지만 ‘~에 얹혀 있었다’는 상태를 나타냅니다. 바위가 바퀴 위에 있는 것이 아닙니다."},
+  {"t":"pron","q":"<b>slip off this rock</b> 의 this rock 은 무엇입니까?","a":"왼쪽 앞바퀴가 올라앉아 있던 그 작은 바위입니다","tip":"새로 나온 바위가 아니라 앞 절의 a small rock 을 다시 가리킵니다."},
+  {"t":"time","q":"<b>as we move the arm around.</b> — 이 미끄러질 위험은 언제 생깁니까?","a":"팔을 이리저리 움직이는 동안입니다","tip":"as 를 ‘~로서’나 ‘~때문에’로 읽으면 안 됩니다. 여기서는 ‘~하는 동안’입니다."}
+ ],
+ "c26ad2f8|4.3": [
+  {"t":"mod","q":"<b>two bedrock targets, “Mamorecillo” and “Aguas Claras.”</b> — 목표는 모두 몇 곳입니까?","a":"두 곳입니다 — 뒤의 두 이름은 앞의 two bedrock targets 를 다시 말한 것입니다(동격)","tip":"목표 두 곳에 더해 또 두 곳이 있다고 읽으면 네 곳이 됩니다."},
+  {"t":"neg","q":"<b>MAHLI and APXS were still able to safely perform contact science</b> — 이 관측은 이뤄졌습니까?","a":"이뤄졌습니다 — 앞 문장의 실패에도 불구하고 해냈습니다","tip":"still 을 ‘아직 못 했다’로 읽기 쉽습니다. were able to 는 실제로 해냈다는 뜻입니다."},
+  {"t":"mod","q":"<b>still</b> 은 무엇과 대비되는 말입니까?","a":"앞 문장에서 DRT 솔질을 하지 못했다는 사실과 대비됩니다","tip":"여기 still 은 ‘여전히’보다 ‘그런데도’에 가깝게 읽어야 자연스럽습니다."}
+ ],
+ "c26ad2f8|4.4": [
+  {"t":"mod","q":"<b>to image the calibration target.</b> 는 무엇을 설명하는 말입니까?","a":"앞의 an additional housekeeping activity 의 내용입니다 — 보정용 표적을 찍는 일","tip":"image 는 여기서 동사 ‘촬영하다’입니다. 명사 ‘사진’으로 읽으면 문장이 풀리지 않습니다."},
+  {"t":"mod","q":"<b>an additional housekeeping activity</b> 는 무슨 뜻입니까?","a":"장비를 정상 상태로 유지하기 위한 추가 점검 작업입니다","tip":"housekeeping 을 ‘집안일·청소’로 읽으면 안 됩니다. 장비 관리용 일상 점검을 가리킵니다."},
+  {"t":"who","q":"<b>MAHLI had an additional housekeeping activity</b> — 이 점검 작업을 하는 것은 무엇입니까?","a":"MAHLI(카메라)입니다","tip":"had 를 ‘가지고 있었다’로만 읽지 말고 ‘~할 일이 있었다’로 읽으면 자연스럽습니다."}
+ ],
+ "c26ad2f8|4.5": [
+  {"t":"time","q":"<b>followed by Mastcam documentation.</b> — ChemCam 작업과 Mastcam 촬영 중 어느 쪽이 먼저입니까?","a":"ChemCam 작업이 먼저이고 Mastcam 기록 촬영이 나중입니다","tip":"followed by 는 ‘~가 뒤이어 온다’입니다. ‘~를 뒤따라간다’로 읽으면 순서가 반대가 됩니다."},
+  {"t":"time","q":"<b>ChemCam plans to use its laser spectrometer</b> — 이 레이저 관측은 이미 한 것입니까?","a":"아직 하지 않았습니다 — 계획 단계입니다","tip":"plans to ~ 는 ‘~할 계획이다’입니다. 앞 문단의 과거형 문장들에 끌리지 마세요."},
+  {"t":"pron","q":"<b>its laser spectrometer</b> 의 its 는 무엇을 가리킵니까?","a":"ChemCam입니다 — ChemCam이 가진 레이저 분광계","tip":"큐리오시티 전체로 넓혀 잡기 쉽지만, 바로 앞 주어인 ChemCam을 받습니다."}
+ ],
+ "c26ad2f8|4.6": [
+  {"t":"mod","q":"<b>in the bedrock “Yura Kasa.”</b> — “Yura Kasa”는 무엇의 이름입니까?","a":"그 층이 들어 있는 기반암(bedrock)의 이름입니다","tip":"어두운 층 자체의 이름으로 읽기 쉽지만, 이름은 바로 앞의 the bedrock 에 붙어 있습니다."},
+  {"t":"mod","q":"<b>a dark-toned resistant layer</b> 에서 resistant 는 무슨 뜻입니까?","a":"침식에 잘 견디는, 곧 단단하다는 뜻입니다","tip":"‘저항하는·거부하는’으로 읽지 마세요. 지질 기사에서는 주변보다 잘 깎이지 않는 암석을 가리킵니다."},
+  {"t":"mod","q":"<b>Today’s ChemCam LIBS targets include</b> — 이 어두운 층이 오늘 목표의 전부입니까?","a":"전부는 아닙니다 — include 는 여럿 가운데 하나로 들어 있다는 뜻입니다","tip":"include 를 ‘= 그것이 전부다’로 읽으면 안 됩니다. 앞 문장에서 목표는 세 곳이라고 했습니다."}
+ ],
+ "c26ad2f8|4.7": [
+  {"t":"time","q":"<b>Mastcam is planning a series of mosaics</b> — 이 촬영은 이미 이뤄졌습니까?","a":"아닙니다 — 아직 계획 중입니다","tip":"is planning 은 진행 중인 계획입니다. 실행은 아직입니다."},
+  {"t":"time","q":"<b>to continue imaging the stratigraphy</b> — 이 촬영은 이번이 처음입니까?","a":"아닙니다 — 전부터 해 오던 촬영을 이어 가는 것입니다","tip":"continue 가 앞서 해 온 작업이 있었음을 알려 줍니다."},
+  {"t":"mod","q":"<b>in the unit above the erosional contact.</b> 는 무엇을 꾸미는 말입니까?","a":"앞의 the stratigraphy — 침식 경계면 위쪽 지층 단위의 층서라는 뜻입니다","tip":"Mastcam이 그 안에 있다고 읽으면 안 됩니다. 촬영 대상이 어디에 있는지를 밝히는 말입니다."}
+ ],
+ "c26ad2f8|5.0": [
+  {"t":"who","q":"<b>Today’s plan was packed</b> — 빼곡히 채운 쪽이 문장에 나옵니까?","a":"나오지 않습니다(수동태). 가득 찬 것은 오늘 계획이고, 채운 내용물은 환경 관측 작업들입니다","tip":"with 뒤는 채워진 내용물이지 행위자가 아닙니다."},
+  {"t":"mod","q":"<b>to monitor for dust storms.</b> — 여기서 살피는 대상은 무엇입니까?","a":"먼지 폭풍입니다","tip":"monitor for X 는 ‘X가 생기는지 지켜보다’입니다. 이미 있는 것을 감시한다는 뜻과는 조금 다릅니다."},
+  {"t":"mod","q":"<b>was packed with environmental monitoring activities</b> 는 무슨 뜻입니까?","a":"환경 관측 작업들로 가득 차 있었다는 뜻입니다","tip":"pack 을 ‘짐을 싸다’로 읽으면 어색해집니다. be packed with 는 빽빽하게 들어차 있다는 관용 표현입니다."}
+ ],
+ "c26ad2f8|5.1": [
+  {"t":"mod","q":"<b>optical depth, or “tau,”</b> — 잰 것은 두 가지입니까, 한 가지입니까?","a":"한 가지입니다 — optical depth(광학 두께)를 tau 라고도 부릅니다","tip":"여기서 or 는 ‘또는’이 아니라 ‘즉’입니다. 앞말을 다른 이름으로 바꿔 부른 것입니다."},
+  {"t":"mod","q":"<b>of the atmosphere.</b> 는 무엇에 붙는 말입니까?","a":"앞의 optical depth — ‘대기의 광학 두께’입니다","tip":"쉼표로 끼어든 or “tau,” 때문에 멀어져 보이지만, of 는 optical depth 로 이어집니다."},
+  {"t":"mod","q":"<b>a flurry of dust-imaging observations</b> 는 무슨 뜻입니까?","a":"먼지를 찍는 관측을 짧은 사이에 여러 번 몰아서 했다는 뜻입니다","tip":"flurry 는 ‘눈보라’에서 온 말로, 한꺼번에 우르르 몰아치는 것을 가리킵니다."}
+ ],
+ "c26ad2f8|5.2": [
+  {"t":"who","q":"<b>is associated with</b> — 관련지은 주체가 문장에 나옵니까?","a":"나오지 않습니다(수동태). ‘타우 값이 높은 것’과 ‘먼지가 많은 것’이 서로 관련된다는 뜻입니다","tip":"A is associated with B 는 ‘A가 B를 연결한다’가 아니라 ‘A는 B와 함께 나타난다’입니다."},
+  {"t":"mod","q":"<b>an increased amount of dust in the atmosphere.</b> — 늘어난 것은 무엇입니까?","a":"대기 중 먼지의 양입니다","tip":"increased 는 amount 를 꾸밉니다. ‘늘어난 대기’가 아닙니다."},
+  {"t":"mod","q":"<b>A higher tau value</b> — 무엇보다 높다는 것입니까?","a":"평소의 타우 값보다 높다는 뜻입니다 — 비교 대상은 문장에 따로 나오지 않습니다","tip":"than 이 없는 비교급입니다. ‘값이 더 높을 때’라는 조건처럼 읽으면 됩니다."}
+ ],
+ "c26ad2f8|5.3": [
+  {"t":"pron","q":"<b>joined in on the action</b> 의 the action 은 무엇을 가리킵니까?","a":"앞에서 말한 먼지 폭풍 감시(환경 관측) 작업입니다","tip":"the 가 붙었다는 것은 앞에서 이미 말한 그 일을 다시 가리킨다는 신호입니다."},
+  {"t":"mod","q":"<b>by planning an overnight atmospheric measurement.</b> 는 무엇을 나타냅니까?","a":"APXS가 어떤 방법으로 함께했는지를 나타냅니다","tip":"by + -ing 는 ‘~함으로써’입니다. 시간(~할 때까지)으로 읽지 마세요."},
+  {"t":"mod","q":"<b>an overnight atmospheric measurement</b> 는 무슨 뜻입니까?","a":"밤새 이어지는 대기 측정입니다","tip":"overnight 를 ‘하룻밤 사이에 갑자기’로 읽기 쉽지만, 여기서는 ‘밤 동안 계속되는’이라는 뜻입니다."}
+ ],
+ "c26ad2f8|5.4": [
+  {"t":"mod","q":"<b>most of the heavy lifting</b> 는 무슨 뜻입니까?","a":"힘들고 손이 많이 가는 일의 대부분입니다","tip":"무거운 물건을 든다는 뜻이 아닙니다. 화성의 카메라가 무게를 들 일은 없습니다."},
+  {"t":"who","q":"<b>Navcam took on most of the heavy lifting</b> — 그 일을 떠맡은 것은 무엇입니까?","a":"Navcam(항법 카메라)입니다","tip":"take on 은 ‘떠맡다’입니다. ‘~에 올라타다’로 읽지 마세요."},
+  {"t":"mod","q":"<b>to monitor for dust storms.</b> 는 무엇을 설명합니까?","a":"the heavy lifting 의 내용 — 먼지 폭풍이 이는지 살피는 그 일입니다","tip":"무슨 힘든 일인지를 밝혀 주는 말입니다."}
+ ],
+ "c26ad2f8|5.5": [
+  {"t":"mod","q":"<b>These activities include multiple large dust-devil surveys, zenith observation,…and suprahorizon cloud movies.</b> — 몇 가지가 나열돼 있습니까?","a":"네 가지입니다 — 먼지 회오리 조사, 천정 관측, 분화구 안 시선 관측, 지평선 위 구름 동영상","tip":"쉼표와 and 로 이어진 항목을 세어 보세요. 넷 모두 include 의 목적어입니다."},
+  {"t":"pron","q":"<b>These activities</b> 는 무엇을 가리킵니까?","a":"앞 문장에서 Navcam이 떠맡은 먼지 폭풍 감시 작업들입니다","tip":"바로 앞 문장의 heavy lifting 이 무엇이었는지를 풀어 주는 문장입니다."},
+  {"t":"mod","q":"<b>in-crater line-of-sight observations,</b> 는 무슨 뜻입니까?","a":"분화구 안쪽을 시선 방향으로 가로질러 보며 하는 관측입니다","tip":"하이픈으로 묶인 in-crater(분화구 안의)와 line-of-sight(시선 방향의)가 각각 observations 를 꾸밉니다."}
+ ],
+ "c26ad2f8|6.0": [
+  {"t":"time","q":"<b>Curiosity will then continue to climb Mount Sharp;</b> — 이 등반은 이미 한 것입니까?","a":"앞으로 할 일입니다 — will 로 앞날을 나타냅니다","tip":"then 은 ‘그다음에’입니다. 이번 계획의 작업을 마친 뒤에 오를 것입니다."},
+  {"t":"who","q":"<b>the planned drive distance of 150 feet (47 meters) will take the rover</b> — 탐사차를 데려가는 것은 무엇입니까?","a":"계획된 주행 거리, 곧 그만큼 달리는 주행 자체입니다","tip":"사물이 주어가 되어 ‘~를 데려간다’고 말하는 영어식 표현입니다. 사람이나 팀이 데려가는 것이 아닙니다."},
+  {"t":"mod","q":"<b>southwest of our current location.</b> — 남서쪽이라는 방향의 기준은 어디입니까?","a":"지금 있는 위치입니다","tip":"southwest of X 는 ‘X에서 남서쪽’입니다. 목적지의 이름이 아니라 기준점입니다."}
+ ],
+ "c26ad2f8|6.1": [
+  {"t":"mod","q":"<b>full of contact science, remote sensing, and driving on Mars.</b> 는 무엇을 꾸미는 말입니까?","a":"바로 앞의 a new week(새로운 한 주)입니다","tip":"We 를 꾸민다고 읽으면 사람이 가득 찬 것이 됩니다. 가득한 것은 한 주의 일정입니다."},
+  {"t":"pron","q":"<b>We will return Monday</b> 의 We 는 누구입니까?","a":"글쓴이를 포함한 큐리오시티 운영·과학 팀입니다","tip":"탐사차가 지구로 돌아온다는 뜻이 아닙니다. 팀이 월요일에 다시 계획 작업에 복귀한다는 뜻입니다."},
+  {"t":"time","q":"<b>We will return Monday</b> — 언제 돌아옵니까?","a":"다음 월요일입니다 — 아직 오지 않은 앞날의 일입니다","tip":"Monday 앞에 on 이 없어 목적어처럼 보이지만, 시간을 나타내는 말입니다."}
+ ],
+ "c26ad2f8|7.0": [
+  {"t":"mod","q":"<b>and the seventh largest.</b> — 무엇이 일곱 번째로 크다는 것입니까?","a":"화성입니다 — 태양계 행성 가운데 일곱 번째로 큽니다","tip":"앞에 Mars is 가 생략돼 있습니다. 바로 앞의 the Sun 이 일곱 번째라고 읽으면 안 됩니다."},
+  {"t":"mod","q":"<b>the fourth planet from the Sun,</b> 는 무슨 뜻입니까?","a":"태양에서 세어 네 번째에 있는 행성이라는 뜻입니다","tip":"from the Sun 은 세는 기준점입니다. 거리를 말하는 것이 아닙니다."}
+ ],
+ "c26ad2f8|7.1": [
+  {"t":"pron","q":"<b>It’s the only planet</b> 의 It 은 무엇입니까?","a":"앞 문장에 나온 화성(Mars)입니다","tip":"날씨나 시간을 말할 때의 it 이 아닙니다. 바로 앞 문장의 주어를 받습니다."},
+  {"t":"mod","q":"<b>we know of inhabited…</b> — we know of 는 무엇을 꾸미는 말입니까?","a":"앞의 the only planet 입니다 — ‘우리가 아는 행성 가운데 유일한’이라는 뜻","tip":"관계대명사가 생략돼 planet we 가 붙어 보입니다. 명사 뒤에 바로 ‘주어+동사’가 오면 그 명사를 꾸미는 말입니다."},
+  {"t":"who","q":"<b>inhabited…</b> — 누가 살고 있다는 것인지 이 문장에 나옵니까?","a":"나오지 않습니다 — 문장이 …로 잘려 그 뒤가 빠져 있습니다","tip":"말줄임표(…)는 원문이 여기서 잘렸다는 표시입니다. 없는 내용을 지어서 채우지 마세요."}
+ ],
+ "c26ad2f8|8.0": [
+  {"t":"who","q":"<b>Explore this collection</b> — 살펴볼 사람은 누구입니까?","a":"이 글을 읽는 독자입니다 — 주어가 생략된 명령문입니다","tip":"동사로 시작하면 ‘~하세요’라는 명령·권유입니다. Explore 를 명사로 읽으면 뼈대가 잡히지 않습니다."},
+  {"t":"mod","q":"<b>videos, resources, PDFs, and toolkits.</b> — 이 항목들은 무엇의 내용입니까?","a":"this collection(이 모음집)에 담긴 자료들입니다","tip":"of 뒤의 나열은 모두 collection 에 걸립니다. 따로 떨어진 항목이 아닙니다."}
+ ],
+ "c26ad2f8|8.1": [
+  {"t":"mod","q":"<b>designed to inform, educate, and inspire,…</b> 는 무엇을 꾸미는 말입니까?","a":"앞의 valuable content(알찬 자료)입니다","tip":"designed 를 문장의 동사로 읽으면 안 됩니다. ‘~하도록 만들어진’이라는 뜻으로 앞 명사를 설명합니다."},
+  {"t":"who","q":"<b>Discover valuable content</b> — 이 문장의 주어는 누구입니까?","a":"이 글을 읽는 독자입니다(주어가 생략된 명령문)","tip":"동사로 시작하는 문장은 ‘~해 보세요’라는 권유입니다."}
+ ],
+ "c26ad2f8|9.0": [
+  {"t":"who","q":"<b>Each robotic explorer sent to the Red Planet</b> — 보낸 쪽이 문장에 나옵니까?","a":"나오지 않습니다. 보내진 것이 로봇 탐사선입니다","tip":"sent 를 ‘보냈다’는 동사로 읽으면 탐사선이 무언가를 보낸 것이 됩니다. 이 문장의 동사는 has 하나뿐입니다."},
+  {"t":"mod","q":"<b>driven by science.</b> 는 무엇을 꾸미는 말입니까?","a":"앞의 its own unique capabilities(그 고유한 능력들)입니다","tip":"탐사선이 과학에 의해 움직인다고 읽기 쉽지만, 과학이 정하는 것은 그 능력의 내용입니다."},
+  {"t":"mod","q":"<b>the Red Planet</b> 은 어디입니까?","a":"화성입니다","tip":"화성을 부르는 별명입니다. 다른 행성이나 별개의 장소가 아닙니다."}
+ ],
+ "c26ad2f8|9.1": [
+  {"t":"mod","q":"<b>Many attributes of a…</b> — 무엇의 특성인지 이 토막에 나옵니까?","a":"나오지 않습니다 — of a 뒤가 …로 잘려 있습니다","tip":"말줄임표는 원문이 여기서 끊겼다는 표시입니다. 앞뒤 문맥으로 지어내지 마세요."},
+  {"t":"mod","q":"<b>Many attributes</b> 의 attributes 는 여기서 명사입니까, 동사입니까?","a":"명사(특성·속성)입니다 — 앞에 Many 가 붙은 복수 명사","tip":"attribute 에는 ‘~의 탓으로 돌리다’라는 동사 뜻도 있지만, Many 뒤에 왔으므로 명사입니다."}
+ ],
+ "c26ad2f8|10.0": [
+  {"t":"who","q":"<b>can be found in NASA’s four…</b> — 찾는 주체가 문장에 나옵니까?","a":"나오지 않습니다(수동태). ‘~에서 찾을 수 있다’는 뜻이고, 찾아지는 것은 The key 입니다","tip":"The key 를 ‘찾는 쪽’으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"mod","q":"<b>The key to understanding</b> — to 뒤에 왜 -ing 가 왔습니까?","a":"여기의 to 는 부정사가 아니라 전치사여서 뒤에 동명사가 옵니다 — ‘이해하는 데 필요한 열쇠’","tip":"to + 동사원형으로 착각해 understand 를 기대하기 쉽습니다."},
+  {"t":"mod","q":"<b>the past, present or future potential for life on Mars</b> — ‘과거·현재·미래’는 무엇을 꾸밉니까?","a":"뒤의 potential(가능성)입니다 — 과거·현재·미래의 생명 가능성","tip":"세 낱말이 각각 potential 에 걸립니다. 따로 떨어진 세 가지 대상이 아닙니다."},
+  {"t":"mod","q":"<b>in NASA’s four…</b> — 그 네 가지가 무엇인지 나옵니까?","a":"나오지 않습니다 — 문장이 …로 잘려 있습니다","tip":"four 뒤에 와야 할 명사가 잘렸습니다. 임의로 채우지 마세요."}
+ ]
+}

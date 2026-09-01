@@ -1,0 +1,152 @@
+[
+ {
+  "id": "cad5cc15|0.0",
+  "en": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.",
+  "auto_s": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter",
+  "auto_v": "captured"
+ },
+ {
+  "id": "cad5cc15|0.1",
+  "en": "The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission.",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "cad5cc15|1.0",
+  "en": "To capture imagery of the impact, engineers tilted the spacecraft so its cameras would point toward the crater each time LRO passed about 60 miles above the Moon, traveling 1 mile per second.",
+  "auto_s": "engineers",
+  "auto_v": "tilted"
+ },
+ {
+  "id": "cad5cc15|1.1",
+  "en": "The orbiter circles the Moon from pole to pole every two hours, while the Moon slowly rotates underneath it.",
+  "auto_s": "The orbiter",
+  "auto_v": "circles"
+ },
+ {
+  "id": "cad5cc15|1.2",
+  "en": "To photograph a specific spot, the spacecraft must wait until that location turns into view, which took six days in this case.",
+  "auto_s": "the spacecraft",
+  "auto_v": "must wait"
+ },
+ {
+  "id": "cad5cc15|2.0",
+  "en": "Getting the pointing right was only half the challenge; timing had to be accurate as well.",
+  "auto_s": "Getting the pointing right",
+  "auto_v": "was"
+ },
+ {
+  "id": "cad5cc15|2.1",
+  "en": "If the camera snapped even 10 seconds too early or too late, the target would drift off-center by 10 miles.",
+  "auto_s": "the target",
+  "auto_v": "would drift"
+ },
+ {
+  "id": "cad5cc15|3.0",
+  "en": "Because of the variety of viewing angles, scientists could see the crater under multiple lighting conditions that revealed unique features.",
+  "auto_s": "scientists",
+  "auto_v": "could see"
+ },
+ {
+  "id": "cad5cc15|3.1",
+  "en": "In images where the crater rim stood out, scientists measured its 60‑foot width.",
+  "auto_s": "scientists",
+  "auto_v": "measured"
+ },
+ {
+  "id": "cad5cc15|3.2",
+  "en": "Scientists also determined the crater is less than 10 feet deep based on the length of its shadow.",
+  "auto_s": "Scientists",
+  "auto_v": "determined"
+ },
+ {
+  "id": "cad5cc15|4.0",
+  "en": "To capture these details, LRO used its Narrow-Angle Camera, which can spot features as small as 3 feet wide.",
+  "auto_s": "LRO",
+  "auto_v": "used"
+ },
+ {
+  "id": "cad5cc15|5.0",
+  "en": "The images above show bright and dark rays stretching out from the crater.",
+  "auto_s": "The images above",
+  "auto_v": "show"
+ },
+ {
+  "id": "cad5cc15|5.1",
+  "en": "The darker streaks are made of surface dust and rocks altered over a long time by solar wind, galactic cosmic rays, and micrometeorite impacts.",
+  "auto_s": "The darker streaks",
+  "auto_v": "are made"
+ },
+ {
+  "id": "cad5cc15|5.2",
+  "en": "This weathered material was excavated by the collision from 1.5 feet into the lunar surface.",
+  "auto_s": "This weathered material",
+  "auto_v": "was excavated"
+ },
+ {
+  "id": "cad5cc15|5.3",
+  "en": "The brighter streaks near the crater rim are made of fresh material excavated from deeper underground.",
+  "auto_s": "The brighter streaks near the crater rim",
+  "auto_v": "are made"
+ },
+ {
+  "id": "cad5cc15|6.0",
+  "en": "Finding the impact site took global coordination among experts and hobbyists.",
+  "auto_s": "Finding the impact site",
+  "auto_v": "took"
+ },
+ {
+  "id": "cad5cc15|6.1",
+  "en": "Independent astronomers first identified the rocket’s trajectory using publicly available data.",
+  "auto_s": "Independent astronomers",
+  "auto_v": "identified"
+ },
+ {
+  "id": "cad5cc15|6.2",
+  "en": "NASA’s Center for Near Earth Object Studies , which tracks natural objects that could pose hazards to Earth for the agency’s Planetary Defense program, used this opportunity to test and validate tools and techniques for predicting impacts.",
+  "auto_s": "NASA’s Center",
+  "auto_v": "used"
+ },
+ {
+  "id": "cad5cc15|7.0",
+  "en": "Based at NASA’s Jet Propulsion Laboratory in Southern California, the center incrementally refined the trajectory until identifying the location of impact, which it provided to the Republic of Korea for their Korea Pathfinder Lunar Orbiter (Danuri) team.",
+  "auto_s": "the center",
+  "auto_v": "refined"
+ },
+ {
+  "id": "cad5cc15|7.1",
+  "en": "The team used the high-resolution LUTI camera on Danuri a few hours later to image the crater, finding the prediction was accurate to about 0.6 miles.",
+  "auto_s": "The team",
+  "auto_v": "used"
+ },
+ {
+  "id": "cad5cc15|8.0",
+  "en": "After capturing images of the crater, the Danuri mission sent coordinates to NASA’s LRO team to help refine their follow-up imaging sequence.",
+  "auto_s": "the Danuri mission",
+  "auto_v": "sent"
+ },
+ {
+  "id": "cad5cc15|8.1",
+  "en": "Comparing their new crater images with the pre-impact images, the LRO team updated the crater center coordinates: 19.4759°N, 266.7138°E, 511 meters elevation.",
+  "auto_s": "the LRO team",
+  "auto_v": "updated"
+ },
+ {
+  "id": "cad5cc15|9.0",
+  "en": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions…",
+  "auto_s": "FORCE",
+  "auto_v": "is"
+ },
+ {
+  "id": "cad5cc15|10.0",
+  "en": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky…",
+  "auto_s": "New Hubble data",
+  "auto_v": "shows"
+ },
+ {
+  "id": "cad5cc15|11.0",
+  "en": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most…",
+  "auto_s": "NASA aircraft",
+  "auto_v": "are sampling"
+ }
+]

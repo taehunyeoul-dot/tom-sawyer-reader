@@ -1,0 +1,322 @@
+{
+ "dd2d4afb|0.0": [
+  {
+   "t": "mod",
+   "q": "<b>or L2</b> 는 무엇을 가리킵니까?",
+   "a": "바로 앞의 Sun-Earth Lagrange Point 2 를 줄여 부르는 이름입니다 — 같은 한 곳입니다",
+   "tip": "or 를 '또는'으로 읽으면 목적지가 두 곳인 것처럼 됩니다. 여기서는 '다시 말해'라는 뜻입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>is making its three-month journey</b> — 로만은 이미 L2에 도착했습니까?",
+   "a": "아니요 — 지금 가고 있는 중입니다",
+   "tip": "현재진행형(is making)은 지금 진행 중이라는 뜻입니다. 3개월은 이미 지난 시간이 아니라 여정 전체에 걸리는 시간입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>its three-month journey</b> 의 its 는 무엇을 가리킵니까?",
+   "a": "Roman(로만 우주망원경)입니다",
+   "tip": "바로 앞 주어를 받습니다. Earth 의 여정이 아닙니다."
+  }
+ ],
+ "dd2d4afb|0.1": [
+  {
+   "t": "who",
+   "q": "<b>systems are turned on, adjusted, calibrated, and prepared</b> — 켜고 조정하는 쪽이 systems 입니까?",
+   "a": "아니요 — systems 는 켜지고 조정되는 대상입니다. 하는 쪽은 이 문장에 나오지 않습니다(수동태)",
+   "tip": "are turned on 은 '켠다'가 아니라 '켜진다'입니다. 주어를 행위자로 읽으면 뜻이 통째로 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>where</b> 는 어떤 장소를 가리킵니까?",
+   "a": "장소가 아닙니다 — 앞에 나온 a process called commissioning(코미셔닝이라는 과정)을 받아 '그 과정에서'라는 뜻입니다",
+   "tip": "where 가 나오면 장소를 찾게 되지만, 여기서는 앞의 '과정'을 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>called commissioning</b> 은 이 문장의 동사입니까?",
+   "a": "아니요 — 앞의 a process 를 꾸미는 말입니다('코미셔닝이라 불리는 과정'). 주절의 동사는 is undergoing 입니다",
+   "tip": "called 를 동사로 읽으면 '로만이 무엇을 불렀다'가 되어 뼈대가 무너집니다."
+  }
+ ],
+ "dd2d4afb|0.2": [
+  {
+   "t": "who",
+   "q": "<b>for scientists and engineers to make sure</b> — 확인하는 쪽은 누구입니까?",
+   "a": "과학자와 엔지니어입니다",
+   "tip": "for 를 '~를 위해'로만 읽으면 확인하는 주체가 사라집니다. 「for + 사람 + to부정사」에서 그 사람이 to부정사의 주체입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the time</b> 뒤에 붙은 for ~ to make sure ~ 는 무엇을 설명합니까?",
+   "a": "the time, 곧 그 기간이 어떤 기간인지를 설명합니다 — 확인을 하는 기간이라는 뜻입니다",
+   "tip": "코미셔닝을 '시각'이나 '시간의 양'으로 읽으면 어색해집니다. 여기서 the time 은 '~하는 시기·기간'입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>Roman is performing as expected</b> — 예상대로 작동하는지는 이미 확인이 끝난 일입니까?",
+   "a": "아니요 — 코미셔닝 기간에 지금 확인하고 있는 중입니다",
+   "tip": "is performing 은 현재 진행 중인 상태입니다. 확인이 끝났다는 말은 어디에도 없습니다."
+  }
+ ],
+ "dd2d4afb|0.3": [
+  {
+   "t": "mod",
+   "q": "<b>is subject to change</b> 는 무슨 뜻입니까?",
+   "a": "바뀔 수 있다(변경될 수 있다)는 뜻입니다",
+   "tip": "subject 를 '주제·과목'으로 읽으면 뜻이 통하지 않습니다. be subject to ~ 는 '~을 겪을 수 있다'는 굳어진 표현입니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>the team assesses and adjusts</b> — 평가하고 조정하는 쪽은 누구입니까?",
+   "a": "the team, 곧 로만을 맡은 팀입니다. 일정(The schedule)이 스스로 조정하는 것이 아닙니다",
+   "tip": "앞 절의 주어(The schedule)에 이끌려 '일정이 조정한다'로 읽기 쉽습니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>The schedule is subject to change</b> — 일정이 이미 바뀌었다는 말입니까?",
+   "a": "아니요 — 앞으로 바뀔 수 있다는 가능성을 말한 것입니다",
+   "tip": "이미 일어난 일이 아니라 앞으로 그럴 수 있다는 말입니다."
+  }
+ ],
+ "dd2d4afb|1.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript</b> — 자바스크립트를 켜야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자) 자신입니다 — 주어가 생략된 명령문입니다",
+   "tip": "주어가 없다고 NASA나 Roman 이 하는 일로 읽으면 안 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 a web browser(웹 브라우저)입니다",
+   "tip": "관계절은 바로 앞 명사를 꾸밉니다. JavaScript 를 꾸미는 것이 아닙니다."
+  }
+ ],
+ "dd2d4afb|2.0": [
+  {
+   "t": "time",
+   "q": "<b>An hour and 23 minutes after launch</b> — 무엇으로부터 얼마나 지난 때입니까?",
+   "a": "발사(launch)로부터 1시간 23분이 지난 때입니다",
+   "tip": "after 앞에 놓인 시간만큼 '뒤'라는 뜻입니다. '1시간 23분 동안'이 아닙니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>that allowed it to fit in the rocket fairing</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "Roman(로만)입니다",
+   "tip": "바로 앞의 the tight configuration 으로 잡기 쉽습니다. 페어링 안에 들어간 것은 망원경입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the tight configuration</b> 은 무엇을 가리킵니까?",
+   "a": "로켓 덮개 안에 들어가도록 로만이 부품을 접어 넣은 빽빽한 형태입니다",
+   "tip": "로켓이나 페어링의 모양으로 읽기 쉽지만, 접혀 있다가 펼쳐지는 것은 로만입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>began to emerge</b> — 이 시점에 펼치는 일이 다 끝났습니까?",
+   "a": "아니요 — 펼쳐지기 '시작'했을 뿐입니다",
+   "tip": "began to ~ 는 시작만 말합니다. 완료로 읽으면 뒤에 나오는 남은 전개 작업과 어긋납니다."
+  }
+ ],
+ "dd2d4afb|2.1": [
+  {
+   "t": "who",
+   "q": "<b>shading the rest of the observatory and providing power</b> — 그늘을 드리우고 전력을 공급하는 쪽은 무엇입니까?",
+   "a": "앞 절의 주어인 태양전지판과 차양막(The solar panels and sunshade)입니다",
+   "tip": "-ing 로 시작하는 분사구문의 주체는 앞 절의 주어입니다. observatory 가 하는 일로 읽으면 뒤집힙니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the rest of the observatory</b> 는 무엇을 가리킵니까?",
+   "a": "방금 펼쳐진 태양전지판과 차양막을 뺀 관측선의 나머지 부분입니다",
+   "tip": "the rest of ~ 는 '~의 나머지'입니다. 관측선 전체가 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>deployed</b> — 펼치는 일은 앞으로 할 일입니까?",
+   "a": "아니요 — 이미 일어난 일입니다(과거형)",
+   "tip": "다음 문장의 will swing out(앞으로 할 일)과 시제가 다릅니다. 여기까지는 이미 끝난 일입니다."
+  }
+ ],
+ "dd2d4afb|2.2": [
+  {
+   "t": "time",
+   "q": "<b>Within the upcoming days</b> — 안테나가 펼쳐지는 것은 이미 한 일입니까?",
+   "a": "아니요 — 앞으로 며칠 안에 할 일입니다",
+   "tip": "앞 문장의 deployed(이미 펼쳐졌다)와 헷갈리기 쉽습니다. 여기에는 will 이 붙어 있습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the visor-like deployable aperture cover</b> 는 무엇입니까?",
+   "a": "챙(모자 챙 같은 가리개)처럼 생긴, 펼쳐지는 방식의 개구부 덮개입니다 — 안테나와는 다른 부품입니다",
+   "tip": "명사 앞에 꾸미는 말이 세 겹 붙어 있습니다. 뒤에서부터 '덮개 ← 개구부(aperture) ← 펼침식(deployable) ← 챙 같은(visor-like)' 순으로 풉니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>to permanently reveal and shade the primary mirror</b> — 주경을 드러내고 가려 주는 쪽은 무엇입니까?",
+   "a": "the visor-like deployable aperture cover(그 덮개)입니다. 안테나가 아닙니다",
+   "tip": "to부정사가 나타내는 동작의 주체는 바로 앞 절의 주어입니다. and 로 두 절이 이어져 있어 앞 절의 안테나로 잡기 쉽습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>to permanently reveal and shade</b> — permanently 는 reveal 에만 걸립니까?",
+   "a": "reveal 과 shade 둘 다에 걸립니다 — 영구히 드러내고 영구히 가려 준다는 뜻입니다",
+   "tip": "to + 부사 + 동사 and 동사 구조라, 뒤의 shade 도 앞의 to 와 permanently 를 함께 나눠 씁니다."
+  }
+ ],
+ "dd2d4afb|3.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript</b> — 자바스크립트를 켜야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자) 자신입니다 — 주어가 생략된 명령문입니다",
+   "tip": "주어가 없다고 NASA나 Roman 이 하는 일로 읽으면 안 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 a web browser(웹 브라우저)입니다",
+   "tip": "관계절은 바로 앞 명사를 꾸밉니다. JavaScript 를 꾸미는 것이 아닙니다."
+  }
+ ],
+ "dd2d4afb|4.0": [
+  {
+   "t": "mod",
+   "q": "<b>that Roman will have around L2</b> 는 무엇을 설명하는 말입니까?",
+   "a": "앞의 the stable, halo orbit(안정적인 헤일로 궤도)입니다",
+   "tip": "that 을 '그것'으로 읽지 마세요. have 뒤에 목적어가 비어 있는 것이 관계절이라는 신호입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>will have</b> — 로만은 지금 그 궤도를 돌고 있습니까?",
+   "a": "아니요 — 앞으로 그렇게 될 것입니다. 로만은 아직 L2로 가는 중입니다",
+   "tip": "will 은 아직 이루어지지 않은 일입니다. 영상이 보여 주는 것은 앞으로의 모습입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>the stable, halo orbit</b> — stable 과 halo 는 각각 무엇을 꾸밉니까?",
+   "a": "둘 다 orbit(궤도)을 꾸밉니다 — '안정적인 헤일로 궤도'라는 뜻입니다",
+   "tip": "쉼표가 있어 stable 이 halo 를 꾸미는 것처럼 보이지만, 두 말이 나란히 orbit 을 꾸밉니다."
+  }
+ ],
+ "dd2d4afb|4.1": [
+  {
+   "t": "who",
+   "q": "<b>the gravity of the Sun and Earth</b> — 물체가 줄 맞춘 채로 있게 해 주는 주체(주절의 주어)는 무엇입니까?",
+   "a": "태양과 지구의 중력입니다. 사이에 낀 together with an object’s motion around the Sun 은 쉼표로 둘러싸인 삽입구입니다",
+   "tip": "삽입구가 길어서 바로 앞의 an object’s motion 을 주어로 잡기 쉽습니다. 주어는 삽입구 앞에 있습니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>let it stay lined up with Earth</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "앞에 나온 an object(태양 둘레를 도는 물체), 곧 로만 같은 물체입니다",
+   "tip": "the gravity 로 잡으면 안 됩니다. 중력이 줄을 맞추는 것이 아니라, 물체가 줄 맞춘 채로 있게 해 주는 것입니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>as they orbit</b> 의 they 는 무엇을 가리킵니까?",
+   "a": "그 물체와 지구, 두 쪽입니다",
+   "tip": "복수형이므로 바로 앞의 Earth 하나만 가리킬 수 없습니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>without using much fuel</b> — 로만은 연료를 많이 씁니까, 적게 씁니까?",
+   "a": "적게 씁니다 — 연료를 많이 쓰지 않고도 안정된 궤도를 유지합니다",
+   "tip": "without 이 부정입니다. 놓치면 '연료를 많이 써서'라는 정반대 뜻이 됩니다."
+  }
+ ],
+ "dd2d4afb|4.2": [
+  {
+   "t": "neg",
+   "q": "<b>Earth won’t block much of Roman’s view</b> — 지구가 로만의 시야를 많이 가립니까?",
+   "a": "아니요 — 크게 가리지 않습니다",
+   "tip": "won’t 이 부정입니다. 놓치면 '지구가 시야를 많이 가린다'는 정반대 뜻이 됩니다."
+  },
+  {
+   "t": "pron",
+   "q": "<b>since it will be so distant</b> 의 it 은 무엇을 가리킵니까?",
+   "a": "Earth(지구)입니다 — 지구가 아주 멀리 있게 된다는 뜻입니다",
+   "tip": "Roman 으로 잡으면 '로만이 멀어서 못 본다'는 엉뚱한 뜻이 됩니다. 바로 앞 절의 주어인 Earth 를 받습니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>a constant, unobstructed view</b> — unobstructed 는 무슨 뜻이며 무엇을 꾸밉니까?",
+   "a": "'가로막히지 않은'이라는 뜻이고, view(시야)를 꾸밉니다",
+   "tip": "un- 이 붙어 부정의 뜻이 됩니다. 뒤의 sky 를 꾸미는 것이 아닙니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>since</b> 는 여기서 '~한 뒤로'입니까, '~이기 때문에'입니까?",
+   "a": "'~이기 때문에'(이유)입니다",
+   "tip": "since 뒤에 will be 라는 앞으로의 일이 오면 시간이 아니라 이유입니다."
+  }
+ ],
+ "dd2d4afb|4.3": [
+  {
+   "t": "mod",
+   "q": "<b>heat from Earth, the Sun, and the Moon</b> — 이 문장에서 영향을 미치는 것(주어)은 무엇입니까?",
+   "a": "heat(열)입니다. from Earth, the Sun, and the Moon 은 그 열이 어디서 오는지를 밝히는 꾸밈말입니다",
+   "tip": "동사가 have 라서 바로 앞의 the Moon 을 주어로 잡기 쉽습니다. 열의 출처가 셋일 뿐, 주어는 열 하나입니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>which “see” heat</b> 는 무엇을 설명하는 말입니까?",
+   "a": "앞의 infrared telescopes(적외선 망원경)입니다",
+   "tip": "바로 앞 명사를 보충 설명합니다. heat 를 꾸미는 것이 아닙니다."
+  },
+  {
+   "t": "neg",
+   "q": "<b>have less effect on infrared telescopes</b> — L2에서는 열의 영향이 더 큽니까, 더 작습니까?",
+   "a": "더 작습니다",
+   "tip": "less 는 '더 적은'입니다. more 로 잘못 읽으면 뜻이 정반대가 됩니다."
+  }
+ ],
+ "dd2d4afb|5.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript</b> — 자바스크립트를 켜야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자) 자신입니다 — 주어가 생략된 명령문입니다",
+   "tip": "주어가 없다고 NASA나 Roman 이 하는 일로 읽으면 안 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 a web browser(웹 브라우저)입니다",
+   "tip": "관계절은 바로 앞 명사를 꾸밉니다. JavaScript 를 꾸미는 것이 아닙니다."
+  }
+ ],
+ "dd2d4afb|6.0": [
+  {
+   "t": "who",
+   "q": "<b>please enable JavaScript</b> — 자바스크립트를 켜야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자) 자신입니다 — 주어가 생략된 명령문입니다",
+   "tip": "주어가 없다고 NASA나 Roman 이 하는 일로 읽으면 안 됩니다."
+  },
+  {
+   "t": "mod",
+   "q": "<b>that supports HTML5 video</b> 는 무엇을 설명하는 말입니까?",
+   "a": "바로 앞의 a web browser(웹 브라우저)입니다",
+   "tip": "관계절은 바로 앞 명사를 꾸밉니다. JavaScript 를 꾸미는 것이 아닙니다."
+  }
+ ],
+ "dd2d4afb|7.0": [
+  {
+   "t": "who",
+   "q": "<b>Learn more about the systems</b> — 더 알아보아야 하는 쪽은 누구입니까?",
+   "a": "이 글을 읽는 사람(독자)입니다 — 주어가 생략된 명령문입니다",
+   "tip": "주어가 없다고 NASA나 Roman 이 하는 일로 읽으면 안 됩니다."
+  },
+  {
+   "t": "who",
+   "q": "<b>that are getting turned on, tested and calibrated</b> — 켜고 시험하고 보정하는 쪽이 the systems 입니까?",
+   "a": "아니요 — the systems 는 켜지고 시험받고 보정되는 대상입니다. 하는 쪽은 이 문장에 나오지 않습니다",
+   "tip": "「get + 과거분사」도 be 동사 수동태와 같은 '~되다'라는 뜻입니다."
+  },
+  {
+   "t": "time",
+   "q": "<b>are getting turned on</b> — 이 일은 이미 끝났습니까?",
+   "a": "아니요 — 지금 진행되고 있는 일입니다(코미셔닝 중)",
+   "tip": "are getting ~ 은 지금 진행 중이라는 뜻입니다."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "5124956a|0.0": [
+  {"t":"who","q":"<b>NASA will provide coverage</b> — 정거장 밖으로 나가는 쪽과 중계를 내보내는 쪽은 각각 누구입니까?","a":"밖으로 나가는 쪽은 두 명의 우주비행사(two astronauts), 중계를 내보내는 쪽은 NASA입니다","tip":"provide coverage 는 '보도·중계를 내보내다'입니다. NASA가 우주 유영을 한다고 읽으면 두 주체가 뒤섞입니다."},
+  {"t":"who","q":"<b>to replace a spacecraft navigational aid and complete several maintenance tasks</b> — 이 두 가지를 하는 쪽은 누구입니까?","a":"두 명의 우주비행사입니다","tip":"문장의 주어인 NASA에 붙이기 쉽지만, 밖으로 나가 손으로 작업하는 것은 우주비행사 쪽입니다."},
+  {"t":"mod","q":"<b>in support of space station operations</b> 는 무엇을 뒷받침한다는 말입니까?","a":"바로 앞의 교체·정비 작업이 우주정거장 운영을 뒷받침한다는 뜻입니다","tip":"NASA의 중계(coverage)를 위한 것으로 붙이면 안 됩니다. 운영을 뒷받침하는 것은 우주 유영 중의 작업입니다."},
+  {"t":"time","q":"<b>on Tuesday, Sept. 1,</b> — 이 우주 유영은 이미 끝난 일입니까, 앞으로 할 일입니까?","a":"앞으로 할 일입니다 — 아직 하지 않았습니다","tip":"날짜만 보고 지난 일로 읽기 쉽지만, will provide 가 앞일임을 밝히고 있습니다."}
+ ],
+ "5124956a|1.0": [
+  {"t":"who","q":"<b>Watch live coverage</b> — 이 문장에서 '보라'는 말을 듣는 쪽은 누구입니까?","a":"이 글을 읽는 독자입니다 — 주어가 없는 명령문이라 '당신'이 숨어 있습니다","tip":"주어가 안 보이면 명령문을 의심하세요. Watch 를 명사(시계·감시)로 읽으면 문장이 만들어지지 않습니다."},
+  {"t":"mod","q":"<b>beginning at 7 a.m. EDT</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 live coverage — 그 생중계가 오전 7시에 시작된다는 뜻입니다","tip":"'7시에 보기 시작하라'로 읽기 쉽지만, 7시에 시작하는 것은 중계 쪽입니다."},
+  {"t":"time","q":"<b>at 7 a.m. EDT</b> — 이 시각은 어느 나라 시간입니까?","a":"미국 동부 여름 시간(EDT, Eastern Daylight Time)입니다 — 한국 시간이 아닙니다","tip":"시각 뒤에 붙은 짧은 EDT 를 흘려 읽으면 우리 시간 오전 7시로 잘못 잡게 됩니다."}
+ ],
+ "5124956a|1.1": [
+  {"t":"who","q":"<b>The spacewalk is expected</b> — 그렇게 예상하는 쪽은 문장에 나옵니까?","a":"나오지 않습니다 — 수동태라 예상하는 주체가 생략되었습니다. 우주 유영은 예상되는 대상입니다","tip":"주어 The spacewalk 를 '예상하는 쪽'으로 읽으면 주체와 대상이 뒤집힙니다."},
+  {"t":"mod","q":"<b>and last about six and a half hours</b> — 여기서 last 는 무슨 뜻이며 무엇에 이어지는 말입니까?","a":"'지속되다'라는 동사이고, 앞의 to start 와 나란히 to 에 이어집니다 — 유영이 여섯 시간 반쯤 이어질 것으로 예상된다는 뜻","tip":"last 를 '마지막'이라는 형용사로 읽으면 뜻이 만들어지지 않습니다. 두 번째 to 가 생략돼 있습니다."},
+  {"t":"time","q":"<b>to start at approximately 8:30 a.m.</b> — 이 시각은 앞 문장의 중계 시작 시각과 같습니까?","a":"다릅니다 — 중계는 오전 7시에 시작하고, 우주 유영 자체는 8시 30분쯤 시작합니다","tip":"두 시각을 하나로 뭉뚱그리면 틀립니다. 중계가 먼저 시작해 기다리는 셈입니다."}
+ ],
+ "5124956a|1.2": [
+  {"t":"mod","q":"<b>NASA’s spacewalk coverage</b> 는 무엇을 뜻합니까?","a":"NASA가 내보내는 그 우주 유영 중계(방송)입니다","tip":"명사가 세 겹으로 붙어 있습니다. 뒤에서부터 '중계 ← 우주 유영 ← NASA의' 순으로 풀면 됩니다."},
+  {"t":"who","q":"<b>will stream</b> — 흘려보내지는(송출되는) 쪽은 무엇입니까?","a":"중계(coverage)입니다 — 여러 플랫폼을 통해 중계가 송출된다는 뜻입니다","tip":"stream 은 여기서 '실시간으로 내보내지다'입니다. 시청자가 스트리밍한다는 뜻이 아닙니다."},
+  {"t":"mod","q":"<b>through a variety of platforms</b> 는 무슨 뜻입니까?","a":"여러 가지 플랫폼(방송 채널과 인터넷 매체)을 통해서라는 뜻입니다","tip":"a variety of ~ 는 '다양한 여러 ~'입니다. 한 가지 통로로 읽으면 안 됩니다."}
+ ],
+ "5124956a|2.0": [
+  {"t":"who","q":"<b>NASA astronaut Jessica Meir and ESA (European Space Agency) astronaut Sophie Adenot</b> — 두 사람은 각각 어느 기관 소속입니까?","a":"Jessica Meir 는 NASA, Sophie Adenot 는 ESA(유럽우주국) 소속입니다","tip":"이름 앞에 기관 이름과 astronaut 가 동격으로 붙어 있습니다. 소속을 서로 바꿔 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>on the forward port of the space station’s Harmony module</b> — 이 자리는 무엇이 놓이는 곳입니까?","a":"교체할 retroreflector(역반사경)가 달려 있는 자리입니다 — 우주정거장 하모니 모듈의 앞쪽 포트","tip":"port 는 여기서 '항구'가 아니라 우주정거장의 결합 포트(우주선이 붙는 자리)입니다."},
+  {"t":"who","q":"<b>to support spacecraft navigation during rendezvous and docking operations</b> — 항법에 도움을 받는 쪽은 무엇입니까?","a":"우주정거장에 접근해 결합하는 우주선(spacecraft)입니다","tip":"우주정거장 자신의 항법으로 읽기 쉽습니다. 반사경은 다가오는 우주선이 거리를 재는 데 쓰입니다."},
+  {"t":"time","q":"<b>will replace</b> — 이 교체는 이미 끝난 일입니까?","a":"아니요 — 아직이며 그날 우주 유영에서 할 일입니다","tip":"맨 앞의 During U.S. spacewalk 99 를 지난 일로 읽기 쉽지만, 동사는 will replace 입니다."}
+ ],
+ "5124956a|2.1": [
+  {"t":"who","q":"<b>the crew will work to install jumper cables</b> — 여기서 the crew 는 누구를 가리킵니까?","a":"앞 문장에 나온 두 우주비행사, 곧 Meir 와 Adenot 입니다","tip":"'정거장 안의 승무원 전체'로 넓혀 읽기 쉽습니다. 밖에서 작업하는 두 사람입니다."},
+  {"t":"mod","q":"<b>prepare the Alpha Magnetic Spectrometer’s radiator for future maintenance</b> — prepare 는 무엇과 나란히 놓인 말입니까?","a":"앞의 install, 뒤의 replace 와 나란히 will work to 에 걸립니다 — 승무원이 할 세 가지 일 중 둘째입니다","tip":"두 번째와 세 번째에는 to 가 다시 나오지 않아 별개의 동사처럼 보입니다. 셋 다 '할 일'의 나열입니다."},
+  {"t":"time","q":"<b>After installing the reflector,</b> — 반사경 설치와 이 세 가지 작업 중 어느 쪽이 먼저입니까?","a":"반사경 설치가 먼저입니다 — 그것을 마친 뒤에 세 가지 작업을 합니다","tip":"After -ing 는 '~한 뒤에'입니다. 순서를 뒤집으면 작업 차례가 어긋납니다."},
+  {"t":"mod","q":"<b>for future maintenance</b> — 방열판 정비는 이번에 끝냅니까?","a":"아니요 — 나중에 할 정비에 대비해 이번에는 준비만 해 둡니다","tip":"future 가 '앞으로 있을 정비'임을 밝힙니다. prepare 는 '준비해 두다'이지 '정비하다'가 아닙니다."}
+ ],
+ "5124956a|3.0": [
+  {"t":"who","q":"<b>a suit with red stripes</b> — 빨간 줄무늬 우주복을 입는 사람은 누구입니까?","a":"Adenot 입니다","tip":"바로 다음 문장의 Meir 와 뒤바꿔 읽기 쉽습니다. 두 문장을 나란히 놓고 확인하세요."},
+  {"t":"mod","q":"<b>will serve as spacewalk crew member 1</b> — crew member 1 은 무슨 뜻입니까?","a":"그 우주 유영에서 맡은 1번 승무원이라는 역할 번호입니다","tip":"serve as ~ 는 '~ 역할을 맡다'입니다. 계급이나 '먼저 나가는 순서'가 아닙니다."},
+  {"t":"time","q":"<b>Adenot will serve</b> — 이 역할은 이미 수행된 일입니까?","a":"아니요 — 앞으로 있을 우주 유영에서 맡을 역할입니다","tip":"will 이 두 번(will serve, will wear) 나와 모두 앞일을 가리킵니다."}
+ ],
+ "5124956a|3.1": [
+  {"t":"neg","q":"<b>an unmarked suit</b> — unmarked 는 무슨 뜻입니까?","a":"아무 표시(줄무늬)가 없는 우주복이라는 뜻입니다","tip":"un- 이 붙어 '표시가 없다'는 부정입니다. marked 로 읽으면 앞 문장의 Adenot 와 구별이 사라집니다."},
+  {"t":"who","q":"<b>Meir will serve as crew member 2</b> — 2번 승무원이자 표시 없는 우주복을 입는 사람은 누구입니까?","a":"Meir 입니다. Adenot 가 1번이자 빨간 줄무늬 우주복입니다","tip":"두 문장이 거의 같은 꼴이라 이름과 번호를 맞바꿔 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>as crew member 2</b> — 이 '2'는 무엇을 나타내는 숫자입니까?","a":"그 우주 유영에서 배정된 역할 번호입니다","tip":"'두 번째로 나간다'는 순서나 '2인조'라는 뜻이 아닙니다."}
+ ],
+ "5124956a|4.0": [
+  {"t":"pron","q":"<b>This</b> 는 무엇을 가리킵니까?","a":"이번에 할 그 우주 유영입니다","tip":"바로 앞 문장의 우주복이나 역할 배정으로 잡기 쉽습니다. This 는 유영 자체를 받습니다."},
+  {"t":"who","q":"<b>Meir’s seventh spacewalk and Adenot’s third</b> — 일곱 번째인 쪽과 세 번째인 쪽은 각각 누구입니까?","a":"일곱 번째는 Meir, 세 번째는 Adenot 입니다","tip":"두 사람의 횟수를 서로 바꿔 읽기 쉽습니다. 이름 바로 뒤에 붙은 숫자가 그 사람의 횟수입니다."},
+  {"t":"mod","q":"<b>and Adenot’s third.</b> — third 뒤에 생략된 말은 무엇입니까?","a":"spacewalk 입니다 — 'Adenot 에게는 세 번째 우주 유영'이라는 뜻","tip":"되풀이되는 말을 지운 것입니다. 숫자만 남아 무엇의 세 번째인지 놓치기 쉽습니다."}
+ ],
+ "5124956a|4.1": [
+  {"t":"who","q":"<b>trailing Peggy Whitson (10) and Suni Williams (9)</b> — 앞서 있는 쪽과 뒤처진 쪽은 각각 누구입니까?","a":"앞선 쪽은 Peggy Whitson(10회)과 Suni Williams(9회), 뒤처진 쪽은 Meir 입니다","tip":"trail 은 '뒤따르다, 뒤처지다'입니다. '이끌다'로 읽으면 순위가 통째로 뒤집힙니다."},
+  {"t":"mod","q":"<b>into third all-time for total spacewalks among women at NASA</b> — 이 3위는 어떤 범위 안에서의 순위입니까?","a":"NASA 소속 여성 우주비행사 가운데 총 우주 유영 횟수 기준 역대 3위입니다","tip":"'NASA 전체에서 3위'로 넓혀 읽으면 안 됩니다. among women at NASA 가 범위를 좁힙니다."},
+  {"t":"mod","q":"<b>(10)</b> 과 <b>(9)</b> 는 각각 무엇을 나타내는 숫자입니까?","a":"두 사람의 총 우주 유영 횟수입니다 — Whitson 10회, Williams 9회","tip":"나이나 순위로 읽기 쉽습니다. 앞의 total spacewalks 를 받는 숫자입니다."},
+  {"t":"time","q":"<b>Meir will move into third all-time</b> — Meir 는 지금 이미 3위입니까?","a":"아니요 — 이번 우주 유영을 마치면 3위가 됩니다","tip":"will move 는 아직 일어나지 않은 일입니다. 이미 3위로 읽으면 시점이 어긋납니다."}
+ ],
+ "5124956a|4.2": [
+  {"t":"pron","q":"<b>The excursion</b> 은 무엇을 가리킵니까?","a":"이번에 할 그 우주 유영입니다","tip":"excursion 은 보통 '소풍·나들이'지만 여기서는 정거장 밖으로 나가는 이번 활동을 달리 부른 말입니다."},
+  {"t":"mod","q":"<b>supporting space station assembly, maintenance, and upgrades</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 the 284th spacewalk 입니다 — 우주정거장의 조립·정비·개선을 뒷받침해 온 유영들을 세는 기준","tip":"supporting 을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 marks 하나뿐입니다."},
+  {"t":"who","q":"<b>the 284th spacewalk</b> — 284번째라는 것은 누구의 284번째입니까?","a":"특정 개인이 아니라 우주정거장 관련 우주 유영을 통틀어 284번째라는 뜻입니다","tip":"앞 문장의 Meir(7회)·Adenot(3회)에 이어져 개인 기록으로 읽기 쉽습니다. 여기서는 전체 누계입니다."},
+  {"t":"mod","q":"<b>also</b> 는 무엇에 덧붙이는 말입니까?","a":"앞 문장에서 말한 개인 기록(Meir 7회, Adenot 3회)에 더해 또 하나의 기록이 있다는 뜻입니다","tip":"'또한'으로 흘려 읽기 쉽지만, 개인 기록 다음에 전체 누계 기록을 하나 더 얹는 신호입니다."}
+ ]
+}

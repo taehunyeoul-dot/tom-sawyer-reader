@@ -1,0 +1,515 @@
+[
+ {
+  "id": "5b65fcb7|0.0",
+  "en": "President Donald J.",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "President Donald J.", "ko": "도널드 J. (트럼프) 대통령", "r": "주어가 될 이름 — 다음 문장 첫머리의 Trump 로 이어짐"}
+  ],
+  "ko": "도널드 J. (트럼프) 대통령 — 이름이 여기서 잘려 다음 문장 첫머리의 Trump 로 이어진다.",
+  "why": "이것은 완결된 문장이 아니다. 마침표를 보고 문장을 자르는 프로그램이 가운데 이름의 약자 J. 뒤에서 잘라 버린 조각이다. 동사가 없으므로 다음 문장(Trump awarded …)과 붙여 'President Donald J. Trump awarded …' 한 문장으로 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|0.1",
+  "en": "Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission.",
+  "s": "Trump",
+  "v": "awarded",
+  "chunks": [
+   {"en": "Trump awarded", "ko": "트럼프 (대통령)는 ~에게 수여했다", "r": "주어 + 동사"},
+   {"en": "NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch,", "ko": "NASA 우주비행사 리드 와이즈먼, 빅터 글로버, 크리스티나 코크에게", "r": "목적어(받는 사람들) + 직함 동격"},
+   {"en": "and CSA (Canadian Space Agency) astronaut Jeremy Hansen", "ko": "그리고 CSA(캐나다 우주국) 우주비행사 제러미 핸슨에게", "r": "목적어 이어짐(받는 사람)"},
+   {"en": "with the Congressional Space Medal of Honor", "ko": "의회 우주 명예훈장을", "r": "전치사구(수여한 것)"},
+   {"en": "Friday", "ko": "금요일에", "r": "시간"},
+   {"en": "for their service during the Artemis II mission.", "ko": "아르테미스 II 임무에서 세운 공로로", "r": "이유·근거"}
+  ],
+  "ko": "트럼프 대통령은 금요일, NASA 우주비행사 리드 와이즈먼·빅터 글로버·크리스티나 코크와 CSA(Canadian Space Agency, 캐나다 우주국) 소속 우주비행사 제러미 핸슨에게 아르테미스 II 임무에서 세운 공로로 의회 우주 명예훈장(Congressional Space Medal of Honor)을 수여했다.",
+  "why": "award A with B 는 'A에게 B를 준다'는 꼴이라, 훈장을 받은 쪽은 with 뒤가 아니라 동사 바로 뒤에 줄줄이 나온 사람들이다. 사람이 넷이나 이어지고 이름 앞마다 직함(NASA astronauts, CSA astronaut)이 붙어 목적어가 아주 길다. Friday 는 전치사 없이 홀로 '금요일에'라는 시간을 나타낸다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|0.2",
+  "en": "He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first medal recipients since 2023.",
+  "s": "He",
+  "v": "presented",
+  "chunks": [
+   {"en": "He presented the awards", "ko": "그는 그 훈장들을 수여했다", "r": "주어 + 동사 + 목적어"},
+   {"en": "during a ceremony", "ko": "한 기념식에서", "r": "시간(~하는 동안)"},
+   {"en": "at NASA’s Johnson Space Center in Houston,", "ko": "휴스턴에 있는 NASA 존슨우주센터에서", "r": "전치사구(장소)"},
+   {"en": "honoring the first medal recipients since 2023.", "ko": "2023년 이후 처음 나온 수상자들을 기리면서", "r": "분사구문(앞 내용 부연)"}
+  ],
+  "ko": "그(트럼프 대통령)는 휴스턴에 있는 NASA 존슨우주센터(Johnson Space Center)에서 열린 기념식에서 그 훈장들을 수여했다. 이들은 2023년 이후 처음 나온 훈장 수상자들이다.",
+  "why": "He 는 앞 문장의 트럼프 대통령이다. 맨 뒤 honoring ~ 은 분사구문(-ing 로 시작해 앞 내용을 덧붙이는 말)이라 새 동사가 아니고, 기리는 주체도 그대로 He 다. the first medal recipients since 2023 는 '2023년 이래 처음 받는 수상자들'이지 2023년에 받은 사람들이 아니다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|1.0",
+  "en": "NASA’s historic Artemis II mission launched on April 1, and splashed down safely in the Pacific Ocean on April 10.",
+  "s": "NASA’s historic Artemis II mission",
+  "v": "launched",
+  "chunks": [
+   {"en": "NASA’s historic Artemis II mission", "ko": "NASA의 역사적인 아르테미스 II 임무는", "r": "주어(긴 명사구)"},
+   {"en": "launched on April 1,", "ko": "4월 1일에 발사되었고", "r": "동사 + 시간"},
+   {"en": "and splashed down safely", "ko": "그리고 무사히 바다에 내려앉았다", "r": "대등절(같은 주어의 둘째 동사)"},
+   {"en": "in the Pacific Ocean on April 10.", "ko": "4월 10일 태평양에", "r": "장소 + 시간"}
+  ],
+  "ko": "NASA의 역사적인 아르테미스 II(Artemis II) 임무는 4월 1일에 발사되어, 4월 10일 태평양에 무사히 착수(우주선이 바다 위로 내려앉는 것)했다.",
+  "why": "동사가 launched 와 splashed down 둘인데 주어는 하나(임무)다. launched 는 뒤에 목적어가 없으니 '무엇을 쏘아 올렸다'가 아니라 '발사되었다'는 뜻이고, splash down 은 우주선이 바다에 내려앉는 것을 가리키는 말이다. 날짜가 둘 나오니 어느 것이 발사이고 어느 것이 귀환인지 짝지어 두어야 한다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|1.1",
+  "en": "The crew members were the first astronauts to launch on the agency’s SLS (Space Launch System) rocket, flying aboard NASA’s Orion spacecraft, which the crew named Integrity.",
+  "s": "The crew members",
+  "v": "were",
+  "chunks": [
+   {"en": "The crew members were", "ko": "이 승무원들은 ~이었다", "r": "주어 + 동사"},
+   {"en": "the first astronauts to launch", "ko": "발사에 오른 첫 우주비행사들", "r": "보어 + to부정사(앞 명사 설명)"},
+   {"en": "on the agency’s SLS (Space Launch System) rocket,", "ko": "그 기관(NASA)의 SLS(우주발사시스템) 로켓을 타고", "r": "전치사구(무엇을 타고)"},
+   {"en": "flying aboard NASA’s Orion spacecraft,", "ko": "NASA의 오리온 우주선에 타고 비행하면서", "r": "분사구문"},
+   {"en": "which the crew named Integrity.", "ko": "그 우주선에 승무원들은 Integrity 라는 이름을 붙였다", "r": "관계절(앞 우주선 설명)"}
+  ],
+  "ko": "이 승무원들은 NASA의 SLS(Space Launch System, 우주발사시스템) 로켓을 타고 발사된 첫 우주비행사들이었다. 이들은 NASA의 오리온(Orion) 우주선을 타고 비행했는데, 승무원들은 그 우주선에 Integrity 라는 이름을 붙였다.",
+  "why": "동사는 were 하나뿐이다. to launch 는 앞의 the first astronauts 를 꾸미는 말, flying 은 분사구문, which ~ 는 관계절이라 셋 다 새 동사가 아니다. 맨 뒤 which the crew named Integrity 에서 이름이 붙은 대상은 로켓이 아니라 바로 앞의 Orion spacecraft 다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|1.2",
+  "en": "During their record-setting mission , the astronauts traveled 252,756 miles from Earth, farther than any humans have traveled before, surpassing a previous record set by Apollo 13 astronauts in 1970.",
+  "s": "the astronauts",
+  "v": "traveled",
+  "chunks": [
+   {"en": "During their record-setting mission ,", "ko": "기록을 세운 그 임무 동안", "r": "시간"},
+   {"en": "the astronauts traveled 252,756 miles from Earth,", "ko": "우주비행사들은 지구로부터 252,756마일까지 갔다", "r": "주어 + 동사 + 거리 + 기준점"},
+   {"en": "farther than any humans have traveled before,", "ko": "이제까지 어떤 인간이 갔던 것보다도 멀리", "r": "비교(앞 거리 부연)"},
+   {"en": "surpassing a previous record", "ko": "이전 기록을 넘어서면서", "r": "분사구문"},
+   {"en": "set by Apollo 13 astronauts in 1970.", "ko": "1970년 아폴로 13호 우주비행사들이 세운 (기록)", "r": "과거분사구(앞 record 설명)"}
+  ],
+  "ko": "기록을 세운 이 임무에서 우주비행사들은 지구에서 252,756마일 떨어진 곳까지 갔다. 이제까지 어떤 인간이 갔던 것보다도 먼 거리로, 1970년 아폴로 13호 우주비행사들이 세운 이전 기록을 넘어선 것이다.",
+  "why": "쉼표로 이어진 뒤쪽 두 덩어리(farther than ~, surpassing ~)는 모두 앞의 거리를 부연하는 말이지 새 문장이 아니다. 특히 맨 끝 set by Apollo 13 astronauts 는 '아폴로 13호 우주비행사들이 세운'이라는 뜻(과거분사)이라, 기록을 세운 쪽은 아폴로 13호이고 이번에 그것을 넘어선 쪽이 아르테미스 II 승무원이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|1.3",
+  "en": "In total, they flew 695,081 miles, including a lunar flyby.",
+  "s": "they",
+  "v": "flew",
+  "chunks": [
+   {"en": "In total,", "ko": "다 합쳐서", "r": "부사구"},
+   {"en": "they flew 695,081 miles,", "ko": "그들은 695,081마일을 비행했다", "r": "주어 + 동사 + 거리"},
+   {"en": "including a lunar flyby.", "ko": "달 근접 통과 비행을 포함해서", "r": "전치사구(포함 관계)"}
+  ],
+  "ko": "다 합쳐서 그들은 달 근접 비행(lunar flyby)을 포함해 695,081마일을 비행했다.",
+  "why": "In total 은 '합쳐서 모두'라는 뜻이라, 이 695,081마일은 앞 문장의 252,756마일과 별개로 더해지는 거리가 아니라 오가는 길 전체를 합친 거리다. including 은 '~을 포함하여'로, 그 거리 안에 달 근접 비행이 들어 있다는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|2.0",
+  "en": "“We gather on these historic grounds to celebrate the immense courage of four intrepid space heroes whose sense of daring and adventure led them further from Earth than anyone has ever traveled ever before,” said President Trump.",
+  "s": "We",
+  "v": "gather",
+  "chunks": [
+   {"en": "“We gather on these historic grounds", "ko": "우리는 이 역사적인 터에 모였습니다", "r": "주어 + 동사 + 장소"},
+   {"en": "to celebrate the immense courage", "ko": "그 엄청난 용기를 기리기 위해", "r": "목적(~하기 위해)"},
+   {"en": "of four intrepid space heroes", "ko": "네 명의 담대한 우주 영웅들의", "r": "전치사구(누구의 용기인가)"},
+   {"en": "whose sense of daring and adventure", "ko": "그들의 대담함과 모험심이", "r": "관계절의 주어(앞 영웅들 설명)"},
+   {"en": "led them further from Earth", "ko": "그들을 지구에서 더 멀리까지 데려갔습니다", "r": "관계절의 동사 + 목적어"},
+   {"en": "than anyone has ever traveled ever before,”", "ko": "이제까지 그 누가 갔던 것보다도", "r": "비교"},
+   {"en": "said President Trump.", "ko": "트럼프 대통령은 말했다", "r": "전달절(누가 말했나)"}
+  ],
+  "ko": "“우리는 네 명의 담대한 우주 영웅들이 보여 준 엄청난 용기를 기리기 위해 이 역사적인 터에 모였습니다. 그들의 대담함과 모험심은 이제까지 그 누가 갔던 것보다도 더 멀리 그들을 지구에서 떠나 있게 했습니다.” 트럼프 대통령의 말이다.",
+  "why": "따옴표 안이 본론이고, 문장 전체의 뼈대는 맨 끝의 said President Trump 다. 안쪽 문장의 주어는 We, 동사는 gather 다. whose sense of daring and adventure led them ~ 은 앞의 네 영웅을 설명하는 관계절이라 새 문장이 아니고, 이끈 주체는 사람이 아니라 '대담함과 모험심'이라는 마음가짐이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|2.1",
+  "en": "“Today we’re proudly awarding the Congressional Space Medal of Honor to the remarkable crew of Artemis II.",
+  "s": "we",
+  "v": "awarding",
+  "chunks": [
+   {"en": "“Today we’re proudly awarding", "ko": "오늘 우리는 자랑스럽게 수여합니다", "r": "시간 + 주어 + 동사"},
+   {"en": "the Congressional Space Medal of Honor", "ko": "의회 우주 명예훈장을", "r": "목적어"},
+   {"en": "to the remarkable crew of Artemis II.", "ko": "아르테미스 II의 훌륭한 승무원들에게", "r": "전치사구(받는 쪽)"}
+  ],
+  "ko": "“오늘 우리는 아르테미스 II의 놀라운 승무원들에게 의회 우주 명예훈장(Congressional Space Medal of Honor)을 자랑스럽게 수여합니다.",
+  "why": "we’re awarding 은 진행형이지만 Today 가 붙어 '오늘 이 자리에서 수여한다'는 뜻이다. 앞의 0.1 문장은 'award 사람 with 훈장' 꼴이었는데 여기서는 'award 훈장 to 사람' 꼴이라, 같은 동사가 자리를 바꿔 쓰였다. 어느 쪽이든 받는 쪽은 사람이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|2.2",
+  "en": "These astronauts did not do it alone.",
+  "s": "These astronauts",
+  "v": "did not do",
+  "chunks": [
+   {"en": "These astronauts did not do it alone.", "ko": "이 우주비행사들이 그 일을 자기들만의 힘으로 해낸 것은 아니다", "r": "주어 + 동사(부정) + 목적어 + 부사"}
+  ],
+  "ko": "이 우주비행사들이 이 일을 자기들만의 힘으로 해낸 것은 아니다.",
+  "why": "not 이 부정하는 것은 '했다(do it)'가 아니라 '혼자서(alone)'다. '이 우주비행사들은 그것을 하지 않았다'로 읽으면 뜻이 정반대가 된다. did not do it alone 은 '그들만으로 된 일이 아니다 = 뒤에 많은 사람이 있었다'는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|2.3",
+  "en": "I want to salute all of the engineers, and scientists, launch and landing specialists, everyone at NASA who helped make this mission a great success.”",
+  "s": "I",
+  "v": "want",
+  "chunks": [
+   {"en": "I want to salute all of the engineers,", "ko": "저는 모든 엔지니어들에게 경의를 표하고 싶습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "and scientists, launch and landing specialists,", "ko": "그리고 과학자들, 발사·착륙 전문가들", "r": "경의의 대상 나열"},
+   {"en": "everyone at NASA", "ko": "NASA의 모든 사람", "r": "동격(앞 사람들을 한데 묶는 말)"},
+   {"en": "who helped make this mission a great success.”", "ko": "이 임무를 큰 성공으로 만드는 데 힘을 보탠", "r": "관계절(앞 사람들 설명)"}
+  ],
+  "ko": "“저는 이 임무를 큰 성공으로 만드는 데 힘을 보탠 모든 엔지니어와 과학자, 발사·착륙 전문가들, NASA의 모든 사람에게 경의를 표하고 싶습니다.”",
+  "why": "경의를 표할 대상이 쉼표로 길게 이어지고, 마지막 everyone at NASA 는 앞의 사람들을 한데 묶어 다시 말한 동격이다. who helped make this mission a great success 는 그 사람들을 꾸미는 관계절이고, help 뒤에는 to 없이 동사원형 make 가 바로 온다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|3.0",
+  "en": "The Congressional Space Medal of Honor was authorized by Congress in 1969 to recognize an astronaut who in the performance of duties has distinguished himself or herself by exceptionally brave and meritorious efforts, and contributions to the welfare of the nation and humanity.",
+  "s": "The Congressional Space Medal of Honor",
+  "v": "was authorized",
+  "chunks": [
+   {"en": "The Congressional Space Medal of Honor", "ko": "의회 우주 명예훈장은", "r": "주어(훈장 이름)"},
+   {"en": "was authorized by Congress in 1969", "ko": "1969년 의회가 만든 것이다", "r": "동사(수동태) + 행위자 + 시간"},
+   {"en": "to recognize an astronaut", "ko": "우주비행사를 기리기 위해", "r": "목적(~하기 위해)"},
+   {"en": "who in the performance of duties", "ko": "임무를 수행하는 가운데", "r": "관계절 시작 + 끼어든 전치사구"},
+   {"en": "has distinguished himself or herself", "ko": "두드러진 공을 세운", "r": "관계절의 동사"},
+   {"en": "by exceptionally brave and meritorious efforts,", "ko": "유난히 용감하고 공이 큰 노력으로", "r": "수단(무엇으로)"},
+   {"en": "and contributions to the welfare of the nation and humanity.", "ko": "그리고 나라와 인류의 복리에 대한 기여로", "r": "수단 이어짐"}
+  ],
+  "ko": "의회 우주 명예훈장(Congressional Space Medal of Honor)은 1969년 미국 의회가 만든 것으로, 임무를 수행하는 가운데 유난히 용감하고 공이 큰 노력, 그리고 나라와 인류의 복리에 대한 기여로 두드러진 공을 세운 우주비행사를 기리기 위한 훈장이다.",
+  "why": "was authorized by Congress 는 수동태(당하는 꼴)라 훈장을 만든 쪽은 주어가 아니라 by 뒤의 Congress(의회)다. 뒤쪽 who ~ 는 an astronaut 를 꾸미는 관계절인데, who 와 동사 has distinguished 사이에 in the performance of duties 가 끼어들어 동사가 멀어져 있다. distinguish oneself 는 '자기를 구별하다'가 아니라 '두각을 나타내다, 뛰어난 공을 세우다'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|3.1",
+  "en": "There now are 34 recipients of the award since the beginning of the space program, including the crews of Apollo 1, Challenger, and Columbia who received the award posthumously.",
+  "s": "34 recipients of the award",
+  "v": "are",
+  "chunks": [
+   {"en": "There now are 34 recipients of the award", "ko": "지금까지 이 상을 받은 사람은 34명이다", "r": "There 구문(있다) + 진짜 주어"},
+   {"en": "since the beginning of the space program,", "ko": "우주 계획이 시작된 이래로", "r": "시간(기간)"},
+   {"en": "including the crews of Apollo 1, Challenger, and Columbia", "ko": "아폴로 1호·챌린저·컬럼비아 승무원들을 포함해", "r": "전치사구(포함 관계)"},
+   {"en": "who received the award posthumously.", "ko": "세상을 떠난 뒤에 이 상을 받은", "r": "관계절(앞 승무원들 설명)"}
+  ],
+  "ko": "우주 계획이 시작된 이래 지금까지 이 상을 받은 사람은 34명이며, 여기에는 세상을 떠난 뒤에 상을 받은 아폴로 1호·챌린저·컬럼비아 승무원들도 들어 있다.",
+  "why": "There ~ are 는 '있다'를 나타내는 꼴이라 진짜 주어는 There 가 아니라 뒤의 34 recipients 다. 맨 뒤 who received the award posthumously 는 아폴로 1호·챌린저·컬럼비아 승무원들만 꾸미는 말이고, posthumously 는 '죽은 뒤에'라는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|4.0",
+  "en": "“President Trump’s leadership has put America back on a path to lead the world in space, from creating the Artemis program to giving NASA the resources and mandate to win this new space race,” said NASA Administrator Jared Isaacman.",
+  "s": "President Trump’s leadership",
+  "v": "has put",
+  "chunks": [
+   {"en": "“President Trump’s leadership has put America back", "ko": "트럼프 대통령의 지도력이 미국을 다시 올려놓았습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on a path to lead the world in space,", "ko": "우주에서 세계를 이끄는 길 위에", "r": "전치사구(어디에 올려놓았나)"},
+   {"en": "from creating the Artemis program", "ko": "아르테미스 계획을 만든 것에서부터", "r": "범위의 시작"},
+   {"en": "to giving NASA the resources and mandate", "ko": "NASA에 자원과 권한을 준 것에 이르기까지", "r": "범위의 끝"},
+   {"en": "to win this new space race,”", "ko": "이 새로운 우주 경쟁에서 이기기 위한", "r": "목적(자원과 권한의 용도)"},
+   {"en": "said NASA Administrator Jared Isaacman.", "ko": "NASA 국장 제러드 아이작먼은 말했다", "r": "전달절(누가 말했나)"}
+  ],
+  "ko": "“트럼프 대통령의 지도력이 미국을 우주에서 세계를 이끄는 길 위에 다시 올려놓았습니다. 아르테미스 계획을 만든 것에서부터, 이 새로운 우주 경쟁에서 이길 자원과 권한을 NASA에 준 것에 이르기까지 말입니다.” NASA 국장 제러드 아이작먼(Jared Isaacman)의 말이다.",
+  "why": "put A back on a path 는 'A를 다시 그 길 위에 올려놓다'라는 뜻이고, 그렇게 한 주체는 사람이 아니라 '트럼프 대통령의 지도력'이다. from creating ~ to giving ~ 은 'A에서부터 B에 이르기까지'라는 짝이므로 두 -ing 를 한 쌍으로 묶어 읽어야 한다. 이 말을 한 사람은 따옴표 안의 트럼프가 아니라 맨 뒤의 아이작먼이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|4.1",
+  "en": "“The Artemis II crew answered that call with extraordinary skill and courage, showing the world the Moon again and what American leadership and exploration look like at their best.",
+  "s": "The Artemis II crew",
+  "v": "answered",
+  "chunks": [
+   {"en": "“The Artemis II crew answered that call", "ko": "아르테미스 II 승무원들은 그 부름에 응했습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with extraordinary skill and courage,", "ko": "빼어난 기량과 용기로", "r": "수단·태도"},
+   {"en": "showing the world the Moon again", "ko": "세계에 달을 다시 보여 주면서", "r": "분사구문(보여 준 것 ①)"},
+   {"en": "and what American leadership and exploration look like", "ko": "그리고 미국의 지도력과 탐사가 어떤 모습인지를", "r": "보여 준 것 ②(명사절)"},
+   {"en": "at their best.", "ko": "가장 빛날 때의", "r": "전치사구(앞 명사절 부연)"}
+  ],
+  "ko": "“아르테미스 II 승무원들은 빼어난 기량과 용기로 그 부름에 응했습니다. 그러면서 세계에 달을 다시 보여 주었고, 미국의 지도력과 탐사가 가장 빛날 때 어떤 모습인지를 보여 주었습니다.",
+  "why": "showing the world A and B 는 '세계에게 A와 B를 보여 주면서'라는 꼴이라, the world 는 보여 준 물건이 아니라 보여 준 상대다. 보여 준 것은 the Moon again 과 what ~ look like at their best 둘이다. 분사구문 showing 의 주체는 앞의 주어인 승무원들이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|4.2",
+  "en": "Their achievement was made possible by the exceptional NASA workforce, alongside our industry and international partners, who showed once again what can be accomplished when we commit to big, bold endeavors.",
+  "s": "Their achievement",
+  "v": "was made",
+  "chunks": [
+   {"en": "Their achievement was made possible", "ko": "그들의 성취는 가능해졌습니다", "r": "주어 + 동사(수동태) + 보어"},
+   {"en": "by the exceptional NASA workforce,", "ko": "뛰어난 NASA 인력 덕분에", "r": "행위자(가능하게 한 쪽)"},
+   {"en": "alongside our industry and international partners,", "ko": "우리 산업계와 국제 협력 상대들과 함께", "r": "전치사구(함께한 쪽)"},
+   {"en": "who showed once again", "ko": "이들은 다시 한번 보여 주었습니다", "r": "관계절(앞 사람들 설명)"},
+   {"en": "what can be accomplished", "ko": "무엇이 이루어질 수 있는지를", "r": "명사절(보여 준 것)"},
+   {"en": "when we commit to big, bold endeavors.", "ko": "우리가 크고 담대한 일에 힘을 쏟을 때", "r": "부사절(때·조건)"}
+  ],
+  "ko": "그들의 성취는 뛰어난 NASA 인력, 그리고 우리 산업계와 국제 협력 상대들이 함께했기에 가능했습니다. 이들은 우리가 크고 담대한 일에 힘을 쏟을 때 무엇을 이룰 수 있는지를 다시 한번 보여 주었습니다.",
+  "why": "was made possible by ~ 는 '~덕분에 가능해졌다'는 수동태라, 성취를 이루어지게 한 쪽은 주어가 아니라 by 뒤의 NASA 인력이다. 그 뒤 who 는 바로 앞의 partners 만이 아니라 NASA 인력과 협력 상대들을 함께 받는다. what can be accomplished 도 수동태라 '무엇이 이루어질 수 있는가'다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|4.3",
+  "en": "We will build on this success as we return to the lunar surface and establish an enduring presence on the Moon.”",
+  "s": "We",
+  "v": "will build",
+  "chunks": [
+   {"en": "We will build on this success", "ko": "우리는 이 성공을 발판으로 삼아 더 쌓아 갈 것입니다", "r": "주어 + 동사 + 전치사구"},
+   {"en": "as we return to the lunar surface", "ko": "달 표면으로 돌아가면서", "r": "부사절(때·과정)"},
+   {"en": "and establish an enduring presence on the Moon.”", "ko": "그리고 달에 오래 이어질 거점을 마련해 가면서", "r": "부사절의 둘째 동사"}
+  ],
+  "ko": "“우리는 달 표면으로 돌아가고 달에 오래 이어질 거점을 마련해 가면서, 이 성공을 발판으로 더 나아갈 것입니다.”",
+  "why": "build on ~ 은 '~ 위에 건물을 짓다'가 아니라 '~을 발판으로 더 쌓아 가다'라는 뜻이다. and establish ~ 는 We will build 가 아니라 as we return 쪽에 이어지는 동사라, 돌아가는 일과 거점을 마련하는 일이 한 묶음이다. 셋 다 아직 하지 않은 앞일이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|5.0",
+  "en": "The first crewed mission under NASA’s Artemis program paved the way for the 2027 Artemis III test flight in low Earth orbit to demonstrate rendezvous and docking capabilities between Orion and commercial human landing systems, and the Artemis IV mission in 2028, which will return American astronauts to the lunar surface.",
+  "s": "The first crewed mission",
+  "v": "paved",
+  "chunks": [
+   {"en": "The first crewed mission under NASA’s Artemis program", "ko": "NASA 아르테미스 계획에서 사람을 태운 첫 임무는", "r": "주어(긴 명사구)"},
+   {"en": "paved the way for the 2027 Artemis III test flight", "ko": "2027년 아르테미스 III 시험비행의 길을 닦았다", "r": "동사 + 목적어 + 대상 ①"},
+   {"en": "in low Earth orbit", "ko": "지구 저궤도에서 이루어질", "r": "전치사구(시험비행이 이루어질 곳)"},
+   {"en": "to demonstrate rendezvous and docking capabilities", "ko": "랑데부와 도킹 능력을 보여 주기 위한", "r": "목적(시험비행의 목적)"},
+   {"en": "between Orion and commercial human landing systems,", "ko": "오리온과 민간 유인 착륙선 사이의", "r": "전치사구(누구와 누구 사이인가)"},
+   {"en": "and the Artemis IV mission in 2028,", "ko": "그리고 2028년 아르테미스 IV 임무의 (길도 닦았다)", "r": "대상 ②"},
+   {"en": "which will return American astronauts to the lunar surface.", "ko": "이 임무는 미국 우주비행사들을 달 표면으로 되돌려 보낼 것이다", "r": "관계절(앞 임무 설명)"}
+  ],
+  "ko": "NASA 아르테미스 계획에서 사람을 태운 첫 임무는 두 가지의 길을 닦았다. 하나는 오리온(Orion)과 민간 유인 착륙선 사이의 랑데부·도킹 능력을 보여 주기 위해 지구 저궤도에서 이루어질 2027년 아르테미스 III 시험비행이고, 다른 하나는 미국 우주비행사들을 달 표면으로 되돌려 보낼 2028년 아르테미스 IV 임무다.",
+  "why": "paved the way for A ~, and B 꼴이라 길을 닦아 준 대상이 둘(2027년 아르테미스 III 시험비행, 2028년 아르테미스 IV 임무)이다. 그 사이에 to demonstrate ~ between ~ 이 길게 끼어들어 and 가 어디에 이어지는지 놓치기 쉽다. 맨 뒤 which 는 바로 앞의 the Artemis IV mission 을 받는다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|6.0",
+  "en": "“It was the honor of my lifetime to fly on Integrity around the Moon with Victor, Christina, and Jeremy.",
+  "s": "It",
+  "v": "was",
+  "chunks": [
+   {"en": "“It was the honor of my lifetime", "ko": "그것은 제 일생의 영광이었습니다", "r": "가주어 It + 동사 + 보어"},
+   {"en": "to fly on Integrity around the Moon", "ko": "Integrity 를 타고 달 주위를 돈 것은", "r": "진짜 주어(It 이 대신한 것)"},
+   {"en": "with Victor, Christina, and Jeremy.", "ko": "빅터, 크리스티나, 제러미와 함께", "r": "전치사구(함께한 사람들)"}
+  ],
+  "ko": "“Integrity(오리온 우주선에 붙인 이름)를 타고 빅터, 크리스티나, 제러미와 함께 달 주위를 돈 것은 제 일생의 영광이었습니다.",
+  "why": "It 은 앞의 무엇을 가리키는 대명사가 아니라 자리만 채워 두는 가주어이고, 진짜 주어는 뒤의 to fly on Integrity around the Moon 이다. 'It = 그것'으로 앞 문장에서 찾으면 헛수고다. Integrity 는 앞(1.1)에서 승무원들이 오리온 우주선에 붙인 이름이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|6.1",
+  "en": "Having President Trump here at the agency’s Johnson Space Center to honor NASA and my crew underscores the significance of what our teams accomplished,” said Wiseman , who served as commander of the mission.",
+  "s": "Having President Trump here at the agency’s Johnson Space Center to honor NASA and my crew",
+  "v": "underscores",
+  "chunks": [
+   {"en": "Having President Trump here at the agency’s Johnson Space Center", "ko": "트럼프 대통령이 이곳 NASA 존슨우주센터에 와 계시다는 것은", "r": "주어(동명사 덩어리)"},
+   {"en": "to honor NASA and my crew", "ko": "NASA와 제 승무원들을 기리기 위해", "r": "목적(대통령이 온 이유)"},
+   {"en": "underscores the significance of what our teams accomplished,”", "ko": "우리 팀들이 이뤄 낸 일이 얼마나 뜻깊은지를 분명히 보여 줍니다", "r": "동사 + 목적어"},
+   {"en": "said Wiseman ,", "ko": "와이즈먼은 말했다", "r": "전달절(누가 말했나)"},
+   {"en": "who served as commander of the mission.", "ko": "그는 이 임무의 선장을 맡았다", "r": "관계절(앞 사람 설명)"}
+  ],
+  "ko": "“트럼프 대통령이 NASA와 저희 승무원들을 기리기 위해 이곳 NASA 존슨우주센터에 와 계시다는 것은, 우리 팀들이 이뤄 낸 일이 얼마나 뜻깊은지를 분명히 보여 줍니다.” 이 임무의 선장을 맡았던 와이즈먼의 말이다.",
+  "why": "주어가 Having 부터 my crew 까지 통째로 이어지는 아주 긴 동명사 덩어리이고, 그 뒤에야 동사 underscores 가 나온다. Having 을 '가지고 있다'로 읽지 말고 '~가 와 있다는 것'으로 읽어야 한다. 문장 끝의 who served as commander 는 와이즈먼을 설명하는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|6.2",
+  "en": "“I can’t wait to see my friends continue this legacy on Artemis III.”",
+  "s": "I",
+  "v": "can’t wait",
+  "chunks": [
+   {"en": "“I can’t wait to see my friends", "ko": "제 동료들이 ~하는 것을 어서 보고 싶습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "continue this legacy on Artemis III.”", "ko": "아르테미스 III에서 이 일을 이어 가는 것을", "r": "목적격 보어(동사원형)"}
+  ],
+  "ko": "“제 동료들이 아르테미스 III에서 이 일을 이어 가는 모습을 어서 보고 싶습니다.”",
+  "why": "can’t wait to ~ 는 '기다릴 수 없다'가 아니라 '어서 ~하고 싶다'는 뜻이라, 부정어가 들어 있어도 뜻은 긍정이다. see + 사람 + 동사원형(continue) 꼴이라 continue 앞에 to 가 없고, 이어 가는 쪽은 my friends 다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|7.0",
+  "en": "Glover served as pilot of the Orion spacecraft.",
+  "s": "Glover",
+  "v": "served",
+  "chunks": [
+   {"en": "Glover served as pilot", "ko": "글로버는 조종사를 맡았다", "r": "주어 + 동사 + 보어"},
+   {"en": "of the Orion spacecraft.", "ko": "오리온 우주선의", "r": "전치사구(어느 우주선의 조종사인가)"}
+  ],
+  "ko": "글로버는 오리온(Orion) 우주선의 조종사를 맡았다.",
+  "why": "serve as ~ 는 '~로 일하다, ~를 맡다'는 뜻이다. serve 를 '섬기다·제공하다'로 읽으면 뜻이 어긋난다. of the Orion spacecraft 는 앞의 pilot 에 붙는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|8.0",
+  "en": "“Piloting Orion for the first time in space was a profound honor, made possible because of the years of hard work, dedication, and expertise by countless individuals dedicating their time and talents to the mission,” said Glover .",
+  "s": "Piloting Orion for the first time in space",
+  "v": "was",
+  "chunks": [
+   {"en": "“Piloting Orion for the first time in space", "ko": "우주에서 처음으로 오리온을 조종한 것은", "r": "주어(동명사 덩어리)"},
+   {"en": "was a profound honor,", "ko": "더없이 깊은 영광이었습니다", "r": "동사 + 보어"},
+   {"en": "made possible because of the years of hard work,", "ko": "여러 해에 걸친 노고 덕분에 가능해진 일이었습니다", "r": "과거분사구(앞 내용 설명)"},
+   {"en": "dedication, and expertise by countless individuals", "ko": "헌신, 그리고 수많은 사람들의 전문 지식", "r": "가능하게 한 것 나열"},
+   {"en": "dedicating their time and talents to the mission,”", "ko": "자기 시간과 재능을 이 임무에 바친", "r": "현재분사구(앞 사람들 설명)"},
+   {"en": "said Glover .", "ko": "글로버는 말했다", "r": "전달절(누가 말했나)"}
+  ],
+  "ko": "“우주에서 처음으로 오리온을 조종한 것은 더없이 깊은 영광이었습니다. 자기 시간과 재능을 이 임무에 바친 수많은 사람들의 여러 해에 걸친 노고와 헌신, 전문 지식이 있었기에 가능한 일이었습니다.” 글로버의 말이다.",
+  "why": "주어가 Piloting ~ in space 라는 동명사 덩어리이고 동사는 was 다. 뒤의 made possible ~ 은 '가능해진'이라는 과거분사구라 새 동사가 아니다. 맨 뒤 dedicating ~ 도 -ing 지만 앞의 countless individuals 를 꾸미는 말이라, 시간과 재능을 바친 쪽은 그 수많은 사람들이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|8.1",
+  "en": "“We share this recognition with the thousands of people who launched us around the Moon and brought us safely back to Earth.”",
+  "s": "We",
+  "v": "share",
+  "chunks": [
+   {"en": "“We share this recognition", "ko": "우리는 이 영예를 함께 나눕니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with the thousands of people", "ko": "수천 명의 사람들과", "r": "전치사구(함께 나누는 상대)"},
+   {"en": "who launched us around the Moon", "ko": "우리를 달 주위로 쏘아 올린", "r": "관계절(앞 사람들 설명)"},
+   {"en": "and brought us safely back to Earth.”", "ko": "그리고 우리를 무사히 지구로 데려온", "r": "관계절의 둘째 동사"}
+  ],
+  "ko": "“우리는 우리를 달 주위로 쏘아 올리고 무사히 지구로 데려온 수천 명의 사람들과 이 영예를 함께 나눕니다.”",
+  "why": "who launched us ~ and brought us ~ 는 둘 다 앞의 the thousands of people 을 설명하는 관계절이다. 쏘아 올리고 데려온 쪽은 우주비행사들이 아니라 지상의 수천 명이고, 우주비행사들은 그렇게 된 쪽(us)이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|9.0",
+  "en": "“The response to our mission here on Earth was beyond anything we ever imagined and all we ever hoped for.",
+  "s": "The response to our mission here on Earth",
+  "v": "was",
+  "chunks": [
+   {"en": "“The response to our mission here on Earth", "ko": "지구에서 우리 임무에 보내 준 반응은", "r": "주어(긴 명사구)"},
+   {"en": "was beyond anything we ever imagined", "ko": "우리가 상상했던 그 어떤 것도 넘어섰습니다", "r": "동사 + 보어"},
+   {"en": "and all we ever hoped for.", "ko": "그리고 우리가 바랐던 모든 것도 (넘어섰습니다)", "r": "보어 이어짐"}
+  ],
+  "ko": "“지구에서 우리 임무에 보내 준 반응은 우리가 상상했던 그 어떤 것보다도, 우리가 바랐던 그 모든 것보다도 컸습니다.",
+  "why": "주어가 The response to our mission here on Earth 까지 길게 이어지고 그다음에야 동사 was 가 나온다. here on Earth 는 반응이 나온 곳(지구)을 가리키지, 임무가 지구에서 이루어졌다는 말이 아니다. beyond A and B 는 'A도 B도 넘어섰다'는 뜻으로, and 뒤의 all we ever hoped for 도 beyond 에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|9.1",
+  "en": "We are grateful every time we hear from people who followed along with our journey.",
+  "s": "We",
+  "v": "are",
+  "chunks": [
+   {"en": "We are grateful", "ko": "우리는 고마움을 느낍니다", "r": "주어 + 동사 + 보어"},
+   {"en": "every time we hear from people", "ko": "사람들에게서 소식을 들을 때마다", "r": "부사절(때)"},
+   {"en": "who followed along with our journey.", "ko": "우리 여정을 죽 지켜봐 준", "r": "관계절(앞 사람들 설명)"}
+  ],
+  "ko": "우리는 우리 여정을 죽 지켜봐 준 사람들에게서 소식을 들을 때마다 고마움을 느낍니다.",
+  "why": "every time 은 '~할 때마다'라는 접속사처럼 쓰여 뒤에 문장이 통째로 온다. hear from ~ 은 '~에 대해 듣다'가 아니라 '~에게서 연락·소식을 받다'는 뜻이고, follow along with ~ 는 '따라오다'가 아니라 관심을 갖고 죽 지켜본다는 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|9.2",
+  "en": "As team members on this shared mission, we accept this award to honor those who made it happen, from factory floors to clean rooms and mission control rooms,” said Koch .",
+  "s": "we",
+  "v": "accept",
+  "chunks": [
+   {"en": "As team members on this shared mission,", "ko": "함께한 이 임무의 한 팀원으로서", "r": "자격(~로서)"},
+   {"en": "we accept this award", "ko": "우리는 이 상을 받습니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "to honor those who made it happen,", "ko": "이 일을 이뤄지게 만든 사람들을 기리기 위해", "r": "목적 + 관계절"},
+   {"en": "from factory floors to clean rooms and mission control rooms,”", "ko": "공장 작업장에서 클린룸과 관제실에 이르기까지", "r": "범위(그 사람들이 일한 자리)"},
+   {"en": "said Koch .", "ko": "코크는 말했다", "r": "전달절(누가 말했나)"}
+  ],
+  "ko": "“함께한 이 임무의 한 팀원으로서, 우리는 공장 작업장에서 클린룸과 관제실에 이르기까지 이 일이 이뤄지도록 만든 사람들을 기리기 위해 이 상을 받습니다.” 코크의 말이다.",
+  "why": "As 는 '~할 때'가 아니라 '~로서'라는 자격을 나타낸다. to honor ~ 는 상을 받는 목적이고, those who made it happen 은 '이 일을 이뤄지게 만든 사람들'이라는 뜻이다. 맨 뒤 from A to B 는 그 사람들이 일한 자리의 범위를 밝히는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|10.0",
+  "en": "“It is a privilege to receive the Congressional Space Medal of Honor alongside my Artemis II crewmates,” said Hansen.",
+  "s": "It",
+  "v": "is",
+  "chunks": [
+   {"en": "“It is a privilege", "ko": "그것은 큰 영광입니다", "r": "가주어 It + 동사 + 보어"},
+   {"en": "to receive the Congressional Space Medal of Honor", "ko": "의회 우주 명예훈장을 받는 것은", "r": "진짜 주어(It 이 대신한 것)"},
+   {"en": "alongside my Artemis II crewmates,”", "ko": "아르테미스 II 동료 승무원들과 나란히", "r": "전치사구(함께하는 쪽)"},
+   {"en": "said Hansen.", "ko": "핸슨은 말했다", "r": "전달절(누가 말했나)"}
+  ],
+  "ko": "“아르테미스 II 동료 승무원들과 나란히 의회 우주 명예훈장(Congressional Space Medal of Honor)을 받는 것은 큰 영광입니다.” 핸슨의 말이다.",
+  "why": "It 은 앞의 무엇을 받는 말이 아니라 뒤의 to receive ~ 를 대신 세워 둔 가주어다. alongside 는 '~의 옆에'라는 위치가 아니라 '~와 함께, 나란히'라는 뜻으로 쓰였다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|10.1",
+  "en": "“I share this recognition with the dedicated teams in Canada, the United States, and our international partners who made the mission possible.",
+  "s": "I",
+  "v": "share",
+  "chunks": [
+   {"en": "“I share this recognition", "ko": "저는 이 영예를 함께 나눕니다", "r": "주어 + 동사 + 목적어"},
+   {"en": "with the dedicated teams in Canada, the United States,", "ko": "캐나다와 미국의 헌신적인 팀들과", "r": "전치사구(함께 나누는 상대)"},
+   {"en": "and our international partners", "ko": "그리고 우리의 국제 협력 상대들과", "r": "상대 이어짐"},
+   {"en": "who made the mission possible.", "ko": "이 임무를 가능하게 만든", "r": "관계절(앞 사람들 설명)"}
+  ],
+  "ko": "“저는 이 임무를 가능하게 만든 캐나다와 미국의 헌신적인 팀들, 그리고 우리의 국제 협력 상대들과 이 영예를 함께 나눕니다.",
+  "why": "with 뒤에 함께 나눌 상대가 셋(캐나다의 팀·미국의 팀·국제 협력 상대) 이어지고, 맨 뒤 who made the mission possible 은 그 셋 전부를 설명한다. make A possible 은 'A를 가능하게 하다'라는 꼴이라, 임무를 가능하게 한 쪽이 그 사람들이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|10.2",
+  "en": "Artemis II showed what we can accomplish for humanity when we set ambitious goals and work together.",
+  "s": "Artemis II",
+  "v": "showed",
+  "chunks": [
+   {"en": "Artemis II showed", "ko": "아르테미스 II는 보여 주었습니다", "r": "주어 + 동사"},
+   {"en": "what we can accomplish for humanity", "ko": "우리가 인류를 위해 무엇을 이룰 수 있는지를", "r": "목적어(명사절)"},
+   {"en": "when we set ambitious goals and work together.", "ko": "우리가 큰 목표를 세우고 함께 힘을 모을 때", "r": "부사절(때·조건)"}
+  ],
+  "ko": "아르테미스 II는 우리가 큰 목표를 세우고 함께 힘을 모을 때 인류를 위해 무엇을 이룰 수 있는지를 보여 주었습니다.",
+  "why": "what ~ 은 물음말이 아니라 '~하는 것'이라는 명사절로 showed 의 목적어다. when 이하는 그 조건을 붙이는 부사절이고, set 과 work 두 동사가 모두 when 절 안에 들어 있어 주어는 둘 다 we 다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|10.3",
+  "en": "For Canada, the mission and the Artemis program as a whole are about much more than just going back to the Moon.",
+  "s": "the mission and the Artemis program as a whole",
+  "v": "are",
+  "chunks": [
+   {"en": "For Canada,", "ko": "캐나다에게", "r": "전치사구(누구에게)"},
+   {"en": "the mission and the Artemis program as a whole", "ko": "이 임무와 아르테미스 계획 전체는", "r": "주어(둘을 묶은 명사구)"},
+   {"en": "are about much more", "ko": "훨씬 더 큰 뜻을 지닙니다", "r": "동사 + 보어"},
+   {"en": "than just going back to the Moon.", "ko": "그저 달로 다시 가는 것보다", "r": "비교 대상"}
+  ],
+  "ko": "캐나다에게 이 임무와 아르테미스 계획 전체는 그저 달로 다시 가는 일보다 훨씬 더 큰 뜻을 지닙니다.",
+  "why": "주어가 and 로 묶인 둘(the mission 과 the Artemis program)이라 동사가 are 다. as a whole 은 '전체로 보아'라는 뜻으로 앞의 계획에 붙는다. be about ~ 은 '~에 관한 것이다', 곧 '그 뜻이 ~에 있다'는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|10.4",
+  "en": "It is about the pursuit of excellence and collaboration.”",
+  "s": "It",
+  "v": "is",
+  "chunks": [
+   {"en": "It is about the pursuit of excellence and collaboration.”", "ko": "그것은 탁월함과 협력을 좇는 일에 관한 것입니다", "r": "주어 + 동사 + 보어"}
+  ],
+  "ko": "“그것은 탁월함과 협력을 좇는 일에 관한 것입니다.”",
+  "why": "여기의 It 은 뒤를 대신하는 가주어가 아니라 앞 문장의 the mission and the Artemis program(이 임무와 아르테미스 계획)을 받는 대명사다. be about ~ 은 '~에 관한 것이다', 곧 '그 뜻·목적이 ~에 있다'는 말이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|11.0",
+  "en": "As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on a series of challenging missions to explore more of the Moon and establish a Moon Base on the lunar surface for long-term exploration.",
+  "s": "NASA",
+  "v": "will send",
+  "chunks": [
+   {"en": "As part of a Golden Age of innovation and exploration,", "ko": "혁신과 탐사의 황금기를 이루는 한 부분으로서", "r": "자격·배경"},
+   {"en": "NASA will send Artemis astronauts", "ko": "NASA는 아르테미스 우주비행사들을 내보낼 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "on a series of challenging missions", "ko": "잇따른 어려운 임무들에", "r": "전치사구(어디로 보내나)"},
+   {"en": "to explore more of the Moon", "ko": "달을 더 넓게 탐사하기 위해", "r": "목적 ①"},
+   {"en": "and establish a Moon Base on the lunar surface", "ko": "그리고 달 표면에 달 기지를 세우기 위해", "r": "목적 ②"},
+   {"en": "for long-term exploration.", "ko": "오랜 기간에 걸친 탐사를 위한", "r": "전치사구(기지의 용도)"}
+  ],
+  "ko": "혁신과 탐사의 황금기(Golden Age)를 이루는 한 부분으로서, NASA는 달을 더 넓게 탐사하고 오랜 기간의 탐사를 위한 달 기지(Moon Base)를 달 표면에 세우기 위해 아르테미스 우주비행사들을 잇따른 어려운 임무에 내보낼 것이다.",
+  "why": "동사는 will send 하나이고, 뒤의 to explore ~ 와 establish ~ 는 둘 다 '~하기 위해'라는 목적이다. establish 앞에 to 가 되풀이되지 않았을 뿐 to explore 와 나란한 짝이다. 아직 하지 않은 앞일(will)이다.",
+  "st": []
+ },
+ {
+  "id": "5b65fcb7|11.1",
+  "en": "These missions will set the stage for sending the first astronauts — Americans — to Mars.",
+  "s": "These missions",
+  "v": "will set",
+  "chunks": [
+   {"en": "These missions will set the stage", "ko": "이 임무들은 발판을 마련하게 된다", "r": "주어 + 동사 + 목적어"},
+   {"en": "for sending the first astronauts", "ko": "첫 우주비행사들을 보내기 위한", "r": "전치사구(무엇을 위한 발판인가)"},
+   {"en": "— Americans — to Mars.", "ko": "그것도 미국인들을, 화성으로", "r": "동격(앞 astronauts 를 다시 말함) + 목적지"}
+  ],
+  "ko": "이 임무들은 첫 우주비행사들, 그것도 미국인들을 화성으로 보내기 위한 발판을 마련하게 된다.",
+  "why": "set the stage for ~ 는 '~을 위한 무대를 차리다', 곧 '~할 수 있게 발판을 마련하다'는 뜻이다. 대시(—) 사이에 낀 Americans 는 앞의 the first astronauts 를 다시 말한 동격이라 새로 등장한 다른 사람들이 아니다. 대시 안을 잠시 빼고 읽으면 뼈대가 바로 보인다.",
+  "st": []
+ }
+]

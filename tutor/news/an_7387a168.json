@@ -1,0 +1,276 @@
+[
+ {
+  "id": "7387a168|0.0",
+  "en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain.",
+  "s": "a total solar eclipse",
+  "v": "darkened",
+  "chunks": [
+   {"en": "On Aug. 12,", "ko": "8월 12일에", "r": "시간"},
+   {"en": "a total solar eclipse darkened skies", "ko": "개기 일식이 하늘을 어둡게 만들었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "over Greenland, Iceland, and Spain.", "ko": "그린란드와 아이슬란드, 스페인 상공의", "r": "전치사구(어느 지역 하늘인가)"}
+  ],
+  "ko": "8월 12일, 개기 일식(달이 해를 완전히 가리는 현상)이 그린란드와 아이슬란드, 스페인 상공의 하늘을 어둡게 만들었다.",
+  "why": "darkened 는 '어두워졌다'가 아니라 '~을 어둡게 만들었다'는 타동사(목적어를 데리고 다니는 동사)다. 어두워진 것은 일식이 아니라 skies(하늘)이고, over 이하는 그 하늘이 어느 지역 하늘인지를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|0.1",
+  "en": "As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies.",
+  "s": "it",
+  "v": "revealed",
+  "chunks": [
+   {"en": "As the Moon covered the Sun,", "ko": "달이 해를 가려 가면서", "r": "부사절(시간)"},
+   {"en": "it briefly revealed", "ko": "달은 잠깐 동안 ~을 드러내 보였다", "r": "주어 + 동사"},
+   {"en": "the Sun’s wispy outer atmosphere", "ko": "해의 가느다랗게 퍼진 바깥쪽 대기를", "r": "목적어(긴 명사구)"},
+   {"en": "— the corona —", "ko": "곧 코로나를", "r": "동격(앞 명사를 다시 부르는 말)"},
+   {"en": "to those in the path of totality", "ko": "개기 구간(해가 완전히 가려지는 길) 안에 있던 사람들에게", "r": "전치사구(보여 준 대상)"},
+   {"en": "who were lucky enough to have clear skies.", "ko": "맑은 하늘을 만나는 행운을 얻은", "r": "관계절(앞 사람들 설명)"}
+  ],
+  "ko": "달이 해를 가려 가면서, 달은 해의 가느다랗게 퍼진 바깥쪽 대기 — 코로나(corona) — 를 잠깐 동안 드러내 보였다. 개기 일식이 지나가는 길 안에 있으면서 맑은 하늘을 만나는 행운까지 얻은 사람들에게 보인 장면이었다.",
+  "why": "대시(—)로 둘러싸인 the corona 는 앞의 the Sun’s wispy outer atmosphere 를 다시 부르는 같은 말(동격)이지 새로 나온 다른 것이 아니다. it 은 달을 가리키고, to those… 이하는 '누구에게 보여 주었는가'를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|0.2",
+  "en": "NASA researchers and photographers were along the eclipse path to study the corona, capture the phenomenon, and observe how the eclipse affected our planet.",
+  "s": "NASA researchers and photographers",
+  "v": "were",
+  "chunks": [
+   {"en": "NASA researchers and photographers were", "ko": "NASA의 연구자들과 사진가들이 자리를 잡고 있었다", "r": "주어 + 동사"},
+   {"en": "along the eclipse path", "ko": "일식이 지나가는 길을 따라", "r": "전치사구(장소)"},
+   {"en": "to study the corona,", "ko": "코로나를 연구하기 위해,", "r": "목적①"},
+   {"en": "capture the phenomenon,", "ko": "그 현상을 사진으로 담기 위해,", "r": "목적②"},
+   {"en": "and observe how the eclipse affected our planet.", "ko": "그리고 일식이 우리 지구에 어떤 영향을 주었는지 관찰하기 위해", "r": "목적③(의문사절 포함)"}
+  ],
+  "ko": "NASA의 연구자들과 사진가들은 일식이 지나가는 길을 따라 자리를 잡고 있었다. 코로나를 연구하고, 그 현상을 사진으로 담고, 일식이 우리 지구에 어떤 영향을 주었는지 관찰하기 위해서였다.",
+  "why": "to study … capture … and observe 세 가지는 모두 앞의 to 하나에 걸리는 '~하기 위해'다. capture 와 observe 를 문장의 동사로 읽으면 뼈대가 무너진다 — 이 문장의 동사는 were 하나뿐이다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|1.0",
+  "en": "One NASA photographer in Spain captured the total solar eclipse as well as the partial phases before and after, until the Sun set below the horizon.",
+  "s": "One NASA photographer",
+  "v": "captured",
+  "chunks": [
+   {"en": "One NASA photographer in Spain", "ko": "스페인에 있던 NASA 사진가 한 사람이", "r": "주어 + 소재지"},
+   {"en": "captured the total solar eclipse", "ko": "개기 일식을 사진에 담았다", "r": "동사 + 목적어"},
+   {"en": "as well as the partial phases before and after,", "ko": "그리고 그 앞뒤의 부분 일식 단계까지도,", "r": "추가 목적어(~뿐 아니라 ~도)"},
+   {"en": "until the Sun set below the horizon.", "ko": "해가 지평선 아래로 질 때까지", "r": "부사절(언제까지)"}
+  ],
+  "ko": "스페인에 있던 NASA 사진가 한 사람은 개기 일식뿐 아니라 그 앞뒤의 부분 일식 단계까지, 해가 지평선 아래로 질 때까지 사진에 담았다.",
+  "why": "as well as 는 '~만큼 잘'이 아니라 'A뿐 아니라 B도'라서 담은 것은 두 가지다. 맨 뒤의 set 은 '놓다'가 아니라 '(해가) 지다'의 과거형이라 현재형과 모양이 같다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|2.0",
+  "en": "In northern Maine, where only a partial eclipse was visible, another NASA photographer captured the International Space Station, with its crew of seven aboard, speeding past the partially eclipsed Sun.",
+  "s": "another NASA photographer",
+  "v": "captured",
+  "chunks": [
+   {"en": "In northern Maine,", "ko": "메인주 북부에서는,", "r": "전치사구(장소)"},
+   {"en": "where only a partial eclipse was visible,", "ko": "그곳에서는 부분 일식만 보였는데,", "r": "관계절(앞 장소 설명)"},
+   {"en": "another NASA photographer captured", "ko": "또 다른 NASA 사진가 한 사람이 담았다", "r": "주어 + 동사"},
+   {"en": "the International Space Station,", "ko": "국제우주정거장이,", "r": "목적어"},
+   {"en": "with its crew of seven aboard,", "ko": "일곱 명의 승무원을 태운 채,", "r": "부대상황(딸린 설명)"},
+   {"en": "speeding past the partially eclipsed Sun.", "ko": "부분적으로 가려진 해 앞을 빠르게 지나가는 모습을", "r": "현재분사구(목적어가 하고 있던 동작)"}
+  ],
+  "ko": "메인주 북부에서는 부분 일식만 보였는데, 그곳에서 또 다른 NASA 사진가 한 사람은 일곱 명의 승무원을 태운 국제우주정거장이 부분적으로 가려진 해 앞을 빠르게 지나가는 모습을 사진에 담았다.",
+  "why": "captured 의 목적어는 the International Space Station 이고, 뒤의 speeding past… 는 그 정거장이 하고 있던 동작이다('~하는 모습을 담았다'). 쉼표로 끼워 넣은 with its crew of seven aboard 를 건너뛰고 station 과 speeding 을 붙여 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|3.0",
+  "en": "Meanwhile, from about 250 miles above the ground, a NASA astronaut aboard the International Space Station snapped a few photos of the partial eclipse from their perspective as well.",
+  "s": "a NASA astronaut",
+  "v": "snapped",
+  "chunks": [
+   {"en": "Meanwhile,", "ko": "한편,", "r": "연결어(같은 시각에)"},
+   {"en": "from about 250 miles above the ground,", "ko": "지상에서 약 250마일(약 400km) 위에서,", "r": "전치사구(촬영 지점)"},
+   {"en": "a NASA astronaut aboard the International Space Station", "ko": "국제우주정거장에 타고 있던 NASA 우주비행사 한 명이", "r": "주어 + 소재"},
+   {"en": "snapped a few photos of the partial eclipse", "ko": "부분 일식 사진을 몇 장 찍었다", "r": "동사 + 목적어"},
+   {"en": "from their perspective as well.", "ko": "그 사람의 시점에서도", "r": "전치사구(어느 시점에서인가)"}
+  ],
+  "ko": "한편, 지상에서 약 250마일(약 400km) 위에서는 국제우주정거장에 타고 있던 NASA 우주비행사 한 명도 자기 시점에서 부분 일식 사진을 몇 장 찍었다.",
+  "why": "주어 a NASA astronaut 과 동사 snapped 사이에 aboard the International Space Station 이 끼어 있어 동사가 멀다. their 는 '그들의'가 아니라 남녀를 밝히지 않으려고 쓰는 단수 표현으로, 그 우주비행사 한 사람을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|4.0",
+  "en": "Between the ground and the space station, NASA pilots flew NASA’s WB-57F research jet at an altitude of 50,000 feet, passing through the eclipse’s shadow to lengthen their time in the eclipse.",
+  "s": "NASA pilots",
+  "v": "flew",
+  "chunks": [
+   {"en": "Between the ground and the space station,", "ko": "지상과 우주정거장 사이에서는,", "r": "전치사구(위치)"},
+   {"en": "NASA pilots flew NASA’s WB-57F research jet", "ko": "NASA 조종사들이 NASA의 WB-57F 연구용 제트기를 몰았다", "r": "주어 + 동사 + 목적어"},
+   {"en": "at an altitude of 50,000 feet,", "ko": "고도 5만 피트(약 15km)에서,", "r": "전치사구(높이)"},
+   {"en": "passing through the eclipse’s shadow", "ko": "일식의 그림자 속을 통과하면서", "r": "분사구문(주어의 동시 동작)"},
+   {"en": "to lengthen their time in the eclipse.", "ko": "일식 속에 머무는 시간을 늘리기 위해", "r": "목적(~하기 위해)"}
+  ],
+  "ko": "지상과 우주정거장 사이에서는 NASA 조종사들이 NASA의 WB-57F 연구용 제트기를 고도 5만 피트(약 15km)로 몰았다. 일식의 그림자 속을 통과하며 일식 안에 머무는 시간을 늘리기 위해서였다.",
+  "why": "passing through… 는 주어인 NASA pilots(가 몬 제트기)의 동작을 이어 붙인 분사구문이라, 바로 앞의 50,000 feet 에 붙는 말이 아니다. their 는 조종사들을 가리킨다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|4.1",
+  "en": "The jet carried a suite of cameras that captured high-resolution images of the corona and prominences, plumes of electrically charged gas rising off the Sun, in several different wavelengths of light.",
+  "s": "The jet",
+  "v": "carried",
+  "chunks": [
+   {"en": "The jet carried a suite of cameras", "ko": "그 제트기는 카메라 한 벌을 싣고 있었다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that captured high-resolution images", "ko": "고해상도 사진을 담아낸", "r": "관계절(앞 카메라 설명)"},
+   {"en": "of the corona and prominences,", "ko": "코로나와 홍염(프로미넌스)의,", "r": "전치사구(사진의 대상)"},
+   {"en": "plumes of electrically charged gas rising off the Sun,", "ko": "곧 해에서 솟아오르는 전기를 띤 기체의 기둥인데,", "r": "동격(앞 prominences 를 풀어 준 말)"},
+   {"en": "in several different wavelengths of light.", "ko": "여러 가지 다른 빛의 파장으로", "r": "전치사구(어떻게 담았나)"}
+  ],
+  "ko": "그 제트기는 카메라 한 벌을 싣고 있었는데, 이 카메라들이 코로나와 홍염(prominences) — 해에서 솟아오르는, 전기를 띤 기체의 기둥 — 을 여러 가지 다른 빛의 파장으로 고해상도 사진에 담았다.",
+  "why": "쉼표 사이의 plumes of electrically charged gas rising off the Sun 은 앞의 prominences 를 풀어 준 같은 말(동격)이지 사진에 담은 또 다른 대상이 아니다. 맨 뒤의 in several different wavelengths 는 captured 에 걸린다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|5.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {"en": "To view this video", "ko": "이 영상을 보려면", "r": "목적(~하려면)"},
+   {"en": "please enable JavaScript,", "ko": "자바스크립트를 켜 주세요,", "r": "명령문(동사 + 목적어)"},
+   {"en": "and consider upgrading to a web browser", "ko": "그리고 웹 브라우저를 바꾸는 것도 생각해 보세요", "r": "대등절(두 번째 명령)"},
+   {"en": "that supports HTML5 video", "ko": "HTML5 영상을 지원하는", "r": "관계절(앞 브라우저 설명)"}
+  ],
+  "ko": "이 영상을 보려면 자바스크립트(JavaScript)를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 바꾸는 것도 생각해 보세요.",
+  "why": "주어 없는 명령문 두 개(enable, consider)가 and 로 이어져 있다. 맨 앞의 To view this video 는 주어가 아니라 '~하려면'이라는 조건이다. 기사 내용이 아니라 영상이 안 보일 때 뜨는 안내문이다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|6.0",
+  "en": "In both Iceland and Spain, teams of students participating in the NASA-funded Nationwide Eclipse Ballooning Project launched scientific balloons that carried instruments to capture images of the eclipse’s shadow and study the eclipse’s effects on our atmosphere.",
+  "s": "teams of students",
+  "v": "launched",
+  "chunks": [
+   {"en": "In both Iceland and Spain,", "ko": "아이슬란드와 스페인 두 곳 모두에서,", "r": "전치사구(장소)"},
+   {"en": "teams of students participating in", "ko": "~에 참여한 학생 팀들이", "r": "주어 + 분사구(주어 설명)"},
+   {"en": "the NASA-funded Nationwide Eclipse Ballooning Project", "ko": "NASA가 자금을 댄 전국 일식 기구(氣球) 프로젝트에", "r": "참여 대상(계획 이름)"},
+   {"en": "launched scientific balloons", "ko": "과학 관측용 기구를 띄웠다", "r": "동사 + 목적어"},
+   {"en": "that carried instruments", "ko": "관측 장비를 실은", "r": "관계절(앞 기구 설명)"},
+   {"en": "to capture images of the eclipse’s shadow", "ko": "일식의 그림자를 사진으로 담기 위해", "r": "목적①"},
+   {"en": "and study the eclipse’s effects on our atmosphere.", "ko": "그리고 일식이 우리 대기에 주는 영향을 연구하기 위해", "r": "목적②"}
+  ],
+  "ko": "아이슬란드와 스페인 두 곳 모두에서, NASA가 자금을 댄 Nationwide Eclipse Ballooning Project(전국 일식 기구 프로젝트)에 참여한 학생 팀들이 과학 관측용 기구를 띄웠다. 그 기구들은 일식의 그림자를 사진으로 담고 일식이 우리 대기에 주는 영향을 연구하기 위한 장비를 싣고 있었다.",
+  "why": "주어 teams of students 와 동사 launched 사이에 participating in… 이라는 긴 분사구가 끼어 있어 동사가 멀리 떨어진다. 계획 이름을 통째로 한 덩어리로 묶어 두고 '학생 팀들이 기구를 띄웠다'는 뼈대를 먼저 잡아야 한다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|6.1",
+  "en": "Even though clouds obscured the view of the eclipse from the ground in Iceland, the weather did not interfere with the balloon-borne instruments’ ability to gather information about how the brief loss of light and heat affected the lower atmosphere.",
+  "s": "the weather",
+  "v": "did not interfere",
+  "chunks": [
+   {"en": "Even though clouds obscured the view of the eclipse", "ko": "구름이 일식을 보는 시야를 가리기는 했지만", "r": "부사절(양보)"},
+   {"en": "from the ground in Iceland,", "ko": "아이슬란드의 지상에서 보는,", "r": "전치사구(어디에서 보는 시야인가)"},
+   {"en": "the weather did not interfere with", "ko": "날씨는 ~을 방해하지는 않았다", "r": "주어 + 동사(부정)"},
+   {"en": "the balloon-borne instruments’ ability", "ko": "기구에 실려 올라간 장비들의 능력을", "r": "목적어(긴 명사구)"},
+   {"en": "to gather information", "ko": "정보를 모으는", "r": "to부정사구(앞 ability 설명)"},
+   {"en": "about how the brief loss of light and heat", "ko": "빛과 열이 잠깐 사라진 것이", "r": "전치사구 + 의문사절 주어"},
+   {"en": "affected the lower atmosphere.", "ko": "하층 대기에 어떤 영향을 주었는지에 관한", "r": "의문사절 동사 + 목적어"}
+  ],
+  "ko": "아이슬란드에서는 구름이 지상에서 일식을 보는 시야를 가렸지만, 날씨가 기구에 실려 올라간 장비들의 정보 수집 능력까지 방해하지는 않았다. 그 정보란 빛과 열이 잠깐 사라진 것이 하층 대기에 어떤 영향을 주었는가에 관한 것이다.",
+  "why": "did not interfere 의 부정을 놓치면 뜻이 정반대가 된다. ability to gather information about how … 처럼 명사 뒤에 꼬리가 길게 붙으므로, 'A는 B의 능력을 방해하지 않았다'는 뼈대를 먼저 세우고 꼬리를 차례로 붙여 읽어야 한다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|7.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "s": "",
+  "v": "enable",
+  "chunks": [
+   {"en": "To view this video", "ko": "이 영상을 보려면", "r": "목적(~하려면)"},
+   {"en": "please enable JavaScript,", "ko": "자바스크립트를 켜 주세요,", "r": "명령문(동사 + 목적어)"},
+   {"en": "and consider upgrading to a web browser", "ko": "그리고 웹 브라우저를 바꾸는 것도 생각해 보세요", "r": "대등절(두 번째 명령)"},
+   {"en": "that supports HTML5 video", "ko": "HTML5 영상을 지원하는", "r": "관계절(앞 브라우저 설명)"}
+  ],
+  "ko": "이 영상을 보려면 자바스크립트(JavaScript)를 켜 주시고, HTML5 영상을 지원하는 웹 브라우저로 바꾸는 것도 생각해 보세요.",
+  "why": "앞에 한 번 나온 것과 같은 안내문이다. 주어 없는 명령문 두 개가 and 로 이어지고, 맨 앞의 To view this video 는 주어가 아니라 '~하려면'이라는 조건이다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|8.0",
+  "en": "Before the eclipse, scientists at Predictive Science Inc. , with support from NASA grants and supercomputers, used observations of the Sun from NASA spacecraft and ground-based telescopes to predict what the corona would look like during the eclipse.",
+  "s": "scientists",
+  "v": "used",
+  "chunks": [
+   {"en": "Before the eclipse, scientists at Predictive Science Inc.", "ko": "일식이 있기 전에, Predictive Science Inc.의 과학자들이", "r": "시간 + 주어(소속 포함)"},
+   {"en": ", with support from NASA grants and supercomputers,", "ko": "NASA의 연구비와 슈퍼컴퓨터의 도움을 받아,", "r": "삽입구(도움을 준 쪽)"},
+   {"en": "used observations of the Sun", "ko": "해를 관측한 자료를 사용했다", "r": "동사 + 목적어"},
+   {"en": "from NASA spacecraft and ground-based telescopes", "ko": "NASA의 우주선과 지상 망원경에서 얻은", "r": "전치사구(자료의 출처)"},
+   {"en": "to predict what the corona would look like", "ko": "코로나가 어떤 모습일지 예측하기 위해", "r": "목적 + 의문사절"},
+   {"en": "during the eclipse.", "ko": "일식이 진행되는 동안", "r": "시간"}
+  ],
+  "ko": "일식이 있기 전에, Predictive Science Inc.(예측과학사)의 과학자들은 NASA의 연구비와 슈퍼컴퓨터의 도움을 받아, NASA 우주선과 지상 망원경에서 얻은 태양 관측 자료를 이용해 일식 동안 코로나가 어떤 모습일지를 미리 예측했다.",
+  "why": "주어 scientists 와 동사 used 사이에 회사 이름과 쉼표로 끼워 넣은 with support… 가 들어가 동사가 멀리 떨어진다. used 는 '중고의'라는 형용사가 아니라 '사용했다'는 동사이고, 그 목적어는 observations of the Sun 이다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|8.1",
+  "en": "Below, their corona prediction is compared to a composite image of the corona, which combines multiple images captured by the NASA-supported DEB Initiative project during the total eclipse near León, Spain.",
+  "s": "their corona prediction",
+  "v": "is compared",
+  "chunks": [
+   {"en": "Below,", "ko": "아래에서는,", "r": "위치(글 안에서의 자리)"},
+   {"en": "their corona prediction is compared to", "ko": "그들의 코로나 예측이 ~와 비교되어 있다", "r": "주어 + 동사(수동태)"},
+   {"en": "a composite image of the corona,", "ko": "코로나를 합성한 사진 한 장과,", "r": "비교 대상"},
+   {"en": "which combines multiple images", "ko": "여러 장의 사진을 합쳐 만든 것인데", "r": "관계절(앞 합성 사진 설명)"},
+   {"en": "captured by the NASA-supported DEB Initiative project", "ko": "NASA의 지원을 받는 DEB Initiative 프로젝트가 찍은", "r": "과거분사구(앞 사진들 설명, 수동)"},
+   {"en": "during the total eclipse near León, Spain.", "ko": "스페인 레온 부근에서 개기 일식이 진행되는 동안", "r": "시간 + 장소"}
+  ],
+  "ko": "아래에서는 이들의 코로나 예측을 코로나 합성 사진과 비교해 놓았다. 그 합성 사진은 NASA의 지원을 받는 DEB Initiative 프로젝트가 스페인 레온(León) 부근에서 개기 일식이 진행되는 동안 찍은 여러 장의 사진을 합쳐 만든 것이다.",
+  "why": "is compared 는 수동태(당하는 형태)라 '비교한다'가 아니라 '비교된다'이고, 비교한 주체는 문장에 나오지 않는다. which 이하는 합성 사진을 설명하고, captured by… 는 그 안의 사진들을 누가 찍었는지를 밝힌다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|9.0",
+  "en": "Over the coming months, scientists will analyze the observations and images captured during the solar eclipse on Aug. 12 and present what they have learned about the Sun and its effects on our home planet.",
+  "s": "scientists",
+  "v": "will analyze",
+  "chunks": [
+   {"en": "Over the coming months,", "ko": "앞으로 몇 달에 걸쳐,", "r": "시간"},
+   {"en": "scientists will analyze the observations and images", "ko": "과학자들이 관측 자료와 사진들을 분석할 것이다", "r": "주어 + 동사 + 목적어"},
+   {"en": "captured during the solar eclipse on Aug. 12", "ko": "8월 12일 일식 때 담은", "r": "과거분사구(앞 자료·사진 설명)"},
+   {"en": "and present what they have learned", "ko": "그리고 알아낸 것을 발표할 것이다", "r": "대등절(두 번째 동사)"},
+   {"en": "about the Sun and its effects on our home planet.", "ko": "태양과, 태양이 우리 지구에 주는 영향에 대해", "r": "전치사구(무엇에 대해)"}
+  ],
+  "ko": "앞으로 몇 달에 걸쳐 과학자들은 8월 12일 일식 때 담은 관측 자료와 사진들을 분석하고, 태양과 태양이 우리 지구에 주는 영향에 대해 알아낸 것을 발표할 것이다.",
+  "why": "will 하나에 analyze 와 present 두 동사가 함께 걸린다. present 앞에 will 이 없다고 다른 시제로 읽으면 안 된다. captured… 는 문장의 동사가 아니라 앞의 자료와 사진을 설명하는 말이다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|9.1",
+  "en": "These observations will also help prepare science teams to investigate future solar eclipses , such as a much longer total solar eclipse that will be visible from southern Spain and northern Africa on Aug. 2, 2027.",
+  "s": "These observations",
+  "v": "will also help",
+  "chunks": [
+   {"en": "These observations will also help", "ko": "이 관측 자료들은 또한 도움이 될 것이다", "r": "주어 + 동사"},
+   {"en": "prepare science teams to investigate future solar eclipses", "ko": "과학 팀들이 앞으로 올 일식을 조사할 준비를 갖추도록", "r": "원형부정사구(도움의 내용)"},
+   {"en": ", such as a much longer total solar eclipse", "ko": "예를 들면 훨씬 더 긴 개기 일식 같은,", "r": "예시(앞 future solar eclipses 의 예)"},
+   {"en": "that will be visible from southern Spain and northern Africa", "ko": "스페인 남부와 아프리카 북부에서 볼 수 있게 될", "r": "관계절(앞 일식 설명)"},
+   {"en": "on Aug. 2, 2027.", "ko": "2027년 8월 2일에", "r": "시간"}
+  ],
+  "ko": "이 관측 자료들은 또한 과학 팀들이 앞으로 올 일식을 조사할 준비를 갖추는 데 도움이 될 것이다. 예를 들면 2027년 8월 2일에 스페인 남부와 아프리카 북부에서 볼 수 있는, 훨씬 더 긴 개기 일식 같은 것이다.",
+  "why": "help 뒤에 to 없이 동사원형 prepare 가 바로 온다(help + 동사원형). 준비를 갖추는 쪽은 science teams 이고, such as 이하는 앞에 나온 future solar eclipses 의 예다.",
+  "st": []
+ },
+ {
+  "id": "7387a168|10.0",
+  "en": "Vanessa Thomas is a science writer with the heliophysics communications team at NASA’s Goddard Space Flight Center in Greenbelt, Maryland.",
+  "s": "Vanessa Thomas",
+  "v": "is",
+  "chunks": [
+   {"en": "Vanessa Thomas is a science writer", "ko": "버네사 토머스는 과학 담당 글쓴이다", "r": "주어 + 동사 + 보어"},
+   {"en": "with the heliophysics communications team", "ko": "태양물리학 홍보팀 소속의", "r": "전치사구(소속)"},
+   {"en": "at NASA’s Goddard Space Flight Center", "ko": "NASA 고다드 우주비행센터에 있는", "r": "전치사구(그 팀이 있는 곳)"},
+   {"en": "in Greenbelt, Maryland.", "ko": "메릴랜드주 그린벨트에 있는", "r": "전치사구(센터의 소재지)"}
+  ],
+  "ko": "버네사 토머스(Vanessa Thomas)는 메릴랜드주 그린벨트에 있는 NASA 고다드 우주비행센터(Goddard Space Flight Center)의 태양물리학(heliophysics) 홍보팀에서 일하는 과학 담당 글쓴이다.",
+  "why": "with → at → in 으로 전치사구가 세 번 이어지며 소속을 팀 → 센터 → 도시 순으로 좁혀 간다. 뒤에서부터 거슬러 올라가지 말고 '누구는 무엇이다'를 먼저 잡은 뒤 꼬리를 차례로 붙이면 된다.",
+  "st": []
+ }
+]

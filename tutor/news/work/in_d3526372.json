@@ -1,0 +1,290 @@
+[
+ {
+  "id": "d3526372|0.0",
+  "en": "Science at Work Multimedia Data For Researchers About Us As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+  "auto_s": "NASA Earth data",
+  "auto_v": "is feeding"
+ },
+ {
+  "id": "d3526372|1.0",
+  "en": "Tacoma Power, a Washington public utility, is using a U.S. technology company’s river-flow forecasts during a year of water extremes on the Cowlitz River.",
+  "auto_s": "Tacoma Power, a Washington public utility,",
+  "auto_v": "is using"
+ },
+ {
+  "id": "d3526372|1.1",
+  "en": "The utility’s largest hydroelectric project uses water stored behind Mayfield and Mossyrock dams to generate enough electricity to serve more than 151,000 homes each year.",
+  "auto_s": "The utility’s largest hydroelectric project",
+  "auto_v": "uses"
+ },
+ {
+  "id": "d3526372|2.0",
+  "en": "Upstream Tech’s HydroForecast combines weather forecasts and river measurements with NASA-produced satellite data on snow cover and vegetation conditions to predict river flow from hours to days ahead.",
+  "auto_s": "Upstream Tech’s HydroForecast",
+  "auto_v": "combines"
+ },
+ {
+  "id": "d3526372|2.1",
+  "en": "Updated every two hours, the forecasts are used by reservoir managers, hydropower producers, water utilities, and government agencies to prepare for storms, plan reservoir water releases, and navigate dry periods.",
+  "auto_s": "the forecasts",
+  "auto_v": "are used"
+ },
+ {
+  "id": "d3526372|3.0",
+  "en": "“Part of NASA’s mission is to make the view from space useful on the ground,” said Erin Urquhart, manager for NASA’s Water Resources program at the agency’s headquarters in Washington, D.C.",
+  "auto_s": "Part of NASA’s mission",
+  "auto_v": "is"
+ },
+ {
+  "id": "d3526372|3.1",
+  "en": "“When an American company incorporates NASA’s freely available data into forecasts that help water managers prepare for floods, generate power, and steward water supplies, that’s NASA delivering practical value to the nation.”",
+  "auto_s": "NASA",
+  "auto_v": "delivering"
+ },
+ {
+  "id": "d3526372|4.0",
+  "en": "During the winter of 2025-26, unusual warmth meant a larger share of precipitation fell as rain instead of snow across much of the West, while below-normal precipitation deepened deficits in some areas.",
+  "auto_s": "unusual warmth",
+  "auto_v": "meant"
+ },
+ {
+  "id": "d3526372|4.1",
+  "en": "January, February, and March each had the lowest Western snow cover for that month in the NASA MODIS (Moderate Resolution Imaging Spectroradiometer) satellite record since 2001.",
+  "auto_s": "March each",
+  "auto_v": "had"
+ },
+ {
+  "id": "d3526372|5.0",
+  "en": "On the Cowlitz, those conditions produced a season of extremes .",
+  "auto_s": "those conditions",
+  "auto_v": "produced"
+ },
+ {
+  "id": "d3526372|5.1",
+  "en": "In December 2025, a powerful atmospheric river brought a long, narrow band of Pacific moisture into the region, causing one of the largest one-day inflow surges ever recorded at Tacoma Power’s hydroelectric project.",
+  "auto_s": "a powerful atmospheric river",
+  "auto_v": "brought"
+ },
+ {
+  "id": "d3526372|5.2",
+  "en": "Across the season, that rain-heavy pattern sent water downstream quickly instead of building mountain snowpack that would melt and release water steadily into summer.",
+  "auto_s": "rain-heavy pattern",
+  "auto_v": "sent"
+ },
+ {
+  "id": "d3526372|5.3",
+  "en": "Snowpack remained at just 20% to 50% of normal levels.",
+  "auto_s": "Snowpack",
+  "auto_v": "remained"
+ },
+ {
+  "id": "d3526372|6.0",
+  "en": "As winter became spring, the rain tapered off, and on April 8, Washington state placed every watershed, including the Cowlitz, under a drought emergency .",
+  "auto_s": "the rain",
+  "auto_v": "tapered off"
+ },
+ {
+  "id": "d3526372|6.1",
+  "en": "From April through June, peak daily inflow into the project was among the lowest on record, leaving Tacoma Power with less incoming water to replenish its reservoirs ahead of summer demand, said Saul Villarreal, Tacoma Power’s senior hydro operations manager.",
+  "auto_s": "peak",
+  "auto_v": "was"
+ },
+ {
+  "id": "d3526372|7.0",
+  "en": "NASA turns observations collected by the VIIRS (Visible Infrared Imaging Radiometer Suite) instrument on the Suomi-NPP (Suomi National Polar-orbiting Partnership) satellite into data products that provide information about snow cover and vegetation greenness across entire watersheds, including where ground monitors are sparse.",
+  "auto_s": "NASA",
+  "auto_v": "turns"
+ },
+ {
+  "id": "d3526372|8.0",
+  "en": "To train HydroForecast, Upstream Tech collects and archives years of those NASA products alongside weather forecast data and actual river-flow measurements.",
+  "auto_s": "",
+  "auto_v": "To train"
+ },
+ {
+  "id": "d3526372|8.1",
+  "en": "Using records from hundreds of watersheds, the models learn common patterns in how water moves through the landscape and apply them in new locations.",
+  "auto_s": "the models",
+  "auto_v": "learn"
+ },
+ {
+  "id": "d3526372|9.0",
+  "en": "Tests across multiple basins found that including snow and vegetation observations increased forecast skill, said Dr. Laura Read, director of technical and federal partnerships for HydroForecast at Upstream Tech.",
+  "auto_s": "Tests across multiple basins",
+  "auto_v": "found"
+ },
+ {
+  "id": "d3526372|9.1",
+  "en": "“NASA’s data gives us the reliability, global coverage, and consistency we need,” said Read.",
+  "auto_s": "NASA’s data",
+  "auto_v": "gives"
+ },
+ {
+  "id": "d3526372|9.2",
+  "en": "“Our short-term models run every two hours, so those inputs have to show up when we need them.",
+  "auto_s": "Our short-term models",
+  "auto_v": "run"
+ },
+ {
+  "id": "d3526372|9.3",
+  "en": "Though we have stopgaps in place, any interruption to our operational pipeline is a huge deal.”",
+  "auto_s": "any interruption to our operational pipeline",
+  "auto_v": "is"
+ },
+ {
+  "id": "d3526372|10.0",
+  "en": "Tacoma Power uses HydroForecast alongside stream gauges, snow stations, and operator judgment.",
+  "auto_s": "Tacoma Power",
+  "auto_v": "uses"
+ },
+ {
+  "id": "d3526372|10.1",
+  "en": "During the December storm, the NASA-informed, short-term forecast helped the utility anticipate how much water would reach the project and prepare for dynamic river conditions, while meeting operating requirements and keeping public safety at the forefront, Villarreal said.",
+  "auto_s": "the NASA-informed, short-term forecast",
+  "auto_v": "helped"
+ },
+ {
+  "id": "d3526372|11.0",
+  "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
+  "auto_s": "",
+  "auto_v": "enable"
+ },
+ {
+  "id": "d3526372|12.0",
+  "en": "As spring approached, the operational challenge reversed.",
+  "auto_s": "the operational challenge",
+  "auto_v": "reversed"
+ },
+ {
+  "id": "d3526372|12.1",
+  "en": "Tacoma Power used HydroForecast’s seasonal model to track the growing risk of weak runoff and began keeping its reservoirs higher than usual to preserve water for summer.",
+  "auto_s": "Tacoma Power",
+  "auto_v": "used"
+ },
+ {
+  "id": "d3526372|12.2",
+  "en": "That left less space to contain another large storm, so operators continued checking the short-term forecast “to play defense,” and remained ready to adjust operations if another atmospheric river developed.",
+  "auto_s": "That",
+  "auto_v": "left"
+ },
+ {
+  "id": "d3526372|13.0",
+  "en": "“The earlier we understand how conditions might change, the more effective planning we can do to manage our reservoir and balance the many demands of our system throughout the season,” said Villarreal.",
+  "auto_s": "we",
+  "auto_v": "understand"
+ },
+ {
+  "id": "d3526372|14.0",
+  "en": "Tacoma Power entered summer 2026 with reservoir levels near average despite the dry spring.",
+  "auto_s": "Tacoma Power",
+  "auto_v": "entered"
+ },
+ {
+  "id": "d3526372|14.1",
+  "en": "The stored water supports reliable hydropower, required river flows to support fish and aquatic habitat, and public recreation.",
+  "auto_s": "The stored water",
+  "auto_v": "supports"
+ },
+ {
+  "id": "d3526372|14.2",
+  "en": "It also gives the utility more flexibility to meet electricity demand during heat waves or unexpected outages and, when possible, support the wider regional power system.",
+  "auto_s": "It",
+  "auto_v": "gives"
+ },
+ {
+  "id": "d3526372|15.0",
+  "en": "Tacoma Public Utilities’ Cowlitz Hydro Project is just one example of NASA science supporting water decisions across the West.",
+  "auto_s": "Tacoma Public Utilities’ Cowlitz Hydro Project",
+  "auto_v": "is"
+ },
+ {
+  "id": "d3526372|16.0",
+  "en": "NASA also has partnered with the U.S.",
+  "auto_s": "NASA",
+  "auto_v": "has partnered"
+ },
+ {
+  "id": "d3526372|16.1",
+  "en": "Department of Agriculture’s Natural Resources Conservation Service to bring satellite-based snow and groundwater information into machine-learning water-supply forecasts.",
+  "auto_s": "Department of Agriculture’s Natural Resources Conservation Service",
+  "auto_v": "to bring"
+ },
+ {
+  "id": "d3526372|17.0",
+  "en": "The National Oceanic and Atmospheric Administration’s Colorado Basin River Forecast Center uses MODIS and VIIRS data to adjust snowmelt rates in its model.",
+  "auto_s": "The National Oceanic",
+  "auto_v": "uses"
+ },
+ {
+  "id": "d3526372|17.1",
+  "en": "The Bureau of Reclamation uses NASA and NASA-derived snow data, alongside other sources, for reservoir operations in California’s San Joaquin Basin.",
+  "auto_s": "The Bureau of Reclamation",
+  "auto_v": "uses"
+ },
+ {
+  "id": "d3526372|18.0",
+  "en": "NASA data and research have long informed the U.S.",
+  "auto_s": "NASA data and research",
+  "auto_v": "informed"
+ },
+ {
+  "id": "d3526372|18.1",
+  "en": "Drought Monitor , the weekly assessment used by farmers, water managers, and public agencies.",
+  "auto_s": "",
+  "auto_v": ""
+ },
+ {
+  "id": "d3526372|18.2",
+  "en": "NASA became a formal partner in 2026, expanding its role from providing information to helping produce the assessment.",
+  "auto_s": "NASA",
+  "auto_v": "became"
+ },
+ {
+  "id": "d3526372|18.3",
+  "en": "The agency took its first turn authoring the Drought Monitor during the week of Aug. 17.",
+  "auto_s": "The agency",
+  "auto_v": "took"
+ },
+ {
+  "id": "d3526372|19.0",
+  "en": "About the Author Emily DeMarco Writer/Editor (IV), Earth Science Division Emily is a science writer and editor with NASA’s Earth Science Division, with more than 10 years of experience in science journalism and communication.",
+  "auto_s": "the Author Emily DeMarco Writer",
+  "auto_v": "is"
+ },
+ {
+  "id": "d3526372|19.1",
+  "en": "A former deputy news editor at the magazine Science News, she holds a master’s in environmental science and management from UC Santa Barbara’s Bren School, where she specialized in water resources management and science communication.",
+  "auto_s": "she",
+  "auto_v": "holds"
+ },
+ {
+  "id": "d3526372|20.0",
+  "en": "In summer 2026, a large iceberg drifted more than 1,000 kilometers south from the northeastern…",
+  "auto_s": "a large iceberg",
+  "auto_v": "drifted"
+ },
+ {
+  "id": "d3526372|21.0",
+  "en": "Article 11 hours ago 5 min read Human-Related Microbes May Survive Moon’s South Pole, NASA Finds Article 21 hours ago 3 min read Elephant Butte Reservoir Runs Low Drought in the Rio Grande basin contributed to New Mexico’s largest reservoir dwindling to its…",
+  "auto_s": "NASA",
+  "auto_v": "Finds"
+ },
+ {
+  "id": "d3526372|22.0",
+  "en": "Article 1 day ago Keep Exploring Discover More Topics From NASA Earth Action Accelerating the use of Earth observation data for decision-making.",
+  "auto_s": "Article 1 day ago",
+  "auto_v": "Keep"
+ },
+ {
+  "id": "d3526372|23.0",
+  "en": "Water drives life, economies, and security — and NASA tracks its constant motion as it shifts between sea, land, and…",
+  "auto_s": "Water",
+  "auto_v": "drives"
+ },
+ {
+  "id": "d3526372|24.0",
+  "en": "NASA Earth Science helps Americans respond to challenges and societal needs — such as wildland fires, hurricanes, and water supplies…",
+  "auto_s": "NASA Earth Science",
+  "auto_v": "helps"
+ }
+]

@@ -1,0 +1,32 @@
+NASA Updates Next Steps for Commercial Swift Boost Mission
+NASA · 2026-08-19
+https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/
+
+[0.0] Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned.
+[0.1] However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to demonstrate key capabilities for the future of space exploration.
+
+[1.0] “NASA should be willing to move quickly and take smart risks when the potential return is worth it, and that is exactly what we did with this mission,” said NASA Administrator Jared Isaacman.
+[1.1] “This is not the outcome we were working toward, but it does not change why this mission was worth attempting.
+[1.2] The team moved with extraordinary speed to give Swift a chance to carry out more science while advancing capabilities America will need for satellite servicing in the future.
+[1.3] We are going to learn everything we can from LINK’s rendezvous attempt and put those lessons to work on the missions that follow.”
+
+[2.0] NASA and Katalyst are working closely to assess next steps for rendezvous and gather as much data as possible to inform future satellite servicing operations.
+[2.1] “We knew this was a high-risk, high-reward mission – a first-of-its kind attempt, developed on an unprecedented timeline driven by the Sun’s activity,” said Shawn Domagal-Goldman, director, Astrophysics Division, NASA Headquarters in Washington.
+[2.2] “We were all hoping for more science from Swift.
+[2.3] But we knew the takeaways from this mission would be worthwhile either way, and we have gained so much through the series of accomplishments up to this point.”
+[2.4] Without intervention, NASA anticipates Swift is likely to re-enter Earth’s atmosphere later this year.
+[2.5] As part of the agency’s previous planning for Swift’s end of life, NASA will continue to prioritize finding new options to react rapidly to cosmic events, using current missions to help fill the gap in the meantime.
+
+[3.0] “Building, testing, and operating this mission has already strengthened America’s space industry pipeline, advancing in-space servicing capabilities in completely new ways,” Domagal-Goldman said.
+[3.1] “NASA is committed to supporting our commercial vendors as they take on difficult tasks with the agency, to push the boundaries of what’s possible.
+[3.2] We’re so proud of this team for: getting to the launch pad in record time, in a record-setting year for NASA astrophysics launches; its innovative problem-solving up to this point; and the dedication to the exciting capabilities this mission will attempt to demonstrate next.”
+
+[4.0] Swift was launched in 2004 to study gamma-ray bursts, the most powerful explosions in the universe, and other cosmic objects and events.
+[4.1] It was designed for a two-year prime mission.
+[4.2] After 21 years of science operations, Swift’s low Earth orbit began to rapidly decay because of increased solar activity.
+[4.3] NASA used this opportunity to advance U.S. spacecraft servicing technology, awarding a contract to Katalyst in September 2025 to mount a robotic servicing mission for Swift in less than a year.
+[4.4] The LINK spacecraft launched July 3 on a Northrop Grumman Pegasus XL rocket from Kwajalein Atoll in the South Pacific Ocean.
+[4.5] Teams established communications with LINK and conducted in-orbit checkouts over the following weeks, before the spacecraft experienced attitude control issues.
+
+[5.0] Learn more from Katalyst , and monitor NASA’s Swift blog for continued updates throughout rendezvous:
+

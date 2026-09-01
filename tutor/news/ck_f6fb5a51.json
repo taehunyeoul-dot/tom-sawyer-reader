@@ -1,0 +1,96 @@
+{
+ "f6fb5a51|0.0": [
+  {"t":"who","q":"<b>a ceremony hosted by NASA Administrator Jared Isaacman</b> — 행사를 연 쪽과 서명한 쪽은 각각 누구입니까?","a":"행사를 주최한 쪽은 NASA 국장 제러드 아이작먼이고, 서명한 쪽은 튀르키예 공화국입니다","tip":"hosted by 는 '~가 주최한'이라는 당하는 형태입니다. 아이작먼이 서명했다고 읽으면 두 나라의 역할이 통째로 뒤집힙니다."},
+  {"t":"who","q":"<b>joining the growing international coalition of like-minded nations</b> — 이 연합에 합류한 쪽은 누구입니까?","a":"튀르키예 공화국입니다","tip":"-ing 로 시작하는 덩어리의 주체는 문장의 주어입니다. 바로 앞의 the Artemis Accords 나 Isaacman 이 합류하는 것이 아닙니다."},
+  {"t":"mod","q":"<b>dedicated to peaceful, transparent space exploration</b> 는 무엇을 설명하는 말입니까?","a":"바로 앞의 like-minded nations(뜻을 같이하는 나라들)입니다 — 그 나라들이 평화롭고 투명한 우주 탐사에 힘쓴다는 뜻입니다","tip":"이것을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 signed 하나뿐입니다."},
+  {"t":"pron","q":"<b>at the agency’s headquarters in Washington</b> 의 the agency 는 어느 기관입니까?","a":"NASA입니다 — 워싱턴에 있는 NASA 본부라는 뜻입니다","tip":"기사에서 the agency 는 앞에 나온 기관을 다시 가리키는 말입니다. 튀르키예 쪽 기관이나 우주청으로 읽기 쉽습니다."}
+ ],
+ "f6fb5a51|1.0": [
+  {"t":"pron","q":"<b>It is my privilege</b> 의 It 은 무엇을 가리킵니까?","a":"가리키는 대상이 없습니다 — 뒤의 to welcome the Republic of Türkiye…(튀르키예를 맞이하는 일)를 대신 받는 형식상의 주어입니다","tip":"앞 문장의 서명이나 협정으로 잡기 쉽습니다. It is ~ to … 형태에서는 to 뒤가 진짜 주어입니다."},
+  {"t":"who","q":"<b>said Isaacman</b> — 말한 사람은 누구이고, 맞이하는 쪽과 맞이해지는 쪽은 각각 누구입니까?","a":"말한 사람은 아이작먼입니다. 맞이하는 쪽은 아이작먼(NASA) 쪽이고, 맞이해지는 쪽이 튀르키예입니다","tip":"said Isaacman 은 주어와 동사가 뒤바뀐 형태입니다. Isaacman 을 said 의 목적어로 읽으면 '누가 아이작먼을 말했다'가 되어 버립니다."},
+  {"t":"mod","q":"<b>as the 71st signatory of the Artemis Accords</b> — 71번째인 것은 누구입니까?","a":"튀르키예입니다 — 튀르키예가 협정의 71번째 서명국이라는 뜻입니다","tip":"as 를 '~처럼'이나 '~할 때'로 읽으면 뜻이 흐려집니다. 여기서는 '~로서'이고, 71번째는 아이작먼이나 행사의 순번이 아닙니다."}
+ ],
+ "f6fb5a51|1.1": [
+  {"t":"who","q":"<b>President Trump directed NASA to accelerate its return</b> — 지시한 쪽과 실제로 실행할 쪽은 각각 누구입니까?","a":"지시한 쪽은 트럼프 대통령, 지시받아 실행할 쪽은 NASA입니다","tip":"directed 를 '이끌었다·향했다'로 읽으면 방향이 흐려집니다. direct A to B 는 'A에게 B하라고 지시하다'입니다."},
+  {"t":"pron","q":"<b>its return to the lunar surface</b> 의 its 는 누구를 가리킵니까?","a":"NASA입니다 — NASA의 달 복귀라는 뜻입니다","tip":"바로 앞의 President Trump 에 붙이기 쉽습니다. 달로 돌아갈 쪽은 대통령이 아니라 NASA입니다."},
+  {"t":"mod","q":"<b>a Moon Base,</b> 는 무엇을 다시 말한 것입니까?","a":"바로 앞의 humanity’s first enduring presence on another world(다른 천체 위 인류 최초의 오래가는 거점)입니다","tip":"쉼표로 둘러싸인 짧은 명사구는 대개 앞의 긴 명사구를 쉬운 말로 바꿔 부른 동격입니다. 별개의 새 대상이 아닙니다."},
+  {"t":"time","q":"<b>Last year, President Trump directed</b> — 달 복귀와 화성 탐사 준비는 이미 끝난 일입니까?","a":"아닙니다 — 작년에 '지시'가 있었을 뿐, 지시받은 세 가지는 아직 해야 할 일입니다","tip":"과거형은 directed 하나뿐이고 to 뒤의 accelerate·establish·lay 는 아직 이루지 않은 목표입니다."}
+ ],
+ "f6fb5a51|1.2": [
+  {"t":"neg","q":"<b>never undertakes these grand endeavors alone</b> — NASA는 이 사업을 혼자 합니까, 함께 합니까?","a":"혼자 하지 않습니다 — 늘 다른 나라들과 함께한다는 뜻입니다","tip":"never 하나를 놓치면 뜻이 정반대가 됩니다. 부정어는 alone 이 아니라 동사 앞의 never 입니다."},
+  {"t":"pron","q":"<b>these grand endeavors</b> 는 무엇을 가리킵니까?","a":"앞 문장에 나온 일들 — 달 표면 복귀, 달 기지 건설, 유인 화성 탐사의 토대 놓기입니다","tip":"these(이런)는 앞에서 이미 말한 것을 되받는 말입니다. 여기서 처음 나온 새 대상이 아닙니다."},
+  {"t":"mod","q":"<b>alone</b> 은 무엇에 대해 말하는 것입니까?","a":"NASA가 '단독으로, 혼자서' 한다는 뜻입니다 — 사업(endeavors)이 외롭거나 하나뿐이라는 말이 아닙니다","tip":"alone 은 바로 앞 명사에 붙는 것이 아니라 NASA가 어떻게 하는지를 말합니다."}
+ ],
+ "f6fb5a51|1.3": [
+  {"t":"who","q":"<b>we’re taking</b> 의 we 는 누구입니까?","a":"말하고 있는 아이작먼 쪽, 곧 NASA입니다","tip":"따옴표 안의 말이라 we 는 기사를 쓴 사람이 아니라 말하는 사람(NASA 국장) 쪽입니다."},
+  {"t":"pron","q":"<b>putting them into practice</b> 의 them 은 무엇을 가리킵니까?","a":"the Artemis Accords principles(아르테미스 협정의 원칙들)입니다","tip":"가까운 the Moon Base 나 nations 로 잡기 쉽습니다. 복수형 them 이 받을 수 있는 것은 principles 뿐입니다."},
+  {"t":"time","q":"<b>we’re taking … and putting them into practice</b> — 이것은 앞으로 할 계획입니까, 지금 하고 있는 일입니까?","a":"지금 하고 있는 일입니다 — 현재진행형이라 이미 진행 중이라는 뜻입니다","tip":"will 이 없습니다. 앞뒤 문장의 '앞으로 할 일'과 시점이 다릅니다."}
+ ],
+ "f6fb5a51|1.4": [
+  {"t":"who","q":"<b>NASA has invited every signatory</b> — 초대한 쪽과 초대받은 쪽은 각각 누구입니까?","a":"초대한 쪽은 NASA, 초대받은 쪽은 모든 서명국입니다","tip":"invite A to B 는 'A에게 B해 달라고 청하다'입니다. 서명국이 NASA를 부른 것이 아닙니다."},
+  {"t":"who","q":"<b>creating opportunities for nations</b> — 기회를 만들어 주는 쪽은 누구입니까?","a":"NASA입니다 — NASA가 초대함으로써 각국에 기회가 생긴다는 뜻입니다","tip":"-ing 로 시작하는 덩어리의 주체는 문장의 주어(NASA)입니다. every signatory 나 nations 가 만드는 것이 아닙니다."},
+  {"t":"mod","q":"<b>to future Artemis missions</b> 는 어느 말에 이어집니까?","a":"contribute 에 이어집니다 — 앞의 다섯 가지를 '앞으로의 아르테미스 임무에' 보탠다는 뜻입니다","tip":"바로 앞의 other capabilities 에 붙여 '임무를 위한 역량'으로 읽기 쉽습니다. contribute A to B(A를 B에 보태다) 형태입니다."},
+  {"t":"time","q":"<b>has invited</b> — 초대는 앞으로 할 일입니까, 이미 해 둔 일입니까?","a":"이미 해 둔 일입니다 — 현재완료라 이미 초대했고 그 상태가 지금도 유효하다는 뜻입니다","tip":"will invite 가 아닙니다. 이 문장에서 아직 미래인 것은 마지막의 future Artemis missions 뿐입니다."}
+ ],
+ "f6fb5a51|2.0": [
+  {"t":"who","q":"<b>signed on behalf of Türkiye</b> — 서명한 사람은 누구이고, 누구를 대신한 것입니까?","a":"서명한 사람은 산업기술부 장관 메흐메트 파티흐 카즈르이고, 튀르키예(나라)를 대신해 서명했습니다","tip":"on behalf of 는 '~를 위하여'보다 '~를 대신하여'입니다. 튀르키예가 카즈르를 대신한 것이 아닙니다."},
+  {"t":"mod","q":"<b>Turkish Minister of Industry and Technology</b> — 이것은 사람입니까, 기관입니까?","a":"사람의 직함입니다 — 바로 뒤 Mehmet Fatih Kacır 한 사람의 직책입니다","tip":"영어 기사는 직함을 관사 없이 이름 앞에 붙입니다. 직함과 이름을 둘로 나눠 읽으면 주어가 두 사람이 됩니다."},
+  {"t":"mod","q":"<b>of Industry and Technology</b> — and 는 무엇과 무엇을 잇습니까?","a":"부처 이름 안의 두 분야, 곧 산업과 기술입니다(한 사람이 맡는 산업기술부)","tip":"and 가 장관을 두 명으로 나누는 것이 아닙니다. 이 문장에서 서명한 사람은 한 명뿐입니다."}
+ ],
+ "f6fb5a51|2.1": [
+  {"t":"mod","q":"<b>The President of the Turkish Space Agency Yusuf Kıraç</b> — 여기 나오는 사람은 몇 명입니까?","a":"한 명입니다 — 튀르키예 우주청 청장인 유수프 크라치 한 사람의 직함과 이름입니다","tip":"직함과 이름 사이에 쉼표가 없어 두 사람으로 나눠 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>and the U.S.</b> 뒤에는 무엇이 이어집니까?","a":"다음 줄의 직함과 이름(국무부 부차관보 코너 톰린슨)입니다 — the U.S. 는 그 직함에 붙는 '미국의'라는 말입니다","tip":"U.S. 의 마침표 때문에 문장이 여기서 끝난 것처럼 보이지만 실제로는 다음 줄로 이어집니다."},
+  {"t":"who","q":"이 줄에는 동사가 없습니다. <b>Yusuf Kıraç</b> 가 한 일은 어디에 나옵니까?","a":"다음 줄의 also participated in the event(그 행사에 참석했다)입니다","tip":"주어만 있고 동사가 없는 토막입니다. 이 줄 안에서 동사를 찾으려 하면 막힙니다."}
+ ],
+ "f6fb5a51|2.2": [
+  {"t":"mod","q":"<b>Deputy Assistant Secretary of State for Space and Environment</b> 는 무엇을 설명하는 말입니까?","a":"바로 뒤 Connor Tomlinson 한 사람의 직함입니다","tip":"국무부·우주·환경이 각각 다른 사람이나 기관처럼 보이지만 통째로 한 사람의 직책 이름입니다."},
+  {"t":"mod","q":"<b>for Space and Environment</b> 는 어느 말에 걸립니까?","a":"앞의 Deputy Assistant Secretary of State 입니다 — 우주와 환경을 담당하는 부차관보라는 뜻입니다","tip":"뒤의 사람 이름이나 the event 에 붙이면 '우주·환경 행사'가 되어 뜻이 어긋납니다."},
+  {"t":"who","q":"<b>also participated in the event</b> — 참석한 사람은 누구이며, 앞 줄까지 합치면 몇 명입니까?","a":"코너 톰린슨입니다. 앞 줄의 유수프 크라치까지 두 사람이 함께 참석했습니다","tip":"also(또한)는 앞 줄의 사람과 이어 세라는 신호입니다."}
+ ],
+ "f6fb5a51|3.0": [
+  {"t":"who","q":"<b>underscore its commitment</b> — 의지를 분명히 보여 주는 것은 무엇입니까?","a":"튀르키예의 최근 성과들(achievements)입니다 — 사람이나 나라가 아니라 '성과'가 주어입니다","tip":"주어를 Türkiye 로 잡으면 동사에 -s 가 없는 이유가 설명되지 않습니다. 주어는 복수인 achievements 입니다."},
+  {"t":"pron","q":"<b>its commitment to space exploration</b> 의 its 는 누구를 가리킵니까?","a":"튀르키예입니다","tip":"가까운 human spaceflight 나 achievements 에 붙이기 쉽습니다. 의지를 갖는 것은 나라입니다."},
+  {"t":"mod","q":"<b>in human spaceflight</b> 는 어느 말에 걸립니까?","a":"앞의 achievements 입니다 — 유인 우주비행 분야에서 거둔 성과라는 뜻입니다","tip":"동사 underscore 에 붙여 '유인 우주비행 안에서 보여 준다'로 읽으면 뜻이 어긋납니다."}
+ ],
+ "f6fb5a51|3.1": [
+  {"t":"pron","q":"<b>the country’s first astronaut</b> 의 the country 는 어느 나라입니까?","a":"튀르키예입니다","tip":"the country 는 앞에서 말한 나라를 다시 가리키는 말입니다. 국제우주정거장·NASA 때문에 미국으로 읽기 쉽습니다."},
+  {"t":"mod","q":"<b>Alper Gezervaci,</b> 는 무엇입니까?","a":"바로 앞 the country’s first astronaut 의 이름입니다 — 같은 사람을 다시 말한 동격입니다","tip":"쉼표 두 개 사이의 이름은 새 인물이 아니라 앞 명사의 정체입니다. 두 사람으로 세면 안 됩니다."},
+  {"t":"who","q":"<b>and conducted scientific research alongside NASA astronauts</b> — 연구를 수행한 쪽은 누구입니까?","a":"알페르 게제르바즈(튀르키예의 첫 우주비행사)입니다. NASA 우주비행사들은 그와 함께한 사람들입니다","tip":"and 뒤에 주어가 없으면 앞의 주어가 그대로 이어집니다. NASA 우주비행사가 주어가 아닙니다."},
+  {"t":"time","q":"<b>In 2024</b> — 이 우주비행은 이미 한 일입니까, 앞으로 할 일입니까?","a":"이미 한 일입니다 — 2024년에 다녀왔습니다","tip":"traveled·conducted 가 모두 과거형입니다. 뒤에 나오는 AYAP-1(will … launch)과 시점이 다릅니다."}
+ ],
+ "f6fb5a51|3.2": [
+  {"t":"time","q":"<b>That same year</b> 는 몇 년입니까?","a":"2024년입니다 — 앞 문장의 In 2024 를 되받는 말입니다","tip":"이 문장만 보면 '작년'이나 기사가 나온 해로 읽기 쉽습니다. 앞 문장을 봐야 답이 나옵니다."},
+  {"t":"mod","q":"<b>a second Turkish astronaut, Tuva Atasever,</b> — 여기서 사람은 몇 명입니까?","a":"한 명입니다 — '두 번째 튀르키예 우주비행사'가 곧 투바 아타세베르입니다","tip":"a second(두 번째의)는 인원이 둘이라는 말이 아니라 앞의 게제르바즈에 이은 두 번째 사람이라는 뜻입니다."},
+  {"t":"who","q":"<b>conducting experiments and physiology research</b> — 실험과 연구를 한 쪽은 누구입니까?","a":"투바 아타세베르입니다","tip":"-ing 로 시작하는 덩어리의 주체는 문장의 주어입니다. 버진 갤럭틱(회사)이 한 것이 아닙니다."},
+  {"t":"mod","q":"<b>flew on Virgin Galactic 07 suborbital mission</b> — 이 사람은 국제우주정거장에 갔습니까?","a":"아닙니다 — 준궤도(suborbital) 비행, 곧 궤도를 돌지 않는 짧은 우주비행이었습니다","tip":"앞 문장의 우주비행사와 뒤섞기 쉽습니다. 정거장에 간 사람은 앞 문장의 게제르바즈입니다."}
+ ],
+ "f6fb5a51|4.0": [
+  {"t":"time","q":"<b>Türkiye will soon launch its first lunar mission</b> — 이 발사는 이미 한 일입니까, 앞으로 할 일입니까?","a":"앞으로 할 일입니다 — 아직 발사하지 않았고 머지않아 할 예정입니다","tip":"앞 문단의 2024년 이야기(traveled, flew)는 이미 한 일이고 이 문장만 미래입니다. will 하나가 시점을 가릅니다."},
+  {"t":"who","q":"<b>joining the small but growing group of countries</b> — 그 무리에 합류하는 쪽은 누구입니까?","a":"튀르키예입니다","tip":"-ing 로 시작하는 덩어리의 주체는 문장의 주어입니다. AYAP-1(임무 이름)이 합류하는 것이 아닙니다."},
+  {"t":"mod","q":"<b>building and launching their own satellites to the Moon</b> 는 무엇을 설명하는 말입니까?","a":"앞의 countries(나라들)입니다 — 자기 위성을 직접 만들어 달로 보내는 나라들이라는 뜻입니다","tip":"이것을 문장의 동사로 읽으면 뼈대가 무너집니다. 이 문장의 동사는 will … launch 하나뿐입니다."},
+  {"t":"mod","q":"<b>its first lunar mission, AYAP-1,</b> — AYAP-1은 무엇의 이름입니까?","a":"튀르키예의 첫 달 탐사 임무의 이름입니다 — 같은 것을 다시 말한 동격입니다","tip":"쉼표 사이의 이름은 앞 명사와 같은 것입니다. 별개의 위성이나 나라 이름이 아닙니다."}
+ ],
+ "f6fb5a51|5.0": [
+  {"t":"who","q":"<b>as the country prepares to host</b> — 대회를 여는 쪽은 어디입니까?","a":"튀르키예입니다 — the country 는 튀르키예를 가리킵니다","tip":"NASA나 국제기구가 여는 것으로 읽기 쉽습니다. 이 문장의 the country 는 튀르키예입니다."},
+  {"t":"time","q":"<b>The country’s signing also comes as the country prepares to host</b> — 대회는 이미 열렸습니까?","a":"아직 열리지 않았습니다 — 준비 중이고, 서명은 그 준비가 한창인 시점에 이루어졌습니다","tip":"as 를 '~로서'나 '왜냐하면'으로 읽으면 두 사건이 같은 시기라는 관계가 사라집니다."},
+  {"t":"mod","q":"<b>in Antalya this October</b> 는 어느 말에 걸립니까?","a":"host the International Astronautical Congress 입니다 — 대회가 열리는 곳과 때입니다","tip":"prepares 에 붙여 '10월에 준비한다'로 읽기 쉽지만, 10월에 열리는 것은 대회입니다."}
+ ],
+ "f6fb5a51|5.1": [
+  {"t":"who","q":"<b>are expected to attend</b> — 예상하는 쪽은 문장에 나옵니까? 참석할 쪽은 누구입니까?","a":"예상하는 쪽은 나오지 않습니다(수동태). 참석할 쪽은 수십 곳의 아르테미스 협정 서명국입니다","tip":"expected 를 '기대했다'로 읽고 주어를 행위자로 잡으면 뒤집힙니다. 주어는 '예상되는 대상'입니다."},
+  {"t":"mod","q":"<b>to discuss the future of peaceful and transparent space exploration</b> 는 무엇을 나타냅니까?","a":"참석하는 목적입니다 — 논의하기 위해 참석한다는 뜻입니다","tip":"to attend to discuss 처럼 to 가 잇달아 나오면 뒤의 to 는 대개 '~하기 위해'입니다."},
+  {"t":"mod","q":"<b>Dozens of Artemis Accords signatories</b> — 몇 곳쯤을 말합니까?","a":"수십 곳입니다(정확한 수가 아니라 어림수)","tip":"dozen 은 12를 뜻하지만 dozens of 는 '12곳'이 아니라 '수십 곳'입니다."},
+  {"t":"time","q":"<b>are expected to attend</b> — 참석은 이미 이루어졌습니까?","a":"아직입니다 — 앞으로 열릴 대회에 참석할 것으로 예상된다는 뜻입니다","tip":"are 가 현재형이라고 이미 한 일로 읽으면 안 됩니다. 예상이 지금이고 참석은 앞으로입니다."}
+ ],
+ "f6fb5a51|6.0": [
+  {"t":"who","q":"<b>by both governments and private companies</b> — by 뒤의 이들이 한 일은 무엇입니까?","a":"달 관련 활동에 관심을 보인 쪽입니다 — 협정을 만든 쪽이 아닙니다","tip":"by 만 보고 행위자로 읽기 쉽지만, 여기서는 interest(관심)가 어디에서 나왔는지를 밝히는 말입니다."},
+  {"t":"mod","q":"<b>seven other founding nations</b> — 협정을 만든 창립국은 모두 몇 곳입니까?","a":"미국까지 합쳐 여덟 곳입니다 — other 가 '미국 말고 다른'이라는 뜻이라 나머지가 일곱입니다","tip":"other 를 빼고 읽으면 일곱으로 셉니다. NASA와 국무부는 둘 다 미국 쪽 기관이라 나라 수로는 하나입니다."},
+  {"t":"who","q":"<b>responding to the growing interest in lunar activities</b> — 대응한 쪽은 누구입니까?","a":"NASA와 국무부(그리고 함께한 창립국들)입니다","tip":"-ing 로 시작하는 덩어리의 주체는 문장의 주어입니다. the Artemis Accords 가 대응한 것이 아닙니다."},
+  {"t":"time","q":"<b>In 2020</b> — 협정을 만든 것은 튀르키예의 서명보다 앞입니까, 뒤입니까?","a":"앞입니다 — 2020년에 협정이 만들어졌고, 튀르키예의 서명은 이번 월요일입니다","tip":"기사가 시간 순서대로 쓰여 있지 않습니다. 이 문단은 배경 설명으로 과거로 돌아갑니다."}
+ ],
+ "f6fb5a51|7.0": [
+  {"t":"who","q":"<b>By signing the Artemis Accords, nations open the door</b> — 서명하는 쪽과 문을 여는 쪽은 각각 누구입니까?","a":"둘 다 nations(각국)입니다 — 서명한 그 나라들이 스스로 기회의 문을 엽니다","tip":"By -ing 앞에는 주어가 없어서 NASA가 서명한다고 읽기 쉽습니다. -ing 의 주체는 문장의 주어입니다."},
+  {"t":"mod","q":"<b>advancing humanity’s return to the Moon, and shaping the Golden Age</b> — 이 두 덩어리는 문장의 동사입니까?","a":"아닙니다 — 문을 연 결과로 따라오는 일을 덧붙인 말이고, 이 문장의 동사는 open 하나뿐입니다","tip":"-ing 형태만으로는 문장의 동사가 될 수 없습니다. 동사를 셋으로 세면 뼈대가 무너집니다."},
+  {"t":"mod","q":"<b>for future lunar exploration with NASA</b> 는 어느 말에 걸립니까?","a":"앞의 opportunities 입니다 — NASA와 함께하는 앞으로의 달 탐사라는 '기회'를 설명합니다","tip":"동사 open 에 붙여 '달 탐사를 위해 문을 연다'로 읽으면 무엇에 대한 기회인지가 흐려집니다."},
+  {"t":"time","q":"<b>future lunar exploration</b> — 이 달 탐사는 이미 이루어진 일입니까?","a":"아닙니다 — 앞으로의 일입니다. 지금 열리는 것은 그 기회의 문뿐입니다","tip":"open 이 현재형이라 모두 이루어진 것처럼 읽기 쉽습니다. future 한 단어가 시점을 정합니다."}
+ ]
+}

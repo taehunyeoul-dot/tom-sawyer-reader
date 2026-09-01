@@ -1,0 +1,124 @@
+[
+ {
+  "id": "c20f3f10|0.0",
+  "en": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division , Flight Opportunities program , and Center of Excellence for Collaborative Innovation .",
+  "s": "The Orbital Clarity Challenge",
+  "v": "is",
+  "chunks": [
+   {"en": "The Orbital Clarity Challenge", "ko": "Orbital Clarity Challenge 대회는", "r": "주어(대회 이름)"},
+   {"en": "— the sixth in the NASA TechLeap Prize series —", "ko": "NASA TechLeap Prize 시리즈의 여섯 번째 대회인데", "r": "동격(앞 이름을 다시 설명)"},
+   {"en": "is a collaborative effort", "ko": "여러 곳이 함께 벌이는 공동 사업이다", "r": "동사 + 보어"},
+   {"en": "between NASA’s Heliophysics Division ,", "ko": "NASA의 Heliophysics Division(태양물리 부서)과", "r": "전치사구(함께하는 곳 1)"},
+   {"en": "Flight Opportunities program ,", "ko": "Flight Opportunities program(비행 기회 프로그램),", "r": "함께하는 곳 2"},
+   {"en": "and Center of Excellence for Collaborative Innovation .", "ko": "그리고 Center of Excellence for Collaborative Innovation(협업 혁신 우수 센터) 사이의", "r": "함께하는 곳 3"}
+  ],
+  "ko": "Orbital Clarity Challenge 대회는 NASA TechLeap Prize 시리즈의 여섯 번째 대회로, NASA의 Heliophysics Division(태양물리 부서)과 Flight Opportunities program(비행 기회 프로그램), 그리고 Center of Excellence for Collaborative Innovation(협업 혁신 우수 센터)이 함께 벌이는 공동 사업이다.",
+  "why": "대시(—) 두 개 사이는 앞의 대회 이름을 다시 설명하는 말(동격)이라, 그 부분을 통째로 빼면 뼈대는 'The Orbital Clarity Challenge is a collaborative effort' 하나만 남는다. between 뒤에 쉼표로 이어진 세 이름은 맞서는 편이 아니라 모두 함께 일하는 쪽이고, 셋 다 NASA 안의 조직이다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|0.1",
+  "en": "The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes.",
+  "s": "The Heliophysics Division",
+  "v": "studies",
+  "chunks": [
+   {"en": "The Heliophysics Division studies space weather,", "ko": "Heliophysics Division(태양물리 부서)은 우주 날씨를 연구한다", "r": "주어 + 동사 + 목적어"},
+   {"en": "including how it heats and expands", "ko": "그것이 어떻게 데우고 부풀리는지도 포함해서", "r": "앞 목적어를 자세히 푸는 말"},
+   {"en": "Earth’s outer atmosphere", "ko": "지구의 바깥 대기를", "r": "목적어(데우고 부풀리는 대상)"},
+   {"en": "during intense solar activity,", "ko": "태양 활동이 강할 때", "r": "시간(언제 그런가)"},
+   {"en": "creating orbital drag", "ko": "그래서 궤도 항력(공기 저항)을 만들어 내면서", "r": "분사구문(결과)"},
+   {"en": "through atmospheric density changes.", "ko": "대기 밀도가 바뀌는 것을 통해", "r": "전치사구(수단)"}
+  ],
+  "ko": "Heliophysics Division(태양물리 부서)은 우주 날씨를 연구한다. 여기에는 강한 태양 활동이 있을 때 우주 날씨가 지구 바깥 대기를 데우고 부풀려, 대기 밀도를 바꿈으로써 궤도 항력(위성이 받는 공기 저항)을 만들어 내는 과정도 들어간다.",
+  "why": "including 뒤에 how 로 시작하는 긴 절이 통째로 들어와 목적어 space weather 를 자세히 풀어 준다. it 은 그 space weather 를 받는 말이고, heats 와 expands 는 둘 다 it 이 하는 일이며 목적어도 Earth’s outer atmosphere 하나를 함께 쓴다. 맨 뒤 creating ~ 은 새 동사가 아니라 '그래서 ~을 만들어 낸다'는 결과를 나타내는 분사구문이다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|0.2",
+  "en": "The challenge calls for low-cost methods of measuring thermospheric density, pressure, or drag in low Earth orbit.",
+  "s": "The challenge",
+  "v": "calls for",
+  "chunks": [
+   {"en": "The challenge calls for", "ko": "이 대회는 ~을 요구한다(찾는다)", "r": "주어 + 동사"},
+   {"en": "low-cost methods of measuring", "ko": "적은 비용으로 측정하는 방법을", "r": "목적어(긴 명사구)"},
+   {"en": "thermospheric density, pressure, or drag", "ko": "열권의 밀도, 압력, 또는 항력을", "r": "측정 대상 나열"},
+   {"en": "in low Earth orbit.", "ko": "지구 저궤도에서", "r": "전치사구(측정하는 곳)"}
+  ],
+  "ko": "이 대회는 지구 저궤도(low Earth orbit)에서 열권(thermosphere)의 밀도나 압력, 또는 항력을 측정하는 저비용 방법을 찾고 있다.",
+  "why": "call for 는 '전화하다'가 아니라 '~을 요구하다, ~을 모집하다'이다. of measuring 뒤에 나오는 셋(density, pressure, drag)은 방법의 종류가 아니라 '재는 대상'이고, 맨 끝 in low Earth orbit 은 대회가 열리는 곳이 아니라 측정이 이루어지는 곳이다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|0.3",
+  "en": "NASA is seeking approaches that are inexpensive and scalable enough to be produced in quantity and flown as hosted payloads across the commercial fleet.",
+  "s": "NASA",
+  "v": "is seeking",
+  "chunks": [
+   {"en": "NASA is seeking approaches", "ko": "NASA는 방식을 찾고 있다", "r": "주어 + 동사 + 목적어"},
+   {"en": "that are inexpensive and scalable enough", "ko": "값이 싸고 규모를 키우기 쉬워서 ~할 만한", "r": "관계절(앞 명사 approaches 설명)"},
+   {"en": "to be produced in quantity", "ko": "많은 수로 만들어질 수 있고", "r": "정도(얼마나 그런가) · 수동"},
+   {"en": "and flown as hosted payloads", "ko": "얹혀 가는 탑재체로 실려 날 수 있을 만한", "r": "나열(수동 이어짐)"},
+   {"en": "across the commercial fleet.", "ko": "상업 우주선·위성 무리 전반에", "r": "전치사구(실려 가는 범위)"}
+  ],
+  "ko": "NASA는 값이 싸고 규모를 키우기 쉬워서, 많은 수를 만들어 상업 우주선·위성 무리 전반에 얹은 탑재체(hosted payload)로 실려 날아갈 수 있을 만한 방식을 찾고 있다.",
+  "why": "뼈대는 'NASA is seeking approaches'(NASA가 방식을 찾고 있다) 하나뿐이고, that 이하는 전부 approaches 를 설명하는 말이다. to be produced 와 (to be) flown 은 둘 다 '당하는 형태'(수동태)라 그 방식이 만들어지고 실려 나가는 쪽이지 무엇을 만들거나 날리는 쪽이 아니며, 만드는 주체는 문장에 나오지 않는다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|0.4",
+  "en": "The challenge will unfold across three phases, advancing up to four winners’ concepts to a flight-ready solution within 12 months.",
+  "s": "The challenge",
+  "v": "will unfold",
+  "chunks": [
+   {"en": "The challenge will unfold across three phases,", "ko": "이 대회는 세 단계에 걸쳐 진행될 것이다", "r": "주어 + 동사(미래) + 방식"},
+   {"en": "advancing up to four winners’ concepts", "ko": "그러면서 최대 네 우승 팀의 구상을 끌어올린다", "r": "분사구문(딸린 동작)"},
+   {"en": "to a flight-ready solution", "ko": "실제로 비행할 수 있는 해법까지", "r": "도달점(어디까지 올리나)"},
+   {"en": "within 12 months.", "ko": "12개월 안에", "r": "시간(기한)"}
+  ],
+  "ko": "이 대회는 세 단계에 걸쳐 진행되며, 그 과정에서 최대 네 우승 팀의 구상을 12개월 안에 실제로 비행할 수 있는 해법까지 끌어올린다.",
+  "why": "unfold 는 '펼쳐지다, 진행되다'라는 뜻이다. 뒤의 advancing 은 새 문장의 동사가 아니라 앞 내용에 딸린 분사구문이라 그 동작을 하는 쪽은 앞의 주어 The challenge 다. advance A to B 는 'A를 B까지 끌어올리다'라는 짜임이라, to a flight-ready solution 은 앞의 concepts 를 꾸미는 말이 아니라 끌어올리는 목표 지점이다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|0.5",
+  "en": "At the conclusion of the challenge, NASA intends to offer each winning team a test flight at no cost.",
+  "s": "NASA",
+  "v": "intends",
+  "chunks": [
+   {"en": "At the conclusion of the challenge,", "ko": "대회가 끝나는 시점에", "r": "시간"},
+   {"en": "NASA intends to offer", "ko": "NASA는 제공할 생각이다", "r": "주어 + 동사(의도)"},
+   {"en": "each winning team", "ko": "우승한 각 팀에게", "r": "받는 쪽(간접목적어)"},
+   {"en": "a test flight at no cost.", "ko": "시험 비행을 비용 없이", "r": "주는 것(직접목적어) + 조건"}
+  ],
+  "ko": "대회가 끝나는 시점에 NASA는 우승한 각 팀에게 시험 비행을 무상으로 제공할 생각이다.",
+  "why": "offer A B 는 'A에게 B를 준다'는 짜임이라, 뒤에 명사가 둘 이어 나오면 앞(each winning team)이 받는 쪽이고 뒤(a test flight)가 주는 것이다. at no cost 는 '비용 없이', 곧 공짜라는 뜻이고, conclusion 은 여기서 '결론'이 아니라 '끝, 종료'이며 intends to 는 아직 하지 않은 계획이라는 표시다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|1.0",
+  "en": "Award: Up to four winners may receive up to $500,000 in prizes across three phases",
+  "s": "Up to four winners",
+  "v": "may receive",
+  "chunks": [
+   {"en": "Award: Up to four winners may receive", "ko": "상금: 최대 네 우승 팀이 받을 수 있다", "r": "항목 이름 + 주어 + 동사"},
+   {"en": "up to $500,000 in prizes", "ko": "최대 50만 달러의 상금을", "r": "목적어(금액)"},
+   {"en": "across three phases", "ko": "세 단계에 걸쳐", "r": "범위(언제 나눠 주나)"}
+  ],
+  "ko": "상금: 최대 네 우승 팀이 세 단계에 걸쳐 최대 50만 달러의 상금을 받을 수 있다.",
+  "why": "맨 앞의 Award: 는 문장 성분이 아니라 '상금'이라는 항목 이름이고, 진짜 주어는 Up to four winners 다. up to 가 두 번 나오는데 둘 다 '최대 ~까지'라는 뜻으로 앞은 팀 수, 뒤는 금액에 붙는다. may 는 '~일지도 모른다'보다 '~을 받을 수 있다'는 자격의 뜻이다.",
+  "st": []
+ },
+ {
+  "id": "c20f3f10|2.0",
+  "en": "Phase 1 Registration Close Date: October 28, 2026",
+  "s": "",
+  "v": "",
+  "chunks": [
+   {"en": "Phase 1 Registration Close Date:", "ko": "1단계 참가 등록 마감일:", "r": "항목 이름(명사 여러 개가 겹쳐 붙음)"},
+   {"en": "October 28, 2026", "ko": "2026년 10월 28일", "r": "그 항목의 값(날짜)"}
+  ],
+  "ko": "1단계 참가 등록 마감일: 2026년 10월 28일",
+  "why": "동사가 아예 없는 표 형식의 줄이라 문장으로 읽으려 하면 안 된다. 콜론(:) 앞은 항목 이름, 뒤는 그 값이다. Close 는 '가까운'이 아니라 '마감'이고, 명사 Phase 1 · Registration · Close · Date 가 겹쳐 붙어 뒤에서부터 '날짜 ← 마감 ← 참가 등록 ← 1단계' 순으로 풀면 된다.",
+  "st": []
+ }
+]
