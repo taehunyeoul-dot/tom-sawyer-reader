@@ -1,0 +1,23 @@
+{
+ "id": "1fbbcbac",
+ "guid": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/",
+ "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
+ "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/",
+ "date": "2026-09-08",
+ "source": "NASA",
+ "paras": [
+  "High in the central tower in the ancient Cambodian temple of Angkor Wat, paintings depict horseback riders and a traditional musical ensemble. Thousands of visitors pass these images daily without noticing, because they’re faded to the point of invisibility.",
+  "They were discovered between 2010 and 2012, along with about 200 other paintings throughout the complex, by an archaeologist using a method conceived at NASA’s Jet Propulsion Laboratory in Southern California.",
+  "The technique, known as decorrelation stretch, heightens contrasts in digital imagery, making features easier to spot. It is especially popular for studying ancient rock art, partly due to the chance intersection of one man’s hobby with his professional background.",
+  "Around 2005, rock art enthusiast Jon Harman saw NASA images depicting the Martian surface with and without the application of decorrelation stretch. Seeing how much detail the technique revealed, Harman, now retired in Pacifica, California, understood the implication for studying ancient, faded images.",
+  "He also worked in medical imaging. “I Googled it and found a NASA paper that explained how to do the algorithm,” he said. “I knew from my medical imaging experience that I could do it, so I did.”",
+  "The paper was written in 1996 by Ronald Alley, a JPL employee developing applications for the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER), a Japanese imaging instrument on NASA’s Terra satellite. One of Alley’s former supervisors at JPL had coinvented decorrelation stretch, and Alley had recognized its potential for gleaning information from ASTER imagery.",
+  "Harman made his plug-in for use with ImageJ, an open-source program developed by the National Institutes of Health.",
+  "As Jon Harman was developing the Dstretch plug-in, he applied it to this image from the Cave of San Borjitas in Baja California, Mexico. When the yellow figure appeared in the middle of the picture, he knew he had something useful. Credit: Jon Harman He said he fulfills about 200 requests for Dstretch per year. Around 2010, he also created smartphone apps that use a shortcut to mimic decorrelation stretch. The apps have been downloaded thousands of times, and papers have been published describing Dstretch’s usefulness in archaeology.",
+  "It has been used to spot and clarify imagery at ancient sites under a cliff in Norway, in an Egyptian tomb, at a park in Canada, and in many other locations. It has also helped archaeologists find buried remains of ancient Greek buildings and examine tattoos on mummified human remains, among its non-rock-art applications.",
+  "Harman said he was not surprised Dstretch found wide use in the rock art community. “But I’ve been surprised by a lot of the different applications people have found. So that’s been cool.”",
+  "Details Last Updated Sep 08, 2026 Related Terms Explore More 3 min read NASA Data Helps Commercial Space Plan Living Off Our Moon Article 4 weeks ago 2 min read NASA Equips Astronauts, Industry with Robotic Intelligence Article 3 months ago 3 min read NASA-Supported Space Tech Advances Earthly Construction Article 4 months ago Keep Exploring Discover Related Topics NASA Images",
+  "Terra, the flagship of NASA’s Earth Observing System satellites, studies the interactions among Earth’s atmosphere, lands, oceans, and radiant energy,…"
+ ],
+ "words": 519
+}
