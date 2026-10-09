@@ -1,0 +1,22 @@
+{
+ "id": "9804ce0d",
+ "guid": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+ "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+ "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+ "date": "2026-10-08",
+ "source": "NASA",
+ "paras": [
+  "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris.",
+  "The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an Otter spacecraft will approach up to four inoperable space objects of U.S. origin in low Earth orbit, such as satellites and rocket bodies.",
+  "In early 2027, the Otter spacecraft, built by Starfish Space, will begin to navigate within hundreds of yards of each object to perform inspections, using autonomous guidance and control software with minimal input from ground controllers. Computer vision and sensors enable software to make real-time navigation decisions as the spacecraft approaches each target.",
+  "During inspection, the Otter spacecraft will gather critical information about each object, such as spin rate, orientation, and surface condition. An electric propulsion system will enable SSPICY to travel between objects, and an articulating robotic boom will test pointing the spacecraft’s thrusters for precise maneuvering between different orbits.",
+  "This mission is the first time these technologies will be tested together as an integrated system, paving the way for future autonomous servicing and orbital debris inspection.",
+  "During the SSPICY mission, the Otter spacecraft won’t touch or dock with any satellites, but will test the technologies needed to one day enable missions to service or repair objects in orbit, or to safely remove them by pulling them into Earth’s atmosphere for disposal.",
+  "Space objects like rocket bodies and satellites that are experiencing issues or no longer in service can break apart or collide with one another, creating varying forms of orbital debris from large fragments to small particles. With thousands of satellites launched each year to provide communications, weather forecasting, navigation, and other services that people rely on daily, keeping the space near Earth safe for operations is increasingly critical.",
+  "Starfish Space developed and operates the Otter 24C spacecraft, which is performing the SSPICY mission. NASA’s Small Spacecraft and Distributed Systems program within the agency’s Research and Technology Mission Directorate funds and manages the technology demonstration.",
+  "NASA’s Small Business Innovation Research / Small Business Technology Transfer program funded awards to Starfish Space to support early development of the spacecraft’s key technologies and capabilities.",
+  "Article 2 years ago Keep Exploring Discover More Topics From NASA Ames Research Center",
+  "NASA’s Small Spacecraft Propulsion and Inspection Capability (SSPICY)"
+ ],
+ "words": 404
+}
