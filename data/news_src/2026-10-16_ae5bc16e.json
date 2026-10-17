@@ -1,0 +1,26 @@
+{
+ "id": "ae5bc16e",
+ "guid": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+ "title": "Isaias Dims the Gulf Coast",
+ "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+ "date": "2026-10-16",
+ "source": "NASA",
+ "paras": [
+  "After a quiet start to the 2026 Atlantic hurricane season, Isaias became the season’s first hurricane on October 8 as it tracked toward the U.S. Gulf Coast. The storm brought heavy rain and flash flooding to parts of the Southeast, including Alabama and the Florida Panhandle, and winds that toppled trees and downed power lines, leaving many people in the dark.",
+  "Isaias made landfall near Destin, Florida, on the evening of October 9 as a Category 2 hurricane with maximum sustained winds of 105 miles (170 kilometers) per hour. Gusts topped 100 miles per hour along a corridor west of the storm’s center, according to the National Weather Service, with preliminary reports showing a 117-mile-per-hour gust in Oriole Beach and a 102-mile-per-hour gust at Pensacola City Hall.",
+  "These areas of high winds overlapped a broader area west of the storm’s eye where satellite images showed substantial decreases in nighttime lights. The image pair above shows nighttime lights before and after the storm. The left image is a composite of August 2026 data representing typical conditions, and the right image shows lights on October 11, after most of the storm’s clouds had cleared.",
+  "The data depicted in the images, provided by Ranjay Shrestha of NASA’s Black Marble science team , come from the Black Marble HD product. The product uses data from the VIIRS (Visible Infrared Imaging Radiometer Suite) on the NOAA-20 satellite, which has a day-night band that detects light emitted and reflected at night. The team processed the data to account for changes in the landscape, the atmosphere, and phase of the Moon, and to filter out stray light that does not come from electric lights. Dark gray, hash-marked areas show where clouds prevented VIIRS from collecting data. The nighttime lights are shown over a base map from the Landsat 9 satellite.",
+  "“Standard Black Marble nighttime lights imagery, available through NASA Worldview , provides a broad picture of the storm’s immediate impacts,” Shrestha said. “Black Marble HD takes this a step further by allowing us to visualize these changes at a much finer spatial scale.”",
+  "At these finer scales, the images reveal lights decreasing sharply around parts of Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin, suggesting widespread power disruptions. Shrestha also pointed out pockets where lights persisted, including Pensacola International Airport, Pensacola Christian College, and parts of downtown Pensacola. “These patterns could reflect backup power systems, differences in electrical infrastructure, or areas that maintained electricity during the storm, although the imagery alone cannot confirm the underlying reasons,” he said.",
+  "Black Marble HD images also reveal the pace and spatial patterns of recovery. The image pair above compares the same October 11 view (left) with one from October 12 (right), when lights had begun to return to some affected areas. By October 14, lighting patterns looked similar to pre-storm conditions. “Understanding where recovery is progressing and where disruptions persist can help emergency responders and decision makers identify areas that may require additional attention, prioritize resources, and assess the effectiveness of restoration efforts,” Shrestha said. Black Marble data complement ground-based outage reports rather than replace them, offering a more comprehensive view of disasters’ impacts and recovery. “Ultimately, this is where the value of Black Marble lies: turning nighttime Earth observations into actionable insights that support informed decisions and help bridge the gap between Earth science and action,” Shrestha said. The NASA Disasters Program, in coordination with FEMA and the USGS Coastal Storms Team, is supporting the Alabama Red Cross and the Alabama Emergency Management Agency’s response to Hurricane Isaias. The team will be posting maps and data products on its open-access mapping portal as new information becomes available.",
+  "NASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA’s Goddard Space Flight Center and Landsat data from the U.S. Geological Survey . Story by Kathryn Hansen.",
+  "Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.",
+  "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to…",
+  "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the…",
+  "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+  "Subscribe to the Earth Observatory and get the Earth in your inbox.",
+  "NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.",
+  "Open access to NASA’s archive of Earth science data"
+ ],
+ "words": 758
+}
